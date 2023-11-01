@@ -2,31 +2,36 @@
 
 # __Pedestrians__
 
+## Category to which it belongs
+
+* [People from diverse backgrounds and circumstances, including marginalized individuals, with different abilities, and in various environments.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_265.md)
+
+## Closest similar item
+
+* [Humans](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_40.md)
+* [Individual in crowded environment](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_755.md)
+* [Individuals in close proximity](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_17.md)
+* [Individuals in crowded](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1202.md)
+* [Individuals in crowded environments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_749.md)
+* [Individuals in crowded spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1594.md)
+* [Individuals in public spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_738.md)
+* [Individuals in urban areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2487.md)
+* [Particularly individuals in crowded public spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_661.md)
+* [Pedestrians and users of streets](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2331.md)
+
+## Risk affecting this stakeholder
+
+* [Inefficient navigation routes](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1231.md)
+* [Limited access to active travel options](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1446.md)
+* [Streets re-designed](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1210.md)
+
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Improved accessibility and safety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1238.md)
 * [Increased livability and sustainability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1242.md)
 
-## Category to which it belongs
+## Type of the stakeholder
 
-* [People from diverse backgrounds and circumstances, including marginalized individuals, with different abilities, and in various environments.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_215.md)
-
-## Closest similar item
-
-* [Pedestrians and users of streets](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_40.md)
-* [Individuals in public spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_755.md)
-* [Humans](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_17.md)
-* [Individuals in close proximity](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1202.md)
-* [Individuals in crowded spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_749.md)
-* [Individuals in crowded environments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1594.md)
-* [Particularly individuals in crowded public spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_738.md)
-* [Individuals in urban areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2487.md)
-* [Individuals in crowded](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_661.md)
-* [Individual in crowded environment](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2331.md)
-
-## Risk affecting this stakeholder
-
-* [Limited access to active travel options](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1210.md)
-* [Streets re-designed](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1446.md)
-* [Inefficient navigation routes](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1231.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_0.md)
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

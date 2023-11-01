@@ -2,9 +2,23 @@
 
 # __How Can Blockchain Help People in the Event of Pandemics Such as the COVID-19?__
 
+## Benefits listed in this article
+
+* [Improved efficiency of data transfer](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1166.md)
+* [Prevention of false information spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1167.md)
+* [Reduced risk of infection through contact](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1168.md)
+* [Transparency of donation process](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1169.md)
+
 ## DOI of the article
 
 10.1007/s10916-020-01577-8
+
+## List of risks in an article
+
+* [Corruption in donation process](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_848.md)
+* [Delayed infectious disease reporting](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1234.md)
+* [Risk of infection through face-to-face contact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_849.md)
+* [Spread of false information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1233.md)
 
 ## Short summary of the article
 
@@ -14,6 +28,18 @@ This research abstract discusses the potential use of blockchain technology in a
 
 There is a disease called COVID-19, which has spread all over the world really quickly. It is a very contagious disease and has caused many deaths. Scientists are using a new technology called blockchain to help fight this disease. Blockchain is a way of storing information that makes it really hard for anyone to change or cheat the information. With blockchain, doctors and authorities can quickly share information about sick people and how to treat them. It can also make donations and news about the disease more transparent and prevent false information from spreading. Blockchain can be really helpful in fighting infectious diseases like COVID-19.
 
+## This article mentions these technologies
+
+* [Blockchain technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_211.md)
+
+## This article points to following mitigation
+
+* [Prevention of false information spreading](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3430.md)
+* [Quick and accurate disease reporting](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3431.md)
+* [Reliable insurance claims](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3429.md)
+* [Risk reduction in face-to-face contact](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3432.md)
+* [Transparent donation process](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3433.md)
+
 ## Title of the article
 
 How Can Blockchain Help People in the Event of Pandemics Such as the COVID-19?
@@ -21,30 +47,4 @@ How Can Blockchain Help People in the Event of Pandemics Such as the COVID-19?
 ## Year of publication
 
 2020
-
-## Benefits listed in this article
-
-* [Improved efficiency of data transfer](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1166.md)
-* [Transparency of donation process](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1167.md)
-* [Prevention of false information spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1168.md)
-* [Reduced risk of infection through contact](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1169.md)
-
-## List of risks in an article
-
-* [Delayed infectious disease reporting](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1233.md)
-* [Spread of false information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_848.md)
-* [Risk of infection through face-to-face contact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_849.md)
-* [Corruption in donation process](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1234.md)
-
-## This article points to following mitigation
-
-* [Prevention of false information spreading](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3431.md)
-* [Quick and accurate disease reporting](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3429.md)
-* [Reliable insurance claims](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3433.md)
-* [Transparent donation process](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3430.md)
-* [Risk reduction in face-to-face contact](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3432.md)
-
-## This article mentions these technologies
-
-* [Blockchain technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_211.md)
 

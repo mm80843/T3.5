@@ -2,11 +2,11 @@
 
 # __Activities continuity__
 
+## Category to which it belongs
+
+* [Seamless flow of actions.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_328.md)
+
 ## Property: has_BP_ThemeTitle
 
 theme_Activities_continuity
-
-## Category to which it belongs
-
-* [Seamless flow of actions.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_278.md)
 

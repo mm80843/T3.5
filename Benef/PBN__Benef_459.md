@@ -2,23 +2,27 @@
 
 # __Telemedicine consultations__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Provides remote access to healthcare services, reducing the need for patients to come into hospital and minimizing the risk of exposure to the virus.
+* [COVID-19: A new digital dawn?](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_93.md)
+
+## Category to which it belongs
+
+* [Efficient and seamless remote access to healthcare, education, work, and professional connections.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_21.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Enhances patient safety, promotes social distancing, and reduces the burden on healthcare facilities.](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_496.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [COVID-19: A new digital dawn?](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_93.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [Vulnerable patients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_208.md)
+Provides remote access to healthcare services, reducing the need for patients to come into hospital and minimizing the risk of exposure to the virus.
 
 ## Risks which can benefit from this action
 
 * [Digital patient management solutions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_474.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [Vulnerable patients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_208.md)
 

@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Digital platforms facilitate virtual collaboration, communication, information sharing, and online transactions among individuals and communities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_100.md)
+* [Digital platforms facilitate virtual collaboration, communication, information sharing, and online transactions among individuals and communities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_150.md)
 
 ## Closest similar item
 
-* [Collaborative platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1130.md)
-* [Collaborative networks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1081.md)
-* [Collaboration platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_155.md)
-* [Collaboration and communication platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2038.md)
-* [Collaboration platforms and emerging technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2758.md)
-* [Online platforms and social media](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2753.md)
-* [Social-media platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1710.md)
-* [Online platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_67.md)
-* [Web-based platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1817.md)
-* [Social media platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_47.md)
+* [Collaboration and communication platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1130.md)
+* [Collaboration platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1081.md)
+* [Collaboration platforms and emerging technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_155.md)
+* [Collaborative networks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2038.md)
+* [Collaborative platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2758.md)
+* [Online platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2753.md)
+* [Online platforms and social media](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1710.md)
+* [Social media platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_67.md)
+* [Social-media platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1817.md)
+* [Web-based platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_47.md)
 
 ## This Technology enables the following mitigations
 

@@ -2,25 +2,17 @@
 
 # __Misinformation and ’infodemic’__
 
+## Articles mentionning the risk
+
+* [Psychological Effects of Home Confinement and Social Distancing Derived from COVID-19 in the General Population—A Systematic Review](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_126.md)
+
 ## Description of the risk
 
 The excessive amount of information, including fake news and conspiracy theories, about the pandemic can lead to confusion, mistrust, and increased anxiety and stress among the general population.
 
-## Type of the risk
-
-* [Mental](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_1.md)
-
 ## Is the risk affecting GBN scales
 
 * [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
-
-## Type of impact of the risk (according to ISO37100)
-
-* [Innovation, creativity and research](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_2.md)
-
-## Type of purpose of the risk (according to ISO37100)
-
-* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
 
 ## Mitigations of this risk
 
@@ -30,27 +22,35 @@ The excessive amount of information, including fake news and conspiracy theories
 
 Increased anxiety, stress, and fear; difficulty in discerning reliable information; decreased trust in public health measures.
 
-## Stakeholders who can mitigate this risk
-
-* [Public health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_222.md)
-* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
-* [Media organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_545.md)
-* [Social media platforms](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_554.md)
-
-## Articles mentionning the risk
-
-* [Psychological Effects of Home Confinement and Social Distancing Derived from COVID-19 in the General Population—A Systematic Review](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_126.md)
-
 ## People affected by this risk
 
 * [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
 * [Particularly those who rely heavily on social media for information](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1336.md)
 
+## Stakeholders who can mitigate this risk
+
+* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_222.md)
+* [Media organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
+* [Public health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_554.md)
+* [Social media platforms](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_545.md)
+
 ## Technologies linked to the risk
 
-* [Fact-checking websites and organizations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1435.md)
-* [Public health campaigns to promote reliable information](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1436.md)
-* [Collaborations with social media platforms to combat misinformation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1437.md)
+* [Collaborations with social media platforms to combat misinformation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1435.md)
+* [Fact-checking websites and organizations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1436.md)
+* [Public health campaigns to promote reliable information](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1437.md)
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Innovation, creativity and research](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_2.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
+
+## Type of the risk
+
+* [Mental](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_1.md)
 
 ## Property: has_RiskType
 

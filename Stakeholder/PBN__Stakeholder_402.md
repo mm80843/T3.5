@@ -2,24 +2,28 @@
 
 # __Public and healthcare systems__
 
+## Category to which it belongs
+
+* [The various individuals and entities involved in the provision and administration of healthcare services and systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_240.md)
+
+## Closest similar item
+
+* [Healthcare system](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_193.md)
+* [Healthcare systems](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_70.md)
+* [Public and healthcare settings](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_397.md)
+* [Public health](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_440.md)
+* [Public health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_513.md)
+* [Public health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_58.md)
+* [Public health officials](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_310.md)
+* [Public health sector/government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_222.md)
+* [Public-health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_0.md)
+* [Public-health agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1842.md)
+
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Containment of pandemics](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1008.md)
 
-## Category to which it belongs
+## Type of the stakeholder
 
-* [The various individuals and entities involved in the provision and administration of healthcare services and systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_190.md)
-
-## Closest similar item
-
-* [Healthcare systems](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_193.md)
-* [Healthcare system](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_70.md)
-* [Public health sector/government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_397.md)
-* [Public and healthcare settings](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_440.md)
-* [Public-health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_513.md)
-* [Public health](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_58.md)
-* [Public health officials](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_310.md)
-* [Public health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_222.md)
-* [Public health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_0.md)
-* [Public-health agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1842.md)
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_0.md)
 

@@ -4,49 +4,49 @@
 
 ## Category to which it belongs
 
-* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_116.md)
+* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_166.md)
 
 ## Closest similar item
 
-* [Open windows](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3124.md)
-* [Access to windows](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2462.md)
-* [Opening windows](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2457.md)
-* [Operable windows](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3312.md)
-* [Smart windows](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3716.md)
-* [Computers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3464.md)
-* [Openable windows](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1746.md)
-* [Windows with views](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1009.md)
-* [Provide large windows](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1262.md)
-* [Software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3537.md)
-
-## This Technology belongs to this TechGroup
-
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2164.md)
-* [Building materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2255.md)
-
-## This technology is mentioned by
-
-* [Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_282.md)
-* [Adaptive Design of the Built Environment to Mitigate the Transmission Risk of COVID-19](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_151.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Lighting solutions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2123.md)
-* [Building systems and design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2135.md)
-
-## This Technology enables the following mitigations
-
-* [Improved ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_476.md)
-* [Ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_627.md)
-* [Natural ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3237.md)
-* [Daylighting](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3238.md)
-* [Opening windows for increased ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3587.md)
-* [Window views, spatial variety and privacy](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4502.md)
-* [Opening presence for air circulation and sun exposure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4108.md)
-* [Natural ventilation through window openings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4109.md)
+* [Access to windows](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3124.md)
+* [Computers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2462.md)
+* [Open windows](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2457.md)
+* [Openable windows](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3312.md)
+* [Opening windows](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3716.md)
+* [Operable windows](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3464.md)
+* [Provide large windows](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1746.md)
+* [Smart windows](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1009.md)
+* [Software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1262.md)
+* [Windows with views](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3537.md)
 
 ## Risks linked to this technology
 
-* [Lack of natural light](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1786.md)
-* [Inadequate natural light](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1087.md)
+* [Inadequate natural light](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1786.md)
+* [Lack of natural light](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1087.md)
+
+## This Technology belongs to this TechGroup
+
+* [Building materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2164.md)
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2255.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Building systems and design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2135.md)
+* [Lighting solutions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2123.md)
+
+## This Technology enables the following mitigations
+
+* [Daylighting](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3238.md)
+* [Improved ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4108.md)
+* [Natural ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_476.md)
+* [Natural ventilation through window openings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_627.md)
+* [Opening presence for air circulation and sun exposure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3237.md)
+* [Opening windows for increased ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4502.md)
+* [Ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4109.md)
+* [Window views, spatial variety and privacy](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3587.md)
+
+## This technology is mentioned by
+
+* [Adaptive Design of the Built Environment to Mitigate the Transmission Risk of COVID-19](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_151.md)
+* [Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_282.md)
 

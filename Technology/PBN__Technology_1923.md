@@ -4,26 +4,26 @@
 
 ## Category to which it belongs
 
-* [Enhancement of knowledge and skills through resources, initiatives, programs, and proper utilization of personnel for various purposes.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_128.md)
+* [Enhancement of knowledge and skills through resources, initiatives, programs, and proper utilization of personnel for various purposes.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_178.md)
 
 ## Closest similar item
 
-* [Reliable sources of information](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_580.md)
-* [Reliable information sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1994.md)
-* [Reliable sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1860.md)
-* [Public education](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_802.md)
-* [Reliable news sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1125.md)
-* [Credible sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3287.md)
-* [Public education and awareness](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1870.md)
-* [Trusted sources certification](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_936.md)
-* [Reliable research](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2910.md)
-* [Public education programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1545.md)
-
-## This technology is mentioned by
-
-* [Rise of the preprint: how rapid data sharing during COVID-19 has changed science forever](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_173.md)
+* [Credible sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_580.md)
+* [Public education](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1994.md)
+* [Public education and awareness](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1860.md)
+* [Public education programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_802.md)
+* [Reliable information sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1125.md)
+* [Reliable news sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3287.md)
+* [Reliable research](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1870.md)
+* [Reliable sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_936.md)
+* [Reliable sources of information](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2910.md)
+* [Trusted sources certification](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1545.md)
 
 ## Risks linked to this technology
 
 * [Misuse of preprints by media and bad-faith actors](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2305.md)
+
+## This technology is mentioned by
+
+* [Rise of the preprint: how rapid data sharing during COVID-19 has changed science forever](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_173.md)
 

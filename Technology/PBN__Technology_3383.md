@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_119.md)
+* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_169.md)
 
 ## Closest similar item
 
-* [Technology infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3265.md)
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2164.md)
-* [Digital infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3269.md)
-* [Network infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2174.md)
-* [Smart infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3088.md)
+* [Digital infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3265.md)
+* [Improved infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2164.md)
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3269.md)
+* [Infrastructure and resource management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2174.md)
+* [Infrastructure development](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3088.md)
 * [Infrastructure support](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2351.md)
-* [Infrastructure development](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_76.md)
-* [Infrastructure and resource management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2183.md)
-* [Telecommunication infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3741.md)
-* [Improved infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_669.md)
+* [Network infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_76.md)
+* [Smart infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2183.md)
+* [Technology infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3741.md)
+* [Telecommunication infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_669.md)
 
 ## This Technology enables the following mitigations
 

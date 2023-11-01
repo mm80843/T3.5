@@ -2,24 +2,28 @@
 
 # __Enhanced accuracy of quantification__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Developing better controls can improve the accuracy of quantifying SARS-CoV-2 in sewage samples, providing more reliable data for epidemiological surveillance
+* [Presence of SARS-Coronavirus-2 RNA in Sewage and Correlation with Reported COVID-19 Prevalence in the Early Stage of the Epidemic in The Netherlands](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_1.md)
+
+## Category to which it belongs
+
+* [Enhanced quantification, retrofitting of models, improved decision-making, cybersecurity, coordination, and testing efficiency for improved accuracy and awareness.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_5.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Private investors in control development can benefit from increased demand for control materials and technologies.](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_6.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [Presence of SARS-Coronavirus-2 RNA in Sewage and Correlation with Reported COVID-19 Prevalence in the Early Stage of the Epidemic in The Netherlands](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_1.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
-* [Laboratories](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_5.md)
+Developing better controls can improve the accuracy of quantifying SARS-CoV-2 in sewage samples, providing more reliable data for epidemiological surveillance
 
 ## Risks which can benefit from this action
 
 * [Improved controls for monitoring virus recovery efficiency](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [Laboratories](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
+* [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_5.md)
 

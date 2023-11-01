@@ -1,44 +1,12 @@
 [Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_218 
 
-# __Different demographic groups, ranging from children to older adults, including migrants and minorities, with a focus on vulnerable families and children.__
+# __Manage the allocation of users to different shifts for optimal occupancy control.__
 
 ## Items covered in this category
 
-* [Young people](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_264.md)
-* [Age and gender](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2234.md)
-* [Males and females](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1418.md)
-* [Women and young children](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_519.md)
-* [Vulnerable families](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_580.md)
-* [Families](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_578.md)
-* [Children](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_62.md)
-* [Child](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2269.md)
-* [Particularly children](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_918.md)
-* [Kindergartens](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1177.md)
-* [Youth](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_489.md)
-* [Children of immigrants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1247.md)
-* [Parents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_104.md)
-* [Including children](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_820.md)
-* [Older adults](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_461.md)
-* [Older people](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_107.md)
-* [Older person](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2113.md)
-* [Older adult](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2105.md)
-* [Younger age groups](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1334.md)
-* [Migrants and minorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2264.md)
-* [Racial minorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_486.md)
-* [Vulnerable family](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2298.md)
-* [Women and children in developing countries](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1350.md)
-* [Woman and child in developing country](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2172.md)
-* [Young person](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2115.md)
-* [Younger age group](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2168.md)
-* [Age groups](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2465.md)
-* [Newborns](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_433.md)
-* [All age groups](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_327.md)
-* [All age group](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2478.md)
-* [Kindergarten](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1640.md)
-* [Large families](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_449.md)
-* [Racial and ethnic minorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_659.md)
-* [Racial and ethnic minority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2304.md)
-* [Child of immigrant](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2153.md)
-* [Age-specific concerns](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2313.md)
-* [Particularly child](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2318.md)
+* [Shift controls (occupancy control of total users)](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_19.md)
+
+## Title of the category
+
+This category of Interventions describes measures taken to control the occupancy levels of total users in a given space. These interventions involve implementing strategies or technologies to manage and regulate the number of individuals present in a building or area at any given time. The purpose of these measures is to prevent overcrowding and maintain a safe and comfortable environment, particularly in green buildings and neighborhoods.
 

@@ -4,20 +4,27 @@
 
 ## Category to which it belongs
 
-* [Individuals within the built environment, including building designers, architects, construction workers, and building occupants and managers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_208.md)
+* [Individuals within the built environment, including building designers, architects, construction workers, and building occupants and managers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_258.md)
 
 ## Closest similar item
 
-* [Occupants of buildings](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_914.md)
-* [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
-* [Occupants in the building](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_165.md)
-* [Occupants of the building](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_140.md)
-* [Building occupants in all types of buildings](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_652.md)
-* [Specific building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1909.md)
-* [Building occupants and management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_78.md)
-* [Building occupants and researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_909.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_914.md)
+* [Building occupants and management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
+* [Building occupants and researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_165.md)
+* [Building occupants in all types of buildings](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_140.md)
+* [Building owners and occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_652.md)
+* [Occupants in the building](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1909.md)
+* [Occupants of buildings](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_78.md)
+* [Occupants of the building](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_909.md)
 * [People in residential and commercial buildings](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1531.md)
-* [Building owners and occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_143.md)
+* [Specific building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_143.md)
+
+## Risk affecting this stakeholder
+
+* [General health risks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2200.md)
+* [Increased energy usage](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_279.md)
+* [Virus propagation risks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_613.md)
+* [Waste management](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2201.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -27,10 +34,7 @@
 
 * [Specific building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1909.md)
 
-## Risk affecting this stakeholder
+## Type of the stakeholder
 
-* [General health risks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2200.md)
-* [Virus propagation risks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_279.md)
-* [Increased energy usage](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2201.md)
-* [Waste management](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_613.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

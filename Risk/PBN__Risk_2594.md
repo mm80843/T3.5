@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Interoperability challenges, high costs, limited communication, and lack of resources impact various sectors globally.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_22.md)
+* [Interoperability challenges, high costs, limited communication, and lack of resources impact various sectors globally.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_72.md)
 
 ## Closest similar item
 
-* [Timeliness of information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3232.md)
+* [Delays in project activities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3232.md)
 * [Lack of dynamic and timely information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2789.md)
-* [Slowed development, lack of progress](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3202.md)
-* [Lack of timely information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2860.md)
-* [Lack of historical data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1097.md)
-* [Lack of timely information and evidence](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2754.md)
-* [Lack of effective technical systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1190.md)
-* [Delays in project activities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1513.md)
-* [Lack of real-time information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3157.md)
-* [Project delays](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_554.md)
+* [Lack of effective technical systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3202.md)
+* [Lack of historical data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2860.md)
+* [Lack of real-time information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1097.md)
+* [Lack of timely information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2754.md)
+* [Lack of timely information and evidence](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1190.md)
+* [Project delays](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1513.md)
+* [Slowed development, lack of progress](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3157.md)
+* [Timeliness of information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_554.md)
 
 ## Mitigations of this risk
 

@@ -4,26 +4,26 @@
 
 ## Category to which it belongs
 
-* [Improved indoor air quality and temperature control through advanced hvac technologies, air purifiers, and monitoring systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_129.md)
+* [Improved indoor air quality and temperature control through advanced hvac technologies, air purifiers, and monitoring systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_179.md)
 
 ## Closest similar item
 
-* [Outdoor air monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1747.md)
-* [Air quality monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1248.md)
-* [Indoor air quality sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1485.md)
+* [Air quality monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1747.md)
+* [Air quality monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1248.md)
+* [Air quality monitors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1485.md)
 * [Environmental and outdoor monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2137.md)
-* [Meteorological monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_747.md)
-* [Air quality monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1290.md)
-* [Environmental monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_705.md)
-* [Indoor air technlogies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2292.md)
-* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2238.md)
-* [Air quality monitors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1980.md)
-
-## This technology is mentioned by
-
-* [Mechanistic insights into the effect of humidity on airborne influenza virus survival, transmission and incidence](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_54.md)
+* [Environmental monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_747.md)
+* [Indoor air quality sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1290.md)
+* [Indoor air technlogies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_705.md)
+* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2292.md)
+* [Meteorological monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2238.md)
+* [Outdoor air monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1980.md)
 
 ## Risks linked to this technology
 
 * [Impact of indoor and outdoor conditions on influenza seasonality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1694.md)
+
+## This technology is mentioned by
+
+* [Mechanistic insights into the effect of humidity on airborne influenza virus survival, transmission and incidence](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_54.md)
 

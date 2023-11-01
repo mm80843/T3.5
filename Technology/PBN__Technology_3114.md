@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Innovations and applications in chemistry, materials, and technology for purification, disinfection, and environmental protection.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_146.md)
+* [Innovations and applications in chemistry, materials, and technology for purification, disinfection, and environmental protection.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_196.md)
 
 ## Closest similar item
 
-* [High temperature steam](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3774.md)
-* [Steam sterilization](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1049.md)
-* [Portable air cleaners](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2266.md)
-* [Sealing technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3721.md)
-* [Commercial vendors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2702.md)
-* [Air cleaner](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2797.md)
+* [Air cleaner](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3774.md)
+* [Air extractors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1049.md)
+* [Commercial vendors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2266.md)
+* [High temperature steam](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3721.md)
+* [Personalized air supply devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2702.md)
+* [Portable air cleaners](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2797.md)
 * [Portable air cleaners pac](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3873.md)
-* [Use of portable air cleaners](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_677.md)
-* [Air extractors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3644.md)
-* [Personalized air supply devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2507.md)
+* [Sealing technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_677.md)
+* [Steam sterilization](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3644.md)
+* [Use of portable air cleaners](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2507.md)
 
 ## This Technology enables the following mitigations
 

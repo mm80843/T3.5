@@ -4,18 +4,18 @@
 
 ## Category to which it belongs
 
-* [The spread of disease through direct and indirect contact in various environments and social settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_32.md)
+* [The spread of disease through direct and indirect contact in various environments and social settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_82.md)
 
 ## Closest similar item
 
-* [Transmission from infected individuals](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3273.md)
-* [Transmission of infection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2772.md)
+* [Contagious disease transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3273.md)
+* [Disease transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2772.md)
 * [Infectious disease transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_942.md)
-* [Transmission of pathogens](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2475.md)
+* [Transmission from infected individuals](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2475.md)
 * [Transmission of disease](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2725.md)
-* [Disease transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_489.md)
-* [Transmission of the disease](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3250.md)
-* [Contagious disease transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1021.md)
+* [Transmission of infection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_489.md)
+* [Transmission of pathogens](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3250.md)
+* [Transmission of the disease](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1021.md)
 * [Transmission of the virus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2821.md)
 * [Virus transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2490.md)
 

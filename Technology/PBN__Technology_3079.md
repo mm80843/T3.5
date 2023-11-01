@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Combatting malaria and mitigating its impact through various means such as drugs, deterrents, treatments, surveillance, alternative materials, and pest control.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_149.md)
+* [Combatting malaria and mitigating its impact through various means such as drugs, deterrents, treatments, surveillance, alternative materials, and pest control.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_199.md)
 
 ## Closest similar item
 
 * [Auto-dissemination of insecticides](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_978.md)
-* [Insecticides](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3823.md)
-* [Pest control measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3276.md)
-* [Development of new insecticides](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1947.md)
+* [Development of new insecticides](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3823.md)
+* [Indoor plants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3276.md)
+* [Insecticides](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1947.md)
 * [Integrated pest management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1211.md)
-* [Plants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3763.md)
-* [Indoor plants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1610.md)
+* [Pest control measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3763.md)
+* [Pesticides](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1610.md)
 * [Plant installations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3717.md)
-* [Pesticides](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3421.md)
-* [Planting trees](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_972.md)
+* [Planting trees](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3421.md)
+* [Plants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_972.md)
 
 ## This Technology enables the following mitigations
 

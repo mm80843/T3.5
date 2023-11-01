@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Innovative, green, and biodegradable materials used in construction, soundproofing, insulation, and education promote sustainability and safety.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_125.md)
+* [Innovative, green, and biodegradable materials used in construction, soundproofing, insulation, and education promote sustainability and safety.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_175.md)
 
 ## Closest similar item
 
-* [Eco-friendly materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2012.md)
-* [Sustainable materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3440.md)
-* [Advanced materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_180.md)
-* [Natural materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3390.md)
-* [Living materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3887.md)
-* [Suitable materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2657.md)
-* [Green sustainable materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3850.md)
+* [Advanced materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2012.md)
+* [Better materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3440.md)
+* [Building material technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_180.md)
+* [Eco-friendly materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3390.md)
+* [Green sustainable materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3887.md)
+* [Living materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2657.md)
+* [Natural materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3850.md)
 * [Recycled materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3883.md)
-* [Building material technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1107.md)
-* [Better materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2014.md)
+* [Suitable materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1107.md)
+* [Sustainable materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2014.md)
 
 ## This Technology enables the following mitigations
 

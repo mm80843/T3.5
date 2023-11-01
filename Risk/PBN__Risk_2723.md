@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The risks of unauthorized access, misuse, corruption, and breaches in data security and privacy are widespread.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_27.md)
+* [The risks of unauthorized access, misuse, corruption, and breaches in data security and privacy are widespread.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_77.md)
 
 ## Closest similar item
 
-* [Data security breaches](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2077.md)
+* [Breach of confidentiality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2077.md)
 * [Data breaches](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3359.md)
-* [Potential data breaches](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2498.md)
-* [Privacy breach](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3247.md)
-* [Data breaches, technological limitations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3022.md)
-* [Potential breach of privacy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2637.md)
-* [Data breaches, scalability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2946.md)
-* [Data privacy and security](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2286.md)
-* [Breach of confidentiality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3319.md)
-* [Data security and privacy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3222.md)
+* [Data breaches, scalability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2498.md)
+* [Data breaches, technological limitations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3247.md)
+* [Data privacy and security](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3022.md)
+* [Data security and privacy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2637.md)
+* [Data security breaches](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2946.md)
+* [Potential breach of privacy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2286.md)
+* [Potential data breaches](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3319.md)
+* [Privacy breach](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3222.md)
 
 ## Mitigations of this risk
 

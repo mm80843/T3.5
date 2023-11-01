@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The interconnectedness of global economics has led to financial instability, unemployment, poverty, and decreased investment in certain sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_12.md)
+* [The interconnectedness of global economics has led to financial instability, unemployment, poverty, and decreased investment in certain sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_62.md)
 
 ## Closest similar item
 
 * [Economic impact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_124.md)
-* [Economic impacts, social impacts](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2875.md)
-* [Impact on economy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1584.md)
-* [Financial impacts](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_553.md)
-* [Financial impact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_599.md)
+* [Economic impact, mobility restrictions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2875.md)
+* [Economic impacts, compliance issues](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1584.md)
+* [Economic impacts, shortage of essential goods](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_553.md)
+* [Economic impacts, social impacts](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_599.md)
 * [Environmental impact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_748.md)
-* [Economic impacts, shortage of essential goods](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2878.md)
-* [Negative effects on the economy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1773.md)
-* [Economic impacts, compliance issues](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3117.md)
-* [Economic impact, mobility restrictions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2733.md)
+* [Financial impact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2878.md)
+* [Financial impacts](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1773.md)
+* [Impact on economy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3117.md)
+* [Negative effects on the economy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2733.md)
 
 ## Mitigations of this risk
 

@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Promote equitable and sustainable urban development with adequate housing, improved infrastructure, and increased access to essential services.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_67.md)
+* [Promote equitable and sustainable urban development with adequate housing, improved infrastructure, and increased access to essential services.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_117.md)
 
 ## Closest similar item
 
-* [Investment in improving housing conditions and infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1501.md)
-* [Retrofits](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3724.md)
-* [Green retrofit of buildings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_423.md)
-* [Retrofitting existing buildings with containment space, additional wet cells, and compartmentalization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_274.md)
-* [Improve housing conditions, invest in the development of affordable and high-quality housing.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1521.md)
-* [Upgrading site facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4585.md)
-* [Improvement of infrastructure and housing design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3201.md)
-* [Retrofitting](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3147.md)
-* [Improved building environment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_276.md)
-* [Upgrade and maintain urban green spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_460.md)
+* [Green retrofit of buildings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1501.md)
+* [Improve housing conditions, invest in the development of affordable and high-quality housing.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3724.md)
+* [Improved building environment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_423.md)
+* [Improvement of infrastructure and housing design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_274.md)
+* [Investment in improving housing conditions and infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1521.md)
+* [Retrofits](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4585.md)
+* [Retrofitting](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3201.md)
+* [Retrofitting existing buildings with containment space, additional wet cells, and compartmentalization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3147.md)
+* [Upgrade and maintain urban green spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_276.md)
+* [Upgrading site facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_460.md)
 
 ## Risks possibly mitigated by this Mitigation
 

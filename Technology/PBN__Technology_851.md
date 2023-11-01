@@ -4,28 +4,29 @@
 
 ## Category to which it belongs
 
-* [Innovations and applications in chemistry, materials, and technology for purification, disinfection, and environmental protection.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_146.md)
+* [Innovations and applications in chemistry, materials, and technology for purification, disinfection, and environmental protection.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_196.md)
 
 ## Closest similar item
 
-* [Alcohols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_849.md)
-* [62-71% ethanol solution](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2684.md)
-* [Alcohol-based hand rubs 80% ethanol](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2940.md)
-* [Alcohol-based disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2897.md)
-* [Substrate](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3097.md)
-* [Acetone](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2874.md)
-* [Alcohol-based hand sanitizer](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2690.md)
-* [Water](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2480.md)
-* [Improved biomass fuels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1482.md)
-* [Use of alcohol-based hand sanitizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_503.md)
+* [62-71% ethanol solution](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_849.md)
+* [Acetone](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2684.md)
+* [Alcohol-based disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2940.md)
+* [Alcohol-based hand rubs 80% ethanol](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2897.md)
+* [Alcohol-based hand sanitizer](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3097.md)
+* [Alcohols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2874.md)
+* [Improved biomass fuels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2690.md)
+* [Substrate](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2480.md)
+* [Use of alcohol-based hand sanitizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1482.md)
+* [Water](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_503.md)
+
+## Risks linked to this technology
+
+* [Inactivation of coronaviruses by biocidal agents in carrier tests](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1538.md)
+* [Inactivation of coronaviruses by biocidal agents in suspension tests](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1537.md)
 
 ## This Technology belongs to this TechGroup
 
 * [Biology techs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2274.md)
-
-## This technology is mentioned by
-
-* [Persistence of coronaviruses on inanimate surfaces and their inactivation with biocidal agents](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_233.md)
 
 ## This Technology belongs to this TechSubgroup
 
@@ -36,8 +37,7 @@
 * [Cleaning and disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3919.md)
 * [Surface disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1130.md)
 
-## Risks linked to this technology
+## This technology is mentioned by
 
-* [Inactivation of coronaviruses by biocidal agents in carrier tests](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1538.md)
-* [Inactivation of coronaviruses by biocidal agents in suspension tests](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1537.md)
+* [Persistence of coronaviruses on inanimate surfaces and their inactivation with biocidal agents](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_233.md)
 

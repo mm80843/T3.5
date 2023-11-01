@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Promoting sustainability through clean energy infrastructure, smart technologies, and efficient energy management.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_123.md)
+* [Promoting sustainability through clean energy infrastructure, smart technologies, and efficient energy management.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_173.md)
 
 ## Closest similar item
 
-* [Microgrids](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_929.md)
-* [Smart grid technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_924.md)
-* [Renewable energy technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_353.md)
-* [Smart grid systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_352.md)
-* [Grid optimization technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_868.md)
-* [Hvac technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_489.md)
+* [Energy storage systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_929.md)
+* [Grid optimization technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_924.md)
+* [Hvac technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_353.md)
+* [Hvac technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_352.md)
+* [Microgrids](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_868.md)
+* [Renewable energy](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_489.md)
 * [Renewable energy sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_864.md)
-* [Energy storage systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1763.md)
-* [Renewable energy](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_532.md)
-* [Hvac technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1829.md)
+* [Renewable energy technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1763.md)
+* [Smart grid systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_532.md)
+* [Smart grid technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1829.md)
 
 ## This Technology enables the following mitigations
 

@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The spread of diseases through various means such as air, contact, surfaces, and bodily fluids.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_45.md)
+* [The spread of diseases through various means such as air, contact, surfaces, and bodily fluids.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_95.md)
 
 ## Closest similar item
 
-* [Respiratory droplet transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2727.md)
-* [Transmission through respiratory droplets](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1365.md)
-* [Transmission via respiratory droplets](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1718.md)
+* [Airborne transmission of respiratory particles](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2727.md)
+* [Contamination, transmission through respiratory droplets](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1365.md)
+* [Influenza transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1718.md)
 * [Respiratory](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3346.md)
-* [Airborne transmission of respiratory particles](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3004.md)
-* [Contamination, transmission through respiratory droplets](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2458.md)
-* [Transmission of diseases through air](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1119.md)
-* [Transmission in poorly ventilated rooms](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2839.md)
-* [Influenza transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_215.md)
-* [Respiratory illnesses](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2862.md)
+* [Respiratory droplet transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3004.md)
+* [Respiratory illnesses](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2458.md)
+* [Transmission in poorly ventilated rooms](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1119.md)
+* [Transmission of diseases through air](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2839.md)
+* [Transmission through respiratory droplets](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_215.md)
+* [Transmission via respiratory droplets](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2862.md)
 
 ## Mitigations of this risk
 

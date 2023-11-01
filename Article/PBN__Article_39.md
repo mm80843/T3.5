@@ -2,9 +2,23 @@
 
 # __Multilevel Analysis of Personal, Non-Medical COVID-19-Related Impact Worldwide__
 
+## Benefits listed in this article
+
+* [Early detection and treatment](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_180.md)
+* [Identification of high prevalence areas](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_181.md)
+* [Increased access to specialist care](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_182.md)
+* [Timely treatment and intervention](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_183.md)
+
 ## DOI of the article
 
 10.1016/j.annepidem.2020.08.060
+
+## List of risks in an article
+
+* [High hiv prevalence in men](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1337.md)
+* [High hiv prevalence in women](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1338.md)
+* [Rural-urban disparities in access to gynecologic oncologist treatment for ovarian cancer](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1339.md)
+* [Spatial variation in hiv prevalence](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1340.md)
 
 ## Short summary of the article
 
@@ -16,6 +30,29 @@ This is a study that looked at HIV prevalence in different provinces in South Af
 
 Another study looked at how women in rural areas in the Midwestern part of the United States get surgery for ovarian cancer. They found that women in rural areas were less likely to get surgery from a specialist doctor called a gynecologic oncologist. They were also less likely to be referred to a specialist in the first place. However, when they did get surgery from a specialist, they had better outcomes like more complete tumor removal. This study shows that there are differences in how women in rural and urban areas are treated for ovarian cancer, and more research is needed to figure out why and how to make sure everyone gets the best care possible.
 
+## This article mentions these technologies
+
+* [Geographic information systems gis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_73.md)
+* [Mobile healthcare clinics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
+* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_279.md)
+* [Remote sensing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_540.md)
+* [Spatial analysis tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_539.md)
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_541.md)
+* [Transportation services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_542.md)
+
+## This article points to following mitigation
+
+* [Cancer surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3626.md)
+* [Cytoreduction](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_160.md)
+* [Descriptive statistics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3618.md)
+* [Guideline recommendations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3621.md)
+* [Local moran’s i statistic](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3619.md)
+* [Multilevel logistic regression](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3620.md)
+* [Multivariable adjusted logistic regression](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3622.md)
+* [Spatial analysis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3623.md)
+* [Standardized questionnaires](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3624.md)
+* [Voluntary hiv testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3625.md)
+
 ## Title of the article
 
 Multilevel Analysis of Personal, Non-Medical COVID-19-Related Impact Worldwide
@@ -23,41 +60,4 @@ Multilevel Analysis of Personal, Non-Medical COVID-19-Related Impact Worldwide
 ## Year of publication
 
 2020
-
-## Benefits listed in this article
-
-* [Identification of high prevalence areas](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_180.md)
-* [Early detection and treatment](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_181.md)
-* [Increased access to specialist care](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_182.md)
-* [Timely treatment and intervention](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_183.md)
-
-## List of risks in an article
-
-* [High hiv prevalence in women](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1337.md)
-* [High hiv prevalence in men](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1338.md)
-* [Spatial variation in hiv prevalence](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1339.md)
-* [Rural-urban disparities in access to gynecologic oncologist treatment for ovarian cancer](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1340.md)
-
-## This article points to following mitigation
-
-* [Spatial analysis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_160.md)
-* [Voluntary hiv testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3618.md)
-* [Cytoreduction](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3626.md)
-* [Multilevel logistic regression](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3619.md)
-* [Standardized questionnaires](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3620.md)
-* [Descriptive statistics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3621.md)
-* [Local moran’s i statistic](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3622.md)
-* [Guideline recommendations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3623.md)
-* [Multivariable adjusted logistic regression](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3624.md)
-* [Cancer surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3625.md)
-
-## This article mentions these technologies
-
-* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
-* [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_73.md)
-* [Mobile healthcare clinics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_541.md)
-* [Transportation services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_542.md)
-* [Remote sensing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_279.md)
-* [Geographic information systems gis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_539.md)
-* [Spatial analysis tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_540.md)
 

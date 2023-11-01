@@ -4,23 +4,23 @@
 
 ## Category to which it belongs
 
-* [The consequences of social distancing include inconsistent recommendations, environmental degradation, prolonged isolation, and social inequalities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_4.md)
+* [The consequences of social distancing include inconsistent recommendations, environmental degradation, prolonged isolation, and social inequalities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_54.md)
 
 ## Closest similar item
 
-* [Social inequities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2855.md)
+* [Lack of social interaction](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2855.md)
 * [Mental health issues](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1382.md)
-* [Social unrest](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1991.md)
-* [Psychological impacts and social tensions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1074.md)
-* [Societal issues and the human factor](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2073.md)
-* [Socializing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3286.md)
-* [Social disparities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2660.md)
-* [Lack of social interaction](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1869.md)
-* [Psychological problems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1458.md)
-* [Psychological tensions and social conflicts](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_526.md)
+* [Psychological impacts and social tensions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1991.md)
+* [Psychological problems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1074.md)
+* [Psychological tensions and social conflicts](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2073.md)
+* [Social disparities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3286.md)
+* [Social inequities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2660.md)
+* [Social unrest](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1869.md)
+* [Socializing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1458.md)
+* [Societal issues and the human factor](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_526.md)
 
 ## Mitigations of this risk
 
-* [Telecommuting](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_534.md)
-* [Online learning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_981.md)
+* [Online learning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_534.md)
+* [Telecommuting](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_981.md)
 

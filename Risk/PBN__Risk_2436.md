@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The challenges of urban inequality, parameter identification, noise pollution, waste, and delayed decision making have resulted in increased inequalities and exclusion, posing numerous issues for governance and scalability.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_14.md)
+* [The challenges of urban inequality, parameter identification, noise pollution, waste, and delayed decision making have resulted in increased inequalities and exclusion, posing numerous issues for governance and scalability.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_64.md)
 
 ## Closest similar item
 
-* [Inefficient integration and analysis](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2686.md)
-* [Lack of coordination and integration](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_403.md)
+* [Addressing fundamental problems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2686.md)
+* [Challenges of new](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_403.md)
 * [Data acquisition and integration](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1095.md)
-* [Addressing fundamental problems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2838.md)
-* [Infrastructure challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1904.md)
-* [Lack of interoperability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_901.md)
+* [Incomplete infrastructure, coordination challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2838.md)
+* [Inefficient integration and analysis](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1904.md)
+* [Infrastructure challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_901.md)
 * [Interoperability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2105.md)
-* [Incomplete infrastructure, coordination challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2597.md)
-* [Security challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2070.md)
-* [Challenges of new](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_902.md)
+* [Lack of coordination and integration](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2597.md)
+* [Lack of interoperability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2070.md)
+* [Security challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_902.md)
 
 ## Mitigations of this risk
 

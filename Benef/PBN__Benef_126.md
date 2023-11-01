@@ -2,23 +2,27 @@
 
 # __Enhanced building design and infrastructure__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Incorporating flexible policies, social distancing, information dissemination, and hygiene measures in building design improves infection control
+* [A Global Survey of Infection Control and Mitigation Measures for Combating the Transmission of COVID-19 Pandemic in Buildings Under Facilities Management Services](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_27.md)
+
+## Category to which it belongs
+
+* [Enhanced building performance, flexibility, and occupant comfort for sustainable and efficient design and construction.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_40.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Implementing measures in design and construction enhances building attractiveness, occupant satisfaction, and market value.](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_125.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [A Global Survey of Infection Control and Mitigation Measures for Combating the Transmission of COVID-19 Pandemic in Buildings Under Facilities Management Services](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_27.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [Building occupants and management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_78.md)
+Incorporating flexible policies, social distancing, information dissemination, and hygiene measures in building design improves infection control
 
 ## Risks which can benefit from this action
 
 * [Measures in design and construction](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_109.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [Building occupants and management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_78.md)
 

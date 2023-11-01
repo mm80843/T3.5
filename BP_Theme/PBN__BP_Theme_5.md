@@ -2,11 +2,11 @@
 
 # __Mental health__
 
+## Category to which it belongs
+
+* [Psychological well-being and emotional state of an individual.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_325.md)
+
 ## Property: has_BP_ThemeTitle
 
 theme_Mental_Health
-
-## Category to which it belongs
-
-* [Psychological well-being and emotional state of an individual.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_275.md)
 

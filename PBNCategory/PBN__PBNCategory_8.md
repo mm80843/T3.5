@@ -1,38 +1,27 @@
 [Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_8 
 
-# __The havoc wreaked upon the interconnected network of production and distribution is causing significant worldwide disruptions.__
+# __Optimized evaluation of human exposure to various hazards and the mitigation of their impact.__
 
 ## Items covered in this category
 
-* [Supply chain disruptions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10.md)
-* [Supply chain disruption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1392.md)
-* [Disruption of supply chain](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_524.md)
-* [Disruption of supply chains](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1123.md)
-* [Disruption in the supply chain](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_480.md)
-* [Disruption in supply chain](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_500.md)
-* [Disrupted supply chains](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2310.md)
-* [Disruptions in global supply chains](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_767.md)
-* [Global supply chain disruptions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_456.md)
-* [Disruption in global supply chains](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2869.md)
-* [Supply disruption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2986.md)
-* [Shocks in global value chains](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_251.md)
-* [Negative impact on supply chains](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_23.md)
-* [Imbalance of supply chains](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3239.md)
-* [Disruption of global supply chains](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2241.md)
-* [Disruptions to global and national supply chains](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2101.md)
-* [Disruption in petroleum and oil industry](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1791.md)
-* [Food supply disruptions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1839.md)
-* [Food supply disruption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3296.md)
-* [Reliance on global supply chains](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1971.md)
-* [Shortages in supply chains](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_491.md)
-* [Disruption of global settlement system](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1456.md)
-* [Production disruption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2990.md)
-* [Disruption of main system](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3305.md)
-* [Impact on food industry supply chain](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_411.md)
-* [Supply chain management](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_993.md)
-* [Obstacles in production or transportation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3309.md)
-* [Supply chain complexity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1756.md)
-* [Lack of supply chain visibility](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1755.md)
-* [Disruption of energy supply chains](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2088.md)
-* [Lack of redundancy in supply chains](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2130.md)
+* [Decrease in reproduction number](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_13.md)
+* [Decreased pollen allergen exposure](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_87.md)
+* [Improved distribution of pollutants](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_90.md)
+* [Improved estimation of reproduction numbers](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_91.md)
+* [Increased dilution of pollutants](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_807.md)
+* [Minimized face-to-face interaction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_93.md)
+* [Prevention of water pollution](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_955.md)
+* [Quantitative assessment of occupant exposure](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_554.md)
+* [Reduced air pollution](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1253.md)
+* [Reduced congestion and pollution](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_193.md)
+* [Reduced exposure to harmful pollutants](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1322.md)
+* [Reduced exposure to vocs](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_826.md)
+* [Reduced need for face-to-face appointments](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_501.md)
+* [Reduced noise pollution](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1319.md)
+* [Reduced rat populations](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1125.md)
+* [Reduction in tick populations](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1126.md)
+
+## Title of the category
+
+This category of Benenefits describes various advantages associated with green buildings and neighborhoods. These benefits cover a wide range of factors related to the health and well-being of individuals in these areas. They include a quantitative assessment of occupant exposure, which allows for a detailed analysis of the levels of potential contaminants and their impact on health. Another benefit is a decrease in the reproduction number, which refers to the spread of contagious diseases, indicating how effective green buildings are in reducing the transmission of diseases. Additionally, these buildings and neighborhoods contribute to the reduction of tick populations and rat populations, which are known carriers of diseases. They also help decrease exposure to pollen allergens, reducing the risk of allergies and related health issues. Furthermore, green buildings address environmental concerns by reducing noise pollution and air pollution, resulting in a cleaner and quieter living environment. In addition, they promote minimal face-to-face interaction, reducing the risk of spreading contagious diseases, and alleviating congestion and associated pollution. These buildings and neighborhoods also play a role in preventing water pollution, ensuring the availability of clean water sources. Furthermore, they contribute to an improved estimation and distribution of reproduction numbers, allowing for better understanding and management of diseases. Lastly, green buildings help minimize exposure to harmful pollutants, such as volatile organic compounds (VOCs), which can have detrimental effects on health. Overall, these benefits highlight the positive impact of green buildings and neighborhoods on the health, environment, and wellbeing of individuals.
 

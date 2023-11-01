@@ -2,6 +2,14 @@
 
 # __Animal vectors control measures__
 
+## Blueprint description
+
+Animal vector control methods and technologies are central to preventing the transmission of vector-borne diseases from animals to occupants (zoonosis) and users of buildings and/or GBN. More traditional methods of controlling animal vectors in buildings include the large-scale use of pesticides and insecticides. However, there is a trend towards less toxic measures in EU countries. As a result, several countries have introduced more complex pest control strategies that include several non-chemical approaches. Integrated Pest Management (IPM), for example, is, as the title suggests, a programme that uses more than one technique at four levels of implementation: 
+•	 identify the pest species that occur in a given area in order to take targeted preventive measures (see below). in addition, this phase includes routine monitoring of the most infested areas and an analysis of the effectiveness of the measures applied
+•	 establishment of thresholds for the implementation of certain measures to enable informed decision-making.
+•	 prevention
+•	 application of the lowest risk pest control methods such as trapping, eradication or local application of pesticides and insecticides if non-toxic methods have not brought the success determined by the thresholds
+
 ## Capabilities of the blueprint
 
 A sound and comprehensive management plan to control animal vectors is as important as training for building occupants and technical staff, including pest prevention and control professionals.
@@ -27,48 +35,54 @@ https://www.epa.gov/sites/default/files/2015-11/documents/ipm_in_buildings.pdf
 
 
 
-## Blueprint description
-
-Animal vector control methods and technologies are central to preventing the transmission of vector-borne diseases from animals to occupants (zoonosis) and users of buildings and/or GBN. More traditional methods of controlling animal vectors in buildings include the large-scale use of pesticides and insecticides. However, there is a trend towards less toxic measures in EU countries. As a result, several countries have introduced more complex pest control strategies that include several non-chemical approaches. Integrated Pest Management (IPM), for example, is, as the title suggests, a programme that uses more than one technique at four levels of implementation: 
-•	 identify the pest species that occur in a given area in order to take targeted preventive measures (see below). in addition, this phase includes routine monitoring of the most infested areas and an analysis of the effectiveness of the measures applied
-•	 establishment of thresholds for the implementation of certain measures to enable informed decision-making.
-•	 prevention
-•	 application of the lowest risk pest control methods such as trapping, eradication or local application of pesticides and insecticides if non-toxic methods have not brought the success determined by the thresholds
-
 ## Enablers of the blueprint
 
-* [Data Analytics](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_2.md)
-* [SmartPhones](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_19.md)
-* [Image acquisition & CCTV](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_12.md)
-* [Robots, Drones & Automated Vehicules](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_13.md)
-
-## Interventions of the blueprint
-
-* [Raising awareness](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_38.md)
-* [Wall and floors treatment](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_14.md)
-* [Animal vectors control](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_16.md)
-
-## Possible mitigations of the BP
-
-* [Implement ecosystem-based approaches to control vectors, such as maintaining natural habitats and reducing breeding sites.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2430.md)
-* [Research and develop alternative materials that prevent mosquito attraction while remaining environmentally sustainable.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2417.md)
-* [Spatial repellents](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5197.md)
-* [Mosquito control](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4105.md)
-* [Modification of building envelopes to reduce mosquito accessibility](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1299.md)
-* [Promote recycling and upcycling of construction and demolition waste to prevent the creation of mosquito breeding sites.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2419.md)
-* [Enhance vector control measures, develop targeted interventions, monitor and prevent mosquito breeding.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2191.md)
-* [Material selection to minimize mosquito attraction](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1301.md)
-* [Design buildings with optimized size, location, and orientation of openings to minimize mosquito access.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2416.md)
-* [Implement mosquito and tick control measures in urban greening initiatives and ensure proper maintenance of green spaces.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2433.md)
-
-## Type of deployment of the blueprint
-
-* [Permanent & temporary](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Permanent_2.md)
+* [Data Analytics](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_12.md)
+* [Image acquisition & CCTV](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_13.md)
+* [Robots, Drones & Automated Vehicules](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_19.md)
+* [SmartPhones](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_2.md)
 
 ## GBN Phase of the blueprint
 
-* [Operational](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Phase_0.md)
-* [Design](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Phase_1.md)
+* [Design](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Phase_0.md)
+* [Operational](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Phase_1.md)
+
+## Interventions of the blueprint
+
+* [Animal vectors control](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_38.md)
+* [Raising awareness](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_16.md)
+* [Wall and floors treatment](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_14.md)
+
+## Mode of transmission covered by the blueprint
+
+* [Direct contact](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_2.md)
+* [Fomite](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_3.md)
+
+## Possible mitigations of the BP
+
+* [Design buildings with optimized size, location, and orientation of openings to minimize mosquito access.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2430.md)
+* [Enhance vector control measures, develop targeted interventions, monitor and prevent mosquito breeding.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2191.md)
+* [Implement ecosystem-based approaches to control vectors, such as maintaining natural habitats and reducing breeding sites.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4105.md)
+* [Implement mosquito and tick control measures in urban greening initiatives and ensure proper maintenance of green spaces.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2417.md)
+* [Material selection to minimize mosquito attraction](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1299.md)
+* [Modification of building envelopes to reduce mosquito accessibility](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1301.md)
+* [Mosquito control](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2419.md)
+* [Promote recycling and upcycling of construction and demolition waste to prevent the creation of mosquito breeding sites.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2416.md)
+* [Research and develop alternative materials that prevent mosquito attraction while remaining environmentally sustainable.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5197.md)
+* [Spatial repellents](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2433.md)
+
+## Possible risks of the BP
+
+* [Dissemination of infectious aerosols in buildings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_60.md)
+* [Exposure to covid-19 in buildings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_90.md)
+* [Improved surveillance and mosquito control measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_66.md)
+* [Inadequate mosquito control](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3041.md)
+* [Increase in pests and disease vectors](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1634.md)
+* [Increase in vector-borne diseases due to suburban landscape design](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2893.md)
+* [Increased exposure to mosquitoes](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_474.md)
+* [Increased mosquito intrusion](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2902.md)
+* [Limitations of broad-scale mosquito control programs](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_760.md)
+* [Urban pests and disease vectors](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3008.md)
 
 ## Problem of the blueprint
 
@@ -82,19 +96,6 @@ In areas where mosquito-borne diseases are endemic (e.g. dengue fever, malaria, 
 
 The main obstacle to effective prevention and control of animal vectors is the inability or even lack of knowledge exchange between trained professionals, as well as the lack of expertise in non-traditional methods, which are still widely used in many EU countries. Furthermore, innovation in this particular sector cannot be considered rapid and there are currently not many alternatives to traditional methods. Moreover, training of personnel migh be costly and use of toxic pesticides and insecticides can harm the environment. 
 
-## Possible risks of the BP
-
-* [Exposure to covid-19 in buildings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_90.md)
-* [Increased mosquito intrusion](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3041.md)
-* [Increase in vector-borne diseases due to suburban landscape design](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_60.md)
-* [Urban pests and disease vectors](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_66.md)
-* [Increase in pests and disease vectors](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2902.md)
-* [Dissemination of infectious aerosols in buildings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3008.md)
-* [Improved surveillance and mosquito control measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_474.md)
-* [Limitations of broad-scale mosquito control programs](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_760.md)
-* [Inadequate mosquito control](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1634.md)
-* [Increased exposure to mosquitoes](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2893.md)
-
 ## Scale of the of the blueprint
 
 * [Both](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Scale_1.md)
@@ -103,10 +104,9 @@ The main obstacle to effective prevention and control of animal vectors is the i
 
 PBN:BP_19
 
-## Mode of transmission covered by the blueprint
+## Type of deployment of the blueprint
 
-* [Direct contact](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_2.md)
-* [Fomite](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_3.md)
+* [Permanent & temporary](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Permanent_2.md)
 
 ## Type of the blueprint
 

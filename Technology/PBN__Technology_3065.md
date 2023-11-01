@@ -4,19 +4,19 @@
 
 ## Category to which it belongs
 
-* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_116.md)
+* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_166.md)
 
 ## Closest similar item
 
-* [Public facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2806.md)
-* [Medical facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2299.md)
-* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1086.md)
+* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2806.md)
+* [Healthcare technologies and facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2299.md)
+* [Laboratory facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1086.md)
 * [Manufacturing facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_764.md)
-* [Research facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2900.md)
-* [Laboratory facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2899.md)
-* [Healthcare technologies and facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1944.md)
-* [Sanitation facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_624.md)
-* [Modular healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_472.md)
+* [Medical facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2900.md)
+* [Modular healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2899.md)
+* [Public facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1944.md)
+* [Research facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_624.md)
+* [Sanitation facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_472.md)
 * [Testing facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2913.md)
 
 ## This Technology enables the following mitigations

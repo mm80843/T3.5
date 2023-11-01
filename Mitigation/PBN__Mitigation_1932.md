@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Optimize airflow and air quality through improved ventilation systems and natural lighting, increased outdoor air intake, and proper maintenance.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_71.md)
+* [Optimize airflow and air quality through improved ventilation systems and natural lighting, increased outdoor air intake, and proper maintenance.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_121.md)
 
 ## Closest similar item
 
-* [Improve ventilation systems, increase outdoor air supply.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1805.md)
-* [Improve ventilation systems, increase airflow rates, use outdoor air ventilation, and consider the installation of air purifiers or filtration systems.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1588.md)
-* [Improve ventilation systems in buildings, increase air flow, open windows if possible, and use air purifiers.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1919.md)
-* [Improve natural ventilation, use control systems for windows and air vents, increase air circulation.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2550.md)
-* [Install proper ventilation systems and increase ventilation rates.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2250.md)
-* [Improve ventilation systems, increase outdoor air intake, use air quality sensors](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2474.md)
-* [Improve ventilation systems, open windows and doors](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1967.md)
-* [Ensure proper ventilation systems, regular cleaning and maintenance of hvac systems, promote natural ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2227.md)
-* [Improve ventilation systems, increase outdoor air circulation, and implement air purification technologies.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2305.md)
-* [Ensure proper ventilation systems are in place and regularly maintained.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2631.md)
+* [Ensure proper ventilation systems are in place and regularly maintained.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1805.md)
+* [Ensure proper ventilation systems, regular cleaning and maintenance of hvac systems, promote natural ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1588.md)
+* [Improve natural ventilation, use control systems for windows and air vents, increase air circulation.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1919.md)
+* [Improve ventilation systems in buildings, increase air flow, open windows if possible, and use air purifiers.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2550.md)
+* [Improve ventilation systems, increase airflow rates, use outdoor air ventilation, and consider the installation of air purifiers or filtration systems.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2250.md)
+* [Improve ventilation systems, increase outdoor air circulation, and implement air purification technologies.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2474.md)
+* [Improve ventilation systems, increase outdoor air intake, use air quality sensors](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1967.md)
+* [Improve ventilation systems, increase outdoor air supply.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2227.md)
+* [Improve ventilation systems, open windows and doors](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2305.md)
+* [Install proper ventilation systems and increase ventilation rates.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2631.md)
 
 ## Risks possibly mitigated by this Mitigation
 

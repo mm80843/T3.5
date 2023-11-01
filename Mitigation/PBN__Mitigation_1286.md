@@ -2,26 +2,26 @@
 
 # __Innovative projects__
 
-## Category to which it belongs
-
-* [Enhancing learning methods, implementing flexible work arrangements, improving planning mechanisms, and promoting workforce education and training.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_85.md)
-
-## Closest similar item
-
-* [Determining ideal projects](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4778.md)
-* [Innovation and creativity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_942.md)
-* [Technology and innovation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4697.md)
-* [Experiment with innovative models](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5005.md)
-* [Collaborative projects](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1120.md)
-* [Invest in research and development, address technical challenges, encourage innovation.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2783.md)
-* [Innovative solution identification](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4803.md)
-* [Implement smart/innovative technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2858.md)
-* [Develop cost-effective solutions, provide financial incentives, and promote collaboration.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2781.md)
-* [Designs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4568.md)
-
 ## Benefits linked to a risk
 
 * [Opportunity for unique projects](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1268.md)
+
+## Category to which it belongs
+
+* [Enhancing learning methods, implementing flexible work arrangements, improving planning mechanisms, and promoting workforce education and training.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_135.md)
+
+## Closest similar item
+
+* [Collaborative projects](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4778.md)
+* [Designs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_942.md)
+* [Determining ideal projects](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4697.md)
+* [Develop cost-effective solutions, provide financial incentives, and promote collaboration.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5005.md)
+* [Experiment with innovative models](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1120.md)
+* [Implement smart/innovative technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2783.md)
+* [Innovation and creativity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4803.md)
+* [Innovative solution identification](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2858.md)
+* [Invest in research and development, address technical challenges, encourage innovation.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2781.md)
+* [Technology and innovation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4568.md)
 
 ## Risks possibly mitigated by this Mitigation
 

@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [A collection of diverse entities devoted to various causes, including mental and physical health, business, research, conservation, and social welfare.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_200.md)
+* [A collection of diverse entities devoted to various causes, including mental and physical health, business, research, conservation, and social welfare.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_250.md)
 
 ## Closest similar item
 
-* [Health organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_422.md)
-* [Healthcare organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1849.md)
-* [Healthcare organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_216.md)
-* [Public health organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_173.md)
-* [World health organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1035.md)
-* [Official health organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1011.md)
-* [Health club organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_270.md)
-* [Global health organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_857.md)
-* [Health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1245.md)
-* [Health authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1823.md)
+* [Global health organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_422.md)
+* [Health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1849.md)
+* [Health authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_216.md)
+* [Health club organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_173.md)
+* [Health organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1035.md)
+* [Healthcare organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1011.md)
+* [Healthcare organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_270.md)
+* [Official health organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_857.md)
+* [Public health organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1245.md)
+* [World health organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1823.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

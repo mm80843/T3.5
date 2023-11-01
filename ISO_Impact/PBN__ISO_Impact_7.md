@@ -4,8 +4,8 @@
 
 ## Risks with this purpose
 
-* [Lack of awareness](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_49.md)
-* [Inadequate crisis preparedness](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1937.md)
-* [Lack of preparedness](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_492.md)
+* [Inadequate crisis preparedness](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_49.md)
+* [Lack of awareness](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_492.md)
+* [Lack of preparedness](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1937.md)
 * [Lack of relaxation space](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1093.md)
 

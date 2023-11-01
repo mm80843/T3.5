@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Promote and implement comprehensive strategies to ensure widespread and equitable access to vaccination and development of effective vaccines.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_78.md)
+* [Promote and implement comprehensive strategies to ensure widespread and equitable access to vaccination and development of effective vaccines.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_128.md)
 
 ## Closest similar item
 
-* [Implementation of stricter infection control measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_165.md)
-* [Improve access to testing and healthcare facilities, promote and enforce proper infection control measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3090.md)
-* [Implementing strict hygiene protocols, social distancing measures, and vaccination programs.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2448.md)
-* [Implementation of infection prevention and control measures, screening and testing protocols.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2591.md)
-* [Implement measures to control the spread of infectious diseases, such as social distancing, improved hygiene practices, and vaccination programs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2240.md)
-* [Implementation of infection control measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_157.md)
-* [Strict precautions and infection control training](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1093.md)
-* [Strict infection control and hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4358.md)
-* [Implement infection control measures, promote hygiene practices, and enforce social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1812.md)
-* [Implement effective infection control measures, such as regular cleaning and disinfection, ventilation systems, and promoting personal hygiene practices.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2504.md)
+* [Implement effective infection control measures, such as regular cleaning and disinfection, ventilation systems, and promoting personal hygiene practices.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_165.md)
+* [Implement infection control measures, promote hygiene practices, and enforce social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3090.md)
+* [Implement measures to control the spread of infectious diseases, such as social distancing, improved hygiene practices, and vaccination programs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2448.md)
+* [Implementation of infection control measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2591.md)
+* [Implementation of infection prevention and control measures, screening and testing protocols.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2240.md)
+* [Implementation of stricter infection control measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_157.md)
+* [Implementing strict hygiene protocols, social distancing measures, and vaccination programs.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1093.md)
+* [Improve access to testing and healthcare facilities, promote and enforce proper infection control measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4358.md)
+* [Strict infection control and hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1812.md)
+* [Strict precautions and infection control training](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2504.md)
 
 ## Risks possibly mitigated by this Mitigation
 

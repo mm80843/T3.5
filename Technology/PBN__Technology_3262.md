@@ -4,19 +4,19 @@
 
 ## Category to which it belongs
 
-* [Accurate and reliable knowledge dissemination and fact-checking through interdisciplinary collaboration and intelligent information feedback.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_122.md)
+* [Accurate and reliable knowledge dissemination and fact-checking through interdisciplinary collaboration and intelligent information feedback.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_172.md)
 
 ## Closest similar item
 
-* [Knowledge management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3136.md)
-* [Knowledge translation platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_563.md)
-* [Knowledge base](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2325.md)
-* [Project management platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_738.md)
-* [Knowledge-base system](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2566.md)
-* [Information sharing platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1896.md)
-* [Knowledge sharing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2845.md)
-* [Collaboration platforms for information sharing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1893.md)
-* [Collaboration and communication platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2038.md)
+* [Collaboration and communication platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3136.md)
+* [Collaboration platforms for information sharing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_563.md)
+* [Information sharing platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2325.md)
+* [Knowledge base](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_738.md)
+* [Knowledge management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2566.md)
+* [Knowledge sharing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1896.md)
+* [Knowledge translation platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2845.md)
+* [Knowledge-base system](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1893.md)
+* [Project management platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2038.md)
 * [Web-based platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1817.md)
 
 ## This Technology enables the following mitigations

@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Risks to personal information, confidentiality, ethical issues, surveillance, and the need for data protection.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_17.md)
+* [Risks to personal information, confidentiality, ethical issues, surveillance, and the need for data protection.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_67.md)
 
 ## Closest similar item
 
-* [Security risks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2103.md)
-* [Cybersecurity threats](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1887.md)
-* [Privacy and security risks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1238.md)
-* [Security challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2070.md)
-* [Security and privacy concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2059.md)
-* [Cybersecurity risks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2063.md)
-* [Security breaches](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1069.md)
-* [Privacy and security concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_25.md)
-* [Cybersecurity risks and privacy concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2303.md)
-* [Data security](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1524.md)
+* [Cybersecurity risks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2103.md)
+* [Cybersecurity risks and privacy concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1887.md)
+* [Cybersecurity threats](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1238.md)
+* [Data security](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2070.md)
+* [Privacy and security concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2059.md)
+* [Privacy and security risks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2063.md)
+* [Security and privacy concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1069.md)
+* [Security breaches](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_25.md)
+* [Security challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2303.md)
+* [Security risks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1524.md)
 
 ## Mitigations of this risk
 

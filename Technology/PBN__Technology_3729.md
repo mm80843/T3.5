@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_119.md)
+* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_169.md)
 
 ## Closest similar item
 
-* [Pharmaceutical companies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_761.md)
-* [Medications](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3260.md)
-* [Healthcare providers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1070.md)
-* [Medical facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2299.md)
-* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1086.md)
-* [Healthcare authorities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1063.md)
-* [Personalized medicine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1551.md)
-* [Medical supplies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1250.md)
-* [Stores](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3730.md)
-* [Healthcare organizations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_339.md)
+* [Healthcare authorities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_761.md)
+* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3260.md)
+* [Healthcare organizations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1070.md)
+* [Healthcare providers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2299.md)
+* [Medical facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1086.md)
+* [Medical supplies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1063.md)
+* [Medications](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1551.md)
+* [Personalized medicine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1250.md)
+* [Pharmaceutical companies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3730.md)
+* [Stores](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_339.md)
 
 ## This Technology enables the following mitigations
 

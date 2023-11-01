@@ -4,38 +4,38 @@
 
 ## Category to which it belongs
 
-* [Digital tools and technologies facilitating various functions and services on mobile devices.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_101.md)
+* [Digital tools and technologies facilitating various functions and services on mobile devices.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_151.md)
 
 ## Closest similar item
 
-* [Laboratory equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3203.md)
-* [Controlled experiments](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2332.md)
-* [Laboratory testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1910.md)
-* [Measurement devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2786.md)
-* [Better laboratory equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1544.md)
-* [Testing and analysis equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_763.md)
-* [Testing equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1065.md)
-* [Advanced laboratory testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1407.md)
-* [Monitoring mechanisms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3745.md)
-* [Laboratory facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2899.md)
+* [Advanced laboratory testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3203.md)
+* [Better laboratory equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2332.md)
+* [Controlled experiments](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1910.md)
+* [Laboratory equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2786.md)
+* [Laboratory facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1544.md)
+* [Laboratory testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_763.md)
+* [Measurement devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1065.md)
+* [Monitoring mechanisms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1407.md)
+* [Testing and analysis equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3745.md)
+* [Testing equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2899.md)
 
-## This Technology belongs to this TechnologySubgroup
+## Risks linked to this technology
 
-* [Experimental apparatus](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1881.md)
+* [Effects of nebulization and impingement on viral survival](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2275.md)
 
 ## This Technology belongs to this TechGroup
 
 * [Drones and robots](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2289.md)
 
-## This technology is mentioned by
-
-* [Effect of Ultraviolet Germicidal Irradiation on Viral Aerosols](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_88.md)
-
 ## This Technology belongs to this TechSubgroup
 
 * [Experimental apparatus](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1881.md)
 
-## Risks linked to this technology
+## This Technology belongs to this TechnologySubgroup
 
-* [Effects of nebulization and impingement on viral survival](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2275.md)
+* [Experimental apparatus](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1881.md)
+
+## This technology is mentioned by
+
+* [Effect of Ultraviolet Germicidal Irradiation on Viral Aerosols](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_88.md)
 

@@ -2,24 +2,28 @@
 
 # __Improved financial performance__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Proactive cost control measures can help prevent cost overruns and improve the financial performance of construction projects.
+* [The Impact of Pandemic Crisis on the Survival of Construction Industry: A Case of COVID-19](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_168.md)
+
+## Category to which it belongs
+
+* [Improved financial outcomes through financial relief, increased funding, sustainable and additional funding, private investment, and reduced financial losses.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_20.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Private investors would benefit from improved financial performance and profitability.](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_910.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [The Impact of Pandemic Crisis on the Survival of Construction Industry: A Case of COVID-19](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_168.md)
+Proactive cost control measures can help prevent cost overruns and improve the financial performance of construction projects.
+
+## Risks which can benefit from this action
+
+* [Proactive cost control](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_835.md)
 
 ## Stakeholders benefitting from this Benefit
 
 * [Construction companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_181.md)
 * [Project owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_346.md)
-
-## Risks which can benefit from this action
-
-* [Proactive cost control](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_835.md)
 

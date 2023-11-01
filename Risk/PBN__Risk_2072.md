@@ -2,42 +2,34 @@
 
 # __Limited connectivity challenges__
 
+## Articles mentionning the risk
+
+* [The role of 5G for digital healthcare against COVID-19 pandemic: Opportunities and challenges](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_9.md)
+
 ## Category to which it belongs
 
-* [Challenges in connectivity, resources, funding, expertise, data, and infrastructure result in limited access and inequalities in various areas.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_18.md)
+* [Challenges in connectivity, resources, funding, expertise, data, and infrastructure result in limited access and inequalities in various areas.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_68.md)
 
 ## Closest similar item
 
-* [Technical limitations and limited connectivity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_26.md)
+* [Communication challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_26.md)
 * [Connectivity issues](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2060.md)
-* [Infrastructure challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1904.md)
-* [Limited availability of 5g networks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3244.md)
-* [Communication challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1933.md)
-* [Limited data availability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2943.md)
-* [Lack of infrastructure for 5g network](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1102.md)
-* [Limited access, internet speed](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2951.md)
+* [Incomplete infrastructure, coordination challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1904.md)
+* [Infrastructure challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3244.md)
+* [Lack of infrastructure for 5g network](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1933.md)
+* [Limited access, internet speed](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2943.md)
+* [Limited availability of 5g networks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1102.md)
+* [Limited data availability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2951.md)
 * [Some faculty struggling with novel technology and participants with poor bandwidth connections](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2536.md)
-* [Incomplete infrastructure, coordination challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2597.md)
+* [Technical limitations and limited connectivity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2597.md)
 
 ## Description of the risk
 
 Limited deployment and availability of 5G networks and devices
 
-## Type of the risk
-
-* [Other](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_2.md)
-
 ## Is the risk affecting GBN scales
 
 * [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
-
-## Type of impact of the risk (according to ISO37100)
-
-* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_4.md)
-
-## Type of purpose of the risk (according to ISO37100)
-
-* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_6.md)
 
 ## Mitigations of this risk
 
@@ -47,24 +39,32 @@ Limited deployment and availability of 5G networks and devices
 
 Inability to access 5G services and applications
 
+## People affected by this risk
+
+* [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_29.md)
+* [Healthcare organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_216.md)
+
 ## Stakeholders who can mitigate this risk
 
 * [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
 * [Network operators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1401.md)
 
-## Articles mentionning the risk
-
-* [The role of 5G for digital healthcare against COVID-19 pandemic: Opportunities and challenges](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_9.md)
-
-## People affected by this risk
-
-* [Healthcare organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_216.md)
-* [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_29.md)
-
 ## Technologies linked to the risk
 
 * [L5go networks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1584.md)
 * [Purpose-built iot devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1585.md)
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_4.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_6.md)
+
+## Type of the risk
+
+* [Other](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_2.md)
 
 ## Property: has_RiskType
 

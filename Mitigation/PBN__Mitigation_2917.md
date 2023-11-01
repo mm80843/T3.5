@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Implementation of various strategies to improve healthcare infrastructure, disease management, waste disposal, symptom recognition, and treatment through advanced technology and interventions.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_61.md)
+* [Implementation of various strategies to improve healthcare infrastructure, disease management, waste disposal, symptom recognition, and treatment through advanced technology and interventions.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_111.md)
 
 ## Closest similar item
 
-* [Research and evaluation of ubpi effectiveness](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1237.md)
-* [Ultrabrief psychological interventions ubpi](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1235.md)
-* [Task-shifting ubpi interventions to non-clinical staff or students, providing training and support for these individuals.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2918.md)
-* [Ultrabrief psychological intervention ubpi](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5013.md)
-* [Integration with emerging technologies for improved outcomes](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4770.md)
-* [Improve testing frequency and accuracy, conduct seroprevalence surveys.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2511.md)
-* [Improve reporting standards and conduct high-quality research studies on preventive interventions.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2068.md)
-* [Rethinking the city’s landscape and role of ugs in life quality](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5293.md)
-* [Reporting study conditions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3676.md)
-* [Conduct studies in diverse geographic regions to obtain more representative data](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1718.md)
+* [Conduct studies in diverse geographic regions to obtain more representative data](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1237.md)
+* [Improve reporting standards and conduct high-quality research studies on preventive interventions.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1235.md)
+* [Improve testing frequency and accuracy, conduct seroprevalence surveys.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2918.md)
+* [Integration with emerging technologies for improved outcomes](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5013.md)
+* [Reporting study conditions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4770.md)
+* [Research and evaluation of ubpi effectiveness](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2511.md)
+* [Rethinking the city’s landscape and role of ugs in life quality](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2068.md)
+* [Task-shifting ubpi interventions to non-clinical staff or students, providing training and support for these individuals.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5293.md)
+* [Ultrabrief psychological intervention ubpi](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3676.md)
+* [Ultrabrief psychological interventions ubpi](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1718.md)
 
 ## Risks possibly mitigated by this Mitigation
 

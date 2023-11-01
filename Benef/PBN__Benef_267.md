@@ -2,24 +2,28 @@
 
 # __Enhanced sense of safety__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Increases trust and comfort on campus
+* [Reframe how to serve your community in the midst of a pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_53.md)
+
+## Category to which it belongs
+
+* [Promotion of security and well-being through measures to minimize harm, enhance protection, and ensure long-term safety.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_48.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in this measure would benefit from improved reputation and attractiveness of the institution, leading to increased student enrollment and retention.](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_279.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [Reframe how to serve your community in the midst of a pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_53.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [Visitors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_118.md)
-* [Students](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_101.md)
+Increases trust and comfort on campus
 
 ## Risks which can benefit from this action
 
 * [Campus law enforcement introduction](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_256.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [Students](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_101.md)
+* [Visitors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_118.md)
 

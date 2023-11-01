@@ -2,11 +2,11 @@
 
 # __Propagation monitoring__
 
+## Category to which it belongs
+
+* [Monitoring the spread or transmission of something.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_327.md)
+
 ## Property: has_BP_ThemeTitle
 
 theme_Propagation_monitoring
-
-## Category to which it belongs
-
-* [Monitoring the spread or transmission of something.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_277.md)
 

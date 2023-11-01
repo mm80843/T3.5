@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Improved and diversified communication channels through digital integration, telecommunication technology, and network infrastructure.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_105.md)
+* [Improved and diversified communication channels through digital integration, telecommunication technology, and network infrastructure.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_155.md)
 
 ## Closest similar item
 
 * [Cellular network](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1776.md)
-* [Telecommunication networks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3599.md)
-* [Telephone network](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2754.md)
-* [High bandwidth networks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3094.md)
-* [Efficient network](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3111.md)
-* [Connectivity technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2763.md)
+* [Connectivity](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3599.md)
+* [Connectivity technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2754.md)
+* [Efficient network](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3094.md)
+* [Fifth-generation wireless networks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3111.md)
+* [High bandwidth networks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2763.md)
 * [Mobile phones](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3802.md)
-* [Fifth-generation wireless networks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3253.md)
-* [Connectivity](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3517.md)
-* [Network infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2174.md)
+* [Network infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3253.md)
+* [Telecommunication networks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3517.md)
+* [Telephone network](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2174.md)
 
 ## This Technology enables the following mitigations
 

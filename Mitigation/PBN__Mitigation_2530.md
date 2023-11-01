@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Promote sustainable economic growth through infrastructure investment, revenue diversification, financial interventions, and decentralized activities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_62.md)
+* [Promote sustainable economic growth through infrastructure investment, revenue diversification, financial interventions, and decentralized activities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_112.md)
 
 ## Closest similar item
 
-* [Investment in improving housing conditions and infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1501.md)
+* [Building and housing reform](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1501.md)
 * [Improve housing conditions, invest in the development of affordable and high-quality housing.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1521.md)
-* [Provide stable housing options, create affordable housing programs.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1632.md)
-* [Increase public health funding](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_621.md)
-* [Urban housing improvement](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4077.md)
-* [Building and housing reform](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4234.md)
-* [Reduce population density and improve housing conditions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2003.md)
-* [Increase funding for green space maintenance and management, seek alternative funding sources](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1474.md)
-* [Increasing public interest](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_134.md)
-* [Improve urban planning to provide adequate housing, infrastructure, and services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1450.md)
+* [Improve urban planning to provide adequate housing, infrastructure, and services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1632.md)
+* [Increase funding for green space maintenance and management, seek alternative funding sources](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_621.md)
+* [Increase public health funding](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4077.md)
+* [Increasing public interest](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4234.md)
+* [Investment in improving housing conditions and infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2003.md)
+* [Provide stable housing options, create affordable housing programs.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1474.md)
+* [Reduce population density and improve housing conditions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_134.md)
+* [Urban housing improvement](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1450.md)
 
 ## Risks possibly mitigated by this Mitigation
 

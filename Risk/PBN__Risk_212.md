@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The pandemic has led to a decrease in in-person surgical education, loss of control, temporary panic from cruise ship docking, limited social distancing, and decreased morale.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_20.md)
+* [The pandemic has led to a decrease in in-person surgical education, loss of control, temporary panic from cruise ship docking, limited social distancing, and decreased morale.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_70.md)
 
 ## Closest similar item
 
-* [Decreased productivity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2710.md)
-* [Job losses](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2149.md)
-* [Decreased job opportunities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2804.md)
-* [Loss of productivity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3085.md)
-* [Poor work productivity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2563.md)
-* [Job loss](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2644.md)
-* [Workforce reduction](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1084.md)
-* [Workplace productivity decrease](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1465.md)
-* [Decreased public gatherings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2706.md)
-* [Decreased collaboration and social interaction](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1466.md)
+* [Decreased collaboration and social interaction](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2710.md)
+* [Decreased job opportunities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2149.md)
+* [Decreased productivity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2804.md)
+* [Decreased public gatherings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3085.md)
+* [Job loss](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2563.md)
+* [Job losses](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2644.md)
+* [Loss of productivity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1084.md)
+* [Poor work productivity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1465.md)
+* [Workforce reduction](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2706.md)
+* [Workplace productivity decrease](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1466.md)
 
 ## Mitigations of this risk
 

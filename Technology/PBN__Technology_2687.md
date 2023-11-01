@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Improved indoor air quality and temperature control through advanced hvac technologies, air purifiers, and monitoring systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_129.md)
+* [Improved indoor air quality and temperature control through advanced hvac technologies, air purifiers, and monitoring systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_179.md)
 
 ## Closest similar item
 
-* [Humidifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_923.md)
-* [Humidifier](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2581.md)
-* [Humidity control systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1163.md)
-* [Humidity control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3611.md)
-* [Hvac systems with humidity control capabilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2265.md)
+* [Air filtration and purification systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_923.md)
+* [Air filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2581.md)
+* [Air quality and filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1163.md)
+* [Humidifier](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3611.md)
+* [Humidifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2265.md)
 * [Humidity](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2523.md)
-* [Air quality and filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2120.md)
-* [Moisture management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3441.md)
-* [Air filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_203.md)
-* [Air filtration and purification systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_767.md)
+* [Humidity control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2120.md)
+* [Humidity control systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3441.md)
+* [Hvac systems with humidity control capabilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_203.md)
+* [Moisture management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_767.md)
 
 ## This Technology enables the following mitigations
 

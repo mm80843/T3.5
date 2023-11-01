@@ -2,9 +2,28 @@
 
 # __Response to COVID-19 in Taiwan: Big Data Analytics, New Technology, and Proactive Testing__
 
+## Benefits listed in this article
+
+* [Community containment](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_0.md)
+* [Early detection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_106.md)
+* [Efficient contact tracing](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_107.md)
+* [Improved information dissemination](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_112.md)
+* [Infection control](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_108.md)
+* [Prevention of mass gatherings](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_109.md)
+* [Reduced importation risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_110.md)
+* [Sustainable control](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_111.md)
+
 ## DOI of the article
 
 10.1001/jama.2020.3151
+
+## List of risks in an article
+
+* [Cruise ship docking](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1669.md)
+* [High number of flights](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2293.md)
+* [Intensive policy maintenance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2294.md)
+* [Lack of communication](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2292.md)
+* [Proximity to china](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2291.md)
 
 ## Short summary of the article
 
@@ -14,6 +33,23 @@ Taiwan has implemented various proactive measures to prevent the spread of COVID
 
 Taiwan is a country that is close to China and was expected to have a lot of cases of the coronavirus. But they took quick action to prevent the spread of the virus. They sent health declaration passes to people's phones to make it easier for them to go through immigration. If someone had traveled to a high-risk area, they were quarantined at home and monitored through their phones. Taiwan also found cases of the virus by testing people with severe respiratory symptoms. They set up a hotline for people to report any symptoms or cases they knew about. The government made sure that people under quarantine had food and regular health checks. They also provided information to the public through announcements by important officials. Overall, Taiwan did a good job in responding to the crisis and protecting its citizens.
 
+## This article mentions these technologies
+
+
+## This article points to following mitigation
+
+* [Addressing disease stigma](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3876.md)
+* [Border control](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5132.md)
+* [Case identification](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_337.md)
+* [Clear and compassionate public communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5135.md)
+* [Health declaration border pass](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5128.md)
+* [Home quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5133.md)
+* [Hotline for reporting symptoms](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5134.md)
+* [National health command center nhcc](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5130.md)
+* [Proactive case finding](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5129.md)
+* [Reassure and educate the public](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5127.md)
+* [Resource allocation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5131.md)
+
 ## Title of the article
 
 Response to COVID-19 in Taiwan: Big Data Analytics, New Technology, and Proactive Testing
@@ -21,40 +57,4 @@ Response to COVID-19 in Taiwan: Big Data Analytics, New Technology, and Proactiv
 ## Year of publication
 
 2020
-
-## Benefits listed in this article
-
-* [Early detection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_0.md)
-* [Infection control](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_106.md)
-* [Reduced importation risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_107.md)
-* [Improved information dissemination](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_108.md)
-* [Community containment](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_109.md)
-* [Sustainable control](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_110.md)
-* [Prevention of mass gatherings](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_111.md)
-* [Efficient contact tracing](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_112.md)
-
-## List of risks in an article
-
-* [Cruise ship docking](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2293.md)
-* [Intensive policy maintenance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2294.md)
-* [High number of flights](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2292.md)
-* [Lack of communication](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1669.md)
-* [Proximity to china](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2291.md)
-
-## This article points to following mitigation
-
-* [Resource allocation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3876.md)
-* [Proactive case finding](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5128.md)
-* [Case identification](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5133.md)
-* [Home quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_337.md)
-* [Border control](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5132.md)
-* [Addressing disease stigma](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5130.md)
-* [Clear and compassionate public communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5135.md)
-* [Health declaration border pass](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5127.md)
-* [Hotline for reporting symptoms](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5129.md)
-* [National health command center nhcc](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5131.md)
-* [Reassure and educate the public](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5134.md)
-
-## This article mentions these technologies
-
 

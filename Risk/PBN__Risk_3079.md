@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The impact of various factors on public health, including unhealthy behaviors, limited access to healthcare, and food insecurity.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_3.md)
+* [The impact of various factors on public health, including unhealthy behaviors, limited access to healthcare, and food insecurity.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_53.md)
 
 ## Closest similar item
 
-* [Decreased physical and mental health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2854.md)
-* [Health effects](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2497.md)
-* [Increased mental and physical health problems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3038.md)
+* [Decreased physical activity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2854.md)
+* [Decreased physical and mental health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2497.md)
+* [Existing poor health conditions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3038.md)
 * [Health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2211.md)
-* [Existing poor health conditions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_854.md)
-* [Insufficient attention to public health impacts](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2648.md)
-* [Decreased physical activity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1056.md)
-* [Health risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_83.md)
-* [Poor health conditions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1057.md)
-* [Lack of emphasis on public health impacts](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1394.md)
+* [Health effects](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_854.md)
+* [Health risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2648.md)
+* [Increased mental and physical health problems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1056.md)
+* [Insufficient attention to public health impacts](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_83.md)
+* [Lack of emphasis on public health impacts](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1057.md)
+* [Poor health conditions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1394.md)
 
 ## Mitigations of this risk
 

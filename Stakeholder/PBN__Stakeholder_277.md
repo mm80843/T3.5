@@ -2,26 +2,26 @@
 
 # __Authorities__
 
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Increased citizen cooperation and trust](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_667.md)
-
 ## Category to which it belongs
 
-* [A diverse collection of organizations and individuals with specific areas of expertise and jurisdiction.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_189.md)
+* [A diverse collection of organizations and individuals with specific areas of expertise and jurisdiction.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_239.md)
 
 ## Closest similar item
 
-* [Government and authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1614.md)
-* [Government authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_302.md)
-* [Local authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_623.md)
-* [National authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2356.md)
-* [City authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_534.md)
-* [Urban authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_434.md)
-* [Local government authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1572.md)
-* [Authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2393.md)
-* [Government authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1613.md)
-* [Government officials](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_333.md)
+* [Authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1614.md)
+* [City authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_302.md)
+* [Government and authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_623.md)
+* [Government authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2356.md)
+* [Government authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_534.md)
+* [Government officials](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_434.md)
+* [Local authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1572.md)
+* [Local government authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2393.md)
+* [National authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1613.md)
+* [Urban authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_333.md)
+
+## Risk affecting this stakeholder
+
+* [Spread of false information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_848.md)
 
 ## Risks that can be mitigated by this stakeholder
 
@@ -36,7 +36,13 @@
 
 * [Government and authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1614.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder can get these Benefits from mitigation measures
 
-* [Spread of false information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_848.md)
+* [Increased citizen cooperation and trust](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_667.md)
+
+## Type of the stakeholder
+
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_0.md)
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

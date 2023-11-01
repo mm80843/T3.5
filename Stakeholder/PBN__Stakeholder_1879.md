@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The industry of creating and supplying various devices, equipment, and platforms for different sectors and users.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_214.md)
+* [The industry of creating and supplying various devices, equipment, and platforms for different sectors and users.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_264.md)
 
 ## Closest similar item
 
-* [Vehicle manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_735.md)
-* [Manufacturer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1953.md)
-* [Manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_34.md)
-* [Device manufacturer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1882.md)
-* [Transportation company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1948.md)
-* [Automobile industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_241.md)
-* [Manufacturing company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2005.md)
-* [Device manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1431.md)
-* [Transportation companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_861.md)
-* [Material manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_773.md)
+* [Automobile industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_735.md)
+* [Device manufacturer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1953.md)
+* [Device manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_34.md)
+* [Manufacturer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1882.md)
+* [Manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1948.md)
+* [Manufacturing company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_241.md)
+* [Material manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2005.md)
+* [Transportation companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1431.md)
+* [Transportation company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_861.md)
+* [Vehicle manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_773.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

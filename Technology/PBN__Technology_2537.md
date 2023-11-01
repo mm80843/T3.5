@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_116.md)
+* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_166.md)
 
 ## Closest similar item
 
 * [Bicycle paths](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2597.md)
-* [Stationary bikes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2632.md)
-* [Cycling and pedestrian infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3865.md)
-* [Walking and cycling infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1221.md)
+* [Cycling and pedestrian infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2632.md)
+* [E-scooters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3865.md)
+* [Ground vehicles](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1221.md)
 * [Gyms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1739.md)
 * [Mechanical](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2498.md)
-* [Ground vehicles](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3859.md)
-* [Treadmills](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2631.md)
-* [Robotics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1171.md)
-* [E-scooters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2538.md)
+* [Robotics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3859.md)
+* [Stationary bikes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2631.md)
+* [Treadmills](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1171.md)
+* [Walking and cycling infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2538.md)
 
 ## This Technology enables the following mitigations
 

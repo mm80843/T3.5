@@ -2,42 +2,34 @@
 
 # __Access to videos__
 
+## Articles mentionning the risk
+
+* [Using Technology to Maintain the Education of Residents During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_11.md)
+
 ## Category to which it belongs
 
-* [Challenges in connectivity, resources, funding, expertise, data, and infrastructure result in limited access and inequalities in various areas.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_18.md)
+* [Challenges in connectivity, resources, funding, expertise, data, and infrastructure result in limited access and inequalities in various areas.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_68.md)
 
 ## Closest similar item
 
-* [Varied content and quality of available video libraries](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2539.md)
-* [Access restrictions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_734.md)
-* [Limited site access](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1515.md)
-* [Limited access to software and hardware](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1973.md)
-* [Limited accessibility, security and privacy concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3173.md)
-* [Limited access to real-time data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_381.md)
-* [Limited access to services](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3376.md)
-* [Lack of access](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2626.md)
-* [Limited accessibility](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1522.md)
-* [Limited access to data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_723.md)
+* [Access restrictions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2539.md)
+* [Lack of access](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_734.md)
+* [Limited access to data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1515.md)
+* [Limited access to real-time data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1973.md)
+* [Limited access to services](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3173.md)
+* [Limited access to software and hardware](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_381.md)
+* [Limited accessibility](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3376.md)
+* [Limited accessibility, security and privacy concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2626.md)
+* [Limited site access](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1522.md)
+* [Varied content and quality of available video libraries](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_723.md)
 
 ## Description of the risk
 
 Accessing high-quality surgical videos for learning purposes is limited, with concerns over content and quality of freely available videos.
 
-## Type of the risk
-
-* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Is the risk affecting GBN scales
 
 * [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
-
-## Type of impact of the risk (according to ISO37100)
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
-
-## Type of purpose of the risk (according to ISO37100)
-
-* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
 
 ## Mitigations of this risk
 
@@ -47,24 +39,32 @@ Accessing high-quality surgical videos for learning purposes is limited, with co
 
 Difficulty in finding relevant and reliable surgical videos.
 
-## Stakeholders who can mitigate this risk
-
-* [Surgical educators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_776.md)
-* [Societies with surgical video libraries](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_782.md)
-
-## Articles mentionning the risk
-
-* [Using Technology to Maintain the Education of Residents During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_11.md)
-
 ## People affected by this risk
 
-* [Surgical trainees](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_42.md)
-* [Surgical educators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_776.md)
+* [Surgical educators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_42.md)
+* [Surgical trainees](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_776.md)
+
+## Stakeholders who can mitigate this risk
+
+* [Societies with surgical video libraries](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_776.md)
+* [Surgical educators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_782.md)
 
 ## Technologies linked to the risk
 
-* [Surgical video libraries](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_392.md)
-* [Staff oversight](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_393.md)
+* [Staff oversight](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_392.md)
+* [Surgical video libraries](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_393.md)
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
+
+## Type of the risk
+
+* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 

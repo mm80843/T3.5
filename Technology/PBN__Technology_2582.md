@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_119.md)
+* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_169.md)
 
 ## Closest similar item
 
-* [Heat](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2794.md)
-* [Heat treatment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3015.md)
-* [Thermostats](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3121.md)
-* [Temperature](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1061.md)
-* [Cooling devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3424.md)
-* [Thermometers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3296.md)
-* [Hot water supply](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1048.md)
+* [Cooling devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2794.md)
+* [Heat](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3015.md)
+* [Heat treatment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3121.md)
+* [Hot water supply](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1061.md)
+* [Temperature](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3424.md)
+* [Temperature control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3296.md)
+* [Thermal comfort](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1048.md)
 * [Thermal sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3854.md)
-* [Thermal comfort](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3310.md)
-* [Temperature control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3423.md)
+* [Thermometers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3310.md)
+* [Thermostats](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3423.md)
 
 ## This Technology enables the following mitigations
 

@@ -2,9 +2,35 @@
 
 # __COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS__
 
+## Benefits listed in this article
+
+* [Clean water and sanitation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_294.md)
+* [Continued access to education](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_285.md)
+* [Food and nutrition security](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_35.md)
+* [Gender equality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_291.md)
+* [Improved access to healthcare](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_286.md)
+* [Job creation and economic growth](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_287.md)
+* [Peace, justice, and strong institutions](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_288.md)
+* [Poverty reduction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_289.md)
+* [Preserving natural resources](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_290.md)
+* [Reduced inequality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_292.md)
+* [Sustainable development](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_293.md)
+
 ## DOI of the article
 
 10.29121/ijoest.v4.i5.2020.117
+
+## List of risks in an article
+
+* [Climate change](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2012.md)
+* [Economic crisis](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_237.md)
+* [Education disruption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_231.md)
+* [Food security](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_894.md)
+* [Gender inequality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2015.md)
+* [Healthcare system collapse](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_234.md)
+* [Inequality exacerbation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2013.md)
+* [Unemployment and underemployment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2014.md)
+* [Water and sanitation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_232.md)
 
 ## Short summary of the article
 
@@ -14,6 +40,43 @@ The COVID-19 pandemic has had a significant impact on the 17 Sustainable Develop
 
 The covid-19 pandemic has caused a lot of problems all over the world. It has affected the economy, the health system, and even our ability to get food. The pandemic has made it harder for people to work and earn money, leading to more poverty. It has also made it harder for people to get food because of closed borders and markets. The pandemic has put a lot of pressure on our health system and made it harder for people to get the care they need. It has also made it harder for kids to go to school and get a good education. The pandemic has shown us that we need to work together and find sustainable solutions for the future. We need to protect the environment, make sure everyone has access to clean water and sanitation, and work towards reducing inequality. It is important to include young people and women in these efforts and to use technology and innovation to find solutions. We also need to make sure we have strong partnerships between countries and organizations to achieve these goals.
 
+## This article mentions these technologies
+
+* [Agricultural technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
+* [Ai in healthcare](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_73.md)
+* [Climate mitigation strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3.md)
+* [Distance learning technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_533.md)
+* [Healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1506.md)
+* [Income support measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1507.md)
+* [Internet access](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1209.md)
+* [Job support programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_353.md)
+* [Renewable energy technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1509.md)
+* [Sanitation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1510.md)
+* [Sustainable agriculture](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1508.md)
+* [Sustainable farming practices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1505.md)
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_69.md)
+* [Water purification technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1511.md)
+
+## This article points to following mitigation
+
+* [Cash donations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4702.md)
+* [Climate change mitigation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4698.md)
+* [Distance learning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4703.md)
+* [Inclusion of young people and women](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4707.md)
+* [Medical student support](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4700.md)
+* [Partnership](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4706.md)
+* [Planning mechanism](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4695.md)
+* [Protection of biodiversity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4410.md)
+* [Renewable energy](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4694.md)
+* [Science-based decision-making](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4693.md)
+* [Soap and water access](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4697.md)
+* [Social and economic equality](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4704.md)
+* [Social protection measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4701.md)
+* [Strengthen protection of environment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4708.md)
+* [Strong institutions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4699.md)
+* [Sustainable urban planning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4705.md)
+* [Technology and innovation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4696.md)
+
 ## Title of the article
 
 COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS
@@ -21,67 +84,4 @@ COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS
 ## Year of publication
 
 2020
-
-## Benefits listed in this article
-
-* [Improved access to healthcare](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_35.md)
-* [Sustainable development](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_285.md)
-* [Preserving natural resources](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_286.md)
-* [Continued access to education](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_287.md)
-* [Poverty reduction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_288.md)
-* [Food and nutrition security](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_289.md)
-* [Gender equality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_290.md)
-* [Clean water and sanitation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_291.md)
-* [Job creation and economic growth](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_292.md)
-* [Reduced inequality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_293.md)
-* [Peace, justice, and strong institutions](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_294.md)
-
-## List of risks in an article
-
-* [Economic crisis](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_231.md)
-* [Education disruption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_234.md)
-* [Unemployment and underemployment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2014.md)
-* [Water and sanitation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2013.md)
-* [Food security](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_232.md)
-* [Healthcare system collapse](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2012.md)
-* [Gender inequality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_237.md)
-* [Inequality exacerbation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2015.md)
-* [Climate change](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_894.md)
-
-## This article points to following mitigation
-
-* [Partnership](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4702.md)
-* [Planning mechanism](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4698.md)
-* [Science-based decision-making](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4703.md)
-* [Protection of biodiversity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4707.md)
-* [Sustainable urban planning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4410.md)
-* [Cash donations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4694.md)
-* [Renewable energy](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4704.md)
-* [Climate change mitigation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4706.md)
-* [Technology and innovation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4697.md)
-* [Distance learning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4695.md)
-* [Social protection measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4693.md)
-* [Inclusion of young people and women](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4699.md)
-* [Social and economic equality](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4705.md)
-* [Strengthen protection of environment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4700.md)
-* [Strong institutions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4708.md)
-* [Medical student support](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4696.md)
-* [Soap and water access](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4701.md)
-
-## This article mentions these technologies
-
-* [Renewable energy technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_353.md)
-* [Agricultural technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_69.md)
-* [Sustainable farming practices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1505.md)
-* [Distance learning technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1507.md)
-* [Internet access](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1209.md)
-* [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_73.md)
-* [Sustainable agriculture](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_533.md)
-* [Climate mitigation strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1511.md)
-* [Healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3.md)
-* [Sanitation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_246.md)
-* [Water purification technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1508.md)
-* [Ai in healthcare](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1506.md)
-* [Job support programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1509.md)
-* [Income support measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1510.md)
 

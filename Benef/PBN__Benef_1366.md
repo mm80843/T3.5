@@ -2,23 +2,27 @@
 
 # __Decrease in virus transmission__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Maintaining physical distance between individuals to minimize close contact
+* [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_294.md)
+
+## Category to which it belongs
+
+* [Enhanced measures to inhibit the dissemination and transmission of viruses, including reducing concentration and spread.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_10.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Reduced risk of infection, improved public health and safety](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_1559.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_294.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
+Maintaining physical distance between individuals to minimize close contact
 
 ## Risks which can benefit from this action
 
 * [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
 

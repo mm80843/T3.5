@@ -2,9 +2,32 @@
 
 # __Addressing the impact of COVID-19 lockdown on energy use in municipal buildings: A case study in Florianópolis, Brazil__
 
+## Benefits listed in this article
+
+* [Identification of energy consumption drivers](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1339.md)
+* [Improved understanding of building energy use](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1342.md)
+* [More accurate energy billing](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1340.md)
+* [Reduction in energy waste](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1341.md)
+
 ## DOI of the article
 
 10.1016/j.scs.2021.102823
+
+## List of risks in an article
+
+* [High energy use during unoccupied periods](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1402.md)
+* [Inefficient systems and equipment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1404.md)
+* [Lack of occupant awareness and behavior](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1400.md)
+* [Unnecessary stand-by loads](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1401.md)
+* [Vital loads and lighting for safety](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1403.md)
+
+## Referenced by other articles
+
+* [A critical analysis of the impacts of COVID-19 on the global economy and ecosystems and opportunities for circular economy strategies](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_260.md)
+* [Antivirus-built environment: Lessons learned from Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_289.md)
+* [Covid-19 and the politics of sustainable energy transitions](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_344.md)
+* [Occupants’ behavior and activity patterns influencing the energy consumption in the Kuwaiti residences](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_14.md)
+* [Validity of energy social research during and after COVID-19: challenges, considerations, and responses](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_298.md)
 
 ## Short summary of the article
 
@@ -14,13 +37,29 @@ This study examined the impact of the COVID-19 lockdown on the energy consumptio
 
 During the COVID-19 pandemic, many buildings were not being used but still used a lot of energy. The study focused on municipal buildings in Florianópolis, Brazil and found that even though the buildings were nearly empty, they still consumed a lot of electricity. The researchers found that some buildings had a "basal energy use intensity," which means they used energy even when no one was there. This could be because of things like appliances left on standby, lights left on for safety, or vital systems that needed to be running. The study suggests that buildings need to be more energy efficient and policies should be put in place to reduce wasted energy.
 
-## Referenced by other articles
+## This article mentions these technologies
 
-* [Occupants’ behavior and activity patterns influencing the energy consumption in the Kuwaiti residences](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_260.md)
-* [Validity of energy social research during and after COVID-19: challenges, considerations, and responses](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_289.md)
-* [A critical analysis of the impacts of COVID-19 on the global economy and ecosystems and opportunities for circular economy strategies](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_344.md)
-* [Covid-19 and the politics of sustainable energy transitions](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_14.md)
-* [Antivirus-built environment: Lessons learned from Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_298.md)
+* [Behavior change programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_322.md)
+* [Building automation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_655.md)
+* [Efficient lighting fixtures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_350.md)
+* [Energy feedback systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_202.md)
+* [Energy management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_652.md)
+* [Energy monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_647.md)
+* [Energy-efficient systems and equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_654.md)
+* [Lighting control systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_656.md)
+* [Occupancy sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_653.md)
+* [Occupant education and training](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_650.md)
+* [Power-saving features in devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_651.md)
+* [Regular maintenance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_649.md)
+* [User education](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_648.md)
+
+## This article points to following mitigation
+
+* [Behavioral change](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3719.md)
+* [Energy audits](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_62.md)
+* [Remote monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1003.md)
+* [Stand-by load](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3720.md)
+* [Work-from-home](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3721.md)
 
 ## Title of the article
 
@@ -29,43 +68,4 @@ Addressing the impact of COVID-19 lockdown on energy use in municipal buildings:
 ## Year of publication
 
 2021
-
-## Benefits listed in this article
-
-* [Reduction in energy waste](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1339.md)
-* [Identification of energy consumption drivers](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1340.md)
-* [More accurate energy billing](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1341.md)
-* [Improved understanding of building energy use](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1342.md)
-
-## List of risks in an article
-
-* [Lack of occupant awareness and behavior](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1404.md)
-* [High energy use during unoccupied periods](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1400.md)
-* [Inefficient systems and equipment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1402.md)
-* [Vital loads and lighting for safety](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1403.md)
-* [Unnecessary stand-by loads](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1401.md)
-
-## This article points to following mitigation
-
-* [Behavioral change](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_62.md)
-* [Energy audits](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3720.md)
-* [Remote monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1003.md)
-* [Work-from-home](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3719.md)
-* [Stand-by load](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3721.md)
-
-## This article mentions these technologies
-
-* [Energy management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_322.md)
-* [Occupancy sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_647.md)
-* [Energy monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_350.md)
-* [Building automation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_202.md)
-* [Lighting control systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_652.md)
-* [Energy-efficient systems and equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_650.md)
-* [Efficient lighting fixtures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_653.md)
-* [Regular maintenance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_651.md)
-* [Power-saving features in devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_648.md)
-* [User education](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_649.md)
-* [Energy feedback systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_654.md)
-* [Occupant education and training](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_655.md)
-* [Behavior change programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_656.md)
 

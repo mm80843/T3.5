@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Digital platforms facilitate virtual collaboration, communication, information sharing, and online transactions among individuals and communities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_100.md)
+* [Digital platforms facilitate virtual collaboration, communication, information sharing, and online transactions among individuals and communities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_150.md)
 
 ## Closest similar item
 
 * [Collaboration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_151.md)
-* [Collaboration mechanisms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2747.md)
-* [Collaboration across sectors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3050.md)
-* [Collaboration tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_565.md)
-* [Engagement with diverse groups](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2712.md)
-* [Collaboration platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_155.md)
-* [Expertise and collaboration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2378.md)
-* [Research collaborations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_466.md)
-* [Social media groups](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_420.md)
-* [Cross-sector collaboration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2915.md)
+* [Collaboration across sectors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2747.md)
+* [Collaboration mechanisms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3050.md)
+* [Collaboration platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_565.md)
+* [Collaboration tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2712.md)
+* [Cross-sector collaboration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_155.md)
+* [Engagement with diverse groups](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2378.md)
+* [Expertise and collaboration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_466.md)
+* [Research collaborations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_420.md)
+* [Social media groups](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2915.md)
 
 ## This Technology enables the following mitigations
 

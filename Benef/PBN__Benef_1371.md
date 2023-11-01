@@ -2,24 +2,28 @@
 
 # __Ensured privacy and data protection__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Secure storage and careful sharing of personal data to prevent misuse
+* [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_294.md)
+
+## Category to which it belongs
+
+* [Enhanced safeguarding of personal information, privacy, rights, and security with inclusive access to reliable and secure data.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_22.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Protection of privacy rights, increased trust in smart city technologies](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_1564.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_294.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
-* [Data subjects](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_533.md)
+Secure storage and careful sharing of personal data to prevent misuse
 
 ## Risks which can benefit from this action
 
 * [Personal data security](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1406.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [Data subjects](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
+* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_533.md)
 

@@ -4,9 +4,9 @@
 
 ## Type of deployment of the blueprint
 
-* [Controls at key checkpoints](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_6.md)
-* [Good hand hygiene practice](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_14.md)
-* [Animal vectors control measures](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_18.md)
-* [Tracking and enforcing use of personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_19.md)
-* [Infection tracking](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_20.md)
+* [Animal vectors control measures](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_6.md)
+* [Controls at key checkpoints](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_14.md)
+* [Good hand hygiene practice](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_18.md)
+* [Infection tracking](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_19.md)
+* [Tracking and enforcing use of personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_20.md)
 

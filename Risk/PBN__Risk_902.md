@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Interoperability challenges, high costs, limited communication, and lack of resources impact various sectors globally.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_22.md)
+* [Interoperability challenges, high costs, limited communication, and lack of resources impact various sectors globally.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_72.md)
 
 ## Closest similar item
 
-* [Barriers to progress, existing challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2602.md)
-* [Communication challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1933.md)
-* [Security challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2070.md)
-* [Infrastructure challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1904.md)
-* [Adversity and challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2822.md)
-* [Difficulty in adapting to new rules and regulations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2769.md)
-* [Limited innovation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2629.md)
-* [Difficult access to existing knowledge](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2575.md)
+* [Adversity and challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2602.md)
+* [Barriers to progress, existing challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1933.md)
+* [Communication challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2070.md)
+* [Difficult access to existing knowledge](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1904.md)
+* [Difficulty in adapting to new rules and regulations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2822.md)
+* [Infrastructure challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2769.md)
+* [Lack of testing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2629.md)
+* [Limited innovation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2575.md)
 * [Resistance to using new systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3245.md)
-* [Lack of testing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_543.md)
+* [Security challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_543.md)
 
 ## Mitigations of this risk
 

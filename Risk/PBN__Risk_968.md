@@ -2,26 +2,26 @@
 
 # __Pathogen transmission via surfaces__
 
-## Category to which it belongs
-
-* [Exposure to a wide range of contaminants, pathogens, and toxins on various surfaces and through different modes of transmission.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_29.md)
-
-## Closest similar item
-
-* [Contamination of surfaces with pathogens](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2675.md)
-* [Virus transmission via surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1623.md)
-* [Transmission of pathogens through touch](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2673.md)
-* [Transmission of pathogens](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2475.md)
-* [Transmission of pathogens within a confined space](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2676.md)
-* [High infection rate via contaminated surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_657.md)
-* [Pathogen propagation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3288.md)
-* [Virus spread through contaminated surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1124.md)
-* [Airborne transmission of pathogens](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2674.md)
-* [Transmission through contaminated surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1366.md)
-
 ## Blueprints with this risk
 
 * [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_5.md)
+
+## Category to which it belongs
+
+* [Exposure to a wide range of contaminants, pathogens, and toxins on various surfaces and through different modes of transmission.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_79.md)
+
+## Closest similar item
+
+* [Airborne transmission of pathogens](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2675.md)
+* [Contamination of surfaces with pathogens](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1623.md)
+* [High infection rate via contaminated surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2673.md)
+* [Pathogen propagation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2475.md)
+* [Transmission of pathogens](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2676.md)
+* [Transmission of pathogens through touch](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_657.md)
+* [Transmission of pathogens within a confined space](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3288.md)
+* [Transmission through contaminated surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1124.md)
+* [Virus spread through contaminated surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2674.md)
+* [Virus transmission via surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1366.md)
 
 ## Mitigations of this risk
 

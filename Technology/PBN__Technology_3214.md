@@ -2,26 +2,26 @@
 
 # __Artificial intelligence and ml__
 
-## Link between Blueprint and General ontology
-
-* [AI/ML](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_8.md)
-
 ## Category to which it belongs
 
-* [Advanced analytics and simulation techniques can be used to study complex systems and make predictions using artificial intelligence and machine learning, as well as optimize processes and analyze data efficiently.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_107.md)
+* [Advanced analytics and simulation techniques can be used to study complex systems and make predictions using artificial intelligence and machine learning, as well as optimize processes and analyze data efficiently.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_157.md)
 
 ## Closest similar item
 
-* [Ai/ml](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3896.md)
-* [Artificial intelligence and machine learning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2034.md)
-* [Artificial intelligence ai](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1712.md)
-* [Artificial intelligence](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_356.md)
-* [Ml](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1579.md)
-* [Ai algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_149.md)
-* [Ai](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_278.md)
-* [Ai technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2042.md)
-* [Machine learning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2041.md)
-* [Machine learning algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2555.md)
+* [Ai](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3896.md)
+* [Ai algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2034.md)
+* [Ai technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1712.md)
+* [Ai/ml](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_356.md)
+* [Artificial intelligence](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1579.md)
+* [Artificial intelligence ai](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_149.md)
+* [Artificial intelligence and machine learning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_278.md)
+* [Machine learning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2042.md)
+* [Machine learning algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2041.md)
+* [Ml](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2555.md)
+
+## Link between Blueprint and General ontology
+
+* [AI/ML](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_8.md)
 
 ## This Technology enables the following mitigations
 

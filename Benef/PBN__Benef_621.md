@@ -2,24 +2,28 @@
 
 # __Enhanced energy infrastructure__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Government stimulus packages that target energy infrastructure can lead to the development and deployment of renewable energy technologies, improving energy efficiency and grid resilience
+* [Contextualizing the Covid-19 pandemic for a carbon-constrained world: Insights for sustainability transitions, energy justice, and research methodology](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_123.md)
+
+## Category to which it belongs
+
+* [Optimized energy usage, cost savings, and better energy infrastructure through increased efficiency and awareness.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_45.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from increased market demand for renewable energy technologies, leading to business growth and investment opportunities.](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_666.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [Contextualizing the Covid-19 pandemic for a carbon-constrained world: Insights for sustainability transitions, energy justice, and research methodology](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_123.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [Society](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_53.md)
-* [Energy firms](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_253.md)
+Government stimulus packages that target energy infrastructure can lead to the development and deployment of renewable energy technologies, improving energy efficiency and grid resilience
 
 ## Risks which can benefit from this action
 
 * [Government stimulus packages](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_617.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [Energy firms](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_53.md)
+* [Society](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_253.md)
 

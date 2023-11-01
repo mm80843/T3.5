@@ -2,34 +2,59 @@
 
 # __Overwhelmed healthcare systems__
 
+## Articles mentionning the risk
+
+* [COVID-19 and the UN Sustainable Development Goals: Threat to Solidarity or an Opportunity?](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_109.md)
+
 ## Category to which it belongs
 
-* [Healthcare systems overwhelmed, limited access to services, scarcity of resources, and risk to healthcare workers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_10.md)
+* [Healthcare systems overwhelmed, limited access to services, scarcity of resources, and risk to healthcare workers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_60.md)
 
 ## Closest similar item
 
-* [Overwhelmed healthcare system](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1007.md)
-* [Overwhelmed healthcare systems and operations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1878.md)
-* [Overwhelming healthcare systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1379.md)
-* [Overwhelmed healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_22.md)
+* [Fragmented healthcare system](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1007.md)
+* [Health sector overwhelmed](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1878.md)
+* [Healthcare system overload](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1379.md)
+* [Overburdened healthcare systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_22.md)
 * [Overwhelmed health sector](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1072.md)
-* [Overwhelming healthcare](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2502.md)
-* [Fragmented healthcare system](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2000.md)
-* [Overburdened healthcare systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2700.md)
-* [Healthcare system overload](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2110.md)
-* [Health sector overwhelmed](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_523.md)
+* [Overwhelmed healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2502.md)
+* [Overwhelmed healthcare system](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2000.md)
+* [Overwhelmed healthcare systems and operations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2700.md)
+* [Overwhelming healthcare](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2110.md)
+* [Overwhelming healthcare systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_523.md)
 
 ## Description of the risk
 
 Inability to provide adequate healthcare services due to high number of COVID-19 patients
 
-## Type of the risk
-
-* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Is the risk affecting GBN scales
 
 * [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+
+## Mitigations of this risk
+
+* [Increase healthcare capacity, prioritize resources, telemedicine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3615.md)
+* [Predicting hospital capacity and balancing loads](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2168.md)
+* [Universal healthcare](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5157.md)
+
+## Name of the risk
+
+Increased mortality rates, limited access to healthcare for non-COVID-19 patients
+
+## People affected by this risk
+
+* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_68.md)
+* [Healthcare workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
+
+## Stakeholders who can mitigate this risk
+
+* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
+* [Healthcare organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_216.md)
+
+## Technologies linked to the risk
+
+* [Portable medical equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_952.md)
+* [Telemedicine technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_953.md)
 
 ## Type of impact of the risk (according to ISO37100)
 
@@ -39,34 +64,9 @@ Inability to provide adequate healthcare services due to high number of COVID-19
 
 * [Safety and security](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_0.md)
 
-## Mitigations of this risk
+## Type of the risk
 
-* [Universal healthcare](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3615.md)
-* [Increase healthcare capacity, prioritize resources, telemedicine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2168.md)
-* [Predicting hospital capacity and balancing loads](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5157.md)
-
-## Name of the risk
-
-Increased mortality rates, limited access to healthcare for non-COVID-19 patients
-
-## Stakeholders who can mitigate this risk
-
-* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
-* [Healthcare organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_216.md)
-
-## Articles mentionning the risk
-
-* [COVID-19 and the UN Sustainable Development Goals: Threat to Solidarity or an Opportunity?](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_109.md)
-
-## People affected by this risk
-
-* [Healthcare workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_68.md)
-* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
-
-## Technologies linked to the risk
-
-* [Telemedicine technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_952.md)
-* [Portable medical equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_953.md)
+* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 

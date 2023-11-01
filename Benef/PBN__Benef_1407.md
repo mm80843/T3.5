@@ -2,24 +2,28 @@
 
 # __Reduced misinformation dissemination__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Encourages responsible sharing of accurate information, decreasing the spread of misinformation and false claims.
+* [Infodemic and the spread of fake news in the COVID-19-era](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_299.md)
+
+## Category to which it belongs
+
+* [Enhanced accuracy and control over information dissemination, minimizing bias, misinformation, and false spread.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_43.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Private investors would benefit from improved public trust in scientific information, reducing potential reputational damage and promoting long-term investments in research and development.](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_1605.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [Infodemic and the spread of fake news in the COVID-19-era](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_299.md)
+Encourages responsible sharing of accurate information, decreasing the spread of misinformation and false claims.
+
+## Risks which can benefit from this action
+
+* [Responsible information sharing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1443.md)
 
 ## Stakeholders benefitting from this Benefit
 
 * [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_29.md)
 * [Scientific community](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_348.md)
-
-## Risks which can benefit from this action
-
-* [Responsible information sharing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1443.md)
 

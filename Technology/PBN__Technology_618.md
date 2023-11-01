@@ -4,26 +4,26 @@
 
 ## Category to which it belongs
 
-* [Increasing access to and incorporating elements of nature into urban environments can enhance the quality and availability of green spaces.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_139.md)
+* [Increasing access to and incorporating elements of nature into urban environments can enhance the quality and availability of green spaces.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_189.md)
 
 ## Closest similar item
 
-* [Green roof maintenance technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1031.md)
-* [Green roof and wall technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1838.md)
-* [Green roof installations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_845.md)
-* [Green roofs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1390.md)
-* [Green building materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3232.md)
-* [Green technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1645.md)
-* [Cool roofs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_970.md)
-* [Urban greening technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2177.md)
-* [Green building strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3439.md)
-* [Green sustainable materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3850.md)
-
-## This technology is mentioned by
-
-* [Treating two pandemics for the price of one: Chronic and infectious disease impacts of the built and natural environment](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_174.md)
+* [Cool roofs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1031.md)
+* [Green building materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1838.md)
+* [Green building strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_845.md)
+* [Green roof and wall technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1390.md)
+* [Green roof installations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3232.md)
+* [Green roof maintenance technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1645.md)
+* [Green roofs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_970.md)
+* [Green sustainable materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2177.md)
+* [Green technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3439.md)
+* [Urban greening technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3850.md)
 
 ## Risks linked to this technology
 
 * [Lack of green spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1295.md)
+
+## This technology is mentioned by
+
+* [Treating two pandemics for the price of one: Chronic and infectious disease impacts of the built and natural environment](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_174.md)
 

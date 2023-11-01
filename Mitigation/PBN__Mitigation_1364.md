@@ -2,30 +2,30 @@
 
 # __Environmental sanitation__
 
-## Category to which it belongs
+## Benefits linked to a risk
 
-* [Enhancing water and waste management through surveillance, treatment, and improved infrastructure to ensure environmental hygiene and public health.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_50.md)
-
-## Closest similar item
-
-* [Sanitation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4564.md)
-* [Environmental hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4076.md)
-* [Implementing proper sanitation measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_888.md)
-* [Sanitation facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4971.md)
-* [Improved sanitation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4098.md)
-* [Access to adequate sanitation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3139.md)
-* [Mandatory sanitation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4285.md)
-* [Improved sanitation and cleaning protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_529.md)
-* [Increased sanitation monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5167.md)
-* [Increased sanitation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1415.md)
+* [Reduction of transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1336.md)
 
 ## Blueprints with this mitigation
 
 * [Drinking water safety - biofilm formation](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_21.md)
 
-## Benefits linked to a risk
+## Category to which it belongs
 
-* [Reduction of transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1336.md)
+* [Enhancing water and waste management through surveillance, treatment, and improved infrastructure to ensure environmental hygiene and public health.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_100.md)
+
+## Closest similar item
+
+* [Access to adequate sanitation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4564.md)
+* [Environmental hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4076.md)
+* [Implementing proper sanitation measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_888.md)
+* [Improved sanitation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4971.md)
+* [Improved sanitation and cleaning protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4098.md)
+* [Increased sanitation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3139.md)
+* [Increased sanitation monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4285.md)
+* [Mandatory sanitation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_529.md)
+* [Sanitation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5167.md)
+* [Sanitation facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1415.md)
 
 ## Risks possibly mitigated by this Mitigation
 

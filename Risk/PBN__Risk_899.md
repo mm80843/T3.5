@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The prevalence and impact of inaccurate, uncertain, and biased data pose significant challenges in decision-making and effective response to the covid-19 pandemic.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_34.md)
+* [The prevalence and impact of inaccurate, uncertain, and biased data pose significant challenges in decision-making and effective response to the covid-19 pandemic.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_84.md)
 
 ## Closest similar item
 
-* [Lack of quantitative evidence for the effectiveness of ubpi](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2218.md)
-* [Lack of ugs density](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1676.md)
-* [Lack of quick and accurate diagnostics](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2937.md)
-* [Lack of evidence in lmic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2997.md)
-* [Inconsistent use of research evidence](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1350.md)
-* [Lack of credibility as a source of evidence](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_400.md)
-* [Sample bias in wearable device studies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1110.md)
-* [Inadequate maintenance of ugs](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1679.md)
+* [Inaccuracy of data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2218.md)
+* [Inadequate maintenance of ugs](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1676.md)
+* [Inconsistent use of research evidence](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2937.md)
+* [Lack of credibility as a source of evidence](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2997.md)
+* [Lack of evidence in lmic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1350.md)
+* [Lack of quantitative evidence for the effectiveness of ubpi](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_400.md)
+* [Lack of quick and accurate diagnostics](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1110.md)
+* [Lack of ugs density](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1679.md)
 * [Non-evidence-based measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_375.md)
-* [Inaccuracy of data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1224.md)
+* [Sample bias in wearable device studies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1224.md)
 
 ## Mitigations of this risk
 

@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Optimize airflow and air quality through improved ventilation systems and natural lighting, increased outdoor air intake, and proper maintenance.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_71.md)
+* [Optimize airflow and air quality through improved ventilation systems and natural lighting, increased outdoor air intake, and proper maintenance.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_121.md)
 
 ## Closest similar item
 
-* [Increase access to nature through balconies, green spaces, and windows, maximize daylight and natural ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2226.md)
-* [Incorporate ventilation systems and optimize natural lighting in building design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1785.md)
-* [Design for natural lighting and ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_136.md)
-* [Increase the amount of outdoor air in ventilation systems, open windows for natural ventilation, and ensure proper ventilation design and operation.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1932.md)
-* [Improve ventilation systems, increase outdoor air supply.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1805.md)
-* [Provide natural ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2871.md)
-* [Design units with provisions for natural light, ventilation, access to nature, and personal gardening spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2566.md)
-* [Improve ventilation systems, increase outdoor air intake, use air quality sensors](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2474.md)
+* [Design for natural lighting and ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2226.md)
+* [Design units with provisions for natural light, ventilation, access to nature, and personal gardening spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1785.md)
+* [Improve ventilation systems, increase outdoor air intake, use air quality sensors](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_136.md)
+* [Improve ventilation systems, increase outdoor air supply.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1932.md)
+* [Incorporate ventilation systems and optimize natural lighting in building design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1805.md)
+* [Increase access to nature through balconies, green spaces, and windows, maximize daylight and natural ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2871.md)
+* [Increase the amount of outdoor air in ventilation systems, open windows for natural ventilation, and ensure proper ventilation design and operation.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2566.md)
+* [Increasing ventilation rates, using natural ventilation, regularly maintaining and cleaning ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2474.md)
 * [Proper ventilation, air filtration, natural daylighting, indoor plantings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3077.md)
-* [Increasing ventilation rates, using natural ventilation, regularly maintaining and cleaning ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2384.md)
+* [Provide natural ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2384.md)
 
 ## Risks possibly mitigated by this Mitigation
 

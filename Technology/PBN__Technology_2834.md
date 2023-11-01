@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Effective water management encompasses wastewater testing, waste management, rainwater storage, wastewater treatment technology, smart water consumption, and improved infrastructure.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_131.md)
+* [Effective water management encompasses wastewater testing, waste management, rainwater storage, wastewater treatment technology, smart water consumption, and improved infrastructure.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_181.md)
 
 ## Closest similar item
 
-* [Bathroom](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2835.md)
-* [Drainage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3818.md)
-* [Fountains](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3074.md)
-* [Bathrooms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3279.md)
-* [Water](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2480.md)
-* [Proper disposal](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3622.md)
-* [Proper sealing of pipes and sinks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1752.md)
-* [Waterfalls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3073.md)
-* [Drainage systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3275.md)
-* [And plumbing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3108.md)
+* [And plumbing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2835.md)
+* [Bathroom](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3818.md)
+* [Bathrooms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3074.md)
+* [Drainage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3279.md)
+* [Drainage systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2480.md)
+* [Fountains](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3622.md)
+* [Proper disposal](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1752.md)
+* [Proper sealing of pipes and sinks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3073.md)
+* [Water](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3275.md)
+* [Waterfalls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3108.md)
 
 ## This Technology enables the following mitigations
 

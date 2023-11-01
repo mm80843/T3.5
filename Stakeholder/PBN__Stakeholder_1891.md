@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The industry of creating and supplying various devices, equipment, and platforms for different sectors and users.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_214.md)
+* [The industry of creating and supplying various devices, equipment, and platforms for different sectors and users.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_264.md)
 
 ## Closest similar item
 
-* [Equipment suppliers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_747.md)
-* [Supplier](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1876.md)
-* [Suppliers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_283.md)
-* [Medical equipment manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_546.md)
-* [Manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_34.md)
-* [Manufacturer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1953.md)
-* [Suppliers and subcontractors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_320.md)
-* [Device manufacturer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1882.md)
-* [Device manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1431.md)
-* [Logistics providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_535.md)
+* [Device manufacturer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_747.md)
+* [Device manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1876.md)
+* [Equipment suppliers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_283.md)
+* [Logistics providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_546.md)
+* [Manufacturer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_34.md)
+* [Manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1953.md)
+* [Medical equipment manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_320.md)
+* [Supplier](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1882.md)
+* [Suppliers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1431.md)
+* [Suppliers and subcontractors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_535.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

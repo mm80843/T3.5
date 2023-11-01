@@ -4,31 +4,31 @@
 
 ## Category to which it belongs
 
-* [Data protection measures, privacy regulations, encryption and authentication techniques, and standardized protocols ensure secure and anonymous communication.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_118.md)
+* [Data protection measures, privacy regulations, encryption and authentication techniques, and standardized protocols ensure secure and anonymous communication.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_168.md)
 
 ## Closest similar item
 
-* [Encryption technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1540.md)
-* [Data encryption technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_182.md)
-* [Encryption](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_97.md)
-* [Encryption techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_819.md)
-* [Data encryption](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_344.md)
-* [Data encryption techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_824.md)
+* [Data encryption](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1540.md)
+* [Data encryption techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_182.md)
+* [Data encryption technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_97.md)
+* [Data encryption tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_819.md)
+* [Encrypted data transmission](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_344.md)
+* [Encryption](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_824.md)
 * [Encryption algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_315.md)
-* [Encryption tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2243.md)
-* [Encrypted data transmission](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3528.md)
-* [Data encryption tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1899.md)
+* [Encryption techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2243.md)
+* [Encryption technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3528.md)
+* [Encryption tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1899.md)
+
+## Risks linked to this technology
+
+* [Confidentiality breach in telepsychiatry consultations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1697.md)
+* [Cybersecurity threats](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1887.md)
+* [Privacy and security concerns in contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2216.md)
 
 ## This Technology belongs to this TechGroup
 
-* [Data privacy](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2191.md)
 * [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2241.md)
-
-## This technology is mentioned by
-
-* [Digital Twin of COVID-19 Mass Vaccination Centers](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_47.md)
-* [Ultra Brief Psychological Interventions for COVID-19 Pandemic: Introduction of a Locally-Adapted Brief Intervention for Mental Health and Psychosocial Support Service](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_258.md)
-* [Water and wastewater digital surveillance for monitoring and early detection of the COVID-19 hotspot: industry 4.0](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_162.md)
+* [Data privacy](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2191.md)
 
 ## This Technology belongs to this TechSubgroup
 
@@ -39,9 +39,9 @@
 
 * [Lightweight security solutions for iot devices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4140.md)
 
-## Risks linked to this technology
+## This technology is mentioned by
 
-* [Privacy and security concerns in contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1697.md)
-* [Cybersecurity threats](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1887.md)
-* [Confidentiality breach in telepsychiatry consultations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2216.md)
+* [Digital Twin of COVID-19 Mass Vaccination Centers](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_162.md)
+* [Ultra Brief Psychological Interventions for COVID-19 Pandemic: Introduction of a Locally-Adapted Brief Intervention for Mental Health and Psychosocial Support Service](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_47.md)
+* [Water and wastewater digital surveillance for monitoring and early detection of the COVID-19 hotspot: industry 4.0](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_258.md)
 

@@ -2,23 +2,27 @@
 
 # __Improved crisis-information repositories__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Establishing regularly updated crisis-information repositories can lead to a more risk-literate urban citizenry, enhancing preparedness and response to future pandemics.
+* [COVID-19: Lessons for an Urban(izing) World](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_85.md)
+
+## Category to which it belongs
+
+* [The ability to withstand and adapt to disruptions, instability, crises, and shocks is fortified and enhanced.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_13.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Private investors in the development and maintenance of crisis-information repositories can benefit from increased demand and usage, potentially leading to increased revenue and profitability.](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_452.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [COVID-19: Lessons for an Urban(izing) World](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_85.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [Urban citizenry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_200.md)
+Establishing regularly updated crisis-information repositories can lead to a more risk-literate urban citizenry, enhancing preparedness and response to future pandemics.
 
 ## Risks which can benefit from this action
 
 * [Forced experimentation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_431.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [Urban citizenry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_200.md)
 

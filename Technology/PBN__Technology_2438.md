@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Innovative technologies and systems that enable efficient and secure control, management, and interaction in various domains.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_109.md)
+* [Innovative technologies and systems that enable efficient and secure control, management, and interaction in various domains.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_159.md)
 
 ## Closest similar item
 
-* [Training and certification programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1157.md)
-* [Trusted sources certification](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_936.md)
-* [Security systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1879.md)
-* [Data validation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1317.md)
-* [Validation platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1898.md)
-* [Diagnostic testing systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1556.md)
-* [Courses](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2436.md)
-* [Compliance monitoring technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2772.md)
-* [Expert systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1145.md)
-* [Medical assessment equipment and protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1652.md)
+* [Compliance monitoring technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1157.md)
+* [Courses](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_936.md)
+* [Data validation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1879.md)
+* [Diagnostic testing systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1317.md)
+* [Expert systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1898.md)
+* [Medical assessment equipment and protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1556.md)
+* [Security systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2436.md)
+* [Training and certification programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2772.md)
+* [Trusted sources certification](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1145.md)
+* [Validation platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1652.md)
 
 ## This Technology enables the following mitigations
 

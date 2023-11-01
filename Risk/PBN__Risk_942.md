@@ -4,27 +4,27 @@
 
 ## Category to which it belongs
 
-* [The spread of diseases through various means such as air, contact, surfaces, and bodily fluids.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_45.md)
+* [The spread of diseases through various means such as air, contact, surfaces, and bodily fluids.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_95.md)
 
 ## Closest similar item
 
-* [Disease transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_489.md)
-* [Transmission of disease](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2725.md)
-* [Transmission from infected individuals](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3273.md)
-* [Contagious disease transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1021.md)
-* [Transmission of the disease](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3250.md)
-* [Transmission of infection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2772.md)
-* [Transmission of pathogens](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2475.md)
-* [Viral transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2777.md)
-* [Infectious diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_711.md)
-* [Infectious disease](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2897.md)
+* [Contagious disease transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_489.md)
+* [Disease transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2725.md)
+* [Infectious disease](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3273.md)
+* [Infectious diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1021.md)
+* [Transmission from infected individuals](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3250.md)
+* [Transmission of disease](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2772.md)
+* [Transmission of infection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2475.md)
+* [Transmission of pathogens](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2777.md)
+* [Transmission of the disease](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_711.md)
+* [Viral transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2897.md)
 
 ## Mitigations of this risk
 
-* [Improving ventilation system](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1318.md)
-* [Incorporating outdoor spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1321.md)
-* [Implementing flexible and adaptable design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1322.md)
-* [Creating isolation room](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1319.md)
-* [Use of hygienic and anti-bacterial materials](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1320.md)
-* [Improved ventilation and air filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1305.md)
+* [Creating isolation room](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1318.md)
+* [Implementing flexible and adaptable design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1321.md)
+* [Improved ventilation and air filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1319.md)
+* [Improving ventilation system](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1322.md)
+* [Incorporating outdoor spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1320.md)
+* [Use of hygienic and anti-bacterial materials](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1305.md)
 

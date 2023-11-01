@@ -2,9 +2,31 @@
 
 # __Learning from the COVID-19 pandemic in governing smart cities__
 
+## Benefits listed in this article
+
+* [Collaborative governance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_872.md)
+* [Enhanced coordination](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_873.md)
+* [Improved transparency](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_874.md)
+* [Integrated planning and delivery](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_871.md)
+* [Resilient and sustainable cities](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_870.md)
+
 ## DOI of the article
 
 10.3233/SCS-210118
+
+## List of risks in an article
+
+* [Conflicting interests and governance models](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1191.md)
+* [Ineffective public management models](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1192.md)
+* [Ineffective use of open government projects](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1190.md)
+* [Lack of effective technical systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1189.md)
+* [Lack of strategic planning and alignment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1188.md)
+* [Weaknesses in smart city governance models](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1193.md)
+
+## Referenced by other articles
+
+* [A critical review of emerging technologies for tackling COVID ‐19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_91.md)
+* [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_294.md)
 
 ## Short summary of the article
 
@@ -14,10 +36,31 @@ This research paper explores the implementation of emerging technologies (ETs) a
 
 The COVID-19 pandemic has caused a lot of problems for society, like economic issues and challenges for governments. It has shown that governments need to be better at handling emergencies like this. One way they can improve is by using new technologies, like big data and artificial intelligence, to make better decisions. These technologies can help with things like tracking the virus, planning for emergencies, and sharing information with the public. Some cities are already using these technologies to become "smart cities" and improve their services. It's important for governments to work together and involve citizens in the decision-making process to create better solutions for future disasters.
 
-## Referenced by other articles
+## This article mentions these technologies
 
-* [A critical review of emerging technologies for tackling COVID ‐19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_91.md)
-* [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_294.md)
+* [Ai](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_278.md)
+* [Big data](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
+* [Blockchain](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_277.md)
+* [E-participation tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_94.md)
+* [Emerging technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_276.md)
+* [Iot](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_279.md)
+* [Open data platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_275.md)
+* [Open government mechanisms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_281.md)
+* [Open government technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_282.md)
+* [Remote sensing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_283.md)
+
+## This article points to following mitigation
+
+* [Big data analytics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3364.md)
+* [Citizen engagement and participatory platforms](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3360.md)
+* [Collaborative networks and partnerships](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3363.md)
+* [Drones for contactless delivery and surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_843.md)
+* [Iot-based systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3361.md)
+* [Machine learning and artificial intelligence](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3357.md)
+* [Open data sharing and analysis for pandemic dataset creation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3358.md)
+* [Open government projects and open data initiatives](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3359.md)
+* [Spatial mapping of covid-19 hotspots](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3362.md)
+* [Telemedicine and remote healthcare](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3365.md)
 
 ## Title of the article
 
@@ -26,47 +69,4 @@ Learning from the COVID-19 pandemic in governing smart cities
 ## Year of publication
 
 2022
-
-## Benefits listed in this article
-
-* [Improved transparency](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_870.md)
-* [Enhanced coordination](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_871.md)
-* [Collaborative governance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_872.md)
-* [Integrated planning and delivery](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_873.md)
-* [Resilient and sustainable cities](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_874.md)
-
-## List of risks in an article
-
-* [Ineffective public management models](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1188.md)
-* [Lack of strategic planning and alignment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1191.md)
-* [Ineffective use of open government projects](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1193.md)
-* [Lack of effective technical systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1190.md)
-* [Conflicting interests and governance models](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1189.md)
-* [Weaknesses in smart city governance models](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1192.md)
-
-## This article points to following mitigation
-
-* [Collaborative networks and partnerships](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3364.md)
-* [Telemedicine and remote healthcare](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3360.md)
-* [Big data analytics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_843.md)
-* [Spatial mapping of covid-19 hotspots](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3357.md)
-* [Iot-based systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3358.md)
-* [Machine learning and artificial intelligence](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3359.md)
-* [Open data sharing and analysis for pandemic dataset creation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3365.md)
-* [Citizen engagement and participatory platforms](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3363.md)
-* [Open government projects and open data initiatives](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3362.md)
-* [Drones for contactless delivery and surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3361.md)
-
-## This article mentions these technologies
-
-* [Ai](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_278.md)
-* [Iot](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_277.md)
-* [Blockchain](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_94.md)
-* [Big data](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_276.md)
-* [Open data platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_282.md)
-* [Emerging technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_275.md)
-* [Remote sensing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_279.md)
-* [Open government mechanisms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_280.md)
-* [Open government technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_281.md)
-* [E-participation tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_283.md)
 

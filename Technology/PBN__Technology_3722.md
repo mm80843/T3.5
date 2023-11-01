@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Innovative technologies and systems that enable efficient and secure control, management, and interaction in various domains.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_109.md)
+* [Innovative technologies and systems that enable efficient and secure control, management, and interaction in various domains.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_159.md)
 
 ## Closest similar item
 
-* [Isolation measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1853.md)
-* [Waste separation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3658.md)
-* [Waste separation and disinfection systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1788.md)
-* [Isolation areas](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2524.md)
-* [Waste segregation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1845.md)
-* [Isolation facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2294.md)
-* [Separate room](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3085.md)
-* [Sound isolation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3666.md)
-* [Segregation boxes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3657.md)
-* [Isolation protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_673.md)
+* [Isolation areas](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1853.md)
+* [Isolation facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3658.md)
+* [Isolation measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1788.md)
+* [Isolation protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2524.md)
+* [Segregation boxes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1845.md)
+* [Separate room](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2294.md)
+* [Sound isolation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3085.md)
+* [Waste segregation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3666.md)
+* [Waste separation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3657.md)
+* [Waste separation and disinfection systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_673.md)
 
 ## This Technology enables the following mitigations
 

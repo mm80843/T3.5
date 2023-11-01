@@ -2,9 +2,25 @@
 
 # __COVID-19 Prevention and Control Measures in Workplace Settings: A Rapid Review and Meta-Analysis__
 
+## Benefits listed in this article
+
+* [Identification of coronavirus-positive environmental surfaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1213.md)
+* [Low employee positivity rates](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1214.md)
+* [Lower positivity rates following combined measures](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1217.md)
+* [Reduction in covid-19 infections](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1216.md)
+* [Swift contact tracing and case isolation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1215.md)
+
 ## DOI of the article
 
 10.3390/ijerph18157847
+
+## List of risks in an article
+
+* [Inadequate implementation of environmental adjustments](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1501.md)
+* [Inadequate surveillance measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1505.md)
+* [Insufficient outbreak investigation and response](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1504.md)
+* [Lack of education initiatives](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1502.md)
+* [Lack of proper ppe usage and availability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1503.md)
 
 ## Short summary of the article
 
@@ -14,6 +30,31 @@ This rapid review focuses on investigating the effectiveness of measures to prev
 
 The COVID-19 pandemic has made workplaces a high-risk environment for spreading the virus. Many workers have gotten sick and it's important to find ways to keep them safe. This study looked at different measures that workplaces can take to prevent the spread of COVID-19. They found that using multiple measures, like testing employees, contact tracing, wearing masks, and improving ventilation, was more effective than using just one measure. It's also important for workplaces to provide education and training to their employees about staying safe. This study can help guide workplaces on how to protect their workers during the pandemic and in future health emergencies.
 
+## This article mentions these technologies
+
+* [Communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_168.md)
+* [Digital contact tracing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_82.md)
+* [Employers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_797.md)
+* [Improved ventilation technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_793.md)
+* [Manufacturing and supply chain of ppe](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_794.md)
+* [Physical barrier installations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_798.md)
+* [Rapid and reliable covid-19 testing technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_795.md)
+* [Rapid testing technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_796.md)
+* [Training programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_792.md)
+
+## This article points to following mitigation
+
+* [Combined measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3858.md)
+* [Contact tracing and testing of close contacts](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_607.md)
+* [Enhanced ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3863.md)
+* [Outbreak investigation and response](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3859.md)
+* [Physical barriers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3864.md)
+* [Staff compartmentalization within zones/cohorts](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3860.md)
+* [Syndromic surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1224.md)
+* [Universal asymptomatic testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3861.md)
+* [Universal masking](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3574.md)
+* [Worker education](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3862.md)
+
 ## Title of the article
 
 COVID-19 Prevention and Control Measures in Workplace Settings: A Rapid Review and Meta-Analysis
@@ -21,45 +62,4 @@ COVID-19 Prevention and Control Measures in Workplace Settings: A Rapid Review a
 ## Year of publication
 
 2021
-
-## Benefits listed in this article
-
-* [Low employee positivity rates](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1213.md)
-* [Identification of coronavirus-positive environmental surfaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1214.md)
-* [Swift contact tracing and case isolation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1215.md)
-* [Reduction in covid-19 infections](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1216.md)
-* [Lower positivity rates following combined measures](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1217.md)
-
-## List of risks in an article
-
-* [Insufficient outbreak investigation and response](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1502.md)
-* [Lack of education initiatives](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1505.md)
-* [Inadequate surveillance measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1501.md)
-* [Inadequate implementation of environmental adjustments](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1504.md)
-* [Lack of proper ppe usage and availability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1503.md)
-
-## This article points to following mitigation
-
-* [Combined measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1224.md)
-* [Physical barriers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3574.md)
-* [Staff compartmentalization within zones/cohorts](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3861.md)
-* [Enhanced ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_607.md)
-* [Universal asymptomatic testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3858.md)
-* [Outbreak investigation and response](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3859.md)
-* [Universal masking](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3860.md)
-* [Syndromic surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3862.md)
-* [Worker education](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3863.md)
-* [Contact tracing and testing of close contacts](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3864.md)
-
-## This article mentions these technologies
-
-* [Communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_168.md)
-* [Rapid testing technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_794.md)
-* [Digital contact tracing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_793.md)
-* [Manufacturing and supply chain of ppe](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_795.md)
-* [Training programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_82.md)
-* [Physical barrier installations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_798.md)
-* [Improved ventilation technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_797.md)
-* [Rapid and reliable covid-19 testing technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_792.md)
-* [Employers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_796.md)
 

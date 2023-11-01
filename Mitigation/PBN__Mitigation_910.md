@@ -2,26 +2,26 @@
 
 # __Use of social media for information retrieval__
 
-## Category to which it belongs
-
-* [Promotion of safe social interactions, behavioral change, and equitable access to information and support through social media platforms.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_76.md)
-
-## Closest similar item
-
-* [Use of social media data](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_928.md)
-* [Use of social media by decision-makers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3936.md)
-* [Social media](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4607.md)
-* [Use of social media for distributing official information](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3947.md)
-* [Use of social media by firms](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3937.md)
-* [Use of social media for online healthcare support](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3946.md)
-* [Social media analysis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3424.md)
-* [Monitoring social media content](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5088.md)
-* [Monitoring social media](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_694.md)
-* [Promoting reliable sources, facilitating information sharing, engaging with the public through social media](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2100.md)
-
 ## Benefits linked to a risk
 
 * [Increased public awareness](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_909.md)
+
+## Category to which it belongs
+
+* [Promotion of safe social interactions, behavioral change, and equitable access to information and support through social media platforms.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_126.md)
+
+## Closest similar item
+
+* [Monitoring social media](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_928.md)
+* [Monitoring social media content](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3936.md)
+* [Promoting reliable sources, facilitating information sharing, engaging with the public through social media](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4607.md)
+* [Social media](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3947.md)
+* [Social media analysis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3937.md)
+* [Use of social media by decision-makers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3946.md)
+* [Use of social media by firms](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3424.md)
+* [Use of social media data](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5088.md)
+* [Use of social media for distributing official information](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_694.md)
+* [Use of social media for online healthcare support](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2100.md)
 
 ## Risks possibly mitigated by this Mitigation
 

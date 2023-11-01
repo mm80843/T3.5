@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The challenges of urban inequality, parameter identification, noise pollution, waste, and delayed decision making have resulted in increased inequalities and exclusion, posing numerous issues for governance and scalability.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_14.md)
+* [The challenges of urban inequality, parameter identification, noise pollution, waste, and delayed decision making have resulted in increased inequalities and exclusion, posing numerous issues for governance and scalability.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_64.md)
 
 ## Closest similar item
 
-* [Inadequate supplies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2034.md)
-* [Shortage of supplies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3252.md)
-* [Shortage of critical supplies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3277.md)
-* [Shortages of protective equipment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_478.md)
-* [Supply disruption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2986.md)
-* [Shortages in supply chains](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_491.md)
-* [Concentration of suppliers](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1819.md)
-* [Essential goods](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3338.md)
+* [Concentration of suppliers](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2034.md)
+* [Contaminated deliveries](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3252.md)
+* [Essential goods](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3277.md)
+* [Inadequate supplies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_478.md)
+* [Shortage of critical supplies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2986.md)
+* [Shortage of supplies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_491.md)
+* [Shortages in supply chains](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1819.md)
+* [Shortages of protective equipment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3338.md)
 * [Supply chain management](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_993.md)
-* [Contaminated deliveries](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3091.md)
+* [Supply disruption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3091.md)
 
 ## Mitigations of this risk
 

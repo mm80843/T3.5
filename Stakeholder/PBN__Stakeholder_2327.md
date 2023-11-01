@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [People from diverse backgrounds and circumstances, including marginalized individuals, with different abilities, and in various environments.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_215.md)
+* [People from diverse backgrounds and circumstances, including marginalized individuals, with different abilities, and in various environments.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_265.md)
 
 ## Closest similar item
 
-* [Individuals living alone](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_612.md)
-* [Individuals living alone or with limited social connections](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1339.md)
-* [Individual in self-isolation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2221.md)
-* [Individual in isolation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2146.md)
-* [Individual living alone or with limited social connections; older adults; individual in quarantine or isolation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2196.md)
+* [Individual in isolation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_612.md)
+* [Individual in self-isolation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1339.md)
+* [Individual living alone or with limited social connections; older adults; individual in quarantine or isolation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2221.md)
+* [Individual living in apartment without outdoor space](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2146.md)
+* [Individuals in isolation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2196.md)
 * [Individuals in self-isolation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1142.md)
-* [Isolated individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_65.md)
-* [Individuals living alone or with limited social connections; older adults; individuals in quarantine or isolation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2179.md)
-* [Individuals in isolation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1577.md)
-* [Individual living in apartment without outdoor space](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2278.md)
+* [Individuals living alone](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_65.md)
+* [Individuals living alone or with limited social connections](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2179.md)
+* [Individuals living alone or with limited social connections; older adults; individuals in quarantine or isolation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1577.md)
+* [Isolated individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2278.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

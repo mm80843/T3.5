@@ -2,23 +2,27 @@
 
 # __Identification of genetic profile__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-WBE, combined with phylogenetic analyses, helps identify the genetic profile of SARS-CoV-2 obtained from wastewater samples, providing insights into the strains circulating in a specific region.
+* [Detection of SARS-CoV-2 in raw and treated wastewater in Germany – Suitability for COVID-19 surveillance and potential transmission risks](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_0.md)
+
+## Category to which it belongs
+
+* [A comprehensive and efficient system for generating, disseminating, and utilizing reliable and actionable knowledge.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_3.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Genetic profiling helps researchers track the spread and evolution of the virus, identify potential sources of transmission, and inform the development of vaccines and treatments, benefiting global public health and the economy.](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_4.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [Detection of SARS-CoV-2 in raw and treated wastewater in Germany – Suitability for COVID-19 surveillance and potential transmission risks](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_0.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
+WBE, combined with phylogenetic analyses, helps identify the genetic profile of SARS-CoV-2 obtained from wastewater samples, providing insights into the strains circulating in a specific region.
 
 ## Risks which can benefit from this action
 
 * [Wastewater-based monitoring wbe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_0.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
 

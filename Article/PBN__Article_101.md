@@ -2,9 +2,28 @@
 
 # __Coronavirus disease 2019: The harms of exaggerated information and non‐evidence‐based measures__
 
+## Benefits listed in this article
+
+* [Accurate information](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_496.md)
+* [Effective containment](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_495.md)
+* [Efficient resource allocation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_493.md)
+* [Increased influenza vaccination](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_492.md)
+* [Reduced transmission of influenza](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_494.md)
+
 ## DOI of the article
 
 10.1111/eci.13222
+
+## List of risks in an article
+
+* [Claims of a once-in-a-century pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1510.md)
+* [Comparison to the 1918 pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1512.md)
+* [Economic and social disruption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1511.md)
+* [Exaggerated estimates](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1507.md)
+* [Exaggerated information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1509.md)
+* [Exponential community spread](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1508.md)
+* [Impulsive adoption of extreme measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_373.md)
+* [Misleading peer-reviewed publications](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1506.md)
 
 ## Short summary of the article
 
@@ -14,6 +33,45 @@ This editorial highlights the harms of exaggerated information and non-evidence-
 
 There is a lot of information about the coronavirus disease 2019 (COVID-19) pandemic going around, but not all of it is true or helpful. Some people spread fake news, which can cause confusion and harm. Scientists have also made mistakes, like publishing flawed papers or making exaggerated estimates. Some estimates said that 40%-70% of people in the world would get infected, but these numbers were probably too high. The same goes for estimates of the death rate. Some extreme measures, like lockdowns, can also have negative effects on the economy and people's lives. It's important to be careful about the information we believe and make sure it's based on real evidence.
 
+## This article mentions these technologies
+
+* [Advanced testing methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_804.md)
+* [Clear guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_805.md)
+* [Data analysis tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_803.md)
+* [Data transparency](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_799.md)
+* [Economic policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_7.md)
+* [Fact-checking](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_552.md)
+* [Fact-checking tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_802.md)
+* [Historical data analysis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_806.md)
+* [Public education](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_801.md)
+* [Strengthen peer review process](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_807.md)
+* [Support systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_800.md)
+
+## This article points to following mitigation
+
+* [Accurate evidence](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3873.md)
+* [Containment measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Differentiate](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_85.md)
+* [Entry port screening](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3329.md)
+* [Evidence-based](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3866.md)
+* [Facemasks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3869.md)
+* [Hand sanitizer](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3876.md)
+* [Hygienic measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3878.md)
+* [Open data sharing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3877.md)
+* [Optimal decision-making](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3865.md)
+* [Preparedness for future pandemics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_507.md)
+* [Prevention of panic](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3880.md)
+* [Proper communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3879.md)
+* [Protection of susceptible individuals](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3874.md)
+* [Research](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3872.md)
+* [Resource allocation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_318.md)
+* [Sensationalism](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3867.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3875.md)
+* [Testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3871.md)
+* [Timely research](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3868.md)
+* [Unbiased data collection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3870.md)
+* [Vaccination](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3881.md)
+
 ## Title of the article
 
 Coronavirus disease 2019: The harms of exaggerated information and non‐evidence‐based measures
@@ -21,62 +79,4 @@ Coronavirus disease 2019: The harms of exaggerated information and non‐evidenc
 ## Year of publication
 
 2020
-
-## Benefits listed in this article
-
-* [Reduced transmission of influenza](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_495.md)
-* [Accurate information](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_492.md)
-* [Effective containment](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_493.md)
-* [Increased influenza vaccination](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_494.md)
-* [Efficient resource allocation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_496.md)
-
-## List of risks in an article
-
-* [Economic and social disruption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1510.md)
-* [Impulsive adoption of extreme measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1509.md)
-* [Exaggerated information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_373.md)
-* [Exaggerated estimates](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1507.md)
-* [Claims of a once-in-a-century pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1511.md)
-* [Comparison to the 1918 pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1512.md)
-* [Misleading peer-reviewed publications](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1506.md)
-* [Exponential community spread](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1508.md)
-
-## This article points to following mitigation
-
-* [Resource allocation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3876.md)
-* [Optimal decision-making](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3866.md)
-* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
-* [Vaccination](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3329.md)
-* [Proper communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3865.md)
-* [Hygienic measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_85.md)
-* [Unbiased data collection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3879.md)
-* [Containment measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_507.md)
-* [Research](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_318.md)
-* [Testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3873.md)
-* [Preparedness for future pandemics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3880.md)
-* [Differentiate](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3867.md)
-* [Timely research](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3878.md)
-* [Sensationalism](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3868.md)
-* [Protection of susceptible individuals](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3877.md)
-* [Accurate evidence](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3881.md)
-* [Open data sharing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3874.md)
-* [Evidence-based](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3869.md)
-* [Hand sanitizer](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3871.md)
-* [Facemasks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3872.md)
-* [Prevention of panic](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3875.md)
-* [Entry port screening](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3870.md)
-
-## This article mentions these technologies
-
-* [Fact-checking tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_7.md)
-* [Data transparency](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_799.md)
-* [Data analysis tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_552.md)
-* [Fact-checking](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_806.md)
-* [Public education](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_802.md)
-* [Clear guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_803.md)
-* [Support systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_805.md)
-* [Economic policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_804.md)
-* [Advanced testing methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_801.md)
-* [Strengthen peer review process](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_800.md)
-* [Historical data analysis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_807.md)
 

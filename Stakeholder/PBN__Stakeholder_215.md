@@ -2,29 +2,33 @@
 
 # __Healthcare workers and patients__
 
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Reduction in airborne transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_341.md)
-* [Improved ventilation and physical barriers](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_488.md)
-* [Surge capacity management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_489.md)
-* [Infection control measures](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_490.md)
-* [Reduction in surface contamination](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_720.md)
-* [Reduction in faecal contamination](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_957.md)
-
 ## Category to which it belongs
 
-* [The various individuals and entities involved in the provision and administration of healthcare services and systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_190.md)
+* [The various individuals and entities involved in the provision and administration of healthcare services and systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_240.md)
 
 ## Closest similar item
 
-* [Healthcare workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_68.md)
+* [Health care personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_68.md)
 * [Health care workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_408.md)
-* [Healthcare workers,](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_520.md)
-* [Workers in the healthcare sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1707.md)
-* [Hospital workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_432.md)
-* [Healthcare worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1833.md)
-* [Healthcare personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_185.md)
-* [Worker in the healthcare sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1659.md)
-* [Health care personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1060.md)
-* [Hospital patients and staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_309.md)
+* [Healthcare personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_520.md)
+* [Healthcare worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1707.md)
+* [Healthcare workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_432.md)
+* [Healthcare workers,](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1833.md)
+* [Hospital patients and staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_185.md)
+* [Hospital workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1659.md)
+* [Worker in the healthcare sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1060.md)
+* [Workers in the healthcare sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_309.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Improved ventilation and physical barriers](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_341.md)
+* [Infection control measures](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_720.md)
+* [Reduction in airborne transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_957.md)
+* [Reduction in faecal contamination](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_489.md)
+* [Reduction in surface contamination](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_488.md)
+* [Surge capacity management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_490.md)
+
+## Type of the stakeholder
+
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_0.md)
 

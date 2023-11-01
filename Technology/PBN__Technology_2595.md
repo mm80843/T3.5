@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_119.md)
+* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_169.md)
 
 ## Closest similar item
 
-* [Designated zones](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_368.md)
-* [Community areas](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1847.md)
-* [Designated areas](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3720.md)
-* [Zoning systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3410.md)
+* [Community areas](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_368.md)
+* [Community health centers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1847.md)
+* [Community planning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3720.md)
+* [Community-level farming](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3410.md)
 * [Community-level infrastructure planning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2606.md)
-* [Zoning regulations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_658.md)
+* [Designated areas](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_658.md)
 * [Designated social spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2447.md)
-* [Community-level farming](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3637.md)
-* [Community planning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2392.md)
-* [Community health centers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_221.md)
+* [Designated zones](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3637.md)
+* [Zoning regulations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2392.md)
+* [Zoning systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_221.md)
 
 ## This Technology enables the following mitigations
 

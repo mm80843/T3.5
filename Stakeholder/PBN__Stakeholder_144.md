@@ -2,24 +2,28 @@
 
 # __All economic actors__
 
+## Category to which it belongs
+
+* [The wide-ranging sectors and industries, from the private sector to energy and manufacturing, that drive global economies and the interconnectedness of businesses and industries worldwide.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_256.md)
+
+## Closest similar item
+
+* [And global economies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_91.md)
+* [Economic organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_838.md)
+* [Economic organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_714.md)
+* [Economic policymaker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_974.md)
+* [Economic policymakers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_892.md)
+* [Economy](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2375.md)
+* [Global markets](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1883.md)
+* [Industries](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_852.md)
+* [Political actors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_389.md)
+* [Workers in all industries](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_362.md)
+
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Sustainable development](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_285.md)
 
-## Category to which it belongs
+## Type of the stakeholder
 
-* [The wide-ranging sectors and industries, from the private sector to energy and manufacturing, that drive global economies and the interconnectedness of businesses and industries worldwide.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_206.md)
-
-## Closest similar item
-
-* [Economy](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_91.md)
-* [Workers in all industries](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_838.md)
-* [Political actors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_714.md)
-* [Economic organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_974.md)
-* [Economic policymakers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_892.md)
-* [Economic policymaker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2375.md)
-* [Economic organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1883.md)
-* [Global markets](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_852.md)
-* [Industries](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_389.md)
-* [And global economies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_362.md)
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_0.md)
 

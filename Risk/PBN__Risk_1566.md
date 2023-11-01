@@ -2,34 +2,56 @@
 
 # __Financial loss__
 
+## Articles mentionning the risk
+
+* [Mechanisms for addressing the impact of COVID-19 on infrastructure projects](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_115.md)
+
 ## Category to which it belongs
 
-* [The interconnectedness of global economics has led to financial instability, unemployment, poverty, and decreased investment in certain sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_12.md)
+* [The interconnectedness of global economics has led to financial instability, unemployment, poverty, and decreased investment in certain sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_62.md)
 
 ## Closest similar item
 
-* [Job and income loss](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3340.md)
-* [Job losses](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2149.md)
-* [Job loss](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2644.md)
-* [Financial problems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_415.md)
-* [Financial difficulties](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2808.md)
-* [Financial crisis](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2043.md)
-* [Financial impact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_599.md)
-* [Loss of income and economic instability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1967.md)
-* [Financial impacts](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_553.md)
-* [Financial risks, stranded assets](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2850.md)
+* [Financial crisis](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3340.md)
+* [Financial difficulties](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2149.md)
+* [Financial impact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2644.md)
+* [Financial impacts](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_415.md)
+* [Financial problems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2808.md)
+* [Financial risks, stranded assets](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2043.md)
+* [Job and income loss](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_599.md)
+* [Job loss](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1967.md)
+* [Job losses](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_553.md)
+* [Loss of income and economic instability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2850.md)
 
 ## Description of the risk
 
 Loss of income and increased costs due to project suspensions
 
-## Type of the risk
-
-* [Economic](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_3.md)
-
 ## Is the risk affecting GBN scales
 
 * [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+
+## Mitigations of this risk
+
+* [Capacity limitation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2107.md)
+* [Guaranteeing reimbursement of loans](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4551.md)
+* [Seek financial aids, revise contracts to claim losses](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3295.md)
+
+## Name of the risk
+
+Contractors suffer financial strain and may face insolvency
+
+## People affected by this risk
+
+* [Contractors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_179.md)
+
+## Stakeholders who can mitigate this risk
+
+* [Contracting clients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
+* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1015.md)
+
+## Technologies linked to the risk
+
 
 ## Type of impact of the risk (according to ISO37100)
 
@@ -39,31 +61,9 @@ Loss of income and increased costs due to project suspensions
 
 * [Responsible resource use](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_4.md)
 
-## Mitigations of this risk
+## Type of the risk
 
-* [Seek financial aids, revise contracts to claim losses](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2107.md)
-* [Capacity limitation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4551.md)
-* [Guaranteeing reimbursement of loans](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3295.md)
-
-## Name of the risk
-
-Contractors suffer financial strain and may face insolvency
-
-## Stakeholders who can mitigate this risk
-
-* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
-* [Contracting clients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1015.md)
-
-## Articles mentionning the risk
-
-* [Mechanisms for addressing the impact of COVID-19 on infrastructure projects](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_115.md)
-
-## People affected by this risk
-
-* [Contractors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_179.md)
-
-## Technologies linked to the risk
-
+* [Economic](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_3.md)
 
 ## Property: has_RiskType
 

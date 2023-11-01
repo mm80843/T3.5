@@ -2,41 +2,34 @@
 
 # __Misinterpretation of park use data__
 
+## Articles mentionning the risk
+
+* [Urban Park Use During the COVID-19 Pandemic: Are Socially Vulnerable Communities Disproportionately Impacted?](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_276.md)
+
 ## Category to which it belongs
 
-* [Urban areas suffer from a scarcity of accessible and diverse green spaces, contributing to disparities, inadequate quality, and decreased visitation, while also exacerbating health issues and environmental concerns.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_31.md)
+* [Urban areas suffer from a scarcity of accessible and diverse green spaces, contributing to disparities, inadequate quality, and decreased visitation, while also exacerbating health issues and environmental concerns.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_81.md)
 
 ## Closest similar item
 
-* [Homogeneity in urban park use](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1604.md)
-* [Lack of park access in marginalized communities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1606.md)
-* [Social vulnerability and park use](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1605.md)
-* [Limited quality of parks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2858.md)
-* [Limited access to parks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2857.md)
-* [Inadequate provision of public parks without government intervention](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_143.md)
-* [Decline in urban park visitation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1603.md)
-* [Increased recreational use in urban green spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_892.md)
-* [Variation in car parking standards](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_789.md)
-* [Decline in urban park visitation during covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_950.md)
+* [Decline in urban park visitation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1604.md)
+* [Decline in urban park visitation during covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1606.md)
+* [Homogeneity in urban park use](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1605.md)
+* [Inadequate provision of public parks without government intervention](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2858.md)
+* [Increased recreational use in urban green spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2857.md)
+* [Lack of park access in marginalized communities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_143.md)
+* [Limited access to parks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1603.md)
+* [Limited quality of parks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_892.md)
+* [Social vulnerability and park use](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_789.md)
+* [Variation in car parking standards](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_950.md)
 
 ## Description of the risk
 
 Different interpretations of the term "park" may lead to inaccuracies or inconsistencies in self-reported and geo-tracking data.
 
-## Type of the risk
-
-
 ## Is the risk affecting GBN scales
 
 * [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
-
-## Type of impact of the risk (according to ISO37100)
-
-* [Innovation, creativity and research](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_2.md)
-
-## Type of purpose of the risk (according to ISO37100)
-
-* [Attractiveness](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_9.md)
 
 ## Mitigations of this risk
 
@@ -46,19 +39,26 @@ Different interpretations of the term "park" may lead to inaccuracies or inconsi
 
 Inaccurate assessment of park use patterns and potential biases in conclusions.
 
-## Stakeholders who can mitigate this risk
-
-* [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
-
-## Articles mentionning the risk
-
-* [Urban Park Use During the COVID-19 Pandemic: Are Socially Vulnerable Communities Disproportionately Impacted?](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_276.md)
-
 ## People affected by this risk
 
 * [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
 
+## Stakeholders who can mitigate this risk
+
+* [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
+
 ## Technologies linked to the risk
+
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Innovation, creativity and research](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_2.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Attractiveness](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_9.md)
+
+## Type of the risk
 
 
 ## Property: has_RiskType

@@ -2,9 +2,25 @@
 
 # __Coronavirus comes home? Energy use, home energy management, and the social-psychological factors of COVID-19__
 
+## Benefits listed in this article
+
+* [Demand response automation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_597.md)
+* [Environmental consciousness](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_598.md)
+* [Improvement of energy efficiency](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_599.md)
+* [Reduction in electricity bills](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_600.md)
+* [Social and lifestyle benefits](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_601.md)
+
 ## DOI of the article
 
 10.1016/j.erss.2020.101688
+
+## List of risks in an article
+
+* [Decreased carbon emissions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1247.md)
+* [Increased energy consumption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1246.md)
+* [Lack of willingness to pay for hems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1245.md)
+* [Metropolitan area-specific study](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1248.md)
+* [Mismatched energy demand](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1249.md)
 
 ## Short summary of the article
 
@@ -18,6 +34,45 @@ Home Energy Management Systems (HEMS) are systems that help people use energy mo
 
 This study looked at people's energy use and their willingness to adopt HEMS during the pandemic. It found that people who used more electricity or thought they were at a higher risk of getting COVID-19 were more likely to think that climate change has improved. It also found that people were generally interested in adopting HEMS and were willing to pay for it, especially for features like home security and telemedical services. Factors like attitudes, social norms, and income influenced people's adoption intention and willingness to pay for HEMS.
 
+## This article mentions these technologies
+
+* [-](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
+* [Demand response technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_353.md)
+* [Electric vehicles](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_354.md)
+* [Energy monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_350.md)
+* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_349.md)
+* [Renewable energy technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_355.md)
+* [Smart grid systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_351.md)
+* [Smart home technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_352.md)
+
+## This article points to following mitigation
+
+* [Age](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3442.md)
+* [Attitude](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3445.md)
+* [Automatic control](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3461.md)
+* [Community updates](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3448.md)
+* [Cost concern](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3458.md)
+* [Cybersecurity concerns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3451.md)
+* [Demand response programs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3454.md)
+* [Demographics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_379.md)
+* [Energy efficiency](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3444.md)
+* [Gender](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3443.md)
+* [Home security monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3452.md)
+* [Household size](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3447.md)
+* [Income](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3460.md)
+* [Intelligent monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3453.md)
+* [Job search](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3449.md)
+* [Monitoring service for the elderly](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3450.md)
+* [Perceived usefulness](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3464.md)
+* [Reducing community environmental impacts](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3446.md)
+* [Risk perception](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3455.md)
+* [Social norms](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3456.md)
+* [Technology anxiety](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3457.md)
+* [Telemedical services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3459.md)
+* [Trust in utilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3462.md)
+* [Two-way communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3463.md)
+* [Visualization and monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3465.md)
+
 ## Title of the article
 
 Coronavirus comes home? Energy use, home energy management, and the social-psychological factors of COVID-19
@@ -25,59 +80,4 @@ Coronavirus comes home? Energy use, home energy management, and the social-psych
 ## Year of publication
 
 2020
-
-## Benefits listed in this article
-
-* [Reduction in electricity bills](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_597.md)
-* [Improvement of energy efficiency](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_598.md)
-* [Demand response automation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_599.md)
-* [Environmental consciousness](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_600.md)
-* [Social and lifestyle benefits](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_601.md)
-
-## List of risks in an article
-
-* [Decreased carbon emissions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1247.md)
-* [Increased energy consumption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1245.md)
-* [Mismatched energy demand](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1246.md)
-* [Lack of willingness to pay for hems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1248.md)
-* [Metropolitan area-specific study](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1249.md)
-
-## This article points to following mitigation
-
-* [Telemedical services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3448.md)
-* [Two-way communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3444.md)
-* [Job search](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3452.md)
-* [Intelligent monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3443.md)
-* [Visualization and monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3447.md)
-* [Automatic control](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3446.md)
-* [Risk perception](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_379.md)
-* [Home security monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3450.md)
-* [Reducing community environmental impacts](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3445.md)
-* [Demand response programs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3442.md)
-* [Monitoring service for the elderly](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3449.md)
-* [Community updates](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3451.md)
-* [Energy efficiency](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3453.md)
-* [Social norms](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3454.md)
-* [Attitude](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3455.md)
-* [Perceived usefulness](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3456.md)
-* [Cost concern](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3457.md)
-* [Cybersecurity concerns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3458.md)
-* [Trust in utilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3459.md)
-* [Demographics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3460.md)
-* [Income](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3461.md)
-* [Household size](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3462.md)
-* [Age](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3463.md)
-* [Gender](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3464.md)
-* [Technology anxiety](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3465.md)
-
-## This article mentions these technologies
-
-* [Renewable energy technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_353.md)
-* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
-* [Energy monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_350.md)
-* [Electric vehicles](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_354.md)
-* [Smart grid systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_352.md)
-* [Smart home technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_349.md)
-* [Demand response technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_351.md)
-* [-](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_355.md)
 

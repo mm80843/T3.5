@@ -2,23 +2,27 @@
 
 # __Containment of epidemic__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Control measures (isolation, closure, banning) reduced case reports by 96%, averting hundreds of thousands of cases
+* [An investigation of transmission control measures during the first 50 days of the COVID-19 epidemic in China](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_197.md)
+
+## Category to which it belongs
+
+* [Minimized transmission and spread risk while ensuring effective infection control, prevention, and containment measures against diseases like coronavirus.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_17.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Implementing transmission control measures significantly reduces the number of confirmed cases, protecting public health and preventing overwhelming of healthcare systems.](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_1057.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [An investigation of transmission control measures during the first 50 days of the COVID-19 epidemic in China](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_197.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_29.md)
+Control measures (isolation, closure, banning) reduced case reports by 96%, averting hundreds of thousands of cases
 
 ## Risks which can benefit from this action
 
 * [Transmission control measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_955.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_29.md)
 

@@ -2,23 +2,27 @@
 
 # __Improved cleanliness__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Cleaner and more sanitary environment, reduces risk of infection
+* [Mobility Behaviour in View of the Impact of the COVID-19 Pandemic—Public Transport Users in Gdansk Case Study](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_113.md)
+
+## Category to which it belongs
+
+* [Enhanced cleanliness, safety, and disinfection promote improved hygiene practices and increased access to clean water and sanitation.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_39.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Increased perception of safety, encourages more passengers to use public transport](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_611.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [Mobility Behaviour in View of the Impact of the COVID-19 Pandemic—Public Transport Users in Gdansk Case Study](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_113.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [Public transport users](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_236.md)
+Cleaner and more sanitary environment, reduces risk of infection
 
 ## Risks which can benefit from this action
 
 * [Implement hygiene measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_571.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [Public transport users](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_236.md)
 

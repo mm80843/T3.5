@@ -2,32 +2,37 @@
 
 # __National governments__
 
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Improved coordination](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_68.md)
-* [Sustainable funding](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_148.md)
-* [Additional funding](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_149.md)
-
 ## Category to which it belongs
 
-* [Public and governmental entities at various levels, including policy makers, governments, and citizens.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_192.md)
+* [Public and governmental entities at various levels, including policy makers, governments, and citizens.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_242.md)
 
 ## Closest similar item
 
-* [National and sub-national governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1420.md)
-* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
-* [Local and national governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_548.md)
-* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
-* [National authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2356.md)
-* [State governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1186.md)
-* [City governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_354.md)
-* [Government authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_302.md)
-* [Governments and businesses](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1244.md)
-* [Government and authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1614.md)
+* [City governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1420.md)
+* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
+* [Government and authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_548.md)
+* [Government authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
+* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2356.md)
+* [Governments and businesses](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1186.md)
+* [Local and national governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_354.md)
+* [National and sub-national governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_302.md)
+* [National authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1244.md)
+* [State governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1614.md)
 
 ## Risks that can be mitigated by this stakeholder
 
-* [Emergence of new vector-borne diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2331.md)
-* [Insecticide resistance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2327.md)
-* [Disruption of global settlement system](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1456.md)
+* [Disruption of global settlement system](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2331.md)
+* [Emergence of new vector-borne diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2327.md)
+* [Insecticide resistance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1456.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Additional funding](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_68.md)
+* [Improved coordination](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_148.md)
+* [Sustainable funding](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_149.md)
+
+## Type of the stakeholder
+
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_0.md)
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
 

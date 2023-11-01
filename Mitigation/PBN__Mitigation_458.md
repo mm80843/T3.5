@@ -2,30 +2,30 @@
 
 # __Enhance accessibility to green spaces__
 
-## Category to which it belongs
+## Benefits linked to a risk
 
-* [Enhancing access to and incorporating green and outdoor spaces for improved livability and connectivity.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_58.md)
-
-## Closest similar item
-
-* [Accessibility to urban green spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4161.md)
-* [Accessibility to private green spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_732.md)
-* [Accessible green spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1226.md)
-* [Increase the availability and accessibility of green spaces close to residential areas](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2577.md)
-* [Increase in the number and accessibility of urban green spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_982.md)
-* [Access to green spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_747.md)
-* [Increase the availability and accessibility of urban green spaces, create new green spaces, and improve existing ones](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2405.md)
-* [Incorporating green spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4969.md)
-* [Public green spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3526.md)
-* [Encourage utilization of private green spaces, create guidelines for safe access, facilitate use of nearby green spaces.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2763.md)
+* [Increased physical activity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_352.md)
 
 ## Blueprints with this mitigation
 
 * [Acces to green space](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_16.md)
 
-## Benefits linked to a risk
+## Category to which it belongs
 
-* [Increased physical activity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_352.md)
+* [Enhancing access to and incorporating green and outdoor spaces for improved livability and connectivity.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_108.md)
+
+## Closest similar item
+
+* [Access to green spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4161.md)
+* [Accessibility to private green spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_732.md)
+* [Accessibility to urban green spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1226.md)
+* [Accessible green spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2577.md)
+* [Encourage utilization of private green spaces, create guidelines for safe access, facilitate use of nearby green spaces.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_982.md)
+* [Incorporating green spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_747.md)
+* [Increase in the number and accessibility of urban green spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2405.md)
+* [Increase the availability and accessibility of green spaces close to residential areas](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4969.md)
+* [Increase the availability and accessibility of urban green spaces, create new green spaces, and improve existing ones](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3526.md)
+* [Public green spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2763.md)
 
 ## Risks possibly mitigated by this Mitigation
 

@@ -4,27 +4,27 @@
 
 ## Category to which it belongs
 
-* [Lighting solutions that utilize ultraviolet technology for germicidal purposes, energy efficiency, and control of natural light.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_147.md)
+* [Lighting solutions that utilize ultraviolet technology for germicidal purposes, energy efficiency, and control of natural light.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_197.md)
 
 ## Closest similar item
 
-* [Uv germicidal irradiation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_225.md)
-* [Ultraviolet germicidal irradiation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_232.md)
-* [Uv irradiation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2268.md)
-* [Uv germicidal radiation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1349.md)
-* [Uv irradiation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_235.md)
-* [Ultraviolet irradiation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1902.md)
-* [Uv-c irradiation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2481.md)
-* [Germicidal ultraviolet](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1142.md)
+* [Germicidal ultraviolet](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_225.md)
+* [Germicidal uv lamps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_232.md)
+* [Ultraviolet germicidal irradiation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2268.md)
+* [Ultraviolet irradiation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1349.md)
+* [Uv germicidal irradiation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_235.md)
+* [Uv germicidal radiation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1902.md)
+* [Uv irradiation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2481.md)
+* [Uv irradiation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1142.md)
 * [Uv radiation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2139.md)
-* [Germicidal uv lamps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3207.md)
+* [Uv-c irradiation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3207.md)
+
+## Risks linked to this technology
+
+* [Spread of other airborne pathogens](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2268.md)
+* [Transmission of sars-cov-2 through indoor air](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2272.md)
 
 ## This technology is mentioned by
 
 * [Adaptation of HVAC Systems to Reduce the Spread of COVID-19 in Buildings](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_214.md)
-
-## Risks linked to this technology
-
-* [Transmission of sars-cov-2 through indoor air](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2268.md)
-* [Spread of other airborne pathogens](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2272.md)
 

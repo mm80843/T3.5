@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Enforcement, regulation, and policy measures are implemented to ensure compliance, ethical standards, and effective governance.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_137.md)
+* [Enforcement, regulation, and policy measures are implemented to ensure compliance, ethical standards, and effective governance.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_187.md)
 
 ## Closest similar item
 
-* [Policy measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2974.md)
-* [Regulatory measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2596.md)
-* [Enforcement measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_231.md)
-* [Access control measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_327.md)
-* [Enforcement and regulation measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2219.md)
+* [Access control measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2974.md)
+* [Accessibility measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2596.md)
+* [Compliance measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_231.md)
+* [Enforcement and regulation measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_327.md)
+* [Enforcement measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2219.md)
 * [Enforcement of mitigation measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1148.md)
-* [Accessibility measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3481.md)
-* [Compliance measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1644.md)
-* [Inclusive policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1804.md)
-* [Neighborhood control measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3507.md)
+* [Inclusive policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3481.md)
+* [Neighborhood control measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1644.md)
+* [Policy measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1804.md)
+* [Regulatory measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3507.md)
 
 ## This Technology enables the following mitigations
 

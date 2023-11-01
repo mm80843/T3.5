@@ -6,3 +6,7 @@
 
 * [Privacy and data security concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2041.md)
 
+## Type of the stakeholder
+
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
+

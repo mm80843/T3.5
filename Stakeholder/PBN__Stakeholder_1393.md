@@ -4,19 +4,19 @@
 
 ## Category to which it belongs
 
-* [Participants in the iot ecosystem, including users, data collectors, technology providers, essential service providers, and information providers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_231.md)
+* [Participants in the iot ecosystem, including users, data collectors, technology providers, essential service providers, and information providers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_281.md)
 
 ## Closest similar item
 
-* [Network provider](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1688.md)
-* [Internet service providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1548.md)
-* [Internet service provider](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2034.md)
-* [Providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1704.md)
-* [Service providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_474.md)
+* [Data providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1688.md)
+* [Internet service provider](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1548.md)
+* [Internet service providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2034.md)
+* [Mobile phone network providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1704.md)
+* [Network provider](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_474.md)
 * [Provider](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1774.md)
-* [Service provider](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2059.md)
-* [Mobile phone network providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1467.md)
-* [Data providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_847.md)
+* [Providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2059.md)
+* [Service provider](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1467.md)
+* [Service providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_847.md)
 * [Technology providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_628.md)
 
 ## Risks that can be mitigated by this stakeholder
@@ -30,4 +30,8 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Specific roles and job titles](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1654.md)
+
+## Type of the stakeholder
+
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
 

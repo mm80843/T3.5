@@ -2,43 +2,34 @@
 
 # __Limited space in apartments__
 
+## Articles mentionning the risk
+
+* [Biophilic Design to Enhance Residence Comfort in Covid Era](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_179.md)
+
 ## Category to which it belongs
 
-* [Interoperability challenges, high costs, limited communication, and lack of resources impact various sectors globally.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_22.md)
+* [Interoperability challenges, high costs, limited communication, and lack of resources impact various sectors globally.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_72.md)
 
 ## Closest similar item
 
-* [Limited space and function of rooms](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2544.md)
-* [Limited space and inadequate room quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_640.md)
-* [Lack of privacy in apartments](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1663.md)
-* [Limited space in settlements](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3375.md)
-* [Inadequate housing layout](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1722.md)
+* [Inadequate housing layout](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2544.md)
+* [Insufficient bedroom design](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_640.md)
+* [Insufficient public spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1663.md)
+* [Lack of privacy in apartments](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3375.md)
+* [Limited access to outdoor space](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1722.md)
 * [Limited access to outdoor space in urban centres](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_920.md)
-* [Sharing systems in apartments](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1660.md)
-* [Insufficient bedroom design](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1870.md)
-* [Insufficient public spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1723.md)
-* [Limited access to outdoor space](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2545.md)
+* [Limited space and function of rooms](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1660.md)
+* [Limited space and inadequate room quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1870.md)
+* [Limited space in settlements](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1723.md)
+* [Sharing systems in apartments](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2545.md)
 
 ## Description of the risk
 
 Inadequate room quality and limited space in apartments can lead to discomfort and decreased well-being for residents
 
-## Type of the risk
-
-* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
-* [Mental](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_1.md)
-
 ## Is the risk affecting GBN scales
 
 * [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
-
-## Type of impact of the risk (according to ISO37100)
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
-
-## Type of purpose of the risk (according to ISO37100)
-
-* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
 
 ## Mitigations of this risk
 
@@ -48,29 +39,38 @@ Inadequate room quality and limited space in apartments can lead to discomfort a
 
 Physical and mental discomfort, decreased quality of life
 
-## Stakeholders who can mitigate this risk
-
-* [Building designers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_11.md)
-* [Architects](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_431.md)
-* [Apartment owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_334.md)
-
-## Articles mentionning the risk
-
-* [Biophilic Design to Enhance Residence Comfort in Covid Era](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_179.md)
-
 ## People affected by this risk
 
-* [Apartment residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_356.md)
-* [Particularly those living in small apartments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1100.md)
+* [Apartment residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1100.md)
+* [Particularly those living in small apartments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_356.md)
+
+## Stakeholders who can mitigate this risk
+
+* [Apartment owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_431.md)
+* [Architects](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_11.md)
+* [Building designers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_334.md)
 
 ## Technologies linked to the risk
 
-* [Modular furniture](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1003.md)
-* [Room dividers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1002.md)
+* [Modular furniture](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1002.md)
+* [Room dividers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1003.md)
 * [Smart storage solutions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1004.md)
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
+
+## Type of the risk
+
+* [Mental](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
+* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_1.md)
 
 ## Property: has_RiskType
 
-* [Social](https://github.com/mm80843/T3.5/blob/pages/RiskType/PBN__RiskType_2.md)
-* [Environmental](https://github.com/mm80843/T3.5/blob/pages/RiskType/PBN__RiskType_0.md)
+* [Environmental](https://github.com/mm80843/T3.5/blob/pages/RiskType/PBN__RiskType_2.md)
+* [Social](https://github.com/mm80843/T3.5/blob/pages/RiskType/PBN__RiskType_0.md)
 

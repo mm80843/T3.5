@@ -4,34 +4,34 @@
 
 ## Category to which it belongs
 
-* [Advanced analytics and simulation techniques can be used to study complex systems and make predictions using artificial intelligence and machine learning, as well as optimize processes and analyze data efficiently.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_107.md)
+* [Advanced analytics and simulation techniques can be used to study complex systems and make predictions using artificial intelligence and machine learning, as well as optimize processes and analyze data efficiently.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_157.md)
 
 ## Closest similar item
 
-* [Noise reduction technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2000.md)
-* [Noise filtering algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1939.md)
+* [Absence of noise](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2000.md)
+* [Noise barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1939.md)
 * [Noise control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2235.md)
-* [Noise barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_960.md)
-* [Absence of noise](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3701.md)
-* [Noise level difference](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3634.md)
+* [Noise filtering algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_960.md)
+* [Noise level difference](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3701.md)
+* [Noise reduction technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3634.md)
 * [Noise-cancelling devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1831.md)
-* [Risk reduction measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3013.md)
-* [Noise-cancelling technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_958.md)
+* [Noise-cancelling technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3013.md)
+* [Risk reduction measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_958.md)
 * [White noise machines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_191.md)
+
+## Risks linked to this technology
+
+* [Noise pollution](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_150.md)
 
 ## This Technology belongs to this TechGroup
 
 * [Urban technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2270.md)
 
-## This technology is mentioned by
-
-* [Nurture to nature via COVID-19, a self-regenerating environmental strategy of environment in global context](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_44.md)
-
 ## This Technology belongs to this TechSubgroup
 
 * [Noise control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2235.md)
 
-## Risks linked to this technology
+## This technology is mentioned by
 
-* [Noise pollution](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_150.md)
+* [Nurture to nature via COVID-19, a self-regenerating environmental strategy of environment in global context](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_44.md)
 

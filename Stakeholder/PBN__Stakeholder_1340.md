@@ -4,19 +4,19 @@
 
 ## Category to which it belongs
 
-* [A diverse collection of organizations responsible for various aspects of governance, health, environment, safety, and communication.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_199.md)
+* [A diverse collection of organizations responsible for various aspects of governance, health, environment, safety, and communication.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_249.md)
 
 ## Closest similar item
 
-* [Social service agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1836.md)
-* [Social services](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1819.md)
-* [Social protection agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1565.md)
-* [Social service organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2447.md)
-* [Social service organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_660.md)
-* [Social protection agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1847.md)
-* [Social welfare organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_830.md)
+* [Healthcare agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1836.md)
+* [Social protection agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1819.md)
+* [Social protection agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1565.md)
+* [Social service agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2447.md)
+* [Social service organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_660.md)
+* [Social service organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1847.md)
+* [Social services](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_830.md)
 * [Social welfare organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1818.md)
-* [Healthcare agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_541.md)
+* [Social welfare organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_541.md)
 * [Social workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_693.md)
 
 ## Risks that can be mitigated by this stakeholder
@@ -29,6 +29,10 @@
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Nonprofit and social services](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1820.md)
-* [Social services](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1819.md)
+* [Nonprofit and social services](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1819.md)
+* [Social services](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1820.md)
+
+## Type of the stakeholder
+
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
 

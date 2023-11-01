@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [A collection of diverse entities devoted to various causes, including mental and physical health, business, research, conservation, and social welfare.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_200.md)
+* [A collection of diverse entities devoted to various causes, including mental and physical health, business, research, conservation, and social welfare.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_250.md)
 
 ## Closest similar item
 
-* [Digital literacy organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2063.md)
-* [Individuals without internet access or limited digital literacy](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1234.md)
-* [Individual without internet acce or limited digital literacy](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2315.md)
-* [Individual without internet acces or limited digital literacy](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2300.md)
-* [Educational organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1053.md)
-* [Educational organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1643.md)
-* [Digital and information access](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2239.md)
-* [Digital health communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_205.md)
-* [Residents with limited knowledge or skills in using digital technology](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1551.md)
-* [Education authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1642.md)
+* [Digital and information access](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2063.md)
+* [Digital health communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1234.md)
+* [Digital literacy organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2315.md)
+* [Education authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2300.md)
+* [Educational organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1053.md)
+* [Educational organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1643.md)
+* [Individual without internet acce or limited digital literacy](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2239.md)
+* [Individual without internet acces or limited digital literacy](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_205.md)
+* [Individuals without internet access or limited digital literacy](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1551.md)
+* [Residents with limited knowledge or skills in using digital technology](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1642.md)
 
 ## Risks that can be mitigated by this stakeholder
 
@@ -29,4 +29,8 @@
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 
+
+## Type of the stakeholder
+
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
 

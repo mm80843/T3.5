@@ -2,32 +2,38 @@
 
 # __Healthcare policymakers__
 
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Enhanced preparation for outbreak](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1302.md)
-
 ## Category to which it belongs
 
-* [The various individuals and entities involved in the provision and administration of healthcare services and systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_190.md)
+* [The various individuals and entities involved in the provision and administration of healthcare services and systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_240.md)
 
 ## Closest similar item
 
-* [Policymakers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_126.md)
-* [Public health agencies and policymakers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_122.md)
-* [Public health researchers and policymakers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_123.md)
-* [Economic policymakers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_892.md)
+* [Economic policymakers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_126.md)
+* [Health care providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_122.md)
+* [Healthcare](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_123.md)
+* [Healthcare agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_892.md)
 * [Healthcare providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_121.md)
-* [Health care providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_344.md)
-* [Healthcare providers and patients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_120.md)
-* [Policy makers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_3.md)
-* [Healthcare](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_192.md)
-* [Healthcare agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_541.md)
+* [Healthcare providers and patients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_344.md)
+* [Policy makers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_120.md)
+* [Policymakers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_3.md)
+* [Public health agencies and policymakers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_192.md)
+* [Public health researchers and policymakers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_541.md)
+
+## Risk affecting this stakeholder
+
+* [Insufficient healthcare preparation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2159.md)
 
 ## Risks that can be mitigated by this stakeholder
 
 * [Insufficient healthcare preparation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2159.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder can get these Benefits from mitigation measures
 
-* [Insufficient healthcare preparation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2159.md)
+* [Enhanced preparation for outbreak](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1302.md)
+
+## Type of the stakeholder
+
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_0.md)
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

@@ -4,26 +4,26 @@
 
 ## Category to which it belongs
 
-* [Public and governmental entities at various levels, including policy makers, governments, and citizens.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_192.md)
+* [Public and governmental entities at various levels, including policy makers, governments, and citizens.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_242.md)
 
 ## Closest similar item
 
-* [City administrators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_718.md)
-* [City officials](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_724.md)
-* [City administrator](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1623.md)
-* [City authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_534.md)
-* [City authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1617.md)
+* [City administrator](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_718.md)
+* [City administrators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_724.md)
+* [City authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1623.md)
+* [City authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_534.md)
+* [City government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1617.md)
 * [City governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_354.md)
-* [City government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1110.md)
-* [Local government authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1572.md)
-* [Urban authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_434.md)
-* [City official](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1601.md)
+* [City official](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1110.md)
+* [City officials](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1572.md)
+* [Local government authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_434.md)
+* [Urban authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1601.md)
 
 ## Stakeholders in this stakeholder subgroup
 
-* [City officials](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_724.md)
-* [City authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_534.md)
-* [City administrators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_718.md)
-* [City administrator](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1623.md)
-* [City official](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1601.md)
+* [City administrator](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_724.md)
+* [City administrators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_534.md)
+* [City authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1623.md)
+* [City official](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_718.md)
+* [City officials](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1601.md)
 

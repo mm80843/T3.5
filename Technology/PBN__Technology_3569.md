@@ -4,19 +4,19 @@
 
 ## Category to which it belongs
 
-* [Advancements in remote healthcare, antibiotic stewardship programs, medical robots, and international organizations contribute to improved healthcare infrastructure and access to healthcare services.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_135.md)
+* [Advancements in remote healthcare, antibiotic stewardship programs, medical robots, and international organizations contribute to improved healthcare infrastructure and access to healthcare services.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_185.md)
 
 ## Closest similar item
 
-* [Medical equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_108.md)
-* [Portable medical equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_953.md)
-* [Equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2638.md)
-* [Medical supplies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1250.md)
-* [Proper equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2429.md)
-* [Medical infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2295.md)
-* [Laboratory equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3203.md)
-* [Medical facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2299.md)
-* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_136.md)
+* [Equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_108.md)
+* [Laboratory equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_953.md)
+* [Medical equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2638.md)
+* [Medical facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1250.md)
+* [Medical infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2429.md)
+* [Medical supplies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2295.md)
+* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3203.md)
+* [Portable medical equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2299.md)
+* [Proper equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_136.md)
 * [Use of personal protective equipment in care facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_556.md)
 
 ## This Technology enables the following mitigations

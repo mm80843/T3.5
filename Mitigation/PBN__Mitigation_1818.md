@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Implementing measures to maintain physical distance, limit occupancy, enforce restrictions, and promote social distancing in various settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_69.md)
+* [Implementing measures to maintain physical distance, limit occupancy, enforce restrictions, and promote social distancing in various settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_119.md)
 
 ## Closest similar item
 
-* [Implementing social distancing measures, reducing population density](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2291.md)
-* [Social distancing measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_416.md)
-* [Implementing social distancing measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4086.md)
+* [Enforce social distancing guidelines, limit occupant density](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2291.md)
+* [Implementing social distancing measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_416.md)
+* [Implementing social distancing measures, reducing population density](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4086.md)
 * [Improved social distancing measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4220.md)
-* [Enforce social distancing guidelines, limit occupant density](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2803.md)
-* [Provide guidance on social distancing measures, improve living conditions in crowded areas](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1608.md)
-* [Temporary social-distancing measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3134.md)
-* [Maintaining social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_251.md)
-* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
-* [Occupancy density and social distancing management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_847.md)
+* [Maintaining social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2803.md)
+* [Occupancy density and social distancing management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1608.md)
+* [Provide guidance on social distancing measures, improve living conditions in crowded areas](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3134.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_251.md)
+* [Social distancing measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Temporary social-distancing measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_847.md)
 
 ## Risks possibly mitigated by this Mitigation
 

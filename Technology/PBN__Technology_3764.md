@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Promoting sustainable and inclusive outdoor environments through land use regulation, environmental surveillance, and community gardening.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_111.md)
+* [Promoting sustainable and inclusive outdoor environments through land use regulation, environmental surveillance, and community gardening.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_161.md)
 
 ## Closest similar item
 
-* [Plants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3763.md)
-* [Potted plants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3613.md)
-* [Vegetation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3095.md)
-* [Plant installations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3717.md)
-* [Planting trees](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_972.md)
-* [Tree planting](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1392.md)
-* [Natural elements plants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2430.md)
-* [Indoor plants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1610.md)
-* [Online plant stores](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_418.md)
-* [Indoor vegetation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2442.md)
+* [Indoor plants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3763.md)
+* [Indoor vegetation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3613.md)
+* [Natural elements plants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3095.md)
+* [Online plant stores](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3717.md)
+* [Plant installations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_972.md)
+* [Planting trees](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1392.md)
+* [Plants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2430.md)
+* [Potted plants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1610.md)
+* [Tree planting](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_418.md)
+* [Vegetation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2442.md)
 
 ## This Technology enables the following mitigations
 

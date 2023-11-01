@@ -2,27 +2,27 @@
 
 # __Robot systems__
 
-## Link between Blueprint and General ontology
-
-* [Robots, Drones & Automated Vehicules](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_13.md)
-* [Robots](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_14.md)
-
 ## Category to which it belongs
 
-* [Innovative technologies and systems that enable efficient and secure control, management, and interaction in various domains.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_109.md)
+* [Innovative technologies and systems that enable efficient and secure control, management, and interaction in various domains.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_159.md)
 
 ## Closest similar item
 
-* [Robotic systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3856.md)
-* [Robotics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1171.md)
-* [Robot technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3368.md)
-* [Robots](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2290.md)
-* [Industrial robots](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3863.md)
-* [Control systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3605.md)
-* [Medical robots](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3463.md)
-* [Coordination systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1283.md)
-* [Drones and robots](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2289.md)
+* [Control systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3856.md)
+* [Coordination systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1171.md)
+* [Drones and robots](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3368.md)
+* [Industrial robots](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2290.md)
+* [Medical robots](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3863.md)
+* [Robot technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3605.md)
+* [Robotic systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3463.md)
+* [Robotics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1283.md)
+* [Robots](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2289.md)
 * [Tracking systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1541.md)
+
+## Link between Blueprint and General ontology
+
+* [Robots](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_13.md)
+* [Robots, Drones & Automated Vehicules](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_14.md)
 
 ## This Technology enables the following mitigations
 

@@ -2,42 +2,34 @@
 
 # __Late adoption of nphis__
 
+## Articles mentionning the risk
+
+* [Effectiveness of non-pharmaceutical public health interventions against COVID-19: A systematic review and meta-analysis](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_19.md)
+
 ## Category to which it belongs
 
-* [The pandemic has led to a decrease in in-person surgical education, loss of control, temporary panic from cruise ship docking, limited social distancing, and decreased morale.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_20.md)
+* [The pandemic has led to a decrease in in-person surgical education, loss of control, temporary panic from cruise ship docking, limited social distancing, and decreased morale.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_70.md)
 
 ## Closest similar item
 
 * [Adoption and trust](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1104.md)
-* [Low adoption and accessibility](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1939.md)
-* [Ineffective nphis](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1493.md)
-* [Psycho-social effects of npis](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1772.md)
-* [Resistance to digital adoption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3121.md)
-* [Positive health effects of npis](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1774.md)
-* [Disruption of education, child development](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2735.md)
-* [Delayed drug development](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1783.md)
-* [Lack of contact with nature](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_735.md)
-* [Lack of social cohesion and trust](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3278.md)
+* [Delayed drug development](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1939.md)
+* [Disruption of education, child development](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1493.md)
+* [Ineffective nphis](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1772.md)
+* [Lack of contact with nature](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3121.md)
+* [Lack of social cohesion and trust](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1774.md)
+* [Low adoption and accessibility](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2735.md)
+* [Positive health effects of npis](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1783.md)
+* [Psycho-social effects of npis](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_735.md)
+* [Resistance to digital adoption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3278.md)
 
 ## Description of the risk
 
 Late implementation of non-pharmaceutical public health interventions to control the spread of COVID-19
 
-## Type of the risk
-
-* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Is the risk affecting GBN scales
 
 * [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
-
-## Type of impact of the risk (according to ISO37100)
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
-
-## Type of purpose of the risk (according to ISO37100)
-
-* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
 
 ## Mitigations of this risk
 
@@ -47,28 +39,36 @@ Late implementation of non-pharmaceutical public health interventions to control
 
 Higher transmission rates, increased number of cases, overwhelmed healthcare system
 
-## Stakeholders who can mitigate this risk
-
-* [Public health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_0.md)
-* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
-
-## Articles mentionning the risk
-
-* [Effectiveness of non-pharmaceutical public health interventions against COVID-19: A systematic review and meta-analysis](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_19.md)
-
 ## People affected by this risk
 
-* [Healthcare workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_68.md)
-* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
+* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_68.md)
+* [Healthcare workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
+
+## Stakeholders who can mitigate this risk
+
+* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_0.md)
+* [Public health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
 
 ## Technologies linked to the risk
 
-* [Real-time data monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_777.md)
 * [Early warning systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_551.md)
+* [Real-time data monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_777.md)
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
+
+## Type of the risk
+
+* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
-* [Political](https://github.com/mm80843/T3.5/blob/pages/RiskType/PBN__RiskType_1.md)
-* [Social](https://github.com/mm80843/T3.5/blob/pages/RiskType/PBN__RiskType_2.md)
-* [Economic](https://github.com/mm80843/T3.5/blob/pages/RiskType/PBN__RiskType_3.md)
+* [Economic](https://github.com/mm80843/T3.5/blob/pages/RiskType/PBN__RiskType_1.md)
+* [Political](https://github.com/mm80843/T3.5/blob/pages/RiskType/PBN__RiskType_2.md)
+* [Social](https://github.com/mm80843/T3.5/blob/pages/RiskType/PBN__RiskType_3.md)
 

@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Cutting-edge techniques, strategies, and technologies for pathogen detection, vaccine development, and global disease surveillance.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_145.md)
+* [Cutting-edge techniques, strategies, and technologies for pathogen detection, vaccine development, and global disease surveillance.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_195.md)
 
 ## Closest similar item
 
-* [Viral survival](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1957.md)
-* [Viral testing kits](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3252.md)
-* [Improved virus concentration methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_59.md)
-* [Antivirals](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_827.md)
-* [Antiviral drug research](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_836.md)
-* [Antiviral](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3293.md)
-* [Research on viral cell entry mechanisms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1951.md)
-* [Advanced laboratory techniques for virus detection and identification](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_494.md)
-* [Global network of virus surveillance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1962.md)
-* [Antiviral drugs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_236.md)
+* [Advanced laboratory techniques for virus detection and identification](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1957.md)
+* [Antiviral](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3252.md)
+* [Antiviral drug research](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_59.md)
+* [Antiviral drugs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_827.md)
+* [Antivirals](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_836.md)
+* [Global network of virus surveillance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3293.md)
+* [Improved virus concentration methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1951.md)
+* [Research on viral cell entry mechanisms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_494.md)
+* [Viral survival](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1962.md)
+* [Viral testing kits](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_236.md)
 
 ## This Technology enables the following mitigations
 

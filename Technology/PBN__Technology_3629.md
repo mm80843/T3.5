@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Effective water management encompasses wastewater testing, waste management, rainwater storage, wastewater treatment technology, smart water consumption, and improved infrastructure.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_131.md)
+* [Effective water management encompasses wastewater testing, waste management, rainwater storage, wastewater treatment technology, smart water consumption, and improved infrastructure.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_181.md)
 
 ## Closest similar item
 
-* [Water management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2170.md)
-* [Water and waste management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2190.md)
-* [Water-saving technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3649.md)
-* [Water efficiency](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3849.md)
-* [Improved water management and sanitation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_980.md)
-* [Smart water consumption technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3659.md)
-* [Improved water supply](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3045.md)
-* [Water treatment systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3736.md)
-* [Water treatment facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_664.md)
-* [Improved water treatment technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_996.md)
+* [Improved water management and sanitation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2170.md)
+* [Improved water supply](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2190.md)
+* [Improved water treatment technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3649.md)
+* [Smart water consumption technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3849.md)
+* [Water and waste management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_980.md)
+* [Water efficiency](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3659.md)
+* [Water management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3045.md)
+* [Water treatment facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3736.md)
+* [Water treatment systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_664.md)
+* [Water-saving technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_996.md)
 
 ## This Technology enables the following mitigations
 

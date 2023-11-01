@@ -4,20 +4,24 @@
 
 ## Category to which it belongs
 
-* [Individuals requiring mental health support, including those with pre-existing conditions, poor health, or marginalized access to services.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_201.md)
+* [Individuals requiring mental health support, including those with pre-existing conditions, poor health, or marginalized access to services.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_251.md)
 
 ## Closest similar item
 
 * [Individual experiencing health anxiety](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2202.md)
-* [Individuals with mental health conditions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1413.md)
-* [Individuals with mental health issues](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_8.md)
-* [Individuals with underlying health conditions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_886.md)
-* [Individuals with health conditions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2077.md)
-* [Individuals with comorbidities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1256.md)
-* [Individuals with previous mental health issues](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1335.md)
+* [Individual with mental health condition](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1413.md)
+* [Individuals with comorbidities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_8.md)
+* [Individuals with health conditions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_886.md)
+* [Individuals with mental health conditions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2077.md)
+* [Individuals with mental health issues](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1256.md)
+* [Individuals with mental illness](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1335.md)
 * [Individuals with pre-existing mental health conditions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_658.md)
-* [Individual with mental health condition](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2150.md)
-* [Individuals with mental illness](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1559.md)
+* [Individuals with previous mental health issues](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2150.md)
+* [Individuals with underlying health conditions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1559.md)
+
+## Risk affecting this stakeholder
+
+* [Perceived severity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1601.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -26,7 +30,7 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 
-## Risk affecting this stakeholder
+## Type of the stakeholder
 
-* [Perceived severity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1601.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

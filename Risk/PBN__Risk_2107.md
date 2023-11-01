@@ -2,42 +2,34 @@
 
 # __Technological__
 
+## Articles mentionning the risk
+
+* [The role of contemporary digital tools and technologies in COVID19 crisis: An exploratory analysis](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_226.md)
+
 ## Category to which it belongs
 
-* [Interoperability challenges, high costs, limited communication, and lack of resources impact various sectors globally.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_22.md)
+* [Interoperability challenges, high costs, limited communication, and lack of resources impact various sectors globally.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_72.md)
 
 ## Closest similar item
 
-* [Technology access](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1258.md)
-* [Reliance on technology](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1941.md)
-* [Dependency on technology](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1226.md)
-* [Technical expertise](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1776.md)
-* [Increased reliance on technology](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1949.md)
-* [Technological limitations and dependencies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2076.md)
+* [Dependency on technology](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1258.md)
+* [Increased reliance on technology](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1941.md)
+* [Lack of effective technical systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1226.md)
+* [Need for innovative and modern technologies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1776.md)
+* [Reliance on technology](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1949.md)
+* [Technical expertise](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2076.md)
 * [Technical performance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2427.md)
-* [Technological limitations, lack of access to technology](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3025.md)
-* [Need for innovative and modern technologies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_424.md)
-* [Lack of effective technical systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1190.md)
+* [Technological limitations and dependencies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3025.md)
+* [Technological limitations, lack of access to technology](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_424.md)
+* [Technology access](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1190.md)
 
 ## Description of the risk
 
 Emerging technologies are still evolving, with limitations and challenges to overcome.
 
-## Type of the risk
-
-* [Other](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_2.md)
-
 ## Is the risk affecting GBN scales
 
 * [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
-
-## Type of impact of the risk (according to ISO37100)
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
-
-## Type of purpose of the risk (according to ISO37100)
-
-* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_1.md)
 
 ## Mitigations of this risk
 
@@ -47,25 +39,33 @@ Emerging technologies are still evolving, with limitations and challenges to ove
 
 Reliability issues, technical glitches, lack of compatibility with existing systems.
 
-## Stakeholders who can mitigate this risk
-
-* [Technology companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_717.md)
-* [Research institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_413.md)
-
-## Articles mentionning the risk
-
-* [The role of contemporary digital tools and technologies in COVID19 crisis: An exploratory analysis](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_226.md)
-
 ## People affected by this risk
 
 * [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
 * [Technology developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_761.md)
 
+## Stakeholders who can mitigate this risk
+
+* [Research institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_413.md)
+* [Technology companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_717.md)
+
 ## Technologies linked to the risk
 
-* [Collaboration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_151.md)
-* [Research](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_261.md)
-* [Continued technological advancements](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1641.md)
+* [Collaboration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_261.md)
+* [Continued technological advancements](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_151.md)
+* [Research](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1641.md)
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_1.md)
+
+## Type of the risk
+
+* [Other](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_2.md)
 
 ## Property: has_RiskType
 

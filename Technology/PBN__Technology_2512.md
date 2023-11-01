@@ -4,19 +4,19 @@
 
 ## Category to which it belongs
 
-* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_116.md)
+* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_166.md)
 
 ## Closest similar item
 
-* [Rooms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3574.md)
-* [Chat bot](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1715.md)
+* [Chat bot](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3574.md)
+* [Communal spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1715.md)
 * [Discussion forums](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1426.md)
-* [Skype](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2613.md)
-* [Separate room](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3085.md)
+* [Messaging apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2613.md)
+* [Online meeting platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3085.md)
 * [Online meetings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2528.md)
-* [Online meeting platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1658.md)
-* [Messaging apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3400.md)
-* [Communal spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3313.md)
+* [Rooms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1658.md)
+* [Separate room](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3400.md)
+* [Skype](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3313.md)
 * [Social media groups](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_420.md)
 
 ## This Technology enables the following mitigations

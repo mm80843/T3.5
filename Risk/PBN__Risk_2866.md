@@ -4,19 +4,19 @@
 
 ## Category to which it belongs
 
-* [The challenges of water pollution, inadequate wastewater management, and poor waste disposal require urgent attention for environmental sustainability.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_9.md)
+* [The challenges of water pollution, inadequate wastewater management, and poor waste disposal require urgent attention for environmental sustainability.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_59.md)
 
 ## Closest similar item
 
-* [Environmental contamination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_923.md)
-* [Environmental pollution](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_581.md)
-* [Contaminated environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3229.md)
-* [Waste contamination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3290.md)
-* [Contamination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1860.md)
-* [Contaminated environments](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3098.md)
-* [Contamination of sewage](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3367.md)
+* [Air pollution](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_923.md)
+* [Contaminated environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_581.md)
+* [Contaminated environments](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3229.md)
+* [Contamination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3290.md)
+* [Contamination of sewage](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1860.md)
+* [Environmental contamination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3098.md)
+* [Environmental pollution](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3367.md)
 * [Increased waste, risk of contamination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3401.md)
-* [Air pollution](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_148.md)
+* [Waste contamination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_148.md)
 * [Water contamination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_129.md)
 
 ## Mitigations of this risk

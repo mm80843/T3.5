@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Efficiently collect, analyze, and share anonymized data using a variety of tools, platforms, and systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_126.md)
+* [Efficiently collect, analyze, and share anonymized data using a variety of tools, platforms, and systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_176.md)
 
 ## Closest similar item
 
-* [Data collection and analysis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2223.md)
+* [Data analysis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2223.md)
 * [Data collection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2901.md)
-* [Data collection and analysis methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1815.md)
-* [Local data collection methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3816.md)
-* [Data tracking](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2865.md)
-* [Robust data collection methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2906.md)
-* [Research and data collection methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1121.md)
+* [Data collection and analysis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1815.md)
+* [Data collection and analysis methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3816.md)
+* [Data monitoring and analysis systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2865.md)
+* [Data tracking](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2906.md)
+* [Local data collection methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1121.md)
 * [Real-time data analysis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2003.md)
-* [Data analysis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2736.md)
-* [Data monitoring and analysis systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1486.md)
+* [Research and data collection methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2736.md)
+* [Robust data collection methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1486.md)
 
 ## This Technology enables the following mitigations
 

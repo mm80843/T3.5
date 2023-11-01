@@ -4,19 +4,19 @@
 
 ## Category to which it belongs
 
-* [Promote physical activity through various methods, including incorporating exercise opportunities into design, online classes, and virtual reality training, to enhance health and well-being.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_90.md)
+* [Promote physical activity through various methods, including incorporating exercise opportunities into design, online classes, and virtual reality training, to enhance health and well-being.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_140.md)
 
 ## Closest similar item
 
-* [Virtual reality medical training](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1125.md)
-* [Virtual reality patient education](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1126.md)
-* [Virtual reality technology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4195.md)
-* [Implementation of virtual training classes](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_642.md)
-* [Use virtual reality to educate patients](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2736.md)
-* [Virtual reality](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4880.md)
-* [Virtual reality psychological treatment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1127.md)
-* [Virtual learning in combination with in-person classes](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4284.md)
-* [Immersive virtual reality](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4200.md)
+* [Immersive virtual reality](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1125.md)
+* [Implementation of virtual training classes](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1126.md)
+* [Use virtual reality to educate patients](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4195.md)
+* [Virtual learning in combination with in-person classes](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_642.md)
+* [Virtual reality](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2736.md)
+* [Virtual reality medical training](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4880.md)
+* [Virtual reality patient education](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1127.md)
+* [Virtual reality psychological treatment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4284.md)
+* [Virtual reality technology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4200.md)
 * [Virtual reality-based therapy](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2737.md)
 
 ## Risks possibly mitigated by this Mitigation

@@ -4,20 +4,24 @@
 
 ## Category to which it belongs
 
-* [Managers responsible for overseeing various aspects of facilities and operations, including supply chain, construction projects, healthcare, property, and crisis.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_205.md)
+* [Managers responsible for overseeing various aspects of facilities and operations, including supply chain, construction projects, healthcare, property, and crisis.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_255.md)
 
 ## Closest similar item
 
-* [Fund manager](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2068.md)
-* [Fund management companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1328.md)
-* [Fund management company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2031.md)
-* [Financial advisor](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1951.md)
-* [Financial advisors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_827.md)
-* [Managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1516.md)
-* [Money market funds](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_507.md)
+* [Capital market funds](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2068.md)
+* [Financial advisor](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1328.md)
+* [Financial advisors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2031.md)
+* [Fund management companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1951.md)
+* [Fund management company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_827.md)
+* [Fund manager](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1516.md)
+* [Investment professional](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_507.md)
 * [Investment professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1329.md)
-* [Capital market funds](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_506.md)
-* [Investment professional](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1964.md)
+* [Managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_506.md)
+* [Money market funds](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1964.md)
+
+## Risk affecting this stakeholder
+
+* [Superior performance of actively managed funds](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1955.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -27,7 +31,7 @@
 
 * [Business and financial services](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1865.md)
 
-## Risk affecting this stakeholder
+## Type of the stakeholder
 
-* [Superior performance of actively managed funds](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1955.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

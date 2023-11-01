@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_119.md)
+* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_169.md)
 
 ## Closest similar item
 
-* [Filters merv 7 and merv 14](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3173.md)
-* [Such as merv-13](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_680.md)
+* [Air filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3173.md)
+* [Efficient filter replacement mechanisms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_680.md)
 * [Filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_192.md)
-* [Hepa filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_672.md)
-* [Hvac filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3123.md)
-* [Pm2.5 filter](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3235.md)
-* [Water filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3628.md)
-* [Air filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1109.md)
-* [High-efficiency filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_272.md)
-* [Efficient filter replacement mechanisms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2021.md)
+* [Filters merv 7 and merv 14](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_672.md)
+* [Hepa filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3123.md)
+* [High-efficiency filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3235.md)
+* [Hvac filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3628.md)
+* [Pm2.5 filter](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1109.md)
+* [Such as merv-13](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_272.md)
+* [Water filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2021.md)
 
 ## This Technology enables the following mitigations
 

@@ -4,20 +4,24 @@
 
 ## Category to which it belongs
 
-* [The financial ecosystem involves a diverse range of entities such as investors, regulatory bodies, stakeholders, banks, and professional associations.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_230.md)
+* [The financial ecosystem involves a diverse range of entities such as investors, regulatory bodies, stakeholders, banks, and professional associations.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_280.md)
 
 ## Closest similar item
 
-* [Funding body](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1864.md)
-* [Funding agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_993.md)
-* [Funding organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1995.md)
-* [Funding organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1192.md)
-* [Funding agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1999.md)
-* [Government bodies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_973.md)
-* [Policy bodies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1403.md)
-* [Donors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_453.md)
-* [Regulatory bodies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_706.md)
-* [Equity funds](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_503.md)
+* [Donors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1864.md)
+* [Equity funds](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_993.md)
+* [Funding agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1995.md)
+* [Funding agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1192.md)
+* [Funding body](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1999.md)
+* [Funding organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_973.md)
+* [Funding organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1403.md)
+* [Government bodies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_453.md)
+* [Policy bodies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_706.md)
+* [Regulatory bodies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_503.md)
+
+## Risk affecting this stakeholder
+
+* [Limited data sharing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1330.md)
 
 ## Risks that can be mitigated by this stakeholder
 
@@ -31,7 +35,8 @@
 
 * [Business and financial services](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1865.md)
 
-## Risk affecting this stakeholder
+## Type of the stakeholder
 
-* [Limited data sharing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1330.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

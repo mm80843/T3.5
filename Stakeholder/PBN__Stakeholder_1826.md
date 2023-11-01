@@ -4,19 +4,19 @@
 
 ## Category to which it belongs
 
-* [Managers responsible for overseeing various aspects of facilities and operations, including supply chain, construction projects, healthcare, property, and crisis.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_205.md)
+* [Managers responsible for overseeing various aspects of facilities and operations, including supply chain, construction projects, healthcare, property, and crisis.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_255.md)
 
 ## Closest similar item
 
-* [Healthcare managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1193.md)
+* [Health care personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1193.md)
 * [Healthcare administration](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1834.md)
 * [Healthcare administrators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_557.md)
-* [Healthcare personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_185.md)
-* [Healthcare worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1833.md)
-* [Health care personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1060.md)
+* [Healthcare managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_185.md)
+* [Healthcare personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1833.md)
+* [Healthcare professional](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1060.md)
 * [Healthcare staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_139.md)
-* [Hospital administrator](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1846.md)
-* [Healthcare professional](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1850.md)
+* [Healthcare worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1846.md)
+* [Hospital administrator](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1850.md)
 * [Hospital management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_239.md)
 
 ## This Stakeholder belongs to this StakeholderGroup

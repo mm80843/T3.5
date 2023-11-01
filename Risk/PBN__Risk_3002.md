@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The prevalence and impact of inaccurate, uncertain, and biased data pose significant challenges in decision-making and effective response to the covid-19 pandemic.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_34.md)
+* [The prevalence and impact of inaccurate, uncertain, and biased data pose significant challenges in decision-making and effective response to the covid-19 pandemic.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_84.md)
 
 ## Closest similar item
 
-* [Inaccurate forecasting](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2339.md)
-* [Lack of accurate predictions and decision making](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2940.md)
-* [Forecast accuracy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3236.md)
-* [Inaccurate results or bias](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2995.md)
-* [High uncertainty in estimates and predictions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1388.md)
-* [Inaccurate information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_972.md)
-* [Inaccurate data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3130.md)
+* [Forecast accuracy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2339.md)
+* [High uncertainty in estimates and predictions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2940.md)
+* [Inaccurate data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3236.md)
+* [Inaccurate forecasting](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2995.md)
+* [Inaccurate information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1388.md)
+* [Inaccurate input](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_972.md)
+* [Inaccurate news](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3130.md)
 * [Inaccurate or random results](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2886.md)
-* [Inaccurate news](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3083.md)
-* [Inaccurate input](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2992.md)
+* [Inaccurate results or bias](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3083.md)
+* [Lack of accurate predictions and decision making](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2992.md)
 
 ## Mitigations of this risk
 

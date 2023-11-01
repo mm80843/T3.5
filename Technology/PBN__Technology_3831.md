@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Combatting malaria and mitigating its impact through various means such as drugs, deterrents, treatments, surveillance, alternative materials, and pest control.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_149.md)
+* [Combatting malaria and mitigating its impact through various means such as drugs, deterrents, treatments, surveillance, alternative materials, and pest control.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_199.md)
 
 ## Closest similar item
 
-* [Mosquito control operations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3422.md)
-* [Mosquito control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2361.md)
-* [Genetic manipulation of mosquitoes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1948.md)
-* [Mosquito traps and surveillance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_977.md)
-* [Climate change mitigation techniques and mosquito control methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1465.md)
-* [Mosquito-resistant alternative building materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2277.md)
-* [Investigate material science to develop mosquito-resistant alternative building materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1193.md)
-* [Anti-malaria drugs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_237.md)
-* [Insecticides](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3823.md)
-* [Advanced molecular biology techniques for pathogen detection and monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1559.md)
+* [Advanced molecular biology techniques for pathogen detection and monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3422.md)
+* [Anti-malaria drugs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2361.md)
+* [Climate change mitigation techniques and mosquito control methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1948.md)
+* [Genetic manipulation of mosquitoes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_977.md)
+* [Insecticides](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1465.md)
+* [Investigate material science to develop mosquito-resistant alternative building materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2277.md)
+* [Mosquito control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1193.md)
+* [Mosquito control operations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_237.md)
+* [Mosquito traps and surveillance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3823.md)
+* [Mosquito-resistant alternative building materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1559.md)
 
 ## This Technology enables the following mitigations
 

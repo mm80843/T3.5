@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [A comprehensive collection of iot devices, sensors, and monitoring systems for remote monitoring, measurement, and environmental control.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_117.md)
+* [A comprehensive collection of iot devices, sensors, and monitoring systems for remote monitoring, measurement, and environmental control.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_167.md)
 
 ## Closest similar item
 
-* [Zigbee-based monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3704.md)
-* [Monitoring systems and sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2169.md)
-* [Sensor networks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3426.md)
-* [Sensor-based technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2432.md)
-* [Wireless sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3303.md)
-* [Monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_201.md)
-* [Energy monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_350.md)
-* [Sensor-based systems for monitoring facility usage and cleanliness](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1367.md)
-* [Advanced monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1127.md)
-* [Real-time monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1706.md)
+* [Advanced monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3704.md)
+* [Energy monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2169.md)
+* [Monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3426.md)
+* [Monitoring systems and sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2432.md)
+* [Real-time monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3303.md)
+* [Sensor networks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_201.md)
+* [Sensor-based systems for monitoring facility usage and cleanliness](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_350.md)
+* [Sensor-based technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1367.md)
+* [Wireless sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1127.md)
+* [Zigbee-based monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1706.md)
 
 ## This Technology enables the following mitigations
 

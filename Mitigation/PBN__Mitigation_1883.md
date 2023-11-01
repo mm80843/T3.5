@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Enhancing risk management, crisis response, resilience building, and effective communication through comprehensive preparedness planning and strategic decision-making.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_63.md)
+* [Enhancing risk management, crisis response, resilience building, and effective communication through comprehensive preparedness planning and strategic decision-making.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_113.md)
 
 ## Closest similar item
 
-* [Policy measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4005.md)
-* [Case-based measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3690.md)
-* [Government policy measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4001.md)
-* [Tailored policies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3703.md)
-* [Fiscal policy measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_967.md)
-* [Mitigation measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1288.md)
+* [Case-based measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4005.md)
+* [Fiscal policy measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3690.md)
+* [Flexible working policies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4001.md)
+* [Government policy measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3703.md)
+* [Implement measures to reduce patient overcrowding, such as increasing healthcare facility capacity or redirecting patients to different facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_967.md)
+* [Implement measures to reduce population density, such as decentralization and expanding horizontally](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1288.md)
 * [Mitigation measure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1396.md)
-* [Flexible working policies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4726.md)
-* [Implement measures to reduce population density, such as decentralization and expanding horizontally](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2300.md)
-* [Implement measures to reduce patient overcrowding, such as increasing healthcare facility capacity or redirecting patients to different facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1859.md)
+* [Mitigation measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4726.md)
+* [Policy measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2300.md)
+* [Tailored policies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1859.md)
 
 ## Risks possibly mitigated by this Mitigation
 

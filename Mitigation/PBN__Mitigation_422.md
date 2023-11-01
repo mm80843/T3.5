@@ -2,26 +2,26 @@
 
 # __Redistribution of green spaces__
 
-## Category to which it belongs
-
-* [Enhancing access to and incorporating green and outdoor spaces for improved livability and connectivity.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_58.md)
-
-## Closest similar item
-
-* [Provide green spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2864.md)
-* [Incorporating green spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4969.md)
-* [Ensure equitable distribution of urban green spaces by prioritizing underserved neighborhoods for green space development and improvement](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2408.md)
-* [Access to green spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_747.md)
-* [Urban green spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4157.md)
-* [Incorporation of green areas in available spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4158.md)
-* [Public green spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3526.md)
-* [Design of green spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_702.md)
-* [Homogeneous distribution of urban green spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4162.md)
-* [Green open spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4601.md)
-
 ## Benefits linked to a risk
 
 * [Improved social and spatial justice](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_417.md)
+
+## Category to which it belongs
+
+* [Enhancing access to and incorporating green and outdoor spaces for improved livability and connectivity.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_108.md)
+
+## Closest similar item
+
+* [Access to green spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2864.md)
+* [Design of green spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4969.md)
+* [Ensure equitable distribution of urban green spaces by prioritizing underserved neighborhoods for green space development and improvement](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2408.md)
+* [Green open spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_747.md)
+* [Homogeneous distribution of urban green spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4157.md)
+* [Incorporating green spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4158.md)
+* [Incorporation of green areas in available spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3526.md)
+* [Provide green spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_702.md)
+* [Public green spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4162.md)
+* [Urban green spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4601.md)
 
 ## Risks possibly mitigated by this Mitigation
 

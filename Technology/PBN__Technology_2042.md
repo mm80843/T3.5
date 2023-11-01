@@ -2,26 +2,26 @@
 
 # __Ai technology__
 
-## Link between Blueprint and General ontology
-
-* [AI/ML](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_8.md)
-
 ## Category to which it belongs
 
-* [Advancements in various technological domains facilitate touchless, remote, and efficient ways of communication, work, and data management.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_108.md)
+* [Advancements in various technological domains facilitate touchless, remote, and efficient ways of communication, work, and data management.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_158.md)
 
 ## Closest similar item
 
-* [Artificial intelligence ai](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1712.md)
-* [Ai](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_278.md)
-* [Artificial intelligence](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_356.md)
-* [Ai algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_149.md)
+* [Ai](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1712.md)
+* [Ai algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_278.md)
+* [Ai in healthcare](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_356.md)
+* [Ai support systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_149.md)
 * [Ai tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1316.md)
-* [Artificial intelligence and mobile technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3222.md)
-* [Ai support systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2053.md)
-* [Smart technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3882.md)
+* [Artificial intelligence](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3222.md)
+* [Artificial intelligence ai](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2053.md)
+* [Artificial intelligence and mobile technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3882.md)
 * [Robot technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3368.md)
-* [Ai in healthcare](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1506.md)
+* [Smart technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1506.md)
+
+## Link between Blueprint and General ontology
+
+* [AI/ML](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_8.md)
 
 ## This Technology belongs to this TechGroup
 

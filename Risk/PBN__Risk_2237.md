@@ -2,42 +2,34 @@
 
 # __Insufficient investment in healthcare__
 
+## Articles mentionning the risk
+
+* [Emerging Technologies to Combat the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_116.md)
+
 ## Category to which it belongs
 
-* [The impact of various factors on public health, including unhealthy behaviors, limited access to healthcare, and food insecurity.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_3.md)
+* [The impact of various factors on public health, including unhealthy behaviors, limited access to healthcare, and food insecurity.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_53.md)
 
 ## Closest similar item
 
-* [Insufficient healthcare capacity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1025.md)
-* [Insufficient healthcare infrastructure and resources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1159.md)
+* [Inadequate healthcare capacity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1025.md)
+* [Inadequate healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1159.md)
 * [Inadequate healthcare resources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3185.md)
-* [Inadequate healthcare capacity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2861.md)
-* [Lack of healthcare access](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3144.md)
+* [Insufficient healthcare access](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2861.md)
+* [Insufficient healthcare capacity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3144.md)
 * [Insufficient healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1318.md)
-* [Lack of healthcare resources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3237.md)
-* [Insufficient healthcare access](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1390.md)
-* [Lack of access to healthcare services](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2469.md)
-* [Inadequate healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1122.md)
+* [Insufficient healthcare infrastructure and resources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3237.md)
+* [Lack of access to healthcare services](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1390.md)
+* [Lack of healthcare access](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2469.md)
+* [Lack of healthcare resources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1122.md)
 
 ## Description of the risk
 
 Lack of resources allocated to healthcare sector
 
-## Type of the risk
-
-* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Is the risk affecting GBN scales
 
 * [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
-
-## Type of impact of the risk (according to ISO37100)
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
-
-## Type of purpose of the risk (according to ISO37100)
-
-* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
 
 ## Mitigations of this risk
 
@@ -47,24 +39,32 @@ Lack of resources allocated to healthcare sector
 
 Inadequate healthcare infrastructure and capacity
 
+## People affected by this risk
+
+* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_68.md)
+* [Healthcare workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
+
 ## Stakeholders who can mitigate this risk
 
 * [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
 * [Healthcare organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_216.md)
 
-## Articles mentionning the risk
-
-* [Emerging Technologies to Combat the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_116.md)
-
-## People affected by this risk
-
-* [Healthcare workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_68.md)
-* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
-
 ## Technologies linked to the risk
 
-* [Healthcare funding](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1852.md)
-* [Resource allocation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_606.md)
+* [Healthcare funding](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_606.md)
+* [Resource allocation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1852.md)
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
+
+## Type of the risk
+
+* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 

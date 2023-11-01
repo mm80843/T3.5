@@ -4,26 +4,26 @@
 
 ## Category to which it belongs
 
-* [Accurate and reliable knowledge dissemination and fact-checking through interdisciplinary collaboration and intelligent information feedback.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_122.md)
+* [Accurate and reliable knowledge dissemination and fact-checking through interdisciplinary collaboration and intelligent information feedback.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_172.md)
 
 ## Closest similar item
 
-* [Ethical review boards](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_183.md)
-* [Ai](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_278.md)
+* [Ai](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_183.md)
+* [Ai algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_278.md)
 * [Ai in healthcare](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1506.md)
-* [Ai tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1316.md)
-* [Ethical frameworks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_318.md)
-* [Ai algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_149.md)
-* [Ethical guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1430.md)
-* [Ai technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2042.md)
-* [Artificial intelligence ai](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1712.md)
-* [Ethical guidelines and approvals](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_62.md)
-
-## This technology is mentioned by
-
-* [The role of contemporary digital tools and technologies in COVID19 crisis: An exploratory analysis](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_226.md)
+* [Ai technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1316.md)
+* [Ai tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_318.md)
+* [Artificial intelligence ai](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_149.md)
+* [Ethical frameworks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1430.md)
+* [Ethical guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2042.md)
+* [Ethical guidelines and approvals](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1712.md)
+* [Ethical review boards](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_62.md)
 
 ## Risks linked to this technology
 
 * [Ethical concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2106.md)
+
+## This technology is mentioned by
+
+* [The role of contemporary digital tools and technologies in COVID19 crisis: An exploratory analysis](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_226.md)
 

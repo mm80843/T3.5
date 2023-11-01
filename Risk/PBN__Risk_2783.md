@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Standardizing coronavirus knowledge, the respiratory virus spreads through the built environment, work, touch, aerosols, and contaminated surfaces.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_23.md)
+* [Standardizing coronavirus knowledge, the respiratory virus spreads through the built environment, work, touch, aerosols, and contaminated surfaces.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_73.md)
 
 ## Closest similar item
 
-* [High population density increases virus transmission risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_604.md)
-* [Virus propagation risks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_279.md)
-* [Exposure to virus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3094.md)
-* [Virus exposure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2487.md)
-* [Exposure to the virus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1851.md)
-* [Virus transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2490.md)
+* [Exposure to the virus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_604.md)
+* [Exposure to virus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_279.md)
+* [High population density increases virus transmission risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3094.md)
+* [Increased physical contact between occupants increases virus transmission risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2487.md)
+* [Infection risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1851.md)
+* [Risk of infection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2490.md)
 * [Transmission of the virus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2821.md)
-* [Increased physical contact between occupants increases virus transmission risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_605.md)
-* [Risk of infection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2441.md)
-* [Infection risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1751.md)
+* [Virus exposure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_605.md)
+* [Virus propagation risks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2441.md)
+* [Virus transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1751.md)
 
 ## Mitigations of this risk
 

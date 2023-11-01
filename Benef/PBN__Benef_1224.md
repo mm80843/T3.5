@@ -2,23 +2,27 @@
 
 # __Public health improvement__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Recognizing the health consequences of climate change enhances the perception of urgency and motivates action to mitigate climate change.
+* [What our response to the COVID-19 pandemic tells us of our capacity to respond to climate change](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_257.md)
+
+## Category to which it belongs
+
+* [Enhanced healthcare accessibility, quality, outcomes, and efficiency, along with reduced burden and inequalities, leading to improved public health.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_14.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Private investors benefit from healthier populations, reduced healthcare costs, and increased economic stability.](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_1374.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [What our response to the COVID-19 pandemic tells us of our capacity to respond to climate change](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_257.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_29.md)
+Recognizing the health consequences of climate change enhances the perception of urgency and motivates action to mitigate climate change.
 
 ## Risks which can benefit from this action
 
 * [Highlighting health impacts](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1233.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_29.md)
 

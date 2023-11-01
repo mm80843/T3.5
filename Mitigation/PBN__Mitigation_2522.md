@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Enhancing risk management, crisis response, resilience building, and effective communication through comprehensive preparedness planning and strategic decision-making.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_63.md)
+* [Enhancing risk management, crisis response, resilience building, and effective communication through comprehensive preparedness planning and strategic decision-making.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_113.md)
 
 ## Closest similar item
 
-* [Use of simulation for policy-making](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4538.md)
-* [Value-based decision-making](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4545.md)
+* [Data-driven decision-making](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4538.md)
+* [Engaging decision-makers and stakeholders in setting priorities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4545.md)
 * [Engaging decision-makers in setting priorities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3631.md)
-* [Data-driven decision-making](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4292.md)
-* [Policy measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4005.md)
-* [Implementing data-driven decision-making processes](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_14.md)
-* [Implement rapid response mechanisms and decision-making protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3099.md)
-* [Engaging decision-makers and stakeholders in setting priorities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_550.md)
-* [Promote the use of research evidence in decision-making processes, engage decision-makers in priority setting, and provide accessible and relevant evidence to inform critical decisions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1851.md)
-* [Simulation software tools](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4091.md)
+* [Implement rapid response mechanisms and decision-making protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4292.md)
+* [Implementing data-driven decision-making processes](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4005.md)
+* [Policy measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_14.md)
+* [Promote the use of research evidence in decision-making processes, engage decision-makers in priority setting, and provide accessible and relevant evidence to inform critical decisions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3099.md)
+* [Simulation software tools](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_550.md)
+* [Use of simulation for policy-making](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1851.md)
+* [Value-based decision-making](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4091.md)
 
 ## Risks possibly mitigated by this Mitigation
 

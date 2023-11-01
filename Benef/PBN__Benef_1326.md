@@ -2,20 +2,24 @@
 
 # __On contact surfaces__
 
-## Name of the Benefit
-
-nan
-
-## Description of actual returns pertaining to this benefit
-
-
 ## Articles mentionning this Benefit
 
 * [Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_282.md)
 
-## Stakeholders benefitting from this Benefit
+## Category to which it belongs
 
+* [Limits virus persistence on various surfaces through antimicrobial treatment and reduced human interaction with contaminated objects, aiding in disinfection and identification efforts.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_33.md)
+
+## Description of actual returns pertaining to this benefit
+
+
+## Name of the Benefit
+
+nan
 
 ## Risks which can benefit from this action
+
+
+## Stakeholders benefitting from this Benefit
 
 

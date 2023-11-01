@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Creators of digital solutions for various purposes, from software and app development to blockchain and ai.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_226.md)
+* [Creators of digital solutions for various purposes, from software and app development to blockchain and ai.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_276.md)
 
 ## Closest similar item
 
-* [Energy modeling software developer and research institution](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1986.md)
-* [Energy analysts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_347.md)
-* [Energy and climate researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_255.md)
-* [Energy modelers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1008.md)
-* [Energy modeler](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2062.md)
+* [Energy analysts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1986.md)
+* [Energy and climate researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_347.md)
+* [Energy companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_255.md)
+* [Energy efficiency organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1008.md)
+* [Energy firms](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2062.md)
 * [Energy managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1526.md)
-* [Energy providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_744.md)
-* [Energy firms](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_253.md)
-* [Energy efficiency organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1004.md)
-* [Energy companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1003.md)
+* [Energy modeler](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_744.md)
+* [Energy modelers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_253.md)
+* [Energy modeling software developer and research institution](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1004.md)
+* [Energy providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1003.md)
 
 ## Risks that can be mitigated by this stakeholder
 
@@ -30,4 +30,8 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Ai and technology](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1857.md)
+
+## Type of the stakeholder
+
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
 

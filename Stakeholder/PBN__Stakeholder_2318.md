@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Different demographic groups, ranging from children to older adults, including migrants and minorities, with a focus on vulnerable families and children.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_218.md)
+* [Different demographic groups, ranging from children to older adults, including migrants and minorities, with a focus on vulnerable families and children.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_268.md)
 
 ## Closest similar item
 
-* [Particularly children](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_918.md)
-* [Child](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2269.md)
-* [Particularly female](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2089.md)
+* [Child](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_918.md)
+* [Children](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2269.md)
+* [Especially vulnerable individual such a child and person with respiratory condition](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2089.md)
 * [Including children](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_820.md)
-* [Particularly females](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1333.md)
+* [Parents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1333.md)
 * [Particularly child and vulnerable individual](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2199.md)
-* [Children](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_62.md)
+* [Particularly children](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_62.md)
 * [Particularly children and vulnerable individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1390.md)
-* [Parents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_104.md)
-* [Especially vulnerable individual such a child and person with respiratory condition](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2352.md)
+* [Particularly female](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_104.md)
+* [Particularly females](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2352.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

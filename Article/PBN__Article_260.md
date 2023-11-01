@@ -2,9 +2,23 @@
 
 # __Occupants’ behavior and activity patterns influencing the energy consumption in the Kuwaiti residences__
 
+## Benefits listed in this article
+
+* [Energy-saving conscious attitude](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_246.md)
+* [Improved energy efficiency](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1237.md)
+* [Reduced energy consumption](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1236.md)
+
 ## DOI of the article
 
 10.1016/S0378-7788(02)00167-6
+
+## List of risks in an article
+
+* [High energy consumption in residential buildings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1062.md)
+* [Improper architectural designs](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1060.md)
+* [Lack of occupant interest in energy conservation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1059.md)
+* [Poor construction techniques and low-quality building materials](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_908.md)
+* [Unconscious occupant behavior](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1061.md)
 
 ## Short summary of the article
 
@@ -14,6 +28,29 @@ This study investigates the energy consumption patterns and behaviors of occupan
 
 In Kuwait, people use a lot of electricity. This is because they have big houses with many rooms and lots of electrical appliances like TVs and computers. The people in Kuwait also like to keep the lights on even when they are not using the rooms. They set the air conditioning to a low temperature, which uses a lot of energy. This is because electricity is very cheap in Kuwait. The government has tried to tell people to save energy, but it hasn't worked very well. If people in Kuwait start turning off the lights and setting the air conditioning to a higher temperature, they could save a lot of money and energy.
 
+## This article mentions these technologies
+
+* [Education campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_82.md)
+* [Energy-efficient appliances](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_79.md)
+* [Energy-efficient design software and technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_88.md)
+* [Energy-efficient technologies such as smart thermostats](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_53.md)
+* [Energy-saving tips](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_85.md)
+* [Financial incentives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_80.md)
+* [Incentives for energy conservation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_83.md)
+* [Inspections](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_84.md)
+* [Insulation materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_86.md)
+* [Quality control measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_87.md)
+* [Tariff reforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_81.md)
+* [Training programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_78.md)
+
+## This article points to following mitigation
+
+* [Climatically compatible house designs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3193.md)
+* [Energy-efficient appliances](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3194.md)
+* [Occupancy sensing setback thermostats](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3192.md)
+* [Occupancy-sensed lighting](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3195.md)
+* [Occupant awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1251.md)
+
 ## Title of the article
 
 Occupants’ behavior and activity patterns influencing the energy consumption in the Kuwaiti residences
@@ -21,41 +58,4 @@ Occupants’ behavior and activity patterns influencing the energy consumption i
 ## Year of publication
 
 2003
-
-## Benefits listed in this article
-
-* [Reduced energy consumption](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_246.md)
-* [Improved energy efficiency](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1236.md)
-* [Energy-saving conscious attitude](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1237.md)
-
-## List of risks in an article
-
-* [Lack of occupant interest in energy conservation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1062.md)
-* [Poor construction techniques and low-quality building materials](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1060.md)
-* [Improper architectural designs](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1059.md)
-* [High energy consumption in residential buildings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_908.md)
-* [Unconscious occupant behavior](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1061.md)
-
-## This article points to following mitigation
-
-* [Occupant awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3193.md)
-* [Energy-efficient appliances](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3195.md)
-* [Occupancy-sensed lighting](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1251.md)
-* [Climatically compatible house designs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3192.md)
-* [Occupancy sensing setback thermostats](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3194.md)
-
-## This article mentions these technologies
-
-* [Insulation materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_80.md)
-* [Energy-efficient appliances](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_79.md)
-* [Energy-efficient technologies such as smart thermostats](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_78.md)
-* [Education campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_85.md)
-* [Financial incentives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_53.md)
-* [Incentives for energy conservation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_87.md)
-* [Energy-efficient design software and technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_81.md)
-* [Training programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_82.md)
-* [Quality control measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_83.md)
-* [Inspections](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_84.md)
-* [Energy-saving tips](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_86.md)
-* [Tariff reforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_88.md)
 

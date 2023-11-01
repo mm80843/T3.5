@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Data protection measures, privacy regulations, encryption and authentication techniques, and standardized protocols ensure secure and anonymous communication.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_118.md)
+* [Data protection measures, privacy regulations, encryption and authentication techniques, and standardized protocols ensure secure and anonymous communication.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_168.md)
 
 ## Closest similar item
 
-* [Data sharing platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_152.md)
-* [Secure data storage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_574.md)
-* [Secure data storage systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1302.md)
-* [Information sharing platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1896.md)
-* [Improved communication and data sharing platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_884.md)
-* [Data sharing platforms and policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1123.md)
-* [Data sharing and validation platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2198.md)
-* [Data access platforms and applications](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1967.md)
-* [Data sharing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3007.md)
-* [Data sharing systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1424.md)
+* [Data access platforms and applications](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_152.md)
+* [Data sharing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_574.md)
+* [Data sharing and validation platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1302.md)
+* [Data sharing platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1896.md)
+* [Data sharing platforms and policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_884.md)
+* [Data sharing systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1123.md)
+* [Improved communication and data sharing platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2198.md)
+* [Information sharing platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1967.md)
+* [Secure data storage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3007.md)
+* [Secure data storage systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1424.md)
 
 ## This Technology belongs to this TechGroup
 

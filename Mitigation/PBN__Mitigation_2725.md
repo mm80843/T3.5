@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Promote and implement comprehensive strategies to ensure widespread and equitable access to vaccination and development of effective vaccines.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_78.md)
+* [Promote and implement comprehensive strategies to ensure widespread and equitable access to vaccination and development of effective vaccines.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_128.md)
 
 ## Closest similar item
 
-* [Implement effective communication and education campaigns to address vaccine hesitancy, provide accurate information, and address concerns and misconceptions. engage with local communities and healthcare providers.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2507.md)
+* [Conduct public awareness campaigns and education programs to promote prevention measures.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2507.md)
 * [Develop vaccines and promote vaccination programs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2756.md)
-* [Implement public awareness campaigns, provide education on disease prevention and transmission](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2198.md)
-* [Conduct public awareness campaigns and education programs to promote prevention measures.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2434.md)
-* [Improve vaccine efficacy through research and development.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2509.md)
-* [Increase public education and awareness campaigns about mosquito-borne diseases and personal protective measures.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2624.md)
-* [Improve access to vaccination for immigrants, provide targeted outreach and education on the importance of vaccination.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2427.md)
-* [Vaccination programs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3989.md)
+* [Implement effective communication and education campaigns to address vaccine hesitancy, provide accurate information, and address concerns and misconceptions. engage with local communities and healthcare providers.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2198.md)
+* [Implement public awareness campaigns, provide education on disease prevention and transmission](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2434.md)
+* [Improve access to vaccination for immigrants, provide targeted outreach and education on the importance of vaccination.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2509.md)
+* [Improve vaccine efficacy through research and development.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2624.md)
+* [Increase public education and awareness campaigns about mosquito-borne diseases and personal protective measures.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2427.md)
+* [Public education, awareness campaigns, and enforcement of preventive measures.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3989.md)
 * [Vaccination campaigns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3629.md)
-* [Public education, awareness campaigns, and enforcement of preventive measures.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2067.md)
+* [Vaccination programs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2067.md)
 
 ## Risks possibly mitigated by this Mitigation
 

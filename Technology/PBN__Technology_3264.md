@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Advancements in various technological domains facilitate touchless, remote, and efficient ways of communication, work, and data management.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_108.md)
+* [Advancements in various technological domains facilitate touchless, remote, and efficient ways of communication, work, and data management.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_158.md)
 
 ## Closest similar item
 
-* [Digital technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2318.md)
-* [Digital tools and technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2914.md)
-* [Technology and digital tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2098.md)
-* [Digital media](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2967.md)
-* [Digitalization](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2617.md)
-* [Digital devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_571.md)
-* [Digitalisation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3341.md)
-* [Digital infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3269.md)
+* [Digital devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2318.md)
+* [Digital infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2914.md)
+* [Digital media](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2098.md)
+* [Digital technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2967.md)
+* [Digital tools and technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2617.md)
+* [Digitalisation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_571.md)
+* [Digitalization](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3341.md)
+* [Information technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3269.md)
 * [Technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3000.md)
-* [Information technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2298.md)
+* [Technology and digital tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2298.md)
 
 ## This Technology enables the following mitigations
 

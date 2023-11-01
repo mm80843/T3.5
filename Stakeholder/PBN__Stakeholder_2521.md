@@ -4,19 +4,19 @@
 
 ## Category to which it belongs
 
-* [Individuals in confined, poorly ventilated indoor spaces, including offices and homes, with low air quality and inadequate filtration systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_235.md)
+* [Individuals in confined, poorly ventilated indoor spaces, including offices and homes, with low air quality and inadequate filtration systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_285.md)
 
 ## Closest similar item
 
-* [Occupant of indoor space](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2508.md)
-* [Occupants of indoor spaces homes](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1032.md)
-* [Indoor spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_940.md)
-* [Occupant of indoor space such a office](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2523.md)
-* [Occupants of indoor spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_843.md)
-* [Occupants of indoor spaces such as offices](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1103.md)
-* [Building occupant in indoor space sharing the same hvac system](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1900.md)
-* [Building occupants in indoor spaces sharing the same hvac system](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_926.md)
-* [Indoor environments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1166.md)
+* [Building occupant in indoor space sharing the same hvac system](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2508.md)
+* [Building occupants in indoor spaces sharing the same hvac system](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1032.md)
+* [Indoor environments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_940.md)
+* [Indoor spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2523.md)
+* [Occupant of indoor space](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_843.md)
+* [Occupant of indoor space such a office](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1103.md)
+* [Occupants of indoor spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1900.md)
+* [Occupants of indoor spaces homes](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_926.md)
+* [Occupants of indoor spaces such as offices](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1166.md)
 * [Visitors in indoor spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1284.md)
 
 ## This Stakeholder belongs to this StakeholderGroup

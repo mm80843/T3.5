@@ -4,6 +4,6 @@
 
 ## This return can be realized by these benefits
 
-* [Reduction of infectious viruses](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1187.md)
-* [Inactivation of deposited pathogens](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1188.md)
+* [Inactivation of deposited pathogens](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1187.md)
+* [Reduction of infectious viruses](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1188.md)
 

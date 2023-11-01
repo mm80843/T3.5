@@ -4,6 +4,6 @@
 
 ## This return can be realized by these benefits
 
-* [Reduction in electricity bills](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_597.md)
-* [Improvement of energy efficiency](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_598.md)
+* [Improvement of energy efficiency](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_597.md)
+* [Reduction in electricity bills](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_598.md)
 

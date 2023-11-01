@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_119.md)
+* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_169.md)
 
 ## Closest similar item
 
 * [Face orientation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3418.md)
-* [Proper layout](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2385.md)
-* [Landscape design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2978.md)
-* [Landscape architecture](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_121.md)
+* [Flexible layout](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2385.md)
+* [Landscape architecture](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2978.md)
+* [Landscape design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_121.md)
 * [Landscape design and integration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2841.md)
-* [Layout design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3667.md)
-* [Spatial layout and design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2953.md)
-* [Landscape ground](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3612.md)
-* [Positioning technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3740.md)
-* [Flexible layout](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1778.md)
+* [Landscape ground](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3667.md)
+* [Layout design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2953.md)
+* [Positioning technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3612.md)
+* [Proper layout](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3740.md)
+* [Spatial layout and design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1778.md)
 
 ## This Technology enables the following mitigations
 

@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Enabling remote connectivity and digital solutions for work, education, healthcare, and communication.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_66.md)
+* [Enabling remote connectivity and digital solutions for work, education, healthcare, and communication.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_116.md)
 
 ## Closest similar item
 
-* [Telemedicine and remote consultation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4201.md)
-* [Telemedicine consultation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4610.md)
-* [Telemedicine consultations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4952.md)
-* [Telemedicine and remote consultations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1431.md)
-* [Adhere to privacy policies, standardize and regulate healthcare technology, obtain legal advice](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2744.md)
-* [Implement robust security measures, use encryption and anonymization techniques, obtain informed consent from users, comply with data protection regulations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2571.md)
-* [Broad informed consent](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4909.md)
-* [Increased access to teleworking](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4420.md)
-* [Adoption of telemedicine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_906.md)
-* [Telemedicine and telepsychology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3303.md)
+* [Adhere to privacy policies, standardize and regulate healthcare technology, obtain legal advice](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4201.md)
+* [Adoption of telemedicine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4610.md)
+* [Broad informed consent](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4952.md)
+* [Implement robust security measures, use encryption and anonymization techniques, obtain informed consent from users, comply with data protection regulations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1431.md)
+* [Increased access to teleworking](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2744.md)
+* [Telemedicine and remote consultation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2571.md)
+* [Telemedicine and remote consultations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4909.md)
+* [Telemedicine and telepsychology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4420.md)
+* [Telemedicine consultation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_906.md)
+* [Telemedicine consultations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3303.md)
 
 ## Risks possibly mitigated by this Mitigation
 

@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The intersection of urbanization, inefficient energy usage, and climate change poses significant challenges to thermal comfort, energy consumption, and environmental sustainability.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_38.md)
+* [The intersection of urbanization, inefficient energy usage, and climate change poses significant challenges to thermal comfort, energy consumption, and environmental sustainability.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_88.md)
 
 ## Closest similar item
 
-* [Carbon emissions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_149.md)
-* [Ozone emissions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2971.md)
-* [Transport-related greenhouse gas emissions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1213.md)
-* [Decreased carbon emissions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1247.md)
-* [Insufficient emissions targets](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2849.md)
+* [Air pollution](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_149.md)
+* [Carbon emissions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2971.md)
+* [Climate change](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1213.md)
+* [Climate change and environmental damage](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1247.md)
+* [Decreased carbon emissions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2849.md)
 * [Environmental pollution](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_581.md)
-* [Climate change and environmental damage](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3345.md)
-* [Climate change](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_894.md)
-* [Air pollution](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_148.md)
-* [Impact of climate change](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3210.md)
+* [Impact of climate change](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3345.md)
+* [Insufficient emissions targets](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_894.md)
+* [Ozone emissions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_148.md)
+* [Transport-related greenhouse gas emissions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3210.md)
 
 ## Mitigations of this risk
 

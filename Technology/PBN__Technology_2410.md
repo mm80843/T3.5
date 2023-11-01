@@ -2,26 +2,26 @@
 
 # __Fitbits__
 
-## Link between Blueprint and General ontology
-
-* [Wearables](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_11.md)
-
 ## Category to which it belongs
 
-* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_116.md)
+* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_166.md)
 
 ## Closest similar item
 
-* [Wearables](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2800.md)
-* [Smartwatches](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2409.md)
-* [Wristbands](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2417.md)
-* [Wearable devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2579.md)
-* [Wearable device](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2553.md)
-* [Fitness tracking devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_405.md)
-* [Smartwatch](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2551.md)
-* [Apple watches](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2411.md)
-* [Fitness tracker](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2552.md)
-* [Wearable electronic devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2408.md)
+* [Apple watches](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2800.md)
+* [Fitness tracker](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2409.md)
+* [Fitness tracking devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2417.md)
+* [Smartwatch](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2579.md)
+* [Smartwatches](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2553.md)
+* [Wearable device](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_405.md)
+* [Wearable devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2551.md)
+* [Wearable electronic devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2411.md)
+* [Wearables](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2552.md)
+* [Wristbands](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2408.md)
+
+## Link between Blueprint and General ontology
+
+* [Wearables](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_11.md)
 
 ## This Technology enables the following mitigations
 

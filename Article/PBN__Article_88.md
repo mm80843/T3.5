@@ -2,9 +2,25 @@
 
 # __Effect of Ultraviolet Germicidal Irradiation on Viral Aerosols__
 
+## Benefits listed in this article
+
+* [Inactivation of infectious microorganisms](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_431.md)
+* [Inactivation of respiratory animal viral aerosols](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_432.md)
+* [Understanding the effect of rh on uv susceptibility of bacterial aerosols](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_433.md)
+* [Understanding the effect of rh on uv susceptibility of pathogenic viral aerosols](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_435.md)
+* [Understanding uv susceptibility of viral aerosols](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_434.md)
+
 ## DOI of the article
 
 10.1021/es070056u
+
+## List of risks in an article
+
+* [Bioterrorism threats](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_338.md)
+* [Effect of rh on uv susceptibility](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2273.md)
+* [Effects of nebulization and impingement on viral survival](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2276.md)
+* [Uv dosage levels required under different conditions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2274.md)
+* [Uv susceptibility of viral aerosols](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2275.md)
 
 ## Short summary of the article
 
@@ -15,6 +31,25 @@ This study aimed to investigate the UV susceptibility of respiratory viral aeros
 
 Scientists have been studying how ultraviolet (UV) light can be used to kill harmful viruses and bacteria in the air. They tested different viruses and found that certain viruses, like adenovirus and the coronavirus, were more susceptible to UV light than others. They also found that higher humidity did not protect viruses from UV light, as it does for bacteria. This means that UV light could be effective in killing airborne viruses and preventing the spread of diseases. However, more research is still needed to understand how to best use UV light for this purpose.
 
+## This article mentions these technologies
+
+* [Environmental controls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
+* [Experimental apparatus](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1882.md)
+* [Filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1879.md)
+* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1880.md)
+* [Security systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1881.md)
+
+## This article points to following mitigation
+
+* [Duct irradiation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_315.md)
+* [Rh effect on uv inactivation of bacterial aerosols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_448.md)
+* [Upper room uvgi](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5104.md)
+* [Uv air disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5105.md)
+* [Uv susceptibility of bacterial aerosols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5106.md)
+* [Uv susceptibility of pathogenic viral aerosols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5107.md)
+* [Uv susceptibility of viral aerosols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5102.md)
+* [Uvgi](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5103.md)
+
 ## Title of the article
 
 Effect of Ultraviolet Germicidal Irradiation on Viral Aerosols
@@ -22,39 +57,4 @@ Effect of Ultraviolet Germicidal Irradiation on Viral Aerosols
 ## Year of publication
 
 2007
-
-## Benefits listed in this article
-
-* [Inactivation of infectious microorganisms](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_431.md)
-* [Inactivation of respiratory animal viral aerosols](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_432.md)
-* [Understanding uv susceptibility of viral aerosols](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_433.md)
-* [Understanding the effect of rh on uv susceptibility of bacterial aerosols](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_434.md)
-* [Understanding the effect of rh on uv susceptibility of pathogenic viral aerosols](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_435.md)
-
-## List of risks in an article
-
-* [Uv susceptibility of viral aerosols](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_338.md)
-* [Effect of rh on uv susceptibility](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2274.md)
-* [Effects of nebulization and impingement on viral survival](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2275.md)
-* [Uv dosage levels required under different conditions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2276.md)
-* [Bioterrorism threats](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2273.md)
-
-## This article points to following mitigation
-
-* [Upper room uvgi](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5102.md)
-* [Uvgi](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_315.md)
-* [Uv air disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_448.md)
-* [Uv susceptibility of viral aerosols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5104.md)
-* [Uv susceptibility of pathogenic viral aerosols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5107.md)
-* [Uv susceptibility of bacterial aerosols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5105.md)
-* [Rh effect on uv inactivation of bacterial aerosols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5106.md)
-* [Duct irradiation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5103.md)
-
-## This article mentions these technologies
-
-* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
-* [Security systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1879.md)
-* [Filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1882.md)
-* [Environmental controls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1880.md)
-* [Experimental apparatus](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1881.md)
 

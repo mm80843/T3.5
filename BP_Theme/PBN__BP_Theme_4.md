@@ -2,11 +2,11 @@
 
 # __User behavior__
 
+## Category to which it belongs
+
+* [Actions and patterns of individuals online.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_324.md)
+
 ## Property: has_BP_ThemeTitle
 
 theme_User_behavior
-
-## Category to which it belongs
-
-* [Actions and patterns of individuals online.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_274.md)
 

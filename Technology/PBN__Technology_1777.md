@@ -4,28 +4,28 @@
 
 ## Category to which it belongs
 
-* [Building design and construction incorporate biophilic principles, modular techniques, and flexible layouts to create sustainable, resilient, and adaptable spaces.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_138.md)
+* [Building design and construction incorporate biophilic principles, modular techniques, and flexible layouts to create sustainable, resilient, and adaptable spaces.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_188.md)
 
 ## Closest similar item
 
-* [Room to member ratio](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3633.md)
-* [Adjustable walls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3660.md)
-* [Adjustable furniture](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2428.md)
-* [Energy reduction ratio](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3631.md)
-* [Room dividers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1002.md)
-* [Adjustable desks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1396.md)
-* [Adjustable lighting controls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_197.md)
-* [Provide larger units and flexible housing options to support physical distancing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1274.md)
-* [Increased outside air fractions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_500.md)
-* [Ratio of rooms to family members](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1779.md)
+* [Adjustable desks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3633.md)
+* [Adjustable furniture](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3660.md)
+* [Adjustable lighting controls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2428.md)
+* [Adjustable walls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3631.md)
+* [Energy reduction ratio](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1002.md)
+* [Increased outside air fractions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1396.md)
+* [Provide larger units and flexible housing options to support physical distancing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_197.md)
+* [Ratio of rooms to family members](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1274.md)
+* [Room dividers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_500.md)
+* [Room to member ratio](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1779.md)
+
+## Risks linked to this technology
+
+* [Pc2](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2194.md)
 
 ## This Technology belongs to this TechGroup
 
 * [Monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2215.md)
-
-## This technology is mentioned by
-
-* [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_51.md)
 
 ## This Technology belongs to this TechSubgroup
 
@@ -35,7 +35,7 @@
 
 * [Levels of indoor space adjustability](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_241.md)
 
-## Risks linked to this technology
+## This technology is mentioned by
 
-* [Pc2](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2194.md)
+* [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_51.md)
 

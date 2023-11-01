@@ -2,9 +2,25 @@
 
 # __First confirmed detection of SARS-CoV-2 in untreated wastewater in Australia: A proof of concept for the wastewater surveillance of COVID-19 in the community__
 
+## Benefits listed in this article
+
+* [Confirming presence and identity of sars-cov-2 in wastewater](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_988.md)
+* [Early warning of disease outbreaks](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_992.md)
+* [Enhancing recovery of sars-cov-2 from wastewater](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_989.md)
+* [Estimating prevalence of infections in the population](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_990.md)
+* [Improving detection capabilities in wastewater](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_991.md)
+
 ## DOI of the article
 
 10.1016/j.scitotenv.2020.138764
+
+## List of risks in an article
+
+* [Ethical considerations for wastewater-based epidemiology wbe](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1050.md)
+* [High variability in input parameters](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1052.md)
+* [Inconsistent results between concentration methods](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1053.md)
+* [Safety risks for wastewater sampling personnel](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1054.md)
+* [Undetected sars-cov-2 in wastewater](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1051.md)
 
 ## Short summary of the article
 
@@ -14,6 +30,22 @@ This study investigated the presence of SARS-CoV-2 in wastewater in Australia an
 
 Scientists in Australia have found evidence of the coronavirus in wastewater. They collected samples from sewage treatment plants and used a special test to detect the virus. They found two positive results out of the nine samples they tested. This means that they found the virus in the wastewater. They then used a computer program to estimate the number of infected people in the community. Their estimate ranged from 171 to 1,090 infected people in the area they tested. This shows that testing wastewater can be a useful way to track the spread of the virus in a community.
 
+## This article mentions these technologies
+
+* [Ethical guidelines and approvals](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_58.md)
+* [Improved rt-qpcr assays and sequencing techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_60.md)
+* [Improved virus concentration methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_62.md)
+* [Monte carlo simulation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_61.md)
+* [Proper training and use of ppe](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_59.md)
+
+## This article points to following mitigation
+
+* [Ethical guidelines and approvals](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_988.md)
+* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3172.md)
+* [Robust rt-qpcr assays](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3173.md)
+* [Virus concentration methods](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_415.md)
+* [Wastewater-based epidemiology wbe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3174.md)
+
 ## Title of the article
 
 First confirmed detection of SARS-CoV-2 in untreated wastewater in Australia: A proof of concept for the wastewater surveillance of COVID-19 in the community
@@ -21,36 +53,4 @@ First confirmed detection of SARS-CoV-2 in untreated wastewater in Australia: A 
 ## Year of publication
 
 2020
-
-## Benefits listed in this article
-
-* [Early warning of disease outbreaks](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_988.md)
-* [Estimating prevalence of infections in the population](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_989.md)
-* [Confirming presence and identity of sars-cov-2 in wastewater](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_990.md)
-* [Improving detection capabilities in wastewater](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_991.md)
-* [Enhancing recovery of sars-cov-2 from wastewater](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_992.md)
-
-## List of risks in an article
-
-* [Undetected sars-cov-2 in wastewater](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1050.md)
-* [High variability in input parameters](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1052.md)
-* [Safety risks for wastewater sampling personnel](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1053.md)
-* [Ethical considerations for wastewater-based epidemiology wbe](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1054.md)
-* [Inconsistent results between concentration methods](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1051.md)
-
-## This article points to following mitigation
-
-* [Wastewater-based epidemiology wbe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_988.md)
-* [Virus concentration methods](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3172.md)
-* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_415.md)
-* [Ethical guidelines and approvals](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3174.md)
-* [Robust rt-qpcr assays](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3173.md)
-
-## This article mentions these technologies
-
-* [Improved rt-qpcr assays and sequencing techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_58.md)
-* [Improved virus concentration methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_59.md)
-* [Monte carlo simulation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_60.md)
-* [Proper training and use of ppe](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_61.md)
-* [Ethical guidelines and approvals](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_62.md)
 

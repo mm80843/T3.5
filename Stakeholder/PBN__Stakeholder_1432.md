@@ -4,20 +4,24 @@
 
 ## Category to which it belongs
 
-* [Participants in the iot ecosystem, including users, data collectors, technology providers, essential service providers, and information providers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_231.md)
+* [Participants in the iot ecosystem, including users, data collectors, technology providers, essential service providers, and information providers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_281.md)
 
 ## Closest similar item
 
-* [Iot device manufacturer and service provider](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2579.md)
-* [Iot device manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_788.md)
-* [Iot technology providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_911.md)
-* [Device manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1431.md)
-* [Device manufacturer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1882.md)
-* [Iot technology provider](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2574.md)
-* [Iot industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1396.md)
-* [Wearable device manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_742.md)
+* [Device manufacturer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2579.md)
+* [Device manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_788.md)
+* [Iot device manufacturer and service provider](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_911.md)
+* [Iot device manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1431.md)
+* [Iot devices](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1882.md)
+* [Iot industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2574.md)
+* [Iot technology provider](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1396.md)
+* [Iot technology providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_742.md)
 * [Wearable device manufacturer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1960.md)
-* [Iot devices](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1392.md)
+* [Wearable device manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1392.md)
+
+## Risk affecting this stakeholder
+
+* [Interoperability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2105.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -27,7 +31,7 @@
 
 * [Wearable and iot devices](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2529.md)
 
-## Risk affecting this stakeholder
+## Type of the stakeholder
 
-* [Interoperability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2105.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

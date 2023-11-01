@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Implementation of various strategies to improve healthcare infrastructure, disease management, waste disposal, symptom recognition, and treatment through advanced technology and interventions.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_61.md)
+* [Implementation of various strategies to improve healthcare infrastructure, disease management, waste disposal, symptom recognition, and treatment through advanced technology and interventions.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_111.md)
 
 ## Closest similar item
 
-* [Development of drug therapies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1294.md)
-* [Drug therapies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3314.md)
-* [Therapeutic drugs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3769.md)
-* [Pragmatic clinical trials](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3606.md)
-* [Non-pharmaceutical interventions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_377.md)
-* [Implementation of non-pharmaceutical interventions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_723.md)
-* [Evaluate efficacy differences based on symptoms](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1186.md)
-* [Drug development](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_599.md)
-* [Identify missing information and develop logical relations linking drugs, coronaviruses, and conditions for drug efficacy.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1963.md)
-* [Ai-driven tools for running clinical trials](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4325.md)
+* [Ai-driven tools for running clinical trials](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1294.md)
+* [Development of drug therapies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3314.md)
+* [Drug development](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3769.md)
+* [Drug therapies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3606.md)
+* [Evaluate efficacy differences based on symptoms](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_377.md)
+* [Identify missing information and develop logical relations linking drugs, coronaviruses, and conditions for drug efficacy.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_723.md)
+* [Implementation of non-pharmaceutical interventions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1186.md)
+* [Non-pharmaceutical interventions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_599.md)
+* [Pragmatic clinical trials](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1963.md)
+* [Therapeutic drugs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4325.md)
 
 ## Risks possibly mitigated by this Mitigation
 

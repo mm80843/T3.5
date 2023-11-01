@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [All individuals engaged in various forms of work, including employees, freelancers, laborers, and professionals.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_194.md)
+* [All individuals engaged in various forms of work, including employees, freelancers, laborers, and professionals.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_244.md)
 
 ## Closest similar item
 
-* [Displaced workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1514.md)
-* [Worker in affected sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1788.md)
-* [Worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1755.md)
-* [Worker affected by restructuring](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1692.md)
-* [Worker in affected industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1679.md)
-* [Construction worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1711.md)
-* [Service worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1739.md)
-* [Worker in the built environment](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2520.md)
-* [Unemployed workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_260.md)
-* [Transportation worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1689.md)
+* [Construction worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1514.md)
+* [Displaced workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1788.md)
+* [Service worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1755.md)
+* [Transportation worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1692.md)
+* [Unemployed workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1679.md)
+* [Worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1711.md)
+* [Worker affected by restructuring](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1739.md)
+* [Worker in affected industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2520.md)
+* [Worker in affected sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_260.md)
+* [Worker in the built environment](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1689.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

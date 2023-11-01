@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Improved and diversified communication channels through digital integration, telecommunication technology, and network infrastructure.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_105.md)
+* [Improved and diversified communication channels through digital integration, telecommunication technology, and network infrastructure.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_155.md)
 
 ## Closest similar item
 
 * [Portals](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3263.md)
-* [Web platform](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2780.md)
-* [Web-based applications](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_243.md)
-* [Web-based platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1817.md)
-* [Web service](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3306.md)
-* [Web-based tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3298.md)
-* [Webinars](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2437.md)
-* [Websites](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1087.md)
-* [Semantic web technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1341.md)
-* [Webex](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2612.md)
+* [Semantic web technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2780.md)
+* [Web platform](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_243.md)
+* [Web service](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1817.md)
+* [Web-based applications](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3306.md)
+* [Web-based platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3298.md)
+* [Web-based tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2437.md)
+* [Webex](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1087.md)
+* [Webinars](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1341.md)
+* [Websites](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2612.md)
 
 ## This Technology enables the following mitigations
 

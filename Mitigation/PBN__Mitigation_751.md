@@ -2,26 +2,26 @@
 
 # __Adoption of digital technology__
 
+## Benefits linked to a risk
+
+* [Virtual delivery of services](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_754.md)
+
 ## Category to which it belongs
 
-* [The utilization and integration of various cutting-edge technologies, including contact tracing, ontologies, and wearable devices, to enhance digital transformation and improve communication and work adaptability.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_72.md)
+* [The utilization and integration of various cutting-edge technologies, including contact tracing, ontologies, and wearable devices, to enhance digital transformation and improve communication and work adaptability.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_122.md)
 
 ## Closest similar item
 
 * [Adoption of digital technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_588.md)
-* [Technology adoption](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4287.md)
-* [Use of digital technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_707.md)
-* [Adoption of emerging technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_583.md)
-* [Adoption of proper software and hardware](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1398.md)
-* [Adoption of emerging technologies , virtual reality](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_466.md)
+* [Adoption of emerging technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4287.md)
+* [Adoption of emerging technologies , virtual reality](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_707.md)
+* [Adoption of proper software and hardware](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_583.md)
+* [Bridge the digital divide, ensure equal access and affordability, promote digital literacy.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1398.md)
+* [Digital transformation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_466.md)
 * [Digital transformation technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1429.md)
-* [To digital platforms for](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2977.md)
-* [Digital transformation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3489.md)
-* [Bridge the digital divide, ensure equal access and affordability, promote digital literacy.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2782.md)
-
-## Benefits linked to a risk
-
-* [Virtual delivery of services](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_754.md)
+* [Technology adoption](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2977.md)
+* [To digital platforms for](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3489.md)
+* [Use of digital technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2782.md)
 
 ## Risks possibly mitigated by this Mitigation
 

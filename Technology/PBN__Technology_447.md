@@ -4,34 +4,34 @@
 
 ## Category to which it belongs
 
-* [Digital tools and technologies facilitating various functions and services on mobile devices.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_101.md)
+* [Digital tools and technologies facilitating various functions and services on mobile devices.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_151.md)
 
 ## Closest similar item
 
-* [Financial grants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1805.md)
-* [Financial assistance programs and grants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1438.md)
-* [Funding programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_467.md)
-* [Funding](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_161.md)
-* [Government funding](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1428.md)
-* [Financial assistance programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_892.md)
-* [Funding support](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1161.md)
-* [Research funding](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2905.md)
-* [Energy efficiency grants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_870.md)
-* [Financial aid apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_427.md)
+* [Energy efficiency grants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1805.md)
+* [Financial aid apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1438.md)
+* [Financial assistance programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_467.md)
+* [Financial assistance programs and grants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_161.md)
+* [Financial grants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1428.md)
+* [Funding](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_892.md)
+* [Funding programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1161.md)
+* [Funding support](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2905.md)
+* [Government funding](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_870.md)
+* [Research funding](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_427.md)
+
+## Risks linked to this technology
+
+* [Reduction in official development aid and philanthropy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1292.md)
 
 ## This Technology belongs to this TechGroup
 
 * [Social media](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_896.md)
 
-## This technology is mentioned by
-
-* [Building sustainable finance for resilient protected and conserved areas: lessons from COVID-19](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_33.md)
-
 ## This Technology belongs to this TechSubgroup
 
 * [Financial support and funding](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2078.md)
 
-## Risks linked to this technology
+## This technology is mentioned by
 
-* [Reduction in official development aid and philanthropy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1292.md)
+* [Building sustainable finance for resilient protected and conserved areas: lessons from COVID-19](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_33.md)
 

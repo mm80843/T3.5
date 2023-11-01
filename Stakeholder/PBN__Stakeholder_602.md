@@ -4,20 +4,24 @@
 
 ## Category to which it belongs
 
-* [Particularly vulnerable populations, including low-income individuals, those with low education, and individuals in noisy or crowded environments, especially men, are at increased risk.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_202.md)
+* [Particularly vulnerable populations, including low-income individuals, those with low education, and individuals in noisy or crowded environments, especially men, are at increased risk.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_252.md)
 
 ## Closest similar item
 
-* [Especially those in affected areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_598.md)
-* [Especially those in affected area](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2188.md)
-* [Affected individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2081.md)
-* [Particularly children and vulnerable individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1390.md)
-* [Individuals in high-risk areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1074.md)
-* [Especially those with high disease burden](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_592.md)
-* [Individuals at risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_796.md)
-* [Individual in high-risk area](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2205.md)
-* [Especially vulnerable individuals such as children and people with respiratory conditions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_640.md)
-* [Are at risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1120.md)
+* [Affected individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_598.md)
+* [Are at risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2188.md)
+* [Especially those in affected area](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2081.md)
+* [Especially those in affected areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1390.md)
+* [Especially those with high disease burden](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1074.md)
+* [Especially vulnerable individuals such as children and people with respiratory conditions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_592.md)
+* [Individual in high-risk area](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_796.md)
+* [Individuals at risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2205.md)
+* [Individuals in high-risk areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_640.md)
+* [Particularly children and vulnerable individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1120.md)
+
+## Risk affecting this stakeholder
+
+* [Psychological impacts and social tensions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1074.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -26,7 +30,7 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 
-## Risk affecting this stakeholder
+## Type of the stakeholder
 
-* [Psychological impacts and social tensions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1074.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

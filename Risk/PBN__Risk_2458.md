@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Exposure to a wide range of contaminants, pathogens, and toxins on various surfaces and through different modes of transmission.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_29.md)
+* [Exposure to a wide range of contaminants, pathogens, and toxins on various surfaces and through different modes of transmission.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_79.md)
 
 ## Closest similar item
 
-* [Contamination from respiratory droplets](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2975.md)
-* [Transmission through respiratory droplets](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1365.md)
-* [Spread through respiratory droplets](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1730.md)
-* [Transmission via respiratory droplets](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1718.md)
+* [Airborne transmission of respiratory particles](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2975.md)
+* [Contamination from respiratory droplets](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1365.md)
+* [Contamination, transmission through air](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1730.md)
+* [Respiratory droplet transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1718.md)
 * [Respiratory droplets](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2472.md)
-* [Contamination, transmission through air](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2456.md)
-* [Respiratory droplet transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2727.md)
-* [Airborne transmission of respiratory particles](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3004.md)
-* [Respiratory transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2476.md)
-* [Transmission of diseases through air](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1119.md)
+* [Respiratory transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2456.md)
+* [Spread through respiratory droplets](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2727.md)
+* [Transmission of diseases through air](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3004.md)
+* [Transmission through respiratory droplets](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2476.md)
+* [Transmission via respiratory droplets](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1119.md)
 
 ## Mitigations of this risk
 

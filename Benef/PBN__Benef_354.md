@@ -2,24 +2,28 @@
 
 # __Improved food accessibility__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Bringing fresh food supplies closer to neighborhoods mitigates closure of centralized markets and movement restrictions
+* [Implications of COVID-19 control measures for diet and physical activity, and lessons for addressing other pandemics facing rapidly urbanising countries](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_68.md)
+
+## Category to which it belongs
+
+* [Enhanced availability and ease of reaching essential resources, services, and information for all.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_29.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Improved nutrition, reduced food waste, increased economic productivity](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_377.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [Implications of COVID-19 control measures for diet and physical activity, and lessons for addressing other pandemics facing rapidly urbanising countries](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_68.md)
+Bringing fresh food supplies closer to neighborhoods mitigates closure of centralized markets and movement restrictions
+
+## Risks which can benefit from this action
+
+* [Establishing makeshift neighborhood food markets](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_356.md)
 
 ## Stakeholders benefitting from this Benefit
 
 * [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
 * [Urban poor](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_170.md)
-
-## Risks which can benefit from this action
-
-* [Establishing makeshift neighborhood food markets](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_356.md)
 

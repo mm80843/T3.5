@@ -2,26 +2,26 @@
 
 # __Stringency index__
 
-## Category to which it belongs
-
-* [Optimizing public health response through the integration of artificial intelligence, machine learning, bioinformatics tools, and knowledge sharing.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_87.md)
-
-## Closest similar item
-
-* [Stringent evaluation of preprints](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_855.md)
-* [Distance index pd](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4891.md)
-* [Enhanced case finding](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_92.md)
-* [Data intelligence](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3169.md)
-* [Sequence annotation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5033.md)
-* [Virus quantification](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3929.md)
-* [Accurate content evaluation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1358.md)
-* [Entity alignment and interlinking](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_112.md)
-* [Schema matching](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5117.md)
-* [Diversify information](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_765.md)
-
 ## Benefits linked to a risk
 
 * [Reduction in infections](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_770.md)
+
+## Category to which it belongs
+
+* [Optimizing public health response through the integration of artificial intelligence, machine learning, bioinformatics tools, and knowledge sharing.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_137.md)
+
+## Closest similar item
+
+* [Accurate content evaluation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_855.md)
+* [Data intelligence](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4891.md)
+* [Distance index pd](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_92.md)
+* [Diversify information](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3169.md)
+* [Enhanced case finding](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5033.md)
+* [Entity alignment and interlinking](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3929.md)
+* [Schema matching](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1358.md)
+* [Sequence annotation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_112.md)
+* [Stringent evaluation of preprints](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5117.md)
+* [Virus quantification](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_765.md)
 
 ## Risks possibly mitigated by this Mitigation
 

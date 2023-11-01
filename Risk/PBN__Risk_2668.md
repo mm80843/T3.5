@@ -4,26 +4,26 @@
 
 ## Category to which it belongs
 
-* [The impact of various factors on public health, including unhealthy behaviors, limited access to healthcare, and food insecurity.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_3.md)
+* [The impact of various factors on public health, including unhealthy behaviors, limited access to healthcare, and food insecurity.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_53.md)
 
 ## Closest similar item
 
-* [Health harming behaviours](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_4.md)
-* [Mental health harms](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3.md)
-* [Emotional distress, unhealthy behaviors, noncompliance with public health directives](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3105.md)
+* [Emotional distress, unhealthy behaviors, noncompliance with public health directives](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_4.md)
+* [Harms in the neighbourhood](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3.md)
+* [Health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3105.md)
 * [Health effects](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2497.md)
-* [Link between human activity and health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_46.md)
-* [Health risks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1990.md)
-* [Human health risks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2968.md)
-* [Health risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_83.md)
-* [Harms in the neighbourhood](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2669.md)
-* [Health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2211.md)
+* [Health harming behaviours](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_46.md)
+* [Health risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1990.md)
+* [Health risks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2968.md)
+* [Human health risks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_83.md)
+* [Link between human activity and health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2669.md)
+* [Mental health harms](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2211.md)
 
 ## Mitigations of this risk
 
-* [Rent controls](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3744.md)
-* [Building regulations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3741.md)
-* [Addressing precarity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3750.md)
-* [Regulatory measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3745.md)
-* [Fire safety improvements](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3746.md)
+* [Addressing precarity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3741.md)
+* [Building regulations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3744.md)
+* [Fire safety improvements](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3745.md)
+* [Regulatory measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3746.md)
+* [Rent controls](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3750.md)
 

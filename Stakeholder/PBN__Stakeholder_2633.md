@@ -4,24 +4,24 @@
 
 ## Category to which it belongs
 
-* [Ensuring protection and assistance in times of crisis, organizations and individuals safeguard public welfare.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_198.md)
+* [Ensuring protection and assistance in times of crisis, organizations and individuals safeguard public welfare.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_248.md)
 
 ## Closest similar item
 
 * [Crisis management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2625.md)
-* [Disaster management agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_245.md)
-* [Crisis management teams](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_951.md)
-* [Disaster response teams](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2628.md)
-* [Disaster response team](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2634.md)
-* [Emergency services and management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2626.md)
-* [Emergency management agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1249.md)
-* [Emergency management agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2635.md)
+* [Crisis management teams](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_245.md)
+* [Disaster management agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_951.md)
+* [Disaster response team](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2628.md)
+* [Disaster response teams](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2634.md)
+* [Emergency management agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2626.md)
+* [Emergency management agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1249.md)
+* [Emergency response agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2635.md)
 * [Emergency response teams](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_469.md)
-* [Emergency response agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_556.md)
+* [Emergency services and management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_556.md)
 
 ## Stakeholders in this stakeholder subgroup
 
-* [Crisis management teams](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_951.md)
-* [Crisis management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2625.md)
-* [Crisi management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2627.md)
+* [Crisi management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2625.md)
+* [Crisis management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_951.md)
+* [Crisis management teams](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2627.md)
 

@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Improved and diversified communication channels through digital integration, telecommunication technology, and network infrastructure.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_105.md)
+* [Improved and diversified communication channels through digital integration, telecommunication technology, and network infrastructure.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_155.md)
 
 ## Closest similar item
 
-* [Digital twins](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3334.md)
-* [Digitalplatform](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3892.md)
-* [Digital devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_571.md)
-* [Digitalization](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2617.md)
+* [Digital devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3334.md)
+* [Digital integration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3892.md)
+* [Digital services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_571.md)
+* [Digital technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2617.md)
 * [Digital technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2318.md)
-* [Expansion of digital](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1873.md)
-* [Digital services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3540.md)
-* [Digital integration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3784.md)
-* [Digitalisation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3341.md)
-* [Digital technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3264.md)
+* [Digital twins](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1873.md)
+* [Digitalisation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3540.md)
+* [Digitalization](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3784.md)
+* [Digitalplatform](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3341.md)
+* [Expansion of digital](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3264.md)
 
 ## This Technology enables the following mitigations
 

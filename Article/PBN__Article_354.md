@@ -8,8 +8,8 @@
 
 ## Referenced by other articles
 
-* [The efficacy of social distance and ventilation effectiveness in preventing COVID-19 transmission](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_125.md)
-* [A Comprehensive Review of the COVID-19 Pandemic and the Role of IoT, Drones, AI, Blockchain, and 5G in Managing its Impact](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_313.md)
+* [A Comprehensive Review of the COVID-19 Pandemic and the Role of IoT, Drones, AI, Blockchain, and 5G in Managing its Impact](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_125.md)
+* [The efficacy of social distance and ventilation effectiveness in preventing COVID-19 transmission](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_313.md)
 * [The role of 5G for digital healthcare against COVID-19 pandemic: Opportunities and challenges](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_9.md)
 
 ## Title of the article

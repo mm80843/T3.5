@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Promotion of safe social interactions, behavioral change, and equitable access to information and support through social media platforms.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_76.md)
+* [Promotion of safe social interactions, behavioral change, and equitable access to information and support through social media platforms.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_126.md)
 
 ## Closest similar item
 
-* [Big data and facial recognition](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1283.md)
-* [Implementation of facial recognition technology and ai algorithms](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2555.md)
-* [Public health education through social media](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4955.md)
-* [Implementing automated face recognition technology with ai integration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2657.md)
-* [Smart facemasks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3402.md)
-* [Use of social media for online healthcare support](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3946.md)
-* [Automated face recognition technology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_405.md)
-* [Monitoring social media](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_694.md)
-* [Exploring new applications of wearables in healthcare, such as smart facemasks and biomarker detection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_953.md)
-* [Face recognition](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3828.md)
+* [Automated face recognition technology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1283.md)
+* [Big data and facial recognition](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2555.md)
+* [Exploring new applications of wearables in healthcare, such as smart facemasks and biomarker detection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4955.md)
+* [Face recognition](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2657.md)
+* [Implementation of facial recognition technology and ai algorithms](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3402.md)
+* [Implementing automated face recognition technology with ai integration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3946.md)
+* [Monitoring social media](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_405.md)
+* [Public health education through social media](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_694.md)
+* [Smart facemasks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_953.md)
+* [Use of social media for online healthcare support](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3828.md)
 
 ## Risks possibly mitigated by this Mitigation
 

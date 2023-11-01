@@ -4,28 +4,28 @@
 
 ## Category to which it belongs
 
-* [Promoting sustainable and inclusive outdoor environments through land use regulation, environmental surveillance, and community gardening.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_111.md)
+* [Promoting sustainable and inclusive outdoor environments through land use regulation, environmental surveillance, and community gardening.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_161.md)
 
 ## Closest similar item
 
-* [Sustainable farming practices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1505.md)
-* [Agricultural technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_69.md)
+* [Agricultural technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1505.md)
+* [Climate-smart agriculture methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_69.md)
 * [Organic farming methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2721.md)
 * [Precision agriculture technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1244.md)
-* [Climate-smart agriculture methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2999.md)
-* [Urban farming technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1219.md)
-* [Sustainable practices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1152.md)
-* [Urban/community farming](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3731.md)
-* [Sustainable development initiatives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_450.md)
-* [Sustainable development goals](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2377.md)
-
-## This technology is mentioned by
-
-* [Building up an ecologically sustainable and socially desirable post-COVID-19 future](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_5.md)
-* [COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_58.md)
+* [Sustainable development goals](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2999.md)
+* [Sustainable development initiatives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1219.md)
+* [Sustainable farming practices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1152.md)
+* [Sustainable practices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3731.md)
+* [Urban farming technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_450.md)
+* [Urban/community farming](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2377.md)
 
 ## Risks linked to this technology
 
-* [Environmental degradation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1335.md)
-* [Climate change](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_894.md)
+* [Climate change](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1335.md)
+* [Environmental degradation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_894.md)
+
+## This technology is mentioned by
+
+* [Building up an ecologically sustainable and socially desirable post-COVID-19 future](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_58.md)
+* [COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_5.md)
 

@@ -2,26 +2,26 @@
 
 # __Enhanced hvac filtration__
 
-## Category to which it belongs
-
-* [Enhance air quality through the implementation of filtration systems, reduction of pollution levels, and increased outdoor air circulation.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_89.md)
-
-## Closest similar item
-
-* [Enhanced air filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4179.md)
-* [Improved air filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4550.md)
-* [Improve air filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3736.md)
-* [High-level air filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_342.md)
-* [Air filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4180.md)
-* [Use high-efficiency filters for air filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2868.md)
-* [Implementing hvac system upgrades, increasing ventilation rates, and using air filtration and purification technologies.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2675.md)
-* [Air filtration systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1353.md)
-* [Improve air filtration and ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1922.md)
-* [Improve indoor air filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3957.md)
-
 ## Benefits linked to a risk
 
 * [Reduced transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_232.md)
+
+## Category to which it belongs
+
+* [Enhance air quality through the implementation of filtration systems, reduction of pollution levels, and increased outdoor air circulation.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_139.md)
+
+## Closest similar item
+
+* [Air filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4179.md)
+* [Air filtration systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4550.md)
+* [Enhanced air filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3736.md)
+* [High-level air filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_342.md)
+* [Implementing hvac system upgrades, increasing ventilation rates, and using air filtration and purification technologies.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4180.md)
+* [Improve air filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2868.md)
+* [Improve air filtration and ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2675.md)
+* [Improve indoor air filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1353.md)
+* [Improved air filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1922.md)
+* [Use high-efficiency filters for air filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3957.md)
 
 ## Risks possibly mitigated by this Mitigation
 

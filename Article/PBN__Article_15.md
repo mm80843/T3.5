@@ -2,9 +2,25 @@
 
 # __The Emergence of Anti-Privacy and Control at the Nexus between the Concepts of Safe City and Smart City__
 
+## Benefits listed in this article
+
+* [Awareness and understanding](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_71.md)
+* [Control and governance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_74.md)
+* [Data protection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_70.md)
+* [Proper data management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_72.md)
+* [System protection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_73.md)
+
 ## DOI of the article
 
 10.3390/smartcities2010007
+
+## List of risks in an article
+
+* [Lack of awareness](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_47.md)
+* [Lack of control](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1071.md)
+* [Privacy concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1069.md)
+* [Propaganda](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_49.md)
+* [Security breaches](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1070.md)
 
 ## Short summary of the article
 
@@ -22,6 +38,28 @@ But there are some concerns about these concepts. One big concern is privacy. Th
 
 Despite these concerns, many cities around the world are adopting these concepts because they believe it will make their cities safer and better places to live. But it's important to address the concerns about privacy and control to ensure that these concepts are used in a way that benefits everyone.
 
+## This article mentions these technologies
+
+* [Anonymity](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
+* [Biometrics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_100.md)
+* [Data governance policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_97.md)
+* [Encryption](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_98.md)
+* [Iot protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_99.md)
+* [Limits on data use](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_101.md)
+* [Network security measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_103.md)
+* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_104.md)
+* [Public consultation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_106.md)
+* [Transparency measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_107.md)
+* [Transparent communication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_105.md)
+
+## This article points to following mitigation
+
+* [Converged command centres](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3206.md)
+* [Ppp restructuring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3209.md)
+* [Standardization of protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3210.md)
+* [Transparency of data usage](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3212.md)
+* [Video surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3211.md)
+
 ## Title of the article
 
 The Emergence of Anti-Privacy and Control at the Nexus between the Concepts of Safe City and Smart City
@@ -29,42 +67,4 @@ The Emergence of Anti-Privacy and Control at the Nexus between the Concepts of S
 ## Year of publication
 
 2019
-
-## Benefits listed in this article
-
-* [Data protection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_70.md)
-* [System protection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_71.md)
-* [Awareness and understanding](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_72.md)
-* [Proper data management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_73.md)
-* [Control and governance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_74.md)
-
-## List of risks in an article
-
-* [Privacy concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_47.md)
-* [Security breaches](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1069.md)
-* [Lack of awareness](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_49.md)
-* [Lack of control](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1071.md)
-* [Propaganda](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1070.md)
-
-## This article points to following mitigation
-
-* [Video surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3209.md)
-* [Converged command centres](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3210.md)
-* [Transparency of data usage](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3212.md)
-* [Standardization of protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3206.md)
-* [Ppp restructuring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3211.md)
-
-## This article mentions these technologies
-
-* [Encryption](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_97.md)
-* [Anonymity](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_98.md)
-* [Biometrics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_99.md)
-* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
-* [Transparency measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_103.md)
-* [Public consultation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_105.md)
-* [Iot protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_100.md)
-* [Network security measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_101.md)
-* [Transparent communication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_104.md)
-* [Data governance policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_106.md)
-* [Limits on data use](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_107.md)
 

@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [People from diverse backgrounds and circumstances, including marginalized individuals, with different abilities, and in various environments.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_215.md)
+* [People from diverse backgrounds and circumstances, including marginalized individuals, with different abilities, and in various environments.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_265.md)
 
 ## Closest similar item
 
-* [Individuals in non-english speaking countries](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1020.md)
-* [Individual in multilingual environment](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2319.md)
-* [Non-english speakers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1019.md)
-* [Individuals in multilingual environments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1592.md)
-* [Individual in developing country](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2127.md)
-* [Person in developing country](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2326.md)
-* [Individuals in developing countries](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1513.md)
-* [Individual](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2477.md)
+* [Individual](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1020.md)
+* [Individual in developing country](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2319.md)
+* [Individual in multilingual environment](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1019.md)
+* [Individual in socially disadvantaged area](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1592.md)
+* [Individuals in developing countries](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2127.md)
+* [Individuals in multilingual environments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2326.md)
+* [Individuals in non-english speaking countries](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1513.md)
+* [Non-english speakers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2477.md)
 * [Non-taiwanese citizens](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_71.md)
-* [Individual in socially disadvantaged area](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2339.md)
+* [Person in developing country](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2339.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

@@ -4,6 +4,6 @@
 
 ## This return can be realized by these benefits
 
-* [Improved productivity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_782.md)
-* [Increased supply stability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_783.md)
+* [Improved productivity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_783.md)
+* [Increased supply stability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_782.md)
 

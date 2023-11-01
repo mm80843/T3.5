@@ -2,35 +2,64 @@
 
 # __Healthcare system overload__
 
+## Articles mentionning the risk
+
+* [Emerging Technologies to Combat the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_142.md)
+* [Sustainability of Coronavirus on Different Surfaces](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_116.md)
+
 ## Category to which it belongs
 
-* [Healthcare systems overwhelmed, limited access to services, scarcity of resources, and risk to healthcare workers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_10.md)
+* [Healthcare systems overwhelmed, limited access to services, scarcity of resources, and risk to healthcare workers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_60.md)
 
 ## Closest similar item
 
 * [Health care system overload](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12.md)
 * [Healthcare overload](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2391.md)
-* [Overloading health system](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2611.md)
+* [Healthcare system capacity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2611.md)
 * [Overburdened healthcare system](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1734.md)
 * [Overburdened healthcare systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2700.md)
 * [Overloaded healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_807.md)
-* [Overwhelmed healthcare system](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1007.md)
-* [Overwhelmed healthcare systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1616.md)
-* [Overwhelmed healthcare systems and operations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1878.md)
-* [Healthcare system capacity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2007.md)
+* [Overloading health system](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1007.md)
+* [Overwhelmed healthcare system](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1616.md)
+* [Overwhelmed healthcare systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1878.md)
+* [Overwhelmed healthcare systems and operations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2007.md)
 
 ## Description of the risk
 
 High number of cases overwhelming healthcare facilities and resources
 
-## Type of the risk
-
-* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Is the risk affecting GBN scales
 
-* [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
+
+## Mitigations of this risk
+
+* [Increase healthcare capacity, allocate resources effectively](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2790.md)
+* [Increased healthcare capacity, resource allocation planning, telemedicine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2941.md)
+
+## Name of the risk
+
+Lack of adequate care for patients, increased mortality rates
+
+## People affected by this risk
+
+* [Healthcare workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_68.md)
+* [Patients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_31.md)
+
+## Stakeholders who can mitigate this risk
+
+* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_121.md)
+* [Healthcare organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
+* [Healthcare providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_216.md)
+
+## Technologies linked to the risk
+
+* [Ai triage systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1650.md)
+* [Mobile medical units](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_73.md)
+* [Remote monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_207.md)
+* [Telehealth technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1651.md)
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1848.md)
 
 ## Type of impact of the risk (according to ISO37100)
 
@@ -40,38 +69,9 @@ High number of cases overwhelming healthcare facilities and resources
 
 * [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_1.md)
 
-## Mitigations of this risk
+## Type of the risk
 
-* [Increased healthcare capacity, resource allocation planning, telemedicine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2790.md)
-* [Increase healthcare capacity, allocate resources effectively](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2941.md)
-
-## Name of the risk
-
-Lack of adequate care for patients, increased mortality rates
-
-## Stakeholders who can mitigate this risk
-
-* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
-* [Healthcare providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_121.md)
-* [Healthcare organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_216.md)
-
-## Articles mentionning the risk
-
-* [Sustainability of Coronavirus on Different Surfaces](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_142.md)
-* [Emerging Technologies to Combat the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_116.md)
-
-## People affected by this risk
-
-* [Healthcare workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_68.md)
-* [Patients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_31.md)
-
-## Technologies linked to the risk
-
-* [Telehealth technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1650.md)
-* [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_73.md)
-* [Remote monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_207.md)
-* [Mobile medical units](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1651.md)
-* [Ai triage systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1848.md)
+* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 

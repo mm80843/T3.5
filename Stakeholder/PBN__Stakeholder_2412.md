@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Participants in the iot ecosystem, including users, data collectors, technology providers, essential service providers, and information providers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_231.md)
+* [Participants in the iot ecosystem, including users, data collectors, technology providers, essential service providers, and information providers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_281.md)
 
 ## Closest similar item
 
-* [Support networks](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1146.md)
-* [Community support network](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2424.md)
+* [Community support network](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1146.md)
+* [Community support networks](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2424.md)
 * [Community support networks/services](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2407.md)
-* [Community support networks](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1264.md)
-* [Network provider](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1688.md)
-* [Network providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1393.md)
-* [Support organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2403.md)
-* [It support](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1321.md)
-* [Support organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_789.md)
-* [It support personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_779.md)
+* [It support](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1264.md)
+* [It support personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1688.md)
+* [Network provider](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1393.md)
+* [Network providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2403.md)
+* [Support networks](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1321.md)
+* [Support organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_789.md)
+* [Support organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_779.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

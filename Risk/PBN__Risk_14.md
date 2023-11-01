@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The interconnectedness of global economics has led to financial instability, unemployment, poverty, and decreased investment in certain sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_12.md)
+* [The interconnectedness of global economics has led to financial instability, unemployment, poverty, and decreased investment in certain sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_62.md)
 
 ## Closest similar item
 
-* [Economic instability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2002.md)
-* [Loss of income and economic instability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1967.md)
-* [Financial instability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1081.md)
-* [Economic instability and overreliance on certain revenue streams](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3280.md)
-* [Lack of coordination, geopolitical tensions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2851.md)
-* [Economic and social disruption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1510.md)
-* [Shocks in global value chains](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_251.md)
-* [Economic downfall](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_707.md)
-* [Economic crisis](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_231.md)
-* [Global mobility](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2049.md)
+* [Economic and social disruption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2002.md)
+* [Economic crisis](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1967.md)
+* [Economic downfall](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1081.md)
+* [Economic instability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3280.md)
+* [Economic instability and overreliance on certain revenue streams](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2851.md)
+* [Financial instability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1510.md)
+* [Global mobility](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_251.md)
+* [Lack of coordination, geopolitical tensions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_707.md)
+* [Loss of income and economic instability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_231.md)
+* [Shocks in global value chains](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2049.md)
 
 ## Mitigations of this risk
 

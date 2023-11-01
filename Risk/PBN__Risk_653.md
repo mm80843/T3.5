@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Exposure to a wide range of contaminants, pathogens, and toxins on various surfaces and through different modes of transmission.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_29.md)
+* [Exposure to a wide range of contaminants, pathogens, and toxins on various surfaces and through different modes of transmission.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_79.md)
 
 ## Closest similar item
 
-* [Transmission of covid-19 through surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_226.md)
-* [Spread of covid-19 through water](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_577.md)
-* [Spread of covid-19 through waste materials](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_809.md)
+* [Airborne spread of covid-19 in healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_226.md)
+* [Spread of covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_577.md)
+* [Spread of covid-19 due to air pollution](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_809.md)
 * [Spread of covid-19 through respiratory droplets](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_52.md)
-* [Spread of covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_91.md)
-* [Spread of covid-19 through wastewater](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_576.md)
-* [Virus spread through contaminated surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1124.md)
-* [Spread of covid-19 due to air pollution](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_146.md)
-* [Spread of covid-19 through sewage](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_932.md)
-* [Airborne spread of covid-19 in healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_692.md)
+* [Spread of covid-19 through sewage](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_91.md)
+* [Spread of covid-19 through waste materials](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_576.md)
+* [Spread of covid-19 through wastewater](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1124.md)
+* [Spread of covid-19 through water](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_146.md)
+* [Transmission of covid-19 through surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_932.md)
+* [Virus spread through contaminated surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_692.md)
 
 ## Mitigations of this risk
 

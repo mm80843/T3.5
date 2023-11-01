@@ -2,42 +2,34 @@
 
 # __Financial sustainability of water sector__
 
+## Articles mentionning the risk
+
+* [When the fourth water and digital revolution encountered COVID-19](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_207.md)
+
 ## Category to which it belongs
 
-* [The interconnectedness of global economics has led to financial instability, unemployment, poverty, and decreased investment in certain sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_12.md)
+* [The interconnectedness of global economics has led to financial instability, unemployment, poverty, and decreased investment in certain sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_62.md)
 
 ## Closest similar item
 
-* [Financial sustainability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_719.md)
-* [Financial sustainability of energy providers](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3256.md)
-* [Financial viability of clean energy sectors](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3260.md)
-* [Investments in improving water storage, sanitation, drainage, and housing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_475.md)
-* [Water and wastewater management](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_574.md)
-* [Water conservation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3292.md)
-* [Water demand](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_716.md)
-* [Financial impacts](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_553.md)
-* [Water quality and availability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_612.md)
-* [Water and sanitation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2013.md)
+* [Financial impacts](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_719.md)
+* [Financial sustainability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3256.md)
+* [Financial sustainability of energy providers](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3260.md)
+* [Financial viability of clean energy sectors](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_475.md)
+* [Investments in improving water storage, sanitation, drainage, and housing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_574.md)
+* [Water and sanitation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3292.md)
+* [Water and wastewater management](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_716.md)
+* [Water conservation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_553.md)
+* [Water demand](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_612.md)
+* [Water quality and availability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2013.md)
 
 ## Description of the risk
 
 Economic standstill leads to decreased revenue and financial sustainability of water utilities.
 
-## Type of the risk
-
-* [Economic](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_3.md)
-
 ## Is the risk affecting GBN scales
 
 * [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
-
-## Type of impact of the risk (according to ISO37100)
-
-* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_8.md)
-
-## Type of purpose of the risk (according to ISO37100)
-
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_4.md)
 
 ## Mitigations of this risk
 
@@ -47,24 +39,32 @@ Economic standstill leads to decreased revenue and financial sustainability of w
 
 Threat to the financial sustainability of water services.
 
-## Stakeholders who can mitigate this risk
-
-* [Regulatory authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1293.md)
-* [Water utilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_329.md)
-
-## Articles mentionning the risk
-
-* [When the fourth water and digital revolution encountered COVID-19](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_207.md)
-
 ## People affected by this risk
 
 * [Vulnerable households](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_254.md)
 * [Water utilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_329.md)
 
+## Stakeholders who can mitigate this risk
+
+* [Regulatory authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1293.md)
+* [Water utilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_329.md)
+
 ## Technologies linked to the risk
 
-* [Digital payment systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_695.md)
-* [Ai-backed systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1312.md)
+* [Ai-backed systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_695.md)
+* [Digital payment systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1312.md)
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_8.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_4.md)
+
+## Type of the risk
+
+* [Economic](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_3.md)
 
 ## Property: has_RiskType
 

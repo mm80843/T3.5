@@ -4,6 +4,6 @@
 
 ## This return can be realized by these benefits
 
-* [Real-time disease monitoring](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_216.md)
-* [Early detection and response](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_218.md)
+* [Early detection and response](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_216.md)
+* [Real-time disease monitoring](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_218.md)
 

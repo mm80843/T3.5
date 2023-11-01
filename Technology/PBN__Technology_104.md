@@ -4,28 +4,28 @@
 
 ## Category to which it belongs
 
-* [Improved and diversified communication channels through digital integration, telecommunication technology, and network infrastructure.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_105.md)
+* [Improved and diversified communication channels through digital integration, telecommunication technology, and network infrastructure.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_155.md)
 
 ## Closest similar item
 
-* [Transparent communication channels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_875.md)
-* [Open communication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_537.md)
-* [Communication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2850.md)
-* [Transparency](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1925.md)
-* [Open communication channels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2002.md)
-* [Communication channels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_566.md)
-* [Communication methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_463.md)
+* [Communication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_875.md)
+* [Communication and connectivity](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_537.md)
+* [Communication channels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2850.md)
+* [Communication methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1925.md)
+* [Digital communication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2002.md)
+* [Open communication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_566.md)
+* [Open communication channels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_463.md)
 * [Public communication channels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2729.md)
-* [Digital communication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_814.md)
-* [Communication and connectivity](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2161.md)
+* [Transparency](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_814.md)
+* [Transparent communication channels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2161.md)
+
+## Risks linked to this technology
+
+* [Propaganda](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1070.md)
 
 ## This Technology belongs to this TechGroup
 
 * [Data privacy](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2191.md)
-
-## This technology is mentioned by
-
-* [The Emergence of Anti-Privacy and Control at the Nexus between the Concepts of Safe City and Smart City](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_15.md)
 
 ## This Technology belongs to this TechSubgroup
 
@@ -35,7 +35,7 @@
 
 * [Honest reporting](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4674.md)
 
-## Risks linked to this technology
+## This technology is mentioned by
 
-* [Propaganda](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1070.md)
+* [The Emergence of Anti-Privacy and Control at the Nexus between the Concepts of Safe City and Smart City](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_15.md)
 

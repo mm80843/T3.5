@@ -4,36 +4,36 @@
 
 ## Category to which it belongs
 
-* [Virtual healthcare and remote communication technology for medical diagnosis, therapy, and consultation.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_102.md)
+* [Virtual healthcare and remote communication technology for medical diagnosis, therapy, and consultation.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_152.md)
 
 ## Closest similar item
 
-* [Telehealth/telepresence](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3462.md)
-* [Telehealth](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1447.md)
+* [Secure telepsychiatry platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3462.md)
+* [Tele-counseling](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1447.md)
 * [Teleconferencing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_386.md)
-* [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_73.md)
-* [Secure telepsychiatry platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1811.md)
-* [Teleworking](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3494.md)
-* [Telehealth system](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2326.md)
-* [Telehealth technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1650.md)
-* [Tele-counseling](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1427.md)
-* [Teleoperation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1986.md)
+* [Telehealth](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_73.md)
+* [Telehealth system](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1811.md)
+* [Telehealth technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3494.md)
+* [Telehealth/telepresence](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2326.md)
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1650.md)
+* [Teleoperation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1427.md)
+* [Teleworking](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1986.md)
+
+## Risks linked to this technology
+
+* [Inadequate mental health resources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1382.md)
+* [Mental health issues](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2020.md)
 
 ## This Technology belongs to this TechGroup
 
 * [Telehealth](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1447.md)
 
-## This technology is mentioned by
-
-* [Health, Economic and Social Development Challenges of the COVID-19 Pandemic: Strategies for Multiple and Interconnected Issues](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_144.md)
-* [Mental health economics: A prospective study on psychological flourishing and associations with healthcare costs and sickness benefit transfers in Denmark](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_189.md)
-
 ## This Technology belongs to this TechSubgroup
 
 * [Online counseling and therapy platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2108.md)
 
-## Risks linked to this technology
+## This technology is mentioned by
 
-* [Mental health issues](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1382.md)
-* [Inadequate mental health resources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2020.md)
+* [Health, Economic and Social Development Challenges of the COVID-19 Pandemic: Strategies for Multiple and Interconnected Issues](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_189.md)
+* [Mental health economics: A prospective study on psychological flourishing and associations with healthcare costs and sickness benefit transfers in Denmark](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_144.md)
 

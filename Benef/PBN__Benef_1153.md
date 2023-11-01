@@ -2,23 +2,27 @@
 
 # __Combating misinformation__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Provides accurate and reliable information, helping to counter misinformation and educate the public
+* [Mobile Technology Solution for COVID-19: Surveillance and Prevention](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_239.md)
+
+## Category to which it belongs
+
+* [Enhanced accuracy and control over information dissemination, minimizing bias, misinformation, and false spread.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_43.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Enhances public understanding, reduces panic, and promotes adherence to preventive measures](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_1289.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [Mobile Technology Solution for COVID-19: Surveillance and Prevention](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_239.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_29.md)
+Provides accurate and reliable information, helping to counter misinformation and educate the public
 
 ## Risks which can benefit from this action
 
 * [Mobile chatbot applications](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1155.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_29.md)
 

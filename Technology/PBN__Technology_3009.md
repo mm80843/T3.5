@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Implement strategies to optimize costs, manage crises, and develop sustainable practices while ensuring efficient resource allocation and effective communication.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_143.md)
+* [Implement strategies to optimize costs, manage crises, and develop sustainable practices while ensuring efficient resource allocation and effective communication.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_193.md)
 
 ## Closest similar item
 
-* [Resilient design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2258.md)
-* [Scalability in production](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2029.md)
-* [Resilient and decentralized economic systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_529.md)
-* [Resilient design principles](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3673.md)
-* [Flexible production technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3191.md)
-* [Resilience-based practices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3682.md)
-* [Use building materials and systems that are resilient to emergencies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1378.md)
-* [Sustainable and resilient design principles](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_470.md)
-* [Scaling up production capacity](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1626.md)
-* [Manufacturing capabilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1849.md)
+* [Flexible production technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2258.md)
+* [Manufacturing capabilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2029.md)
+* [Resilience-based practices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_529.md)
+* [Resilient and decentralized economic systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3673.md)
+* [Resilient design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3191.md)
+* [Resilient design principles](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3682.md)
+* [Scalability in production](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1378.md)
+* [Scaling up production capacity](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_470.md)
+* [Sustainable and resilient design principles](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1626.md)
+* [Use building materials and systems that are resilient to emergencies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1849.md)
 
 ## This Technology enables the following mitigations
 

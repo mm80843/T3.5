@@ -2,26 +2,26 @@
 
 # __Quarantining cities and social distancing measures__
 
-## Category to which it belongs
-
-* [Implementing measures to maintain physical distance, limit occupancy, enforce restrictions, and promote social distancing in various settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_69.md)
-
-## Closest similar item
-
-* [Quarantine and social distancing measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_893.md)
-* [Implement social distancing measures, case isolation, and home quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1882.md)
-* [Social distancing measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_416.md)
-* [Implementing social distancing measures, reducing population density](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2291.md)
-* [Smart city solutions for social distancing monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_589.md)
-* [Implementing social distancing measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4086.md)
-* [Improved social distancing measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4220.md)
-* [Temporary social-distancing measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3134.md)
-* [Population-wide social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3686.md)
-* [Implementation of quarantine measures, social distancing, and isolation of confirmed cases](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1753.md)
-
 ## Benefits linked to a risk
 
 * [Reduction in transmission rate](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_33.md)
+
+## Category to which it belongs
+
+* [Implementing measures to maintain physical distance, limit occupancy, enforce restrictions, and promote social distancing in various settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_119.md)
+
+## Closest similar item
+
+* [Implement social distancing measures, case isolation, and home quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_893.md)
+* [Implementation of quarantine measures, social distancing, and isolation of confirmed cases](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1882.md)
+* [Implementing social distancing measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_416.md)
+* [Implementing social distancing measures, reducing population density](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2291.md)
+* [Improved social distancing measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_589.md)
+* [Population-wide social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4086.md)
+* [Quarantine and social distancing measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4220.md)
+* [Smart city solutions for social distancing monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3134.md)
+* [Social distancing measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3686.md)
+* [Temporary social-distancing measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1753.md)
 
 ## Risks possibly mitigated by this Mitigation
 

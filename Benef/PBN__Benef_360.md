@@ -2,24 +2,28 @@
 
 # __Indication of virus circulation in the human population__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Environmental surveillance of SARS-CoV-2 in wastewater can provide valuable data on the circulation of the virus in the human population, helping in epidemiological studies and informing public health interventions.
+* [SARS-CoV-2 in wastewater: potential health risk, but also data source](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_70.md)
+
+## Category to which it belongs
+
+* [Enhanced measures to inhibit the dissemination and transmission of viruses, including reducing concentration and spread.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_10.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit indirectly by contributing to the overall control of the pandemic, which would lead to economic stability and improved market conditions for their investments in the built environment.](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_387.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [SARS-CoV-2 in wastewater: potential health risk, but also data source](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_70.md)
+Environmental surveillance of SARS-CoV-2 in wastewater can provide valuable data on the circulation of the virus in the human population, helping in epidemiological studies and informing public health interventions.
+
+## Risks which can benefit from this action
+
+* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_149.md)
 
 ## Stakeholders benefitting from this Benefit
 
 * [Public health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_0.md)
 * [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
-
-## Risks which can benefit from this action
-
-* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_149.md)
 

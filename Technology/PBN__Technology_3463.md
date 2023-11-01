@@ -2,26 +2,26 @@
 
 # __Medical robots__
 
-## Link between Blueprint and General ontology
-
-* [Robots](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_14.md)
-
 ## Category to which it belongs
 
-* [Advancements in remote healthcare, antibiotic stewardship programs, medical robots, and international organizations contribute to improved healthcare infrastructure and access to healthcare services.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_135.md)
+* [Advancements in remote healthcare, antibiotic stewardship programs, medical robots, and international organizations contribute to improved healthcare infrastructure and access to healthcare services.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_185.md)
 
 ## Closest similar item
 
-* [Robots](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2290.md)
-* [Robotic assistance in healthcare](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1503.md)
-* [Robotics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1171.md)
-* [Robot technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3368.md)
-* [Robotic systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3856.md)
-* [Industrial robots](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3863.md)
-* [Robot systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3134.md)
-* [Medical equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_108.md)
-* [Ai in healthcare](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1506.md)
-* [Medical equipment and personnel](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3569.md)
+* [Ai in healthcare](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2290.md)
+* [Industrial robots](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1503.md)
+* [Medical equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1171.md)
+* [Medical equipment and personnel](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3368.md)
+* [Robot systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3856.md)
+* [Robot technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3863.md)
+* [Robotic assistance in healthcare](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3134.md)
+* [Robotic systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_108.md)
+* [Robotics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1506.md)
+* [Robots](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3569.md)
+
+## Link between Blueprint and General ontology
+
+* [Robots](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_14.md)
 
 ## This Technology enables the following mitigations
 

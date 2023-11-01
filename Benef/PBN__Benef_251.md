@@ -2,23 +2,27 @@
 
 # __Stable internet access__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Access to reliable and constant ICT infrastructure ensures stable internet access for online activities
+* [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_51.md)
+
+## Category to which it belongs
+
+* [Enhanced availability and ease of reaching essential resources, services, and information for all.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_29.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Stable internet access can enhance tenant satisfaction and attract individuals relying on remote work and virtual communication.](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_263.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_51.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [Residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_59.md)
+Access to reliable and constant ICT infrastructure ensures stable internet access for online activities
 
 ## Risks which can benefit from this action
 
 * [Emphasis on ict infrastructure access](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_240.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [Residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_59.md)
 

@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_116.md)
+* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_166.md)
 
 ## Closest similar item
 
-* [Movable walls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2391.md)
+* [Adjustable desks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2391.md)
 * [Adjustable furniture](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2428.md)
-* [Use modular design systems and adjustable walls/screens in apartment layouts](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1265.md)
-* [Thick walls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2355.md)
-* [Flexible room design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3559.md)
-* [Glass walls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1263.md)
-* [Adjustable desks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1396.md)
-* [Green walls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1008.md)
-* [Specialized room design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2637.md)
-* [Flexible floor plans](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3315.md)
+* [Flexible floor plans](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1265.md)
+* [Flexible room design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2355.md)
+* [Glass walls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3559.md)
+* [Green walls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1263.md)
+* [Movable walls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1396.md)
+* [Specialized room design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1008.md)
+* [Thick walls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2637.md)
+* [Use modular design systems and adjustable walls/screens in apartment layouts](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3315.md)
 
 ## This Technology enables the following mitigations
 

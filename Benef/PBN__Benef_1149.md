@@ -2,24 +2,28 @@
 
 # __Real-time display of epidemic data__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Provides visual information on infection hotspots and trends, enabling informed decision-making and preventive actions
+* [Mobile Technology Solution for COVID-19: Surveillance and Prevention](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_239.md)
+
+## Category to which it belongs
+
+* [Synonym: proactive surveillance and response to disease transmission, prevention, and control.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_2.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Improves public health response and supports targeted interventions, leading to reduced transmission risk](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_1285.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [Mobile Technology Solution for COVID-19: Surveillance and Prevention](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_239.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
-* [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_29.md)
+Provides visual information on infection hotspots and trends, enabling informed decision-making and preventive actions
 
 ## Risks which can benefit from this action
 
 * [Gps-based apps](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1151.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
+* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_29.md)
 

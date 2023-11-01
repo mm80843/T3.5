@@ -4,28 +4,32 @@
 
 ## Category to which it belongs
 
-* [Creators of digital solutions for various purposes, from software and app development to blockchain and ai.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_226.md)
+* [Creators of digital solutions for various purposes, from software and app development to blockchain and ai.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_276.md)
 
 ## Closest similar item
 
-* [Technology developer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1942.md)
-* [Software developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1569.md)
-* [Developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_635.md)
-* [Software developer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2553.md)
-* [Application developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1399.md)
-* [Project developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_902.md)
-* [Developer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1867.md)
-* [Project developer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1759.md)
-* [Platform developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1553.md)
-* [App developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1138.md)
+* [App developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1942.md)
+* [Application developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1569.md)
+* [Developer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_635.md)
+* [Developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2553.md)
+* [Platform developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1399.md)
+* [Project developer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_902.md)
+* [Project developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1867.md)
+* [Software developer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1759.md)
+* [Software developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1553.md)
+* [Technology developer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1138.md)
+
+## Risk affecting this stakeholder
+
+* [Technological](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2107.md)
 
 ## Risks that can be mitigated by this stakeholder
 
+* [Inefficient early detection of covid-19 infection risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1767.md)
 * [Limited access to covid-19 mitigation information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1766.md)
-* [Inefficient early detection of covid-19 infection risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1764.md)
-* [Limited efficacy against specific viruses](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1500.md)
-* [Technical limitations of wearables](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1239.md)
-* [Risk of data privacy and security in mobile applications](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1767.md)
+* [Limited efficacy against specific viruses](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1764.md)
+* [Risk of data privacy and security in mobile applications](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1239.md)
+* [Technical limitations of wearables](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1500.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -34,10 +38,11 @@
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Technology and innovation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1873.md)
 * [Ai and technology](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1857.md)
+* [Technology and innovation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1873.md)
 
-## Risk affecting this stakeholder
+## Type of the stakeholder
 
-* [Technological](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2107.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

@@ -2,41 +2,34 @@
 
 # __Concentration of suppliers__
 
+## Articles mentionning the risk
+
+* [Global value chains: Efficiency and risks in the context of COVID-19](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_60.md)
+
 ## Category to which it belongs
 
-* [The pandemic has led to a decrease in in-person surgical education, loss of control, temporary panic from cruise ship docking, limited social distancing, and decreased morale.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_20.md)
+* [The pandemic has led to a decrease in in-person surgical education, loss of control, temporary panic from cruise ship docking, limited social distancing, and decreased morale.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_70.md)
 
 ## Closest similar item
 
 * [Dependence on global suppliers](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2203.md)
-* [Imbalance of supply chains](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3239.md)
-* [Shortages in supply chains](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_491.md)
-* [Financial viability of suppliers](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3258.md)
-* [Reliance on global supply chains](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1971.md)
-* [Supply chain complexity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1756.md)
-* [Disruption of supply chains](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1123.md)
-* [Disruption in global supply chains](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2869.md)
-* [Disruptions in global supply chains](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_767.md)
+* [Disruption in global supply chains](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3239.md)
+* [Disruption of supply chains](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_491.md)
+* [Disruptions in global supply chains](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3258.md)
+* [Financial viability of suppliers](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1971.md)
+* [Imbalance of supply chains](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1756.md)
+* [Reliance on global supply chains](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1123.md)
+* [Shortages in supply chains](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2869.md)
+* [Supply chain complexity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_767.md)
 * [Supply disruption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2986.md)
 
 ## Description of the risk
 
 High concentration of suppliers in GVCs can lead to disruptions in the supply chain and vulnerability to shocks.
 
-## Type of the risk
-
-
 ## Is the risk affecting GBN scales
 
 * [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
-
-## Type of impact of the risk (according to ISO37100)
-
-* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_4.md)
-
-## Type of purpose of the risk (according to ISO37100)
-
-* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
 
 ## Mitigations of this risk
 
@@ -46,28 +39,35 @@ High concentration of suppliers in GVCs can lead to disruptions in the supply ch
 
 Increased risk of supply chain disruptions and limited flexibility in switching suppliers during shocks.
 
-## Stakeholders who can mitigate this risk
-
-* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
-* [Businesses](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_147.md)
-* [Industries](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_389.md)
-
-## Articles mentionning the risk
-
-* [Global value chains: Efficiency and risks in the context of COVID-19](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_60.md)
-
 ## People affected by this risk
 
-* [Businesses](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_147.md)
-* [Industries](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_389.md)
-* [Countries heavily reliant on specific suppliers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1239.md)
+* [Businesses](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_389.md)
+* [Countries heavily reliant on specific suppliers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_147.md)
+* [Industries](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1239.md)
+
+## Stakeholders who can mitigate this risk
+
+* [Businesses](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
+* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_389.md)
+* [Industries](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_147.md)
 
 ## Technologies linked to the risk
 
 * [Supplier diversification technologies and supply chain management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1197.md)
 
+## Type of impact of the risk (according to ISO37100)
+
+* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_4.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
+
+## Type of the risk
+
+
 ## Property: has_RiskType
 
-* [Technological](https://github.com/mm80843/T3.5/blob/pages/RiskType/PBN__RiskType_5.md)
-* [Economic](https://github.com/mm80843/T3.5/blob/pages/RiskType/PBN__RiskType_3.md)
+* [Economic](https://github.com/mm80843/T3.5/blob/pages/RiskType/PBN__RiskType_5.md)
+* [Technological](https://github.com/mm80843/T3.5/blob/pages/RiskType/PBN__RiskType_3.md)
 

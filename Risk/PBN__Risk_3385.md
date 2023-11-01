@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Standardizing coronavirus knowledge, the respiratory virus spreads through the built environment, work, touch, aerosols, and contaminated surfaces.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_23.md)
+* [Standardizing coronavirus knowledge, the respiratory virus spreads through the built environment, work, touch, aerosols, and contaminated surfaces.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_73.md)
 
 ## Closest similar item
 
-* [Variants of the virus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_903.md)
-* [Insensitive to variations in viral species](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1169.md)
-* [Virus origin](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_426.md)
-* [Unclear virus origin](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3379.md)
-* [Emerging infectious pathogens](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3384.md)
-* [Unknown viral shedding routes](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2569.md)
-* [Limited efficacy against specific viruses](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1500.md)
-* [Virus outbreaks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_959.md)
-* [Emerging infectious diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_159.md)
-* [Identification of new variants](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3382.md)
+* [Emerging infectious diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_903.md)
+* [Emerging infectious pathogens](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1169.md)
+* [Identification of new variants](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_426.md)
+* [Insensitive to variations in viral species](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3379.md)
+* [Limited efficacy against specific viruses](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3384.md)
+* [Unclear virus origin](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2569.md)
+* [Unknown viral shedding routes](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1500.md)
+* [Variants of the virus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_959.md)
+* [Virus origin](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_159.md)
+* [Virus outbreaks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3382.md)
 
 ## Mitigations of this risk
 

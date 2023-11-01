@@ -2,26 +2,26 @@
 
 # __Portfolio transformation__
 
-## Category to which it belongs
-
-* [Promote sustainable economic growth through infrastructure investment, revenue diversification, financial interventions, and decentralized activities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_62.md)
-
-## Closest similar item
-
-* [Transformation design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1079.md)
-* [Flexibility and transformation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4241.md)
-* [Skilled fund management, strategic asset allocation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2590.md)
-* [Digital transformation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3489.md)
-* [Permanent transformations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1234.md)
-* [Assess the long-term impact and feasibility of temporary changes to inform permanent transformations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1975.md)
-* [Diversifying project portfolios, focusing on shovel-ready projects, seeking government support.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2564.md)
-* [Digital transformation technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1429.md)
-* [Economic diversification](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1002.md)
-* [Enhancing financial capital](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4007.md)
-
 ## Benefits linked to a risk
 
 * [Increased flexibility in office space provision](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_944.md)
+
+## Category to which it belongs
+
+* [Promote sustainable economic growth through infrastructure investment, revenue diversification, financial interventions, and decentralized activities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_112.md)
+
+## Closest similar item
+
+* [Assess the long-term impact and feasibility of temporary changes to inform permanent transformations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1079.md)
+* [Digital transformation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4241.md)
+* [Digital transformation technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2590.md)
+* [Diversifying project portfolios, focusing on shovel-ready projects, seeking government support.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3489.md)
+* [Economic diversification](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1234.md)
+* [Enhancing financial capital](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1975.md)
+* [Flexibility and transformation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2564.md)
+* [Permanent transformations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1429.md)
+* [Skilled fund management, strategic asset allocation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1002.md)
+* [Transformation design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4007.md)
 
 ## Risks possibly mitigated by this Mitigation
 

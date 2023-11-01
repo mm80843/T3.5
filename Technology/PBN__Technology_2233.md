@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Innovations and applications in chemistry, materials, and technology for purification, disinfection, and environmental protection.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_146.md)
+* [Innovations and applications in chemistry, materials, and technology for purification, disinfection, and environmental protection.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_196.md)
 
 ## Closest similar item
 
-* [Bipolar ionization technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3225.md)
-* [Improved negative ionizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_567.md)
-* [High voltage electrodes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3156.md)
-* [Plasmacluster ion technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2503.md)
-* [Low-power silicon electronics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2421.md)
-* [Technology devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2965.md)
-* [Sanitization devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_718.md)
-* [Analytical chemistry](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2670.md)
-* [Electrochemical reactions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2472.md)
-* [Electrostatic filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1114.md)
+* [Analytical chemistry](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3225.md)
+* [Bipolar ionization technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_567.md)
+* [Electrochemical reactions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3156.md)
+* [Electrostatic filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2503.md)
+* [High voltage electrodes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2421.md)
+* [Improved negative ionizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2965.md)
+* [Low-power silicon electronics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_718.md)
+* [Plasmacluster ion technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2670.md)
+* [Sanitization devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2472.md)
+* [Technology devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1114.md)
 
 ## This Technology belongs to this TechGroup
 

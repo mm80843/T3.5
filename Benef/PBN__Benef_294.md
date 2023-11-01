@@ -2,24 +2,28 @@
 
 # __Peace, justice, and strong institutions__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Strengthening partnerships and collaboration promotes peace, justice, and strong institutions, fostering stability and social progress.
+* [COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_58.md)
+
+## Category to which it belongs
+
+* [Creating harmonized and consistent messaging across regions to reinforce brand image and promote long-term viability and equality.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_24.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Private investors benefit from a more stable and predictable regulatory environment, reducing investment risks and uncertainties.](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_311.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_58.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
-* [Civil society](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_148.md)
+Strengthening partnerships and collaboration promotes peace, justice, and strong institutions, fostering stability and social progress.
 
 ## Risks which can benefit from this action
 
 * [Strengthening partnerships and collaboration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_290.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [Civil society](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
+* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_148.md)
 

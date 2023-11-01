@@ -1,46 +1,12 @@
 [Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_216 
 
-# __The interconnected web of nature, human activities, and the economy, studied and supported by scientists, engineers, and conservationists.__
+# __Streamline user journeys for better cleanliness and hygiene.__
 
 ## Items covered in this category
 
-* [Environmental researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2590.md)
-* [Ecosystems](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_19.md)
-* [Ecosystem](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1558.md)
-* [Environmental ecosystems](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_705.md)
-* [Environmental ecosystem](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2624.md)
-* [Ecology](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2609.md)
-* [Environment](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_116.md)
-* [The environment](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_25.md)
-* [Environmental entities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2582.md)
-* [Ecologists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1457.md)
-* [Environmental entity](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2610.md)
-* [Environment and society](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_407.md)
-* [Sustainability and environment](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2357.md)
-* [Environmental and living conditions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2208.md)
-* [Work and living environment](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2224.md)
-* [Environmental scientists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2591.md)
-* [Environmental scientist](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2585.md)
-* [Local economies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_518.md)
-* [Economy](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_91.md)
-* [Environmental conditions and settings](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2253.md)
-* [Environmental engineers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_676.md)
-* [Environmental engineer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2602.md)
-* [Energy and climate researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_255.md)
-* [Environmental researcher](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2593.md)
-* [Energy modelers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1008.md)
-* [Environmental management and research](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2586.md)
-* [Environmental worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2622.md)
-* [Conservation efforts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_390.md)
-* [Conservation practitioners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_429.md)
-* [Conservationists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_932.md)
-* [Conservationist](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2620.md)
-* [Environmental workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1303.md)
-* [Nature enthusiasts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_800.md)
-* [Advocacy and sustainability](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2595.md)
-* [Energy modeler](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2062.md)
-* [Environmental microbiologists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1048.md)
-* [Ecologist](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2616.md)
-* [Sustainability experts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1408.md)
-* [Sustainability expert](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2386.md)
+* [Optimize users flows to prevent contamination](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_17.md)
+
+## Title of the category
+
+This category of Interventions describes strategies and measures implemented to improve the movement and flow of individuals within a certain space or infrastructure, with the aim of minimizing the risk of contamination. These interventions focus on analyzing and optimizing the paths and routes that users take, ensuring that there are no bottlenecks or congested areas where the spread of contagious diseases can occur. By organizing and managing user flows more efficiently, the likelihood of contamination is reduced, creating a safer environment for individuals within the designated space or infrastructure.
 

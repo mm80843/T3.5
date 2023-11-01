@@ -4,19 +4,19 @@
 
 ## Category to which it belongs
 
-* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_212.md)
+* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_262.md)
 
 ## Closest similar item
 
-* [Startups](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_322.md)
-* [Startup founders](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1030.md)
-* [Startup founder](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1924.md)
-* [Entrepreneur](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1978.md)
-* [Entrepreneurs](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_417.md)
+* [Business](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_322.md)
+* [Company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1030.md)
+* [Entrepreneur](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1924.md)
+* [Entrepreneurs](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1978.md)
+* [Preprint servers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_417.md)
 * [Small business](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2022.md)
-* [Business](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2052.md)
-* [Company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1440.md)
-* [Preprint servers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1554.md)
+* [Startup founder](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2052.md)
+* [Startup founders](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1440.md)
+* [Startups](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1554.md)
 * [Venture capitalist](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2001.md)
 
 ## This Stakeholder belongs to this StakeholderGroup

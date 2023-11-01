@@ -4,6 +4,6 @@
 
 ## This return can be realized by these benefits
 
-* [Prevention of cross-contamination](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1255.md)
 * [Increased awareness and adherence](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1256.md)
+* [Prevention of cross-contamination](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1255.md)
 

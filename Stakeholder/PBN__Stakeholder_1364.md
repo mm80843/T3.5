@@ -4,20 +4,24 @@
 
 ## Category to which it belongs
 
-* [All individuals engaged in various forms of work, including employees, freelancers, laborers, and professionals.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_194.md)
+* [All individuals engaged in various forms of work, including employees, freelancers, laborers, and professionals.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_244.md)
 
 ## Closest similar item
 
-* [Job seekers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1488.md)
-* [Job-seeker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1709.md)
-* [Job seeker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1757.md)
+* [Employers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1488.md)
+* [Employment agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1709.md)
+* [Freelancers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1757.md)
 * [Hiring managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_981.md)
-* [Unemployed workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_260.md)
-* [Employers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_180.md)
-* [Unemployed individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_265.md)
-* [Workplaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_675.md)
-* [Freelancers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1784.md)
-* [Employment agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1246.md)
+* [Job seeker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_260.md)
+* [Job seekers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_180.md)
+* [Job-seeker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_265.md)
+* [Unemployed individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_675.md)
+* [Unemployed workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1784.md)
+* [Workplaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1246.md)
+
+## Risk affecting this stakeholder
+
+* [Unemployment and underemployment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2014.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -27,7 +31,7 @@
 
 * [Specific roles and job titles](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1654.md)
 
-## Risk affecting this stakeholder
+## Type of the stakeholder
 
-* [Unemployment and underemployment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2014.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

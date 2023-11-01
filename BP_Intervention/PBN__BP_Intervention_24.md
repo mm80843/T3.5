@@ -2,6 +2,15 @@
 
 # __Greenery__
 
+## Category to which it belongs
+
+* [Nature’s color palette.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_223.md)
+
+## This intervention is used in the following blueprints
+
+* [Acces to green space](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_2.md)
+* [Adapted architectural design](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_16.md)
+
 ## Property: has_BP_InterventionKey
 
 HM1
@@ -9,13 +18,4 @@ HM1
 ## Property: has_BP_InterventionTitle
 
 Greenery
-
-## Category to which it belongs
-
-* [Nature’s color palette.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_173.md)
-
-## This intervention is used in the following blueprints
-
-* [Adapted architectural design](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_2.md)
-* [Acces to green space](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_16.md)
 

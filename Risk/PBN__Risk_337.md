@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Standardizing coronavirus knowledge, the respiratory virus spreads through the built environment, work, touch, aerosols, and contaminated surfaces.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_23.md)
+* [Standardizing coronavirus knowledge, the respiratory virus spreads through the built environment, work, touch, aerosols, and contaminated surfaces.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_73.md)
 
 ## Closest similar item
 
-* [Airborne transmission of viruses](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2443.md)
-* [Airborne transmission of the virus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3063.md)
-* [Airborne transmission of respiratory particles](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3004.md)
-* [Virus transmission through aerosol](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_509.md)
-* [Airborne transmission of pathogens](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2674.md)
-* [Spread of respiratory viruses](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_71.md)
+* [Airborne transmission of disease](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2443.md)
+* [Airborne transmission of diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3063.md)
+* [Airborne transmission of pathogens](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3004.md)
+* [Airborne transmission of respiratory particles](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_509.md)
+* [Airborne transmission of the virus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2674.md)
+* [Airborne transmission of viruses](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_71.md)
 * [Inhalation of viral particles](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2542.md)
-* [Transmission of covid-19 through aerosols](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_225.md)
-* [Airborne transmission of diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2747.md)
-* [Airborne transmission of disease](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2726.md)
+* [Spread of respiratory viruses](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_225.md)
+* [Transmission of covid-19 through aerosols](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2747.md)
+* [Virus transmission through aerosol](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2726.md)
 
 ## Mitigations of this risk
 

@@ -2,9 +2,31 @@
 
 # __The psychological impact of COVID-19 on the mental health in the general population__
 
+## Benefits listed in this article
+
+* [Enhanced resilience](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_56.md)
+* [Facilitated re-adaptation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_54.md)
+* [Increased accessibility](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_55.md)
+* [Increased social support](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_57.md)
+* [Reduction of anxiety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_58.md)
+* [Reduction of fear](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_59.md)
+
 ## DOI of the article
 
 10.1093/qjmed/hcaa201
+
+## List of risks in an article
+
+* [Alexithymia](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_33.md)
+* [Aspecific and uncontrolled fears related to infection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2033.md)
+* [Disabling loneliness](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2031.md)
+* [Frustration and boredom](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2034.md)
+* [Inadequate information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2038.md)
+* [Inadequate supplies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2032.md)
+* [Pervasive anxiety](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2035.md)
+* [Psychological impact of quarantine](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2036.md)
+* [Resilience](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2037.md)
+* [Social support](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2030.md)
 
 ## Short summary of the article
 
@@ -14,6 +36,28 @@ This research abstract summarizes a review of literature on the impact of the CO
 
 During the COVID-19 pandemic, many people might feel stressed, anxious, and sad. This is because the virus has caused a lot of changes in our lives. We have to stay home and can't see our friends and family as often. Some people might even be quarantined, which means they have to stay away from others because they might have the virus. Being isolated and not being able to do our usual activities can make us feel frustrated and lonely. Some people might even develop fears about getting sick or infecting others. It's important for us to stay strong and support each other during this time.
 
+## This article mentions these technologies
+
+* [Communication channels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1188.md)
+* [Communication platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_67.md)
+* [Educational campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1447.md)
+* [Forums](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1535.md)
+* [Helplines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1536.md)
+* [Logistics systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_135.md)
+* [Mass media](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_566.md)
+* [Online platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_251.md)
+* [Psychological interventions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1538.md)
+* [Social networks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1537.md)
+* [Telehealth](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1539.md)
+
+## This article points to following mitigation
+
+* [Effective communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Protective facilities for healthcare workers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3123.md)
+* [Quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3247.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3389.md)
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4742.md)
+
 ## Title of the article
 
 The psychological impact of COVID-19 on the mental health in the general population
@@ -21,48 +65,4 @@ The psychological impact of COVID-19 on the mental health in the general populat
 ## Year of publication
 
 2020
-
-## Benefits listed in this article
-
-* [Reduction of anxiety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_54.md)
-* [Increased social support](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_55.md)
-* [Reduction of fear](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_56.md)
-* [Increased accessibility](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_57.md)
-* [Enhanced resilience](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_58.md)
-* [Facilitated re-adaptation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_59.md)
-
-## List of risks in an article
-
-* [Psychological impact of quarantine](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_33.md)
-* [Pervasive anxiety](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2031.md)
-* [Inadequate information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2035.md)
-* [Inadequate supplies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2034.md)
-* [Disabling loneliness](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2033.md)
-* [Aspecific and uncontrolled fears related to infection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2030.md)
-* [Resilience](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2037.md)
-* [Social support](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2038.md)
-* [Alexithymia](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2036.md)
-* [Frustration and boredom](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2032.md)
-
-## This article points to following mitigation
-
-* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
-* [Quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3123.md)
-* [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3247.md)
-* [Effective communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3389.md)
-* [Protective facilities for healthcare workers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4742.md)
-
-## This article mentions these technologies
-
-* [Telehealth](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1447.md)
-* [Online platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_67.md)
-* [Social networks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1535.md)
-* [Helplines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1188.md)
-* [Forums](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1536.md)
-* [Communication platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_135.md)
-* [Mass media](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1538.md)
-* [Educational campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_251.md)
-* [Logistics systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1537.md)
-* [Communication channels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_566.md)
-* [Psychological interventions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1539.md)
 

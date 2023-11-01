@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The effects of lockdown measures: exacerbated social inequalities, limited accessibility to green spaces, shifts in energy demands, work delays, adversity for startups, and mental health issues.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_11.md)
+* [The effects of lockdown measures: exacerbated social inequalities, limited accessibility to green spaces, shifts in energy demands, work delays, adversity for startups, and mental health issues.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_61.md)
 
 ## Closest similar item
 
-* [Lockdown impact on mental health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_886.md)
-* [Mental health issues](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1382.md)
-* [Social inequalities exacerbated by lockdowns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_13.md)
-* [Increased recreational activity during lockdown](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_889.md)
-* [Lockdown](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1866.md)
-* [Limited access to mental health services](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2982.md)
-* [Mental health concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1852.md)
-* [Mental health disturbances due to social distancing and home confinement](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_452.md)
-* [Increase in mental health issues](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1130.md)
-* [Mental health, social isolation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3334.md)
+* [Increase in mental health issues](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_886.md)
+* [Increased recreational activity during lockdown](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1382.md)
+* [Limited access to mental health services](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_13.md)
+* [Lockdown](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_889.md)
+* [Lockdown impact on mental health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1866.md)
+* [Mental health concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2982.md)
+* [Mental health disturbances due to social distancing and home confinement](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1852.md)
+* [Mental health issues](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_452.md)
+* [Mental health, social isolation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1130.md)
+* [Social inequalities exacerbated by lockdowns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3334.md)
 
 ## Mitigations of this risk
 

@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Rapid transmission and global impact of infectious diseases, including those spread by vectors, due to various factors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_15.md)
+* [Rapid transmission and global impact of infectious diseases, including those spread by vectors, due to various factors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_65.md)
 
 ## Closest similar item
 
-* [Spread of tick-borne diseases due to variable climate and extreme weather events](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_59.md)
-* [Spread of mosquito-borne diseases due to variable climate and extreme weather events](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_58.md)
+* [Climate change impacts on mosquito-borne diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_59.md)
+* [Emergence of mosquito-borne diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_58.md)
 * [Emergence of tick-borne diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_56.md)
-* [Mosquito-borne diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2905.md)
-* [Emergence of mosquito-borne diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_57.md)
+* [Increased occurrence of ticks and tick-borne diseases in urban locations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2905.md)
+* [Mosquito-borne diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_57.md)
 * [Spread of invasive mosquito spp](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1633.md)
-* [Tick-borne diseases in urban areas](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_65.md)
-* [Tick-borne infections](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2903.md)
-* [Increased occurrence of ticks and tick-borne diseases in urban locations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1653.md)
-* [Climate change impacts on mosquito-borne diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_758.md)
+* [Spread of mosquito-borne diseases due to variable climate and extreme weather events](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_65.md)
+* [Spread of tick-borne diseases due to variable climate and extreme weather events](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2903.md)
+* [Tick-borne diseases in urban areas](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1653.md)
+* [Tick-borne infections](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_758.md)
 
 ## Mitigations of this risk
 

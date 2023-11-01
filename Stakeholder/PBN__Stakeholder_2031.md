@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [A comprehensive array of various organizations and governing bodies related to diverse industries and sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_229.md)
+* [A comprehensive array of various organizations and governing bodies related to diverse industries and sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_279.md)
 
 ## Closest similar item
 
-* [Fund management companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1328.md)
-* [Fund managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1326.md)
-* [Fund manager](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2068.md)
-* [Asset management company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2058.md)
-* [Asset management companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1327.md)
-* [Funding organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1995.md)
-* [Money market funds](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_507.md)
-* [Financial advisor](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1951.md)
-* [Finance department](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_987.md)
-* [Equity funds](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_503.md)
+* [Asset management companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1328.md)
+* [Asset management company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1326.md)
+* [Equity funds](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2068.md)
+* [Finance department](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2058.md)
+* [Financial advisor](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1327.md)
+* [Fund management companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1995.md)
+* [Fund manager](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_507.md)
+* [Fund managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1951.md)
+* [Funding organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_987.md)
+* [Money market funds](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_503.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

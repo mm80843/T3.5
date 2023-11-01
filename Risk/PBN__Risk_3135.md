@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Interoperability challenges, high costs, limited communication, and lack of resources impact various sectors globally.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_22.md)
+* [Interoperability challenges, high costs, limited communication, and lack of resources impact various sectors globally.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_72.md)
 
 ## Closest similar item
 
-* [Ethical considerations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_163.md)
-* [Ethical concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2106.md)
-* [Legal and ethical considerations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1964.md)
-* [Lack of standardization, concerns over ethics](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2589.md)
-* [Privacy, ethics, and legal concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2568.md)
-* [Data sharing ethics, accuracy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2948.md)
-* [Legal problems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_418.md)
+* [Contractual problems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_163.md)
+* [Data sharing ethics, accuracy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2106.md)
+* [Ethical concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1964.md)
+* [Ethical considerations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2589.md)
+* [Lack of standardization, concerns over ethics](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2568.md)
+* [Legal and contractual disputes](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2948.md)
+* [Legal and ethical considerations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_418.md)
 * [Legal issues](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1568.md)
-* [Legal and contractual disputes](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1846.md)
-* [Contractual problems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_731.md)
+* [Legal problems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1846.md)
+* [Privacy, ethics, and legal concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_731.md)
 
 ## Mitigations of this risk
 

@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [A diverse collection of organizations and individuals with specific areas of expertise and jurisdiction.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_189.md)
+* [A diverse collection of organizations and individuals with specific areas of expertise and jurisdiction.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_239.md)
 
 ## Closest similar item
 
-* [Historians](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_975.md)
-* [Journalist](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1798.md)
-* [Academic](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1633.md)
-* [Academia](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_442.md)
-* [Academics](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1018.md)
-* [Journalists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1806.md)
-* [Faculty](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_134.md)
-* [Scientist](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1840.md)
+* [Academia](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_975.md)
+* [Academic](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1798.md)
+* [Academics](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1633.md)
+* [City administrators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_442.md)
+* [Faculty](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1018.md)
+* [Historians](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1806.md)
+* [Journalist](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_134.md)
+* [Journalists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1840.md)
 * [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
-* [City administrators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_718.md)
+* [Scientist](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_718.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

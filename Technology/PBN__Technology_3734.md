@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Effective water management encompasses wastewater testing, waste management, rainwater storage, wastewater treatment technology, smart water consumption, and improved infrastructure.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_131.md)
+* [Effective water management encompasses wastewater testing, waste management, rainwater storage, wastewater treatment technology, smart water consumption, and improved infrastructure.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_181.md)
 
 ## Closest similar item
 
-* [Greywater disinfection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1757.md)
-* [Graywater reuse](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1773.md)
+* [Graywater reuse](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1757.md)
+* [Greywater disinfection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1773.md)
 * [Greywater reuse](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1770.md)
-* [Water treatment systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3736.md)
+* [Improved water treatment technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3736.md)
 * [Separate pipes for greywater](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1756.md)
-* [Water treatment technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_973.md)
-* [Water treatment facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_664.md)
-* [Improved water treatment technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_996.md)
-* [Wastewater treatment systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3361.md)
-* [Wastewater treatment plants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1351.md)
+* [Wastewater treatment plants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_973.md)
+* [Wastewater treatment systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_664.md)
+* [Water treatment facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_996.md)
+* [Water treatment systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3361.md)
+* [Water treatment technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1351.md)
 
 ## This Technology enables the following mitigations
 

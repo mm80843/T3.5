@@ -4,32 +4,32 @@
 
 ## Category to which it belongs
 
-* [The utilization of mobile apps, iot, wearable devices, and advanced technologies for contact tracing, monitoring, and tracking in healthcare and smart city solutions.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_83.md)
+* [The utilization of mobile apps, iot, wearable devices, and advanced technologies for contact tracing, monitoring, and tracking in healthcare and smart city solutions.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_133.md)
 
 ## Closest similar item
 
-* [Development of next-generation wearable devices with sufficient reliability and robustness](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1423.md)
-* [Wearable devices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3258.md)
-* [Develop wearable devices that are biocompatible, energy efficient, compliant, and compact without compromising performance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1559.md)
-* [Wearable technology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_498.md)
+* [Develop device-agnostic adms that can be applied to various types of wearable technology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1423.md)
+* [Develop wearable devices that are biocompatible, energy efficient, compliant, and compact without compromising performance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3258.md)
+* [Development of next-generation wearable devices with sufficient reliability and robustness](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1559.md)
+* [Development of wearable technology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_498.md)
 * [Emerging low-cost wearable sensors](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3261.md)
 * [Regular calibration and verification of wearable devices.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1679.md)
 * [Safety wearables and carry-ons](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3376.md)
-* [Development of wearable technology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_934.md)
-* [Wearable technology placement](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3467.md)
-* [Develop device-agnostic adms that can be applied to various types of wearable technology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1716.md)
+* [Wearable devices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_934.md)
+* [Wearable technology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3467.md)
+* [Wearable technology placement](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1716.md)
+
+## Risks possibly mitigated by this Mitigation
+
+
+## This Mitigation is enabled by the following technologies
+
 
 ## Property: has_MitigationPrinciple
 
 Ensuring wearable devices are biocompatible, energy efficient, compliant, and compact without compromising performance
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationSource
 
 * [Wearable devices for the detection of COVID-19](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_296.md)
-
-## This Mitigation is enabled by the following technologies
-
 

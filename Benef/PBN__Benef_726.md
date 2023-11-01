@@ -2,23 +2,27 @@
 
 # __Incentives to the local economy through digital means__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Virtual platforms and tax incentives promote local economy and entrepreneurship
+* [Smart cities and the pandemic: digital technologies on the urban management of Brazilian cities](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_143.md)
+
+## Category to which it belongs
+
+* [Promoting fairness and prosperity amidst a changing world by creating opportunities, reducing poverty, and maintaining stability.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_15.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Support local businesses and stimulate economic recovery](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_782.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [Smart cities and the pandemic: digital technologies on the urban management of Brazilian cities](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_143.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [Local businesses](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_300.md)
+Virtual platforms and tax incentives promote local economy and entrepreneurship
 
 ## Risks which can benefit from this action
 
 * [Digital tools](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_722.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [Local businesses](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_300.md)
 

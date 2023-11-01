@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Innovations and applications in chemistry, materials, and technology for purification, disinfection, and environmental protection.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_146.md)
+* [Innovations and applications in chemistry, materials, and technology for purification, disinfection, and environmental protection.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_196.md)
 
 ## Closest similar item
 
-* [Photocatalytic oxidation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1742.md)
-* [Photocatalytic oxidation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2234.md)
-* [Photocatalyst tio2](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2501.md)
-* [Photocatalytic paints](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2665.md)
-* [Photocatalysts such as tio2](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3154.md)
-* [Air filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1109.md)
-* [Electrochemical reactions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2472.md)
-* [Uv air purification systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2153.md)
-* [Activated carbon filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2855.md)
-* [Affordable filter materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2020.md)
+* [Activated carbon filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1742.md)
+* [Affordable filter materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2234.md)
+* [Air filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2501.md)
+* [Electrochemical reactions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2665.md)
+* [Photocatalyst tio2](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3154.md)
+* [Photocatalysts such as tio2](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1109.md)
+* [Photocatalytic oxidation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2472.md)
+* [Photocatalytic oxidation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2153.md)
+* [Photocatalytic paints](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2855.md)
+* [Uv air purification systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2020.md)
 
 ## This Technology enables the following mitigations
 

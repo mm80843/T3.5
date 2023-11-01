@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Challenges in connectivity, resources, funding, expertise, data, and infrastructure result in limited access and inequalities in various areas.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_18.md)
+* [Challenges in connectivity, resources, funding, expertise, data, and infrastructure result in limited access and inequalities in various areas.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_68.md)
 
 ## Closest similar item
 
 * [Difficult access to existing knowledge](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2575.md)
-* [Limited resources and expertise](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3329.md)
-* [Lack of access to best practices and knowledge](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2765.md)
-* [Expertise](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1099.md)
-* [Limited access to training](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3060.md)
-* [Lack of access to accurate information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1811.md)
-* [Technical expertise](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1776.md)
-* [Lack of knowledge](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2615.md)
-* [Lack of expertise](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2440.md)
-* [Knowledge gap](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3095.md)
+* [Expertise](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3329.md)
+* [Knowledge gap](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2765.md)
+* [Lack of access to accurate information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1099.md)
+* [Lack of access to best practices and knowledge](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3060.md)
+* [Lack of expertise](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1811.md)
+* [Lack of knowledge](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1776.md)
+* [Limited access to training](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2615.md)
+* [Limited resources and expertise](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2440.md)
+* [Technical expertise](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3095.md)
 
 ## Mitigations of this risk
 

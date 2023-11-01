@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Digital platforms facilitate virtual collaboration, communication, information sharing, and online transactions among individuals and communities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_100.md)
+* [Digital platforms facilitate virtual collaboration, communication, information sharing, and online transactions among individuals and communities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_150.md)
 
 ## Closest similar item
 
-* [Integrated platform models](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3170.md)
-* [Collaboration platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_155.md)
-* [Collaboration platforms for information sharing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1893.md)
-* [Collaborative platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1130.md)
-* [Information sharing platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1896.md)
-* [Cooperative frameworks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3681.md)
-* [Data collection and sharing systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_939.md)
+* [Collaboration platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3170.md)
+* [Collaboration platforms for information sharing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_155.md)
+* [Collaborative platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1893.md)
+* [Cooperative frameworks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1130.md)
+* [Data collection and sharing systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1896.md)
+* [Data sharing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3681.md)
+* [Data sharing and validation platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_939.md)
 * [Data sharing platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_152.md)
-* [Data sharing and validation platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2198.md)
-* [Data sharing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3007.md)
+* [Information sharing platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2198.md)
+* [Integrated platform models](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3007.md)
 
 ## This Technology enables the following mitigations
 

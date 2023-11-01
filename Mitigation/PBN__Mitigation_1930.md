@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Ensure safety and protection through the implementation of protocols, equipment distribution, and preventive measures in various settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_98.md)
+* [Ensure safety and protection through the implementation of protocols, equipment distribution, and preventive measures in various settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_148.md)
 
 ## Closest similar item
 
 * [Adherence to physical distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5225.md)
-* [Implementing physical distancing procedures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1062.md)
-* [Implement measures to enforce physical distancing.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2459.md)
-* [Physical distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3284.md)
-* [Enforce strict physical distancing measures and educate people on the importance of maintaining distance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2925.md)
-* [Design for physical distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4229.md)
-* [Use of personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1095.md)
-* [Safe distancing measures in offices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3887.md)
-* [Implementing personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_938.md)
-* [Physical distancing measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_536.md)
+* [Design for physical distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1062.md)
+* [Enforce strict physical distancing measures and educate people on the importance of maintaining distance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2459.md)
+* [Implement measures to enforce physical distancing.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3284.md)
+* [Implementing personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2925.md)
+* [Implementing physical distancing procedures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4229.md)
+* [Physical distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1095.md)
+* [Physical distancing measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3887.md)
+* [Safe distancing measures in offices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_938.md)
+* [Use of personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_536.md)
 
 ## Risks possibly mitigated by this Mitigation
 

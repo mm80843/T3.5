@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Innovations and applications in chemistry, materials, and technology for purification, disinfection, and environmental protection.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_146.md)
+* [Innovations and applications in chemistry, materials, and technology for purification, disinfection, and environmental protection.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_196.md)
 
 ## Closest similar item
 
-* [Polyurethane](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2494.md)
-* [Polycarbonate](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_478.md)
-* [Additive manufacturing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2010.md)
-* [Advanced materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_180.md)
-* [Polyethylene glycol mw 8000](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2877.md)
-* [Suitable materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2657.md)
-* [Molecular technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3738.md)
-* [3d printing technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3881.md)
-* [Natural materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3390.md)
-* [Benzalkonium chloride](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2939.md)
+* [3d printing technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2494.md)
+* [Additive manufacturing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_478.md)
+* [Advanced materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2010.md)
+* [Benzalkonium chloride](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_180.md)
+* [Molecular technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2877.md)
+* [Natural materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2657.md)
+* [Polycarbonate](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3738.md)
+* [Polyethylene glycol mw 8000](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3881.md)
+* [Polyurethane](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3390.md)
+* [Suitable materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2939.md)
 
 ## This Technology enables the following mitigations
 

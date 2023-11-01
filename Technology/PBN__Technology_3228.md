@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Innovations and applications in chemistry, materials, and technology for purification, disinfection, and environmental protection.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_146.md)
+* [Innovations and applications in chemistry, materials, and technology for purification, disinfection, and environmental protection.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_196.md)
 
 ## Closest similar item
 
-* [Silver nanoparticles](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3157.md)
+* [Antimicrobial coating](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3157.md)
 * [Atomized silver nanoparticles](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2505.md)
-* [Surface coatings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_791.md)
-* [Titanium-based coatings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3229.md)
+* [Carbon-based coatings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_791.md)
+* [Cold-spray technique to deposit copper coatings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3229.md)
 * [Copper alloy coatings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3227.md)
 * [Safe coating materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_266.md)
-* [Cold-spray technique to deposit copper coatings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_760.md)
-* [Scalable production techniques for graphene coatings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_216.md)
-* [Carbon-based coatings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3230.md)
-* [Antimicrobial coating](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2870.md)
+* [Scalable production techniques for graphene coatings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_760.md)
+* [Silver nanoparticles](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_216.md)
+* [Surface coatings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3230.md)
+* [Titanium-based coatings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2870.md)
 
 ## This Technology enables the following mitigations
 

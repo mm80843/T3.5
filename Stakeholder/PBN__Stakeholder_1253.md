@@ -4,20 +4,24 @@
 
 ## Category to which it belongs
 
-* [The wide-ranging sectors and industries, from the private sector to energy and manufacturing, that drive global economies and the interconnectedness of businesses and industries worldwide.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_206.md)
+* [The wide-ranging sectors and industries, from the private sector to energy and manufacturing, that drive global economies and the interconnectedness of businesses and industries worldwide.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_256.md)
 
 ## Closest similar item
 
-* [Country facing food insecurity](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2391.md)
-* [Food security](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2369.md)
-* [Countries heavily reliant on specific suppliers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1239.md)
-* [Food industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_237.md)
-* [Country heavily reliant on specific supplier](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2373.md)
-* [Food producers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2046.md)
-* [Developing countries](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_223.md)
-* [Food establishment](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2010.md)
-* [Food producer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2038.md)
-* [Food retailers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1252.md)
+* [Countries heavily reliant on specific suppliers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2391.md)
+* [Country facing food insecurity](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2369.md)
+* [Country heavily reliant on specific supplier](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1239.md)
+* [Developing countries](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_237.md)
+* [Food establishment](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2373.md)
+* [Food industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2046.md)
+* [Food producer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_223.md)
+* [Food producers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2010.md)
+* [Food retailers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2038.md)
+* [Food security](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1252.md)
+
+## Risk affecting this stakeholder
+
+* [Food supply disruptions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1839.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -27,7 +31,7 @@
 
 * [Food security](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2369.md)
 
-## Risk affecting this stakeholder
+## Type of the stakeholder
 
-* [Food supply disruptions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1839.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

@@ -2,42 +2,34 @@
 
 # __Insufficient sanitation__
 
+## Articles mentionning the risk
+
+* [Houses amid COVID-19: Environmental challenges and design adaptation](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_277.md)
+
 ## Category to which it belongs
 
-* [Limited access to safe water, sanitation, and hygiene facilities, leading to insufficient cleanliness and inadequate cleaning practices in unhygienic environments.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_36.md)
+* [Limited access to safe water, sanitation, and hygiene facilities, leading to insufficient cleanliness and inadequate cleaning practices in unhygienic environments.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_86.md)
 
 ## Closest similar item
 
 * [Inadequate sanitation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1391.md)
-* [Inadequate sanitation facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1408.md)
-* [Lack of proper sanitation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2695.md)
-* [Inadequate sanitation and hygiene facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1667.md)
-* [Inadequate sanitation and hygiene](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1432.md)
-* [Lack of sanitation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3205.md)
+* [Inadequate sanitation and hygiene](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1408.md)
+* [Inadequate sanitation and hygiene facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2695.md)
+* [Inadequate sanitation and hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1667.md)
+* [Inadequate sanitation facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1432.md)
+* [Inadequate water and sanitation facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3205.md)
 * [Lack of proper cleaning and sanitation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1923.md)
-* [Poor sanitation conditions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3146.md)
-* [Inadequate sanitation and hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1156.md)
-* [Inadequate water and sanitation facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1297.md)
+* [Lack of proper sanitation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3146.md)
+* [Lack of sanitation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1156.md)
+* [Poor sanitation conditions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1297.md)
 
 ## Description of the risk
 
 Inadequate hygiene practices and poor sanitation facilities
 
-## Type of the risk
-
-* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Is the risk affecting GBN scales
 
 * [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
-
-## Type of impact of the risk (according to ISO37100)
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
-
-## Type of purpose of the risk (according to ISO37100)
-
-* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_1.md)
 
 ## Mitigations of this risk
 
@@ -47,25 +39,33 @@ Inadequate hygiene practices and poor sanitation facilities
 
 Increased risk of contamination and spread of diseases
 
-## Stakeholders who can mitigate this risk
-
-* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
-* [Local authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_623.md)
-* [Property owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_177.md)
-
-## Articles mentionning the risk
-
-* [Houses amid COVID-19: Environmental challenges and design adaptation](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_277.md)
-
 ## People affected by this risk
 
-* [Residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_59.md)
-* [Public venues](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_939.md)
+* [Public venues](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_59.md)
+* [Residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_939.md)
+
+## Stakeholders who can mitigate this risk
+
+* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_623.md)
+* [Local authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
+* [Property owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_177.md)
 
 ## Technologies linked to the risk
 
 * [Sanitization devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_718.md)
 * [Touchless fixtures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_719.md)
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_1.md)
+
+## Type of the risk
+
+* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 

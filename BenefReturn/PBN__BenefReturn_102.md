@@ -5,6 +5,6 @@
 ## This return can be realized by these benefits
 
 * [Continued social interactions](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_104.md)
-* [Reduced anxiety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_766.md)
-* [Reduced stress](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_767.md)
+* [Reduced anxiety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_767.md)
+* [Reduced stress](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_766.md)
 

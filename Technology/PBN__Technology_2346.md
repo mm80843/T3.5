@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Innovative technologies and systems that enable efficient and secure control, management, and interaction in various domains.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_109.md)
+* [Innovative technologies and systems that enable efficient and secure control, management, and interaction in various domains.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_159.md)
 
 ## Closest similar item
 
-* [Wearable electronic devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2408.md)
-* [Technology devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2965.md)
-* [User-friendly interfaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1586.md)
-* [Computers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3464.md)
-* [Simplified user interfaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1383.md)
-* [Wearable technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1233.md)
-* [Technological tracking device](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2766.md)
+* [Automated devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2408.md)
+* [Computers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2965.md)
+* [Digital devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1586.md)
+* [Simplified user interfaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3464.md)
+* [Technological tracking device](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1383.md)
+* [Technology devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1233.md)
+* [User-friendly interfaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2766.md)
 * [Wearable devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2579.md)
-* [Digital devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_571.md)
-* [Automated devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3318.md)
+* [Wearable electronic devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_571.md)
+* [Wearable technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3318.md)
 
 ## This Technology enables the following mitigations
 

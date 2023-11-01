@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Improved indoor air quality and temperature control through advanced hvac technologies, air purifiers, and monitoring systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_129.md)
+* [Improved indoor air quality and temperature control through advanced hvac technologies, air purifiers, and monitoring systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_179.md)
 
 ## Closest similar item
 
-* [Increased outside air fractions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_500.md)
+* [Adequate airflow](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_500.md)
 * [Air distribution evaluation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3578.md)
-* [Airflow](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1116.md)
-* [Adequate airflow](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2450.md)
-* [Separate air cycles](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3556.md)
-* [Indoor air technlogies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2292.md)
-* [Improved airflow](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2892.md)
-* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2238.md)
-* [Air exhaustion](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3621.md)
-* [Air sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3894.md)
+* [Air exhaustion](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1116.md)
+* [Air sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2450.md)
+* [Airflow](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3556.md)
+* [Improved airflow](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2292.md)
+* [Increased outside air fractions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2892.md)
+* [Indoor air technlogies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2238.md)
+* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3621.md)
+* [Separate air cycles](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3894.md)
 
 ## This Technology enables the following mitigations
 

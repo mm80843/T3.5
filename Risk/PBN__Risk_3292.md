@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The challenges of water pollution, inadequate wastewater management, and poor waste disposal require urgent attention for environmental sustainability.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_9.md)
+* [The challenges of water pollution, inadequate wastewater management, and poor waste disposal require urgent attention for environmental sustainability.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_59.md)
 
 ## Closest similar item
 
-* [Water demand](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_716.md)
-* [Water supply disruption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3291.md)
-* [Increased water consumption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3337.md)
-* [Drinking water treatment and distribution](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1892.md)
-* [Water consumption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3297.md)
-* [Water and wastewater management](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_574.md)
-* [Water quality and availability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_612.md)
-* [Water](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_281.md)
+* [Drinking water treatment and distribution](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_716.md)
+* [Increased water consumption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3291.md)
+* [Water](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3337.md)
+* [Water and sanitation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1892.md)
+* [Water and wastewater management](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3297.md)
+* [Water consumption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_574.md)
+* [Water demand](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_612.md)
+* [Water quality and availability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_281.md)
 * [Water safety](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3335.md)
-* [Water and sanitation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2013.md)
+* [Water supply disruption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2013.md)
 
 ## Mitigations of this risk
 

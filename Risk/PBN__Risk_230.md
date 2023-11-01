@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The construction industry faces challenges in occupant exposure, pandemic preparedness, information-based management, off-site construction, building systems, and financial crisis.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_7.md)
+* [The construction industry faces challenges in occupant exposure, pandemic preparedness, information-based management, off-site construction, building systems, and financial crisis.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_57.md)
 
 ## Closest similar item
 
-* [Inadequate pandemic preparedness](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_700.md)
-* [Lack of comprehensive pandemic preparedness and response planning](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1026.md)
-* [Environmental impacts of construction during pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1550.md)
-* [Limited focus on pandemic preparedness in urban planning](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2422.md)
-* [Inadequate crisis preparedness](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1937.md)
-* [Lack of preparedness for pandemics](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1572.md)
-* [Pandemic containment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_706.md)
-* [Inadequate global preparedness for pandemics](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_726.md)
-* [Inadequate emergency preparedness](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1689.md)
-* [Insufficient preparedness for outbreaks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_468.md)
+* [Environmental impacts of construction during pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_700.md)
+* [Inadequate crisis preparedness](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1026.md)
+* [Inadequate emergency preparedness](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1550.md)
+* [Inadequate global preparedness for pandemics](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2422.md)
+* [Inadequate pandemic preparedness](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1937.md)
+* [Insufficient preparedness for outbreaks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1572.md)
+* [Lack of comprehensive pandemic preparedness and response planning](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_706.md)
+* [Lack of preparedness for pandemics](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_726.md)
+* [Limited focus on pandemic preparedness in urban planning](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1689.md)
+* [Pandemic containment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_468.md)
 
 ## Mitigations of this risk
 

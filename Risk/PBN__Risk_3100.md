@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The impact of various factors on public health, including unhealthy behaviors, limited access to healthcare, and food insecurity.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_3.md)
+* [The impact of various factors on public health, including unhealthy behaviors, limited access to healthcare, and food insecurity.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_53.md)
 
 ## Closest similar item
 
-* [Poor health conditions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1057.md)
-* [Existing poor health conditions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_854.md)
+* [Existing poor health conditions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1057.md)
+* [Health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_854.md)
 * [Iap, poor health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3193.md)
 * [Inadequate health-oriented features](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2699.md)
 * [Inadequate healthcare response](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_515.md)
 * [Inadequate public health systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2240.md)
-* [Health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2211.md)
-* [Lack of effective treatment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1849.md)
+* [Lack of effective treatment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2211.md)
+* [Lack of occupant awareness and behavior](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1849.md)
 * [Occupant behavior](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1469.md)
-* [Lack of occupant awareness and behavior](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1404.md)
+* [Poor health conditions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1404.md)
 
 ## Mitigations of this risk
 

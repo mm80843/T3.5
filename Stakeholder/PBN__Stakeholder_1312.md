@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Underprivileged individuals and marginalized communities lacking social connections and facing stigmatization, requiring support from advocacy and community organizations promoting equality and inclusion.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_234.md)
+* [Underprivileged individuals and marginalized communities lacking social connections and facing stigmatization, requiring support from advocacy and community organizations promoting equality and inclusion.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_284.md)
 
 ## Closest similar item
 
-* [Community group](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2450.md)
-* [Community groups/organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2414.md)
-* [Social groups](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_638.md)
-* [Community organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2438.md)
-* [Community](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_313.md)
-* [Communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_4.md)
-* [Community members](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_155.md)
-* [Social group](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2428.md)
-* [Community organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_150.md)
-* [Community association](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2420.md)
+* [Communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2450.md)
+* [Community](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2414.md)
+* [Community association](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_638.md)
+* [Community group](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2438.md)
+* [Community groups/organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_313.md)
+* [Community members](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_4.md)
+* [Community organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_155.md)
+* [Community organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2428.md)
+* [Social group](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_150.md)
+* [Social groups](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2420.md)
 
 ## Risks that can be mitigated by this stakeholder
 
@@ -30,4 +30,8 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Community groups/organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2414.md)
+
+## Type of the stakeholder
+
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
 

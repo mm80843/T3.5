@@ -4,13 +4,13 @@
 
 ## List of risks in an article
 
-* [Security and privacy concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2059.md)
-* [Data management issues](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2061.md)
+* [Data management issues](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2059.md)
+* [Security and privacy concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2061.md)
 
 ## This article mentions these technologies
 
-* [Cloud computing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1230.md)
-* [Data nan nan warehousing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1571.md)
-* [Encryption and authentication nan technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1568.md)
-* [Big data analytics nan platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1570.md)
+* [Big data analytics nan platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1230.md)
+* [Cloud computing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1571.md)
+* [Data nan nan warehousing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1568.md)
+* [Encryption and authentication nan technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1570.md)
 

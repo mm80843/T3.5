@@ -4,20 +4,24 @@
 
 ## Category to which it belongs
 
-* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_212.md)
+* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_262.md)
 
 ## Closest similar item
 
-* [Hospitals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_64.md)
-* [Public hospitals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1379.md)
-* [Medical facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_187.md)
-* [Healthcare facilities and patients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_225.md)
-* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_33.md)
-* [Patients in healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1165.md)
-* [Such a hospital](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1770.md)
-* [Hospital](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1469.md)
-* [Medical centers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1088.md)
-* [Healthcare professionals in healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_999.md)
+* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_64.md)
+* [Healthcare facilities and patients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1379.md)
+* [Healthcare professionals in healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_187.md)
+* [Hospital](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_225.md)
+* [Hospitals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_33.md)
+* [Medical centers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1165.md)
+* [Medical facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1770.md)
+* [Patients in healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1469.md)
+* [Public hospitals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1088.md)
+* [Such a hospital](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_999.md)
+
+## Risk affecting this stakeholder
+
+* [Lack of proper environmental controls](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1135.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -27,7 +31,7 @@
 
 * [Companies and institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1658.md)
 
-## Risk affecting this stakeholder
+## Type of the stakeholder
 
-* [Lack of proper environmental controls](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1135.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

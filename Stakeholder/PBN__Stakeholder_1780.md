@@ -4,18 +4,18 @@
 
 ## Category to which it belongs
 
-* [Entities involved in managing occupants, waste, water, and cleaning services within facilities and communities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_237.md)
+* [Entities involved in managing occupants, waste, water, and cleaning services within facilities and communities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_287.md)
 
 ## Closest similar item
 
-* [Cleaning services](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_536.md)
-* [Cleaning company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1746.md)
-* [Cleaning service providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1589.md)
-* [Cleaning service provider](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1775.md)
-* [Cleaning companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1205.md)
-* [Cleaning personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1574.md)
-* [Cleaning staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_654.md)
-* [Cleaning and maintenance staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_756.md)
+* [Cleaning and maintenance staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_536.md)
+* [Cleaning companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1746.md)
+* [Cleaning company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1589.md)
+* [Cleaning personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1775.md)
+* [Cleaning service provider](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1205.md)
+* [Cleaning service providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1574.md)
+* [Cleaning services](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_654.md)
+* [Cleaning staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_756.md)
 * [Sanitation agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1086.md)
 * [Service worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1739.md)
 

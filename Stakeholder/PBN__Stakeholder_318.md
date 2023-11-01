@@ -2,24 +2,28 @@
 
 # __Eu__
 
+## Category to which it belongs
+
+* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_262.md)
+
+## Closest similar item
+
+* [Ec](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1016.md)
+* [European](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_361.md)
+* [European commission](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1461.md)
+* [European union](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_316.md)
+* [International organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_319.md)
+* [International traveler](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_242.md)
+* [National](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_363.md)
+* [National authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2470.md)
+* [Teams](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_360.md)
+* [Third countries](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2356.md)
+
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Influencing global green transition](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_780.md)
 
-## Category to which it belongs
+## Type of the stakeholder
 
-* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_212.md)
-
-## Closest similar item
-
-* [European union](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1016.md)
-* [European](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_361.md)
-* [European commission](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1461.md)
-* [Ec](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_316.md)
-* [Third countries](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_319.md)
-* [International organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_242.md)
-* [Teams](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_363.md)
-* [International traveler](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2470.md)
-* [National](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_360.md)
-* [National authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2356.md)
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_0.md)
 

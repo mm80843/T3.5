@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The interconnectedness of global economics has led to financial instability, unemployment, poverty, and decreased investment in certain sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_12.md)
+* [The interconnectedness of global economics has led to financial instability, unemployment, poverty, and decreased investment in certain sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_62.md)
 
 ## Closest similar item
 
 * [Economic inequality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2462.md)
-* [Social inequalities and income disparities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_487.md)
-* [Socioeconomic inequality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2318.md)
+* [Gender inequalities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_487.md)
+* [Increased poverty and inequality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2318.md)
 * [Inequalities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1333.md)
-* [Increased poverty and inequality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2865.md)
-* [Social inequality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_858.md)
+* [Inequality gap widening](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2865.md)
+* [Inequality in education access](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_858.md)
 * [Social inequalities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1912.md)
-* [Gender inequalities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_449.md)
-* [Inequality in education access](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2864.md)
-* [Inequality gap widening](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1429.md)
+* [Social inequalities and income disparities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_449.md)
+* [Social inequality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2864.md)
+* [Socioeconomic inequality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1429.md)
 
 ## Mitigations of this risk
 

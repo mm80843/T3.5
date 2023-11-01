@@ -8,8 +8,8 @@
 
 ## Referenced by other articles
 
-* [The impact of the COVID-19 pandemic on the importance of urban green spaces to the public](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_203.md)
-* [Effects of the COVID-19 pandemic on the use and perceptions of urban green space: An international exploratory study](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_90.md)
+* [Effects of the COVID-19 pandemic on the use and perceptions of urban green space: An international exploratory study](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_203.md)
+* [The impact of the COVID-19 pandemic on the importance of urban green spaces to the public](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_90.md)
 
 ## Title of the article
 

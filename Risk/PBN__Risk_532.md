@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The toll of the pandemic includes harm to mental health, increased domestic violence, and psychological distress, highlighting the need for support and resources.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_2.md)
+* [The toll of the pandemic includes harm to mental health, increased domestic violence, and psychological distress, highlighting the need for support and resources.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_52.md)
 
 ## Closest similar item
 
-* [Mental health issues](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1382.md)
-* [Psychological impact and mental health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1749.md)
+* [Emotional distress and psychiatric illness](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1382.md)
+* [Emotional stress](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1749.md)
 * [Mental health concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1852.md)
-* [Psychological distress](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2067.md)
-* [Stress and mental fatigue](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2451.md)
-* [Emotional distress and psychiatric illness](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1873.md)
-* [Mental stress and fatigue](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2774.md)
-* [Psychological distress in general population](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_895.md)
-* [Emotional stress](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3274.md)
-* [Psychological problems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1458.md)
+* [Mental health issues](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2067.md)
+* [Mental stress and fatigue](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2451.md)
+* [Psychological distress](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1873.md)
+* [Psychological distress in general population](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2774.md)
+* [Psychological impact and mental health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_895.md)
+* [Psychological problems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3274.md)
+* [Stress and mental fatigue](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1458.md)
 
 ## Mitigations of this risk
 

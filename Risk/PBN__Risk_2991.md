@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The spread of diseases through various means such as air, contact, surfaces, and bodily fluids.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_45.md)
+* [The spread of diseases through various means such as air, contact, surfaces, and bodily fluids.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_95.md)
 
 ## Closest similar item
 
 * [Airborne transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_252.md)
 * [Airborne transmission in the built environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1322.md)
-* [Direct transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1541.md)
-* [Airborne transmission via aerosols](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_799.md)
-* [Transmission through airborne aerosols](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1787.md)
-* [Transmission via aerosols](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1274.md)
-* [Direct and indirect contact transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1275.md)
-* [Direct contact transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2613.md)
-* [Transmission through aerosols](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1368.md)
-* [Increased risk of airborne transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2922.md)
+* [Airborne transmission via aerosols](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1541.md)
+* [Direct and indirect contact transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_799.md)
+* [Direct contact transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1787.md)
+* [Direct transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1274.md)
+* [Increased risk of airborne transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1275.md)
+* [Transmission through aerosols](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2613.md)
+* [Transmission through airborne aerosols](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1368.md)
+* [Transmission via aerosols](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2922.md)
 
 ## Mitigations of this risk
 

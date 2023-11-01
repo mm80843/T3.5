@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_119.md)
+* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_169.md)
 
 ## Closest similar item
 
-* [Advocacy campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_442.md)
-* [Community mobilization](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_77.md)
-* [Legal advocacy](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_159.md)
-* [Community mobilization efforts](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2352.md)
-* [Community initiatives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2307.md)
-* [Policy advocacy](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_451.md)
-* [Outreach campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1204.md)
-* [Advocacy and lobbying efforts](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2085.md)
-* [Community outreach](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1487.md)
-* [Community engagement](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_51.md)
+* [Advocacy and lobbying efforts](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_442.md)
+* [Advocacy campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_77.md)
+* [Community engagement](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_159.md)
+* [Community initiatives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2352.md)
+* [Community mobilization](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2307.md)
+* [Community mobilization efforts](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_451.md)
+* [Community outreach](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1204.md)
+* [Legal advocacy](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2085.md)
+* [Outreach campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1487.md)
+* [Policy advocacy](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_51.md)
 
 ## This Technology enables the following mitigations
 

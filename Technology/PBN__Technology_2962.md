@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Innovations and applications in chemistry, materials, and technology for purification, disinfection, and environmental protection.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_146.md)
+* [Innovations and applications in chemistry, materials, and technology for purification, disinfection, and environmental protection.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_196.md)
 
 ## Closest similar item
 
-* [Carbon accounting systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2720.md)
-* [Reduction of carbon emissions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1236.md)
-* [Carbon reduction technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3468.md)
-* [Low-carbon technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3552.md)
-* [Activated carbon](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1889.md)
-* [Activated carbon filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2855.md)
-* [Co2 concentration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3620.md)
-* [Reduced fossil fuel use](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2997.md)
-* [Carbon-based coatings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3230.md)
-* [Environmental policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2718.md)
+* [Activated carbon](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2720.md)
+* [Activated carbon filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1236.md)
+* [Carbon accounting systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3468.md)
+* [Carbon reduction technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3552.md)
+* [Carbon-based coatings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1889.md)
+* [Co2 concentration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2855.md)
+* [Environmental policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3620.md)
+* [Low-carbon technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2997.md)
+* [Reduced fossil fuel use](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3230.md)
+* [Reduction of carbon emissions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2718.md)
 
 ## This Technology enables the following mitigations
 

@@ -4,30 +4,30 @@
 
 ## Category to which it belongs
 
-* [Innovations and applications in chemistry, materials, and technology for purification, disinfection, and environmental protection.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_146.md)
+* [Innovations and applications in chemistry, materials, and technology for purification, disinfection, and environmental protection.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_196.md)
 
 ## Closest similar item
 
 * [Activated carbon filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2855.md)
-* [Carbon reduction technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3468.md)
-* [Low-carbon technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3552.md)
+* [Air cleaner](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3468.md)
+* [Carbon accounting systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3552.md)
 * [Carbon allowances](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2962.md)
-* [Reduction of carbon emissions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1236.md)
+* [Carbon reduction technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1236.md)
 * [Carbon-based coatings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3230.md)
-* [Polycarbonate](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_478.md)
-* [Carbon accounting systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2720.md)
-* [Air cleaner](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2797.md)
-* [Co2 concentration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3620.md)
+* [Co2 concentration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_478.md)
+* [Low-carbon technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2720.md)
+* [Polycarbonate](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2797.md)
+* [Reduction of carbon emissions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3620.md)
 
-## This technology is mentioned by
+## Risks linked to this technology
 
-* [Characterization and performance evaluation of a full-scale activated carbon-based dynamic botanical air filtration system for improving indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_71.md)
+* [Inefficient voc removal by plants](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2280.md)
 
 ## This Technology enables the following mitigations
 
 * [Dynamic botanical air filtration system](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5115.md)
 
-## Risks linked to this technology
+## This technology is mentioned by
 
-* [Inefficient voc removal by plants](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2280.md)
+* [Characterization and performance evaluation of a full-scale activated carbon-based dynamic botanical air filtration system for improving indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_71.md)
 

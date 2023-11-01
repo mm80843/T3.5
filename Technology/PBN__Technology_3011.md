@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Efficiently collect, analyze, and share anonymized data using a variety of tools, platforms, and systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_126.md)
+* [Efficiently collect, analyze, and share anonymized data using a variety of tools, platforms, and systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_176.md)
 
 ## Closest similar item
 
-* [Data integration technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2926.md)
+* [Data integration and exchange platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2926.md)
 * [Data integration platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_114.md)
-* [Data management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_512.md)
+* [Data integration technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_512.md)
 * [Data integration tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1897.md)
-* [Data integration and exchange platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1122.md)
-* [Data management and communication systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2060.md)
-* [Digital integration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3784.md)
-* [Data management techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_158.md)
-* [Integrated healthcare systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3447.md)
-* [Digital data collection systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_40.md)
+* [Data management and communication systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1122.md)
+* [Data management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2060.md)
+* [Data management techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3784.md)
+* [Digital data collection systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_158.md)
+* [Digital integration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3447.md)
+* [Integrated healthcare systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_40.md)
 
 ## This Technology enables the following mitigations
 

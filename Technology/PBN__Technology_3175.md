@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Improved and diversified communication channels through digital integration, telecommunication technology, and network infrastructure.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_105.md)
+* [Improved and diversified communication channels through digital integration, telecommunication technology, and network infrastructure.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_155.md)
 
 ## Closest similar item
 
-* [Telecommunication technology internet](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3178.md)
-* [Communication technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_544.md)
-* [Communication technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_5.md)
-* [Information communication technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3870.md)
-* [Information and communication technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2310.md)
+* [Communication technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3178.md)
+* [Communication technologies and channels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_544.md)
+* [Communication technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_5.md)
+* [Information and communication technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3870.md)
+* [Information communication technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2310.md)
 * [Internet-based communication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_23.md)
-* [Telecommunication technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2456.md)
+* [Remote communication technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2456.md)
 * [Telecommunication technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3457.md)
-* [Communication technologies and channels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2066.md)
-* [Remote communication technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3254.md)
+* [Telecommunication technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2066.md)
+* [Telecommunication technology internet](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3254.md)
 
 ## This Technology enables the following mitigations
 

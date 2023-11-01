@@ -2,24 +2,28 @@
 
 # __Multi-function spaces__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Allows for flexible use of building spaces according to changing circumstances and needs
+* [Building Transformation for Precautionary Measures against COVID-19 Pandemic: Case of Off-Street Car Parking of Campuses](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_224.md)
+
+## Category to which it belongs
+
+* [Enhanced connectivity and collaboration fostered by flexible customization and enriched knowledge, communication, coordination, and cooperation.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_42.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Increased building occupancy, potential for additional revenue from different uses](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_1197.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [Building Transformation for Precautionary Measures against COVID-19 Pandemic: Case of Off-Street Car Parking of Campuses](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_224.md)
+Allows for flexible use of building spaces according to changing circumstances and needs
+
+## Risks which can benefit from this action
+
+* [Transformation design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1079.md)
 
 ## Stakeholders benefitting from this Benefit
 
 * [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
 * [Users](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_430.md)
-
-## Risks which can benefit from this action
-
-* [Transformation design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1079.md)
 

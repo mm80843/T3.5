@@ -2,6 +2,10 @@
 
 # __Biophilic design in architecture and its contributions to health, well-being, and sustainability: A critical review__
 
+## Benefits listed in this article
+
+* [Improved health and well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_436.md)
+
 ## DOI of the article
 
 10.1016/j.foar.2021.07.006
@@ -14,6 +18,15 @@ This review explores the concept of biophilic design in architecture, which aims
 
 Biophilic design is a way of bringing nature into buildings to make people feel happier and healthier. Architects use different strategies, such as adding plants, natural light, and water features, and using natural materials to create a connection with nature. Biophilic design can help protect the environment and make buildings more sustainable. It can also improve people's well-being and make them more productive. However, it's important to carefully plan and maintain these natural elements in buildings to ensure they have a positive impact. There is still a lot of research to be done to understand the best ways to use biophilic design and measure its effectiveness.
 
+## This article points to following mitigation
+
+* [Designing with nature](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5275.md)
+* [Indoor biophilia](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5276.md)
+* [Nature incorporation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5279.md)
+* [Nature interaction](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5274.md)
+* [Outdoor biophilia](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5277.md)
+* [Pattern incorporation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5278.md)
+
 ## Title of the article
 
 Biophilic design in architecture and its contributions to health, well-being, and sustainability: A critical review
@@ -21,17 +34,4 @@ Biophilic design in architecture and its contributions to health, well-being, an
 ## Year of publication
 
 2022
-
-## Benefits listed in this article
-
-* [Improved health and well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_436.md)
-
-## This article points to following mitigation
-
-* [Nature interaction](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5276.md)
-* [Designing with nature](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5279.md)
-* [Nature incorporation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5274.md)
-* [Pattern incorporation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5275.md)
-* [Outdoor biophilia](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5277.md)
-* [Indoor biophilia](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5278.md)
 

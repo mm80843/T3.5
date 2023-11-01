@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Promote public awareness and education initiatives to foster positive behavior and understanding, while enforcing preventive measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_60.md)
+* [Promote public awareness and education initiatives to foster positive behavior and understanding, while enforcing preventive measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_110.md)
 
 ## Closest similar item
 
 * [Enhance support services for victims, raise awareness, and strengthen legal and policy frameworks.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2467.md)
 * [Implementing support services for victims, increasing awareness and education, strengthening legal protections](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1585.md)
-* [Providing support systems, domestic violence hotlines, safe shelters](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2334.md)
-* [Provide mental health support, promote awareness and resilience](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2992.md)
-* [Increased support services for domestic abuse victims](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_680.md)
+* [Increased accessibility to helplines and support services, awareness campaigns.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2334.md)
+* [Increased support services for domestic abuse victims](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2992.md)
+* [Provide built-in facilities or services to support domestic violence victims](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_680.md)
 * [Provide mental health support services and hotlines, promote community support systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2363.md)
-* [Provide mental health support services, promote social connections, and raise awareness about mental health.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2466.md)
-* [Increased accessibility to helplines and support services, awareness campaigns.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1937.md)
-* [Provide mental health support services, promote healthy coping mechanisms, and ensure access to healthcare resources.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1520.md)
-* [Provide built-in facilities or services to support domestic violence victims](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2892.md)
+* [Provide mental health support services, promote healthy coping mechanisms, and ensure access to healthcare resources.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2466.md)
+* [Provide mental health support services, promote social connections, and raise awareness about mental health.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1937.md)
+* [Provide mental health support, promote awareness and resilience](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1520.md)
+* [Providing support systems, domestic violence hotlines, safe shelters](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2892.md)
 
 ## Risks possibly mitigated by this Mitigation
 

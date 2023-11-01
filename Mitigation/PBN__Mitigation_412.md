@@ -2,26 +2,26 @@
 
 # __Risk prevention measures__
 
-## Category to which it belongs
-
-* [Implementing a comprehensive framework to ensure safety, security, and protection for individuals and communities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_82.md)
-
-## Closest similar item
-
-* [Health and prevention measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3142.md)
-* [Preventive measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4746.md)
-* [Emphasize the importance of multiple preventive measures and the need for continued vigilance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2413.md)
-* [Prevention applications](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3253.md)
-* [Prevention efforts](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_827.md)
-* [Implement safety measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_569.md)
-* [General prevention](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4397.md)
-* [Risk management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3752.md)
-* [Implementing safety measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_100.md)
-* [Risk management strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_836.md)
-
 ## Benefits linked to a risk
 
 * [Reduction of negative environmental and social costs of tourism](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_408.md)
+
+## Category to which it belongs
+
+* [Implementing a comprehensive framework to ensure safety, security, and protection for individuals and communities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_132.md)
+
+## Closest similar item
+
+* [Emphasize the importance of multiple preventive measures and the need for continued vigilance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3142.md)
+* [General prevention](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4746.md)
+* [Health and prevention measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2413.md)
+* [Implement safety measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3253.md)
+* [Implementing safety measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_827.md)
+* [Prevention applications](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_569.md)
+* [Prevention efforts](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4397.md)
+* [Preventive measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3752.md)
+* [Risk management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_100.md)
+* [Risk management strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_836.md)
 
 ## Risks possibly mitigated by this Mitigation
 

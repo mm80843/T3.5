@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Accurate and reliable knowledge dissemination and fact-checking through interdisciplinary collaboration and intelligent information feedback.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_122.md)
+* [Accurate and reliable knowledge dissemination and fact-checking through interdisciplinary collaboration and intelligent information feedback.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_172.md)
 
 ## Closest similar item
 
-* [Reliable news sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1125.md)
-* [Media sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3871.md)
-* [Reliable sources of information](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_580.md)
-* [Reliable information sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1994.md)
-* [Newspapers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3181.md)
-* [Reliable sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1860.md)
-* [Fact-checking websites](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1147.md)
-* [Information resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3454.md)
-* [Daily press briefings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3780.md)
-* [Credible sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3287.md)
+* [Credible sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1125.md)
+* [Daily press briefings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3871.md)
+* [Fact-checking websites](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_580.md)
+* [Information resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1994.md)
+* [Media sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3181.md)
+* [Newspapers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1860.md)
+* [Reliable information sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1147.md)
+* [Reliable news sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3454.md)
+* [Reliable sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3780.md)
+* [Reliable sources of information](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3287.md)
 
 ## This Technology enables the following mitigations
 

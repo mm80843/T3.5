@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Insufficient safety measures, inadequate protective equipment, and lack of adherence to prevention guidelines pose significant risks.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_48.md)
+* [Insufficient safety measures, inadequate protective equipment, and lack of adherence to prevention guidelines pose significant risks.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_98.md)
 
 ## Closest similar item
 
-* [Shortage of medical equipment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_764.md)
-* [Lack of personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2054.md)
-* [Shortages of protective equipment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_478.md)
-* [Inadequate use of personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1316.md)
-* [Lack of protective equipment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1957.md)
-* [Ineffective use of personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2146.md)
-* [Lack of personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1490.md)
-* [Lack of personal protective equipment and professional training in family members](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2665.md)
-* [Inadequate personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1276.md)
-* [Shortage of personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1485.md)
+* [Inadequate personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_764.md)
+* [Inadequate use of personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2054.md)
+* [Ineffective use of personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_478.md)
+* [Lack of personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1316.md)
+* [Lack of personal protective equipment and professional training in family members](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1957.md)
+* [Lack of personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2146.md)
+* [Lack of protective equipment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1490.md)
+* [Shortage of medical equipment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2665.md)
+* [Shortage of personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1276.md)
+* [Shortages of protective equipment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1485.md)
 
 ## Mitigations of this risk
 

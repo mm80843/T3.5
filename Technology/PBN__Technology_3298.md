@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Efficiently manage finances, construction projects, schedules, contracts, communication, and data analysis with advanced software and technology.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_141.md)
+* [Efficiently manage finances, construction projects, schedules, contracts, communication, and data analysis with advanced software and technology.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_191.md)
 
 ## Closest similar item
 
-* [Web development tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3845.md)
-* [Web-based applications](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_243.md)
-* [Software tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2328.md)
-* [Web-based platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1817.md)
-* [Online collaboration tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1661.md)
-* [Telecommunication tools and web-based applications](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2476.md)
-* [Collaborative tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2434.md)
-* [Online communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3404.md)
-* [Collaboration tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_565.md)
-* [Remote collaboration tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_125.md)
+* [Collaboration tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3845.md)
+* [Collaborative tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_243.md)
+* [Online collaboration tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2328.md)
+* [Online communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1817.md)
+* [Remote collaboration tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1661.md)
+* [Software tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2476.md)
+* [Telecommunication tools and web-based applications](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2434.md)
+* [Web development tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3404.md)
+* [Web-based applications](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_565.md)
+* [Web-based platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_125.md)
 
 ## This Technology enables the following mitigations
 

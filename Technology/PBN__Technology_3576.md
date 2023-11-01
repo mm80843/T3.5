@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Improving air circulation through a variety of methods, including advanced systems, regular maintenance, and natural strategies.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_115.md)
+* [Improving air circulation through a variety of methods, including advanced systems, regular maintenance, and natural strategies.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_165.md)
 
 ## Closest similar item
 
-* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_249.md)
-* [Enhanced ventilation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1718.md)
-* [Improved ventilation technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_797.md)
-* [Use of energy-efficient and properly sized ventilation equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1112.md)
-* [Ventilation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2522.md)
-* [Enhanced ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2506.md)
-* [Ventilation infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3270.md)
-* [Natural ventilation strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1012.md)
-* [Mechanical ventilation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_271.md)
-* [Natural ventilation design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_701.md)
+* [Enhanced ventilation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_249.md)
+* [Enhanced ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1718.md)
+* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_797.md)
+* [Improved ventilation technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1112.md)
+* [Mechanical ventilation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2522.md)
+* [Natural ventilation design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2506.md)
+* [Natural ventilation strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3270.md)
+* [Use of energy-efficient and properly sized ventilation equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1012.md)
+* [Ventilation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_271.md)
+* [Ventilation infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_701.md)
 
 ## This Technology enables the following mitigations
 

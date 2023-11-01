@@ -2,30 +2,30 @@
 
 # __Emphasis on ict infrastructure access__
 
-## Category to which it belongs
+## Benefits linked to a risk
 
-* [Advancing technology, connectivity, and digital solutions are being embraced to overcome barriers and promote equal access and transformation in various industries.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_84.md)
-
-## Closest similar item
-
-* [Ict infrastructure access](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5047.md)
-* [Proper management of ict infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4967.md)
-* [Provide reliable and constant ict connections](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2885.md)
-* [Universal access to critical infrastructures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_690.md)
-* [Technical infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4907.md)
-* [Improve digital infrastructure and provide equal access to reliable internet connection for all residents.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3023.md)
-* [Infrastructure improvements](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_665.md)
-* [Use of digital technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_707.md)
-* [Strengthened data infrastructure and analysis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4047.md)
-* [Common data infrastructures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3601.md)
+* [Stable internet access](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_251.md)
 
 ## Blueprints with this mitigation
 
 * [Public places as information points](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_8.md)
 
-## Benefits linked to a risk
+## Category to which it belongs
 
-* [Stable internet access](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_251.md)
+* [Advancing technology, connectivity, and digital solutions are being embraced to overcome barriers and promote equal access and transformation in various industries.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_134.md)
+
+## Closest similar item
+
+* [Common data infrastructures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5047.md)
+* [Ict infrastructure access](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4967.md)
+* [Improve digital infrastructure and provide equal access to reliable internet connection for all residents.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2885.md)
+* [Infrastructure improvements](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_690.md)
+* [Proper management of ict infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4907.md)
+* [Provide reliable and constant ict connections](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3023.md)
+* [Strengthened data infrastructure and analysis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_665.md)
+* [Technical infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_707.md)
+* [Universal access to critical infrastructures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4047.md)
+* [Use of digital technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3601.md)
 
 ## Risks possibly mitigated by this Mitigation
 

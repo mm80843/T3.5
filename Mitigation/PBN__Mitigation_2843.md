@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Promote sustainable economic growth through infrastructure investment, revenue diversification, financial interventions, and decentralized activities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_62.md)
+* [Promote sustainable economic growth through infrastructure investment, revenue diversification, financial interventions, and decentralized activities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_112.md)
 
 ## Closest similar item
 
-* [Diversify funding sources, develop alternative revenue streams, promote domestic tourism, and enhance marketing strategies.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1778.md)
-* [Adaptation of tourism offerings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_411.md)
-* [Strengthening revenue generation from tourism](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3543.md)
-* [Provide financial aid and support to hospitality and tourism industry, adapt business models for survival](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2394.md)
-* [Diversify and strengthen economic and financial systems, reduce interdependencies, and promote local and regional self-sufficiency](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1834.md)
-* [Promote diversification and self-sufficiency](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_18.md)
-* [Economic diversification](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1002.md)
-* [Implement sustainable tourism practices and educate visitors on responsible beach use.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3094.md)
-* [Creating value-based marketing strategies, offering discounts or promotions, and diversifying product/service offerings to meet changing consumer needs.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2838.md)
-* [Diversifying the funding base](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3539.md)
+* [Adaptation of tourism offerings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1778.md)
+* [Creating value-based marketing strategies, offering discounts or promotions, and diversifying product/service offerings to meet changing consumer needs.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_411.md)
+* [Diversify and strengthen economic and financial systems, reduce interdependencies, and promote local and regional self-sufficiency](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3543.md)
+* [Diversify funding sources, develop alternative revenue streams, promote domestic tourism, and enhance marketing strategies.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2394.md)
+* [Diversifying the funding base](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1834.md)
+* [Economic diversification](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_18.md)
+* [Implement sustainable tourism practices and educate visitors on responsible beach use.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1002.md)
+* [Promote diversification and self-sufficiency](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3094.md)
+* [Provide financial aid and support to hospitality and tourism industry, adapt business models for survival](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2838.md)
+* [Strengthening revenue generation from tourism](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3539.md)
 
 ## Risks possibly mitigated by this Mitigation
 

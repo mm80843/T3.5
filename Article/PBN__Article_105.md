@@ -2,9 +2,22 @@
 
 # __Upper-Room Ultraviolet Light and Negative Air Ionization to Prevent Tuberculosis Transmission__
 
+## Benefits listed in this article
+
+* [Reduction in tb disease](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_511.md)
+* [Reduction in tb infection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_512.md)
+
 ## DOI of the article
 
 10.1371/journal.pmed.1000043
+
+## List of risks in an article
+
+* [Absence of efficacy studies in clinical settings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1356.md)
+* [Inadequate mixing of room air](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1358.md)
+* [Inadequate tb infection control measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1359.md)
+* [Inefficient negative air ionization](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1357.md)
+* [Patient overcrowding](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1355.md)
 
 ## Short summary of the article
 
@@ -14,6 +27,17 @@ This study evaluated the effectiveness of upper-room ultraviolet (UV) lights and
 
 This study looked at how to stop the spread of TB in hospitals. They used a special light called ultraviolet (UV) light and a machine called an ionizer to see if they could stop the TB germs from spreading in the air. They tested these methods using guinea pigs in cages. They found that using the UV light or the ionizer made it harder for the guinea pigs to get infected with TB. This means that if hospitals use these methods, it could help stop the spread of TB in the air.
 
+## This article mentions these technologies
+
+* [Improved negative ionizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
+* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_249.md)
+* [Mixing fans](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_567.md)
+
+## This article points to following mitigation
+
+* [Negative air ionization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3636.md)
+* [Upper-room uv lights](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_523.md)
+
 ## Title of the article
 
 Upper-Room Ultraviolet Light and Negative Air Ionization to Prevent Tuberculosis Transmission
@@ -21,28 +45,4 @@ Upper-Room Ultraviolet Light and Negative Air Ionization to Prevent Tuberculosis
 ## Year of publication
 
 2009
-
-## Benefits listed in this article
-
-* [Reduction in tb infection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_511.md)
-* [Reduction in tb disease](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_512.md)
-
-## List of risks in an article
-
-* [Inefficient negative air ionization](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1356.md)
-* [Patient overcrowding](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1358.md)
-* [Absence of efficacy studies in clinical settings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1359.md)
-* [Inadequate mixing of room air](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1357.md)
-* [Inadequate tb infection control measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1355.md)
-
-## This article points to following mitigation
-
-* [Upper-room uv lights](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3636.md)
-* [Negative air ionization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_523.md)
-
-## This article mentions these technologies
-
-* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_249.md)
-* [Mixing fans](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_568.md)
-* [Improved negative ionizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_567.md)
 

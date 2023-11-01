@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The interconnectedness of global economics has led to financial instability, unemployment, poverty, and decreased investment in certain sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_12.md)
+* [The interconnectedness of global economics has led to financial instability, unemployment, poverty, and decreased investment in certain sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_62.md)
 
 ## Closest similar item
 
-* [Decreased interest](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2494.md)
-* [Decreased interest in news](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_539.md)
-* [Decreasing interest in news](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_534.md)
+* [Decline in tax and fee revenue](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2494.md)
+* [Decline of employment and investment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_539.md)
+* [Decreased interest](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_534.md)
 * [Decreased interest in covid-19 news](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1214.md)
-* [Financial loss](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1566.md)
-* [Decline of employment and investment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2244.md)
-* [Decreased job opportunities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2804.md)
-* [Reduced income and limited financial resources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_778.md)
-* [Decline in tax and fee revenue](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_929.md)
-* [Financial difficulties](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2808.md)
+* [Decreased interest in news](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1566.md)
+* [Decreased job opportunities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2244.md)
+* [Decreasing interest in news](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2804.md)
+* [Financial difficulties](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_778.md)
+* [Financial loss](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_929.md)
+* [Reduced income and limited financial resources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2808.md)
 
 ## Mitigations of this risk
 

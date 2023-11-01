@@ -4,34 +4,34 @@
 
 ## Category to which it belongs
 
-* [The intersection of public health and technology, including mobile apps, messaging systems, data analytics, and ai, to promote health and educate communities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_104.md)
+* [The intersection of public health and technology, including mobile apps, messaging systems, data analytics, and ai, to promote health and educate communities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_154.md)
 
 ## Closest similar item
 
-* [Public health campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_167.md)
-* [Public health and awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2094.md)
-* [Health promotion campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1215.md)
-* [Public information campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_8.md)
-* [Information campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_435.md)
-* [Effective public health messaging](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2994.md)
+* [Effective public health messaging](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_167.md)
+* [Health promotion campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2094.md)
+* [Information campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1215.md)
+* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_8.md)
+* [Public health and awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_435.md)
+* [Public health campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2994.md)
 * [Public health communication strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1633.md)
-* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
+* [Public health initiatives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
 * [Public health messaging](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1156.md)
-* [Public health initiatives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2306.md)
+* [Public information campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2306.md)
+
+## Risks linked to this technology
+
+* [Misinformation and ’infodemic’](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1966.md)
 
 ## This Technology belongs to this TechGroup
 
 * [Social media](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_896.md)
 
-## This technology is mentioned by
-
-* [Psychological Effects of Home Confinement and Social Distancing Derived from COVID-19 in the General Population—A Systematic Review](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_126.md)
-
 ## This Technology belongs to this TechSubgroup
 
 * [Public education and awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_889.md)
 
-## Risks linked to this technology
+## This technology is mentioned by
 
-* [Misinformation and ’infodemic’](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1966.md)
+* [Psychological Effects of Home Confinement and Social Distancing Derived from COVID-19 in the General Population—A Systematic Review](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_126.md)
 

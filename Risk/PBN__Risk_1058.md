@@ -2,42 +2,34 @@
 
 # __Lack of facilities__
 
+## Articles mentionning the risk
+
+* [Mental Health and the Role of Physical Activity During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_242.md)
+
 ## Category to which it belongs
 
-* [Inadequate resources, staff, facilities, training, coordination, and preparedness contribute to the inefficient and ineffective response to various challenges and needs.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_28.md)
+* [Inadequate resources, staff, facilities, training, coordination, and preparedness contribute to the inefficient and ineffective response to various challenges and needs.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_78.md)
 
 ## Closest similar item
 
-* [Lack of facilities and time constraints](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_851.md)
-* [Inadequate site facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1931.md)
-* [Lack of infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2439.md)
-* [Inadequate healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1476.md)
-* [Inadequate infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1411.md)
-* [Insufficient medical facilities and infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1307.md)
-* [Lack of resources and support](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2834.md)
-* [Lack of sanitation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3205.md)
-* [Lack of treatment and resources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2046.md)
-* [Lack of funding](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2328.md)
+* [Inadequate healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_851.md)
+* [Inadequate infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1931.md)
+* [Inadequate site facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2439.md)
+* [Insufficient medical facilities and infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1476.md)
+* [Lack of facilities and time constraints](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1411.md)
+* [Lack of funding](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1307.md)
+* [Lack of infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2834.md)
+* [Lack of resources and support](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3205.md)
+* [Lack of sanitation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2046.md)
+* [Lack of treatment and resources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2328.md)
 
 ## Description of the risk
 
 COVID-19 restrictions such as quarantine, self-isolation, and lockdown hinder access to facilities for physical activities.
 
-## Type of the risk
-
-* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Is the risk affecting GBN scales
 
 * [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
-
-## Type of impact of the risk (according to ISO37100)
-
-* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_8.md)
-
-## Type of purpose of the risk (according to ISO37100)
-
-* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
 
 ## Mitigations of this risk
 
@@ -47,23 +39,31 @@ COVID-19 restrictions such as quarantine, self-isolation, and lockdown hinder ac
 
 Time constraints and lack of facilities.
 
+## People affected by this risk
+
+* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
+
 ## Stakeholders who can mitigate this risk
 
 * [Government departments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_575.md)
 * [Sports companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_576.md)
 
-## Articles mentionning the risk
-
-* [Mental Health and the Role of Physical Activity During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_242.md)
-
-## People affected by this risk
-
-* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
-
 ## Technologies linked to the risk
 
-* [Smartphone applications](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_65.md)
-* [Wearable sensors for exercise monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_66.md)
+* [Smartphone applications](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_66.md)
+* [Wearable sensors for exercise monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_65.md)
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_8.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
+
+## Type of the risk
+
+* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 

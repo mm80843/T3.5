@@ -2,42 +2,34 @@
 
 # __Shift in transmission range of diseases, hosts, and vectors__
 
+## Articles mentionning the risk
+
+* [Prototype Early Warning Systems for Vector-Borne Diseases in Europe](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_212.md)
+
 ## Category to which it belongs
 
-* [Contagious diseases in built environments, limited pandemic preparedness, and unpredictable disease spread contribute to the global outbreak.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_6.md)
+* [Contagious diseases in built environments, limited pandemic preparedness, and unpredictable disease spread contribute to the global outbreak.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_56.md)
 
 ## Closest similar item
 
-* [Disease transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_489.md)
-* [Lack of understanding disease transmission pattern](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2408.md)
-* [Transmission of disease](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2725.md)
-* [Infectious disease transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_942.md)
-* [Transmission from infected individuals](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3273.md)
-* [Transmission of the disease](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3250.md)
-* [Spatial variations in disease spread](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_287.md)
-* [Viral transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2777.md)
-* [Contagious disease transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1021.md)
-* [Lack of knowledge on disease transmission mechanisms](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_6.md)
+* [Contagious disease transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_489.md)
+* [Disease transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2408.md)
+* [Infectious disease transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2725.md)
+* [Lack of knowledge on disease transmission mechanisms](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_942.md)
+* [Lack of understanding disease transmission pattern](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3273.md)
+* [Spatial variations in disease spread](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3250.md)
+* [Transmission from infected individuals](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_287.md)
+* [Transmission of disease](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2777.md)
+* [Transmission of the disease](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1021.md)
+* [Viral transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_6.md)
 
 ## Description of the risk
 
 Changes in the geographic range of disease transmission due to social and demographic change and climate change
 
-## Type of the risk
-
-* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Is the risk affecting GBN scales
 
 * [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
-
-## Type of impact of the risk (according to ISO37100)
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
-
-## Type of purpose of the risk (according to ISO37100)
-
-* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_1.md)
 
 ## Mitigations of this risk
 
@@ -47,24 +39,32 @@ Changes in the geographic range of disease transmission due to social and demogr
 
 Increased risk of disease outbreaks in new areas
 
-## Stakeholders who can mitigate this risk
-
-* [Public health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_222.md)
-* [Local governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_566.md)
-
-## Articles mentionning the risk
-
-* [Prototype Early Warning Systems for Vector-Borne Diseases in Europe](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_212.md)
-
 ## People affected by this risk
 
-* [Local health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1372.md)
-* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
+* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1372.md)
+* [Local health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
+
+## Stakeholders who can mitigate this risk
+
+* [Local governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_222.md)
+* [Public health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_566.md)
 
 ## Technologies linked to the risk
 
 * [Remote sensing technology for monitoring and surveillance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1529.md)
 * [Vector control techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1530.md)
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_1.md)
+
+## Type of the risk
+
+* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 

@@ -2,6 +2,15 @@
 
 # __Introduce "multi-use" / modular designs__
 
+## Category to which it belongs
+
+* [Flexible and adaptable solutions for various purposes or configurations.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_227.md)
+
+## This intervention is used in the following blueprints
+
+* [Adapted architectural design](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_2.md)
+* [Building adaptation for flexible use](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_13.md)
+
 ## Property: has_BP_InterventionKey
 
 HS1
@@ -9,13 +18,4 @@ HS1
 ## Property: has_BP_InterventionTitle
 
 Introduce "multi-use" / modular designs
-
-## Category to which it belongs
-
-* [Flexible and adaptable solutions for various purposes or configurations.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_177.md)
-
-## This intervention is used in the following blueprints
-
-* [Adapted architectural design](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_2.md)
-* [Building adaptation for flexible use](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_13.md)
 

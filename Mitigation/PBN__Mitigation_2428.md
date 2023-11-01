@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Implementing a comprehensive range of support services, financial assistance programs, and awareness campaigns to aid vulnerable populations and promote economic recovery.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_54.md)
+* [Implementing a comprehensive range of support services, financial assistance programs, and awareness campaigns to aid vulnerable populations and promote economic recovery.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_104.md)
 
 ## Closest similar item
 
 * [Enhance job training and reskilling programs, promote entrepreneurship, and support job creation in new industries.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2626.md)
-* [Job retention schemes](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1376.md)
-* [Provide unemployment benefits, retrain and reskill workers, support job creation in emerging sectors.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2903.md)
+* [Implement countercyclical policies, support job creation in growing industries, and provide reemployment assistance and training.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1376.md)
+* [Implement financial support programs and resources for individuals and businesses; promote job creation and stability; provide financial education and counseling.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2903.md)
 * [Implement measures to support employment, provide income support, and promote economic recovery.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2664.md)
-* [Implement financial support programs and resources for individuals and businesses; promote job creation and stability; provide financial education and counseling.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2603.md)
-* [Implement countercyclical policies, support job creation in growing industries, and provide reemployment assistance and training.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2628.md)
+* [Job retention schemes](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2603.md)
+* [Provide financial support and assistance programs, promote job creation and training opportunities, offer financial education and counseling services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2628.md)
 * [Provide financial support to affected businesses, develop alternative revenue sources.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2751.md)
-* [Provide financial support and assistance programs, promote job creation and training opportunities, offer financial education and counseling services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1772.md)
-* [Provide financial support to affected businesses, encourage e-commerce and online sales, promote local shopping.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2904.md)
-* [Provide financial support to affected individuals and businesses, maintain access to essential services.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2482.md)
+* [Provide financial support to affected businesses, encourage e-commerce and online sales, promote local shopping.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1772.md)
+* [Provide financial support to affected individuals and businesses, maintain access to essential services.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2904.md)
+* [Provide unemployment benefits, retrain and reskill workers, support job creation in emerging sectors.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2482.md)
 
 ## Risks possibly mitigated by this Mitigation
 

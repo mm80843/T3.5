@@ -2,26 +2,26 @@
 
 # __Wearable electronic devices__
 
-## Link between Blueprint and General ontology
-
-* [Wearables](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_11.md)
-
 ## Category to which it belongs
 
-* [A comprehensive collection of iot devices, sensors, and monitoring systems for remote monitoring, measurement, and environmental control.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_117.md)
+* [A comprehensive collection of iot devices, sensors, and monitoring systems for remote monitoring, measurement, and environmental control.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_167.md)
 
 ## Closest similar item
 
-* [Wearable devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2579.md)
-* [Wearable device technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2571.md)
-* [Wearable device](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2553.md)
-* [Wearable technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1233.md)
-* [Wearables](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2800.md)
-* [Wearable sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2347.md)
-* [Technology devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2965.md)
-* [Smart devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2287.md)
-* [Digital devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_571.md)
-* [Digital and smart devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2659.md)
+* [Digital and smart devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2579.md)
+* [Digital devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2571.md)
+* [Smart devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2553.md)
+* [Technology devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1233.md)
+* [Wearable device](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2800.md)
+* [Wearable device technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2347.md)
+* [Wearable devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2965.md)
+* [Wearable sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2287.md)
+* [Wearable technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_571.md)
+* [Wearables](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2659.md)
+
+## Link between Blueprint and General ontology
+
+* [Wearables](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_11.md)
 
 ## This Technology enables the following mitigations
 

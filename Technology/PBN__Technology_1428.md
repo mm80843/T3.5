@@ -4,34 +4,34 @@
 
 ## Category to which it belongs
 
-* [Various forms of financial support and assistance, including government programs, funding initiatives, microfinance, cash transfer, and community outreach.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_142.md)
+* [Various forms of financial support and assistance, including government programs, funding initiatives, microfinance, cash transfer, and community outreach.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_192.md)
 
 ## Closest similar item
 
-* [Funding](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_161.md)
-* [Increased government funding](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_860.md)
+* [Financial support and funding](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_161.md)
+* [Funding](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_860.md)
 * [Funding programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_467.md)
 * [Funding support](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1161.md)
-* [Research funding](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2905.md)
-* [Healthcare funding](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1852.md)
-* [Financial support and funding](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2078.md)
-* [Government support](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_317.md)
-* [Government programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3020.md)
-* [Local funding sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3598.md)
+* [Government programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2905.md)
+* [Government support](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1852.md)
+* [Healthcare funding](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2078.md)
+* [Increased government funding](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_317.md)
+* [Local funding sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3020.md)
+* [Research funding](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3598.md)
+
+## Risks linked to this technology
+
+* [Economic strain](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1963.md)
 
 ## This Technology belongs to this TechGroup
 
 * [Social media](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_896.md)
 
-## This technology is mentioned by
-
-* [COVID-19: A new digital dawn?](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_93.md)
-
 ## This Technology belongs to this TechSubgroup
 
 * [Financial support and funding](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2078.md)
 
-## Risks linked to this technology
+## This technology is mentioned by
 
-* [Economic strain](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1963.md)
+* [COVID-19: A new digital dawn?](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_93.md)
 

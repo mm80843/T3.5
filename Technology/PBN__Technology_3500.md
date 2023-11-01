@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Implement strategies to optimize costs, manage crises, and develop sustainable practices while ensuring efficient resource allocation and effective communication.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_143.md)
+* [Implement strategies to optimize costs, manage crises, and develop sustainable practices while ensuring efficient resource allocation and effective communication.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_193.md)
 
 ## Closest similar item
 
-* [Workforce and resource management tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2160.md)
-* [Workforce management tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1489.md)
-* [Collaboration tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_565.md)
-* [Project evaluation tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3499.md)
+* [Budgeting tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2160.md)
+* [Collaboration tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1489.md)
+* [Collaborative tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_565.md)
+* [Performance tracking tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3499.md)
 * [Production optimization tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_10.md)
-* [Performance tracking tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1415.md)
-* [Software tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2328.md)
-* [Budgeting tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_689.md)
-* [Project management tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_631.md)
-* [Collaborative tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2434.md)
+* [Project evaluation tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1415.md)
+* [Project management tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2328.md)
+* [Software tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_689.md)
+* [Workforce and resource management tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_631.md)
+* [Workforce management tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2434.md)
 
 ## This Technology enables the following mitigations
 

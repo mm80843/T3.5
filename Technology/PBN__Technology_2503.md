@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Innovations and applications in chemistry, materials, and technology for purification, disinfection, and environmental protection.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_146.md)
+* [Innovations and applications in chemistry, materials, and technology for purification, disinfection, and environmental protection.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_196.md)
 
 ## Closest similar item
 
 * [Air disinfector based on plasma](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3782.md)
-* [Bipolar ionization technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3225.md)
-* [Bipolar ionization devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2233.md)
-* [Improved negative ionizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_567.md)
-* [Ozonation technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3800.md)
-* [Emission control technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1249.md)
-* [Uv-c emitters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2487.md)
-* [Glare control devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_189.md)
+* [Bipolar ionization devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3225.md)
+* [Bipolar ionization technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2233.md)
+* [Emission control technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_567.md)
+* [Glare control devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3800.md)
+* [Improved negative ionizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1249.md)
+* [Improved stove technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2487.md)
+* [Ozonation technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_189.md)
 * [Ultraviolet irradiation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1902.md)
-* [Improved stove technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3425.md)
+* [Uv-c emitters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3425.md)
 
 ## This Technology enables the following mitigations
 

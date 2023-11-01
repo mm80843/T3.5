@@ -2,9 +2,29 @@
 
 # __Disinfection technology of hospital wastes and wastewater: Suggestions for disinfection strategy during coronavirus Disease 2019 (COVID-19) pandemic in China__
 
+## Benefits listed in this article
+
+* [Disease transmission prevention](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_763.md)
+* [Fecal coliform and pathogen destruction in wastewater](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_936.md)
+* [Prevention of disease spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_933.md)
+* [Reduction of disease spread and contamination](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_934.md)
+* [Reduction of health risks](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_935.md)
+
 ## DOI of the article
 
 10.1016/j.envpol.2020.114665
+
+## List of risks in an article
+
+* [Contagious diseases transmission through hospital wastes and wastewater](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2289.md)
+* [Improper disposal of chemical wastes](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_668.md)
+* [Improper disposal of infectious hospital wastes and wastewater](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2287.md)
+* [Improper disposal of pharmaceutical wastes](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2290.md)
+* [Inadequate disinfection of hospital wastewater](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2288.md)
+
+## Referenced by other articles
+
+* [Air, Surface Environmental, and Personal Protective Equipment Contamination by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) From a Symptomatic Patient](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_264.md)
 
 ## Short summary of the article
 
@@ -14,9 +34,27 @@ This research abstract discusses the importance of properly disinfecting and dis
 
 Hospitals produce a lot of different types of waste, including pollutants from medicine and chemicals. This waste can be dangerous to public health and the environment if not disposed of properly. A new coronavirus called SARS-CoV-2 has caused a pandemic and hospitals are treating a lot of infected patients. It's important to properly disinfect the waste and wastewater from these hospitals to prevent the virus from spreading. There are different disinfection technologies that can be used, like ozone, ultraviolet light, chlorine, and steam. The choice of technology depends on factors like cost, amount of waste, and safety. Proper disinfection will help keep people safe and stop the spread of the virus.
 
-## Referenced by other articles
+## This article mentions these technologies
 
-* [Air, Surface Environmental, and Personal Protective Equipment Contamination by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) From a Symptomatic Patient](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_264.md)
+* [Chlorine dioxide](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_850.md)
+* [Hazardous waste treatment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1907.md)
+* [Incineration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1902.md)
+* [Liquid chlorine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1904.md)
+* [Ozone](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1901.md)
+* [Sodium hypochlorite](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1903.md)
+* [Ultraviolet irradiation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1905.md)
+* [Various disinfection technologies including ozone](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1906.md)
+
+## This article points to following mitigation
+
+* [Chemical disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5124.md)
+* [Chlorine dioxide](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5126.md)
+* [Incineration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5125.md)
+* [Liquid chlorine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5120.md)
+* [Ozone disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5119.md)
+* [Physical disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5121.md)
+* [Sodium hypochlorite](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5122.md)
+* [Ultraviolet irradiation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5123.md)
 
 ## Title of the article
 
@@ -25,42 +63,4 @@ Disinfection technology of hospital wastes and wastewater: Suggestions for disin
 ## Year of publication
 
 2020
-
-## Benefits listed in this article
-
-* [Prevention of disease spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_763.md)
-* [Reduction of health risks](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_933.md)
-* [Reduction of disease spread and contamination](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_934.md)
-* [Fecal coliform and pathogen destruction in wastewater](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_935.md)
-* [Disease transmission prevention](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_936.md)
-
-## List of risks in an article
-
-* [Inadequate disinfection of hospital wastewater](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_668.md)
-* [Contagious diseases transmission through hospital wastes and wastewater](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2288.md)
-* [Improper disposal of infectious hospital wastes and wastewater](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2287.md)
-* [Improper disposal of pharmaceutical wastes](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2289.md)
-* [Improper disposal of chemical wastes](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2290.md)
-
-## This article points to following mitigation
-
-* [Physical disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5126.md)
-* [Ultraviolet irradiation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5120.md)
-* [Chemical disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5125.md)
-* [Ozone disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5119.md)
-* [Liquid chlorine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5121.md)
-* [Chlorine dioxide](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5122.md)
-* [Sodium hypochlorite](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5123.md)
-* [Incineration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5124.md)
-
-## This article mentions these technologies
-
-* [Ozone](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1907.md)
-* [Ultraviolet irradiation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1902.md)
-* [Liquid chlorine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1903.md)
-* [Chlorine dioxide](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1904.md)
-* [Sodium hypochlorite](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_850.md)
-* [Various disinfection technologies including ozone](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1901.md)
-* [Hazardous waste treatment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1906.md)
-* [Incineration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1905.md)
 

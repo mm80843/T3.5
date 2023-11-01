@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Limited capacity, high demand, waning effectiveness, distribution difficulties, and access disparities hinder efficient vaccination efforts.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_25.md)
+* [Limited capacity, high demand, waning effectiveness, distribution difficulties, and access disparities hinder efficient vaccination efforts.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_75.md)
 
 ## Closest similar item
 
-* [Vaccine access disparities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1916.md)
-* [Lack of access to vaccination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3142.md)
-* [Vaccine availability, vaccine hesitancy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3118.md)
-* [Inadequate vaccination coverage](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3186.md)
-* [Demand for vaccine development](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_423.md)
-* [Difficulty in vaccine distribution](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_519.md)
+* [Demand for vaccine development](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1916.md)
+* [Difficulty in vaccine distribution](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3142.md)
+* [Inadequate vaccination coverage](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3118.md)
+* [Inadequate vaccine efficacy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3186.md)
+* [Lack of access to vaccination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_423.md)
+* [Lower vaccination rates](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_519.md)
 * [Representation and analysis of vaccine candidates](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_41.md)
-* [Inadequate vaccine efficacy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1888.md)
-* [Vaccine distribution and storage](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1885.md)
-* [Lower vaccination rates](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3056.md)
+* [Vaccine access disparities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1888.md)
+* [Vaccine availability, vaccine hesitancy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1885.md)
+* [Vaccine distribution and storage](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3056.md)
 
 ## Mitigations of this risk
 

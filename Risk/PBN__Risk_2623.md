@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Interoperability challenges, high costs, limited communication, and lack of resources impact various sectors globally.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_22.md)
+* [Interoperability challenges, high costs, limited communication, and lack of resources impact various sectors globally.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_72.md)
 
 ## Closest similar item
 
-* [Lack of coordination and duplicative efforts](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2572.md)
-* [Fragmented governance and lack of cooperation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2039.md)
-* [Fragmented governance and limited cooperation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_805.md)
-* [Fragmented political responses](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1573.md)
+* [Barriers to progress, existing challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2572.md)
+* [Disruption of construction projects](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2039.md)
+* [Fragmented governance and lack of cooperation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_805.md)
+* [Fragmented governance and limited cooperation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1573.md)
 * [Fragmented information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1068.md)
-* [Barriers to progress, existing challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2602.md)
-* [Lack of strategic planning and alignment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1191.md)
+* [Fragmented political responses](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2602.md)
+* [Inadequate collaboration and coordination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1191.md)
 * [Lack of collaboration and coordination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_397.md)
-* [Inadequate collaboration and coordination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1353.md)
-* [Disruption of construction projects](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1547.md)
+* [Lack of coordination and duplicative efforts](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1353.md)
+* [Lack of strategic planning and alignment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1547.md)
 
 ## Mitigations of this risk
 

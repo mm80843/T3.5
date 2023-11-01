@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Enhancing travel experience through real-time updates, virtual tours, local services, reservation systems, alternative transportation, and accessibility improvements.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_132.md)
+* [Enhancing travel experience through real-time updates, virtual tours, local services, reservation systems, alternative transportation, and accessibility improvements.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_182.md)
 
 ## Closest similar item
 
-* [Travel tracking systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_38.md)
-* [Travel tracking and monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2969.md)
+* [Online travel platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_38.md)
+* [Transportation planning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2969.md)
 * [Travel advisories](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_26.md)
-* [Travel surveillance systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_547.md)
+* [Travel advisories and restrictions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_547.md)
 * [Travel monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3415.md)
-* [Online travel platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_994.md)
-* [Travel policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3413.md)
-* [Travel regulations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3488.md)
-* [Travel advisories and restrictions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1565.md)
-* [Transportation planning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_659.md)
+* [Travel policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_994.md)
+* [Travel regulations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3413.md)
+* [Travel surveillance systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3488.md)
+* [Travel tracking and monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1565.md)
+* [Travel tracking systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_659.md)
 
 ## This Technology enables the following mitigations
 

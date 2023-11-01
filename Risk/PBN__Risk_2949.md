@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Interoperability challenges, high costs, limited communication, and lack of resources impact various sectors globally.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_22.md)
+* [Interoperability challenges, high costs, limited communication, and lack of resources impact various sectors globally.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_72.md)
 
 ## Closest similar item
 
 * [High cost, limited infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2944.md)
-* [Infrastructure challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1904.md)
-* [Inequities in infrastructure access](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2128.md)
-* [Inadequate infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1411.md)
-* [Inadequate infrastructure systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1682.md)
-* [Limited capital and resources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2828.md)
-* [Lack of infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2439.md)
-* [Increased demand, logistical challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3035.md)
-* [Incomplete infrastructure, coordination challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2597.md)
-* [Inadequate public infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1232.md)
+* [Inadequate infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1904.md)
+* [Inadequate infrastructure systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2128.md)
+* [Inadequate public infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1411.md)
+* [Incomplete infrastructure, coordination challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1682.md)
+* [Increased demand, logistical challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2828.md)
+* [Inequities in infrastructure access](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2439.md)
+* [Infrastructure challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3035.md)
+* [Lack of infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2597.md)
+* [Limited capital and resources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1232.md)
 
 ## Mitigations of this risk
 

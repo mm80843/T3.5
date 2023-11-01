@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Those on the move, whether for work or leisure, including those affected by travel restrictions and transportation workers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_233.md)
+* [Those on the move, whether for work or leisure, including those affected by travel restrictions and transportation workers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_283.md)
 
 ## Closest similar item
 
-* [Tourism and travel industries](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_517.md)
+* [Industries affected by travel restrictions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_517.md)
 * [Industries reliant on tourism and travel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_595.md)
-* [Tourism industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_196.md)
-* [Tourism industry,](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_386.md)
-* [Travel agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1858.md)
-* [Industries affected by travel restrictions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1027.md)
-* [Travel agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_561.md)
-* [Tourism operators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1988.md)
-* [Travelers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_558.md)
-* [Tourism providers and destinations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_195.md)
+* [Tourism and travel industries](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_196.md)
+* [Tourism industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_386.md)
+* [Tourism industry,](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1858.md)
+* [Tourism operators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1027.md)
+* [Tourism providers and destinations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_561.md)
+* [Travel agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1988.md)
+* [Travel agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_558.md)
+* [Travelers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_195.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

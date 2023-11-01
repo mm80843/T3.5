@@ -2,9 +2,29 @@
 
 # __COVID19: Small and medium enterprises challenges and responses with creativity, innovation, and entrepreneurship__
 
+## Benefits listed in this article
+
+* [Business liquidity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_711.md)
+* [Financial relief](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_34.md)
+* [Industry recovery](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_946.md)
+* [New business opportunities](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_947.md)
+* [Supply chain resilience](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_945.md)
+
 ## DOI of the article
 
 10.1002/jsc.2399
+
+## List of risks in an article
+
+* [Disruption of supply chains](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1123.md)
+* [Economic instability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2002.md)
+* [Job losses](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_91.md)
+* [Reduced consumer spending](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2149.md)
+* [Spread of covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2148.md)
+
+## Referenced by other articles
+
+* [Startups in times of crisis – A rapid response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_158.md)
 
 ## Short summary of the article
 
@@ -14,9 +34,28 @@ This research abstract discusses the impact of the COVID-19 pandemic on business
 
 The COVID-19 pandemic has caused a lot of chaos around the world. To stop the spread of the virus, many countries had to close down businesses and people had to stay away from each other. This has had a big impact on the economy and on how people behave. Many small businesses, like restaurants and hotels, have been hit the hardest. To survive this difficult time, entrepreneurs need to be resilient and come up with creative and innovative ideas. The government also plays a role in supporting small businesses. Resilience is important because it helps businesses adapt to changes and find new opportunities. The pandemic has shown that businesses need to be able to change and find new ways of doing things. It's also important for the government to support small businesses and create an environment where they can thrive.
 
-## Referenced by other articles
+## This article mentions these technologies
 
-* [Startups in times of crisis – A rapid response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_158.md)
+* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
+* [Diagnostic testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_637.md)
+* [Digital marketing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1691.md)
+* [Digital payment systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_134.md)
+* [E-commerce platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_634.md)
+* [Financial aid programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_695.md)
+* [Job placement platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_343.md)
+* [Local sourcing networks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_694.md)
+* [Online training courses](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_906.md)
+* [Remote work technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1692.md)
+* [Supply chain management software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1693.md)
+
+## This article points to following mitigation
+
+* [Face masks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4051.md)
+* [Remote work](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_832.md)
+* [Sanitization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_427.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4935.md)
+* [Testing and tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3699.md)
 
 ## Title of the article
 
@@ -25,43 +64,4 @@ COVID19: Small and medium enterprises challenges and responses with creativity, 
 ## Year of publication
 
 2021
-
-## Benefits listed in this article
-
-* [Financial relief](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_34.md)
-* [Industry recovery](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_947.md)
-* [Supply chain resilience](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_711.md)
-* [New business opportunities](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_945.md)
-* [Business liquidity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_946.md)
-
-## List of risks in an article
-
-* [Disruption of supply chains](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1123.md)
-* [Economic instability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2002.md)
-* [Spread of covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_91.md)
-* [Reduced consumer spending](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2148.md)
-* [Job losses](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2149.md)
-
-## This article points to following mitigation
-
-* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
-* [Lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_427.md)
-* [Remote work](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_832.md)
-* [Face masks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4051.md)
-* [Sanitization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3699.md)
-* [Testing and tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4935.md)
-
-## This article mentions these technologies
-
-* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
-* [Diagnostic testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_343.md)
-* [Remote work technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_134.md)
-* [Digital payment systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_695.md)
-* [Financial aid programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_634.md)
-* [E-commerce platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_694.md)
-* [Supply chain management software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_637.md)
-* [Job placement platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1692.md)
-* [Local sourcing networks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1691.md)
-* [Online training courses](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1693.md)
-* [Digital marketing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_906.md)
 

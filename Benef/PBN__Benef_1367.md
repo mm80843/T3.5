@@ -2,24 +2,28 @@
 
 # __Availability of essential goods and services__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Ensuring access to food, medicine, and other necessary supplies during the crisis
+* [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_294.md)
+
+## Category to which it belongs
+
+* [Enhancing infrastructure, services, and connectivity to optimize efficiency, accessibility, and reliability in urban environments.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_23.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Sustained provision of essential needs, improved public health and safety](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_1560.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_294.md)
+Ensuring access to food, medicine, and other necessary supplies during the crisis
+
+## Risks which can benefit from this action
+
+* [Ensuring basic supplies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1404.md)
 
 ## Stakeholders benefitting from this Benefit
 
 * [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
 * [Local businesses](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_300.md)
-
-## Risks which can benefit from this action
-
-* [Ensuring basic supplies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1404.md)
 

@@ -6,6 +6,6 @@
 
 * [Decrease in case growth rate](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_85.md)
 * [Decrease in death growth rate](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_86.md)
-* [Decrease in reproduction number](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_87.md)
-* [Decrease in icu admission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_88.md)
+* [Decrease in icu admission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_87.md)
+* [Decrease in reproduction number](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_88.md)
 

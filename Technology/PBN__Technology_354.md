@@ -4,30 +4,30 @@
 
 ## Category to which it belongs
 
-* [Promoting sustainability through clean energy infrastructure, smart technologies, and efficient energy management.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_123.md)
+* [Promoting sustainability through clean energy infrastructure, smart technologies, and efficient energy management.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_173.md)
 
 ## Closest similar item
 
-* [Develop electric vehicle charging infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_306.md)
-* [Implement electric vehicle charging infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_305.md)
-* [Ground vehicles](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3859.md)
-* [Electrical](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3107.md)
-* [E-scooters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2538.md)
-* [Self-driving cars](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3166.md)
-* [Driverless vehicles](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3373.md)
-* [Robots, drones & automated vehicules](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3899.md)
-* [Appliances](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3724.md)
-* [Microgrids](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_929.md)
+* [Appliances](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_306.md)
+* [Develop electric vehicle charging infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_305.md)
+* [Driverless vehicles](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3859.md)
+* [E-scooters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3107.md)
+* [Electrical](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2538.md)
+* [Ground vehicles](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3166.md)
+* [Implement electric vehicle charging infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3373.md)
+* [Microgrids](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3899.md)
+* [Robots, drones & automated vehicules](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3724.md)
+* [Self-driving cars](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_929.md)
 
-## This technology is mentioned by
+## Risks linked to this technology
 
-* [Coronavirus comes home? Energy use, home energy management, and the social-psychological factors of COVID-19](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_119.md)
+* [Decreased carbon emissions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1247.md)
 
 ## This Technology enables the following mitigations
 
 * [Green transportation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4063.md)
 
-## Risks linked to this technology
+## This technology is mentioned by
 
-* [Decreased carbon emissions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1247.md)
+* [Coronavirus comes home? Energy use, home energy management, and the social-psychological factors of COVID-19](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_119.md)
 

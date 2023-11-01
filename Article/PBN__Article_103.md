@@ -2,9 +2,31 @@
 
 # __The effect of large-scale anti-contagion policies on the COVID-19 pandemic__
 
+## Benefits listed in this article
+
+* [Averted/delayed infections](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_503.md)
+* [Avoidance of strict lockdown measures](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_317.md)
+* [Improved public perception and confidence](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_504.md)
+* [Reduced strain on healthcare systems](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_505.md)
+* [Reduction of infections](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_506.md)
+* [Slowed growth rate of infections](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_507.md)
+
 ## DOI of the article
 
 10.1038/s41586-020-2404-8
+
+## List of risks in an article
+
+* [Ineffective non-pharmaceutical interventions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1481.md)
+* [Limited information for policy decision-making](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1478.md)
+* [Uncertainty in epidemic modeling](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1477.md)
+* [Unknown effects of policies on infection rates](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1480.md)
+* [Visible costs of policies versus unseen health benefits](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1479.md)
+
+## Referenced by other articles
+
+* [An investigation of transmission control measures during the first 50 days of the COVID-19 epidemic in China](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_248.md)
+* [The effect of human mobility and control measures on the COVID-19 epidemic in China](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_197.md)
 
 ## Short summary of the article
 
@@ -14,10 +36,25 @@ In this study, the authors analyze the effects of anti-contagion policies on the
 
 The COVID-19 pandemic has made countries around the world implement policies to slow down the spread of the virus. These policies include things like closing restaurants and restricting travel. It is important to know if these policies are actually working and slowing down the spread of infections. Scientists studied the effects of these policies in six countries: China, South Korea, Italy, Iran, France, and the United States. They found that the policies did indeed slow down the growth rate of infections. Without these policies, there would have been many more cases of COVID-19. So, these policies are important in protecting people and controlling the spread of the virus.
 
-## Referenced by other articles
+## This article mentions these technologies
 
-* [The effect of human mobility and control measures on the COVID-19 epidemic in China](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_248.md)
-* [An investigation of transmission control measures during the first 50 days of the COVID-19 epidemic in China](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_197.md)
+* [Ai and machine learning for data processing and modeling](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_758.md)
+* [Ai and machine learning for modeling and simulations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_759.md)
+* [Communication technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_5.md)
+* [Data collection and analysis technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_757.md)
+* [Data collection technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_756.md)
+* [Epidemiological models](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_754.md)
+* [Information campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_435.md)
+* [Modeling and simulation tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_753.md)
+* [Simulation tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_755.md)
+
+## This article points to following mitigation
+
+* [Emergency declarations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Lockdowns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_564.md)
+* [Quarantines](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3820.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3132.md)
+* [Travel restrictions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3821.md)
 
 ## Title of the article
 
@@ -26,41 +63,4 @@ The effect of large-scale anti-contagion policies on the COVID-19 pandemic
 ## Year of publication
 
 2020
-
-## Benefits listed in this article
-
-* [Reduction of infections](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_317.md)
-* [Slowed growth rate of infections](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_503.md)
-* [Averted/delayed infections](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_504.md)
-* [Improved public perception and confidence](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_505.md)
-* [Avoidance of strict lockdown measures](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_506.md)
-* [Reduced strain on healthcare systems](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_507.md)
-
-## List of risks in an article
-
-* [Uncertainty in epidemic modeling](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1481.md)
-* [Limited information for policy decision-making](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1477.md)
-* [Ineffective non-pharmaceutical interventions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1478.md)
-* [Unknown effects of policies on infection rates](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1480.md)
-* [Visible costs of policies versus unseen health benefits](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1479.md)
-
-## This article points to following mitigation
-
-* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
-* [Lockdowns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3820.md)
-* [Travel restrictions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_564.md)
-* [Quarantines](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3132.md)
-* [Emergency declarations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3821.md)
-
-## This article mentions these technologies
-
-* [Communication technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_5.md)
-* [Information campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_435.md)
-* [Data collection technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_758.md)
-* [Data collection and analysis technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_753.md)
-* [Simulation tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_756.md)
-* [Modeling and simulation tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_757.md)
-* [Ai and machine learning for data processing and modeling](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_754.md)
-* [Ai and machine learning for modeling and simulations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_759.md)
-* [Epidemiological models](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_755.md)
 

@@ -2,9 +2,25 @@
 
 # __The health benefits of the great outdoors: A systematic review and meta-analysis of greenspace exposure and health outcomes__
 
+## Benefits listed in this article
+
+* [Improved cardiovascular health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_227.md)
+* [Improved mental well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_229.md)
+* [Improved physical well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_226.md)
+* [Increased park utilization and improved health outcomes](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_228.md)
+* [Reduction in health inequalities](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_225.md)
+
 ## DOI of the article
 
 10.1016/j.envres.2018.06.030
+
+## List of risks in an article
+
+* [Health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2211.md)
+* [Inequality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2212.md)
+* [Mental](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2214.md)
+* [Obesity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2215.md)
+* [Quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2213.md)
 
 ## Short summary of the article
 
@@ -14,6 +30,17 @@ This systematic review and meta-analysis examined the association between greens
 
 This text is about how greenspaces, like parks and open areas with trees and nature, are good for our health. Back in the 1800s, people realized that having greenspaces in cities was important for people's health. Nowadays, many studies have shown that being in nature is good for us. It can help us be active, feel happier, and even improve our immune system. People who live in areas with more greenspaces have better health overall. The text also says that it's important for everyone, no matter their income or where they live, to have access to greenspaces. More research is needed to understand exactly how being in nature helps us, and what kind of greenspaces are the most beneficial for our health.
 
+## This article mentions these technologies
+
+
+## This article points to following mitigation
+
+* [Educate about benefits](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5010.md)
+* [Enhance accessibility](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5008.md)
+* [Improve park quality](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5009.md)
+* [Increase greenspace access](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5007.md)
+* [Increase street greenery](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5011.md)
+
 ## Title of the article
 
 The health benefits of the great outdoors: A systematic review and meta-analysis of greenspace exposure and health outcomes
@@ -21,31 +48,4 @@ The health benefits of the great outdoors: A systematic review and meta-analysis
 ## Year of publication
 
 2018
-
-## Benefits listed in this article
-
-* [Improved cardiovascular health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_225.md)
-* [Reduction in health inequalities](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_226.md)
-* [Increased park utilization and improved health outcomes](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_227.md)
-* [Improved physical well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_228.md)
-* [Improved mental well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_229.md)
-
-## List of risks in an article
-
-* [Health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2211.md)
-* [Inequality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2212.md)
-* [Obesity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2214.md)
-* [Mental](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2215.md)
-* [Quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2213.md)
-
-## This article points to following mitigation
-
-* [Improve park quality](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5008.md)
-* [Increase greenspace access](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5007.md)
-* [Increase street greenery](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5009.md)
-* [Enhance accessibility](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5010.md)
-* [Educate about benefits](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5011.md)
-
-## This article mentions these technologies
-
 

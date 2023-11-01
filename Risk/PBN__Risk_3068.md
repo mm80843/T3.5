@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The spread of infectious diseases and lack of understanding of transmission mechanisms contribute to the propagation of contagions, posing a global threat.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_5.md)
+* [The spread of infectious diseases and lack of understanding of transmission mechanisms contribute to the propagation of contagions, posing a global threat.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_55.md)
 
 ## Closest similar item
 
-* [Disease transmission through personal contact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2743.md)
-* [Introduction of new disease vectors](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2025.md)
-* [Direct contact with infectious individuals](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2580.md)
-* [Increased physical contact between occupants increases virus transmission risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_605.md)
-* [Disease transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_489.md)
-* [Vector-borne diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_273.md)
-* [Transmission of disease](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2725.md)
-* [Direct contact with infectious material](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2578.md)
-* [Disease spread](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2614.md)
-* [Ineffective disease screening and contact tracing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1782.md)
+* [Direct contact with infectious individuals](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2743.md)
+* [Direct contact with infectious material](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2025.md)
+* [Disease spread](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2580.md)
+* [Disease transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_605.md)
+* [Disease transmission through personal contact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_489.md)
+* [Increased physical contact between occupants increases virus transmission risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_273.md)
+* [Ineffective disease screening and contact tracing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2725.md)
+* [Introduction of new disease vectors](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2578.md)
+* [Transmission of disease](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2614.md)
+* [Vector-borne diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1782.md)
 
 ## Mitigations of this risk
 

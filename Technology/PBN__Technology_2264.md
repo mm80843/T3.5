@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Improved indoor air quality and temperature control through advanced hvac technologies, air purifiers, and monitoring systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_129.md)
+* [Improved indoor air quality and temperature control through advanced hvac technologies, air purifiers, and monitoring systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_179.md)
 
 ## Closest similar item
 
-* [Improved ventilation and air filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_640.md)
+* [Air purifiers and ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_640.md)
 * [Hvac and ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2117.md)
-* [Improved hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_660.md)
-* [Improved hvac systems with high-efficiency filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1524.md)
-* [Hvac systems with increased fresh air flowrate](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3185.md)
-* [Use of advanced hvac systems with high-efficiency filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1018.md)
-* [Air purifiers and ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_423.md)
-* [Hvac filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3123.md)
+* [Hvac filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_660.md)
+* [Hvac systems with increased fresh air flowrate](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1524.md)
+* [Improved design and operation of hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3185.md)
+* [Improved hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1018.md)
+* [Improved hvac systems with high-efficiency filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_423.md)
+* [Improved ventilation and air filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3123.md)
 * [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_249.md)
-* [Improved design and operation of hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_674.md)
+* [Use of advanced hvac systems with high-efficiency filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_674.md)
 
 ## This Technology belongs to this TechGroup
 

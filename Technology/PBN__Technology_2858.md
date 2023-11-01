@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Innovations and applications in chemistry, materials, and technology for purification, disinfection, and environmental protection.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_146.md)
+* [Innovations and applications in chemistry, materials, and technology for purification, disinfection, and environmental protection.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_196.md)
 
 ## Closest similar item
 
-* [Copper](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3641.md)
-* [Alloys copper](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3642.md)
-* [Copper alloy coatings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3227.md)
-* [Cu2o](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2493.md)
-* [Cold-spray technique to deposit copper coatings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_760.md)
-* [Silver nanoparticles](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3157.md)
-* [Atomized silver nanoparticles](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2505.md)
+* [Alloys copper](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3641.md)
+* [Atomized silver nanoparticles](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3642.md)
+* [Cold-spray technique to deposit copper coatings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3227.md)
+* [Copper](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2493.md)
+* [Copper alloy coatings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_760.md)
+* [Cu2o](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3157.md)
+* [Electrochemical reactions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2505.md)
 * [Metal cable](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1775.md)
 * [Natural materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3390.md)
-* [Electrochemical reactions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2472.md)
+* [Silver nanoparticles](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2472.md)
 
 ## This Technology enables the following mitigations
 

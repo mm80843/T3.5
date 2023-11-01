@@ -4,19 +4,19 @@
 
 ## Category to which it belongs
 
-* [The challenges of urban inequality, parameter identification, noise pollution, waste, and delayed decision making have resulted in increased inequalities and exclusion, posing numerous issues for governance and scalability.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_14.md)
+* [The challenges of urban inequality, parameter identification, noise pollution, waste, and delayed decision making have resulted in increased inequalities and exclusion, posing numerous issues for governance and scalability.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_64.md)
 
 ## Closest similar item
 
-* [Lack of recovery support](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2837.md)
-* [Jobless recovery](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1989.md)
-* [Missed opportunities for green recovery](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3266.md)
-* [Recontamination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2738.md)
-* [Economic recovery](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2848.md)
-* [Lack of information about recoveries](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2799.md)
-* [Delayed treatment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3219.md)
-* [Time limitation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2619.md)
-* [Long turnaround time, invasive, discomfort](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2514.md)
+* [Delayed treatment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2837.md)
+* [Economic recovery](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1989.md)
+* [Jobless recovery](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3266.md)
+* [Lack of information about recoveries](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2738.md)
+* [Lack of recovery support](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2848.md)
+* [Long turnaround time, invasive, discomfort](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2799.md)
+* [Missed opportunities for green recovery](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3219.md)
+* [Recontamination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2619.md)
+* [Time limitation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2514.md)
 * [Time overrun](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_597.md)
 
 ## Mitigations of this risk

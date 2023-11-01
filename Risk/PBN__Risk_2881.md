@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The spread of infectious diseases and lack of understanding of transmission mechanisms contribute to the propagation of contagions, posing a global threat.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_5.md)
+* [The spread of infectious diseases and lack of understanding of transmission mechanisms contribute to the propagation of contagions, posing a global threat.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_55.md)
 
 ## Closest similar item
 
-* [Infection propagation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2235.md)
-* [Undetected infections](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2748.md)
-* [Infection and disease](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2581.md)
-* [Infections](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2298.md)
-* [Containment of infection cluster](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3136.md)
-* [Infection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2585.md)
+* [Containment of infection cluster](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2235.md)
+* [High infection-to-fatality ratio, particularly for vulnerable populations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2748.md)
+* [Infection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2581.md)
+* [Infection and disease](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2298.md)
+* [Infection propagation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3136.md)
+* [Infections](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2585.md)
 * [Lack of knowledge of infection status](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2761.md)
-* [Unknown effects of policies on infection rates](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1480.md)
-* [Transmission of infection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2772.md)
-* [High infection-to-fatality ratio, particularly for vulnerable populations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2087.md)
+* [Transmission of infection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1480.md)
+* [Undetected infections](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2772.md)
+* [Unknown effects of policies on infection rates](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2087.md)
 
 ## Mitigations of this risk
 

@@ -4,20 +4,25 @@
 
 ## Category to which it belongs
 
-* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_212.md)
+* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_262.md)
 
 ## Closest similar item
 
-* [Society](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_53.md)
-* [Eu](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_318.md)
-* [Industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_764.md)
-* [Destination](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_721.md)
-* [Economy](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_91.md)
+* [Destination](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_53.md)
+* [Economy](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_318.md)
+* [Eu](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_764.md)
+* [Industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_721.md)
+* [Society](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_91.md)
 * [Student](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1646.md)
+
+## Risk affecting this stakeholder
+
 
 ## Risks that can be mitigated by this stakeholder
 
 
-## Risk affecting this stakeholder
+## Type of the stakeholder
 
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

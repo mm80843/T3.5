@@ -2,26 +2,26 @@
 
 # __Building design__
 
-## Link between Blueprint and General ontology
-
-* [Design & Construction software (BIM)](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_27.md)
-
 ## Category to which it belongs
 
-* [Building design and construction incorporate biophilic principles, modular techniques, and flexible layouts to create sustainable, resilient, and adaptable spaces.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_138.md)
+* [Building design and construction incorporate biophilic principles, modular techniques, and flexible layouts to create sustainable, resilient, and adaptable spaces.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_188.md)
 
 ## Closest similar item
 
-* [Building design and construction](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2257.md)
-* [Building systems and design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2135.md)
-* [Building design and construction techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_455.md)
-* [Building layout and design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2689.md)
+* [Architectural design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2257.md)
+* [Architectural design and building technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2135.md)
+* [Building design and construction](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_455.md)
+* [Building design and construction techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2689.md)
 * [Building design and layout modifications](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2837.md)
-* [Architectural design and building technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1105.md)
-* [Housing and building design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2218.md)
-* [Architectural design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2950.md)
-* [Building management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2785.md)
-* [Building materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2255.md)
+* [Building layout and design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1105.md)
+* [Building management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2218.md)
+* [Building materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2950.md)
+* [Building systems and design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2785.md)
+* [Housing and building design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2255.md)
+
+## Link between Blueprint and General ontology
+
+* [Design & Construction software (BIM)](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_27.md)
 
 ## This Technology enables the following mitigations
 

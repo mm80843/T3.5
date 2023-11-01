@@ -4,20 +4,24 @@
 
 ## Category to which it belongs
 
-* [Individuals in confined, poorly ventilated indoor spaces, including offices and homes, with low air quality and inadequate filtration systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_235.md)
+* [Individuals in confined, poorly ventilated indoor spaces, including offices and homes, with low air quality and inadequate filtration systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_285.md)
 
 ## Closest similar item
 
-* [Occupant of building with contaminated surface](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2518.md)
-* [Individuals who come into contact with contaminated surfaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_665.md)
-* [Occupants of buildings](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_914.md)
-* [Vulnerable populations and building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_79.md)
-* [Occupants of residential buildings](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1485.md)
-* [Building occupants in environments with high chemical pollutant levels](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1354.md)
-* [Individual who come into contact with contaminated surface](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2258.md)
-* [Building occupants and researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_909.md)
-* [Occupants of buildings with poor indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1198.md)
-* [Occupants of the building and public health](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_141.md)
+* [Building occupants and researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2518.md)
+* [Building occupants in environments with high chemical pollutant levels](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_665.md)
+* [Individual who come into contact with contaminated surface](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_914.md)
+* [Individuals who come into contact with contaminated surfaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_79.md)
+* [Occupant of building with contaminated surface](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1485.md)
+* [Occupants of buildings](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1354.md)
+* [Occupants of buildings with poor indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2258.md)
+* [Occupants of residential buildings](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_909.md)
+* [Occupants of the building and public health](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1198.md)
+* [Vulnerable populations and building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_141.md)
+
+## Risk affecting this stakeholder
+
+* [Contaminated surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1784.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -27,7 +31,7 @@
 
 * [Building conditions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1887.md)
 
-## Risk affecting this stakeholder
+## Type of the stakeholder
 
-* [Contaminated surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1784.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_119.md)
+* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_169.md)
 
 ## Closest similar item
 
-* [Inspections](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_84.md)
-* [Procurement](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2958.md)
-* [Procedures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2518.md)
-* [Strategic master plan](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1782.md)
-* [Legislation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2810.md)
-* [Equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2638.md)
-* [Maintenance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3162.md)
-* [Remote inspections](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_861.md)
-* [Automation in production and distribution](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1631.md)
-* [Proper equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2429.md)
+* [Automation in production and distribution](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_84.md)
+* [Equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2958.md)
+* [Inspections](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2518.md)
+* [Legislation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1782.md)
+* [Maintenance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2810.md)
+* [Procedures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2638.md)
+* [Procurement](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3162.md)
+* [Proper equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_861.md)
+* [Remote inspections](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1631.md)
+* [Strategic master plan](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2429.md)
 
 ## This Technology enables the following mitigations
 

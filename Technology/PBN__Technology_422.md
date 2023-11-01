@@ -4,33 +4,33 @@
 
 ## Category to which it belongs
 
-* [Lighting solutions that utilize ultraviolet technology for germicidal purposes, energy efficiency, and control of natural light.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_147.md)
+* [Lighting solutions that utilize ultraviolet technology for germicidal purposes, energy efficiency, and control of natural light.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_197.md)
 
 ## Closest similar item
 
-* [Lighting systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3476.md)
-* [Natural lighting](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2655.md)
-* [Smart lighting systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1830.md)
-* [Advanced lighting systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1842.md)
+* [Access to natural light](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3476.md)
+* [Advanced lighting systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2655.md)
+* [Energy-efficient lighting systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1830.md)
+* [Lighting and hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1842.md)
 * [Lighting control systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_652.md)
 * [Lighting solutions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2123.md)
-* [Energy-efficient lighting systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1254.md)
-* [Lighting and hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2121.md)
-* [Natural light](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2427.md)
-* [Access to natural light](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2829.md)
+* [Lighting systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1254.md)
+* [Natural light](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2121.md)
+* [Natural lighting](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2427.md)
+* [Smart lighting systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2829.md)
+
+## Risks linked to this technology
+
+* [Lack of sunlight and fresh air](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1285.md)
 
 ## This Technology belongs to this TechGroup
 
 * [Indoor air technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2238.md)
 
-## This technology is mentioned by
-
-* [Home garden use during COVID-19: Associations with physical and mental wellbeing in older adults](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_244.md)
-
 ## This Technology belongs to this TechSubgroup
 
 
-## Risks linked to this technology
+## This technology is mentioned by
 
-* [Lack of sunlight and fresh air](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1285.md)
+* [Home garden use during COVID-19: Associations with physical and mental wellbeing in older adults](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_244.md)
 

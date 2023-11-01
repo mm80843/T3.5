@@ -4,26 +4,31 @@
 
 ## Category to which it belongs
 
-* [The various individuals and entities involved in the provision and administration of healthcare services and systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_190.md)
+* [The various individuals and entities involved in the provision and administration of healthcare services and systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_240.md)
 
 ## Closest similar item
 
-* [Journal editors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1555.md)
-* [Journal editor](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1808.md)
-* [Scientific journals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_968.md)
-* [Scientific journal](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1856.md)
-* [Medical researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_685.md)
+* [Healthcare researcher](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1555.md)
+* [Healthcare researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1808.md)
+* [Journal editor](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_968.md)
+* [Journal editors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1856.md)
+* [Medical doctors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_685.md)
 * [Medical professional](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1984.md)
 * [Medical professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_425.md)
-* [Healthcare researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1164.md)
-* [Medical doctors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_499.md)
-* [Healthcare researcher](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1854.md)
+* [Medical researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1164.md)
+* [Scientific journal](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_499.md)
+* [Scientific journals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1854.md)
+
+## Risk affecting this stakeholder
+
+* [Lack of standards for publication](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1332.md)
 
 ## Risks that can be mitigated by this stakeholder
 
 * [Lack of standards for publication](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1332.md)
 
-## Risk affecting this stakeholder
+## Type of the stakeholder
 
-* [Lack of standards for publication](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1332.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

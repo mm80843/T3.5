@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Managers responsible for overseeing various aspects of facilities and operations, including supply chain, construction projects, healthcare, property, and crisis.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_205.md)
+* [Managers responsible for overseeing various aspects of facilities and operations, including supply chain, construction projects, healthcare, property, and crisis.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_255.md)
 
 ## Closest similar item
 
-* [Construction project managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_772.md)
-* [Construction managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_980.md)
-* [Project manager](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1717.md)
-* [Building manager](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1941.md)
-* [Construction project planners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1237.md)
-* [Construction project team](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2065.md)
-* [Project managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_903.md)
-* [Building managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_10.md)
-* [Construction project teams](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1305.md)
-* [Building management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1101.md)
+* [Building management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_772.md)
+* [Building manager](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_980.md)
+* [Building managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1717.md)
+* [Construction managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1941.md)
+* [Construction project managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1237.md)
+* [Construction project planners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2065.md)
+* [Construction project team](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_903.md)
+* [Construction project teams](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_10.md)
+* [Project manager](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1305.md)
+* [Project managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1101.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

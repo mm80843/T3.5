@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The consequences of social distancing include inconsistent recommendations, environmental degradation, prolonged isolation, and social inequalities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_4.md)
+* [The consequences of social distancing include inconsistent recommendations, environmental degradation, prolonged isolation, and social inequalities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_54.md)
 
 ## Closest similar item
 
-* [Crowded public spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1317.md)
-* [Crowded spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1487.md)
-* [Risk of transmission during social gatherings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_228.md)
-* [Increased commuting and social disruptions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2846.md)
-* [Transmission in gatherings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3072.md)
-* [Crowding and congestion](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1625.md)
-* [Risk of transmission in enclosed and communal spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2096.md)
-* [Crowd congestion](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3090.md)
-* [Overcrowding in public spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3321.md)
-* [Risk of transmission in public spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1468.md)
+* [Crowd congestion](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1317.md)
+* [Crowded public spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1487.md)
+* [Crowded spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_228.md)
+* [Crowding and congestion](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2846.md)
+* [Increased commuting and social disruptions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3072.md)
+* [Overcrowding in public spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1625.md)
+* [Risk of transmission during social gatherings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2096.md)
+* [Risk of transmission in enclosed and communal spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3090.md)
+* [Risk of transmission in public spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3321.md)
+* [Transmission in gatherings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1468.md)
 
 ## Mitigations of this risk
 

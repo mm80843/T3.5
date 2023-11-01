@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The challenges include inadequate monitoring and contact tracing, limited sensor diversity, and temporary regulations to restrict activities in public places.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_16.md)
+* [The challenges include inadequate monitoring and contact tracing, limited sensor diversity, and temporary regulations to restrict activities in public places.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_66.md)
 
 ## Closest similar item
 
-* [Limited testing capacity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2681.md)
+* [Insufficient mass testing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2681.md)
 * [Insufficient testing capacity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_740.md)
-* [Testing strategy limitations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1495.md)
-* [Limited testing and treatment capabilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2786.md)
-* [Lack of testing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_543.md)
-* [Insufficient mass testing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1030.md)
-* [Insufficient testing data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1300.md)
-* [Testing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3393.md)
-* [Limited diagnostic tests](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2567.md)
-* [Limited testing access](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_881.md)
+* [Insufficient testing data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1495.md)
+* [Lack of testing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2786.md)
+* [Limited diagnostic tests](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_543.md)
+* [Limited testing access](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1030.md)
+* [Limited testing and treatment capabilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1300.md)
+* [Limited testing capacity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3393.md)
+* [Testing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2567.md)
+* [Testing strategy limitations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_881.md)
 
 ## Mitigations of this risk
 

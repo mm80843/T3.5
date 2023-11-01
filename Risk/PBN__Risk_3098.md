@@ -4,19 +4,19 @@
 
 ## Category to which it belongs
 
-* [Exposure to a wide range of contaminants, pathogens, and toxins on various surfaces and through different modes of transmission.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_29.md)
+* [Exposure to a wide range of contaminants, pathogens, and toxins on various surfaces and through different modes of transmission.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_79.md)
 
 ## Closest similar item
 
 * [Contaminated environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3229.md)
-* [Environmental contamination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_923.md)
+* [Contaminated surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_923.md)
 * [Contamination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1860.md)
-* [Pollution and environmental contamination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2866.md)
-* [Contaminated surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1784.md)
-* [Waste contamination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3290.md)
-* [Contamination from microorganisms in the built environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1562.md)
+* [Contamination from microorganisms in the built environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2866.md)
+* [Environmental contamination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1784.md)
+* [Pollution and environmental contamination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3290.md)
+* [Spread through contaminated surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1562.md)
 * [Surface contamination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2579.md)
-* [Spread through contaminated surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1731.md)
+* [Waste contamination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1731.md)
 * [Water contamination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_129.md)
 
 ## Mitigations of this risk

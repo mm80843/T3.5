@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Inadequate infection control measures can result in microbial resistance, pathogen contamination, and insufficient disinfection.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_40.md)
+* [Inadequate infection control measures can result in microbial resistance, pathogen contamination, and insufficient disinfection.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_90.md)
 
 ## Closest similar item
 
-* [Improper disposal of infectious hospital wastes and wastewater](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2287.md)
-* [Improper disposal of infectious hospital wastes and wastewater could cause serious risks to public health and environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_665.md)
-* [Contagious diseases transmission through hospital wastes and wastewater](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2288.md)
-* [Improper disposal of pharmaceutical wastes](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2289.md)
-* [Increase in hospital waste generation during covid-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_667.md)
-* [Pathogen contamination in hospital environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_220.md)
-* [Waste contamination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3290.md)
-* [Improper disposal of chemical wastes](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2290.md)
-* [Inadequate disinfection of hospital wastewater](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_668.md)
-* [Spread of covid-19 through waste materials](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_809.md)
+* [Contagious diseases transmission through hospital wastes and wastewater](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2287.md)
+* [Improper disposal of chemical wastes](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_665.md)
+* [Improper disposal of infectious hospital wastes and wastewater](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2288.md)
+* [Improper disposal of infectious hospital wastes and wastewater could cause serious risks to public health and environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2289.md)
+* [Improper disposal of pharmaceutical wastes](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_667.md)
+* [Inadequate disinfection of hospital wastewater](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_220.md)
+* [Increase in hospital waste generation during covid-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3290.md)
+* [Pathogen contamination in hospital environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2290.md)
+* [Spread of covid-19 through waste materials](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_668.md)
+* [Waste contamination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_809.md)
 
 ## Mitigations of this risk
 

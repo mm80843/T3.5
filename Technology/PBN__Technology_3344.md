@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Innovative technologies and systems that enable efficient and secure control, management, and interaction in various domains.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_109.md)
+* [Innovative technologies and systems that enable efficient and secure control, management, and interaction in various domains.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_159.md)
 
 ## Closest similar item
 
 * [Aerators](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3075.md)
-* [Filtration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1750.md)
-* [Filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1882.md)
-* [Air filtration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3148.md)
-* [Environmental controls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1880.md)
-* [Mosquito control operations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3422.md)
-* [Air filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_203.md)
-* [Environmental control systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1056.md)
-* [Wastewater management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2051.md)
-* [Air filtration and purification systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_767.md)
+* [Air filtration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1750.md)
+* [Air filtration and purification systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1882.md)
+* [Air filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3148.md)
+* [Environmental control systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1880.md)
+* [Environmental controls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3422.md)
+* [Filtration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_203.md)
+* [Filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1056.md)
+* [Mosquito control operations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2051.md)
+* [Wastewater management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_767.md)
 
 ## This Technology enables the following mitigations
 

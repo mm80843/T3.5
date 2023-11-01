@@ -4,22 +4,26 @@
 
 ## Category to which it belongs
 
-* [A diverse collection of organizations responsible for various aspects of governance, health, environment, safety, and communication.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_199.md)
+* [A diverse collection of organizations responsible for various aspects of governance, health, environment, safety, and communication.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_249.md)
 
 ## Closest similar item
 
-* [Water and sanitation organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1363.md)
-* [Areas with inadequate sanitation facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_899.md)
-* [Areas with poor sanitation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1084.md)
-* [Communities with inadequate sanitation facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_694.md)
-* [Communities with poor sanitation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_176.md)
+* [Areas with inadequate sanitation facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1363.md)
+* [Areas with poor sanitation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_899.md)
+* [Communities with inadequate sanitation facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1084.md)
+* [Communities with poor sanitation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_694.md)
+* [Waste management agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_176.md)
 * [Wastewater treatment authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1136.md)
-* [Water management agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1069.md)
-* [Wastewater treatment authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2599.md)
-* [Waste management agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1487.md)
+* [Wastewater treatment authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1069.md)
+* [Water and sanitation organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2599.md)
+* [Water management agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1487.md)
 * [Water management agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2359.md)
 
 ## Risks that can be mitigated by this stakeholder
 
 * [Faecal-oral transmission of covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1647.md)
+
+## Type of the stakeholder
+
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
 

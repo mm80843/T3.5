@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [All individuals engaged in various forms of work, including employees, freelancers, laborers, and professionals.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_194.md)
+* [All individuals engaged in various forms of work, including employees, freelancers, laborers, and professionals.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_244.md)
 
 ## Closest similar item
 
-* [Remote worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1745.md)
+* [Individual working remotely](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1745.md)
 * [Individuals working remotely](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_615.md)
-* [Individual working remotely](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2241.md)
-* [Workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_128.md)
-* [Service workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1695.md)
-* [Workers in close-proximity work environments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_837.md)
-* [Workers in public spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1102.md)
-* [Workers in outdoor environments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1733.md)
-* [Indoor workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_806.md)
-* [Office workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_129.md)
+* [Indoor workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2241.md)
+* [Office workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_128.md)
+* [Remote worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1695.md)
+* [Service workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_837.md)
+* [Workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1102.md)
+* [Workers in close-proximity work environments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1733.md)
+* [Workers in outdoor environments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_806.md)
+* [Workers in public spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_129.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

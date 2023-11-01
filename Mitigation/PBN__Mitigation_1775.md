@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Promote and enforce rigorous hygiene practices, ensure proper sanitation infrastructure, and implement strict cleaning and disinfection protocols.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_73.md)
+* [Promote and enforce rigorous hygiene practices, ensure proper sanitation infrastructure, and implement strict cleaning and disinfection protocols.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_123.md)
 
 ## Closest similar item
 
-* [Promote and enforce good hygiene practices, provide handwashing facilities and education.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2103.md)
-* [Implementing proper sanitation and hygiene protocols, promoting hand hygiene, ensuring access to clean water and sanitation facilities.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1612.md)
-* [Regularly educate and remind individuals about proper hygiene practices, provide access to hand sanitizers and cleaning supplies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2257.md)
-* [Regular cleaning and disinfection, maintaining good hygiene practices.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2958.md)
-* [Implementing and enforcing comprehensive hygiene and cleanliness protocols, including regular cleaning and disinfection, hand hygiene stations, and proper waste disposal.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2676.md)
-* [Implement regular cleaning and disinfection protocols, promote good hand hygiene, and encourage the use of protective barriers and personal protective equipment.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1587.md)
-* [Establish cleaning protocols, use effective disinfectants, and promote proper hygiene practices.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2633.md)
-* [Implementing strict cleaning and disinfection protocols, promoting good hygiene practices, enforcing physical distancing measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1581.md)
-* [Improve sanitation infrastructure, provide access to clean water, promote good hygiene practices.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1921.md)
-* [Improve access to clean water, promote hand hygiene, provide adequate sanitation facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1953.md)
+* [Establish cleaning protocols, use effective disinfectants, and promote proper hygiene practices.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2103.md)
+* [Implement regular cleaning and disinfection protocols, promote good hand hygiene, and encourage the use of protective barriers and personal protective equipment.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1612.md)
+* [Implementing and enforcing comprehensive hygiene and cleanliness protocols, including regular cleaning and disinfection, hand hygiene stations, and proper waste disposal.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2257.md)
+* [Implementing proper sanitation and hygiene protocols, promoting hand hygiene, ensuring access to clean water and sanitation facilities.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2958.md)
+* [Implementing strict cleaning and disinfection protocols, promoting good hygiene practices, enforcing physical distancing measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2676.md)
+* [Improve access to clean water, promote hand hygiene, provide adequate sanitation facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1587.md)
+* [Improve sanitation infrastructure, provide access to clean water, promote good hygiene practices.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2633.md)
+* [Promote and enforce good hygiene practices, provide handwashing facilities and education.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1581.md)
+* [Regular cleaning and disinfection, maintaining good hygiene practices.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1921.md)
+* [Regularly educate and remind individuals about proper hygiene practices, provide access to hand sanitizers and cleaning supplies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1953.md)
 
 ## Risks possibly mitigated by this Mitigation
 

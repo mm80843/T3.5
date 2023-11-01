@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_116.md)
+* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_166.md)
 
 ## Closest similar item
 
-* [Immunoassays](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2672.md)
-* [Ai](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_278.md)
-* [Owl 2](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3351.md)
-* [Quarantine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2312.md)
-* [Antiviral](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3293.md)
-* [Ai/ml](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3896.md)
-* [Vaccination](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2313.md)
-* [Vaccine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2478.md)
+* [Ai](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2672.md)
+* [Ai/ml](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_278.md)
+* [Antimalarial](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3351.md)
+* [Antiviral](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2312.md)
+* [Immunoassays](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3293.md)
+* [Owl 2](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3896.md)
+* [Quarantine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2313.md)
+* [Vaccination](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2478.md)
 * [Vaccination campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3006.md)
-* [Antimalarial](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3292.md)
+* [Vaccine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3292.md)
 
 ## This Technology belongs to this TechGroup
 

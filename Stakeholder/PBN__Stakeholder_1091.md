@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [A comprehensive array of various organizations and governing bodies related to diverse industries and sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_229.md)
+* [A comprehensive array of various organizations and governing bodies related to diverse industries and sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_279.md)
 
 ## Closest similar item
 
@@ -13,13 +13,17 @@
 * [Construction firms](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_282.md)
 * [Construction industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_149.md)
 * [Construction managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_980.md)
-* [Construction organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_528.md)
-* [Utility companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_763.md)
-* [Construction organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_427.md)
-* [Utility company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1966.md)
-* [Contractors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_179.md)
+* [Construction organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_528.md)
+* [Construction organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_763.md)
+* [Contractors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_427.md)
+* [Utility companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1966.md)
+* [Utility company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_179.md)
 
 ## Risks that can be mitigated by this stakeholder
 
 * [Increased prevalence of human schistosomiasis resulting from dam constructions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1649.md)
+
+## Type of the stakeholder
+
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
 

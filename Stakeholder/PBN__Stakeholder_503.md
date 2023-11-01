@@ -2,24 +2,28 @@
 
 # __Equity funds__
 
+## Category to which it belongs
+
+* [The financial ecosystem involves a diverse range of entities such as investors, regulatory bodies, stakeholders, banks, and professional associations.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_280.md)
+
+## Closest similar item
+
+* [Alternative investments funds](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_507.md)
+* [Capital market funds](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_506.md)
+* [Fixed income funds](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_505.md)
+* [Fund management companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1893.md)
+* [Fund management company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_49.md)
+* [Fund managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1328.md)
+* [Investor](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1326.md)
+* [Investors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2031.md)
+* [Money market funds](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_89.md)
+* [Private investors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_504.md)
+
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Investment style transitions](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1276.md)
 
-## Category to which it belongs
+## Type of the stakeholder
 
-* [The financial ecosystem involves a diverse range of entities such as investors, regulatory bodies, stakeholders, banks, and professional associations.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_230.md)
-
-## Closest similar item
-
-* [Money market funds](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_507.md)
-* [Capital market funds](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_506.md)
-* [Alternative investments funds](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_505.md)
-* [Investor](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1893.md)
-* [Investors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_49.md)
-* [Fund management companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1328.md)
-* [Fund managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1326.md)
-* [Fund management company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2031.md)
-* [Private investors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_89.md)
-* [Fixed income funds](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_504.md)
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_0.md)
 

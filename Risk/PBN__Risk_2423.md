@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Fragmented global governance, disconnect from nature, limited stakeholder collaboration, rise of authoritarianism, and exclusion from support characterize the challenges at hand.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_26.md)
+* [Fragmented global governance, disconnect from nature, limited stakeholder collaboration, rise of authoritarianism, and exclusion from support characterize the challenges at hand.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_76.md)
 
 ## Closest similar item
 
 * [Inadequate community engagement](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2330.md)
-* [Lack of awareness or engagement](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2853.md)
-* [Lack of community engagement](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2125.md)
-* [Lack of support and resources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2829.md)
-* [Lack of resources and support](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2834.md)
+* [Lack of access to best practices and knowledge](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2853.md)
+* [Lack of awareness or engagement](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2125.md)
+* [Lack of clear guidance and standards](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2829.md)
+* [Lack of community engagement](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2834.md)
 * [Lack of effective partnerships](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3206.md)
-* [Support at organizational level](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1463.md)
-* [Lack of access to best practices and knowledge](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2765.md)
-* [Lack of clear guidance and standards](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2448.md)
-* [Lack of understanding and collaboration between stakeholders](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2447.md)
+* [Lack of resources and support](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1463.md)
+* [Lack of support and resources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2765.md)
+* [Lack of understanding and collaboration between stakeholders](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2448.md)
+* [Support at organizational level](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2447.md)
 
 ## Mitigations of this risk
 

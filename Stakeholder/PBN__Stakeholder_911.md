@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Participants in the iot ecosystem, including users, data collectors, technology providers, essential service providers, and information providers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_231.md)
+* [Participants in the iot ecosystem, including users, data collectors, technology providers, essential service providers, and information providers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_281.md)
 
 ## Closest similar item
 
-* [Iot technology provider](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2574.md)
-* [Iot industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1396.md)
-* [Iot device manufacturers and service providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1432.md)
-* [Iot devices](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1392.md)
-* [Iot device manufacturer and service provider](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2579.md)
-* [Iot device](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2569.md)
-* [Iot device manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_788.md)
-* [Users of iot devices](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1430.md)
+* [Iot device](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2574.md)
+* [Iot device manufacturer and service provider](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1396.md)
+* [Iot device manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1432.md)
+* [Iot device manufacturers and service providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1392.md)
+* [Iot devices](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2579.md)
+* [Iot industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2569.md)
+* [Iot technology provider](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_788.md)
+* [Technology providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1430.md)
 * [User of iot device](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2560.md)
-* [Technology providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_628.md)
+* [Users of iot devices](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_628.md)
 
 ## Risks that can be mitigated by this stakeholder
 
@@ -31,4 +31,8 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Technology and innovation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1873.md)
+
+## Type of the stakeholder
+
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
 

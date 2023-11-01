@@ -2,23 +2,27 @@
 
 # __Long-term protection__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Reduction in cases and severity of COVID-19
+* [Current knowledge of COVID-19: Advances, challenges and future perspectives](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_118.md)
+
+## Category to which it belongs
+
+* [Promotion of security and well-being through measures to minimize harm, enhance protection, and ensure long-term safety.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_48.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Asset value increase from improved public health and safety](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_647.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [Current knowledge of COVID-19: Advances, challenges and future perspectives](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_118.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_29.md)
+Reduction in cases and severity of COVID-19
 
 ## Risks which can benefit from this action
 
 * [Vaccine development](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_598.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_29.md)
 

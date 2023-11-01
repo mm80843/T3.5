@@ -4,34 +4,34 @@
 
 ## Category to which it belongs
 
-* [Promotion and implementation of clean and safe practices, including the use of sanitizers, soap, proper hygiene supplies, and improved sanitation protocols.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_130.md)
+* [Promotion and implementation of clean and safe practices, including the use of sanitizers, soap, proper hygiene supplies, and improved sanitation protocols.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_180.md)
 
 ## Closest similar item
 
-* [Proper sanitation practices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2894.md)
-* [Sanitation facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_624.md)
-* [Sanitation and hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2186.md)
-* [Sanitation supplies and facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2833.md)
-* [Hygiene and sanitation practices and protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2103.md)
-* [Sanitation protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1495.md)
-* [Sanitation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1216.md)
-* [Improved sanitation and hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_525.md)
-* [Sanitation infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_702.md)
-* [Increased cleaning and sanitation protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1822.md)
+* [Hygiene and sanitation practices and protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2894.md)
+* [Improved sanitation and hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_624.md)
+* [Increased cleaning and sanitation protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2186.md)
+* [Proper sanitation practices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2833.md)
+* [Sanitation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2103.md)
+* [Sanitation and hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1495.md)
+* [Sanitation facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1216.md)
+* [Sanitation infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_525.md)
+* [Sanitation protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_702.md)
+* [Sanitation supplies and facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1822.md)
+
+## Risks linked to this technology
+
+* [Fecal-oral transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1544.md)
 
 ## This Technology belongs to this TechGroup
 
 * [Hygiene protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2226.md)
 
-## This technology is mentioned by
-
-* [COVID-19 and its Modes of Transmission](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_225.md)
-
 ## This Technology belongs to this TechSubgroup
 
 * [Hygiene and sanitation practices and protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2103.md)
 
-## Risks linked to this technology
+## This technology is mentioned by
 
-* [Fecal-oral transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1544.md)
+* [COVID-19 and its Modes of Transmission](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_225.md)
 

@@ -4,19 +4,19 @@
 
 ## Category to which it belongs
 
-* [Enhancement of knowledge and skills through resources, initiatives, programs, and proper utilization of personnel for various purposes.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_128.md)
+* [Enhancement of knowledge and skills through resources, initiatives, programs, and proper utilization of personnel for various purposes.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_178.md)
 
 ## Closest similar item
 
-* [Responsive leadership](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_538.md)
+* [Education and training programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_538.md)
 * [Educational programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_837.md)
-* [Job creation programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1473.md)
+* [Government programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1473.md)
 * [Job creation initiatives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_45.md)
-* [Public education programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1545.md)
+* [Job creation programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1545.md)
 * [Outreach programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_174.md)
-* [Education and training programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1154.md)
-* [Sustainable development initiatives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_450.md)
-* [Government programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3020.md)
+* [Public education programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1154.md)
+* [Responsive leadership](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_450.md)
+* [Sustainable development initiatives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3020.md)
 * [Training programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_82.md)
 
 ## This Technology enables the following mitigations

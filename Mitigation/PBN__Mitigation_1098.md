@@ -2,26 +2,26 @@
 
 # __Robots and drones__
 
-## Category to which it belongs
-
-* [Optimizing public health response through the integration of artificial intelligence, machine learning, bioinformatics tools, and knowledge sharing.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_87.md)
-
-## Closest similar item
-
-* [Drones and robot technology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4573.md)
-* [Drones](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1282.md)
-* [Surveillance drones](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3422.md)
-* [Robots](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4877.md)
-* [Delivery drones](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4369.md)
-* [Robotics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_404.md)
-* [Drones for contactless delivery and surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3361.md)
-* [Autonomous robots](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1427.md)
-* [Autonomous drones/ground vehicles for sample transfer](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5221.md)
-* [Deployment of social robots](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_90.md)
-
 ## Benefits linked to a risk
 
 * [Reduction of inter-personal communication](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1085.md)
+
+## Category to which it belongs
+
+* [Optimizing public health response through the integration of artificial intelligence, machine learning, bioinformatics tools, and knowledge sharing.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_137.md)
+
+## Closest similar item
+
+* [Autonomous drones/ground vehicles for sample transfer](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4573.md)
+* [Autonomous robots](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1282.md)
+* [Delivery drones](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3422.md)
+* [Deployment of social robots](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4877.md)
+* [Drones](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4369.md)
+* [Drones and robot technology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_404.md)
+* [Drones for contactless delivery and surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3361.md)
+* [Robotics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1427.md)
+* [Robots](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5221.md)
+* [Surveillance drones](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_90.md)
 
 ## Risks possibly mitigated by this Mitigation
 

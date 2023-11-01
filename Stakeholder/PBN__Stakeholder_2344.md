@@ -4,25 +4,25 @@
 
 ## Category to which it belongs
 
-* [People from diverse backgrounds and circumstances, including marginalized individuals, with different abilities, and in various environments.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_215.md)
+* [People from diverse backgrounds and circumstances, including marginalized individuals, with different abilities, and in various environments.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_265.md)
 
 ## Closest similar item
 
-* [All individuals relying on mobile application notifications](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1309.md)
-* [All individuals using mobile applications](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1307.md)
-* [All individual using mobile application](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2280.md)
-* [Users of iot devices and mobile apps](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1426.md)
-* [User of iot device and mobile app](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2554.md)
-* [App users](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1137.md)
+* [All individual using mobile application](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1309.md)
+* [All individuals relying on mobile application notifications](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1307.md)
+* [All individuals using mobile applications](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2280.md)
+* [App users](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1426.md)
+* [Mobile app developer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2554.md)
+* [Mobile app developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1137.md)
 * [Mobile application developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1906.md)
-* [Mobile app developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1308.md)
-* [Users of shared mobility services](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_483.md)
-* [Mobile app developer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2528.md)
+* [User of iot device and mobile app](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1308.md)
+* [Users of iot devices and mobile apps](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_483.md)
+* [Users of shared mobility services](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2528.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
-* [Vulnerable population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_547.md)
 * [Individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_20.md)
+* [Vulnerable population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_547.md)
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 

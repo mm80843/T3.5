@@ -4,35 +4,46 @@
 
 ## Category to which it belongs
 
-* [A diverse group of specialists and professionals with expertise in risk assessment, data analysis, technology, communication, legal matters, and various domains.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_209.md)
+* [A diverse group of specialists and professionals with expertise in risk assessment, data analysis, technology, communication, legal matters, and various domains.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_259.md)
 
 ## Closest similar item
 
 * [Data analysts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_477.md)
-* [Data owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1465.md)
-* [Data management agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1395.md)
-* [Data management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2027.md)
-* [Data curators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1302.md)
-* [Data management companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_605.md)
-* [Data security professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1536.md)
-* [Data subjects](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_533.md)
-* [Data providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_847.md)
+* [Data curators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1465.md)
+* [Data management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1395.md)
+* [Data management agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2027.md)
+* [Data management companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1302.md)
+* [Data owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_605.md)
+* [Data providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1536.md)
+* [Data security professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_533.md)
+* [Data subjects](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_847.md)
 * [Scientists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_46.md)
+
+## Risk affecting this stakeholder
+
+* [Data quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_901.md)
+* [Data security](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_812.md)
+* [Lack of consensus on interoperability standards](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1737.md)
+* [Lack of data standardization](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1524.md)
+* [Lack of interoperability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_813.md)
+* [Large datasets and lengthy studies required for algorithm training](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1111.md)
+* [Logical inconsistencies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1919.md)
+* [Suboptimal data science literacy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1917.md)
 
 ## Risks that can be mitigated by this stakeholder
 
-* [Privacy concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_47.md)
-* [Disintegrated and non-interoperable data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1439.md)
-* [Data acquisition and integration](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1095.md)
-* [Data security](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1524.md)
-* [Large datasets and lengthy studies required for algorithm training](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1111.md)
-* [Data capture challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1328.md)
-* [Lack of data standardization](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1919.md)
-* [Data quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1737.md)
-* [Data quality and reliability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1523.md)
-* [Lack of historical data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1097.md)
-* [Data sharing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1736.md)
-* [Logical inconsistencies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1917.md)
+* [Data acquisition and integration](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_47.md)
+* [Data capture challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1736.md)
+* [Data quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1439.md)
+* [Data quality and reliability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1095.md)
+* [Data security](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1328.md)
+* [Data sharing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1737.md)
+* [Disintegrated and non-interoperable data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1523.md)
+* [Lack of data standardization](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1524.md)
+* [Lack of historical data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1111.md)
+* [Large datasets and lengthy studies required for algorithm training](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1919.md)
+* [Logical inconsistencies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1097.md)
+* [Privacy concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1917.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -42,14 +53,8 @@
 
 * [Data management and security](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2531.md)
 
-## Risk affecting this stakeholder
+## Type of the stakeholder
 
-* [Lack of interoperability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_901.md)
-* [Suboptimal data science literacy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_813.md)
-* [Lack of consensus on interoperability standards](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_812.md)
-* [Data security](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1524.md)
-* [Large datasets and lengthy studies required for algorithm training](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1111.md)
-* [Lack of data standardization](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1919.md)
-* [Data quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1737.md)
-* [Logical inconsistencies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1917.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

@@ -4,20 +4,26 @@
 
 ## Category to which it belongs
 
-* [Diverse demographics.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_197.md)
+* [Diverse demographics.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_247.md)
 
 ## Closest similar item
 
-* [Elderly](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_336.md)
-* [Elderly individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_804.md)
-* [The elderly](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_821.md)
+* [At-risk populations elderly](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_336.md)
+* [Elderly](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_804.md)
+* [Elderly and at-risk individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_821.md)
 * [Elderly individual](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2122.md)
-* [At-risk populations elderly](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_163.md)
-* [Older people](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_107.md)
-* [Elderly and at-risk individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_194.md)
-* [Older adults](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_461.md)
+* [Elderly individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_163.md)
+* [Elderly residents of care facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_107.md)
+* [Older adults](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_194.md)
+* [Older people](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_461.md)
 * [Older person](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2113.md)
-* [Elderly residents of care facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_868.md)
+* [The elderly](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_868.md)
+
+## Risk affecting this stakeholder
+
+* [Digital exclusion](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2000.md)
+* [Fragmented healthcare system](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1079.md)
+* [Isolation and lack of social interaction](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1361.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -27,9 +33,7 @@
 
 * [Age-specific concerns](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2313.md)
 
-## Risk affecting this stakeholder
+## Type of the stakeholder
 
-* [Isolation and lack of social interaction](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1079.md)
-* [Fragmented healthcare system](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2000.md)
-* [Digital exclusion](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1361.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

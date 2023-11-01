@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Promote comprehensive and widespread testing, contact tracing, and the development of standardized protocols to accurately detect and track the virus.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_96.md)
+* [Promote comprehensive and widespread testing, contact tracing, and the development of standardized protocols to accurately detect and track the virus.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_146.md)
 
 ## Closest similar item
 
-* [Implement safety measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_569.md)
-* [Implementing safety measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_100.md)
-* [Adoption of safety measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_711.md)
-* [Safety protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_781.md)
-* [Focus on safety and security issues](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_254.md)
-* [Provide regular safety training and updates, enforce universal precautions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2809.md)
-* [Regulatory practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3208.md)
-* [Maintain clear communication, demonstrate safety measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2055.md)
-* [Workplace safety measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4521.md)
-* [Emphasizing use of personal protective measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1049.md)
+* [Adoption of safety measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_569.md)
+* [Emphasizing use of personal protective measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_100.md)
+* [Focus on safety and security issues](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_711.md)
+* [Implement safety measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_781.md)
+* [Implementing safety measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_254.md)
+* [Maintain clear communication, demonstrate safety measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2809.md)
+* [Provide regular safety training and updates, enforce universal precautions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3208.md)
+* [Regulatory practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2055.md)
+* [Safety protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4521.md)
+* [Workplace safety measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1049.md)
 
 ## Risks possibly mitigated by this Mitigation
 

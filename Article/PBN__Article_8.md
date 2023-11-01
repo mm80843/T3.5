@@ -2,9 +2,21 @@
 
 # __COVID-19 and the rise of intimate partner violence__
 
+## Benefits listed in this article
+
+* [Financial relief](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_34.md)
+
 ## DOI of the article
 
 10.1016/j.worlddev.2020.105217
+
+## List of risks in an article
+
+* [Financial strain as a risk factor for intimate partner violence](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1038.md)
+* [Increased intimate partner violence during the pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1037.md)
+* [Lack of awareness and education about intimate partner violence during the pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1035.md)
+* [Lack of reliable data on intimate partner violence during the pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1036.md)
+* [Limited access to support services for victims of intimate partner violence](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1039.md)
 
 ## Short summary of the article
 
@@ -14,6 +26,26 @@ This research abstract summarizes a study on the unintended consequences of stay
 
 During the COVID-19 pandemic, many countries implemented stay-at-home policies to keep people safe from the virus. But these policies also had unintended consequences, like an increase in violence against women. In Peru, a study found that calls to a helpline for violence against women increased by 48% since the lockdown started in March. The increase in calls was seen across the country and was not limited to specific groups. It is important to find ways to protect women from violence during this time, such as providing cash transfers or other support.
 
+## This article mentions these technologies
+
+* [Centralized reporting platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_43.md)
+* [Digital data collection systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_39.md)
+* [Digital platforms and online resources for reporting and seeking help](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_42.md)
+* [Digital platforms for counseling](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_44.md)
+* [Financial support programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_45.md)
+* [Helpline services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_40.md)
+* [Job creation initiatives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_41.md)
+* [Online campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_46.md)
+* [Social media platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_47.md)
+
+## This article points to following mitigation
+
+* [Cash transfers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3157.md)
+* [Education programs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3158.md)
+* [Increase helpline](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3159.md)
+* [Safe shelters](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_26.md)
+* [Telehealth services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3160.md)
+
 ## Title of the article
 
 COVID-19 and the rise of intimate partner violence
@@ -21,36 +53,4 @@ COVID-19 and the rise of intimate partner violence
 ## Year of publication
 
 2021
-
-## Benefits listed in this article
-
-* [Financial relief](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_34.md)
-
-## List of risks in an article
-
-* [Financial strain as a risk factor for intimate partner violence](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1038.md)
-* [Increased intimate partner violence during the pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1035.md)
-* [Lack of reliable data on intimate partner violence during the pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1036.md)
-* [Lack of awareness and education about intimate partner violence during the pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1039.md)
-* [Limited access to support services for victims of intimate partner violence](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1037.md)
-
-## This article points to following mitigation
-
-* [Cash transfers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_26.md)
-* [Telehealth services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3159.md)
-* [Education programs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3158.md)
-* [Safe shelters](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3160.md)
-* [Increase helpline](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3157.md)
-
-## This article mentions these technologies
-
-* [Social media platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_47.md)
-* [Online campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_46.md)
-* [Digital platforms and online resources for reporting and seeking help](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_39.md)
-* [Centralized reporting platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_41.md)
-* [Digital platforms for counseling](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_42.md)
-* [Digital data collection systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_40.md)
-* [Helpline services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_43.md)
-* [Financial support programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_44.md)
-* [Job creation initiatives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_45.md)
 

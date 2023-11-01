@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Optimizing public health response through the integration of artificial intelligence, machine learning, bioinformatics tools, and knowledge sharing.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_87.md)
+* [Optimizing public health response through the integration of artificial intelligence, machine learning, bioinformatics tools, and knowledge sharing.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_137.md)
 
 ## Closest similar item
 
-* [Ai algorithms for screening and triage](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1326.md)
-* [Ai algorithms for initial screening](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4957.md)
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3332.md)
-* [Ai for diagnosis and screening](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_651.md)
-* [Rapid testing and contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3808.md)
+* [Ai algorithms for initial screening](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1326.md)
+* [Ai algorithms for screening and triage](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4957.md)
+* [Ai for diagnosis and screening](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3332.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_651.md)
+* [Contact tracing and testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3808.md)
 * [Contact tracing application](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4798.md)
 * [Contact tracing applications](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4257.md)
-* [Implementation of contact tracing and testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_462.md)
-* [Contact tracing and testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5038.md)
-* [Digital contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3248.md)
+* [Digital contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_462.md)
+* [Implementation of contact tracing and testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5038.md)
+* [Rapid testing and contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3248.md)
 
 ## Risks possibly mitigated by this Mitigation
 

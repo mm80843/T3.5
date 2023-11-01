@@ -2,9 +2,25 @@
 
 # __Validity of energy social research during and after COVID-19: challenges, considerations, and responses__
 
+## Benefits listed in this article
+
+* [Enhanced data collection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1349.md)
+* [Enhanced research practices](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1348.md)
+* [Enhanced validity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1347.md)
+* [Improved research design](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1350.md)
+* [Longitudinal insights](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1346.md)
+
 ## DOI of the article
 
 10.1016/j.erss.2020.101646
+
+## List of risks in an article
+
+* [Confounding variables](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1377.md)
+* [Contextual factors](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_163.md)
+* [Data collection limitations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1376.md)
+* [Ethical considerations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1375.md)
+* [Loss of validity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1378.md)
 
 ## Short summary of the article
 
@@ -14,6 +30,22 @@ The COVID-19 pandemic has had significant impacts on the validity of energy soci
 
 The COVID-19 pandemic is affecting the world and how people live. It is also affecting the research that scientists do. The scientists in this paper are talking about how to make sure their research is accurate and true during this challenging time. They give some suggestions on how to collect and report data so that it reflects what is happening because of the pandemic. They also talk about considering the impact of the pandemic on research design and how to interpret the findings. They believe that by following these suggestions, researchers can make sure their work is valid and helpful in the future.
 
+## This article mentions these technologies
+
+
+## This article points to following mitigation
+
+* [Address biases in knowledge representation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3682.md)
+* [Adjusting research design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3677.md)
+* [Capturing extra relevant data](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3680.md)
+* [Collaboration and convergence research](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3678.md)
+* [Considering additional variables](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3675.md)
+* [Considering context in interpretation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3679.md)
+* [Longitudinal elements](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3676.md)
+* [Replicating previous research](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3674.md)
+* [Reporting study conditions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3681.md)
+* [Using multiple data collection methods](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3683.md)
+
 ## Title of the article
 
 Validity of energy social research during and after COVID-19: challenges, considerations, and responses
@@ -21,36 +53,4 @@ Validity of energy social research during and after COVID-19: challenges, consid
 ## Year of publication
 
 2020
-
-## Benefits listed in this article
-
-* [Enhanced validity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1346.md)
-* [Improved research design](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1347.md)
-* [Longitudinal insights](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1348.md)
-* [Enhanced data collection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1349.md)
-* [Enhanced research practices](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1350.md)
-
-## List of risks in an article
-
-* [Data collection limitations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1377.md)
-* [Confounding variables](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1376.md)
-* [Ethical considerations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_163.md)
-* [Loss of validity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1375.md)
-* [Contextual factors](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1378.md)
-
-## This article points to following mitigation
-
-* [Using multiple data collection methods](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3680.md)
-* [Longitudinal elements](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3678.md)
-* [Adjusting research design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3675.md)
-* [Replicating previous research](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3679.md)
-* [Capturing extra relevant data](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3674.md)
-* [Reporting study conditions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3676.md)
-* [Considering additional variables](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3677.md)
-* [Considering context in interpretation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3681.md)
-* [Collaboration and convergence research](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3682.md)
-* [Address biases in knowledge representation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3683.md)
-
-## This article mentions these technologies
-
 

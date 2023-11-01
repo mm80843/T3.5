@@ -2,23 +2,27 @@
 
 # __Reduced risk of mosquito-borne infections__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Modifying building envelopes to minimize the size and number of openings can reduce the ease with which mosquitoes can access buildings, leading to a lower risk of mosquito-borne infections such as malaria for building occupants.
+* [Decision Making within the Built Environment as a Strategy for Mitigating the Risk of Malaria and Other Vector-Borne Diseases](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_272.md)
+
+## Category to which it belongs
+
+* [Enhanced disease prevention through minimization of vector-borne illnesses and limited exposure to infected vectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_36.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in this mitigation measure can benefit from reduced healthcare costs, increased asset value of buildings due to improved occupant health and reduced risk of litigation.](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_1447.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [Decision Making within the Built Environment as a Strategy for Mitigating the Risk of Malaria and Other Vector-Borne Diseases](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_272.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
+Modifying building envelopes to minimize the size and number of openings can reduce the ease with which mosquitoes can access buildings, leading to a lower risk of mosquito-borne infections such as malaria for building occupants.
 
 ## Risks which can benefit from this action
 
 * [Modification of building envelopes to reduce mosquito accessibility](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1299.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
 

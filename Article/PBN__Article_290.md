@@ -2,9 +2,25 @@
 
 # __Green Buildings: A Post COVID-19 Analysis of Preventive Measures of Spreading the Virus__
 
+## Benefits listed in this article
+
+* [Enhanced resilience](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_169.md)
+* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_58.md)
+* [Improved safety and sustainability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1351.md)
+* [Improved well-being and productivity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1352.md)
+* [Slowing the spread of the virus](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1353.md)
+
 ## DOI of the article
 
 10.13140/RG.2.2.36479.43686
+
+## List of risks in an article
+
+* [Airborne transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_965.md)
+* [Lack of green space](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2347.md)
+* [Person-to-person transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2345.md)
+* [Poor indoor environmental quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_252.md)
+* [Surface-to-person transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2346.md)
 
 ## Short summary of the article
 
@@ -14,6 +30,25 @@ This research abstract summarizes the importance of green buildings in improving
 
 Buildings have a big impact on our health and well-being, especially now with the coronavirus. The virus spreads through the air when someone coughs or sneezes, and also by touching surfaces that have the virus on them and then touching our face. We spend a lot of time indoors, so it's important to have healthy buildings. Green buildings are like giant facemasks that protect us from harmful things inside. Green buildings have things like good air quality, energy efficiency, and use sustainable materials. It's important to make sure new buildings have good ventilation and to make older buildings healthier too. Healthy buildings play a big role in creating a healthy world for everyone.
 
+## This article mentions these technologies
+
+* [Air quality monitors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
+* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
+* [Indoor biophilic design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1979.md)
+* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_25.md)
+* [Rooftop gardens](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1981.md)
+* [Smart hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1982.md)
+* [Temperature screening](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1784.md)
+* [Urban green spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1980.md)
+
+## This article points to following mitigation
+
+* [Adequate daylighting](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1391.md)
+* [Green building design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1389.md)
+* [Green retrofitting](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_666.md)
+* [Non-pharmaceutical interventions npis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1390.md)
+* [State-of-the-art ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5216.md)
+
 ## Title of the article
 
 Green Buildings: A Post COVID-19 Analysis of Preventive Measures of Spreading the Virus
@@ -21,39 +56,4 @@ Green Buildings: A Post COVID-19 Analysis of Preventive Measures of Spreading th
 ## Year of publication
 
 2020
-
-## Benefits listed in this article
-
-* [Enhanced resilience](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_58.md)
-* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_169.md)
-* [Slowing the spread of the virus](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1352.md)
-* [Improved safety and sustainability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1351.md)
-* [Improved well-being and productivity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1353.md)
-
-## List of risks in an article
-
-* [Lack of green space](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2347.md)
-* [Airborne transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_252.md)
-* [Poor indoor environmental quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_965.md)
-* [Person-to-person transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2346.md)
-* [Surface-to-person transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2345.md)
-
-## This article points to following mitigation
-
-* [Green retrofitting](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1390.md)
-* [Non-pharmaceutical interventions npis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_666.md)
-* [Green building design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1389.md)
-* [Adequate daylighting](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1391.md)
-* [State-of-the-art ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5216.md)
-
-## This article mentions these technologies
-
-* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
-* [Temperature screening](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_25.md)
-* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
-* [Smart hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1979.md)
-* [Air quality monitors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1980.md)
-* [Urban green spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1982.md)
-* [Rooftop gardens](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1784.md)
-* [Indoor biophilic design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1981.md)
 

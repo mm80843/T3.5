@@ -2,9 +2,25 @@
 
 # __Mental health economics: A prospective study on psychological flourishing and associations with healthcare costs and sickness benefit transfers in Denmark__
 
+## Benefits listed in this article
+
+* [Asset value improvement](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_923.md)
+* [Economic growth and sustainable development](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_924.md)
+* [Lower healthcare costs](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_925.md)
+* [Lower sickness benefit transfers](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_926.md)
+* [Potential return on investment](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_927.md)
+
 ## DOI of the article
 
 10.1016/j.mhp.2021.200222
+
+## List of risks in an article
+
+* [High healthcare costs](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2018.md)
+* [Inadequate mental health resources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2020.md)
+* [Low levels of psychological well-being](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2016.md)
+* [Non-flourishing individuals](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2017.md)
+* [Sickness benefit transfers](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2019.md)
 
 ## Short summary of the article
 
@@ -14,6 +30,28 @@ This study examines the association between psychological flourishing and health
 
 In Denmark, the government spends a lot of money on healthcare. The researchers wanted to see if there were certain things that could lower these costs. They found that people who were flourishing (feeling good and functioning well in life) had lower healthcare costs and sickness benefit transfers. This means that they were healthier and needed less medical help. The researchers estimated that if more people in Denmark were flourishing, the government could save a lot of money each year. This shows that it's important to focus on mental health and well-being, because it can help not only people feel better, but also save money for the government.
 
+## This article mentions these technologies
+
+* [Health information systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_403.md)
+* [Mental health apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_220.md)
+* [Online counseling platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_73.md)
+* [Remote monitoring technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1516.md)
+* [Such as mental health apps and online interventions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_117.md)
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1245.md)
+* [Telemedicine for remote healthcare](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1513.md)
+* [Telepsychiatry](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1512.md)
+* [Well-being promotion technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1514.md)
+* [Workplace health promotion technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1515.md)
+
+## This article points to following mitigation
+
+* [Enhance access to mental health care](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4711.md)
+* [Implement mental health and well-being programs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4713.md)
+* [Implement policies for paid sick leave](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4710.md)
+* [Promote physical activity and exercise](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4709.md)
+* [Strengthen social capital and community coherence](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4712.md)
+* [Strengthen social safety nets](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4714.md)
+
 ## Title of the article
 
 Mental health economics: A prospective study on psychological flourishing and associations with healthcare costs and sickness benefit transfers in Denmark
@@ -21,42 +59,4 @@ Mental health economics: A prospective study on psychological flourishing and as
 ## Year of publication
 
 2021
-
-## Benefits listed in this article
-
-* [Lower healthcare costs](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_923.md)
-* [Lower sickness benefit transfers](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_924.md)
-* [Potential return on investment](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_925.md)
-* [Economic growth and sustainable development](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_926.md)
-* [Asset value improvement](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_927.md)
-
-## List of risks in an article
-
-* [High healthcare costs](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2018.md)
-* [Low levels of psychological well-being](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2016.md)
-* [Inadequate mental health resources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2020.md)
-* [Non-flourishing individuals](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2017.md)
-* [Sickness benefit transfers](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2019.md)
-
-## This article points to following mitigation
-
-* [Enhance access to mental health care](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4711.md)
-* [Promote physical activity and exercise](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4710.md)
-* [Strengthen social safety nets](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4713.md)
-* [Strengthen social capital and community coherence](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4709.md)
-* [Implement mental health and well-being programs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4712.md)
-* [Implement policies for paid sick leave](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4714.md)
-
-## This article mentions these technologies
-
-* [Online counseling platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_220.md)
-* [Mental health apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_117.md)
-* [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_73.md)
-* [Remote monitoring technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_403.md)
-* [Telemedicine for remote healthcare](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1516.md)
-* [Such as mental health apps and online interventions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1513.md)
-* [Health information systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1514.md)
-* [Well-being promotion technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1512.md)
-* [Telepsychiatry](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1245.md)
-* [Workplace health promotion technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1515.md)
 

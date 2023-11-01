@@ -4,34 +4,34 @@
 
 ## Category to which it belongs
 
-* [Enhancing travel experience through real-time updates, virtual tours, local services, reservation systems, alternative transportation, and accessibility improvements.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_132.md)
+* [Enhancing travel experience through real-time updates, virtual tours, local services, reservation systems, alternative transportation, and accessibility improvements.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_182.md)
 
 ## Closest similar item
 
-* [Transportation services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_542.md)
-* [Improved public transportation services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1827.md)
-* [Transportation infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2309.md)
-* [Accessible transportation options](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3691.md)
-* [Transportation planning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_659.md)
-* [Alternative transportation methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_111.md)
-* [Public transport](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3029.md)
-* [Promote active transportation options](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1375.md)
-* [Public transport infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3868.md)
-* [Active transportation infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1153.md)
+* [Accessible transportation options](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_542.md)
+* [Active transportation infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1827.md)
+* [Alternative transportation methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2309.md)
+* [Improved public transportation services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3691.md)
+* [Promote active transportation options](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_659.md)
+* [Public transport](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_111.md)
+* [Public transport infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3029.md)
+* [Transportation infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1375.md)
+* [Transportation planning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3868.md)
+* [Transportation services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1153.md)
+
+## Risks linked to this technology
+
+* [Limited accessibility for low-income citizens](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2221.md)
 
 ## This Technology belongs to this TechGroup
 
 * [Urban technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2270.md)
 
-## This technology is mentioned by
-
-* [Access and Use of Green Areas during the COVID-19 Pandemic: Green Infrastructure Management in the “New Normal”](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_275.md)
-
 ## This Technology belongs to this TechSubgroup
 
 * [Infrastructure and transportation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2165.md)
 
-## Risks linked to this technology
+## This technology is mentioned by
 
-* [Limited accessibility for low-income citizens](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2221.md)
+* [Access and Use of Green Areas during the COVID-19 Pandemic: Green Infrastructure Management in the “New Normal”](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_275.md)
 

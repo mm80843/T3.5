@@ -4,26 +4,26 @@
 
 ## Category to which it belongs
 
-* [Accurate and reliable knowledge dissemination and fact-checking through interdisciplinary collaboration and intelligent information feedback.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_122.md)
+* [Accurate and reliable knowledge dissemination and fact-checking through interdisciplinary collaboration and intelligent information feedback.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_172.md)
 
 ## Closest similar item
 
-* [Expert consultation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3794.md)
-* [Guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_521.md)
-* [Expert systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1145.md)
-* [Clear guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_803.md)
-* [Expertise](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3872.md)
-* [Communication experts](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2006.md)
-* [Design guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_166.md)
-* [Expertise and collaboration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2378.md)
-* [Collaboration among experts from various fields](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_919.md)
-* [Enforcement of guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1997.md)
-
-## This technology is mentioned by
-
-* [Building Transformation for Precautionary Measures against COVID-19 Pandemic: Case of Off-Street Car Parking of Campuses](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_224.md)
+* [Clear guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3794.md)
+* [Collaboration among experts from various fields](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_521.md)
+* [Communication experts](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1145.md)
+* [Design guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_803.md)
+* [Enforcement of guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3872.md)
+* [Expert consultation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2006.md)
+* [Expert systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_166.md)
+* [Expertise](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2378.md)
+* [Expertise and collaboration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_919.md)
+* [Guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1997.md)
 
 ## Risks linked to this technology
 
 * [Forced early](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2081.md)
+
+## This technology is mentioned by
+
+* [Building Transformation for Precautionary Measures against COVID-19 Pandemic: Case of Off-Street Car Parking of Campuses](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_224.md)
 

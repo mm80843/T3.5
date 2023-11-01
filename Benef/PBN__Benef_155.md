@@ -2,23 +2,27 @@
 
 # __Improved health outcomes__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Providing exercise opportunities in design, such as treadmills under workstations, can promote physical activity and reduce the incidence of chronic diseases.
+* [How Architecture Fails in Conditions of Crisis: a Discussion on the Value of Interior Design over the COVID-19 Outbreak](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_34.md)
+
+## Category to which it belongs
+
+* [Enhanced healthcare accessibility, quality, outcomes, and efficiency, along with reduced burden and inequalities, leading to improved public health.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_14.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Private investors can leverage the demand for health-conscious spaces, attracting occupants who prioritize their well-being and potentially reducing healthcare costs for occupants.](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_156.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [How Architecture Fails in Conditions of Crisis: a Discussion on the Value of Interior Design over the COVID-19 Outbreak](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_34.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [Occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_92.md)
+Providing exercise opportunities in design, such as treadmills under workstations, can promote physical activity and reduce the incidence of chronic diseases.
 
 ## Risks which can benefit from this action
 
 * [Incorporating exercise opportunities in design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_137.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [Occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_92.md)
 

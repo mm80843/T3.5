@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Enhancing healthcare infrastructure and capacity, promoting equitable access to healthcare services and resources.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_95.md)
+* [Enhancing healthcare infrastructure and capacity, promoting equitable access to healthcare services and resources.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_145.md)
 
 ## Closest similar item
 
-* [Relocating additional healthcare personnel](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4074.md)
-* [Relocation of healthcare personnel](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_396.md)
-* [Adaptation of healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4862.md)
-* [Rapid expansion of aiir capacity is critical in centers that treat severely affected patients](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2182.md)
-* [Increase healthcare capacity, establish additional temporary facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2990.md)
-* [Conversion of existing spaces into medical facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3214.md)
-* [Enhancing healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4085.md)
-* [Improved health care facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4211.md)
-* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4629.md)
-* [Increase healthcare resources and facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2005.md)
+* [Adaptation of healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4074.md)
+* [Conversion of existing spaces into medical facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_396.md)
+* [Enhancing healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4862.md)
+* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2182.md)
+* [Improved health care facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2990.md)
+* [Increase healthcare capacity, establish additional temporary facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3214.md)
+* [Increase healthcare resources and facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4085.md)
+* [Rapid expansion of aiir capacity is critical in centers that treat severely affected patients](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4211.md)
+* [Relocating additional healthcare personnel](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4629.md)
+* [Relocation of healthcare personnel](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2005.md)
 
 ## Risks possibly mitigated by this Mitigation
 

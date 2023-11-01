@@ -2,24 +2,28 @@
 
 # __Enhanced financial resilience__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Diversifying income streams helps reduce reliance on a single source of funding.
+* [Envisioning a resilient future for biodiversity conservation in the wake of the COVID‐19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_221.md)
+
+## Category to which it belongs
+
+* [The ability to withstand and adapt to disruptions, instability, crises, and shocks is fortified and enhanced.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_13.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [This helps ensure financial stability and long-term sustainability for conservation efforts.](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_1185.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [Envisioning a resilient future for biodiversity conservation in the wake of the COVID‐19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_221.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [Local communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_85.md)
-* [Conservation organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_428.md)
+Diversifying income streams helps reduce reliance on a single source of funding.
 
 ## Risks which can benefit from this action
 
 * [Diversifying income streams](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1064.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [Conservation organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_85.md)
+* [Local communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_428.md)
 

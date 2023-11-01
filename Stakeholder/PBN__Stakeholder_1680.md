@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Managers responsible for overseeing various aspects of facilities and operations, including supply chain, construction projects, healthcare, property, and crisis.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_205.md)
+* [Managers responsible for overseeing various aspects of facilities and operations, including supply chain, construction projects, healthcare, property, and crisis.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_255.md)
 
 ## Closest similar item
 
-* [Office managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1285.md)
-* [Office worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1690.md)
-* [Managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1516.md)
-* [Healthcare manager](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1826.md)
-* [Office workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_129.md)
-* [Offices](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1033.md)
-* [Management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1449.md)
-* [Healthcare managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1193.md)
-* [Urban manager](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1626.md)
-* [Employer and manager](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1952.md)
+* [Employer and manager](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1285.md)
+* [Healthcare manager](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1690.md)
+* [Healthcare managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1516.md)
+* [Management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1826.md)
+* [Managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_129.md)
+* [Office managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1033.md)
+* [Office worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1449.md)
+* [Office workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1193.md)
+* [Offices](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1626.md)
+* [Urban manager](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1952.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

@@ -2,24 +2,28 @@
 
 # __Expanded 5g coverage and connectivity__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Accelerating 5G deployment, encouraging L5GO networks, promoting purpose-built IoT devices, and facilitating spectrum sharing can improve 5G coverage and connectivity, benefiting the general population and healthcare facilities.
+* [The role of 5G for digital healthcare against COVID-19 pandemic: Opportunities and challenges](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_9.md)
+
+## Category to which it belongs
+
+* [Enhancing infrastructure, services, and connectivity to optimize efficiency, accessibility, and reliability in urban environments.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_23.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Private investors can invest in 5g infrastructure, iot device manufacturing, and spectrum sharing initiatives, contributing to expanded 5g coverage and connectivity.](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_42.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [The role of 5G for digital healthcare against COVID-19 pandemic: Opportunities and challenges](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_9.md)
+Accelerating 5G deployment, encouraging L5GO networks, promoting purpose-built IoT devices, and facilitating spectrum sharing can improve 5G coverage and connectivity, benefiting the general population and healthcare facilities.
+
+## Risks which can benefit from this action
+
+* [5g deployment and limited connectivity challenges](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_34.md)
 
 ## Stakeholders benefitting from this Benefit
 
 * [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
 * [Healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_33.md)
-
-## Risks which can benefit from this action
-
-* [5g deployment and limited connectivity challenges](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_34.md)
 

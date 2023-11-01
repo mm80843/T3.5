@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Various categories of people, including individuals of different socioeconomic, gender, age, and health statuses, as well as those affected by specific circumstances or conditions.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_204.md)
+* [Various categories of people, including individuals of different socioeconomic, gender, age, and health statuses, as well as those affected by specific circumstances or conditions.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_254.md)
 
 ## Closest similar item
 
 * [Homele individual](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2328.md)
-* [Homeles population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2279.md)
-* [Homele population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2161.md)
-* [Individuals working from home](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_473.md)
-* [Individual](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2477.md)
-* [Homeowner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2067.md)
-* [Homeowners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_478.md)
-* [Household members](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_162.md)
-* [Residential defined individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2086.md)
-* [Household](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2483.md)
+* [Homele population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2279.md)
+* [Homeles population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2161.md)
+* [Homeowner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_473.md)
+* [Homeowners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2477.md)
+* [Household](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2067.md)
+* [Household members](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_478.md)
+* [Individual](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_162.md)
+* [Individuals working from home](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2086.md)
+* [Residential defined individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2483.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

@@ -2,24 +2,28 @@
 
 # __Enhanced access to healthcare for all__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Strengthening public and universal health systems ensures that healthcare services are accessible to all, improving health outcomes and reducing inequalities.
+* [Building up an ecologically sustainable and socially desirable post-COVID-19 future](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_5.md)
+
+## Category to which it belongs
+
+* [Enhanced healthcare accessibility, quality, outcomes, and efficiency, along with reduced burden and inequalities, leading to improved public health.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_14.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Private investors in healthcare infrastructure and services would benefit from increased demand and profitability.](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_24.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [Building up an ecologically sustainable and socially desirable post-COVID-19 future](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_5.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [Communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_4.md)
-* [Individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_20.md)
+Strengthening public and universal health systems ensures that healthcare services are accessible to all, improving health outcomes and reducing inequalities.
 
 ## Risks which can benefit from this action
 
 * [Strengthen public and universal health systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_16.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [Communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_20.md)
+* [Individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_4.md)
 

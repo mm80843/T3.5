@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_119.md)
+* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_169.md)
 
 ## Closest similar item
 
-* [Multimodal device development](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_179.md)
-* [Automated devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3318.md)
-* [Mobile devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3399.md)
-* [Vr devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3141.md)
-* [Smart devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2287.md)
-* [Wearable devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2579.md)
-* [Digital devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_571.md)
+* [Automated devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_179.md)
+* [Digital and smart devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3318.md)
+* [Digital devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3399.md)
+* [Hardware and devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3141.md)
+* [Mobile devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2287.md)
+* [Multimodal device development](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2579.md)
+* [Smart devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_571.md)
 * [Technology devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2965.md)
-* [Hardware and devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2167.md)
-* [Digital and smart devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2659.md)
+* [Vr devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2167.md)
+* [Wearable devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2659.md)
 
 ## This Technology enables the following mitigations
 

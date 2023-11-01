@@ -4,36 +4,36 @@
 
 ## Category to which it belongs
 
-* [Data protection measures, privacy regulations, encryption and authentication techniques, and standardized protocols ensure secure and anonymous communication.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_118.md)
+* [Data protection measures, privacy regulations, encryption and authentication techniques, and standardized protocols ensure secure and anonymous communication.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_168.md)
 
 ## Closest similar item
 
-* [Secure data storage systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1302.md)
+* [Cloud storage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1302.md)
 * [Data encryption](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_344.md)
-* [Data encryption technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_182.md)
-* [Data encryption techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_824.md)
-* [Data protection systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1314.md)
-* [Encryption](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_97.md)
-* [Data encryption tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1899.md)
-* [Cloud storage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2366.md)
-* [Data storage and backup systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2195.md)
+* [Data encryption techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_182.md)
+* [Data encryption technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_824.md)
+* [Data encryption tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1314.md)
+* [Data protection systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_97.md)
+* [Data storage and backup systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1899.md)
+* [Encryption](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2366.md)
+* [Secure data storage systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2195.md)
 * [Secure file sharing platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2244.md)
+
+## Risks linked to this technology
+
+* [Privacy and data security](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1767.md)
+* [Risk of data privacy and security in mobile applications](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1362.md)
 
 ## This Technology belongs to this TechGroup
 
 * [Data privacy](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2191.md)
 
-## This technology is mentioned by
-
-* [Smart cities and the pandemic: digital technologies on the urban management of Brazilian cities](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_143.md)
-* [Risk Diagnosis and Mitigation System of COVID-19 Using Expert System and Web Scraping](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_237.md)
-
 ## This Technology belongs to this TechSubgroup
 
 * [Data storage and backup systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2195.md)
 
-## Risks linked to this technology
+## This technology is mentioned by
 
-* [Privacy and data security](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1362.md)
-* [Risk of data privacy and security in mobile applications](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1767.md)
+* [Risk Diagnosis and Mitigation System of COVID-19 Using Expert System and Web Scraping](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_143.md)
+* [Smart cities and the pandemic: digital technologies on the urban management of Brazilian cities](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_237.md)
 

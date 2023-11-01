@@ -4,26 +4,26 @@
 
 ## Category to which it belongs
 
-* [Data protection measures, privacy regulations, encryption and authentication techniques, and standardized protocols ensure secure and anonymous communication.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_118.md)
+* [Data protection measures, privacy regulations, encryption and authentication techniques, and standardized protocols ensure secure and anonymous communication.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_168.md)
 
 ## Closest similar item
 
 * [Certification systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2438.md)
-* [Reliable sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1860.md)
-* [Reliable information sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1994.md)
+* [Compliance checks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1860.md)
+* [Credible sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1994.md)
 * [Public education on reliable sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1923.md)
-* [Credible sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3287.md)
-* [Reliable sources of information](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_580.md)
-* [Scientific integrity](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1926.md)
-* [Trust](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2740.md)
-* [Compliance checks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1053.md)
-* [Reliable news sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1125.md)
-
-## This technology is mentioned by
-
-* [What drives unverified information sharing and cyberchondria during the COVID-19 pandemic?](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_31.md)
+* [Reliable information sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3287.md)
+* [Reliable news sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_580.md)
+* [Reliable sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1926.md)
+* [Reliable sources of information](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2740.md)
+* [Scientific integrity](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1053.md)
+* [Trust](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1125.md)
 
 ## Risks linked to this technology
 
 * [Online information trust](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1600.md)
+
+## This technology is mentioned by
+
+* [What drives unverified information sharing and cyberchondria during the COVID-19 pandemic?](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_31.md)
 

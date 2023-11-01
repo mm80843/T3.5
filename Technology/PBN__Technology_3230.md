@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Innovations and applications in chemistry, materials, and technology for purification, disinfection, and environmental protection.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_146.md)
+* [Innovations and applications in chemistry, materials, and technology for purification, disinfection, and environmental protection.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_196.md)
 
 ## Closest similar item
 
-* [Surface coatings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_791.md)
-* [Safe coating materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_266.md)
-* [Titanium-based coatings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3229.md)
-* [Antimicrobial coatings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_787.md)
-* [Scalable production techniques for graphene coatings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_216.md)
-* [Antimicrobial coatings for surfaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1023.md)
-* [Antimicrobial coating](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2870.md)
-* [Anti-sars-cov-2 coatings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_263.md)
-* [Copper alloy coatings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3227.md)
-* [Self-disinfecting coatings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2869.md)
+* [Anti-sars-cov-2 coatings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_791.md)
+* [Antimicrobial coating](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_266.md)
+* [Antimicrobial coatings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3229.md)
+* [Antimicrobial coatings for surfaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_787.md)
+* [Copper alloy coatings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_216.md)
+* [Safe coating materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1023.md)
+* [Scalable production techniques for graphene coatings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2870.md)
+* [Self-disinfecting coatings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_263.md)
+* [Surface coatings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3227.md)
+* [Titanium-based coatings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2869.md)
 
 ## This Technology enables the following mitigations
 

@@ -2,9 +2,25 @@
 
 # __Combating COVID-19—The role of robotics in managing public health and infectious diseases__
 
+## Benefits listed in this article
+
+* [Continued social interactions](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_101.md)
+* [Effective disinfection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_102.md)
+* [Efficient screening](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_103.md)
+* [Remote healthcare and work](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_104.md)
+* [Speed up testing process](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_105.md)
+
 ## DOI of the article
 
 10.1126/scirobotics.abb5589
+
+## List of risks in an article
+
+* [Contamination of surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2351.md)
+* [Lack of qualified staff for testing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2349.md)
+* [Limited social interactions and mental health impact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1324.md)
+* [Privacy concerns in data collection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2348.md)
+* [Remote operation and telecommuting](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2350.md)
 
 ## Short summary of the article
 
@@ -14,6 +30,25 @@ The potential roles of robotics in managing public health and infectious disease
 
 Robots can be really helpful in managing public health and infectious diseases like COVID-19. They can be used in different areas like hospitals and public places. For example, there are robots that can disinfect surfaces using ultraviolet light, which kills the virus. There are also robots that can measure people's temperature to check if they have a fever, which is a symptom of COVID-19. Some robots can even take samples for testing, so that people don't have to do it themselves. Robots can also be used to deliver medicine and interact with people to provide social support. Using robots can help keep people safe and prevent the spread of diseases.
 
+## This article mentions these technologies
+
+* [Online platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_67.md)
+* [Robot-assisted swabbing and blood testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1983.md)
+* [Robot-controlled noncontact uv surface disinfection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1984.md)
+* [Social robots](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1986.md)
+* [Teleoperation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1985.md)
+
+## This article points to following mitigation
+
+* [Autonomous drones/ground vehicles for sample transfer](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5222.md)
+* [Blood test automation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5223.md)
+* [Mobile robots for temperature measurement](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5217.md)
+* [Robot-assisted nasopharyngeal and oropharyngeal swabs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5218.md)
+* [Robot-controlled noncontact uv surface disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5221.md)
+* [Robotics in industrial applications](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5224.md)
+* [Social robots for continued social interactions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5220.md)
+* [Teleoperation for telemedicine and telecommuting](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5219.md)
+
 ## Title of the article
 
 Combating COVID-19—The role of robotics in managing public health and infectious diseases
@@ -21,39 +56,4 @@ Combating COVID-19—The role of robotics in managing public health and infectio
 ## Year of publication
 
 2020
-
-## Benefits listed in this article
-
-* [Effective disinfection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_101.md)
-* [Efficient screening](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_102.md)
-* [Speed up testing process](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_103.md)
-* [Continued social interactions](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_104.md)
-* [Remote healthcare and work](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_105.md)
-
-## List of risks in an article
-
-* [Contamination of surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1324.md)
-* [Lack of qualified staff for testing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2348.md)
-* [Remote operation and telecommuting](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2350.md)
-* [Privacy concerns in data collection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2351.md)
-* [Limited social interactions and mental health impact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2349.md)
-
-## This article points to following mitigation
-
-* [Robot-controlled noncontact uv surface disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5217.md)
-* [Mobile robots for temperature measurement](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5218.md)
-* [Social robots for continued social interactions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5222.md)
-* [Teleoperation for telemedicine and telecommuting](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5223.md)
-* [Robotics in industrial applications](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5224.md)
-* [Blood test automation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5220.md)
-* [Autonomous drones/ground vehicles for sample transfer](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5221.md)
-* [Robot-assisted nasopharyngeal and oropharyngeal swabs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5219.md)
-
-## This article mentions these technologies
-
-* [Online platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_67.md)
-* [Robot-controlled noncontact uv surface disinfection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1983.md)
-* [Teleoperation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1986.md)
-* [Social robots](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1985.md)
-* [Robot-assisted swabbing and blood testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1984.md)
 

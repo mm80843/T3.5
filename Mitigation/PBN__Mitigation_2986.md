@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Promote self-cleaning spaces, implement touchless technologies, and use natural light to establish safer environments.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_80.md)
+* [Promote self-cleaning spaces, implement touchless technologies, and use natural light to establish safer environments.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_130.md)
 
 ## Closest similar item
 
-* [More research on uv susceptibility](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2985.md)
-* [Study of the effect of rh on uv susceptibility of bacterial aerosols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_450.md)
-* [Study of the effect of rh on uv susceptibility of pathogenic viral aerosols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_451.md)
-* [Uv radiation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1351.md)
-* [Rh effect on uv inactivation of bacterial aerosols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5106.md)
-* [Uv-light radiation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_402.md)
+* [Develop standardized tests and protocols for uvgi efficacy, ensure testing reflects real-world conditions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2985.md)
+* [More research on uv susceptibility](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_450.md)
+* [Rh effect on uv inactivation of bacterial aerosols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_451.md)
+* [Study of the effect of rh on uv susceptibility of bacterial aerosols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1351.md)
+* [Study of the effect of rh on uv susceptibility of pathogenic viral aerosols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5106.md)
+* [Ultraviolet irradiation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_402.md)
 * [Uv irradiation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3312.md)
-* [Uv-based technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_994.md)
-* [Develop standardized tests and protocols for uvgi efficacy, ensure testing reflects real-world conditions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2324.md)
-* [Ultraviolet irradiation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5120.md)
+* [Uv radiation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_994.md)
+* [Uv-based technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2324.md)
+* [Uv-light radiation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5120.md)
 
 ## Risks possibly mitigated by this Mitigation
 

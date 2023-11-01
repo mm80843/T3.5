@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Standardizing coronavirus knowledge, the respiratory virus spreads through the built environment, work, touch, aerosols, and contaminated surfaces.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_23.md)
+* [Standardizing coronavirus knowledge, the respiratory virus spreads through the built environment, work, touch, aerosols, and contaminated surfaces.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_73.md)
 
 ## Closest similar item
 
 * [Emerging variants of viruses](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3385.md)
-* [Virus outbreaks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_959.md)
-* [Viral transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2777.md)
-* [Variants of the virus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_903.md)
-* [Virus spread](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2488.md)
-* [Virus propagation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1032.md)
-* [Geographical spread of virus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_844.md)
-* [Virus spread through vertical shaft](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2911.md)
-* [Persistence of virus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2778.md)
-* [Spread of virus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2484.md)
+* [Geographical spread of virus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_959.md)
+* [Persistence of virus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2777.md)
+* [Spread of virus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_903.md)
+* [Variants of the virus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2488.md)
+* [Viral transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1032.md)
+* [Virus outbreaks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_844.md)
+* [Virus propagation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2911.md)
+* [Virus spread](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2778.md)
+* [Virus spread through vertical shaft](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2484.md)
 
 ## Mitigations of this risk
 

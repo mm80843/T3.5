@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Promote equitable and sustainable urban development with adequate housing, improved infrastructure, and increased access to essential services.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_67.md)
+* [Promote equitable and sustainable urban development with adequate housing, improved infrastructure, and increased access to essential services.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_117.md)
 
 ## Closest similar item
 
-* [Designated community-level areas for essential services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_329.md)
+* [Conduct comprehensive community needs assessment to determine appropriate allocation of services.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_329.md)
 * [Configuration of community service facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5142.md)
-* [Conduct comprehensive community needs assessment to determine appropriate allocation of services.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3022.md)
+* [Designated community-level areas for essential services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3022.md)
 * [Emphasize community-level design, develop green spaces and local amenities, promote accessibility](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1736.md)
-* [Implementation of community-level planning and design strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_298.md)
-* [Transforming public places for essential uses, such as food distribution, medical support, etc.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1724.md)
-* [Provision of community-level key public places](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3474.md)
-* [Supporting local communities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_132.md)
-* [Providing resources and support, clear communication of guidelines, ensuring access to essential services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2964.md)
-* [Ensuring basic supplies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1404.md)
+* [Ensuring basic supplies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_298.md)
+* [Implementation of community-level planning and design strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1724.md)
+* [Providing resources and support, clear communication of guidelines, ensuring access to essential services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3474.md)
+* [Provision of community-level key public places](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_132.md)
+* [Supporting local communities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2964.md)
+* [Transforming public places for essential uses, such as food distribution, medical support, etc.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1404.md)
 
 ## Risks possibly mitigated by this Mitigation
 

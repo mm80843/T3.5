@@ -2,23 +2,27 @@
 
 # __Increased safety and flexibility in interior spaces__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Reduced risk of virus transmission, improved sense of safety and comfort
+* [The Impact of COVID-19 on Public Space: A Review of the Emerging Questions](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_261.md)
+
+## Category to which it belongs
+
+* [Enhanced building performance, flexibility, and occupant comfort for sustainable and efficient design and construction.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_40.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Increased usage of interior spaces, improved public health outcomes](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_1402.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [The Impact of COVID-19 on Public Space: A Review of the Emerging Questions](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_261.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [Users of interior public spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_485.md)
+Reduced risk of virus transmission, improved sense of safety and comfort
 
 ## Risks which can benefit from this action
 
 * [Redesigning and reorganizing interior spaces to accommodate for social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1261.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [Users of interior public spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_485.md)
 

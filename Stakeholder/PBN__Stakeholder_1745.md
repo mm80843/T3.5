@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [All individuals engaged in various forms of work, including employees, freelancers, laborers, and professionals.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_194.md)
+* [All individuals engaged in various forms of work, including employees, freelancers, laborers, and professionals.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_244.md)
 
 ## Closest similar item
 
-* [Remote workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1700.md)
-* [Individual working remotely](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2241.md)
-* [Individuals working remotely](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_615.md)
-* [Worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1755.md)
-* [Service worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1739.md)
-* [Frontline worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1660.md)
-* [Indoor worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2509.md)
-* [Office worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1690.md)
-* [Hospitality worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1914.md)
-* [Hotel worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1762.md)
+* [Frontline worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1700.md)
+* [Hospitality worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2241.md)
+* [Hotel worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_615.md)
+* [Individual working remotely](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1755.md)
+* [Individuals working remotely](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1739.md)
+* [Indoor worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1660.md)
+* [Office worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2509.md)
+* [Remote workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1690.md)
+* [Service worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1914.md)
+* [Worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1762.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

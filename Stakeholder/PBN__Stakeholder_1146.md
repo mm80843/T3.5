@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Participants in the iot ecosystem, including users, data collectors, technology providers, essential service providers, and information providers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_231.md)
+* [Participants in the iot ecosystem, including users, data collectors, technology providers, essential service providers, and information providers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_281.md)
 
 ## Closest similar item
 
-* [Support network](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2412.md)
+* [Community support network](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2412.md)
 * [Community support networks](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1264.md)
-* [Community support network](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2424.md)
-* [Community support networks/services](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2407.md)
-* [Support organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_789.md)
-* [Support organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2403.md)
-* [Community support services](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1421.md)
-* [It support personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_779.md)
-* [Community support service](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2406.md)
-* [It support](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1321.md)
+* [Community support networks/services](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2424.md)
+* [Community support service](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2407.md)
+* [Community support services](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_789.md)
+* [It support](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2403.md)
+* [It support personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1421.md)
+* [Support network](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_779.md)
+* [Support organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2406.md)
+* [Support organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1321.md)
 
 ## Risks that can be mitigated by this stakeholder
 
@@ -30,4 +30,8 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Community support networks/services](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2407.md)
+
+## Type of the stakeholder
+
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
 

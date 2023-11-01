@@ -4,33 +4,33 @@
 
 ## Category to which it belongs
 
-* [Advancements in various technological domains facilitate touchless, remote, and efficient ways of communication, work, and data management.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_108.md)
+* [Advancements in various technological domains facilitate touchless, remote, and efficient ways of communication, work, and data management.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_158.md)
 
 ## Closest similar item
 
-* [Cybersecurity tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1792.md)
-* [Cybersecurity protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_577.md)
-* [Cybersecurity measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_400.md)
-* [Cybersecurity and security protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2192.md)
-* [Security systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1879.md)
-* [Cybersecurity training programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1304.md)
+* [Cybersecurity and security protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1792.md)
+* [Cybersecurity measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_577.md)
+* [Cybersecurity protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_400.md)
+* [Cybersecurity tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2192.md)
+* [Cybersecurity training programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1879.md)
+* [Information technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1304.md)
 * [Intrusion detection systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1634.md)
-* [Surveillance technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1261.md)
-* [Information technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2298.md)
+* [Security systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1261.md)
+* [Surveillance technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2298.md)
 * [Surveillance technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3017.md)
+
+## Risks linked to this technology
+
+* [Cybersecurity risks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2063.md)
 
 ## This Technology belongs to this TechGroup
 
 * [Ai tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1316.md)
 
-## This technology is mentioned by
-
-* [Singh_internet_2020 singh_internet_2020 nan singh_internet_2020 nan nan singh_internet_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_301.md)
-
 ## This Technology belongs to this TechSubgroup
 
 
-## Risks linked to this technology
+## This technology is mentioned by
 
-* [Cybersecurity risks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2063.md)
+* [Singh_internet_2020 singh_internet_2020 nan singh_internet_2020 nan nan singh_internet_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_301.md)
 

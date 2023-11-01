@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The spread of disease through direct and indirect contact in various environments and social settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_32.md)
+* [The spread of disease through direct and indirect contact in various environments and social settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_82.md)
 
 ## Closest similar item
 
-* [Transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_974.md)
-* [Transmission, economy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2639.md)
-* [Travel transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2154.md)
-* [Direct transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1541.md)
+* [Chain of transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_974.md)
+* [Direct transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2639.md)
+* [High rates of transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2154.md)
+* [Indirect transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1541.md)
 * [Local transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1583.md)
-* [Transmission risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1086.md)
-* [Transmission to others](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2582.md)
-* [High rates of transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2606.md)
-* [Chain of transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2477.md)
-* [Indirect transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1542.md)
+* [Transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1086.md)
+* [Transmission risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2582.md)
+* [Transmission to others](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2606.md)
+* [Transmission, economy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2477.md)
+* [Travel transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1542.md)
 
 ## Mitigations of this risk
 

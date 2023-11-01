@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Innovations and applications in chemistry, materials, and technology for purification, disinfection, and environmental protection.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_146.md)
+* [Innovations and applications in chemistry, materials, and technology for purification, disinfection, and environmental protection.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_196.md)
 
 ## Closest similar item
 
-* [Sodium dichloroisocyanurate](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3283.md)
-* [Liquid chlorine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1903.md)
-* [Sodium chloride](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2876.md)
-* [Chlorine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3131.md)
-* [Sodium hypochlorite](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_850.md)
+* [Benzalkonium chloride](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3283.md)
+* [Chloramine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1903.md)
+* [Chlorine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2876.md)
+* [Chlorine dioxide](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3131.md)
+* [Chlorine gas](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_850.md)
 * [Chlorine-containing disinfectant](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2467.md)
-* [Benzalkonium chloride](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2939.md)
-* [Chlorine dioxide](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1904.md)
-* [Chlorine gas](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3770.md)
-* [Chloramine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3132.md)
+* [Liquid chlorine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2939.md)
+* [Sodium chloride](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1904.md)
+* [Sodium dichloroisocyanurate](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3770.md)
+* [Sodium hypochlorite](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3132.md)
 
 ## This Technology enables the following mitigations
 

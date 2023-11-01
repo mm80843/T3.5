@@ -2,24 +2,28 @@
 
 # __Private__
 
+## Category to which it belongs
+
+* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_262.md)
+
+## Closest similar item
+
+* [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_56.md)
+* [Individual with private green space](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2066.md)
+* [Private businesses](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1919.md)
+* [Private entities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_52.md)
+* [Private entity](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_247.md)
+* [Private investors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_291.md)
+* [Private organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_29.md)
+* [Private organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2284.md)
+* [Private sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_89.md)
+* [Public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_57.md)
+
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Enhanced coordination and cooperation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1092.md)
 
-## Category to which it belongs
+## Type of the stakeholder
 
-* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_212.md)
-
-## Closest similar item
-
-* [Private entities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_56.md)
-* [Private organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2066.md)
-* [Private entity](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1919.md)
-* [Public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_52.md)
-* [Private organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_247.md)
-* [Private businesses](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_291.md)
-* [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_29.md)
-* [Individual with private green space](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2284.md)
-* [Private investors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_89.md)
-* [Private sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_57.md)
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_0.md)
 

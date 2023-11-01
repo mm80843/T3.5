@@ -2,20 +2,24 @@
 
 # __Health__
 
+## Articles mentionning the risk
+
+* [The health benefits of the great outdoors: A systematic review and meta-analysis of greenspace exposure and health outcomes](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_50.md)
+
 ## Category to which it belongs
 
-* [The impact of various factors on public health, including unhealthy behaviors, limited access to healthcare, and food insecurity.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_3.md)
+* [The impact of various factors on public health, including unhealthy behaviors, limited access to healthcare, and food insecurity.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_53.md)
 
 ## Closest similar item
 
-* [Human health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2972.md)
-* [Healthcare](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2379.md)
-* [Healthcare-](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2296.md)
-* [Health and well-being](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_747.md)
-* [Mental and physical health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2432.md)
-* [And physical health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2267.md)
-* [Health effects](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2497.md)
-* [Link between human activity and health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_46.md)
+* [And physical health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2972.md)
+* [Health and well-being](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2379.md)
+* [Health effects](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2296.md)
+* [Healthcare](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_747.md)
+* [Healthcare-](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2432.md)
+* [Human health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2267.md)
+* [Link between human activity and health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2497.md)
+* [Mental and physical health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_46.md)
 * [Mental health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_611.md)
 * [Physical health issues](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2942.md)
 
@@ -23,21 +27,9 @@
 
 Exposure to greenspace is associated with improved health
 
-## Type of the risk
-
-* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Is the risk affecting GBN scales
 
 * [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
-
-## Type of impact of the risk (according to ISO37100)
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
-
-## Type of purpose of the risk (according to ISO37100)
-
-* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_1.md)
 
 ## Mitigations of this risk
 
@@ -47,21 +39,29 @@ Exposure to greenspace is associated with improved health
 
 Increased well-being and reduced health issues
 
-## Stakeholders who can mitigate this risk
-
-* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
-* [Community organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_150.md)
-
-## Articles mentionning the risk
-
-* [The health benefits of the great outdoors: A systematic review and meta-analysis of greenspace exposure and health outcomes](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_50.md)
-
 ## People affected by this risk
 
 * [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
 
+## Stakeholders who can mitigate this risk
+
+* [Community organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
+* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_150.md)
+
 ## Technologies linked to the risk
 
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_1.md)
+
+## Type of the risk
+
+* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 

@@ -4,28 +4,28 @@
 
 ## Category to which it belongs
 
-* [Innovations and applications in chemistry, materials, and technology for purification, disinfection, and environmental protection.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_146.md)
+* [Innovations and applications in chemistry, materials, and technology for purification, disinfection, and environmental protection.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_196.md)
 
 ## Closest similar item
 
-* [Photocatalytic oxidation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2234.md)
-* [Photocatalytic oxidation filter](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3236.md)
-* [Photocatalytic paints](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2665.md)
-* [Photocatalyst tio2](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2501.md)
-* [Photocatalysts such as tio2](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3154.md)
-* [Electrochemical reactions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2472.md)
-* [Hydrogen peroxide](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_852.md)
+* [Electrochemical reactions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2234.md)
+* [Hydrogen peroxide](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3236.md)
+* [Photocatalyst tio2](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2665.md)
+* [Photocatalysts such as tio2](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2501.md)
+* [Photocatalytic oxidation filter](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3154.md)
+* [Photocatalytic oxidation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2472.md)
+* [Photocatalytic paints](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_852.md)
 * [Ultraviolet irradiation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1902.md)
-* [Vaporized hydrogen peroxide](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_234.md)
-* [Uv irradiation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2268.md)
+* [Uv irradiation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_234.md)
+* [Vaporized hydrogen peroxide](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2268.md)
+
+## Risks linked to this technology
+
+* [Aq1](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2176.md)
 
 ## This Technology belongs to this TechGroup
 
 * [Indoor air technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2238.md)
-
-## This technology is mentioned by
-
-* [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_51.md)
 
 ## This Technology belongs to this TechSubgroup
 
@@ -35,7 +35,7 @@
 
 * [Efficiency of air filtration systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_224.md)
 
-## Risks linked to this technology
+## This technology is mentioned by
 
-* [Aq1](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2176.md)
+* [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_51.md)
 

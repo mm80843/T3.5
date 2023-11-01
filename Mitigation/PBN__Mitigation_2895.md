@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Implementation of comprehensive and rigorous cleaning, disinfection, and sanitation practices to ensure effective and efficient pathogen eradication.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_70.md)
+* [Implementation of comprehensive and rigorous cleaning, disinfection, and sanitation practices to ensure effective and efficient pathogen eradication.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_120.md)
 
 ## Closest similar item
 
-* [Develop waste management strategies, including proper waste segregation and disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2937.md)
-* [Proper disinfection and disposal of hospital wastes and wastewater](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_929.md)
-* [Implementation of proper disinfection technologies for hospital wastes](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_931.md)
-* [Regular disinfection, high-level hygiene practices, waste management.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1722.md)
-* [Disinfection of household waste](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_237.md)
-* [Appropriate disposal and disinfection of hospital wastes and wastewater before transportation or discharge.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3003.md)
-* [Proper disinfection and treatment of hospital wastes and wastewater to eliminate pathogens.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3004.md)
-* [Proper classification and disinfection of hospital wastes](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_933.md)
-* [Development of sustainable disinfection technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1293.md)
-* [Environmental cleaning and disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3593.md)
+* [Appropriate disposal and disinfection of hospital wastes and wastewater before transportation or discharge.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2937.md)
+* [Develop waste management strategies, including proper waste segregation and disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_929.md)
+* [Development of sustainable disinfection technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_931.md)
+* [Disinfection of household waste](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1722.md)
+* [Environmental cleaning and disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_237.md)
+* [Implementation of proper disinfection technologies for hospital wastes](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3003.md)
+* [Proper classification and disinfection of hospital wastes](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3004.md)
+* [Proper disinfection and disposal of hospital wastes and wastewater](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_933.md)
+* [Proper disinfection and treatment of hospital wastes and wastewater to eliminate pathogens.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1293.md)
+* [Regular disinfection, high-level hygiene practices, waste management.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3593.md)
 
 ## Risks possibly mitigated by this Mitigation
 

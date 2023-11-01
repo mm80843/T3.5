@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Efforts to inform and engage the public, promote awareness, influence policies, and foster community involvement.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_124.md)
+* [Efforts to inform and engage the public, promote awareness, influence policies, and foster community involvement.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_174.md)
 
 ## Closest similar item
 
-* [Proactive decision-making](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1707.md)
-* [Policy engagement](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_160.md)
-* [Policy advocacy](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_451.md)
-* [Policy implementation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3433.md)
-* [Community policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2394.md)
-* [Policy changes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_443.md)
-* [Public awareness initiatives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_444.md)
-* [Public engagement strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3683.md)
-* [Policy interventions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2813.md)
-* [Public awareness programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1300.md)
+* [Community policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1707.md)
+* [Policy advocacy](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_160.md)
+* [Policy changes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_451.md)
+* [Policy engagement](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3433.md)
+* [Policy implementation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2394.md)
+* [Policy interventions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_443.md)
+* [Proactive decision-making](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_444.md)
+* [Public awareness initiatives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3683.md)
+* [Public awareness programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2813.md)
+* [Public engagement strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1300.md)
 
 ## This Technology enables the following mitigations
 

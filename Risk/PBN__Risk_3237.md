@@ -4,19 +4,19 @@
 
 ## Category to which it belongs
 
-* [Healthcare systems overwhelmed, limited access to services, scarcity of resources, and risk to healthcare workers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_10.md)
+* [Healthcare systems overwhelmed, limited access to services, scarcity of resources, and risk to healthcare workers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_60.md)
 
 ## Closest similar item
 
-* [Inadequate healthcare resources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3185.md)
-* [Lack of healthcare access](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3144.md)
-* [Insufficient healthcare infrastructure and resources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1159.md)
-* [Lack of healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1859.md)
+* [Inadequate healthcare capacity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3185.md)
+* [Inadequate healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3144.md)
+* [Inadequate healthcare resources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1159.md)
+* [Insufficient healthcare infrastructure and resources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1859.md)
 * [Lack of access to healthcare services](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2469.md)
-* [Lack of treatment and resources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2046.md)
-* [Inadequate healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1122.md)
-* [Inadequate healthcare capacity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2861.md)
-* [Lack of equitable access to healthcare](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1698.md)
+* [Lack of equitable access to healthcare](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2046.md)
+* [Lack of healthcare access](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1122.md)
+* [Lack of healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2861.md)
+* [Lack of treatment and resources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1698.md)
 * [Weak health-care systems and limited resources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_354.md)
 
 ## Mitigations of this risk

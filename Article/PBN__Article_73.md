@@ -2,9 +2,33 @@
 
 # __The hierarchy of preventive measures to protect workers against the COVID-19 pandemic: A review__
 
+## Benefits listed in this article
+
+* [Decreased droplet transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_169.md)
+* [Enhanced protection against transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_374.md)
+* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_372.md)
+* [Minimized exposure through changes in work procedures](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_371.md)
+* [Reduction of airborne virus transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_373.md)
+
 ## DOI of the article
 
 10.3233/wor-203330
+
+## List of risks in an article
+
+* [Air recirculation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1314.md)
+* [Inadequate use of personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1315.md)
+* [Inadequate ventilation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1310.md)
+* [Ineffective administrative controls](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1316.md)
+* [Ineffective air filtration](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_713.md)
+* [Insufficient use of outdoor air](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1312.md)
+* [Lack of physical barriers](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1313.md)
+* [Occupational exposure to coronavirus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1311.md)
+
+## Referenced by other articles
+
+* [2019 Novel Coronavirus (COVID-19) Pandemic: Built Environment Considerations To Reduce Transmission](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_264.md)
+* [Air, Surface Environmental, and Personal Protective Equipment Contamination by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) From a Symptomatic Patient](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_288.md)
 
 ## Short summary of the article
 
@@ -14,10 +38,32 @@ This study focuses on the use of engineering controls to reduce occupational exp
 
 COVID-19 is a disease caused by a virus called SARS-CoV-2. It has spread all over the world and many people have gotten sick and even died from it. Some jobs are more risky than others when it comes to getting infected with the virus. Healthcare workers like doctors and nurses who take care of sick people are at the highest risk. Other jobs like transportation workers and people who work in stores also have some risk. To protect workers from getting sick, different measures can be taken. One way is to improve the ventilation in buildings by bringing in fresh air from outside. Another way is to use special filters in the air conditioning systems to catch the tiny virus particles. Physical barriers like plastic shields can also be used to keep people apart. Workers can also wear special protective equipment like masks and gloves to stay safe. It's important for employers and health professionals to follow the guidelines and make sure workplaces are as safe as possible.
 
-## Referenced by other articles
+## This article mentions these technologies
 
-* [Air, Surface Environmental, and Personal Protective Equipment Contamination by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) From a Symptomatic Patient](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_264.md)
-* [2019 Novel Coronavirus (COVID-19) Pandemic: Built Environment Considerations To Reduce Transmission](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_288.md)
+* [Employee training](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_341.md)
+* [Face shields](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
+* [Facemasks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
+* [Gloves](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_480.md)
+* [Gowns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_154.md)
+* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_481.md)
+* [Physical barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_483.md)
+* [Plexiglass](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_485.md)
+* [Policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_484.md)
+* [Polycarbonate](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_235.md)
+* [Protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_486.md)
+* [Respirators](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_482.md)
+* [Tempered glass](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_477.md)
+* [Uv irradiation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_478.md)
+* [Ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_479.md)
+
+## This article points to following mitigation
+
+* [Administrative controls](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3572.md)
+* [Improvement of ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3573.md)
+* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_375.md)
+* [Physical barriers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3575.md)
+* [Portable air cleaner](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_373.md)
+* [Use of high-efficiency air filters](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3574.md)
 
 ## Title of the article
 
@@ -26,50 +72,4 @@ The hierarchy of preventive measures to protect workers against the COVID-19 pan
 ## Year of publication
 
 2020
-
-## Benefits listed in this article
-
-* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_169.md)
-* [Reduction of airborne virus transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_371.md)
-* [Decreased droplet transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_372.md)
-* [Minimized exposure through changes in work procedures](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_373.md)
-* [Enhanced protection against transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_374.md)
-
-## List of risks in an article
-
-* [Ineffective administrative controls](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1315.md)
-* [Occupational exposure to coronavirus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1310.md)
-* [Ineffective air filtration](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1313.md)
-* [Air recirculation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1311.md)
-* [Inadequate ventilation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_713.md)
-* [Insufficient use of outdoor air](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1312.md)
-* [Inadequate use of personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1316.md)
-* [Lack of physical barriers](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1314.md)
-
-## This article points to following mitigation
-
-* [Portable air cleaner](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3573.md)
-* [Improvement of ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3572.md)
-* [Physical barriers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3574.md)
-* [Use of high-efficiency air filters](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_373.md)
-* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3575.md)
-* [Administrative controls](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_375.md)
-
-## This article mentions these technologies
-
-* [Physical barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_341.md)
-* [Ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
-* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
-* [Gloves](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_485.md)
-* [Face shields](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_484.md)
-* [Uv irradiation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_235.md)
-* [Protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_154.md)
-* [Policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_480.md)
-* [Facemasks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_482.md)
-* [Employee training](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_481.md)
-* [Plexiglass](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_477.md)
-* [Polycarbonate](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_478.md)
-* [Tempered glass](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_479.md)
-* [Respirators](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_483.md)
-* [Gowns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_486.md)
 

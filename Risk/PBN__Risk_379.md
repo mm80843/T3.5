@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Rapid transmission and global impact of infectious diseases, including those spread by vectors, due to various factors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_15.md)
+* [Rapid transmission and global impact of infectious diseases, including those spread by vectors, due to various factors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_65.md)
 
 ## Closest similar item
 
-* [Spread of infectious diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_744.md)
+* [Contagious disease spread](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_744.md)
 * [Disease spread](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2614.md)
-* [Spread of the disease](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3332.md)
-* [Spread of contagious diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20.md)
-* [Spread of contagious epidemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_936.md)
-* [Spread of contagious disease](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3175.md)
-* [Contagious disease spread](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2003.md)
-* [Global disease diffusion](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3225.md)
-* [Infectious disease outbreaks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1305.md)
-* [Spread of contagious diseases in densely populated areas](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1671.md)
+* [Global disease diffusion](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3332.md)
+* [Infectious disease outbreaks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20.md)
+* [Spread of contagious disease](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_936.md)
+* [Spread of contagious diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3175.md)
+* [Spread of contagious diseases in densely populated areas](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2003.md)
+* [Spread of contagious epidemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3225.md)
+* [Spread of infectious diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1305.md)
+* [Spread of the disease](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1671.md)
 
 ## Mitigations of this risk
 

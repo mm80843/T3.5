@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The challenges of urban inequality, parameter identification, noise pollution, waste, and delayed decision making have resulted in increased inequalities and exclusion, posing numerous issues for governance and scalability.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_14.md)
+* [The challenges of urban inequality, parameter identification, noise pollution, waste, and delayed decision making have resulted in increased inequalities and exclusion, posing numerous issues for governance and scalability.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_64.md)
 
 ## Closest similar item
 
-* [Crowding and congestion](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1625.md)
-* [Increased traffic congestion](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2528.md)
-* [Increased congestion](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2758.md)
-* [Urban crowding](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1063.md)
-* [Insufficient crowd management measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1668.md)
-* [Crowded public spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1317.md)
-* [Urban density and crowding](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_16.md)
+* [Crowded public spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1625.md)
+* [Crowded spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2528.md)
+* [Crowding and close contact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2758.md)
+* [Crowding and congestion](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1063.md)
+* [Increased congestion](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1668.md)
+* [Increased traffic congestion](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1317.md)
+* [Insufficient crowd management measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_16.md)
 * [Social disruptions, transmission in crowded spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2841.md)
-* [Crowded spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1487.md)
-* [Crowding and close contact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2711.md)
+* [Urban crowding](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1487.md)
+* [Urban density and crowding](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2711.md)
 
 ## Mitigations of this risk
 

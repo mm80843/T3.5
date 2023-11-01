@@ -4,19 +4,19 @@
 
 ## Category to which it belongs
 
-* [The intersection of urbanization, inefficient energy usage, and climate change poses significant challenges to thermal comfort, energy consumption, and environmental sustainability.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_38.md)
+* [The intersection of urbanization, inefficient energy usage, and climate change poses significant challenges to thermal comfort, energy consumption, and environmental sustainability.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_88.md)
 
 ## Closest similar item
 
-* [Poor thermal conditions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1115.md)
-* [High indoor temperatures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_783.md)
-* [Excessive cooling/heating](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2402.md)
-* [Inadequate thermal environment control](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1399.md)
+* [Controlling temperature](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1115.md)
+* [Excessive cooling/heating](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_783.md)
+* [High indoor temperatures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2402.md)
+* [Improper use of heat recovery systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1399.md)
 * [Inadequate temperature screening](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2009.md)
-* [Controlling temperature](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2509.md)
-* [Temperature fluctuations, lack of infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3119.md)
-* [Poor thermal comfort](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1861.md)
-* [Improper use of heat recovery systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1422.md)
+* [Inadequate thermal environment control](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2509.md)
+* [Poor thermal comfort](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3119.md)
+* [Poor thermal conditions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1861.md)
+* [Temperature fluctuations, lack of infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1422.md)
 * [Urban overheating](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3174.md)
 
 ## Mitigations of this risk

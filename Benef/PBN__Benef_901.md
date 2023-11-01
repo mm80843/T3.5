@@ -2,25 +2,29 @@
 
 # __Improved wellbeing economy__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Sustainable and equitable economic growth, improved quality of life
+* [From Viral City to Smart City: Learning from Pandemic Experiences](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_183.md)
+
+## Category to which it belongs
+
+* [Promotion of optimal health and happiness through various strategies and support systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_7.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Enhanced societal well-being, long-term economic benefits](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_990.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [From Viral City to Smart City: Learning from Pandemic Experiences](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_183.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [And global economies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_362.md)
-* [National](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_360.md)
-* [European](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_361.md)
+Sustainable and equitable economic growth, improved quality of life
 
 ## Risks which can benefit from this action
 
 * [Implementation of wellbeing economies and budgets](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_902.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [And global economies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_362.md)
+* [European](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_360.md)
+* [National](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_361.md)
 

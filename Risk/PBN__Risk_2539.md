@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Interoperability challenges, high costs, limited communication, and lack of resources impact various sectors globally.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_22.md)
+* [Interoperability challenges, high costs, limited communication, and lack of resources impact various sectors globally.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_72.md)
 
 ## Closest similar item
 
 * [Access to videos](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1261.md)
-* [Quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2213.md)
-* [Data quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1737.md)
+* [Data quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2213.md)
+* [Data quality and accuracy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1737.md)
 * [Data quality and reliability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1523.md)
-* [Low data quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2283.md)
-* [Limited quality of parks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2858.md)
-* [Data quality and accuracy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1900.md)
-* [Impact on information technology, media, and research & development](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1798.md)
-* [Increase in video-gaming activity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_484.md)
-* [Inadequate data quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_382.md)
+* [Impact on information technology, media, and research & development](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2283.md)
+* [Inadequate data quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2858.md)
+* [Increase in video-gaming activity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1900.md)
+* [Limited quality of parks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1798.md)
+* [Low data quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_484.md)
+* [Quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_382.md)
 
 ## Mitigations of this risk
 

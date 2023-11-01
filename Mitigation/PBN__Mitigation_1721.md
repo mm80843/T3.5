@@ -4,19 +4,19 @@
 
 ## Category to which it belongs
 
-* [Enhanced monitoring and control measures in various sectors, including vector control, infrastructure management, and behavior change interventions, with the use of advanced technology and continuous evaluation.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_75.md)
+* [Enhanced monitoring and control measures in various sectors, including vector control, infrastructure management, and behavior change interventions, with the use of advanced technology and continuous evaluation.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_125.md)
 
 ## Closest similar item
 
-* [Checkpoint allocation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_323.md)
-* [Continuously improve location tracking algorithms, ensure reliable bluetooth connectivity, conduct regular testing and updates](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2572.md)
-* [Providing accurate and up-to-date information, offering flexible travel options, and ensuring efficient transportation and service operations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2209.md)
-* [Health checkpoints set up at terminals](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4951.md)
-* [Implement measures to control and monitor human movement, such as travel restrictions and enhanced surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2828.md)
-* [Conduct timely close contact tracing through interviews and cctv footage, maintain records of passenger names and seat numbers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2796.md)
-* [Logistical tracking](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1409.md)
-* [Establish clear performance expectations, regular check-ins, and project milestones. implement software for monitoring progress, communication, and collaboration.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2585.md)
-* [Automated surveillance and contactless delivery](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4764.md)
+* [Automated surveillance and contactless delivery](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_323.md)
+* [Checkpoint allocation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2572.md)
+* [Conduct timely close contact tracing through interviews and cctv footage, maintain records of passenger names and seat numbers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2209.md)
+* [Continuously improve location tracking algorithms, ensure reliable bluetooth connectivity, conduct regular testing and updates](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4951.md)
+* [Establish clear performance expectations, regular check-ins, and project milestones. implement software for monitoring progress, communication, and collaboration.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2828.md)
+* [Health checkpoints set up at terminals](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2796.md)
+* [Implement measures to control and monitor human movement, such as travel restrictions and enhanced surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1409.md)
+* [Logistical tracking](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2585.md)
+* [Providing accurate and up-to-date information, offering flexible travel options, and ensuring efficient transportation and service operations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4764.md)
 * [Real-time passenger information](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_740.md)
 
 ## Risks possibly mitigated by this Mitigation

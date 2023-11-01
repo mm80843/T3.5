@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The toll of the pandemic includes harm to mental health, increased domestic violence, and psychological distress, highlighting the need for support and resources.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_2.md)
+* [The toll of the pandemic includes harm to mental health, increased domestic violence, and psychological distress, highlighting the need for support and resources.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_52.md)
 
 ## Closest similar item
 
-* [Increased mental and physical health problems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3038.md)
-* [Decreased physical activity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1056.md)
-* [Mental and physical health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2432.md)
-* [Negative impact on mental health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2279.md)
-* [Physical and mental health concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2491.md)
-* [Impact on mental health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1076.md)
-* [Mental health impact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1154.md)
-* [Psychological impact and mental health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1749.md)
-* [Increase in mental health issues](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1130.md)
-* [Potential loss of focus on health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3079.md)
+* [Decreased physical activity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3038.md)
+* [Impact on mental health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1056.md)
+* [Increase in mental health issues](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2432.md)
+* [Increased mental and physical health problems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2279.md)
+* [Mental and physical health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2491.md)
+* [Mental health impact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1076.md)
+* [Negative impact on mental health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1154.md)
+* [Physical and mental health concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1749.md)
+* [Potential loss of focus on health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1130.md)
+* [Psychological impact and mental health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3079.md)
 
 ## Mitigations of this risk
 

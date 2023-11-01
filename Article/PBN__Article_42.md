@@ -2,9 +2,24 @@
 
 # __COVID-19 Higher Mortality in Chinese Regions With Chronic Exposure to Lower Air Quality__
 
+## Benefits listed in this article
+
+* [Decreased mortality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_192.md)
+* [Improved air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_191.md)
+* [Reduced air pollution](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_193.md)
+* [Reduced vehicle emissions](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_194.md)
+
 ## DOI of the article
 
 10.3389/fpubh.2020.597753
+
+## List of risks in an article
+
+* [Air pollution](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_495.md)
+* [Contagious spread](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1858.md)
+* [Disinformation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1859.md)
+* [Lack of healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_148.md)
+* [Population density](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1265.md)
 
 ## Short summary of the article
 
@@ -14,6 +29,30 @@ This research study investigates the association between chronic air pollution e
 
 This study looked at the connection between air pollution and the spread of COVID-19 in China. The researchers found that areas with higher air pollution had more cases and deaths from the virus. They looked at different types of air pollutants, like carbon monoxide and particulate matter, and found that they were associated with more infections and fatalities. This suggests that air pollution could make people more susceptible to the virus. It's important to take care of our environment and reduce air pollution to protect ourselves from diseases like COVID-19.
 
+## This article mentions these technologies
+
+* [Air quality monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_402.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_0.md)
+* [Disinfection technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_73.md)
+* [Emission control technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_49.md)
+* [Fact-checking platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_658.md)
+* [Medical supplies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_348.md)
+* [Mobile healthcare units](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_209.md)
+* [Public health campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_167.md)
+* [Surveillance systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1248.md)
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1249.md)
+* [Urban planning strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_890.md)
+* [Zoning regulations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1250.md)
+
+## This article points to following mitigation
+
+* [Enhanced cleaning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3580.md)
+* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3284.md)
+* [Physical distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_372.md)
+* [Quarantine and isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1130.md)
+* [Surface disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3760.md)
+* [Ventilation improvement](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3575.md)
+
 ## Title of the article
 
 COVID-19 Higher Mortality in Chinese Regions With Chronic Exposure to Lower Air Quality
@@ -21,43 +60,4 @@ COVID-19 Higher Mortality in Chinese Regions With Chronic Exposure to Lower Air 
 ## Year of publication
 
 2021
-
-## Benefits listed in this article
-
-* [Improved air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_192.md)
-* [Decreased mortality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_191.md)
-* [Reduced air pollution](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_193.md)
-* [Reduced vehicle emissions](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_194.md)
-
-## List of risks in an article
-
-* [Contagious spread](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1858.md)
-* [Air pollution](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_148.md)
-* [Population density](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_495.md)
-* [Lack of healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1859.md)
-* [Disinformation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1265.md)
-
-## This article points to following mitigation
-
-* [Ventilation improvement](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_372.md)
-* [Surface disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1130.md)
-* [Physical distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3284.md)
-* [Enhanced cleaning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3760.md)
-* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3575.md)
-* [Quarantine and isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3580.md)
-
-## This article mentions these technologies
-
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_402.md)
-* [Disinfection technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_348.md)
-* [Air quality monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1248.md)
-* [Emission control technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1249.md)
-* [Urban planning strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_49.md)
-* [Zoning regulations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_658.md)
-* [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_73.md)
-* [Surveillance systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_0.md)
-* [Fact-checking platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_890.md)
-* [Mobile healthcare units](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_209.md)
-* [Medical supplies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1250.md)
-* [Public health campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_167.md)
 

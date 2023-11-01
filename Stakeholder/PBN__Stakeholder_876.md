@@ -4,20 +4,24 @@
 
 ## Category to which it belongs
 
-* [Populations in crowded areas, high-risk areas, low-income communities, and areas with poor sanitation, particularly those in densely populated regions, are at risk.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_203.md)
+* [Populations in crowded areas, high-risk areas, low-income communities, and areas with poor sanitation, particularly those in densely populated regions, are at risk.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_253.md)
 
 ## Closest similar item
 
-* [Rural area](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2385.md)
-* [Rural individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2083.md)
-* [Rural and underserved community](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2236.md)
-* [Rural and underserved communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_896.md)
-* [Urban areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_591.md)
-* [Geographical areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2361.md)
-* [Commercial areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1295.md)
-* [Residential areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1294.md)
-* [Local communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_85.md)
-* [Public areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_63.md)
+* [Commercial areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2385.md)
+* [Geographical areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2083.md)
+* [Local communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2236.md)
+* [Public areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_896.md)
+* [Residential areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_591.md)
+* [Rural and underserved communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2361.md)
+* [Rural and underserved community](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1295.md)
+* [Rural area](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1294.md)
+* [Rural individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_85.md)
+* [Urban areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_63.md)
+
+## Risk affecting this stakeholder
+
+* [Digital exclusion](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1361.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -27,7 +31,7 @@
 
 * [Geographical areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2361.md)
 
-## Risk affecting this stakeholder
+## Type of the stakeholder
 
-* [Digital exclusion](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1361.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

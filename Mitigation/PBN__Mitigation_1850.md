@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Promote and strengthen public health through policies, education, interventions, surveillance, and investment in healthcare infrastructure.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_59.md)
+* [Promote and strengthen public health through policies, education, interventions, surveillance, and investment in healthcare infrastructure.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_109.md)
 
 ## Closest similar item
 
-* [Improved access to healthcare, public awareness and education, targeted interventions for vulnerable populations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2679.md)
-* [Implementing targeted healthcare interventions, increasing access to healthcare services, addressing social determinants of health](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1584.md)
-* [Implementing targeted public health interventions for vulnerable populations, promoting healthy behaviors, and improving healthcare accessibility](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2716.md)
-* [Targeted regional interventions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_871.md)
-* [Provide targeted support and resources to vulnerable populations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3047.md)
-* [Prioritize healthcare resources for vulnerable populations, improve access to healthcare, address systemic injustices and disparities.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2444.md)
-* [Implement targeted prevention measures and public health campaigns.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2538.md)
-* [Design interventions to improve access to healthcare services in underserved areas and mitigate disease transmission risk](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1664.md)
-* [Ensure healthcare accessibility and affordability, address social determinants of health, provide targeted support to vulnerable populations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2273.md)
-* [Tailoring interventions to target regions, investment in technology and infrastructure, subsidised mobile phone plans, free wi-fi hotspots, training programs, use of devices that do not require continuous network access.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3043.md)
+* [Design interventions to improve access to healthcare services in underserved areas and mitigate disease transmission risk](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2679.md)
+* [Ensure healthcare accessibility and affordability, address social determinants of health, provide targeted support to vulnerable populations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1584.md)
+* [Implement targeted prevention measures and public health campaigns.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2716.md)
+* [Implementing targeted healthcare interventions, increasing access to healthcare services, addressing social determinants of health](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_871.md)
+* [Implementing targeted public health interventions for vulnerable populations, promoting healthy behaviors, and improving healthcare accessibility](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3047.md)
+* [Improved access to healthcare, public awareness and education, targeted interventions for vulnerable populations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2444.md)
+* [Prioritize healthcare resources for vulnerable populations, improve access to healthcare, address systemic injustices and disparities.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2538.md)
+* [Provide targeted support and resources to vulnerable populations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1664.md)
+* [Tailoring interventions to target regions, investment in technology and infrastructure, subsidised mobile phone plans, free wi-fi hotspots, training programs, use of devices that do not require continuous network access.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2273.md)
+* [Targeted regional interventions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3043.md)
 
 ## Risks possibly mitigated by this Mitigation
 

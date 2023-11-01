@@ -4,26 +4,26 @@
 
 ## Category to which it belongs
 
-* [Efforts to inform and engage the public, promote awareness, influence policies, and foster community involvement.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_124.md)
+* [Efforts to inform and engage the public, promote awareness, influence policies, and foster community involvement.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_174.md)
 
 ## Closest similar item
 
-* [Media regulations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_6.md)
+* [Journalism](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_6.md)
 * [Mass media](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1538.md)
-* [Media organizations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_335.md)
-* [Media](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3022.md)
-* [Reporting guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_838.md)
+* [Media](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_335.md)
+* [Media organizations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3022.md)
+* [Media regulations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_838.md)
 * [Media sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3871.md)
-* [Reporting standards](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_519.md)
-* [Reports](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2745.md)
+* [Reporting guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_519.md)
+* [Reporting standards](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2745.md)
 * [Reporting systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1151.md)
-* [Journalism](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2749.md)
-
-## This technology is mentioned by
-
-* [Rise of the preprint: how rapid data sharing during COVID-19 has changed science forever](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_173.md)
+* [Reports](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2749.md)
 
 ## Risks linked to this technology
 
 * [Misuse of preprints by media and bad-faith actors](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2305.md)
+
+## This technology is mentioned by
+
+* [Rise of the preprint: how rapid data sharing during COVID-19 has changed science forever](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_173.md)
 

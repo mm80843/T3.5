@@ -2,30 +2,30 @@
 
 # __Investing in hygiene and cleaning protocols for shared mobility services__
 
-## Category to which it belongs
+## Benefits linked to a risk
 
-* [Promote and enforce rigorous hygiene practices, ensure proper sanitation infrastructure, and implement strict cleaning and disinfection protocols.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_73.md)
-
-## Closest similar item
-
-* [Implement hygiene protocols and regular cleaning of shared vehicles following health guidelines](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1976.md)
-* [Neighbourhood hygiene maintenance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_754.md)
-* [Increased cleaning protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4642.md)
-* [Implementation of hygiene protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_164.md)
-* [Enhanced cleaning protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3819.md)
-* [Proper cleaning protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4354.md)
-* [Improved sanitation and cleaning protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_529.md)
-* [Implementing and enforcing comprehensive hygiene and cleanliness protocols, including regular cleaning and disinfection, hand hygiene stations, and proper waste disposal.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2676.md)
-* [Increased cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_193.md)
-* [Regular cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2004.md)
+* [Increased safety and confidence in using shared mobility](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1243.md)
 
 ## Blueprints with this mitigation
 
 * [Smart locker system](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_1.md)
 
-## Benefits linked to a risk
+## Category to which it belongs
 
-* [Increased safety and confidence in using shared mobility](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1243.md)
+* [Promote and enforce rigorous hygiene practices, ensure proper sanitation infrastructure, and implement strict cleaning and disinfection protocols.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_123.md)
+
+## Closest similar item
+
+* [Enhanced cleaning protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1976.md)
+* [Implement hygiene protocols and regular cleaning of shared vehicles following health guidelines](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_754.md)
+* [Implementation of hygiene protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4642.md)
+* [Implementing and enforcing comprehensive hygiene and cleanliness protocols, including regular cleaning and disinfection, hand hygiene stations, and proper waste disposal.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_164.md)
+* [Improved sanitation and cleaning protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3819.md)
+* [Increased cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4354.md)
+* [Increased cleaning protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_529.md)
+* [Neighbourhood hygiene maintenance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2676.md)
+* [Proper cleaning protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_193.md)
+* [Regular cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2004.md)
 
 ## Risks possibly mitigated by this Mitigation
 

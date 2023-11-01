@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Insufficient safety measures, inadequate protective equipment, and lack of adherence to prevention guidelines pose significant risks.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_48.md)
+* [Insufficient safety measures, inadequate protective equipment, and lack of adherence to prevention guidelines pose significant risks.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_98.md)
 
 ## Closest similar item
 
-* [Emergency facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3302.md)
-* [Inadequate emergency preparedness](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1689.md)
-* [Public-health emergencies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_331.md)
-* [Inefficient infrastructure and response](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2939.md)
-* [Need for effective disaster management](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_422.md)
+* [Effective crisis management](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3302.md)
+* [Emergency facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1689.md)
+* [Inadequate crisis preparedness](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_331.md)
+* [Inadequate emergency preparedness](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2939.md)
+* [Inadequate healthcare response](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_422.md)
 * [Inadequate preparedness for biological disasters](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2420.md)
-* [Inadequate healthcare response](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_515.md)
+* [Inefficient infrastructure and response](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_515.md)
 * [Insufficient electrical infrastructure in makeshift hospitals](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_444.md)
-* [Effective crisis management](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3316.md)
-* [Inadequate crisis preparedness](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1937.md)
+* [Need for effective disaster management](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3316.md)
+* [Public-health emergencies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1937.md)
 
 ## Mitigations of this risk
 

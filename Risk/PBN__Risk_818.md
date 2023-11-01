@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Risks to personal information, confidentiality, ethical issues, surveillance, and the need for data protection.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_17.md)
+* [Risks to personal information, confidentiality, ethical issues, surveillance, and the need for data protection.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_67.md)
 
 ## Closest similar item
 
-* [Privacy protection issues](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2069.md)
-* [Potential breach of privacy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2637.md)
-* [Infringement on privacy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3374.md)
-* [Privacy risks, stigmatization](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3230.md)
-* [Violation of privacy laws and regulations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3246.md)
+* [Discrimination and privacy concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2069.md)
+* [Infringement on privacy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2637.md)
+* [Invasion of privacy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3374.md)
+* [Potential breach of privacy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3230.md)
+* [Privacy concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3246.md)
 * [Privacy interference](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3171.md)
-* [Privacy concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_47.md)
-* [Invasion of privacy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2704.md)
-* [Privacy invasion](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2317.md)
-* [Discrimination and privacy concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3078.md)
+* [Privacy invasion](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_47.md)
+* [Privacy protection issues](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2704.md)
+* [Privacy risks, stigmatization](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2317.md)
+* [Violation of privacy laws and regulations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3078.md)
 
 ## Mitigations of this risk
 

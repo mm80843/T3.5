@@ -2,26 +2,26 @@
 
 # __Facial recognition software__
 
-## Link between Blueprint and General ontology
-
-* [Face and voice recognition](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_28.md)
-
 ## Category to which it belongs
 
-* [Efficiently manage finances, construction projects, schedules, contracts, communication, and data analysis with advanced software and technology.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_141.md)
+* [Efficiently manage finances, construction projects, schedules, contracts, communication, and data analysis with advanced software and technology.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_191.md)
 
 ## Closest similar item
 
-* [Facial recognition systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1355.md)
-* [Facial recognition technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1711.md)
-* [Facial recognition](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3238.md)
-* [Automated face recognition systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1504.md)
-* [Face recognition](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3638.md)
-* [Voice and face recognition](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3662.md)
-* [Face and voice recognition](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3906.md)
+* [Automated face recognition systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1355.md)
+* [Face and voice recognition](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1711.md)
+* [Face recognition](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3238.md)
+* [Facial recognition](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1504.md)
+* [Facial recognition systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3638.md)
+* [Facial recognition technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3662.md)
+* [Smart facemask technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3906.md)
 * [Software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3537.md)
-* [Smart facemask technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2557.md)
-* [Statistical software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3690.md)
+* [Statistical software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2557.md)
+* [Voice and face recognition](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3690.md)
+
+## Link between Blueprint and General ontology
+
+* [Face and voice recognition](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_28.md)
 
 ## This Technology enables the following mitigations
 

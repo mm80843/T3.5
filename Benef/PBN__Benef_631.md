@@ -2,25 +2,29 @@
 
 # __Improved asset value__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Implementing social distancing measures in commercial properties can increase the perceived safety and attractiveness of the property to tenants and customers, leading to higher occupancy rates and rental income.
+* [The efficacy of social distance and ventilation effectiveness in preventing COVID-19 transmission](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_125.md)
+
+## Category to which it belongs
+
+* [Enhanced valuation and risk assessment for properties and individuals, leading to overall value and security improvement.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_46.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in social distancing measures would benefit from the increased value and demand for their properties.](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_678.md)
 * [Private investors investing in ventilation systems would benefit from the increased value and demand for their properties.](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_679.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [The efficacy of social distance and ventilation effectiveness in preventing COVID-19 transmission](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_125.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [Property owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_177.md)
+Implementing social distancing measures in commercial properties can increase the perceived safety and attractiveness of the property to tenants and customers, leading to higher occupancy rates and rental income.
 
 ## Risks which can benefit from this action
 
 * [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
 * [Ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_627.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [Property owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_177.md)
 

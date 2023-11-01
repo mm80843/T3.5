@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Efficiently collect, analyze, and share anonymized data using a variety of tools, platforms, and systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_126.md)
+* [Efficiently collect, analyze, and share anonymized data using a variety of tools, platforms, and systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_176.md)
 
 ## Closest similar item
 
-* [Data quality control measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1686.md)
-* [Data quality assessment tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1085.md)
-* [Data validation techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_822.md)
-* [Data validation algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_314.md)
-* [Data validation and quality control nan techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1573.md)
-* [Quality control measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_83.md)
-* [Data validation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1317.md)
+* [Data quality assessment tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1686.md)
+* [Data quality control measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1085.md)
+* [Data validation algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_822.md)
+* [Data validation and quality control nan techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_314.md)
+* [Data validation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1573.md)
+* [Data validation techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_83.md)
+* [Data validation tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1317.md)
 * [Fact-checking and information verification](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2059.md)
-* [Quality control tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_690.md)
-* [Data validation tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1894.md)
+* [Quality control measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_690.md)
+* [Quality control tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1894.md)
 
 ## This Technology enables the following mitigations
 

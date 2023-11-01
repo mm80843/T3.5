@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The challenges of urban inequality, parameter identification, noise pollution, waste, and delayed decision making have resulted in increased inequalities and exclusion, posing numerous issues for governance and scalability.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_14.md)
+* [The challenges of urban inequality, parameter identification, noise pollution, waste, and delayed decision making have resulted in increased inequalities and exclusion, posing numerous issues for governance and scalability.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_64.md)
 
 ## Closest similar item
 
-* [Decreased public gatherings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2706.md)
-* [Transmission in gatherings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3072.md)
-* [Transmission, gatherings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2641.md)
-* [Transmission at mass gatherings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1342.md)
-* [Transmission among attendees](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2979.md)
-* [Risk of transmission during social gatherings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_228.md)
-* [Crowded living conditions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1474.md)
-* [Crowded public spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1317.md)
-* [Social interaction](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2435.md)
-* [Socializing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3286.md)
+* [Crowded living conditions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2706.md)
+* [Crowded public spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3072.md)
+* [Decreased public gatherings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2641.md)
+* [Risk of transmission during social gatherings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1342.md)
+* [Social interaction](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2979.md)
+* [Socializing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_228.md)
+* [Transmission among attendees](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1474.md)
+* [Transmission at mass gatherings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1317.md)
+* [Transmission in gatherings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2435.md)
+* [Transmission, gatherings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3286.md)
 
 ## Mitigations of this risk
 

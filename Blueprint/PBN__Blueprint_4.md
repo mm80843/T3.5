@@ -2,6 +2,10 @@
 
 # __Managing user flows in building and infrastructure__
 
+## Blueprint description
+
+The transmission of most contagious diseases involves a variety of aspects, the number of people encountered and how it happens while walking or running being one of them. In this sense, it is well known that appropriate user traffic control measures can drastically reduce the number of encounters and thus the contribution of person-to-person contagion to the spread of disease in a pandemic scenario. One-way pedestrian control is a straightforward and effective measure that can be applied both indoors and outdoors and is suitable for the planning phase of public spaces as well as for daily operations. It essentially consists of assigning fixed entry and exit nodes in public places, and predefined routes between them as a means of regulating how people circulate.
+
 ## Capabilities of the blueprint
 
 DESIGN PHASE: Mobility models for operators and customers can be a useful tool for predicting people flows. If possible, larger corridors that allow traffic in both directions are preferred. 
@@ -15,45 +19,56 @@ Measures to encourage one-way user flows should be considered at the design stag
 
 Sonae’s Campus (Porto)
 
-## Blueprint description
-
-The transmission of most contagious diseases involves a variety of aspects, the number of people encountered and how it happens while walking or running being one of them. In this sense, it is well known that appropriate user traffic control measures can drastically reduce the number of encounters and thus the contribution of person-to-person contagion to the spread of disease in a pandemic scenario. One-way pedestrian control is a straightforward and effective measure that can be applied both indoors and outdoors and is suitable for the planning phase of public spaces as well as for daily operations. It essentially consists of assigning fixed entry and exit nodes in public places, and predefined routes between them as a means of regulating how people circulate.
-
 ## Enablers of the blueprint
 
-* [Data Analytics](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_2.md)
-* [SmartPhones](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_19.md)
-* [IoT](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_5.md)
-* [AI/ML](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_8.md)
-* [Automation](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_16.md)
-* [5G](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_0.md)
-
-## Interventions of the blueprint
-
-* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_20.md)
-* [Optimize users flows to prevent contamination](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_17.md)
-* [Occupancy control (eg separating at/risk contaminated population)](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_18.md)
-
-## Possible mitigations of the BP
-
-* [Implement travel restrictions, quarantine measures, and health screenings for individuals moving between cities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2196.md)
-* [Implement measures to control the spread of infectious diseases, such as social distancing, improved hygiene practices, and vaccination programs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2240.md)
-* [Crowd control on public transport](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5165.md)
-* [Implement public health measures, reduce indoor gatherings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1704.md)
-* [Pedestrian and cycling facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4118.md)
-* [Implementing crowd control measures such as capacity limits, timed entry systems, one-way circulation, and designated waiting areas.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2233.md)
-* [Implement crowd control measures, promote physical distancing, limit occupancy in congested areas.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2179.md)
-* [Implement crowd control measures, promote social distancing in crowded areas](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2470.md)
-* [Incorporating disease prevention principles in urban design, improving ventilation and sanitation, promoting active transportation.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1800.md)
-* [Provide clear and concise information about preventive measures, communicate regularly with occupants and visitors.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2181.md)
-
-## Type of deployment of the blueprint
-
-* [Temporary](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Permanent_0.md)
+* [5G](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_8.md)
+* [AI/ML](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_5.md)
+* [Automation](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_0.md)
+* [Data Analytics](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_19.md)
+* [IoT](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_2.md)
+* [SmartPhones](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_16.md)
 
 ## GBN Phase of the blueprint
 
 * [Operational](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Phase_0.md)
+
+## Interventions of the blueprint
+
+* [Occupancy control (eg separating at/risk contaminated population)](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_20.md)
+* [Optimize users flows to prevent contamination](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_18.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_17.md)
+
+## Mode of transmission covered by the blueprint
+
+* [Airborne](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_0.md)
+* [Direct contact](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_1.md)
+* [Respiratory](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_2.md)
+
+## Possible mitigations of the BP
+
+* [Crowd control on public transport](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2470.md)
+* [Implement crowd control measures, promote physical distancing, limit occupancy in congested areas.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2179.md)
+* [Implement crowd control measures, promote social distancing in crowded areas](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2240.md)
+* [Implement measures to control the spread of infectious diseases, such as social distancing, improved hygiene practices, and vaccination programs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4118.md)
+* [Implement public health measures, reduce indoor gatherings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2181.md)
+* [Implement travel restrictions, quarantine measures, and health screenings for individuals moving between cities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1800.md)
+* [Implementing crowd control measures such as capacity limits, timed entry systems, one-way circulation, and designated waiting areas.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5165.md)
+* [Incorporating disease prevention principles in urban design, improving ventilation and sanitation, promoting active transportation.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2196.md)
+* [Pedestrian and cycling facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2233.md)
+* [Provide clear and concise information about preventive measures, communicate regularly with occupants and visitors.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1704.md)
+
+## Possible risks of the BP
+
+* [Contagious disease propagation in built environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9.md)
+* [Contagious disease transmission in built environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1671.md)
+* [Epidemic control measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_264.md)
+* [Establish a one-way mobility circulation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1664.md)
+* [Fear of infection in public transport](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_585.md)
+* [Increased risk of covid-19 transmission in crowded public places](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1129.md)
+* [Limitations of current crowd models in representing disease transmission mechanisms](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2045.md)
+* [Risk of contagion in public transport](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1701.md)
+* [Spread of contagious diseases in densely populated areas](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_407.md)
+* [Spread of contagious diseases in public spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1907.md)
 
 ## Problem of the blueprint
 
@@ -75,19 +90,6 @@ A number of limitations and constraints were identified for this specific measur
 •	 generates confusion among users
 •	 increases difficulty in evacuating the building in an emergency situation
 
-## Possible risks of the BP
-
-* [Limitations of current crowd models in representing disease transmission mechanisms](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9.md)
-* [Spread of contagious diseases in public spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1664.md)
-* [Spread of contagious diseases in densely populated areas](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1671.md)
-* [Increased risk of covid-19 transmission in crowded public places](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1701.md)
-* [Contagious disease transmission in built environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2045.md)
-* [Contagious disease propagation in built environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1129.md)
-* [Establish a one-way mobility circulation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_264.md)
-* [Fear of infection in public transport](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_407.md)
-* [Risk of contagion in public transport](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1907.md)
-* [Epidemic control measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_585.md)
-
 ## Scale of the of the blueprint
 
 * [Both](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Scale_1.md)
@@ -96,11 +98,9 @@ A number of limitations and constraints were identified for this specific measur
 
 PBN:BP_5
 
-## Mode of transmission covered by the blueprint
+## Type of deployment of the blueprint
 
-* [Airborne](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_0.md)
-* [Respiratory](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_1.md)
-* [Direct contact](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_2.md)
+* [Temporary](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Permanent_0.md)
 
 ## Type of the blueprint
 

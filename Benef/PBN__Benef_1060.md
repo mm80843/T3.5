@@ -2,25 +2,29 @@
 
 # __Rethinking social and economic models__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Systemic change addresses inherent vulnerabilities and promotes sustainable practices.
+* [Envisioning a resilient future for biodiversity conservation in the wake of the COVID‐19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_221.md)
+
+## Category to which it belongs
+
+* [Promoting fairness and prosperity amidst a changing world by creating opportunities, reducing poverty, and maintaining stability.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_15.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [This leads to more resilient and equitable conservation efforts.](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_1189.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [Envisioning a resilient future for biodiversity conservation in the wake of the COVID‐19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_221.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
-* [Local communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_85.md)
-* [Conservation organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_428.md)
+Systemic change addresses inherent vulnerabilities and promotes sustainable practices.
 
 ## Risks which can benefit from this action
 
 * [Systemic change](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1068.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [Conservation organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
+* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_85.md)
+* [Local communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_428.md)
 

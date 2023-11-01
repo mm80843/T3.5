@@ -4,26 +4,26 @@
 
 ## Category to which it belongs
 
-* [Enhancing travel experience through real-time updates, virtual tours, local services, reservation systems, alternative transportation, and accessibility improvements.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_132.md)
+* [Enhancing travel experience through real-time updates, virtual tours, local services, reservation systems, alternative transportation, and accessibility improvements.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_182.md)
 
 ## Closest similar item
 
-* [Accessible transportation options](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3691.md)
+* [Accessibility features](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3691.md)
 * [Accessibility measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3481.md)
-* [Accessibility features](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3397.md)
-* [Public spaces and transportation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2185.md)
-* [Improved public transportation services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1827.md)
-* [Public transport](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3029.md)
-* [Public transport infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3868.md)
-* [Promote active transportation options](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1375.md)
-* [Emergency transportation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3549.md)
-* [Affordable transportation services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1818.md)
-
-## This technology is mentioned by
-
-* [Green in times of COVID-19: urban green space relevance during the COVID-19 pandemic in Buenos Aires City](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_198.md)
+* [Accessible transportation options](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3397.md)
+* [Affordable transportation services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2185.md)
+* [Emergency transportation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1827.md)
+* [Improved public transportation services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3029.md)
+* [Promote active transportation options](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3868.md)
+* [Public spaces and transportation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1375.md)
+* [Public transport](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3549.md)
+* [Public transport infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1818.md)
 
 ## Risks linked to this technology
 
 * [Limited accessibility to ugs](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1677.md)
+
+## This technology is mentioned by
+
+* [Green in times of COVID-19: urban green space relevance during the COVID-19 pandemic in Buenos Aires City](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_198.md)
 

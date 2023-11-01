@@ -2,9 +2,24 @@
 
 # __Continuous IEQ monitoring system: Context and development__
 
+## Benefits listed in this article
+
+* [Accessible and actionable data](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_145.md)
+* [Differentiation and market advantage](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_800.md)
+* [Improved building performance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_798.md)
+* [Streamlined measurement protocol](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_801.md)
+
 ## DOI of the article
 
 10.1016/j.buildenv.2018.12.010
+
+## List of risks in an article
+
+* [Contamination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1860.md)
+* [Inadequate lighting](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_713.md)
+* [Inadequate ventilation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1116.md)
+* [Noise pollution](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1861.md)
+* [Poor thermal comfort](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_150.md)
 
 ## Short summary of the article
 
@@ -14,6 +29,27 @@ The paper introduces the development of a low-cost, pervasive indoor environment
 
 SAMBA is a system that helps monitor the indoor environment in commercial office buildings. It uses special devices called SAMBA devices to measure things like temperature, air quality, lighting, and sound. These devices are placed around the building and send the data they collect to a central server. The server then analyzes the data and provides feedback to the building owners and tenants about how the indoor environment is performing. This helps them make improvements to things like comfort and wellness for the people who work in the building. The system is also used for research purposes to learn more about how the indoor environment affects people's health and well-being.
 
+## This article mentions these technologies
+
+* [Acoustic panels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1251.md)
+* [Air quality sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_208.md)
+* [Energy-efficient lighting systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_430.md)
+* [Lighting controls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1252.md)
+* [Personal comfort devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1253.md)
+* [Smart building management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1254.md)
+* [Smart thermostats](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1255.md)
+* [Sound-absorbing materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_198.md)
+* [Uv-c light disinfection systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_190.md)
+
+## This article points to following mitigation
+
+* [Big data](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4492.md)
+* [Ieq monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4490.md)
+* [Iot](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4256.md)
+* [Samba](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4491.md)
+* [Wireless sensor networks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4493.md)
+
 ## Title of the article
 
 Continuous IEQ monitoring system: Context and development
@@ -21,40 +57,4 @@ Continuous IEQ monitoring system: Context and development
 ## Year of publication
 
 2019
-
-## Benefits listed in this article
-
-* [Improved building performance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_798.md)
-* [Streamlined measurement protocol](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_799.md)
-* [Differentiation and market advantage](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_801.md)
-* [Accessible and actionable data](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_800.md)
-
-## List of risks in an article
-
-* [Poor thermal comfort](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1861.md)
-* [Inadequate lighting](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1116.md)
-* [Contamination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1860.md)
-* [Noise pollution](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_150.md)
-* [Inadequate ventilation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_713.md)
-
-## This article points to following mitigation
-
-* [Big data](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4256.md)
-* [Ieq monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4492.md)
-* [Iot](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4490.md)
-* [Wireless sensor networks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4491.md)
-* [Samba](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4493.md)
-
-## This article mentions these technologies
-
-* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
-* [Acoustic panels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_190.md)
-* [Sound-absorbing materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_198.md)
-* [Air quality sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_430.md)
-* [Smart building management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_208.md)
-* [Smart thermostats](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1252.md)
-* [Energy-efficient lighting systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1254.md)
-* [Lighting controls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1255.md)
-* [Uv-c light disinfection systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1251.md)
-* [Personal comfort devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1253.md)
 

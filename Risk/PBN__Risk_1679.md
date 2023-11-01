@@ -2,42 +2,34 @@
 
 # __Inadequate maintenance of ugs__
 
+## Articles mentionning the risk
+
+* [Green in times of COVID-19: urban green space relevance during the COVID-19 pandemic in Buenos Aires City](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_198.md)
+
 ## Category to which it belongs
 
-* [Inadequate resources, staff, facilities, training, coordination, and preparedness contribute to the inefficient and ineffective response to various challenges and needs.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_28.md)
+* [Inadequate resources, staff, facilities, training, coordination, and preparedness contribute to the inefficient and ineffective response to various challenges and needs.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_78.md)
 
 ## Closest similar item
 
-* [Lack of maintenance and upkeep of ugs](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2234.md)
-* [Lack of ugs density](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1676.md)
-* [Lack of ugs during pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1678.md)
-* [Uneven distribution of ugs](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1675.md)
-* [Loss of ugs due to urban development](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2233.md)
+* [Heterogeneous access to ugs](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2234.md)
+* [Lack of maintenance and upkeep of ugs](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1676.md)
+* [Lack of ugs density](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1678.md)
+* [Lack of ugs during pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1675.md)
+* [Limited access to ugs for vulnerable populations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2233.md)
 * [Limited accessibility to ugs](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1677.md)
-* [Underestimation of ugs in urban design and environmental management](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_696.md)
-* [Heterogeneous access to ugs](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_695.md)
-* [Limited access to ugs for vulnerable populations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2232.md)
-* [Limited recognition of ugs as important places in the city](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_697.md)
+* [Limited recognition of ugs as important places in the city](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_696.md)
+* [Loss of ugs due to urban development](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_695.md)
+* [Underestimation of ugs in urban design and environmental management](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2232.md)
+* [Uneven distribution of ugs](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_697.md)
 
 ## Description of the risk
 
 Poor maintenance of UGS can lead to deterioration of green spaces and reduced enjoyment for visitors.
 
-## Type of the risk
-
-* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Is the risk affecting GBN scales
 
 * [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
-
-## Type of impact of the risk (according to ISO37100)
-
-* [Safety and security](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_5.md)
-
-## Type of purpose of the risk (according to ISO37100)
-
-* [Safety and security](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_0.md)
 
 ## Mitigations of this risk
 
@@ -47,24 +39,32 @@ Poor maintenance of UGS can lead to deterioration of green spaces and reduced en
 
 Unattractive and unsafe UGS, decreased usage and satisfaction among visitors.
 
-## Stakeholders who can mitigate this risk
-
-* [Maintenance contractors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1116.md)
-* [City government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1110.md)
-* [Park management agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1115.md)
-
-## Articles mentionning the risk
-
-* [Green in times of COVID-19: urban green space relevance during the COVID-19 pandemic in Buenos Aires City](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_198.md)
-
 ## People affected by this risk
 
 * [All residents of buenos aires city](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1111.md)
 * [Visitors to ugs](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1114.md)
 
+## Stakeholders who can mitigate this risk
+
+* [City government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1116.md)
+* [Maintenance contractors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1110.md)
+* [Park management agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1115.md)
+
 ## Technologies linked to the risk
 
 * [Use digital management systems to track maintenance tasks and ensure timely completion](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1040.md)
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Safety and security](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_5.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Safety and security](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_0.md)
+
+## Type of the risk
+
+* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 

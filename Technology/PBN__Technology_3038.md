@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Effective water management encompasses wastewater testing, waste management, rainwater storage, wastewater treatment technology, smart water consumption, and improved infrastructure.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_131.md)
+* [Effective water management encompasses wastewater testing, waste management, rainwater storage, wastewater treatment technology, smart water consumption, and improved infrastructure.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_181.md)
 
 ## Closest similar item
 
-* [Sanitization equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_143.md)
-* [Enhanced sanitization measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1238.md)
-* [Cleaning and sanitization equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2942.md)
-* [Non-toxic cleaning products](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3443.md)
-* [Sanitization procedures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1416.md)
-* [Hazardous waste treatment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1906.md)
-* [Disinfection equipment and supplies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2133.md)
-* [Quality control in wastewater sampling](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_709.md)
-* [Wastewater sampling](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2821.md)
-* [Sanitation and safety](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2179.md)
+* [Cleaning and sanitization equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_143.md)
+* [Disinfection equipment and supplies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1238.md)
+* [Enhanced sanitization measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2942.md)
+* [Hazardous waste treatment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3443.md)
+* [Non-toxic cleaning products](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1416.md)
+* [Quality control in wastewater sampling](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1906.md)
+* [Sanitation and safety](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2133.md)
+* [Sanitization equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_709.md)
+* [Sanitization procedures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2821.md)
+* [Wastewater sampling](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2179.md)
 
 ## This Technology enables the following mitigations
 

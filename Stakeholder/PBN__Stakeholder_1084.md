@@ -4,22 +4,26 @@
 
 ## Category to which it belongs
 
-* [Populations in crowded areas, high-risk areas, low-income communities, and areas with poor sanitation, particularly those in densely populated regions, are at risk.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_203.md)
+* [Populations in crowded areas, high-risk areas, low-income communities, and areas with poor sanitation, particularly those in densely populated regions, are at risk.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_253.md)
 
 ## Closest similar item
 
 * [Areas with inadequate sanitation facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_899.md)
-* [Communities with poor sanitation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_176.md)
-* [Communities with inadequate sanitation facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_694.md)
-* [Communities without access to clean water and sanitation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1362.md)
-* [Sanitation agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1086.md)
-* [Water and sanitation organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1363.md)
+* [Communities with inadequate sanitation facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_176.md)
+* [Communities with limited access to clean water](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_694.md)
+* [Communities with poor sanitation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1362.md)
+* [Communities without access to clean water and sanitation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1086.md)
+* [Individuals living in apartments without basic water and sanitation facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1363.md)
 * [Poor urban communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_276.md)
-* [Individuals living in apartments without basic water and sanitation facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_823.md)
-* [Communities with limited access to clean water](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_588.md)
-* [Urban areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_591.md)
+* [Sanitation agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_823.md)
+* [Urban areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_588.md)
+* [Water and sanitation organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_591.md)
 
 ## Risk affecting this stakeholder
 
 * [Faecal-oral transmission of covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1647.md)
+
+## Type of the stakeholder
+
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

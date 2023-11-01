@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Healthcare systems overwhelmed, limited access to services, scarcity of resources, and risk to healthcare workers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_10.md)
+* [Healthcare systems overwhelmed, limited access to services, scarcity of resources, and risk to healthcare workers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_60.md)
 
 ## Closest similar item
 
-* [Insufficient healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1318.md)
-* [Inadequate healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1122.md)
-* [Lack of healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1859.md)
-* [Insufficient healthcare infrastructure and resources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1159.md)
-* [Insufficient medical facilities and infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1307.md)
-* [Inadequate healthcare capacity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2861.md)
-* [Fragmented healthcare system](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2000.md)
-* [Insufficient healthcare capacity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1025.md)
-* [Inadequate healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1476.md)
-* [Healthcare system capacity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2007.md)
+* [Fragmented healthcare system](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1318.md)
+* [Healthcare system capacity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1122.md)
+* [Inadequate healthcare capacity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1859.md)
+* [Inadequate healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1159.md)
+* [Inadequate healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1307.md)
+* [Insufficient healthcare capacity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2861.md)
+* [Insufficient healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2000.md)
+* [Insufficient healthcare infrastructure and resources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1025.md)
+* [Insufficient medical facilities and infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1476.md)
+* [Lack of healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2007.md)
 
 ## Mitigations of this risk
 

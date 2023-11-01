@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Individuals in confined, poorly ventilated indoor spaces, including offices and homes, with low air quality and inadequate filtration systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_235.md)
+* [Individuals in confined, poorly ventilated indoor spaces, including offices and homes, with low air quality and inadequate filtration systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_285.md)
 
 ## Closest similar item
 
-* [Individual responsible for maintaining cleanlines and hygiene in building](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2164.md)
-* [Individual responsible for maintaining cleanline and hygiene in building](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2177.md)
-* [Individuals responsible for indoor environmental quality](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_677.md)
-* [Occupants of the building and public health](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_141.md)
-* [Individual responsible for indoor environmental quality](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2121.md)
-* [Cleaning personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1574.md)
-* [Occupants of residential buildings](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1485.md)
-* [People in residential and commercial buildings](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1531.md)
-* [Building occupants and management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_78.md)
-* [Occupants of buildings](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_914.md)
+* [Building occupants and management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2164.md)
+* [Cleaning personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2177.md)
+* [Individual responsible for indoor environmental quality](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_677.md)
+* [Individual responsible for maintaining cleanline and hygiene in building](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_141.md)
+* [Individual responsible for maintaining cleanlines and hygiene in building](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2121.md)
+* [Individuals responsible for indoor environmental quality](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1574.md)
+* [Occupants of buildings](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1485.md)
+* [Occupants of residential buildings](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1531.md)
+* [Occupants of the building and public health](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_78.md)
+* [People in residential and commercial buildings](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_914.md)
 
 ## Risks that can be mitigated by this stakeholder
 
@@ -30,4 +30,8 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Work and occupational context](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2259.md)
+
+## Type of the stakeholder
+
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
 

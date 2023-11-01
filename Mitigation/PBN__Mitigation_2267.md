@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Optimize airflow and air quality through improved ventilation systems and natural lighting, increased outdoor air intake, and proper maintenance.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_71.md)
+* [Optimize airflow and air quality through improved ventilation systems and natural lighting, increased outdoor air intake, and proper maintenance.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_121.md)
 
 ## Closest similar item
 
-* [Proper ventilation and filtration to reduce the concentration of airborne viral particles.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1820.md)
-* [Adequate ventilation to dilute the virus-carrying droplets](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2801.md)
-* [Properly regulate indoor temperature and ah levels to reduce influenza transmission. improve ventilation and air filtration systems.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2265.md)
-* [Maintain appropriate temperature and humidity levels, improve ventilation and filtration systems, and ensure proper cleaning and disinfection protocols.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1589.md)
-* [Increase ventilation rates and airflow, consider filtration and air purification systems, and ensure proper maintenance of hvac systems.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3103.md)
-* [Control indoor humidity levels, increase ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1705.md)
-* [Implementing hvac system upgrades, increasing ventilation rates, and using air filtration and purification technologies.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2675.md)
-* [Improve air filtration and ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1922.md)
-* [Seal walls, ceilings, and windows, and use negative air machines with hepa filters to maintain pressure differentials and prevent pathogen spread](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2185.md)
-* [Improve ventilation systems, increase outdoor air circulation, and implement air purification technologies.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2305.md)
+* [Adequate ventilation to dilute the virus-carrying droplets](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1820.md)
+* [Control indoor humidity levels, increase ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2801.md)
+* [Implementing hvac system upgrades, increasing ventilation rates, and using air filtration and purification technologies.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2265.md)
+* [Improve air filtration and ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1589.md)
+* [Improve ventilation systems, increase outdoor air circulation, and implement air purification technologies.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3103.md)
+* [Increase ventilation rates and airflow, consider filtration and air purification systems, and ensure proper maintenance of hvac systems.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1705.md)
+* [Maintain appropriate temperature and humidity levels, improve ventilation and filtration systems, and ensure proper cleaning and disinfection protocols.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2675.md)
+* [Proper ventilation and filtration to reduce the concentration of airborne viral particles.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1922.md)
+* [Properly regulate indoor temperature and ah levels to reduce influenza transmission. improve ventilation and air filtration systems.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2185.md)
+* [Seal walls, ceilings, and windows, and use negative air machines with hepa filters to maintain pressure differentials and prevent pathogen spread](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2305.md)
 
 ## Risks possibly mitigated by this Mitigation
 

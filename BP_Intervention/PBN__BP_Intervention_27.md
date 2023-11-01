@@ -2,6 +2,14 @@
 
 # __Improve physical health__
 
+## Category to which it belongs
+
+* [Enhance overall well-being.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_226.md)
+
+## This intervention is used in the following blueprints
+
+* [Enhancing physical activity](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_23.md)
+
 ## Property: has_BP_InterventionKey
 
 HM4
@@ -9,12 +17,4 @@ HM4
 ## Property: has_BP_InterventionTitle
 
 Improve physical health
-
-## Category to which it belongs
-
-* [Enhance overall well-being.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_176.md)
-
-## This intervention is used in the following blueprints
-
-* [Enhancing physical activity](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_23.md)
 

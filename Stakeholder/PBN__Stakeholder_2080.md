@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [People at risk or affected by infectious diseases, including covid-19, and those involved in containment and response measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_195.md)
+* [People at risk or affected by infectious diseases, including covid-19, and those involved in containment and response measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_245.md)
 
 ## Closest similar item
 
-* [Individuals infected with covid-19](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_684.md)
-* [Covid-19 patients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_501.md)
-* [Patients with severe covid-19](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1595.md)
-* [Hospitalized covid-19 patients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1087.md)
-* [Critical covid-19 patients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1058.md)
-* [All individuals seeking covid-19 information and applications](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1313.md)
-* [All individual seeking covid-19 information and application](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2324.md)
+* [All individual seeking covid-19 information and application](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_684.md)
+* [All individuals seeking covid-19 information and applications](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_501.md)
+* [Covid-19 patients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1595.md)
+* [Critical covid-19 patients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1087.md)
+* [Hospitalized covid-19 patients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1058.md)
+* [Individual in the vicinity of infected individual](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1313.md)
+* [Individuals infected with covid-19](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2324.md)
 * [Individuals with long covid](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_373.md)
-* [Individual in the vicinity of infected individual](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2132.md)
-* [Infected persons](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_114.md)
+* [Infected persons](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2132.md)
+* [Patients with severe covid-19](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_114.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

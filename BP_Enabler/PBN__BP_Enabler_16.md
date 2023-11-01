@@ -2,43 +2,43 @@
 
 # __Automation__
 
-## Property: has_BP_EnablerTitle
-
-enabler_017
-
 ## Category to which it belongs
 
-* [Efficiency through technology.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_255.md)
+* [Efficiency through technology.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_305.md)
 
 ## Closest similar item
 
-* [Robots](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_14.md)
-* [Robots, Drones & Automated Vehicules](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_13.md)
+* [AI/ML](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_14.md)
+* [Augmented / Virtual Reality](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_13.md)
 * [Data Analytics](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_2.md)
-* [AI/ML](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_8.md)
-* [IoT](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_5.md)
-* [Smart HVAC](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_24.md)
-* [Teleworking](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_23.md)
-* [New delivery systems](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_21.md)
-* [Visualization](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_3.md)
-* [Augmented / Virtual Reality](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_22.md)
-
-## These blueprints use this enabler
-
-* [Rotating shift schedule](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_0.md)
-* [Smart locker system](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_1.md)
-* [Indoor environmental quality ieq monitoring system](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_3.md)
-* [Managing user flows in building and infrastructure](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_4.md)
-* [Controls at key checkpoints](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_6.md)
-* [Access control, limitation, or lockdown](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_7.md)
-* [Tender support at building stage](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_9.md)
-* [Installing high-efficiency air filters](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_11.md)
-* [Resilience in staffing and skills training](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_12.md)
-* [Building adaptation for flexible use](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_13.md)
-* [Reducing contact points](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_15.md)
-* [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_17.md)
+* [IoT](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_8.md)
+* [New delivery systems](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_5.md)
+* [Robots](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_24.md)
+* [Robots, Drones & Automated Vehicules](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_23.md)
+* [Smart HVAC](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_21.md)
+* [Teleworking](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_3.md)
+* [Visualization](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_22.md)
 
 ## Technology equivalent to this enabler
 
 * [Automation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1449.md)
+
+## These blueprints use this enabler
+
+* [Access control, limitation, or lockdown](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_0.md)
+* [Building adaptation for flexible use](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_1.md)
+* [Controls at key checkpoints](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_3.md)
+* [Indoor environmental quality ieq monitoring system](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_4.md)
+* [Installing high-efficiency air filters](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_6.md)
+* [Managing user flows in building and infrastructure](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_7.md)
+* [Reducing contact points](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_9.md)
+* [Resilience in staffing and skills training](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_11.md)
+* [Rotating shift schedule](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_12.md)
+* [Smart locker system](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_13.md)
+* [Tender support at building stage](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_15.md)
+* [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_17.md)
+
+## Property: has_BP_EnablerTitle
+
+enabler_017
 

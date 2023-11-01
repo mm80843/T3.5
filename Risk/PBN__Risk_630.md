@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Interoperability challenges, high costs, limited communication, and lack of resources impact various sectors globally.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_22.md)
+* [Interoperability challenges, high costs, limited communication, and lack of resources impact various sectors globally.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_72.md)
 
 ## Closest similar item
 
-* [Lack of effective technical systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1190.md)
-* [Lack of collaboration and coordination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_397.md)
-* [Lack of coordination and duplicative efforts](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2572.md)
-* [Inadequate collaboration and coordination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1353.md)
-* [Lack of data sharing and coordination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1075.md)
+* [Communication and coordination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1190.md)
+* [Coordination problems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_397.md)
+* [Inadequate collaboration and coordination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2572.md)
+* [Lack of collaboration and coordination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1353.md)
+* [Lack of coordination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1075.md)
 * [Lack of coordination and communication](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2868.md)
-* [Lack of coordination and integration](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_403.md)
-* [Lack of coordination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3378.md)
-* [Coordination problems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2426.md)
-* [Communication and coordination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_457.md)
+* [Lack of coordination and duplicative efforts](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_403.md)
+* [Lack of coordination and integration](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3378.md)
+* [Lack of data sharing and coordination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2426.md)
+* [Lack of effective technical systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_457.md)
 
 ## Mitigations of this risk
 

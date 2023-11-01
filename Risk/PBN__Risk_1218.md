@@ -2,42 +2,34 @@
 
 # __Pandemic fatigue__
 
+## Articles mentionning the risk
+
+* [COVID-19 media fatigue: predictors of decreasing interest and avoidance of COVID-19–related news](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_153.md)
+
 ## Category to which it belongs
 
-* [Contagious diseases in built environments, limited pandemic preparedness, and unpredictable disease spread contribute to the global outbreak.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_6.md)
+* [Contagious diseases in built environments, limited pandemic preparedness, and unpredictable disease spread contribute to the global outbreak.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_56.md)
 
 ## Closest similar item
 
-* [Physical inactivity during pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_850.md)
-* [Pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_446.md)
-* [Mental stress and fatigue](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2774.md)
-* [Stress and mental fatigue](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2451.md)
-* [Increased non-hvac loads during pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1552.md)
-* [Stress, fatigue, poor mental well-being](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2445.md)
-* [Increased hvac loads during pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1553.md)
-* [Global pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1426.md)
-* [Exaggerated pandemic estimates](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_374.md)
-* [Information overload during pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1013.md)
+* [Exaggerated pandemic estimates](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_850.md)
+* [Global pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_446.md)
+* [Increased hvac loads during pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2774.md)
+* [Increased non-hvac loads during pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2451.md)
+* [Information overload during pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1552.md)
+* [Mental stress and fatigue](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2445.md)
+* [Pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1553.md)
+* [Physical inactivity during pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1426.md)
+* [Stress and mental fatigue](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_374.md)
+* [Stress, fatigue, poor mental well-being](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1013.md)
 
 ## Description of the risk
 
 Prolonged exposure to negative and distressful information about the pandemic can result in fatigue and decreased interest in news.
 
-## Type of the risk
-
-* [Mental](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_1.md)
-
 ## Is the risk affecting GBN scales
 
 * [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
-
-## Type of impact of the risk (according to ISO37100)
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
-
-## Type of purpose of the risk (according to ISO37100)
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_3.md)
 
 ## Mitigations of this risk
 
@@ -47,21 +39,29 @@ Prolonged exposure to negative and distressful information about the pandemic ca
 
 Reduced adherence to public health guidelines and increased risk of spreading the disease.
 
-## Stakeholders who can mitigate this risk
-
-* [Public health organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_173.md)
-* [Media outlets](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_455.md)
-
-## Articles mentionning the risk
-
-* [COVID-19 media fatigue: predictors of decreasing interest and avoidance of COVID-19–related news](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_153.md)
-
 ## People affected by this risk
 
 * [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
 
+## Stakeholders who can mitigate this risk
+
+* [Media outlets](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_173.md)
+* [Public health organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_455.md)
+
 ## Technologies linked to the risk
 
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_3.md)
+
+## Type of the risk
+
+* [Mental](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_1.md)
 
 ## Property: has_RiskType
 

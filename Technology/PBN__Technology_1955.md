@@ -4,26 +4,26 @@
 
 ## Category to which it belongs
 
-* [Enhanced and expanded array of diagnostic testing tools, technologies, and methods for widespread and reliable screening.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_133.md)
+* [Enhanced and expanded array of diagnostic testing tools, technologies, and methods for widespread and reliable screening.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_183.md)
 
 ## Closest similar item
 
-* [Improved screening and testing methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1534.md)
-* [Development of non-invasive testing techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1970.md)
-* [Rapid and widespread testing capabilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1362.md)
-* [Widespread testing programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1941.md)
-* [Testing facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2913.md)
-* [Advanced testing methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_801.md)
-* [Improved testing capabilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_569.md)
-* [Rigorous safety testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2023.md)
-* [Testing and surveillance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2065.md)
-* [Development of new testing methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_462.md)
-
-## This technology is mentioned by
-
-* [Current knowledge of COVID-19: Advances, challenges and future perspectives](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_118.md)
+* [Advanced testing methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1534.md)
+* [Development of new testing methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1970.md)
+* [Development of non-invasive testing techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1362.md)
+* [Improved screening and testing methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1941.md)
+* [Improved testing capabilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2913.md)
+* [Rapid and widespread testing capabilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_801.md)
+* [Rigorous safety testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_569.md)
+* [Testing and surveillance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2023.md)
+* [Testing facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2065.md)
+* [Widespread testing programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_462.md)
 
 ## Risks linked to this technology
 
 * [Population susceptibility](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_429.md)
+
+## This technology is mentioned by
+
+* [Current knowledge of COVID-19: Advances, challenges and future perspectives](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_118.md)
 

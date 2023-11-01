@@ -2,25 +2,25 @@
 
 # __Measures__
 
+## Benefits linked to a risk
+
+
 ## Category to which it belongs
 
-* [Implementing a comprehensive framework to ensure safety, security, and protection for individuals and communities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_82.md)
+* [Implementing a comprehensive framework to ensure safety, security, and protection for individuals and communities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_132.md)
 
 ## Closest similar item
 
-* [Combined measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1224.md)
-* [Personal measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1367.md)
-* [Organizational measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1365.md)
-* [Long-term measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4014.md)
-* [Ppe measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1223.md)
-* [Case-based measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3690.md)
-* [Environmental measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1366.md)
-* [Continuation of effective measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_97.md)
-* [Containment measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_507.md)
+* [Case-based measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1224.md)
+* [Combined measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1367.md)
+* [Containment measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1365.md)
+* [Continuation of effective measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4014.md)
+* [Environmental measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1223.md)
+* [Long-term measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3690.md)
+* [Organizational measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1366.md)
+* [Personal measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_97.md)
+* [Ppe measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_507.md)
 * [Preventive measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4746.md)
-
-## Benefits linked to a risk
-
 
 ## Risks possibly mitigated by this Mitigation
 

@@ -2,23 +2,27 @@
 
 # __Hackathon__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Innovative solutions and collaborations stimulate economic growth and problem-solving
+* [Smart cities and the pandemic: digital technologies on the urban management of Brazilian cities](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_143.md)
+
+## Category to which it belongs
+
+* [Creating harmonized and consistent messaging across regions to reinforce brand image and promote long-term viability and equality.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_24.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Foster innovation and attract investment](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_785.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [Smart cities and the pandemic: digital technologies on the urban management of Brazilian cities](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_143.md)
+Innovative solutions and collaborations stimulate economic growth and problem-solving
+
+## Risks which can benefit from this action
+
 
 ## Stakeholders benefitting from this Benefit
 
 * [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_29.md)
 * [Innovators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_301.md)
-
-## Risks which can benefit from this action
-
 

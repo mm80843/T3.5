@@ -4,18 +4,18 @@
 
 ## Category to which it belongs
 
-* [People from diverse backgrounds and circumstances, including marginalized individuals, with different abilities, and in various environments.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_215.md)
+* [People from diverse backgrounds and circumstances, including marginalized individuals, with different abilities, and in various environments.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_265.md)
 
 ## Closest similar item
 
-* [Individuals in high-risk areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1074.md)
-* [High-risk individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_69.md)
-* [Individual at risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2167.md)
-* [Individuals at risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_796.md)
+* [At-risk populations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1074.md)
+* [High-risk group](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_69.md)
+* [High-risk groups](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2167.md)
+* [High-risk individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_796.md)
 * [High-risk patients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_539.md)
-* [High-risk group](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2347.md)
-* [High-risk groups](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1195.md)
-* [At-risk populations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_44.md)
+* [Individual at risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2347.md)
+* [Individuals at risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1195.md)
+* [Individuals in high-risk areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_44.md)
 * [Risk experts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1073.md)
 * [Workers in high-risk industries](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_831.md)
 

@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Various measures such as wearable devices, protective clothing, and physical distancing markers promote safety and protection.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_127.md)
+* [Various measures such as wearable devices, protective clothing, and physical distancing markers promote safety and protection.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_177.md)
 
 ## Closest similar item
 
-* [Respirators](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_483.md)
-* [Masks or face coverings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2460.md)
+* [Face mask usage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_483.md)
+* [Face masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2460.md)
 * [Facemasks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_482.md)
-* [Surgical masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2889.md)
-* [Face masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_340.md)
-* [Face mask usage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1989.md)
-* [N95 respirators](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2890.md)
-* [N95 respirator](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2691.md)
-* [Widespread use of masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_582.md)
-* [Personal protective equipment masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2404.md)
+* [Masks or face coverings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2889.md)
+* [N95 respirator](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_340.md)
+* [N95 respirators](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1989.md)
+* [Personal protective equipment masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2890.md)
+* [Respirators](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2691.md)
+* [Surgical masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_582.md)
+* [Widespread use of masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2404.md)
 
 ## This Technology enables the following mitigations
 

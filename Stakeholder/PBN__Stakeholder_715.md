@@ -4,20 +4,24 @@
 
 ## Category to which it belongs
 
-* [Variety of personnel involved in different roles, such as contractors, staff, administrators, technicians, and professionals in specific fields.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_210.md)
+* [Variety of personnel involved in different roles, such as contractors, staff, administrators, technicians, and professionals in specific fields.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_260.md)
 
 ## Closest similar item
 
-* [Public administrator](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1701.md)
-* [Administrators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1179.md)
-* [Community administrators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_636.md)
+* [Administrators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1701.md)
+* [Building administrators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1179.md)
+* [City administrator](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_636.md)
 * [City administrators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_718.md)
-* [System administrators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1402.md)
-* [Building administrators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1406.md)
-* [School administrators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1278.md)
-* [City officials and administrators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1602.md)
-* [City administrator](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1623.md)
-* [School administrator](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1645.md)
+* [City officials and administrators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1402.md)
+* [Community administrators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1406.md)
+* [Public administrator](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1278.md)
+* [School administrator](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1602.md)
+* [School administrators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1623.md)
+* [System administrators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1645.md)
+
+## Risk affecting this stakeholder
+
+* [Lack of effective technical systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1190.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -26,7 +30,7 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 
-## Risk affecting this stakeholder
+## Type of the stakeholder
 
-* [Lack of effective technical systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1190.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

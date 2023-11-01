@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Inadequate resources, staff, facilities, training, coordination, and preparedness contribute to the inefficient and ineffective response to various challenges and needs.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_28.md)
+* [Inadequate resources, staff, facilities, training, coordination, and preparedness contribute to the inefficient and ineffective response to various challenges and needs.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_78.md)
 
 ## Closest similar item
 
-* [Shortage of supplies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3252.md)
+* [Ensuring supplies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3252.md)
 * [Inadequate supplies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2034.md)
-* [Shortages in supply chains](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_491.md)
-* [Ensuring supplies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_989.md)
-* [Shortage](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3358.md)
-* [Shortages of protective equipment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_478.md)
-* [Material shortages](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3167.md)
-* [Supply disruption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2986.md)
-* [Inventory shortage](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2988.md)
-* [Increased demand, logistical challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3035.md)
+* [Increased demand, logistical challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_491.md)
+* [Inventory shortage](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_989.md)
+* [Material shortages](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3358.md)
+* [Shortage](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_478.md)
+* [Shortage of supplies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3167.md)
+* [Shortages in supply chains](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2986.md)
+* [Shortages of protective equipment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2988.md)
+* [Supply disruption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3035.md)
 
 ## Mitigations of this risk
 

@@ -2,42 +2,34 @@
 
 # __Perceived severity__
 
+## Articles mentionning the risk
+
+* [What drives unverified information sharing and cyberchondria during the COVID-19 pandemic?](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_31.md)
+
 ## Category to which it belongs
 
-* [The pandemic has led to a decrease in in-person surgical education, loss of control, temporary panic from cruise ship docking, limited social distancing, and decreased morale.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_20.md)
+* [The pandemic has led to a decrease in in-person surgical education, loss of control, temporary panic from cruise ship docking, limited social distancing, and decreased morale.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_70.md)
 
 ## Closest similar item
 
-* [Psychological effects](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_855.md)
-* [Risk perception](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1203.md)
-* [Lack of immediate threat perception](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1393.md)
-* [Perceived susceptibility](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1602.md)
-* [Biased risk perception](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1800.md)
+* [Biased risk perception](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_855.md)
+* [Inaccurate or sensationalized information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1203.md)
+* [Inadequate reporting and method quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1393.md)
+* [Lack of immediate threat perception](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1602.md)
+* [Perceived susceptibility](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1800.md)
 * [Psychological distress](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2067.md)
-* [Unreliable reporting, atypical symptoms](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2515.md)
+* [Psychological effects](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2515.md)
 * [Psychological risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_84.md)
-* [Inaccurate or sensationalized information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2757.md)
-* [Inadequate reporting and method quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1530.md)
+* [Risk perception](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2757.md)
+* [Unreliable reporting, atypical symptoms](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1530.md)
 
 ## Description of the risk
 
 Individual's appraisal of the severity of a health situation
 
-## Type of the risk
-
-* [Mental](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_1.md)
-
 ## Is the risk affecting GBN scales
 
 * [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
-
-## Type of impact of the risk (according to ISO37100)
-
-* [Safety and security](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_5.md)
-
-## Type of purpose of the risk (according to ISO37100)
-
-* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
 
 ## Mitigations of this risk
 
@@ -47,24 +39,32 @@ Individual's appraisal of the severity of a health situation
 
 Increased health anxiety, heightened perception of threat
 
-## Stakeholders who can mitigate this risk
-
-* [Public health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_222.md)
-* [Mental health organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_603.md)
-
-## Articles mentionning the risk
-
-* [What drives unverified information sharing and cyberchondria during the COVID-19 pandemic?](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_31.md)
-
 ## People affected by this risk
 
 * [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_29.md)
 * [Individuals experiencing health anxiety](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1040.md)
 
+## Stakeholders who can mitigate this risk
+
+* [Mental health organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_222.md)
+* [Public health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_603.md)
+
 ## Technologies linked to the risk
 
-* [Public health agencies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_613.md)
-* [Mental health organizations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_937.md)
+* [Mental health organizations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_613.md)
+* [Public health agencies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_937.md)
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Safety and security](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_5.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
+
+## Type of the risk
+
+* [Mental](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_1.md)
 
 ## Property: has_RiskType
 

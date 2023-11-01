@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_119.md)
+* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_169.md)
 
 ## Closest similar item
 
-* [It resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3592.md)
-* [Training resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3268.md)
-* [Increased resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3815.md)
-* [Information resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3454.md)
-* [Online resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_224.md)
-* [Financial resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3019.md)
-* [Food resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3255.md)
-* [Educational resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_572.md)
-* [Hardware resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1454.md)
-* [Resource allocation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_606.md)
+* [Educational resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3592.md)
+* [Financial resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3268.md)
+* [Food resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3815.md)
+* [Hardware resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3454.md)
+* [Increased resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_224.md)
+* [Information resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3019.md)
+* [It resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3255.md)
+* [Online resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_572.md)
+* [Resource allocation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1454.md)
+* [Training resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_606.md)
 
 ## This Technology enables the following mitigations
 

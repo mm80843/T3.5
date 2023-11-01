@@ -2,6 +2,15 @@
 
 # __Social activities / facilitatie social interactions__
 
+## Category to which it belongs
+
+* [Promote socialization through organized events and provide platforms for interpersonal connections.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_225.md)
+
+## This intervention is used in the following blueprints
+
+* [Acces to green space](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_16.md)
+* [Enhancing physical activity](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_23.md)
+
 ## Property: has_BP_InterventionKey
 
 HM3
@@ -9,13 +18,4 @@ HM3
 ## Property: has_BP_InterventionTitle
 
 Social activities / facilitatie social interactions
-
-## Category to which it belongs
-
-* [Promote socialization through organized events and provide platforms for interpersonal connections.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_175.md)
-
-## This intervention is used in the following blueprints
-
-* [Acces to green space](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_16.md)
-* [Enhancing physical activity](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_23.md)
 

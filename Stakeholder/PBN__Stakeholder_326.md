@@ -2,24 +2,28 @@
 
 # __Commercial property owners__
 
+## Category to which it belongs
+
+* [Individuals with ownership, control, or responsibility over various properties, businesses, data, or belongings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_263.md)
+
+## Closest similar item
+
+* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_177.md)
+* [Business owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1928.md)
+* [Commercial space owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1977.md)
+* [Estate owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1970.md)
+* [Property developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_419.md)
+* [Property managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
+* [Property owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_726.md)
+* [Property owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_935.md)
+* [Real estate owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1945.md)
+* [Real estate owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1280.md)
+
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Differentiation and market advantage](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_801.md)
 
-## Category to which it belongs
+## Type of the stakeholder
 
-* [Individuals with ownership, control, or responsibility over various properties, businesses, data, or belongings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_213.md)
-
-## Closest similar item
-
-* [Property owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_177.md)
-* [Real estate owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1928.md)
-* [Property owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1977.md)
-* [Real estate owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1970.md)
-* [Commercial space owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_419.md)
-* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
-* [Business owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_726.md)
-* [Property managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_935.md)
-* [Estate owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1945.md)
-* [Property developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1280.md)
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_0.md)
 

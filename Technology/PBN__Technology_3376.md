@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The intersection of public health and technology, including mobile apps, messaging systems, data analytics, and ai, to promote health and educate communities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_104.md)
+* [The intersection of public health and technology, including mobile apps, messaging systems, data analytics, and ai, to promote health and educate communities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_154.md)
 
 ## Closest similar item
 
-* [Public epidemiological data](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2696.md)
-* [Epidemiological models](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_755.md)
-* [Artificial intelligence and epidemiological data](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3221.md)
-* [Disease surveillance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1884.md)
-* [Data analytics for public health monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_474.md)
-* [Population data](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1361.md)
-* [Use of data analytics to identify high-risk areas and populations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_561.md)
-* [Data analysis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2736.md)
+* [Artificial intelligence and epidemiological data](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2696.md)
+* [Data analysis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_755.md)
+* [Data analytics for public health monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3221.md)
+* [Data analytics to identify high-risk areas and populations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1884.md)
+* [Disease surveillance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_474.md)
+* [Epidemiological models](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1361.md)
+* [Population data](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_561.md)
+* [Public epidemiological data](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2736.md)
 * [Transportation and epidemiological models](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2943.md)
-* [Data analytics to identify high-risk areas and populations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2048.md)
+* [Use of data analytics to identify high-risk areas and populations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2048.md)
 
 ## This Technology enables the following mitigations
 

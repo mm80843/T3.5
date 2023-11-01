@@ -4,28 +4,28 @@
 
 ## Category to which it belongs
 
-* [Enhanced cleaning practices and hygiene protocols utilize a wide range of tools, equipment, solutions, and technologies to ensure cleanliness and safety.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_112.md)
+* [Enhanced cleaning practices and hygiene protocols utilize a wide range of tools, equipment, solutions, and technologies to ensure cleanliness and safety.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_162.md)
 
 ## Closest similar item
 
-* [Proper cleaning procedures and equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3244.md)
-* [Cleaning practices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3438.md)
-* [Proper cleaning equipment and procedures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3241.md)
-* [Recognized cleaning practices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3248.md)
-* [Cleaning solutions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_437.md)
-* [Cleaning products](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_881.md)
-* [Enhanced cleaning and hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_727.md)
-* [Cleaning technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3482.md)
-* [Enhanced cleaning technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1553.md)
-* [Enhanced cleaning protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1836.md)
+* [Cleaning practices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3244.md)
+* [Cleaning products](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3438.md)
+* [Cleaning solutions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3241.md)
+* [Cleaning technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3248.md)
+* [Enhanced cleaning and hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_437.md)
+* [Enhanced cleaning protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_881.md)
+* [Enhanced cleaning technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_727.md)
+* [Proper cleaning equipment and procedures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3482.md)
+* [Proper cleaning procedures and equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1553.md)
+* [Recognized cleaning practices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1836.md)
+
+## Risks linked to this technology
+
+* [Pvp3](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2168.md)
 
 ## This Technology belongs to this TechGroup
 
 * [Hygiene protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2226.md)
-
-## This technology is mentioned by
-
-* [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_51.md)
 
 ## This Technology belongs to this TechSubgroup
 
@@ -35,7 +35,7 @@
 
 * [Removal of wet or contaminated insulation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4355.md)
 
-## Risks linked to this technology
+## This technology is mentioned by
 
-* [Pvp3](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2168.md)
+* [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_51.md)
 

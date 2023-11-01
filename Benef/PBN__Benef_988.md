@@ -2,23 +2,27 @@
 
 # __Early warning of disease outbreaks__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Allows for early detection of infections in the community through monitoring wastewater, enabling prompt public health interventions
+* [First confirmed detection of SARS-CoV-2 in untreated wastewater in Australia: A proof of concept for the wastewater surveillance of COVID-19 in the community](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_205.md)
+
+## Category to which it belongs
+
+* [Synonym: proactive surveillance and response to disease transmission, prevention, and control.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_2.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Improved public health response, reduced transmission, better control of outbreaks](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_1098.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [First confirmed detection of SARS-CoV-2 in untreated wastewater in Australia: A proof of concept for the wastewater surveillance of COVID-19 in the community](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_205.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [Public health officials](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_310.md)
+Allows for early detection of infections in the community through monitoring wastewater, enabling prompt public health interventions
 
 ## Risks which can benefit from this action
 
 * [Wastewater-based epidemiology wbe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_988.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [Public health officials](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_310.md)
 

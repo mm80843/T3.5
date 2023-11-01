@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The challenges of urban inequality, parameter identification, noise pollution, waste, and delayed decision making have resulted in increased inequalities and exclusion, posing numerous issues for governance and scalability.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_14.md)
+* [The challenges of urban inequality, parameter identification, noise pollution, waste, and delayed decision making have resulted in increased inequalities and exclusion, posing numerous issues for governance and scalability.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_64.md)
 
 ## Closest similar item
 
-* [Lack of occupant exposure model](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1981.md)
+* [Contaminated environments](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1981.md)
 * [Decreased exposure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1255.md)
-* [Transmission, exposure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2501.md)
-* [Direct exposure to sunlight](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2910.md)
-* [Lack of quantitative understanding of the impact of social distancing measures on building occupant exposure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_8.md)
+* [Direct exposure to sunlight](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2501.md)
+* [Image risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2910.md)
+* [Inadequate sunlight exposure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_8.md)
 * [Lack of nature exposure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2912.md)
-* [Image risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_87.md)
-* [Secondhand smoke exposure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3196.md)
-* [Inadequate sunlight exposure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2690.md)
-* [Contaminated environments](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3098.md)
+* [Lack of occupant exposure model](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_87.md)
+* [Lack of quantitative understanding of the impact of social distancing measures on building occupant exposure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3196.md)
+* [Secondhand smoke exposure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2690.md)
+* [Transmission, exposure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3098.md)
 
 ## Mitigations of this risk
 

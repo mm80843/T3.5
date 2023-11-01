@@ -4,20 +4,24 @@
 
 ## Category to which it belongs
 
-* [People who lack access to private outdoor spaces and have limited access to green spaces, including rural women with ovarian cancer, frequents public places.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_227.md)
+* [People who lack access to private outdoor spaces and have limited access to green spaces, including rural women with ovarian cancer, frequents public places.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_277.md)
 
 ## Closest similar item
 
-* [Individual who frequent public space](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2103.md)
-* [Individuals in public spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_755.md)
-* [Users of interior public spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_485.md)
-* [Individual in public space](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2288.md)
-* [Public and users of public spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_37.md)
-* [Public spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_680.md)
-* [Particularly individual in crowded public space](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2210.md)
-* [Particularly individuals in crowded public spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_738.md)
-* [Public space](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1618.md)
-* [Public place users](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_153.md)
+* [Individual in public space](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2103.md)
+* [Individual who frequent public space](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_755.md)
+* [Individuals in public spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_485.md)
+* [Particularly individual in crowded public space](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2288.md)
+* [Particularly individuals in crowded public spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_37.md)
+* [Public and users of public spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_680.md)
+* [Public place users](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2210.md)
+* [Public space](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_738.md)
+* [Public spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1618.md)
+* [Users of interior public spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_153.md)
+
+## Risk affecting this stakeholder
+
+* [Transmission through contaminated surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1366.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -26,7 +30,7 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 
-## Risk affecting this stakeholder
+## Type of the stakeholder
 
-* [Transmission through contaminated surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1366.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

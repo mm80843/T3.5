@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_119.md)
+* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_169.md)
 
 ## Closest similar item
 
-* [Clean cooking technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1480.md)
-* [Cooking appliances](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3285.md)
+* [Advanced manufacturing techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1480.md)
+* [Clean cooking technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3285.md)
 * [Clean cookstoves](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1481.md)
-* [Improved stove technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3425.md)
-* [Advanced manufacturing techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1555.md)
-* [Organic farming methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2721.md)
-* [Technologies and techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2256.md)
-* [Surgical techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2726.md)
-* [Microwave](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3773.md)
-* [Food resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3255.md)
+* [Cooking appliances](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3425.md)
+* [Food resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1555.md)
+* [Improved stove technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2721.md)
+* [Microwave](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2256.md)
+* [Organic farming methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2726.md)
+* [Surgical techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3773.md)
+* [Technologies and techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3255.md)
 
 ## This Technology enables the following mitigations
 

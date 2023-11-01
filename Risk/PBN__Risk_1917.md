@@ -2,41 +2,34 @@
 
 # __Logical inconsistencies__
 
+## Articles mentionning the risk
+
+* [The COVID-19 epidemiology and monitoring ontology](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_259.md)
+
 ## Category to which it belongs
 
-* [The challenges of urban inequality, parameter identification, noise pollution, waste, and delayed decision making have resulted in increased inequalities and exclusion, posing numerous issues for governance and scalability.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_14.md)
+* [The challenges of urban inequality, parameter identification, noise pollution, waste, and delayed decision making have resulted in increased inequalities and exclusion, posing numerous issues for governance and scalability.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_64.md)
 
 ## Closest similar item
 
-* [Lack of logical consistency](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_906.md)
-* [Confusion and uncertainty](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1709.md)
-* [Misinformation and confusion](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3220.md)
-* [Inconsistencies in accuracy measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1253.md)
-* [False and misleading information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2102.md)
-* [Misinformed decisions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2739.md)
-* [Incomplete or inaccurate data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3000.md)
-* [Loss of validity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1375.md)
-* [Misinterpretation and panic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2574.md)
-* [Inaccurate information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_972.md)
+* [Confusion and uncertainty](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_906.md)
+* [False and misleading information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1709.md)
+* [Inaccurate information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3220.md)
+* [Incomplete or inaccurate data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1253.md)
+* [Inconsistencies in accuracy measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2102.md)
+* [Lack of logical consistency](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2739.md)
+* [Loss of validity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3000.md)
+* [Misinformation and confusion](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1375.md)
+* [Misinformed decisions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2574.md)
+* [Misinterpretation and panic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_972.md)
 
 ## Description of the risk
 
 Incompatibilities between ontologies and temporal regions may lead to logical inconsistencies.
 
-## Type of the risk
-
-
 ## Is the risk affecting GBN scales
 
 * [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
-
-## Type of impact of the risk (according to ISO37100)
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
-
-## Type of purpose of the risk (according to ISO37100)
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_3.md)
 
 ## Mitigations of this risk
 
@@ -46,24 +39,31 @@ Incompatibilities between ontologies and temporal regions may lead to logical in
 
 Compromised data integrity and reasoning capabilities.
 
-## Stakeholders who can mitigate this risk
+## People affected by this risk
 
 * [Data scientists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_625.md)
 * [Ontology developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1301.md)
 
-## Articles mentionning the risk
-
-* [The COVID-19 epidemiology and monitoring ontology](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_259.md)
-
-## People affected by this risk
+## Stakeholders who can mitigate this risk
 
 * [Data scientists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_625.md)
 * [Ontology developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1301.md)
 
 ## Technologies linked to the risk
 
-* [Semantic web technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1341.md)
-* [Ontology engineering best practices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1342.md)
+* [Ontology engineering best practices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1341.md)
+* [Semantic web technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1342.md)
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_3.md)
+
+## Type of the risk
+
 
 ## Property: has_RiskType
 

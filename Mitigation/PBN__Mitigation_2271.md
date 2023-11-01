@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Implementing extensive surveillance measures, including increased monitoring, tracking, and real-time detection, to enhance public safety and response to various threats.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_53.md)
+* [Implementing extensive surveillance measures, including increased monitoring, tracking, and real-time detection, to enhance public safety and response to various threats.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_103.md)
 
 ## Closest similar item
 
-* [Improve surveillance and reporting systems; faster testing and contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1888.md)
-* [Improve contact tracing systems, increase testing capacity, utilize digital tools for contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2722.md)
-* [Increased testing and contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_864.md)
-* [Improve testing capacity and accuracy; increase data collection and surveillance systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1890.md)
-* [Promote social distancing, wear masks, wash hands regularly, implement contact tracing and testing.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2011.md)
-* [Contact tracing and surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3581.md)
-* [Enhance surveillance systems, strengthen global cooperation, and invest in research and development.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2723.md)
-* [Widespread testing and contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_720.md)
+* [Contact tracing and surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1888.md)
+* [Enhance surveillance systems, strengthen global cooperation, and invest in research and development.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2722.md)
+* [Improve contact tracing systems, increase testing capacity, utilize digital tools for contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_864.md)
+* [Improve surveillance and reporting systems; faster testing and contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1890.md)
+* [Improve testing capacity and accuracy; increase data collection and surveillance systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2011.md)
+* [Increase testing capacity and use alternative surveillance methods such as sewage surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3581.md)
+* [Increased testing and contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2723.md)
+* [Promote social distancing, wear masks, wash hands regularly, implement contact tracing and testing.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_720.md)
 * [Rapid testing and contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3808.md)
-* [Increase testing capacity and use alternative surveillance methods such as sewage surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2298.md)
+* [Widespread testing and contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2298.md)
 
 ## Risks possibly mitigated by this Mitigation
 

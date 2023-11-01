@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Accurate and reliable knowledge dissemination and fact-checking through interdisciplinary collaboration and intelligent information feedback.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_122.md)
+* [Accurate and reliable knowledge dissemination and fact-checking through interdisciplinary collaboration and intelligent information feedback.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_172.md)
 
 ## Closest similar item
 
-* [Resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3025.md)
-* [Online resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_224.md)
-* [Educational resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_572.md)
+* [Education resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3025.md)
+* [Educational resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_224.md)
+* [Information and education programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_572.md)
 * [Information brochures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_252.md)
-* [Training resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3268.md)
-* [Reliable information sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1994.md)
-* [Education resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2322.md)
-* [News and information sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3385.md)
-* [Reliable sources of information](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_580.md)
-* [Information and education programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2936.md)
+* [News and information sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3268.md)
+* [Online resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1994.md)
+* [Reliable information sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2322.md)
+* [Reliable sources of information](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3385.md)
+* [Resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_580.md)
+* [Training resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2936.md)
 
 ## This Technology enables the following mitigations
 

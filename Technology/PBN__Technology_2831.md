@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Advancements in various technological domains facilitate touchless, remote, and efficient ways of communication, work, and data management.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_108.md)
+* [Advancements in various technological domains facilitate touchless, remote, and efficient ways of communication, work, and data management.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_158.md)
 
 ## Closest similar item
 
-* [Motion sensor](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2489.md)
-* [Motion sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1721.md)
+* [Improved sensor technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2489.md)
+* [Motion sensor](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1721.md)
 * [Motion sensor controls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2622.md)
-* [Sensor technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2540.md)
-* [Sensor-based technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2432.md)
-* [Sensor technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3668.md)
-* [Improved sensor technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_313.md)
-* [Tracking technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1720.md)
-* [Wearable sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2347.md)
-* [Smart sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3144.md)
+* [Motion sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2540.md)
+* [Sensor technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2432.md)
+* [Sensor technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3668.md)
+* [Sensor-based technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_313.md)
+* [Smart sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1720.md)
+* [Tracking technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2347.md)
+* [Wearable sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3144.md)
 
 ## This Technology enables the following mitigations
 

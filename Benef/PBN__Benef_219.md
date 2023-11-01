@@ -2,24 +2,28 @@
 
 # __Comprehensive and objective data__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Provides comprehensive and objective data on population health and environmental exposure, allowing for informed decision-making in urban planning and policy development
+* [Future perspectives of wastewater-based epidemiology: Monitoring infectious disease spread and resistance to the community level](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_48.md)
+
+## Category to which it belongs
+
+* [Access to diverse, comprehensive, and accurate data enables efficient analysis and informed decision-making while ensuring data integrity and security.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_9.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in this mitigation measure could benefit from improved asset value by supporting the development of sustainable and resilient cities, attracting investments and improving quality of life for residents.](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_225.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [Future perspectives of wastewater-based epidemiology: Monitoring infectious disease spread and resistance to the community level](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_48.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [Policymakers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_126.md)
-* [Urban planners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_125.md)
+Provides comprehensive and objective data on population health and environmental exposure, allowing for informed decision-making in urban planning and policy development
 
 ## Risks which can benefit from this action
 
 * [Wastewater-based epidemiology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_202.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [Policymakers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_125.md)
+* [Urban planners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_126.md)
 

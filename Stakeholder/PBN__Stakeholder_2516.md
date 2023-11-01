@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [All individuals engaged in various forms of work, including employees, freelancers, laborers, and professionals.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_194.md)
+* [All individuals engaged in various forms of work, including employees, freelancers, laborers, and professionals.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_244.md)
 
 ## Closest similar item
 
-* [Workers in routine and manual tasks](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1346.md)
-* [Worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1755.md)
-* [Worker in the built environment](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2520.md)
-* [Worker in essential industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1667.md)
-* [Service worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1739.md)
-* [Essential worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1754.md)
-* [Worker in the service industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1767.md)
-* [Occupational and workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1666.md)
-* [Types of workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1656.md)
-* [Worker in indoor environment](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1678.md)
+* [Essential worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1346.md)
+* [Occupational and workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1755.md)
+* [Service worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2520.md)
+* [Types of workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1667.md)
+* [Worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1739.md)
+* [Worker in essential industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1754.md)
+* [Worker in indoor environment](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1767.md)
+* [Worker in the built environment](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1666.md)
+* [Worker in the service industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1656.md)
+* [Workers in routine and manual tasks](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1678.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

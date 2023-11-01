@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_116.md)
+* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_166.md)
 
 ## Closest similar item
 
-* [Natural views](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2443.md)
-* [Windows with views](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1009.md)
-* [Window views of green spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1613.md)
-* [Vision algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3855.md)
-* [Observational datasets](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2695.md)
-* [Camera](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2864.md)
-* [Computer vision](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3140.md)
-* [Virtual exhibitions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1806.md)
-* [Screens](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3661.md)
-* [Visualization](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3893.md)
+* [Camera](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2443.md)
+* [Computer vision](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1009.md)
+* [Natural views](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1613.md)
+* [Observational datasets](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3855.md)
+* [Screens](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2695.md)
+* [Virtual exhibitions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2864.md)
+* [Vision algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3140.md)
+* [Visualization](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1806.md)
+* [Window views of green spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3661.md)
+* [Windows with views](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3893.md)
 
 ## This Technology enables the following mitigations
 

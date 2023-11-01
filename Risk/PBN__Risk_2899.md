@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The impact of various factors on public health, including unhealthy behaviors, limited access to healthcare, and food insecurity.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_3.md)
+* [The impact of various factors on public health, including unhealthy behaviors, limited access to healthcare, and food insecurity.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_53.md)
 
 ## Closest similar item
 
-* [Variability in disease severity in reinfected patients](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_863.md)
-* [High prevalence of obesity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_622.md)
-* [Changes in disease distribution](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1830.md)
-* [Disease severity in re-infected patients](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1890.md)
-* [Limited consideration of mobility patterns and heterogeneity in interactions in macroscopic epidemiological models](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_7.md)
-* [Higher covid-19 hospitalizations and mortality among immigrants](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1825.md)
-* [Gastrointestinal symptoms in covid-19 patients](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2900.md)
-* [Increase in chronic diseases from sedentary lifestyles](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_113.md)
-* [Importation of diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3216.md)
-* [Increased risk of obesity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2773.md)
+* [Changes in disease distribution](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_863.md)
+* [Disease severity in re-infected patients](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_622.md)
+* [Gastrointestinal symptoms in covid-19 patients](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1830.md)
+* [High prevalence of obesity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1890.md)
+* [Higher covid-19 hospitalizations and mortality among immigrants](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_7.md)
+* [Importation of diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1825.md)
+* [Increase in chronic diseases from sedentary lifestyles](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2900.md)
+* [Increased risk of obesity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_113.md)
+* [Limited consideration of mobility patterns and heterogeneity in interactions in macroscopic epidemiological models](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3216.md)
+* [Variability in disease severity in reinfected patients](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2773.md)
 
 ## Mitigations of this risk
 

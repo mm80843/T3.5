@@ -2,43 +2,34 @@
 
 # __Economic disparities among member states__
 
+## Articles mentionning the risk
+
+* [Borders and Catastrophe: lessons from COVID-19 for the European Green Deal](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_156.md)
+
 ## Category to which it belongs
 
-* [The interconnectedness of global economics has led to financial instability, unemployment, poverty, and decreased investment in certain sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_12.md)
+* [The interconnectedness of global economics has led to financial instability, unemployment, poverty, and decreased investment in certain sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_62.md)
 
 ## Closest similar item
 
-* [Potential socioeconomic disparities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2499.md)
-* [Disparities in economic, political, and cultural contexts](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2650.md)
-* [Social inequalities and income disparities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_487.md)
-* [Social disparities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2660.md)
-* [Social equity disparities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1410.md)
-* [Incidence disparities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1914.md)
-* [Heterogeneity of state policies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1768.md)
-* [Regional disparities in knowledge, attitudes, and practices](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_628.md)
-* [Health disparities and equity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1179.md)
+* [Disparities in economic, political, and cultural contexts](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2499.md)
+* [Health disparities and equity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2650.md)
+* [Heterogeneity of state policies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_487.md)
+* [Incidence disparities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2660.md)
+* [Potential socioeconomic disparities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1410.md)
+* [Regional disparities in knowledge, attitudes, and practices](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1914.md)
+* [Social disparities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1768.md)
+* [Social equity disparities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_628.md)
+* [Social inequalities and income disparities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1179.md)
 * [Socio-economic factors and regional characteristics](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1349.md)
 
 ## Description of the risk
 
 The economic impacts of the COVID-19 crisis are not evenly distributed among Member States, exacerbating existing disparities and widening the economic divide
 
-## Type of the risk
-
-* [Social](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_4.md)
-* [Economic](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_3.md)
-
 ## Is the risk affecting GBN scales
 
 * [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
-
-## Type of impact of the risk (according to ISO37100)
-
-* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_8.md)
-
-## Type of purpose of the risk (according to ISO37100)
-
-* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_10.md)
 
 ## Mitigations of this risk
 
@@ -48,24 +39,33 @@ The economic impacts of the COVID-19 crisis are not evenly distributed among Mem
 
 Increased social inequality, higher unemployment rates, and greater economic instability
 
-## Stakeholders who can mitigate this risk
-
-* [Member states](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_315.md)
-* [European union](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1016.md)
-
-## Articles mentionning the risk
-
-* [Borders and Catastrophe: lessons from COVID-19 for the European Green Deal](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_156.md)
-
 ## People affected by this risk
 
 * [None](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_627.md)
 
+## Stakeholders who can mitigate this risk
+
+* [European union](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1016.md)
+* [Member states](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_315.md)
+
 ## Technologies linked to the risk
 
-* [Targeted investments](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_893.md)
-* [Financial assistance programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_892.md)
-* [Economic diversification strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_894.md)
+* [Economic diversification strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_892.md)
+* [Financial assistance programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_893.md)
+* [Targeted investments](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_894.md)
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_8.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_10.md)
+
+## Type of the risk
+
+* [Economic](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_3.md)
+* [Social](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_4.md)
 
 ## Property: has_RiskType
 

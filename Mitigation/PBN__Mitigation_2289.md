@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Implementing extensive surveillance measures, including increased monitoring, tracking, and real-time detection, to enhance public safety and response to various threats.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_53.md)
+* [Implementing extensive surveillance measures, including increased monitoring, tracking, and real-time detection, to enhance public safety and response to various threats.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_103.md)
 
 ## Closest similar item
 
 * [Enforce strict adherence to guidelines and protocols through monitoring and enforcement mechanisms](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2262.md)
-* [Monitoring and compliance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4890.md)
-* [Public awareness campaigns, strict enforcement of rules, penalties for non-compliance.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2767.md)
-* [Implementing strict social distancing measures, promoting proper hygiene practices, and widespread testing and contact tracing.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2835.md)
-* [Promote awareness and education about preventive measures, enforce guidelines and restrictions, and encourage responsible behavior and adherence to protocols.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1590.md)
-* [Monitoring buying behavior and limiting purchases; optimizing supply chains; surveillance and enforcement against hoarding](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3035.md)
-* [Limit capacity, enforce social distancing measures, provide clear signage and guidelines](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1813.md)
-* [Regulation of surveillance technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1199.md)
-* [Implement and enforce strict social distancing guidelines.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2709.md)
-* [Improve public awareness and understanding of the importance of prevention measures, enforce compliance with guidelines](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3091.md)
+* [Implement and enforce strict social distancing guidelines.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4890.md)
+* [Implementing strict social distancing measures, promoting proper hygiene practices, and widespread testing and contact tracing.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2767.md)
+* [Improve public awareness and understanding of the importance of prevention measures, enforce compliance with guidelines](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2835.md)
+* [Limit capacity, enforce social distancing measures, provide clear signage and guidelines](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1590.md)
+* [Monitoring and compliance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3035.md)
+* [Monitoring buying behavior and limiting purchases; optimizing supply chains; surveillance and enforcement against hoarding](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1813.md)
+* [Promote awareness and education about preventive measures, enforce guidelines and restrictions, and encourage responsible behavior and adherence to protocols.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1199.md)
+* [Public awareness campaigns, strict enforcement of rules, penalties for non-compliance.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2709.md)
+* [Regulation of surveillance technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3091.md)
 
 ## Risks possibly mitigated by this Mitigation
 

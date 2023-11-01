@@ -2,42 +2,34 @@
 
 # __Lack of natural light__
 
+## Articles mentionning the risk
+
+* [Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_282.md)
+
 ## Category to which it belongs
 
-* [Indoor living challenges include limited self-sufficiency, reliance on artificial elements, poor lighting, and environmental variations.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_35.md)
+* [Indoor living challenges include limited self-sufficiency, reliance on artificial elements, poor lighting, and environmental variations.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_85.md)
 
 ## Closest similar item
 
-* [Inadequate natural light](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1087.md)
-* [Lack of access to natural light](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3169.md)
+* [Inadequate lighting](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1087.md)
+* [Inadequate natural light](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3169.md)
 * [Inadequate natural lighting](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1445.md)
-* [Inadequate lighting](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1116.md)
-* [Poor lighting conditions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2227.md)
-* [Insufficient lighting and thermal comfort](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_953.md)
-* [Poor lighting](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_127.md)
+* [Inadequate sunlight exposure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1116.md)
+* [Insufficient lighting and thermal comfort](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2227.md)
+* [Lack of access to natural light](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_953.md)
+* [Lack of nature exposure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_127.md)
 * [Lack of sunlight and fresh air](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1285.md)
-* [Inadequate sunlight exposure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2690.md)
-* [Lack of nature exposure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2912.md)
+* [Poor lighting](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2690.md)
+* [Poor lighting conditions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2912.md)
 
 ## Description of the risk
 
 Insufficient access to natural light in buildings can negatively impact occupants' well-being and productivity
 
-## Type of the risk
-
-* [Mental](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_1.md)
-
 ## Is the risk affecting GBN scales
 
 * [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
-
-## Type of impact of the risk (according to ISO37100)
-
-* [Education and capacity building](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_7.md)
-
-## Type of purpose of the risk (according to ISO37100)
-
-* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
 
 ## Mitigations of this risk
 
@@ -47,26 +39,34 @@ Insufficient access to natural light in buildings can negatively impact occupant
 
 Reduced mood, decreased productivity
 
-## Stakeholders who can mitigate this risk
-
-* [Designers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_74.md)
-* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
-* [Architects](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_431.md)
-
-## Articles mentionning the risk
-
-* [Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_282.md)
-
 ## People affected by this risk
 
 * [Occupants of buildings with lack of natural light](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1201.md)
 
+## Stakeholders who can mitigate this risk
+
+* [Architects](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
+* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_431.md)
+* [Designers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_74.md)
+
 ## Technologies linked to the risk
 
-* [Windows](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_140.md)
-* [Skylights](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_141.md)
-* [Light pipes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1166.md)
-* [Light shelves](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1165.md)
+* [Light pipes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_140.md)
+* [Light shelves](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_141.md)
+* [Skylights](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1165.md)
+* [Windows](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1166.md)
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Education and capacity building](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_7.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
+
+## Type of the risk
+
+* [Mental](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_1.md)
 
 ## Property: has_RiskType
 

@@ -2,9 +2,22 @@
 
 # __Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1__
 
+## Benefits listed in this article
+
+* [Reduction in virus viability in indoor air](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_95.md)
+* [Reduction in virus viability on surfaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_94.md)
+
 ## DOI of the article
 
 10.1056/NEJMc2004973
+
+## List of risks in an article
+
+* [Aerosol transmission of sars-cov-2](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_922.md)
+* [Decay rate of sars-cov-2 in the environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2247.md)
+* [Similar stability to sars-cov-1](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2249.md)
+* [Surface stability of sars-cov-2](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2248.md)
+* [Variability of virus stability on different surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2250.md)
 
 ## Short summary of the article
 
@@ -14,6 +27,20 @@ This study analyzed the aerosol and surface stability of SARS-CoV-2 and compared
 
 There are two viruses called SARS-CoV-2 and SARS-CoV-1 that are similar to each other. Scientists wanted to see how these viruses can stay in the air and on different surfaces. They found that both viruses can stay in the air for about 3 hours, and they can stay on plastic and stainless steel surfaces for up to 72 hours. However, they don't last very long on copper and cardboard surfaces. The viruses also become less powerful over time and their strength decreases. Overall, both viruses behave pretty similarly and their differences are because of other factors, not how long they can stay in the air or on surfaces.
 
+## This article mentions these technologies
+
+* [Isolation measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
+* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_904.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1853.md)
+
+## This article points to following mitigation
+
+* [Face masks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
+* [Regular cleaning and disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4051.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3579.md)
+* [Ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_627.md)
+
 ## Title of the article
 
 Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1
@@ -21,31 +48,4 @@ Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1
 ## Year of publication
 
 2020
-
-## Benefits listed in this article
-
-* [Reduction in virus viability on surfaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_94.md)
-* [Reduction in virus viability in indoor air](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_95.md)
-
-## List of risks in an article
-
-* [Aerosol transmission of sars-cov-2](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_922.md)
-* [Variability of virus stability on different surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2248.md)
-* [Surface stability of sars-cov-2](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2247.md)
-* [Decay rate of sars-cov-2 in the environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2249.md)
-* [Similar stability to sars-cov-1](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2250.md)
-
-## This article points to following mitigation
-
-* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
-* [Regular cleaning and disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3579.md)
-* [Ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_627.md)
-* [Face masks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4051.md)
-
-## This article mentions these technologies
-
-* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
-* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_904.md)
-* [Isolation measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1853.md)
 

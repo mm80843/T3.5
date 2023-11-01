@@ -2,23 +2,27 @@
 
 # __Protection of individual rights__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Ensuring rights are respected in public health interventions safeguards privacy, avoids discrimination, and promotes equitable governance approaches
+* [Implications of COVID-19 control measures for diet and physical activity, and lessons for addressing other pandemics facing rapidly urbanising countries](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_68.md)
+
+## Category to which it belongs
+
+* [Enhanced safeguarding of personal information, privacy, rights, and security with inclusive access to reliable and secure data.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_22.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Improved individual and collective rights, increased trust in public health measures, enhanced social cohesion](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_380.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [Implications of COVID-19 control measures for diet and physical activity, and lessons for addressing other pandemics facing rapidly urbanising countries](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_68.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
+Ensuring rights are respected in public health interventions safeguards privacy, avoids discrimination, and promotes equitable governance approaches
 
 ## Risks which can benefit from this action
 
 * [Rights-based approach to public health](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_359.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
 

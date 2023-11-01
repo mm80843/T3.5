@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_119.md)
+* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_169.md)
 
 ## Closest similar item
 
-* [Sustainable tourism initiatives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1701.md)
-* [Virtual tourism platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1700.md)
-* [Destination marketing campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_993.md)
-* [Promotion of virtual tours and classes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1876.md)
-* [Travel policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3413.md)
-* [Monetary incentives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3101.md)
-* [Virtual tours](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_440.md)
-* [Travel management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2297.md)
-* [Investment in local production](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_943.md)
-* [Financial incentives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_53.md)
+* [Destination marketing campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1701.md)
+* [Financial incentives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1700.md)
+* [Investment in local production](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_993.md)
+* [Monetary incentives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1876.md)
+* [Promotion of virtual tours and classes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3413.md)
+* [Sustainable tourism initiatives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3101.md)
+* [Travel management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_440.md)
+* [Travel policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2297.md)
+* [Virtual tourism platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_943.md)
+* [Virtual tours](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_53.md)
 
 ## This Technology enables the following mitigations
 

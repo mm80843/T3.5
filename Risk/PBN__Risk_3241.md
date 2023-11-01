@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The risks of unauthorized access, misuse, corruption, and breaches in data security and privacy are widespread.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_27.md)
+* [The risks of unauthorized access, misuse, corruption, and breaches in data security and privacy are widespread.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_77.md)
 
 ## Closest similar item
 
-* [Unauthorized access to data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1228.md)
-* [Limited access to data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_723.md)
+* [Data privacy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1228.md)
+* [Data privacy and security](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_723.md)
 * [Data privacy breach](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2723.md)
-* [Privacy and data security concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2041.md)
-* [Data privacy concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3120.md)
-* [Data privacy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2411.md)
-* [Data privacy and security](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2286.md)
-* [Privacy of data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3231.md)
-* [Fraudulent data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3356.md)
-* [Data security](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1524.md)
+* [Data privacy concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2041.md)
+* [Data security](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3120.md)
+* [Fraudulent data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2411.md)
+* [Limited access to data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2286.md)
+* [Privacy and data security concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3231.md)
+* [Privacy of data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3356.md)
+* [Unauthorized access to data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1524.md)
 
 ## Mitigations of this risk
 

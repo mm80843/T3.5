@@ -2,9 +2,29 @@
 
 # __A Comprehensive Review of Applications of Internet of Things for Covid-19 Pandemic__
 
+## Benefits listed in this article
+
+* [Efficient management of covid-19 crisis](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_157.md)
+* [Efficient tracking of high-risk patients](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_158.md)
+* [Enhanced drug delivery](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_159.md)
+* [Resolving medical facility issues for orthopaedic patients](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_160.md)
+
 ## DOI of the article
 
 10.1088/1757-899x/1055/1/012083
+
+## List of risks in an article
+
+* [Insufficient ventilation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_571.md)
+* [Lack of communication](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_91.md)
+* [Lack of hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1669.md)
+* [Overcrowding](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1327.md)
+* [Spread of covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1486.md)
+
+## Referenced by other articles
+
+* [A Comprehensive Review of the COVID-19 Pandemic and the Role of IoT, Drones, AI, Blockchain, and 5G in Managing its Impact](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_295.md)
+* [Internet of things (IoT) applications to fight against COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_313.md)
 
 ## Short summary of the article
 
@@ -14,10 +34,28 @@ This study examines the applications of the Internet of Things (IoT) in tackling
 
 The Internet of Things (IoT) is a network of smart devices that can talk to each other using the Internet. These devices can help us control objects around us and keep us updated on their condition. IoT has many applications, including healthcare, transportation, and home automation. During the Covid-19 pandemic, IoT has been used to track patients, monitor their health, and help healthcare workers. There are also special IoT devices, like tracking bracelets and buttons, that can help with safety and sanitation. However, there are challenges in making sure that the data collected by IoT devices is accurate and secure. Overall, IoT has been a helpful technology during the pandemic.
 
-## Referenced by other articles
+## This article mentions these technologies
 
-* [Internet of things (IoT) applications to fight against COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_295.md)
-* [A Comprehensive Review of the COVID-19 Pandemic and the Role of IoT, Drones, AI, Blockchain, and 5G in Managing its Impact](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_313.md)
+* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
+* [Ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+
+## This article points to following mitigation
+
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4135.md)
+* [Forecasting of virus spread](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4134.md)
+* [Iot buttons for alerts and monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4131.md)
+* [Iot-based solutions for after recovery](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3332.md)
+* [Iot-based solutions for early diagnosis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4132.md)
+* [Iot-based solutions for quarantine time](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4129.md)
+* [Iot-enabled hospital](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4140.md)
+* [Lightweight security solutions for iot devices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4141.md)
+* [Monitoring quarantined individuals](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4128.md)
+* [Rapid screening](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4133.md)
+* [Real-time tracking of infected patients](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4136.md)
+* [Remote monitoring of patients](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4139.md)
+* [Scalability of iot devices in iomt](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4137.md)
+* [Smart tracking of infected persons](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4130.md)
+* [Telemedicine services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4138.md)
 
 ## Title of the article
 
@@ -26,42 +64,4 @@ A Comprehensive Review of Applications of Internet of Things for Covid-19 Pandem
 ## Year of publication
 
 2021
-
-## Benefits listed in this article
-
-* [Efficient tracking of high-risk patients](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_157.md)
-* [Enhanced drug delivery](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_158.md)
-* [Resolving medical facility issues for orthopaedic patients](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_159.md)
-* [Efficient management of covid-19 crisis](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_160.md)
-
-## List of risks in an article
-
-* [Spread of covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_91.md)
-* [Insufficient ventilation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1327.md)
-* [Overcrowding](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_571.md)
-* [Lack of hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1486.md)
-* [Lack of communication](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1669.md)
-
-## This article points to following mitigation
-
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3332.md)
-* [Scalability of iot devices in iomt](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4141.md)
-* [Telemedicine services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4129.md)
-* [Iot-enabled hospital](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4133.md)
-* [Iot-based solutions for early diagnosis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4137.md)
-* [Forecasting of virus spread](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4135.md)
-* [Remote monitoring of patients](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4128.md)
-* [Smart tracking of infected persons](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4130.md)
-* [Rapid screening](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4131.md)
-* [Monitoring quarantined individuals](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4132.md)
-* [Real-time tracking of infected patients](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4134.md)
-* [Iot buttons for alerts and monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4136.md)
-* [Iot-based solutions for quarantine time](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4138.md)
-* [Iot-based solutions for after recovery](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4139.md)
-* [Lightweight security solutions for iot devices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4140.md)
-
-## This article mentions these technologies
-
-* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
-* [Ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
 

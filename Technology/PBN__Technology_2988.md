@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Efforts to inform and engage the public, promote awareness, influence policies, and foster community involvement.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_124.md)
+* [Efforts to inform and engage the public, promote awareness, influence policies, and foster community involvement.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_174.md)
 
 ## Closest similar item
 
-* [Public awareness](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3532.md)
-* [Public education](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_802.md)
-* [Public education and awareness](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1870.md)
-* [Public announcements](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_370.md)
+* [Natural views](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3532.md)
+* [Public announcements](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_802.md)
+* [Public awareness](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1870.md)
+* [Public awareness and education campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_370.md)
 * [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
 * [Public consultation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_105.md)
-* [Transparency and public awareness measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2091.md)
-* [Natural views](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2443.md)
-* [Public awareness and education campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3444.md)
-* [Public spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2966.md)
+* [Public education](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2091.md)
+* [Public education and awareness](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2443.md)
+* [Public spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3444.md)
+* [Transparency and public awareness measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2966.md)
 
 ## This Technology enables the following mitigations
 

@@ -2,23 +2,27 @@
 
 # __Reduced concentration of virus-laden microdroplets__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Decreased number of potential sources of contagion
+* [How can airborne transmission of COVID-19 indoors be minimised?](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_121.md)
+
+## Category to which it belongs
+
+* [Enhanced measures to inhibit the dissemination and transmission of viruses, including reducing concentration and spread.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_10.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Reduced risk of infection, improved health outcomes](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_658.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [How can airborne transmission of COVID-19 indoors be minimised?](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_121.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [Occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_92.md)
+Decreased number of potential sources of contagion
 
 ## Risks which can benefit from this action
 
 * [Reduced occupancy](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_610.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [Occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_92.md)
 

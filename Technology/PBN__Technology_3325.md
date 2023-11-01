@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Advanced analytics and simulation techniques can be used to study complex systems and make predictions using artificial intelligence and machine learning, as well as optimize processes and analyze data efficiently.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_107.md)
+* [Advanced analytics and simulation techniques can be used to study complex systems and make predictions using artificial intelligence and machine learning, as well as optimize processes and analyze data efficiently.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_157.md)
 
 ## Closest similar item
 
-* [Predictive analytics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3089.md)
-* [Fast prediction models](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3703.md)
-* [Statistical modeling](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3103.md)
-* [Modeling and data analysis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3579.md)
-* [Statistical models](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1685.md)
-* [Computational models](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3335.md)
+* [Advanced modeling techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3089.md)
+* [Computational models](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3703.md)
+* [Data analytics and modeling](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3103.md)
+* [Fast prediction models](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3579.md)
+* [Mathematical models](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1685.md)
+* [Modeling and data analysis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3335.md)
 * [Modeling techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1977.md)
-* [Data analytics and modeling](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2035.md)
-* [Mathematical models](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2327.md)
-* [Advanced modeling techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1199.md)
+* [Predictive analytics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2035.md)
+* [Statistical modeling](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2327.md)
+* [Statistical models](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1199.md)
 
 ## This Technology enables the following mitigations
 

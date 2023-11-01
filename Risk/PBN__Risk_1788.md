@@ -2,42 +2,34 @@
 
 # __Contamination of hvac systems__
 
+## Articles mentionning the risk
+
+* [Ventilation use in nonmedical settings during COVID-19: Cleaning protocol, maintenance, and recommendations](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_104.md)
+
 ## Category to which it belongs
 
-* [Exposure to a wide range of contaminants, pathogens, and toxins on various surfaces and through different modes of transmission.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_29.md)
+* [Exposure to a wide range of contaminants, pathogens, and toxins on various surfaces and through different modes of transmission.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_79.md)
 
 ## Closest similar item
 
-* [Recycling of contaminated air within the hvac system](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3020.md)
-* [Hvac systems failure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1753.md)
-* [Indoor air contamination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_125.md)
-* [Accumulation of dirt, debris, and microbial growth in hvac systems and ductwork](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3009.md)
-* [Contamination, transmission through air](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2456.md)
-* [Accumulation of dirt, dust, and microbial growth in hvac system components](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3011.md)
+* [Accumulation of dirt, debris, and microbial growth in hvac systems and ductwork](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3020.md)
+* [Accumulation of dirt, dust, and microbial growth in hvac system components](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1753.md)
+* [Contamination, transmission through air](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_125.md)
+* [Environmental contamination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3009.md)
+* [Hvac characteristics](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2456.md)
+* [Hvac systems failure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3011.md)
 * [Inadequate cleaning of hvac ductwork and components](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3018.md)
 * [Inadequate maintenance and operation of hvac systems and components](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3017.md)
-* [Environmental contamination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_923.md)
-* [Hvac characteristics](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1472.md)
+* [Indoor air contamination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_923.md)
+* [Recycling of contaminated air within the hvac system](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1472.md)
 
 ## Description of the risk
 
 Potential contamination of HVAC systems with virus particles, leading to spread of infection
 
-## Type of the risk
-
-* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Is the risk affecting GBN scales
 
 * [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
-
-## Type of impact of the risk (according to ISO37100)
-
-* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_4.md)
-
-## Type of purpose of the risk (according to ISO37100)
-
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_4.md)
 
 ## Mitigations of this risk
 
@@ -47,26 +39,34 @@ Potential contamination of HVAC systems with virus particles, leading to spread 
 
 Transmission of virus particles through the air supply from one room to another
 
-## Stakeholders who can mitigate this risk
-
-* [Hvac professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1160.md)
-* [Cleaning companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1205.md)
-
-## Articles mentionning the risk
-
-* [Ventilation use in nonmedical settings during COVID-19: Cleaning protocol, maintenance, and recommendations](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_104.md)
-
 ## People affected by this risk
 
 * [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
 * [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
 
+## Stakeholders who can mitigate this risk
+
+* [Cleaning companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1160.md)
+* [Hvac professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1205.md)
+
 ## Technologies linked to the risk
 
 * [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
 
+## Type of impact of the risk (according to ISO37100)
+
+* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_4.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_4.md)
+
+## Type of the risk
+
+* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
+
 ## Property: has_RiskType
 
-* [Technological](https://github.com/mm80843/T3.5/blob/pages/RiskType/PBN__RiskType_5.md)
-* [Environmental](https://github.com/mm80843/T3.5/blob/pages/RiskType/PBN__RiskType_0.md)
+* [Environmental](https://github.com/mm80843/T3.5/blob/pages/RiskType/PBN__RiskType_5.md)
+* [Technological](https://github.com/mm80843/T3.5/blob/pages/RiskType/PBN__RiskType_0.md)
 

@@ -2,42 +2,34 @@
 
 # __Inactivation of coronaviruses by biocidal agents in suspension tests__
 
+## Articles mentionning the risk
+
+* [Persistence of coronaviruses on inanimate surfaces and their inactivation with biocidal agents](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_233.md)
+
 ## Category to which it belongs
 
-* [Standardizing coronavirus knowledge, the respiratory virus spreads through the built environment, work, touch, aerosols, and contaminated surfaces.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_23.md)
+* [Standardizing coronavirus knowledge, the respiratory virus spreads through the built environment, work, touch, aerosols, and contaminated surfaces.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_73.md)
 
 ## Closest similar item
 
 * [Inactivation of coronaviruses by biocidal agents in carrier tests](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1538.md)
-* [Presence of other coronaviruses in wastewater](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2314.md)
-* [Spread of coronavirus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_867.md)
-* [Inactivation of human coronaviruses by far-uvc light](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1221.md)
-* [Spreading of corona virus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_116.md)
-* [Inactivation of virus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3387.md)
-* [Persistence of coronavirus on inanimate surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1536.md)
-* [Transmission of coronaviruses from contaminated surfaces to hands](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1539.md)
-* [Virus inactivation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2459.md)
-* [Spread of coronavirus on surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_825.md)
+* [Inactivation of human coronaviruses by far-uvc light](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2314.md)
+* [Inactivation of virus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_867.md)
+* [Persistence of coronavirus on inanimate surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1221.md)
+* [Presence of other coronaviruses in wastewater](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_116.md)
+* [Spread of coronavirus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3387.md)
+* [Spread of coronavirus on surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1536.md)
+* [Spreading of corona virus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1539.md)
+* [Transmission of coronaviruses from contaminated surfaces to hands](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2459.md)
+* [Virus inactivation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_825.md)
 
 ## Description of the risk
 
 Biocidal agents such as ethanol, sodium hypochlorite, and hydrogen peroxide can effectively neutralize coronaviruses in liquid suspensions
 
-## Type of the risk
-
-* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Is the risk affecting GBN scales
 
 * [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
-
-## Type of impact of the risk (according to ISO37100)
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
-
-## Type of purpose of the risk (according to ISO37100)
-
-* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_1.md)
 
 ## Mitigations of this risk
 
@@ -47,26 +39,34 @@ Biocidal agents such as ethanol, sodium hypochlorite, and hydrogen peroxide can 
 
 Reduces viral infectivity and transmission
 
-## Stakeholders who can mitigate this risk
-
-* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
-* [Cleaning staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_654.md)
-
-## Articles mentionning the risk
-
-* [Persistence of coronaviruses on inanimate surfaces and their inactivation with biocidal agents](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_233.md)
-
 ## People affected by this risk
 
 * [Healthcare workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_68.md)
 * [Patients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_31.md)
 * [Public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_52.md)
 
+## Stakeholders who can mitigate this risk
+
+* [Cleaning staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
+* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_654.md)
+
 ## Technologies linked to the risk
 
-* [Sodium hypochlorite](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_850.md)
-* [Ethanol](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_851.md)
-* [Hydrogen peroxide](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_852.md)
+* [Ethanol](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_850.md)
+* [Hydrogen peroxide](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_851.md)
+* [Sodium hypochlorite](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_852.md)
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_1.md)
+
+## Type of the risk
+
+* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 

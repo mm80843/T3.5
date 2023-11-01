@@ -4,20 +4,24 @@
 
 ## Category to which it belongs
 
-* [Those on the move, whether for work or leisure, including those affected by travel restrictions and transportation workers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_233.md)
+* [Those on the move, whether for work or leisure, including those affected by travel restrictions and transportation workers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_283.md)
 
 ## Closest similar item
 
-* [Individuals traveling from or to wuhan](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1022.md)
+* [Individual traveling from or to wuhan](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1022.md)
 * [Individual traveling from wuhan to other location](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2200.md)
-* [Individual traveling from or to wuhan](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2204.md)
-* [Traveling individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2076.md)
-* [Travelers to/from china](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1539.md)
-* [Residents and travelers in neighboring regions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_871.md)
+* [Individuals traveling from or to wuhan](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2204.md)
+* [Population of destination](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2076.md)
+* [Residents and travelers in neighboring regions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1539.md)
+* [Tourists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_871.md)
 * [Travelers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_558.md)
-* [Travellers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_551.md)
-* [Population of destination](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1480.md)
-* [Tourists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_72.md)
+* [Travelers to/from china](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_551.md)
+* [Traveling individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1480.md)
+* [Travellers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_72.md)
+
+## Risk affecting this stakeholder
+
+* [Importation of cases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1582.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -25,10 +29,10 @@
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Traveling individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2076.md)
 * [Geographically defined individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2075.md)
+* [Traveling individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2076.md)
 
-## Risk affecting this stakeholder
+## Type of the stakeholder
 
-* [Importation of cases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1582.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The repercussions of domestic violence, the pandemic’s transmission, extreme events, population dynamics, and systemic vulnerabilities persist.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_1.md)
+* [The repercussions of domestic violence, the pandemic’s transmission, extreme events, population dynamics, and systemic vulnerabilities persist.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_51.md)
 
 ## Closest similar item
 
-* [Risk of external seeding events and uncontrolled quarantines](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2098.md)
-* [Limited pre-event preparations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_804.md)
+* [Black swan events](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2098.md)
+* [Disseminating information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_804.md)
 * [Extreme events](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_132.md)
 * [Extreme weather events](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1831.md)
-* [Transmission at mass gatherings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1342.md)
-* [Restriction of large events, economic impact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2736.md)
-* [Gatherings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3164.md)
-* [Disseminating information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2522.md)
-* [Black swan events](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_454.md)
-* [Transmission among attendees](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2979.md)
+* [Gatherings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1342.md)
+* [Limited pre-event preparations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2736.md)
+* [Restriction of large events, economic impact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3164.md)
+* [Risk of external seeding events and uncontrolled quarantines](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2522.md)
+* [Transmission among attendees](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_454.md)
+* [Transmission at mass gatherings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2979.md)
 
 ## Mitigations of this risk
 

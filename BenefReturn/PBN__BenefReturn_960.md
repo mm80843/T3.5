@@ -4,6 +4,6 @@
 
 ## This return can be realized by these benefits
 
-* [Improved sensitivity and detection limits](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_876.md)
-* [Improved detection capabilities](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_881.md)
+* [Improved detection capabilities](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_876.md)
+* [Improved sensitivity and detection limits](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_881.md)
 

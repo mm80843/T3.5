@@ -4,19 +4,19 @@
 
 ## Category to which it belongs
 
-* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_119.md)
+* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_169.md)
 
 ## Closest similar item
 
-* [Neighborhood control measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3507.md)
-* [Improved connectivity](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1384.md)
-* [Targeted investment in underserved neighborhoods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1181.md)
+* [Community areas](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3507.md)
+* [Habitat modification](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1384.md)
+* [Improved connectivity](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1181.md)
 * [Improved infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_669.md)
-* [Improved urban planning strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2271.md)
-* [Habitat modification](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3819.md)
-* [Improved location tracking algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1381.md)
-* [Community areas](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1847.md)
-* [Infrastructure improvement](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2393.md)
+* [Improved location tracking algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2271.md)
+* [Improved urban planning strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3819.md)
+* [Infrastructure improvement](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1381.md)
+* [Neighborhood control measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1847.md)
+* [Targeted investment in underserved neighborhoods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2393.md)
 * [Urban planners](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_377.md)
 
 ## This Technology enables the following mitigations

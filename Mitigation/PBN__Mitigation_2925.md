@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Implementing measures to maintain physical distance, limit occupancy, enforce restrictions, and promote social distancing in various settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_69.md)
+* [Implementing measures to maintain physical distance, limit occupancy, enforce restrictions, and promote social distancing in various settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_119.md)
 
 ## Closest similar item
 
-* [Implement measures to enforce physical distancing.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2459.md)
-* [Reduce occupancy rates, enforce physical distancing measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1966.md)
-* [Maintaining physical distance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4473.md)
-* [Implement and enforce strict social distancing guidelines.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2709.md)
-* [Implement physical distancing measures, modify layout to allow for more space between individuals, and limit occupancy in common areas](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2261.md)
-* [Implementing social distancing measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4086.md)
-* [Implementing physical distancing procedures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1062.md)
-* [Implement physical distancing measures, reduce overcrowding, and promote remote work when possible.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2500.md)
-* [Implement measures to control occupancy and enforce physical distancing rules in the facility](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2023.md)
-* [Provide guidance on social distancing measures, improve living conditions in crowded areas](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1608.md)
+* [Implement and enforce strict social distancing guidelines.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2459.md)
+* [Implement measures to control occupancy and enforce physical distancing rules in the facility](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1966.md)
+* [Implement measures to enforce physical distancing.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4473.md)
+* [Implement physical distancing measures, modify layout to allow for more space between individuals, and limit occupancy in common areas](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2709.md)
+* [Implement physical distancing measures, reduce overcrowding, and promote remote work when possible.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2261.md)
+* [Implementing physical distancing procedures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4086.md)
+* [Implementing social distancing measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1062.md)
+* [Maintaining physical distance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2500.md)
+* [Provide guidance on social distancing measures, improve living conditions in crowded areas](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2023.md)
+* [Reduce occupancy rates, enforce physical distancing measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1608.md)
 
 ## Risks possibly mitigated by this Mitigation
 

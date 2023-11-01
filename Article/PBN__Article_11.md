@@ -2,9 +2,31 @@
 
 # __Using Technology to Maintain the Education of Residents During the COVID-19 Pandemic__
 
+## Benefits listed in this article
+
+* [Continued involvement of residents with clinic](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_51.md)
+* [Continuous exposure to practice questions and discussion](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_48.md)
+* [Enhanced learning and discussion opportunities](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_49.md)
+* [Improved knowledge acquisition](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_50.md)
+* [Live video feed and interactive format](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_52.md)
+* [Maintenance of technical skills through deliberate practice](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_53.md)
+
 ## DOI of the article
 
 10.1016/j.jsurg.2020.03.018
+
+## List of risks in an article
+
+* [Access to videos](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1255.md)
+* [Decreased exposure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1258.md)
+* [Faculty engagement](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1264.md)
+* [Imaging limitation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1259.md)
+* [Limited operative](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1263.md)
+* [Limited rotations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1256.md)
+* [Minimized surgery](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1262.md)
+* [Patient rapport](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1257.md)
+* [Regionalization](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1260.md)
+* [Technology access](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1261.md)
 
 ## Short summary of the article
 
@@ -14,6 +36,30 @@ The COVID-19 pandemic has resulted in significant changes to surgical education,
 
 The COVID-19 pandemic has made it difficult for surgical trainees to learn in person. This means they have less exposure to surgeries and educational activities. To solve this problem, some institutions have started using technology. They use videos that trainees can watch before a conference, so the conference can focus on discussing cases. They also created a closed Facebook group for trainees to practice surgery questions and discuss topics. Some institutions are now using teleconferences for academic conferences, where trainees and professors can see each other through video. They also use online video conferences for clinic visits, so trainees can still learn from patients. Simulation labs and surgical videos are also being used to help trainees learn. It's important for surgical organizations to work together to find new ways to teach surgical trainees during this difficult time.
 
+## This article mentions these technologies
+
+* [Flipped classroom](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
+* [Screen recording](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_385.md)
+* [Simulation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_388.md)
+* [Simulation activities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_389.md)
+* [Staff oversight](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_390.md)
+* [Surgical video libraries](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_386.md)
+* [Surgical videos](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_384.md)
+* [Teleconferencing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_387.md)
+* [Teleconferencing software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_391.md)
+* [Telehealth conferencing software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_392.md)
+* [Video lectures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_393.md)
+
+## This article points to following mitigation
+
+* [Flipped classroom strategy](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3486.md)
+* [Separate tracks for junior and senior residents](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_42.md)
+* [Simulation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_40.md)
+* [Social media group for daily practice questions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3485.md)
+* [Teleconference format for academic conferences](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3488.md)
+* [Telehealth clinics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3487.md)
+* [Viewing surgical videos](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3484.md)
+
 ## Title of the article
 
 Using Technology to Maintain the Education of Residents During the COVID-19 Pandemic
@@ -21,50 +67,4 @@ Using Technology to Maintain the Education of Residents During the COVID-19 Pand
 ## Year of publication
 
 2020
-
-## Benefits listed in this article
-
-* [Improved knowledge acquisition](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_48.md)
-* [Continuous exposure to practice questions and discussion](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_49.md)
-* [Live video feed and interactive format](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_50.md)
-* [Continued involvement of residents with clinic](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_51.md)
-* [Maintenance of technical skills through deliberate practice](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_52.md)
-* [Enhanced learning and discussion opportunities](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_53.md)
-
-## List of risks in an article
-
-* [Technology access](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1258.md)
-* [Patient rapport](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1259.md)
-* [Regionalization](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1263.md)
-* [Decreased exposure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1255.md)
-* [Limited rotations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1256.md)
-* [Limited operative](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1262.md)
-* [Minimized surgery](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1257.md)
-* [Imaging limitation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1260.md)
-* [Access to videos](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1261.md)
-* [Faculty engagement](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1264.md)
-
-## This article points to following mitigation
-
-* [Telehealth clinics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3486.md)
-* [Flipped classroom strategy](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_40.md)
-* [Teleconference format for academic conferences](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_42.md)
-* [Social media group for daily practice questions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3485.md)
-* [Viewing surgical videos](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3488.md)
-* [Simulation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3487.md)
-* [Separate tracks for junior and senior residents](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3484.md)
-
-## This article mentions these technologies
-
-* [Simulation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_387.md)
-* [Simulation activities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_394.md)
-* [Telehealth conferencing software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_389.md)
-* [Flipped classroom](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_384.md)
-* [Video lectures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_385.md)
-* [Teleconferencing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_386.md)
-* [Teleconferencing software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_390.md)
-* [Surgical videos](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_388.md)
-* [Surgical video libraries](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_392.md)
-* [Screen recording](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_391.md)
-* [Staff oversight](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_393.md)
 

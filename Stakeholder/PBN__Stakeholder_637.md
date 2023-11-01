@@ -4,25 +4,32 @@
 
 ## Category to which it belongs
 
-* [A collective of individuals and groups who contribute to and support the well-being of a community.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_220.md)
+* [A collective of individuals and groups who contribute to and support the well-being of a community.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_270.md)
 
 ## Closest similar item
 
-* [Community association](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2420.md)
-* [Community organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_150.md)
-* [Community organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2438.md)
+* [Communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2420.md)
+* [Community association](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_150.md)
+* [Community groups](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2438.md)
 * [Community groups/organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2414.md)
-* [Neighborhood associations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2435.md)
-* [Communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_4.md)
-* [Community groups](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1312.md)
-* [Neighborhood association](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2427.md)
-* [Community organizer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2417.md)
-* [Local communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_85.md)
+* [Community organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2435.md)
+* [Community organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_4.md)
+* [Community organizer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1312.md)
+* [Local communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2427.md)
+* [Neighborhood association](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2417.md)
+* [Neighborhood associations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_85.md)
 
 ## Risks that can be mitigated by this stakeholder
 
-* [Feeling of isolation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1108.md)
-* [Lack of community connections](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1286.md)
+* [Feeling of isolation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1286.md)
+* [Lack of community connections](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1108.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [Community association](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_637.md)
+* [Community associations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2420.md)
+* [Neighborhood association](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2435.md)
+* [Neighborhood associations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2427.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -32,10 +39,7 @@
 
 * [Community associations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_637.md)
 
-## Stakeholders in this stakeholder subgroup
+## Type of the stakeholder
 
-* [Community associations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_637.md)
-* [Community association](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2420.md)
-* [Neighborhood associations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2435.md)
-* [Neighborhood association](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2427.md)
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
 

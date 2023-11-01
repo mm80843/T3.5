@@ -2,23 +2,27 @@
 
 # __Strengthened health systems__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Improved access to healthcare, reduced mortality, and better response to future pandemics
+* [COVID-19 and the UN Sustainable Development Goals: Threat to Solidarity or an Opportunity?](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_109.md)
+
+## Category to which it belongs
+
+* [Enhanced healthcare accessibility, quality, outcomes, and efficiency, along with reduced burden and inequalities, leading to improved public health.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_14.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Improved public health leads to a healthier and more productive population, which can contribute to economic growth and stability.](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_578.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [COVID-19 and the UN Sustainable Development Goals: Threat to Solidarity or an Opportunity?](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_109.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
+Improved access to healthcare, reduced mortality, and better response to future pandemics
 
 ## Risks which can benefit from this action
 
 * [Investment in healthcare systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_538.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
 

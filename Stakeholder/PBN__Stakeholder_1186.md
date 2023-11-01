@@ -4,20 +4,24 @@
 
 ## Category to which it belongs
 
-* [Public and governmental entities at various levels, including policy makers, governments, and citizens.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_192.md)
+* [Public and governmental entities at various levels, including policy makers, governments, and citizens.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_242.md)
 
 ## Closest similar item
 
-* [State government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1628.md)
-* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
+* [City government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1628.md)
+* [City governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
 * [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
-* [City governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_354.md)
-* [Local governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_566.md)
-* [National governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_51.md)
+* [Government authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_354.md)
+* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_566.md)
+* [Local and national governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_51.md)
 * [Local government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_307.md)
-* [Government authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_302.md)
-* [City government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1110.md)
-* [Local and national governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_548.md)
+* [Local governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_302.md)
+* [National governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1110.md)
+* [State government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_548.md)
+
+## Risk affecting this stakeholder
+
+* [Heterogeneity of state policies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1768.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -27,7 +31,7 @@
 
 * [Governmental entities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1603.md)
 
-## Risk affecting this stakeholder
+## Type of the stakeholder
 
-* [Heterogeneity of state policies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1768.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

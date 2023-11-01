@@ -2,6 +2,17 @@
 
 # __Indoor environmental quality ieq monitoring system__
 
+## Blueprint description
+
+Over the last years, and for several reasons, IEQ monitoring systems have become important for several reasons: 
+•	 guaranteeing adequate air quality
+•	 ensuring thermal comfort for users
+•	 ensuring the users wellbeing
+•	 provide adequate natural or artificial lighting
+•	 ensuring that noise levels are not excessive
+•	 take measures to reduce energy consumption
+In this scenario, the application of IoT in this type of system enables the collection of data as well as the remote control of air systems. With this approach, an IoT architecture could be proposed that aims to monitor indoor air quality in buildings with high occupancy to reduce the risk of contamination.
+
 ## Capabilities of the blueprint
 
 The proposed architecture is based on several low-cost sensors for data acquisition and a single-board computer as coordinator, as well as on various communication technologies. The measured variables make it possible to identify unpleasant and potential risk situations and to take corrective measures. In addition, the system can use historical data to decide when to take certain actions.
@@ -15,53 +26,55 @@ This measure would be applied in confined and high occupancy areas such as offic
 Faculty of Engineering of Vitoria-Gasteiz
 (Calvo, et al. 2022)
 
-## Blueprint description
-
-Over the last years, and for several reasons, IEQ monitoring systems have become important for several reasons: 
-•	 guaranteeing adequate air quality
-•	 ensuring thermal comfort for users
-•	 ensuring the users wellbeing
-•	 provide adequate natural or artificial lighting
-•	 ensuring that noise levels are not excessive
-•	 take measures to reduce energy consumption
-In this scenario, the application of IoT in this type of system enables the collection of data as well as the remote control of air systems. With this approach, an IoT architecture could be proposed that aims to monitor indoor air quality in buildings with high occupancy to reduce the risk of contamination.
-
 ## Enablers of the blueprint
 
+* [5G](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_5.md)
+* [Air Sensors](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_0.md)
+* [Automation](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_6.md)
 * [Data Analytics](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_2.md)
-* [IoT](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_5.md)
-* [Air Sensors](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_6.md)
-* [Automation](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_16.md)
-* [5G](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_0.md)
+* [IoT](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_16.md)
+
+## GBN Phase of the blueprint
+
+* [Construction](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Phase_1.md)
+* [Design](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Phase_2.md)
 
 ## Interventions of the blueprint
 
 * [Environmental parameters control](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_1.md)
+* [Monitor and control indoor air quality](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_0.md)
 * [Outdoor spaces](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_25.md)
-* [Use of smart/innovative air quality controls technology](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_0.md)
-* [Monitor and control indoor air quality](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_3.md)
+* [Use of smart/innovative air quality controls technology](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_3.md)
+
+## Mode of transmission covered by the blueprint
+
+* [Airborne](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_0.md)
 
 ## Possible mitigations of the BP
 
-* [Monitor and control indoor air pollution](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_225.md)
-* [Monitoring and control of indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1347.md)
-* [Indoor air quality monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4357.md)
+* [Implement iaq monitoring systems to continuously measure and analyze indoor air quality parameters.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3410.md)
+* [Improve indoor air quality by addressing pollution sources, ventilation, and air filtration systems.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2640.md)
 * [Indoor air quality control](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3267.md)
-* [Monitoring air quality](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3898.md)
-* [Improve indoor air quality by addressing pollution sources, ventilation, and air filtration systems.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1906.md)
-* [Monitor air conditions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2869.md)
+* [Indoor air quality monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1906.md)
+* [Indoor environment quality ieq monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4357.md)
+* [Monitor air conditions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1347.md)
+* [Monitor and control indoor air pollution](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3898.md)
+* [Monitoring air quality](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_225.md)
+* [Monitoring and control of indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2869.md)
 * [Outdoor air quality control](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3726.md)
-* [Indoor environment quality ieq monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3410.md)
-* [Implement iaq monitoring systems to continuously measure and analyze indoor air quality parameters.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2640.md)
 
-## Type of deployment of the blueprint
+## Possible risks of the BP
 
-* [Permanent](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Permanent_1.md)
-
-## GBN Phase of the blueprint
-
-* [Design](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Phase_1.md)
-* [Construction](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Phase_2.md)
+* [Inadequate indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_939.md)
+* [Indoor air contamination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_963.md)
+* [Indoor air pollutants](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_125.md)
+* [Indoor air pollution](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_259.md)
+* [Indoor air pollution iap](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1288.md)
+* [Indoor air pollution iap from biomass and coal smoke](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_294.md)
+* [Lack of adequate indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1993.md)
+* [Lack of monitoring of indoor environmental quality ieq](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1409.md)
+* [Low indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_341.md)
+* [Poor indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_566.md)
 
 ## Problem of the blueprint
 
@@ -75,19 +88,6 @@ Studies have shown there is a significant correlation between general air qualit
 
 A potential limitation of the system may be the limitations of the HVAC systems themselves, as well as other systems impacting environmental parameters. As a result, indoor air quality may not be adequate despite the system's measures. Morevoer, the cost for the equipement and operation tends to be high. 
 
-## Possible risks of the BP
-
-* [Indoor air contamination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_125.md)
-* [Indoor air pollution](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_939.md)
-* [Indoor air pollutants](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_259.md)
-* [Inadequate indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1288.md)
-* [Poor indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_294.md)
-* [Indoor air pollution iap](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1993.md)
-* [Low indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1409.md)
-* [Lack of adequate indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_341.md)
-* [Lack of monitoring of indoor environmental quality ieq](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_566.md)
-* [Indoor air pollution iap from biomass and coal smoke](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_963.md)
-
 ## Scale of the of the blueprint
 
 * [Building](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Scale_0.md)
@@ -96,9 +96,9 @@ A potential limitation of the system may be the limitations of the HVAC systems 
 
 PBN:BP_4
 
-## Mode of transmission covered by the blueprint
+## Type of deployment of the blueprint
 
-* [Airborne](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_0.md)
+* [Permanent](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Permanent_1.md)
 
 ## Type of the blueprint
 

@@ -2,41 +2,34 @@
 
 # __High installation and maintenance costs of green roofs__
 
+## Articles mentionning the risk
+
+* [The role of green roofs in post COVID-19 confinement: An analysis of willingness to pay](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_262.md)
+
 ## Category to which it belongs
 
-* [Urban areas suffer from a scarcity of accessible and diverse green spaces, contributing to disparities, inadequate quality, and decreased visitation, while also exacerbating health issues and environmental concerns.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_31.md)
+* [Urban areas suffer from a scarcity of accessible and diverse green spaces, contributing to disparities, inadequate quality, and decreased visitation, while also exacerbating health issues and environmental concerns.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_81.md)
 
 ## Closest similar item
 
-* [Lack of awareness and knowledge about green roofs](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1674.md)
-* [Inadequate maintenance and management of urban green spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1808.md)
-* [Lack of funding and maintenance for green space](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_145.md)
+* [Deprioritization of green space in urban planning](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1674.md)
+* [Higher installation and maintenance costs](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1808.md)
+* [Inadequate maintenance and management of urban green spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_145.md)
 * [Inadequate maintenance of green spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1533.md)
-* [Unequal distribution of urban green infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_327.md)
-* [Lack of green spaces in the built environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1672.md)
-* [Higher installation and maintenance costs](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2916.md)
-* [Deprioritization of green space in urban planning](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1043.md)
-* [Poor quality of green space](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1042.md)
+* [Lack of awareness and knowledge about green roofs](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_327.md)
+* [Lack of funding and maintenance for green space](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1672.md)
+* [Lack of green spaces in the built environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2916.md)
+* [Poor quality of green space](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1043.md)
+* [Unequal distribution of urban green infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1042.md)
 * [Uneven distribution of green infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1942.md)
 
 ## Description of the risk
 
 The high costs associated with installing and maintaining green roofs may deter their widespread adoption
 
-## Type of the risk
-
-
 ## Is the risk affecting GBN scales
 
 * [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
-
-## Type of impact of the risk (according to ISO37100)
-
-* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_8.md)
-
-## Type of purpose of the risk (according to ISO37100)
-
-* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
 
 ## Mitigations of this risk
 
@@ -46,26 +39,33 @@ The high costs associated with installing and maintaining green roofs may deter 
 
 Limited implementation of green roofs
 
-## Stakeholders who can mitigate this risk
-
-* [Building industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1108.md)
-* [Government agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_55.md)
-* [Municipalities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_491.md)
-
-## Articles mentionning the risk
-
-* [The role of green roofs in post COVID-19 confinement: An analysis of willingness to pay](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_262.md)
-
 ## People affected by this risk
 
 * [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
 * [Developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_635.md)
 * [Homeowners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_478.md)
 
+## Stakeholders who can mitigate this risk
+
+* [Building industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_55.md)
+* [Government agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1108.md)
+* [Municipalities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_491.md)
+
 ## Technologies linked to the risk
 
 * [Financial incentives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_53.md)
 * [Green roof maintenance technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1031.md)
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_8.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
+
+## Type of the risk
+
 
 ## Property: has_RiskType
 

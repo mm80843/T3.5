@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The spread of disease through direct and indirect contact in various environments and social settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_32.md)
+* [The spread of disease through direct and indirect contact in various environments and social settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_82.md)
 
 ## Closest similar item
 
-* [Respiratory transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2476.md)
-* [Reducing transmission in buildings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_970.md)
-* [Contagious transmission in buildings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1133.md)
-* [Risk of transmission in enclosed and communal spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2096.md)
-* [Inadequate ventilation in indoor spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1666.md)
-* [Poor ventilation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1418.md)
-* [Contamination, transmission through air](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2456.md)
-* [Transmission, exposure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2501.md)
-* [Inadequate ventilation systems in workplaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_438.md)
-* [Transmission via respiratory droplets](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1718.md)
+* [Contagious transmission in buildings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2476.md)
+* [Contamination, transmission through air](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_970.md)
+* [Inadequate ventilation in indoor spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1133.md)
+* [Inadequate ventilation systems in workplaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2096.md)
+* [Poor ventilation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1666.md)
+* [Reducing transmission in buildings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1418.md)
+* [Respiratory transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2456.md)
+* [Risk of transmission in enclosed and communal spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2501.md)
+* [Transmission via respiratory droplets](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_438.md)
+* [Transmission, exposure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1718.md)
 
 ## Mitigations of this risk
 

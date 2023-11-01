@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Challenges in connectivity, resources, funding, expertise, data, and infrastructure result in limited access and inequalities in various areas.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_18.md)
+* [Challenges in connectivity, resources, funding, expertise, data, and infrastructure result in limited access and inequalities in various areas.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_68.md)
 
 ## Closest similar item
 
-* [Limited access to data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_723.md)
-* [Interoperability and access to real-time data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1735.md)
-* [Lack of real-time data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_762.md)
-* [Limited access to spatial data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2945.md)
-* [Limited data sharing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1330.md)
-* [Limited data accessibility](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2682.md)
-* [Lack of real-time information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3157.md)
-* [Limited access to patient health data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_158.md)
-* [Real-time information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3234.md)
-* [Limited data availability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2943.md)
+* [Interoperability and access to real-time data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_723.md)
+* [Lack of real-time data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1735.md)
+* [Lack of real-time information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_762.md)
+* [Limited access to data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2945.md)
+* [Limited access to patient health data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1330.md)
+* [Limited access to spatial data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2682.md)
+* [Limited data accessibility](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3157.md)
+* [Limited data availability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_158.md)
+* [Limited data sharing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3234.md)
+* [Real-time information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2943.md)
 
 ## Mitigations of this risk
 

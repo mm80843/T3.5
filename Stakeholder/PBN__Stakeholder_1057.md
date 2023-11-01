@@ -4,20 +4,28 @@
 
 ## Category to which it belongs
 
-* [The various individuals and entities involved in the provision and administration of healthcare services and systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_190.md)
+* [The various individuals and entities involved in the provision and administration of healthcare services and systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_240.md)
 
 ## Closest similar item
 
-* [Hospital patient](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1853.md)
-* [Hospital personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_500.md)
+* [Hospital](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1853.md)
+* [Hospital patient](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_500.md)
 * [Hospital patients and staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_309.md)
-* [Patients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_31.md)
-* [Hospital](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1469.md)
-* [Hospital workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_432.md)
-* [Patients in healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1165.md)
-* [Hospital staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_369.md)
-* [Hospitals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_64.md)
-* [Hospital worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1839.md)
+* [Hospital personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_31.md)
+* [Hospital staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1469.md)
+* [Hospital worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_432.md)
+* [Hospital workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1165.md)
+* [Hospitals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_369.md)
+* [Patients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_64.md)
+* [Patients in healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1839.md)
+
+## Risk affecting this stakeholder
+
+* [Shortage of aiirs](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_313.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [Hospital patient](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1853.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -26,11 +34,7 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 
-## Stakeholders in this stakeholder subgroup
+## Type of the stakeholder
 
-* [Hospital patient](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1853.md)
-
-## Risk affecting this stakeholder
-
-* [Shortage of aiirs](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_313.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

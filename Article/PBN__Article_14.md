@@ -2,9 +2,25 @@
 
 # __Covid-19 and the politics of sustainable energy transitions__
 
+## Benefits listed in this article
+
+* [Economic recovery](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_47.md)
+* [Financial resilience](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_66.md)
+* [Improved coordination](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_67.md)
+* [Improved public health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_68.md)
+* [Reduced carbon emissions](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_69.md)
+
 ## DOI of the article
 
 10.1016/j.erss.2020.101685
+
+## List of risks in an article
+
+* [Fall in energy demand](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1392.md)
+* [Inequitable access to clean energy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1594.md)
+* [Price volatility](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1597.md)
+* [Shift in public priorities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1596.md)
+* [Supply chain disruption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1595.md)
 
 ## Short summary of the article
 
@@ -14,6 +30,29 @@ This research abstract summarizes a perspectives piece that explores how the COV
 
 The Covid-19 pandemic has had a big impact on the world. Many people have gotten sick and some have died because of the virus. We have also had to stay at home and not go to school or see our friends. The pandemic has also affected the global economy and the way we use energy. Because of the lockdown measures, there was a big decrease in the use of fossil fuels like oil, which made the air cleaner. On the other hand, renewable energy like solar and wind power was not affected as much. Now, people are thinking about how we can recover from the pandemic in a way that helps the environment and reduces climate change. There is a big opportunity to invest in sustainable energy and create jobs while also protecting our planet. It's important for governments and people to make choices that will help us have a better future.
 
+## This article mentions these technologies
+
+* [3d printing for component manufacturing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_927.md)
+* [Advanced supply chain management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_928.md)
+* [Energy trading platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
+* [Energy-efficient appliances](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_47.md)
+* [Financial instruments for price hedging](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_924.md)
+* [Microgrids](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_79.md)
+* [Off-grid solar systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_929.md)
+* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_930.md)
+* [Smart grid technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_925.md)
+* [Social media platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_926.md)
+
+## This article points to following mitigation
+
+* [Changes in social practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4028.md)
+* [Fossil fuel divestment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_61.md)
+* [Green stimulus](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4024.md)
+* [Multi-scalar governance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4026.md)
+* [Public support and participation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4027.md)
+* [Re-shoring of critical energy industries](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_59.md)
+* [Sustainable energy policy](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4025.md)
+
 ## Title of the article
 
 Covid-19 and the politics of sustainable energy transitions
@@ -21,43 +60,4 @@ Covid-19 and the politics of sustainable energy transitions
 ## Year of publication
 
 2020
-
-## Benefits listed in this article
-
-* [Improved public health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_47.md)
-* [Economic recovery](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_66.md)
-* [Financial resilience](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_67.md)
-* [Improved coordination](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_68.md)
-* [Reduced carbon emissions](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_69.md)
-
-## List of risks in an article
-
-* [Supply chain disruption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1392.md)
-* [Fall in energy demand](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1594.md)
-* [Shift in public priorities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1596.md)
-* [Inequitable access to clean energy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1597.md)
-* [Price volatility](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1595.md)
-
-## This article points to following mitigation
-
-* [Green stimulus](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_59.md)
-* [Fossil fuel divestment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4025.md)
-* [Multi-scalar governance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_61.md)
-* [Changes in social practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4027.md)
-* [Public support and participation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4028.md)
-* [Sustainable energy policy](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4024.md)
-* [Re-shoring of critical energy industries](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4026.md)
-
-## This article mentions these technologies
-
-* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
-* [Social media platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_47.md)
-* [Energy-efficient appliances](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_79.md)
-* [Advanced supply chain management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_927.md)
-* [3d printing for component manufacturing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_928.md)
-* [Smart grid technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_924.md)
-* [Microgrids](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_929.md)
-* [Energy trading platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_925.md)
-* [Financial instruments for price hedging](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_926.md)
-* [Off-grid solar systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_930.md)
 

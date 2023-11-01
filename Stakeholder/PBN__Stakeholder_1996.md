@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [A comprehensive array of various organizations and governing bodies related to diverse industries and sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_229.md)
+* [A comprehensive array of various organizations and governing bodies related to diverse industries and sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_279.md)
 
 ## Closest similar item
 
-* [Oil companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1209.md)
-* [Energy company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1989.md)
-* [Company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1440.md)
+* [Companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1209.md)
+* [Company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1989.md)
+* [Construction company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1440.md)
 * [Energy companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1003.md)
-* [Companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_67.md)
-* [Manufacturing company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2005.md)
-* [Utility company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1966.md)
-* [Transportation company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1948.md)
-* [Construction company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_619.md)
-* [Internet company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2557.md)
+* [Energy company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_67.md)
+* [Internet company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2005.md)
+* [Manufacturing company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1966.md)
+* [Oil companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1948.md)
+* [Transportation company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_619.md)
+* [Utility company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2557.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

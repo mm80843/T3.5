@@ -2,23 +2,27 @@
 
 # __Improved sanitation and waste management__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Effective drainage and waste management reduce the risk of water stagnation and the breeding of disease-carrying vectors
+* [Global policy challenges for urban vector-borne disease risks](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_132.md)
+
+## Category to which it belongs
+
+* [Enhanced cleanliness, safety, and disinfection promote improved hygiene practices and increased access to clean water and sanitation.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_39.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in drainage systems can benefit from increased property values and reduced risks of water damage.](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_714.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [Global policy challenges for urban vector-borne disease risks](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_132.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [Poor urban communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_276.md)
+Effective drainage and waste management reduce the risk of water stagnation and the breeding of disease-carrying vectors
 
 ## Risks which can benefit from this action
 
 * [Enhancing drainage systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_661.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [Poor urban communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_276.md)
 

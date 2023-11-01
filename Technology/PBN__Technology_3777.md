@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Implementing measures and protocols to ensure the protection and well-being of individuals in various emergency situations.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_134.md)
+* [Implementing measures and protocols to ensure the protection and well-being of individuals in various emergency situations.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_184.md)
 
 ## Closest similar item
 
-* [Emergency response systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_32.md)
-* [Emergency systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2448.md)
-* [Emergency response planning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1498.md)
-* [Crisis management protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_4.md)
-* [Emergency response plans](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1054.md)
+* [Community health centers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_32.md)
+* [Create emergency preparedness plans](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2448.md)
+* [Crisis management protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1498.md)
+* [Crisis management strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_4.md)
+* [Develop emergency response plans](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1054.md)
 * [Emergency management protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1213.md)
-* [Crisis management strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2308.md)
-* [Develop emergency response plans](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_492.md)
-* [Create emergency preparedness plans](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1379.md)
-* [Community health centers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_221.md)
+* [Emergency response planning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2308.md)
+* [Emergency response plans](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_492.md)
+* [Emergency response systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1379.md)
+* [Emergency systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_221.md)
 
 ## This Technology enables the following mitigations
 

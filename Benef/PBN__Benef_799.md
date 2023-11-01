@@ -2,23 +2,27 @@
 
 # __Streamlined measurement protocol__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-SAMBA provides a standardised and efficient method of gathering IEQ data, reducing the costs and time associated with measurement protocols
+* [Continuous IEQ monitoring system: Context and development](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_160.md)
+
+## Category to which it belongs
+
+* [Seamless and immediate supervision of various aspects of patient health and public safety.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_27.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Implementing the samba system reduces operational costs and improves efficiency, enhancing the return on investment for building owners.](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_870.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [Continuous IEQ monitoring system: Context and development](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_160.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [Building owners or portfolio managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_324.md)
+SAMBA provides a standardised and efficient method of gathering IEQ data, reducing the costs and time associated with measurement protocols
 
 ## Risks which can benefit from this action
 
 * [Samba monitoring system](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_797.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [Building owners or portfolio managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_324.md)
 

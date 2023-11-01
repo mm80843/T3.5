@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Standardizing coronavirus knowledge, the respiratory virus spreads through the built environment, work, touch, aerosols, and contaminated surfaces.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_23.md)
+* [Standardizing coronavirus knowledge, the respiratory virus spreads through the built environment, work, touch, aerosols, and contaminated surfaces.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_73.md)
 
 ## Closest similar item
 
 * [Persistence of coronavirus on inanimate surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1536.md)
-* [Spread of coronavirus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_867.md)
-* [Transmission of coronaviruses from contaminated surfaces to hands](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1539.md)
-* [Spreading of corona virus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_116.md)
-* [Virus spread through contaminated surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1124.md)
-* [Spread of covid-19 through contaminated surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_653.md)
-* [Virus survival on surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_511.md)
-* [Virus transmission via surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1623.md)
-* [Slow the spread of the coronavirus pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3390.md)
-* [Transmission of covid-19 through surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_226.md)
+* [Slow the spread of the coronavirus pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_867.md)
+* [Spread of coronavirus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1539.md)
+* [Spread of covid-19 through contaminated surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_116.md)
+* [Spreading of corona virus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1124.md)
+* [Transmission of coronaviruses from contaminated surfaces to hands](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_653.md)
+* [Transmission of covid-19 through surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_511.md)
+* [Virus spread through contaminated surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1623.md)
+* [Virus survival on surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3390.md)
+* [Virus transmission via surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_226.md)
 
 ## Mitigations of this risk
 

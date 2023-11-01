@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Exposure to a wide range of contaminants, pathogens, and toxins on various surfaces and through different modes of transmission.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_29.md)
+* [Exposure to a wide range of contaminants, pathogens, and toxins on various surfaces and through different modes of transmission.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_79.md)
 
 ## Closest similar item
 
-* [Contamination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1860.md)
-* [Environmental contamination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_923.md)
-* [Waste contamination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3290.md)
-* [Contaminated personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1836.md)
-* [Contaminated environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3229.md)
-* [Contaminated environments](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3098.md)
-* [Contamination, transmission through air](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2456.md)
-* [Spread through contaminated surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1731.md)
-* [Contamination and exposure to pathogens](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2672.md)
-* [Contamination, transmission through close contact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2457.md)
+* [Contaminated environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1860.md)
+* [Contaminated environments](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_923.md)
+* [Contaminated personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3290.md)
+* [Contamination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1836.md)
+* [Contamination and exposure to pathogens](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3229.md)
+* [Contamination, transmission through air](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3098.md)
+* [Contamination, transmission through close contact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2456.md)
+* [Environmental contamination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1731.md)
+* [Spread through contaminated surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2672.md)
+* [Waste contamination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2457.md)
 
 ## Mitigations of this risk
 

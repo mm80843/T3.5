@@ -2,42 +2,34 @@
 
 # __Lack of clarity on covid-19-related loneliness__
 
+## Articles mentionning the risk
+
+* [How loneliness is talked about in social media during COVID-19 pandemic: Text mining of 4,492 Twitter feeds](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_190.md)
+
 ## Category to which it belongs
 
-* [The wide-ranging impacts of the covid-19 pandemic, from its spread in urban areas to its economic, social, and psychological consequences, call for urgent and effective crisis management.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_19.md)
+* [The wide-ranging impacts of the covid-19 pandemic, from its spread in urban areas to its economic, social, and psychological consequences, call for urgent and effective crisis management.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_69.md)
 
 ## Closest similar item
 
-* [Loneliness during covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_664.md)
-* [Variations in prevalence of loneliness themes](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1580.md)
-* [Psychological and mental health challenges during covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_822.md)
-* [Loss of family or friends and economic well-being due to covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1703.md)
-* [Isolation and loneliness](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1284.md)
-* [Disabling loneliness](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2033.md)
-* [Lack of knowledge on covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_624.md)
-* [Psychological impact of covid-19 infection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_34.md)
-* [Emotional distress and psychiatric illness associated with covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_590.md)
-* [Prolonged isolation and lack of social interaction](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_75.md)
+* [Disabling loneliness](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_664.md)
+* [Emotional distress and psychiatric illness associated with covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1580.md)
+* [Isolation and loneliness](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_822.md)
+* [Lack of knowledge on covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1703.md)
+* [Loneliness during covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1284.md)
+* [Loss of family or friends and economic well-being due to covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2033.md)
+* [Prolonged isolation and lack of social interaction](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_624.md)
+* [Psychological and mental health challenges during covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_34.md)
+* [Psychological impact of covid-19 infection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_590.md)
+* [Variations in prevalence of loneliness themes](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_75.md)
 
 ## Description of the risk
 
 Uncertainty regarding the characteristics and coping strategies of loneliness during the pandemic
 
-## Type of the risk
-
-* [Mental](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_1.md)
-
 ## Is the risk affecting GBN scales
 
 * [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
-
-## Type of impact of the risk (according to ISO37100)
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
-
-## Type of purpose of the risk (according to ISO37100)
-
-* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_1.md)
 
 ## Mitigations of this risk
 
@@ -47,25 +39,33 @@ Uncertainty regarding the characteristics and coping strategies of loneliness du
 
 Difficulty in developing targeted social policies and interventions
 
-## Stakeholders who can mitigate this risk
-
-* [Government agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_55.md)
-* [Research institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_413.md)
-
-## Articles mentionning the risk
-
-* [How loneliness is talked about in social media during COVID-19 pandemic: Text mining of 4,492 Twitter feeds](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_190.md)
-
 ## People affected by this risk
 
-* [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
-* [Policymakers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_126.md)
+* [Policymakers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
+* [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_126.md)
+
+## Stakeholders who can mitigate this risk
+
+* [Government agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_413.md)
+* [Research institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_55.md)
 
 ## Technologies linked to the risk
 
-* [Interviews](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_899.md)
-* [Surveys](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_898.md)
-* [Research methodologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_897.md)
+* [Interviews](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_897.md)
+* [Research methodologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_898.md)
+* [Surveys](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_899.md)
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_1.md)
+
+## Type of the risk
+
+* [Mental](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_1.md)
 
 ## Property: has_RiskType
 

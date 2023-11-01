@@ -2,24 +2,28 @@
 
 # __Preventing healthcare overload__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Prevents overwhelming healthcare system by reducing infection rate, allowing better care for infected individuals and preventing shortages of healthcare resources
+* [Nurture to nature via COVID-19, a self-regenerating environmental strategy of environment in global context](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_44.md)
+
+## Category to which it belongs
+
+* [Enhanced healthcare accessibility, quality, outcomes, and efficiency, along with reduced burden and inequalities, leading to improved public health.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_14.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [By implementing social lockdown, private investors can help prevent healthcare systems from being overwhelmed, ensuring better care for infected individuals and potential asset value improvement in the healthcare sector](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_203.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [Nurture to nature via COVID-19, a self-regenerating environmental strategy of environment in global context](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_44.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [Infected persons](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_114.md)
-* [Healthcare system](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_70.md)
+Prevents overwhelming healthcare system by reducing infection rate, allowing better care for infected individuals and preventing shortages of healthcare resources
 
 ## Risks which can benefit from this action
 
 * [Social lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_182.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [Healthcare system](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_70.md)
+* [Infected persons](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_114.md)
 

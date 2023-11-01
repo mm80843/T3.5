@@ -4,20 +4,24 @@
 
 ## Category to which it belongs
 
-* [People from diverse backgrounds and circumstances, including marginalized individuals, with different abilities, and in various environments.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_215.md)
+* [People from diverse backgrounds and circumstances, including marginalized individuals, with different abilities, and in various environments.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_265.md)
 
 ## Closest similar item
 
-* [Individual in multilingual environment](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2319.md)
-* [Individuals in non-english speaking countries](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1020.md)
-* [Individual in non-english speaking country](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2340.md)
-* [Translators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1021.md)
-* [Linguistic experts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1593.md)
-* [Geographically defined individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2075.md)
-* [Non-english speakers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1019.md)
-* [Individuals in specific settings](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2098.md)
-* [Cultural workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1492.md)
-* [Individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_20.md)
+* [Cultural workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2319.md)
+* [Geographically defined individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1020.md)
+* [Individual in multilingual environment](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2340.md)
+* [Individual in non-english speaking country](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1021.md)
+* [Individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1593.md)
+* [Individuals in non-english speaking countries](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2075.md)
+* [Individuals in specific settings](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1019.md)
+* [Linguistic experts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2098.md)
+* [Non-english speakers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1492.md)
+* [Translators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_20.md)
+
+## Risk affecting this stakeholder
+
+* [Poor translation accuracy in speech-transcribing face masks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2370.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -26,7 +30,7 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 
-## Risk affecting this stakeholder
+## Type of the stakeholder
 
-* [Poor translation accuracy in speech-transcribing face masks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2370.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

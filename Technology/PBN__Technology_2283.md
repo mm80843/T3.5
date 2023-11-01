@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_119.md)
+* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_169.md)
 
 ## Closest similar item
 
-* [Such as crispr/cas9](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3830.md)
+* [Biophilic desing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3830.md)
 * [Biotechnology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2293.md)
-* [Vaccine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2478.md)
-* [Sanitizer](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2536.md)
-* [Genetic modification technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3829.md)
-* [Sanitizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_768.md)
-* [Vaccines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_826.md)
-* [Pathogen reduction technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3489.md)
-* [Pathogen reduction technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1533.md)
-* [Biophilic desing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3908.md)
+* [Genetic modification technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2478.md)
+* [Pathogen reduction technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2536.md)
+* [Pathogen reduction technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3829.md)
+* [Sanitizer](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_768.md)
+* [Sanitizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_826.md)
+* [Such as crispr/cas9](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3489.md)
+* [Vaccine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1533.md)
+* [Vaccines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3908.md)
 
 ## This Technology belongs to this TechGroup
 

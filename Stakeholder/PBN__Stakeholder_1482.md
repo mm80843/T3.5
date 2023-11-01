@@ -4,26 +4,31 @@
 
 ## Category to which it belongs
 
-* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_212.md)
+* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_262.md)
 
 ## Closest similar item
 
-* [Pharmaceutical companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_124.md)
-* [Pharmaceutical company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1905.md)
-* [Pharmaceutical industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1389.md)
-* [Medical centers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1088.md)
-* [Healthcare facility](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1250.md)
+* [Clinicians](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_124.md)
+* [Healthcare agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1905.md)
+* [Healthcare facility](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1389.md)
+* [Healthcare providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1088.md)
+* [Hospital](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1250.md)
 * [Hospitals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_64.md)
-* [Healthcare providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_121.md)
-* [Hospital](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1469.md)
-* [Healthcare agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_541.md)
-* [Clinicians](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_274.md)
+* [Medical centers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_121.md)
+* [Pharmaceutical companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1469.md)
+* [Pharmaceutical company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_541.md)
+* [Pharmaceutical industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_274.md)
+
+## Risk affecting this stakeholder
+
+* [Inefficient medication delivery](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2164.md)
 
 ## Risks that can be mitigated by this stakeholder
 
 * [Inefficient medication delivery](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2164.md)
 
-## Risk affecting this stakeholder
+## Type of the stakeholder
 
-* [Inefficient medication delivery](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2164.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

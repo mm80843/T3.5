@@ -2,6 +2,10 @@
 
 # __Resilience in staffing and skills training__
 
+## Blueprint description
+
+Even before the recent pandemic, most employers have developed strategies and tools for their employees to ensure gradual development of their skills while keeping their well-being at an acceptable level. However, the COVID-19 pandemic has shown that these strategies and tools have not been resilient and flexible enough. Although employees have had to find their own responses to the impact of the pandemics, many organisations have begun to look for ways to improve resilience across the organisation through improved HR strategies and training.
+
 ## Capabilities of the blueprint
 
 Nowadays, digital and conventional training methods are widely used. More and more companies specialise in developing various skills. In addition, Massive Open Online course platforms such as Coursera offer a range of relevant courses for free and can help build the resilience of organisations with limited budgets such as small businesses, schools or non-profit organisations
@@ -14,46 +18,55 @@ This measure can be implemented in all organizations, regardless of their size o
 
 To a smaller extent - Case study on finnish TVET: a resilient model of training during COVID-19 - UNESCO Digital Library 
 
-## Blueprint description
-
-Even before the recent pandemic, most employers have developed strategies and tools for their employees to ensure gradual development of their skills while keeping their well-being at an acceptable level. However, the COVID-19 pandemic has shown that these strategies and tools have not been resilient and flexible enough. Although employees have had to find their own responses to the impact of the pandemics, many organisations have begun to look for ways to improve resilience across the organisation through improved HR strategies and training.
-
 ## Enablers of the blueprint
 
-* [SmartPhones](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_19.md)
-* [Automation](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_16.md)
-* [Social Networks](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_20.md)
+* [Augmented / Virtual Reality](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_20.md)
+* [Automation](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_19.md)
 * [New delivery systems](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_21.md)
-* [Augmented / Virtual Reality](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_22.md)
-
-## Interventions of the blueprint
-
-* [Raising awareness](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_38.md)
-* [Absorb resource shortages](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_34.md)
-* [Minimize supply chain disruptions](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_32.md)
-* [Absorb surge in service demande](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_35.md)
-* [Staff training / upskilling](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_22.md)
-
-## Possible mitigations of the BP
-
-* [Resilience building](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3999.md)
-* [Building resilience measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_156.md)
-* [Resilient approach](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_644.md)
-* [Development of resilience strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_736.md)
-* [Resilience training](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1182.md)
-* [Promote resilience through education, social support, and fostering a sense of hope.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2690.md)
-* [Emphasize the importance of multiple preventive measures and the need for continued vigilance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2413.md)
-* [Implement health and safety measures, adapt project plans to pandemic restrictions, provide support to affected workers.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1944.md)
-* [Provide mental health support, promote awareness and resilience](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2992.md)
-* [Improve capacity and resilience in the health sector, enhance surveillance systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2157.md)
-
-## Type of deployment of the blueprint
-
-* [Permanent](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Permanent_1.md)
+* [SmartPhones](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_16.md)
+* [Social Networks](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_22.md)
 
 ## GBN Phase of the blueprint
 
 * [Operational](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Phase_0.md)
+
+## Interventions of the blueprint
+
+* [Absorb resource shortages](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_38.md)
+* [Absorb surge in service demande](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_34.md)
+* [Minimize supply chain disruptions](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_32.md)
+* [Raising awareness](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_22.md)
+* [Staff training / upskilling](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_35.md)
+
+## Mode of transmission covered by the blueprint
+
+* [All](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_4.md)
+
+## Possible mitigations of the BP
+
+* [Building resilience measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2992.md)
+* [Development of resilience strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_736.md)
+* [Emphasize the importance of multiple preventive measures and the need for continued vigilance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_156.md)
+* [Implement health and safety measures, adapt project plans to pandemic restrictions, provide support to affected workers.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_644.md)
+* [Improve capacity and resilience in the health sector, enhance surveillance systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3999.md)
+* [Promote resilience through education, social support, and fostering a sense of hope.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1182.md)
+* [Provide mental health support, promote awareness and resilience](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2690.md)
+* [Resilience building](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1944.md)
+* [Resilience training](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2413.md)
+* [Resilient approach](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2157.md)
+
+## Possible risks of the BP
+
+* [Building resilience capabilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1572.md)
+* [Covid-19 crisis management](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_675.md)
+* [Covid-19 outbreaks in workplace settings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_820.md)
+* [Covid-19 spread in the workplace](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_434.md)
+* [Gaps in capacity and resilience across industries and organizations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_887.md)
+* [Lack of medical staff training for covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3411.md)
+* [Lack of preparedness for pandemics](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_118.md)
+* [Resilience](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_752.md)
+* [Spread of covid-19 in workplace settings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3315.md)
+* [Workers’ vulnerability to covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2037.md)
 
 ## Problem of the blueprint
 
@@ -73,19 +86,6 @@ There are a number of constraints that can hinder the effective use of resilienc
 •	 moving training to virtual space isolates staff and can therefore hinder learning and growth
 •	the biggest costs are the time and money required to develop the above strategies and training. However, compared to the potential costs of responding to and managing a crisis, these investments are negligible.
 
-## Possible risks of the BP
-
-* [Lack of preparedness for pandemics](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1572.md)
-* [Covid-19 crisis management](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_118.md)
-* [Covid-19 spread in the workplace](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_675.md)
-* [Covid-19 outbreaks in workplace settings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_887.md)
-* [Spread of covid-19 in workplace settings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_434.md)
-* [Workers’ vulnerability to covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3411.md)
-* [Gaps in capacity and resilience across industries and organizations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_752.md)
-* [Building resilience capabilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3315.md)
-* [Resilience](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2037.md)
-* [Lack of medical staff training for covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_820.md)
-
 ## Scale of the of the blueprint
 
 * [Gbn](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Scale_2.md)
@@ -94,9 +94,9 @@ There are a number of constraints that can hinder the effective use of resilienc
 
 PBN:BP_13
 
-## Mode of transmission covered by the blueprint
+## Type of deployment of the blueprint
 
-* [All](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_4.md)
+* [Permanent](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Permanent_1.md)
 
 ## Type of the blueprint
 

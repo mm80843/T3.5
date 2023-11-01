@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The impact of various challenges on the workforce, including job insecurity, increased workload, uncertainty, unemployment, and changes in work schedules and productivity.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_41.md)
+* [The impact of various challenges on the workforce, including job insecurity, increased workload, uncertainty, unemployment, and changes in work schedules and productivity.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_91.md)
 
 ## Closest similar item
 
-* [Remote work challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1853.md)
-* [Remote work](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3395.md)
-* [Lack of cultural sensitivity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2364.md)
-* [Workplace transformation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3364.md)
-* [Remote collaboration](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1520.md)
-* [Remote operation and telecommuting](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2350.md)
-* [Loss of cultural and creative industries](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2209.md)
-* [Challenges in adopting a digital culture](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_318.md)
-* [Disparities in economic, political, and cultural contexts](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2650.md)
-* [Changes in social practices](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_45.md)
+* [Challenges in adopting a digital culture](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1853.md)
+* [Changes in social practices](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3395.md)
+* [Disparities in economic, political, and cultural contexts](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2364.md)
+* [Lack of cultural sensitivity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3364.md)
+* [Loss of cultural and creative industries](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1520.md)
+* [Remote collaboration](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2350.md)
+* [Remote operation and telecommuting](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2209.md)
+* [Remote work](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_318.md)
+* [Remote work challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2650.md)
+* [Workplace transformation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_45.md)
 
 ## Mitigations of this risk
 

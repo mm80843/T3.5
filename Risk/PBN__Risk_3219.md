@@ -4,19 +4,19 @@
 
 ## Category to which it belongs
 
-* [The pandemic has led to a decrease in in-person surgical education, loss of control, temporary panic from cruise ship docking, limited social distancing, and decreased morale.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_20.md)
+* [The pandemic has led to a decrease in in-person surgical education, loss of control, temporary panic from cruise ship docking, limited social distancing, and decreased morale.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_70.md)
 
 ## Closest similar item
 
-* [Delayed implementation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3183.md)
-* [Delayed drug development](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1783.md)
-* [Delayed decision making](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_659.md)
-* [Delayed reporting](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2503.md)
-* [Lack of effective treatment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1849.md)
-* [Delay in diagnosis and poor infection control practices](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2355.md)
-* [Delayed infectious disease reporting](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1233.md)
+* [Delay in diagnosis and poor infection control practices](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3183.md)
+* [Delayed decision making](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1783.md)
+* [Delayed drug development](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_659.md)
+* [Delayed implementation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2503.md)
+* [Delayed infectious disease reporting](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1849.md)
+* [Delayed reporting](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2355.md)
+* [Delays due to lack of materials](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1233.md)
 * [Ineffective treatments based on flawed preprints](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_617.md)
-* [Delays due to lack of materials](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2806.md)
+* [Lack of effective treatment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2806.md)
 * [Lack of novel treatment options](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2165.md)
 
 ## Mitigations of this risk

@@ -2,42 +2,34 @@
 
 # __Cybersecurity risks and privacy concerns__
 
+## Articles mentionning the risk
+
+* [Urban Community Sustainable Development Patterns under the Influence of COVID-19: A Case Study Based on the Non-Contact Interaction Perspective of Hangzhou City](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_291.md)
+
 ## Category to which it belongs
 
-* [Risks to personal information, confidentiality, ethical issues, surveillance, and the need for data protection.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_17.md)
+* [Risks to personal information, confidentiality, ethical issues, surveillance, and the need for data protection.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_67.md)
 
 ## Closest similar item
 
-* [Privacy and cybersecurity concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2934.md)
-* [Cybersecurity risks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2063.md)
-* [Privacy and security risks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1238.md)
-* [Security and privacy concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2059.md)
+* [Cybersecurity risks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2934.md)
+* [Cybersecurity threats](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2063.md)
+* [Privacy and cybersecurity concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1238.md)
+* [Privacy and data security concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2059.md)
 * [Privacy and security concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_25.md)
-* [Cybersecurity threats](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1887.md)
-* [Privacy and data security concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2041.md)
-* [Security risks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2103.md)
-* [Privacy concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_47.md)
-* [Privacy and surveillance concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2048.md)
+* [Privacy and security risks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1887.md)
+* [Privacy and surveillance concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2041.md)
+* [Privacy concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2103.md)
+* [Security and privacy concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_47.md)
+* [Security risks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2048.md)
 
 ## Description of the risk
 
 Increased reliance on digital platforms and non-contact interaction activities may expose residents to cybersecurity risks and potential privacy breaches.
 
-## Type of the risk
-
-* [Other](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_2.md)
-
 ## Is the risk affecting GBN scales
 
 * [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
-
-## Type of impact of the risk (according to ISO37100)
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
-
-## Type of purpose of the risk (according to ISO37100)
-
-* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
 
 ## Mitigations of this risk
 
@@ -47,25 +39,33 @@ Increased reliance on digital platforms and non-contact interaction activities m
 
 Identity theft, data breaches, and invasion of privacy, leading to financial loss and reputational damage.
 
-## Stakeholders who can mitigate this risk
-
-* [Internet service providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1548.md)
-* [Platform developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1553.md)
-* [Cybersecurity experts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_787.md)
-
-## Articles mentionning the risk
-
-* [Urban Community Sustainable Development Patterns under the Influence of COVID-19: A Case Study Based on the Non-Contact Interaction Perspective of Hangzhou City](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_291.md)
-
 ## People affected by this risk
 
 * [Residents who engage in online activities and share personal information](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1552.md)
 
+## Stakeholders who can mitigate this risk
+
+* [Cybersecurity experts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1553.md)
+* [Internet service providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1548.md)
+* [Platform developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_787.md)
+
 ## Technologies linked to the risk
 
 * [Antivirus software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1918.md)
-* [Use firewalls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1917.md)
-* [Encryption protocols to safeguard digital platforms and protect residents’ data and privacy](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1919.md)
+* [Encryption protocols to safeguard digital platforms and protect residents’ data and privacy](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1917.md)
+* [Use firewalls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1919.md)
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
+
+## Type of the risk
+
+* [Other](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_2.md)
 
 ## Property: has_RiskType
 

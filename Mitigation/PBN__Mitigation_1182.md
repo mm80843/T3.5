@@ -2,30 +2,30 @@
 
 # __Resilience training__
 
-## Category to which it belongs
+## Benefits linked to a risk
 
-* [Enhancing risk management, crisis response, resilience building, and effective communication through comprehensive preparedness planning and strategic decision-making.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_63.md)
-
-## Closest similar item
-
-* [Development of resilience strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_736.md)
-* [Resilience building](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3999.md)
-* [Building resilience measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_156.md)
-* [Resilience, flexibility, and emotional regulation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3301.md)
-* [Promote resilience through education, social support, and fostering a sense of hope.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2690.md)
-* [Resilient approach](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_644.md)
-* [Provide mental health support, promote awareness and resilience](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2992.md)
-* [Training and awareness](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3830.md)
-* [Resilient healthcare system](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4489.md)
-* [Training](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5016.md)
+* [Psychological support](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1178.md)
 
 ## Blueprints with this mitigation
 
 * [Resilience in staffing and skills training](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_12.md)
 
-## Benefits linked to a risk
+## Category to which it belongs
 
-* [Psychological support](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1178.md)
+* [Enhancing risk management, crisis response, resilience building, and effective communication through comprehensive preparedness planning and strategic decision-making.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_113.md)
+
+## Closest similar item
+
+* [Building resilience measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_736.md)
+* [Development of resilience strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3999.md)
+* [Promote resilience through education, social support, and fostering a sense of hope.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_156.md)
+* [Provide mental health support, promote awareness and resilience](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3301.md)
+* [Resilience building](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2690.md)
+* [Resilience, flexibility, and emotional regulation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_644.md)
+* [Resilient approach](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2992.md)
+* [Resilient healthcare system](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3830.md)
+* [Training](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4489.md)
+* [Training and awareness](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5016.md)
 
 ## Risks possibly mitigated by this Mitigation
 

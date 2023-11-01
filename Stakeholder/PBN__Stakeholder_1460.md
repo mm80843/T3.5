@@ -4,20 +4,24 @@
 
 ## Category to which it belongs
 
-* [Participants in the iot ecosystem, including users, data collectors, technology providers, essential service providers, and information providers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_231.md)
+* [Participants in the iot ecosystem, including users, data collectors, technology providers, essential service providers, and information providers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_281.md)
 
 ## Closest similar item
 
-* [Data providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_847.md)
-* [Data owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1465.md)
-* [Individuals providing personal data](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_758.md)
-* [Datum sharing partner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2544.md)
-* [Information providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1282.md)
-* [Data management companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_605.md)
-* [Data management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2027.md)
-* [Data protection authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_784.md)
+* [Data management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_847.md)
+* [Data management agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1465.md)
+* [Data management companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_758.md)
+* [Data owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2544.md)
+* [Data protection authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1282.md)
+* [Data providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_605.md)
+* [Datum sharing partner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2027.md)
+* [Individuals providing personal data](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_784.md)
 * [Information provider](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1915.md)
-* [Data management agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1395.md)
+* [Information providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1395.md)
+
+## Risk affecting this stakeholder
+
+* [Regulatory frameworks for data protection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_811.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -27,7 +31,7 @@
 
 * [Data management and security](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2531.md)
 
-## Risk affecting this stakeholder
+## Type of the stakeholder
 
-* [Regulatory frameworks for data protection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_811.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

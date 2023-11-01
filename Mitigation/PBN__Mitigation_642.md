@@ -2,26 +2,26 @@
 
 # __Implementation of virtual training classes__
 
-## Category to which it belongs
-
-* [Optimizing public health response through the integration of artificial intelligence, machine learning, bioinformatics tools, and knowledge sharing.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_87.md)
-
-## Closest similar item
-
-* [Virtual exercise classes](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3506.md)
-* [Provide virtual reality-based training](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2735.md)
-* [Virtual learning in combination with in-person classes](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4284.md)
-* [Virtual reality medical training](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1125.md)
-* [Virtual induction and training](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_709.md)
-* [Training protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_107.md)
-* [Virtual e-learning platforms](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4959.md)
-* [Virtual assessments](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4608.md)
-* [Training](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5016.md)
-* [Employee training](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4484.md)
-
 ## Benefits linked to a risk
 
 * [Increased accessibility and convenience](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_643.md)
+
+## Category to which it belongs
+
+* [Optimizing public health response through the integration of artificial intelligence, machine learning, bioinformatics tools, and knowledge sharing.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_137.md)
+
+## Closest similar item
+
+* [Employee training](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3506.md)
+* [Provide virtual reality-based training](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2735.md)
+* [Training](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4284.md)
+* [Training protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1125.md)
+* [Virtual assessments](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_709.md)
+* [Virtual e-learning platforms](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_107.md)
+* [Virtual exercise classes](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4959.md)
+* [Virtual induction and training](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4608.md)
+* [Virtual learning in combination with in-person classes](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5016.md)
+* [Virtual reality medical training](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4484.md)
 
 ## Risks possibly mitigated by this Mitigation
 

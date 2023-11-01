@@ -4,20 +4,24 @@
 
 ## Category to which it belongs
 
-* [A collection of diverse entities devoted to various causes, including mental and physical health, business, research, conservation, and social welfare.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_200.md)
+* [A collection of diverse entities devoted to various causes, including mental and physical health, business, research, conservation, and social welfare.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_250.md)
 
 ## Closest similar item
 
-* [Sport organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1926.md)
-* [Sports companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_576.md)
-* [Sports industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1219.md)
-* [Sport company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2012.md)
-* [Sport industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1949.md)
-* [Organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_186.md)
-* [Athletes](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1217.md)
-* [Organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1912.md)
-* [Professional organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1332.md)
+* [Athletes](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1926.md)
+* [Organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_576.md)
+* [Organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1219.md)
+* [Professional organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2012.md)
+* [Sport company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1949.md)
+* [Sport industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_186.md)
+* [Sport organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1217.md)
+* [Sports companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1912.md)
+* [Sports industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1332.md)
 * [Teams](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_363.md)
+
+## Risk affecting this stakeholder
+
+* [Impact on sports industry](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1797.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -27,7 +31,7 @@
 
 * [Fitness and sports](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1860.md)
 
-## Risk affecting this stakeholder
+## Type of the stakeholder
 
-* [Impact on sports industry](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1797.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

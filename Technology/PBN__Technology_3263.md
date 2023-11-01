@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_116.md)
+* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_166.md)
 
 ## Closest similar item
 
-* [Web portals](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2337.md)
-* [Connectivity](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3517.md)
-* [Green corridors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_971.md)
-* [Light tubes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_142.md)
-* [Rooms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3574.md)
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2164.md)
-* [Fountains](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3074.md)
-* [Sealed entrances](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3555.md)
-* [Internet](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2454.md)
-* [Facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3065.md)
+* [Connectivity](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2337.md)
+* [Facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3517.md)
+* [Fountains](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_971.md)
+* [Green corridors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_142.md)
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3574.md)
+* [Internet](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2164.md)
+* [Light tubes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3074.md)
+* [Rooms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3555.md)
+* [Sealed entrances](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2454.md)
+* [Web portals](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3065.md)
 
 ## This Technology enables the following mitigations
 

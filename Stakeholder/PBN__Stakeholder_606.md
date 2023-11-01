@@ -4,20 +4,25 @@
 
 ## Category to which it belongs
 
-* [People at risk or affected by infectious diseases, including covid-19, and those involved in containment and response measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_195.md)
+* [People at risk or affected by infectious diseases, including covid-19, and those involved in containment and response measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_245.md)
 
 ## Closest similar item
 
-* [Individuals under quarantine](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_268.md)
-* [Individual in quarantine](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2334.md)
+* [Individual in quarantine](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_268.md)
+* [Individual in quarantine or isolation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2334.md)
 * [Individuals in quarantine or isolation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1281.md)
 * [Individuals in quarantine or lockdown](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1317.md)
 * [Individuals in quarantine or social isolation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_357.md)
-* [Individual in quarantine or isolation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2283.md)
+* [Individuals under quarantine](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2283.md)
 * [Patients in quarantine](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1576.md)
-* [Quarantined or isolated individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2143.md)
-* [Quarantined individuals and health care providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_342.md)
+* [Quarantined individuals and health care providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2143.md)
+* [Quarantined or isolated individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_342.md)
 * [Quarantined population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1017.md)
+
+## Risk affecting this stakeholder
+
+* [Impact on mental health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1076.md)
+* [Lack of indoor green features](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2091.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -26,8 +31,7 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 
-## Risk affecting this stakeholder
+## Type of the stakeholder
 
-* [Impact on mental health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1076.md)
-* [Lack of indoor green features](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2091.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

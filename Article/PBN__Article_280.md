@@ -2,9 +2,29 @@
 
 # __On the Coronavirus (COVID-19) Outbreak and the Smart City Network: Universal Data Sharing Standards Coupled with Artificial Intelligence (AI) to Benefit Urban Health Monitoring and Management__
 
+## Benefits listed in this article
+
+* [Enhanced economic stability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1315.md)
+* [Enhanced urban management decisions](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1317.md)
+* [Improved cross-disciplinary protocols](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1314.md)
+* [Improved early detection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1318.md)
+* [Increased processing capabilities](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1316.md)
+
 ## DOI of the article
 
 10.3390/healthcare8010046
+
+## List of risks in an article
+
+* [Economic impact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_124.md)
+* [Fragmented information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_25.md)
+* [Lack of data sharing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_723.md)
+* [Limited access to data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_810.md)
+* [Privacy and security concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1068.md)
+
+## Referenced by other articles
+
+* [The Emergence of Anti-Privacy and Control at the Nexus between the Concepts of Safe City and Smart City](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_15.md)
 
 ## Short summary of the article
 
@@ -14,9 +34,20 @@ This research abstract discusses the impact of the COVID-19 outbreak on cities a
 
 The Coronavirus outbreak, also known as COVID-19, started in China and has caused cities to close down and take precautions to stop the spread of the virus. Other countries around the world are also being careful because they don't want the virus to spread. The World Health Organization has called this outbreak a global emergency, which means it is a serious health risk to many countries. Scientists have been sharing information about the virus through a special platform to help find a cure and prevent the spread. Smart cities, which use technology to make cities safer and more efficient, can also help detect and manage outbreaks like this. But there are challenges in sharing data between different smart city products. It is important to standardize communication so that cities can work together in case of future outbreaks. The outbreak of the virus not only affects people's health but also impacts the economy of cities and countries. By working together and sharing data, we can better control and contain outbreaks like this in the future.
 
-## Referenced by other articles
+## This article mentions these technologies
 
-* [The Emergence of Anti-Privacy and Control at the Nexus between the Concepts of Safe City and Smart City](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_15.md)
+* [Blockchain](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
+* [Iot devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_94.md)
+* [Quantum cryptography](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_95.md)
+
+## This article points to following mitigation
+
+* [Anonymization of data](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3206.md)
+* [Data sharing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3208.md)
+* [Early detection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3204.md)
+* [Regulatory practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3205.md)
+* [Standardization of protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3207.md)
+* [Trust and transparency](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3203.md)
 
 ## Title of the article
 
@@ -25,35 +56,4 @@ On the Coronavirus (COVID-19) Outbreak and the Smart City Network: Universal Dat
 ## Year of publication
 
 2020
-
-## Benefits listed in this article
-
-* [Improved early detection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1314.md)
-* [Enhanced urban management decisions](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1315.md)
-* [Increased processing capabilities](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1316.md)
-* [Improved cross-disciplinary protocols](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1317.md)
-* [Enhanced economic stability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1318.md)
-
-## List of risks in an article
-
-* [Privacy and security concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_25.md)
-* [Economic impact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_124.md)
-* [Limited access to data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_723.md)
-* [Lack of data sharing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_810.md)
-* [Fragmented information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1068.md)
-
-## This article points to following mitigation
-
-* [Anonymization of data](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3205.md)
-* [Standardization of protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3206.md)
-* [Early detection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3203.md)
-* [Regulatory practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3208.md)
-* [Data sharing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3204.md)
-* [Trust and transparency](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3207.md)
-
-## This article mentions these technologies
-
-* [Blockchain](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_94.md)
-* [Quantum cryptography](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_95.md)
-* [Iot devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_96.md)
 

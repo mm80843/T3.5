@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Enhancing healthcare infrastructure and capacity, promoting equitable access to healthcare services and resources.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_95.md)
+* [Enhancing healthcare infrastructure and capacity, promoting equitable access to healthcare services and resources.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_145.md)
 
 ## Closest similar item
 
-* [Selecting adequate ward and patient rooms](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4072.md)
-* [Conversion of existing spaces into medical facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3214.md)
+* [Accessibility to healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4072.md)
+* [Adaptation of healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3214.md)
 * [Construction of new medical facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_734.md)
-* [Design venues with large, flexible spaces and prioritize medical equipment.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2252.md)
-* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4629.md)
+* [Conversion of existing spaces into medical facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2252.md)
+* [Design venues with large, flexible spaces and prioritize medical equipment.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4629.md)
 * [Enhancing healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4085.md)
-* [Partition rooms or corridors to create anterooms for each patient room, ensuring proper design and layout](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2184.md)
-* [Adaptation of healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4862.md)
-* [Accessibility to healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3381.md)
-* [Improved health care facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4211.md)
+* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2184.md)
+* [Improved health care facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4862.md)
+* [Partition rooms or corridors to create anterooms for each patient room, ensuring proper design and layout](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3381.md)
+* [Selecting adequate ward and patient rooms](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4211.md)
 
 ## Risks possibly mitigated by this Mitigation
 

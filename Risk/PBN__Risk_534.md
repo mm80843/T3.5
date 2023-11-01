@@ -4,24 +4,24 @@
 
 ## Category to which it belongs
 
-* [The interconnectedness of global economics has led to financial instability, unemployment, poverty, and decreased investment in certain sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_12.md)
+* [The interconnectedness of global economics has led to financial instability, unemployment, poverty, and decreased investment in certain sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_62.md)
 
 ## Closest similar item
 
-* [Decreased interest in news](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_539.md)
-* [Decreased interest in covid-19 news](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1214.md)
-* [Avoidance of news about](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_537.md)
-* [Decreased interest](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2494.md)
+* [Avoidance of news about](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_539.md)
+* [Decreased interest](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1214.md)
+* [Decreased interest in covid-19 news](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_537.md)
+* [Decreased interest in news](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2494.md)
 * [Decreased interest, avoidance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2495.md)
-* [Spread of inaccurate news on social media](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1015.md)
+* [Decreased job opportunities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1015.md)
 * [Distress from exposure to pandemic-related news](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1879.md)
-* [Spreading inaccurate news](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3082.md)
-* [Divergent interests](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3312.md)
-* [Decreased job opportunities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2804.md)
+* [Divergent interests](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3082.md)
+* [Spread of inaccurate news on social media](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3312.md)
+* [Spreading inaccurate news](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2804.md)
 
 ## Mitigations of this risk
 
-* [Promote public health](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_767.md)
-* [Diversify information](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_765.md)
+* [Diversify information](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_767.md)
+* [Promote public health](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_765.md)
 * [Promote reliable sources](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_759.md)
 

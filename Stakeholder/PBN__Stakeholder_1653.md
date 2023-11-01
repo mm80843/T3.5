@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [A collection of diverse entities devoted to various causes, including mental and physical health, business, research, conservation, and social welfare.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_200.md)
+* [A collection of diverse entities devoted to various causes, including mental and physical health, business, research, conservation, and social welfare.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_250.md)
 
 ## Closest similar item
 
-* [Labor unions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_904.md)
-* [Labor union](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1652.md)
-* [Labor organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1365.md)
-* [Organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_186.md)
-* [Labor organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1729.md)
-* [Organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1912.md)
-* [Organisations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_298.md)
-* [Businesses and organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_262.md)
-* [Industry organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1433.md)
-* [Business organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_596.md)
+* [Business organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_904.md)
+* [Businesses and organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1652.md)
+* [Industry organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1365.md)
+* [Labor organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_186.md)
+* [Labor organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1729.md)
+* [Labor union](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1912.md)
+* [Labor unions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_298.md)
+* [Organisations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_262.md)
+* [Organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1433.md)
+* [Organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_596.md)
 
 ## Stakeholders in this stakeholder subgroup
 

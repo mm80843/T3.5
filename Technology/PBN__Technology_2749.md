@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_116.md)
+* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_166.md)
 
 ## Closest similar item
 
-* [Newspapers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3181.md)
+* [Mass media](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3181.md)
 * [Media](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3022.md)
-* [Media organizations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_335.md)
-* [Mass media](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1538.md)
-* [Media sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3871.md)
-* [News and information sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3385.md)
-* [Responsible reporting by media](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1922.md)
-* [Media advertising](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2357.md)
-* [Media literacy programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_581.md)
-* [Reliable news sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1125.md)
+* [Media advertising](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_335.md)
+* [Media literacy programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1538.md)
+* [Media organizations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3871.md)
+* [Media sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3385.md)
+* [News and information sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1922.md)
+* [Newspapers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2357.md)
+* [Reliable news sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_581.md)
+* [Responsible reporting by media](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1125.md)
 
 ## This Technology enables the following mitigations
 

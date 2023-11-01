@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The havoc wreaked upon the interconnected network of production and distribution is causing significant worldwide disruptions.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_8.md)
+* [The havoc wreaked upon the interconnected network of production and distribution is causing significant worldwide disruptions.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_58.md)
 
 ## Closest similar item
 
-* [Food supply disruptions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1839.md)
-* [Supply disruption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2986.md)
-* [Limited food availability, distribution challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3032.md)
-* [Insufficient and inappropriate food provision](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3138.md)
+* [Disruption of supply chain](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1839.md)
+* [Disruption of supply chains](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2986.md)
+* [Food supply disruptions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3032.md)
+* [Impact on food industry supply chain](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3138.md)
 * [Impact on food sector](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_482.md)
-* [Supply chain disruptions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10.md)
-* [Supply chain disruption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1392.md)
-* [Impact on food industry supply chain](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_411.md)
-* [Disruption of supply chains](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1123.md)
-* [Disruption of supply chain](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_524.md)
+* [Insufficient and inappropriate food provision](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10.md)
+* [Limited food availability, distribution challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1392.md)
+* [Supply chain disruption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_411.md)
+* [Supply chain disruptions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1123.md)
+* [Supply disruption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_524.md)
 
 ## Mitigations of this risk
 

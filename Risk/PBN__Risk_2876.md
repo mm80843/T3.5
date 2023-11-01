@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Interoperability challenges, high costs, limited communication, and lack of resources impact various sectors globally.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_22.md)
+* [Interoperability challenges, high costs, limited communication, and lack of resources impact various sectors globally.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_72.md)
 
 ## Closest similar item
 
-* [Lack of coordinated global governance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_44.md)
-* [Lack of coordination, geopolitical tensions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2851.md)
-* [Challenges in global climate diplomacy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_552.md)
+* [Challenges in global climate diplomacy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_44.md)
+* [Fragmented governance and lack of cooperation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2851.md)
+* [Fragmented governance and limited cooperation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_552.md)
 * [Global containment strategy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_333.md)
-* [Fragmented governance and limited cooperation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_805.md)
-* [Fragmented governance and lack of cooperation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2039.md)
+* [Globalization](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_805.md)
+* [Inadequate coordination between government agencies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2039.md)
 * [Incomplete infrastructure, coordination challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2597.md)
-* [Globalization](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2051.md)
-* [Lack of global leadership](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3342.md)
-* [Inadequate coordination between government agencies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_880.md)
+* [Lack of coordinated global governance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2051.md)
+* [Lack of coordination, geopolitical tensions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3342.md)
+* [Lack of global leadership](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_880.md)
 
 ## Mitigations of this risk
 

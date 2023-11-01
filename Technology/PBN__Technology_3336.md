@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Effective water management encompasses wastewater testing, waste management, rainwater storage, wastewater treatment technology, smart water consumption, and improved infrastructure.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_131.md)
+* [Effective water management encompasses wastewater testing, waste management, rainwater storage, wastewater treatment technology, smart water consumption, and improved infrastructure.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_181.md)
 
 ## Closest similar item
 
-* [Sewage surveillance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1101.md)
-* [Sewage monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2669.md)
-* [Proper sewage and treatment systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3645.md)
-* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_997.md)
-* [Wastewater-based epidemiology wbe methods and pcr testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2071.md)
-* [Sanitation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1216.md)
-* [Wastewater management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2051.md)
-* [Proper sanitation practices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2894.md)
-* [Sanitation infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_702.md)
-* [Sanitation and safety](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2179.md)
+* [Proper sanitation practices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1101.md)
+* [Proper sewage and treatment systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2669.md)
+* [Sanitation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3645.md)
+* [Sanitation and safety](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_997.md)
+* [Sanitation infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2071.md)
+* [Sewage monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1216.md)
+* [Sewage surveillance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2051.md)
+* [Wastewater management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2894.md)
+* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_702.md)
+* [Wastewater-based epidemiology wbe methods and pcr testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2179.md)
 
 ## This Technology enables the following mitigations
 

@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The repercussions of domestic violence, the pandemic’s transmission, extreme events, population dynamics, and systemic vulnerabilities persist.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_1.md)
+* [The repercussions of domestic violence, the pandemic’s transmission, extreme events, population dynamics, and systemic vulnerabilities persist.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_51.md)
 
 ## Closest similar item
 
-* [Virus exposure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2487.md)
+* [Exposure to pathogens](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2487.md)
 * [Exposure to the virus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1851.md)
 * [Exposure to virus at work](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_164.md)
 * [Increased risk of virus transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2783.md)
-* [Virus accumulation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2909.md)
+* [Spread of virus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2909.md)
 * [Transmission of the virus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2821.md)
-* [Spread of virus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2484.md)
-* [Virus propagation risks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_279.md)
-* [Virus transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2490.md)
-* [Exposure to pathogens](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2396.md)
+* [Virus accumulation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2484.md)
+* [Virus exposure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_279.md)
+* [Virus propagation risks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2490.md)
+* [Virus transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2396.md)
 
 ## Mitigations of this risk
 

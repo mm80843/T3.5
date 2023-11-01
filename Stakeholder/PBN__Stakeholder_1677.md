@@ -4,25 +4,25 @@
 
 ## Category to which it belongs
 
-* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_212.md)
+* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_262.md)
 
 ## Closest similar item
 
-* [Installers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1171.md)
-* [Renter](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2503.md)
-* [Operating room manager](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1752.md)
-* [System administrators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1402.md)
-* [Community administrator](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2456.md)
-* [Building administrator](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2042.md)
-* [Network administrator](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1747.md)
-* [Homeowner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2067.md)
-* [Builder](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1959.md)
-* [Renters](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1215.md)
+* [Builder](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1171.md)
+* [Building administrator](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2503.md)
+* [Community administrator](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1752.md)
+* [Homeowner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1402.md)
+* [Installers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2456.md)
+* [Network administrator](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2042.md)
+* [Operating room manager](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1747.md)
+* [Renter](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2067.md)
+* [Renters](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1959.md)
+* [System administrators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1215.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
-* [Private sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_57.md)
-* [Workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_128.md)
+* [Private sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_128.md)
+* [Workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_57.md)
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 

@@ -2,42 +2,34 @@
 
 # __Lack of healthcare infrastructure__
 
+## Articles mentionning the risk
+
+* [COVID-19 Higher Mortality in Chinese Regions With Chronic Exposure to Lower Air Quality](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_42.md)
+
 ## Category to which it belongs
 
-* [Healthcare systems overwhelmed, limited access to services, scarcity of resources, and risk to healthcare workers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_10.md)
+* [Healthcare systems overwhelmed, limited access to services, scarcity of resources, and risk to healthcare workers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_60.md)
 
 ## Closest similar item
 
-* [Inadequate healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1122.md)
-* [Insufficient healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1318.md)
-* [Lack of healthcare resources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3237.md)
+* [Inadequate healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1122.md)
+* [Inadequate healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1318.md)
+* [Insufficient healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3237.md)
 * [Insufficient healthcare infrastructure and resources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1159.md)
-* [Lack of healthcare access](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3144.md)
+* [Insufficient medical facilities and infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3144.md)
 * [Lack of access to healthcare services](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2469.md)
 * [Lack of digital health infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1961.md)
 * [Lack of equitable access to healthcare](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1698.md)
-* [Insufficient medical facilities and infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1307.md)
-* [Inadequate healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1476.md)
+* [Lack of healthcare access](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1307.md)
+* [Lack of healthcare resources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1476.md)
 
 ## Description of the risk
 
 Inadequate healthcare systems prevent effective response to outbreaks
 
-## Type of the risk
-
-* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Is the risk affecting GBN scales
 
 * [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
-
-## Type of impact of the risk (according to ISO37100)
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
-
-## Type of purpose of the risk (according to ISO37100)
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_3.md)
 
 ## Mitigations of this risk
 
@@ -47,29 +39,37 @@ Inadequate healthcare systems prevent effective response to outbreaks
 
 Overwhelmed healthcare systems, insufficient medical resources
 
+## People affected by this risk
+
+* [Areas with limited healthcare access](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
+* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1268.md)
+
 ## Stakeholders who can mitigate this risk
 
 * [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
-* [Ngos](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_234.md)
 * [Healthcare institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_269.md)
-
-## Articles mentionning the risk
-
-* [COVID-19 Higher Mortality in Chinese Regions With Chronic Exposure to Lower Air Quality](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_42.md)
-
-## People affected by this risk
-
-* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
-* [Areas with limited healthcare access](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1268.md)
+* [Ngos](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_234.md)
 
 ## Technologies linked to the risk
 
-* [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_73.md)
+* [Medical supplies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_73.md)
 * [Mobile healthcare units](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_209.md)
-* [Medical supplies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1250.md)
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1250.md)
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_3.md)
+
+## Type of the risk
+
+* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
-* [Political](https://github.com/mm80843/T3.5/blob/pages/RiskType/PBN__RiskType_1.md)
-* [Economic](https://github.com/mm80843/T3.5/blob/pages/RiskType/PBN__RiskType_3.md)
+* [Economic](https://github.com/mm80843/T3.5/blob/pages/RiskType/PBN__RiskType_1.md)
+* [Political](https://github.com/mm80843/T3.5/blob/pages/RiskType/PBN__RiskType_3.md)
 

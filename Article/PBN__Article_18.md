@@ -2,9 +2,21 @@
 
 # __The impact of physical activity on psychological health during Covid-19 pandemic in Italy__
 
+## Benefits listed in this article
+
+* [Improved psychological well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_84.md)
+
 ## DOI of the article
 
 10.1016/j.heliyon.2020.e04315
+
+## List of risks in an article
+
+* [Increased risk of covid-19 transmission in crowded public places](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1699.md)
+* [Lack of access to regular sporting or exercise routines](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1701.md)
+* [Loss of family or friends and economic well-being due to covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1703.md)
+* [Negative impact of prolonged self-isolation on mental health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1700.md)
+* [Reduction of physical activity during quarantine](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1702.md)
 
 ## Short summary of the article
 
@@ -14,6 +26,31 @@ This study aimed to examine the changes in physical activity levels and the corr
 
 During the COVID-19 pandemic, people in Italy had to stay at home to stay safe. This meant that they couldn't go to school, play outside, or do their normal activities. A study was done to see how this affected their physical activity and how they felt mentally. The results showed that people were doing less physical activity while at home compared to before the pandemic. This is because they couldn't go to the gym or play sports outside. The study also found that people's mental well-being was worse when they were doing less physical activity. This means that exercising and staying active is important for our mental health as well as our physical health, even during difficult times like a pandemic.
 
+## This article mentions these technologies
+
+* [Community outreach programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
+* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_223.md)
+* [Crowd monitoring technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1078.md)
+* [Home workout apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_117.md)
+* [Mental health apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_607.md)
+* [Mental health services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1072.md)
+* [Mobile fitness applications](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_248.md)
+* [Occupancy management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1075.md)
+* [Online exercise classes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1073.md)
+* [Online exercise videos](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1074.md)
+* [Teletherapy](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1076.md)
+* [Unemployment benefits systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1077.md)
+* [Virtual personal trainers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1080.md)
+* [Virtual support groups](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1079.md)
+
+## This article points to following mitigation
+
+* [Home isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_73.md)
+* [Lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Regular exercise](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_427.md)
+* [Regular physical activity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4189.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4190.md)
+
 ## Title of the article
 
 The impact of physical activity on psychological health during Covid-19 pandemic in Italy
@@ -21,41 +58,4 @@ The impact of physical activity on psychological health during Covid-19 pandemic
 ## Year of publication
 
 2020
-
-## Benefits listed in this article
-
-* [Improved psychological well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_84.md)
-
-## List of risks in an article
-
-* [Increased risk of covid-19 transmission in crowded public places](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1701.md)
-* [Reduction of physical activity during quarantine](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1699.md)
-* [Lack of access to regular sporting or exercise routines](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1702.md)
-* [Negative impact of prolonged self-isolation on mental health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1700.md)
-* [Loss of family or friends and economic well-being due to covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1703.md)
-
-## This article points to following mitigation
-
-* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
-* [Lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_427.md)
-* [Regular physical activity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_73.md)
-* [Regular exercise](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4190.md)
-* [Home isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4189.md)
-
-## This article mentions these technologies
-
-* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
-* [Mental health apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_117.md)
-* [Home workout apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1076.md)
-* [Online exercise classes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1073.md)
-* [Online exercise videos](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1077.md)
-* [Mobile fitness applications](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1072.md)
-* [Virtual personal trainers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1074.md)
-* [Virtual support groups](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_223.md)
-* [Mental health services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1078.md)
-* [Teletherapy](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_607.md)
-* [Community outreach programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1080.md)
-* [Occupancy management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_248.md)
-* [Crowd monitoring technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1075.md)
-* [Unemployment benefits systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1079.md)
 

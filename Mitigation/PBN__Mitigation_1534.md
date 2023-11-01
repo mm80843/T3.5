@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Promote equitable and sustainable urban development with adequate housing, improved infrastructure, and increased access to essential services.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_67.md)
+* [Promote equitable and sustainable urban development with adequate housing, improved infrastructure, and increased access to essential services.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_117.md)
 
 ## Closest similar item
 
-* [Establishing building specific hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4719.md)
-* [Provide an adequate number of hand washing stations and sanitizers at multiple locations on construction sites, and require regular hand hygiene practices.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1653.md)
-* [Neighbourhood hygiene maintenance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_754.md)
+* [Enhanced cleaning practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4719.md)
+* [Establishing building specific hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1653.md)
+* [Hand washing station](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_754.md)
 * [Hygienic building materials](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1437.md)
-* [Promote wash interventions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1073.md)
-* [Implement strategies for reduced contact and improved hygiene, provide access to water and sanitation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3048.md)
-* [Enhanced cleaning practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5267.md)
-* [Hand washing station](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4872.md)
-* [Improve access to basic water and sanitation facilities in housing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1786.md)
-* [Installing extra hand washing stations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4776.md)
+* [Implement strategies for reduced contact and improved hygiene, provide access to water and sanitation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1073.md)
+* [Improve access to basic water and sanitation facilities in housing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3048.md)
+* [Installing extra hand washing stations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5267.md)
+* [Neighbourhood hygiene maintenance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4872.md)
+* [Promote wash interventions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1786.md)
+* [Provide an adequate number of hand washing stations and sanitizers at multiple locations on construction sites, and require regular hand hygiene practices.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4776.md)
 
 ## Risks possibly mitigated by this Mitigation
 

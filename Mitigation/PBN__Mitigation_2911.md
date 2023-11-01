@@ -2,26 +2,26 @@
 
 # __Increase access to greenspaces and promote outdoor activity__
 
-## Category to which it belongs
-
-* [Promote equitable access to and utilization of urban green spaces, prioritize biodiversity conservation, and implement sustainable land use practices.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_56.md)
-
-## Closest similar item
-
-* [Promote physical activity in greenspaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_212.md)
-* [Increase availability of greenspaces for physical activity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2914.md)
-* [Increase greenspace availability in deprived areas](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2912.md)
-* [Provide access to outdoor spaces, create opportunities for physical activity and social interaction](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2938.md)
-* [Increase access to private gardens, allocate dedicated time slots for outdoor activities, create temporary green spaces in urban areas](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1767.md)
-* [Increased outdoor spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3242.md)
-* [Provide or improve outdoor spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_455.md)
-* [Increase greenspace availability in low-income neighborhoods](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_210.md)
-* [Increase greenspace access](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5007.md)
-* [Provide access to public parks and green spaces, encourage the development of outdoor spaces in residential areas.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1522.md)
-
 ## Blueprints with this mitigation
 
 * [Acces to green space](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_16.md)
+
+## Category to which it belongs
+
+* [Promote equitable access to and utilization of urban green spaces, prioritize biodiversity conservation, and implement sustainable land use practices.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_106.md)
+
+## Closest similar item
+
+* [Increase access to private gardens, allocate dedicated time slots for outdoor activities, create temporary green spaces in urban areas](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_212.md)
+* [Increase availability of greenspaces for physical activity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2914.md)
+* [Increase greenspace access](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2912.md)
+* [Increase greenspace availability in deprived areas](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2938.md)
+* [Increase greenspace availability in low-income neighborhoods](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1767.md)
+* [Increased outdoor spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3242.md)
+* [Promote physical activity in greenspaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_455.md)
+* [Provide access to outdoor spaces, create opportunities for physical activity and social interaction](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_210.md)
+* [Provide access to public parks and green spaces, encourage the development of outdoor spaces in residential areas.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5007.md)
+* [Provide or improve outdoor spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1522.md)
 
 ## Risks possibly mitigated by this Mitigation
 

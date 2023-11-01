@@ -2,9 +2,28 @@
 
 # __Urban Green Infrastructure and Green Open Spaces: An Issue of Social Fairness in Times of COVID-19 Crisis__
 
+## Benefits listed in this article
+
+* [Enhanced emotional health and well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_416.md)
+* [Improved emotional health and well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_415.md)
+* [Improved social and spatial justice](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_418.md)
+* [Temperature reduction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_417.md)
+
 ## DOI of the article
 
 10.3390/su131910606
+
+## List of risks in an article
+
+* [Lack of outdoor recreation during lockdown](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1943.md)
+* [Limited access to private green spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1942.md)
+* [Unequal distribution of street open spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1946.md)
+* [Uneven distribution of green infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1944.md)
+* [Urban heat island effect and heat waves](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1945.md)
+
+## Referenced by other articles
+
+* [Access and Use of Green Areas during the COVID-19 Pandemic: Green Infrastructure Management in the “New Normal”](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_275.md)
 
 ## Short summary of the article
 
@@ -14,9 +33,30 @@ This study examines the relationship between urban green infrastructure and the 
 
 The coronavirus pandemic has changed life all around the world. The virus spreads when people are close to each other and when they sneeze, cough, or talk. To prevent the spread of the virus, people have to wash their hands, wear face masks, stay away from others, and stay at home if they think they might be sick. During lockdowns, many parks and green spaces were overcrowded because people wanted to get outside. But cities need more green spaces for people to enjoy and to help with problems like climate change and the coronavirus. Green spaces, like parks and trees, can cool down cities and make people feel better. They also help to distribute resources fairly and make sure everyone has access to nature. It's important for cities to have enough green spaces for everyone to enjoy.
 
-## Referenced by other articles
+## This article mentions these technologies
 
-* [Access and Use of Green Areas during the COVID-19 Pandemic: Green Infrastructure Management in the “New Normal”](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_275.md)
+* [Community engagement](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_920.md)
+* [Green facades](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1388.md)
+* [Green roofs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_377.md)
+* [Housing developers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_51.md)
+* [Property developers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1390.md)
+* [Traffic management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1391.md)
+* [Tree planting](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1394.md)
+* [Urban planners](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1392.md)
+* [Urban planning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1389.md)
+* [Urban planning and design tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1393.md)
+
+## This article points to following mitigation
+
+* [Barrier-free accessibility](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4601.md)
+* [Disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Face masks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4051.md)
+* [Frequent hand washing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4603.md)
+* [Green open spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4602.md)
+* [Self-isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_706.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3283.md)
+* [Urban green infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4600.md)
+* [Working from home](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3494.md)
 
 ## Title of the article
 
@@ -25,44 +65,4 @@ Urban Green Infrastructure and Green Open Spaces: An Issue of Social Fairness in
 ## Year of publication
 
 2021
-
-## Benefits listed in this article
-
-* [Improved emotional health and well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_415.md)
-* [Temperature reduction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_416.md)
-* [Improved social and spatial justice](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_417.md)
-* [Enhanced emotional health and well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_418.md)
-
-## List of risks in an article
-
-* [Limited access to private green spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1946.md)
-* [Urban heat island effect and heat waves](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1944.md)
-* [Uneven distribution of green infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1942.md)
-* [Lack of outdoor recreation during lockdown](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1943.md)
-* [Unequal distribution of street open spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1945.md)
-
-## This article points to following mitigation
-
-* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
-* [Urban green infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4602.md)
-* [Disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3283.md)
-* [Frequent hand washing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4600.md)
-* [Barrier-free accessibility](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4603.md)
-* [Self-isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3494.md)
-* [Working from home](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_706.md)
-* [Face masks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4051.md)
-* [Green open spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4601.md)
-
-## This article mentions these technologies
-
-* [Urban planning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_920.md)
-* [Urban planners](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_377.md)
-* [Green roofs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1390.md)
-* [Urban planning and design tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1388.md)
-* [Community engagement](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_51.md)
-* [Housing developers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1394.md)
-* [Green facades](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1391.md)
-* [Tree planting](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1392.md)
-* [Traffic management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1393.md)
-* [Property developers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1389.md)
 

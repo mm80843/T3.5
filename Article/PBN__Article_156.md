@@ -2,9 +2,25 @@
 
 # __Borders and Catastrophe: lessons from COVID-19 for the European Green Deal__
 
+## Benefits listed in this article
+
+* [Enhanced economic support and stability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_776.md)
+* [Improved coordination and response](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_779.md)
+* [Influencing global green transition](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_777.md)
+* [Protection of democratic values and human rights](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_778.md)
+* [Strengthened unity and cooperation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_780.md)
+
 ## DOI of the article
 
 10.30722/anzjes.vol12.iss2.15071
+
+## List of risks in an article
+
+* [Economic disparities among member states](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1572.md)
+* [Fragmented political responses](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1575.md)
+* [Lack of preparedness for pandemics](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1574.md)
+* [Limited eu mandate in public health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1571.md)
+* [Politicization of public health measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1573.md)
 
 ## Short summary of the article
 
@@ -14,6 +30,36 @@ This article examines how the European Union (EU) and its Member States' respons
 
 The European Green Deal (EGD) is a plan by the European Union (EU) to combat climate change and become a carbon-neutral continent by 2050. However, the COVID-19 pandemic has affected the progress of the EGD. The EU's response to COVID-19 has shown that stronger EU-level institutions and coordinated action are needed to deal with crises effectively. The pandemic has also highlighted the importance of public health and economic responses, which can inform future climate action. There are challenges in implementing the EGD, such as funding and disagreements among Member States, but there is still hope for a "green" recovery from the pandemic.
 
+## This article mentions these technologies
+
+* [Economic diversification strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_892.md)
+* [Fact-checking platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_891.md)
+* [Financial assistance programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_889.md)
+* [Improved communication and data sharing platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_885.md)
+* [Improved communication and decision-making tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_886.md)
+* [Improved surveillance and early warning systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_884.md)
+* [Increased production and stockpiling of medical supplies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_893.md)
+* [Public education and awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_890.md)
+* [Standardized protocols and guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_888.md)
+* [Targeted investments](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_894.md)
+* [Targeted messaging](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_887.md)
+
+## This article points to following mitigation
+
+* [Carbon border tax](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3981.md)
+* [Central control of medical countermeasures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3983.md)
+* [Common debt issuance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3982.md)
+* [Creation of resceu stockpile of medical equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3978.md)
+* [Developing sectoral roadmaps for a green recovery](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3971.md)
+* [Financial reforms to enable innovative and socially directed investment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3972.md)
+* [Improved coordination at federal level](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3979.md)
+* [Instituting changes to state aid laws to promote low-carbon strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3975.md)
+* [Just transition fund](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3973.md)
+* [Strengthened carbon tax](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3974.md)
+* [Strengthening the european centre for disease control](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3976.md)
+* [Supporting access to technology and capital goods in global south](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3980.md)
+* [Wealth tax](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3977.md)
+
 ## Title of the article
 
 Borders and Catastrophe: lessons from COVID-19 for the European Green Deal
@@ -21,50 +67,4 @@ Borders and Catastrophe: lessons from COVID-19 for the European Green Deal
 ## Year of publication
 
 2021
-
-## Benefits listed in this article
-
-* [Improved coordination and response](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_776.md)
-* [Strengthened unity and cooperation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_777.md)
-* [Enhanced economic support and stability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_778.md)
-* [Protection of democratic values and human rights](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_779.md)
-* [Influencing global green transition](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_780.md)
-
-## List of risks in an article
-
-* [Lack of preparedness for pandemics](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1572.md)
-* [Limited eu mandate in public health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1571.md)
-* [Politicization of public health measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1574.md)
-* [Economic disparities among member states](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1575.md)
-* [Fragmented political responses](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1573.md)
-
-## This article points to following mitigation
-
-* [Developing sectoral roadmaps for a green recovery](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3981.md)
-* [Strengthened carbon tax](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3976.md)
-* [Creation of resceu stockpile of medical equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3974.md)
-* [Supporting access to technology and capital goods in global south](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3983.md)
-* [Improved coordination at federal level](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3971.md)
-* [Wealth tax](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3977.md)
-* [Central control of medical countermeasures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3972.md)
-* [Financial reforms to enable innovative and socially directed investment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3975.md)
-* [Strengthening the european centre for disease control](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3973.md)
-* [Common debt issuance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3982.md)
-* [Carbon border tax](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3979.md)
-* [Instituting changes to state aid laws to promote low-carbon strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3980.md)
-* [Just transition fund](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3978.md)
-
-## This article mentions these technologies
-
-* [Fact-checking platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_890.md)
-* [Public education and awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_889.md)
-* [Improved communication and decision-making tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_887.md)
-* [Targeted investments](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_893.md)
-* [Financial assistance programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_892.md)
-* [Standardized protocols and guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_888.md)
-* [Improved communication and data sharing platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_884.md)
-* [Improved surveillance and early warning systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_885.md)
-* [Economic diversification strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_894.md)
-* [Increased production and stockpiling of medical supplies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_886.md)
-* [Targeted messaging](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_891.md)
 

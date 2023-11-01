@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The industry of creating and supplying various devices, equipment, and platforms for different sectors and users.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_214.md)
+* [The industry of creating and supplying various devices, equipment, and platforms for different sectors and users.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_264.md)
 
 ## Closest similar item
 
-* [Vaccine manufacturer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1967.md)
-* [Vaccine distributor](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1899.md)
-* [Vaccine distributors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_119.md)
+* [Device manufacturer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1967.md)
+* [Device manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1899.md)
+* [Manufacturer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_119.md)
 * [Manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_34.md)
-* [Manufacturer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1953.md)
-* [Vaccinated individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1289.md)
-* [Medical equipment manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_546.md)
-* [Device manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1431.md)
-* [Device manufacturer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1882.md)
-* [Pharmaceutical companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_124.md)
+* [Medical equipment manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1953.md)
+* [Pharmaceutical companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1289.md)
+* [Vaccinated individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_546.md)
+* [Vaccine distributor](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1431.md)
+* [Vaccine distributors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1882.md)
+* [Vaccine manufacturer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_124.md)
 
 ## Risks that can be mitigated by this stakeholder
 
@@ -29,4 +29,8 @@
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 
+
+## Type of the stakeholder
+
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
 

@@ -4,28 +4,28 @@
 
 ## Category to which it belongs
 
-* [Advanced filtration systems that clean and purify air, water, and remove particles and pathogens efficiently.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_113.md)
+* [Advanced filtration systems that clean and purify air, water, and remove particles and pathogens efficiently.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_163.md)
 
 ## Closest similar item
 
-* [Filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1882.md)
+* [Advanced air filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1882.md)
 * [Air filtration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3148.md)
-* [Membrane filtration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1931.md)
-* [Water filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1843.md)
-* [Mechanical filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3195.md)
-* [Air filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_203.md)
-* [Air filtration technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_308.md)
-* [Air filtration and purification systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_767.md)
-* [Air quality and filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2120.md)
-* [Advanced air filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2113.md)
+* [Air filtration and purification systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1931.md)
+* [Air filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1843.md)
+* [Air filtration technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3195.md)
+* [Air quality and filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_203.md)
+* [Filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_308.md)
+* [Mechanical filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_767.md)
+* [Membrane filtration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2120.md)
+* [Water filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2113.md)
+
+## Risks linked to this technology
+
+* [Wq2](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2181.md)
 
 ## This Technology belongs to this TechGroup
 
 * [Indoor air technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2238.md)
-
-## This technology is mentioned by
-
-* [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_51.md)
 
 ## This Technology belongs to this TechSubgroup
 
@@ -35,7 +35,7 @@
 
 * [Maintenance and/or decontamination of water](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4963.md)
 
-## Risks linked to this technology
+## This technology is mentioned by
 
-* [Wq2](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2181.md)
+* [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_51.md)
 

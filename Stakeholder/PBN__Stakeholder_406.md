@@ -2,27 +2,22 @@
 
 # __Building owners/operators__
 
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Energy efficiency improvement](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1020.md)
-* [System longevity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1021.md)
-
 ## Category to which it belongs
 
-* [Individuals within the built environment, including building designers, architects, construction workers, and building occupants and managers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_208.md)
+* [Individuals within the built environment, including building designers, architects, construction workers, and building occupants and managers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_258.md)
 
 ## Closest similar item
 
-* [Building owners and operators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_523.md)
-* [Building owners/operator](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2045.md)
-* [Building owner and operator](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1917.md)
-* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
-* [Building owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1930.md)
-* [Building operators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_152.md)
-* [Building managers and owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_908.md)
-* [Building owners and managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_522.md)
+* [Building manager and owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_523.md)
+* [Building managers and owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2045.md)
+* [Building operators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1917.md)
+* [Building owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
+* [Building owner and operator](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1930.md)
+* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_152.md)
+* [Building owners and managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_908.md)
+* [Building owners and operators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_522.md)
 * [Building owners/occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_61.md)
-* [Building manager and owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1932.md)
+* [Building owners/operator](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1932.md)
 
 ## Risks that can be mitigated by this stakeholder
 
@@ -30,11 +25,21 @@
 
 ## This Stakeholder belongs to this StakeholderGroup
 
-* [Private sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_57.md)
-* [Housing and property](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2502.md)
+* [Housing and property](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_57.md)
+* [Private sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2502.md)
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1868.md)
 * [Managers/operators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1918.md)
+* [Owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1868.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Energy efficiency improvement](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1020.md)
+* [System longevity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1021.md)
+
+## Type of the stakeholder
+
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_0.md)
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
 

@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Lighting solutions that utilize ultraviolet technology for germicidal purposes, energy efficiency, and control of natural light.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_147.md)
+* [Lighting solutions that utilize ultraviolet technology for germicidal purposes, energy efficiency, and control of natural light.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_197.md)
 
 ## Closest similar item
 
-* [Uv lamps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2583.md)
-* [Uv light fixtures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2751.md)
-* [Germicidal uv lamps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3207.md)
-* [Uv light](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2451.md)
-* [Uvgi lamps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2500.md)
-* [Ultraviolet light](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3769.md)
+* [254 nm uv lamps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2583.md)
+* [Germicidal uv lamps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2751.md)
+* [Ultraviolet light](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3207.md)
+* [Uv lamps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2451.md)
+* [Uv light](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2500.md)
+* [Uv light fixtures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3769.md)
 * [Uv light systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_880.md)
-* [Uv-c germicidal lamps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1005.md)
-* [Uv-c emitters or lamps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3758.md)
-* [254 nm uv lamps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3759.md)
+* [Uv-c emitters or lamps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1005.md)
+* [Uv-c germicidal lamps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3758.md)
+* [Uvgi lamps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3759.md)
 
 ## This Technology enables the following mitigations
 

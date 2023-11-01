@@ -4,19 +4,19 @@
 
 ## Category to which it belongs
 
-* [The intersection of urbanization, inefficient energy usage, and climate change poses significant challenges to thermal comfort, energy consumption, and environmental sustainability.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_38.md)
+* [The intersection of urbanization, inefficient energy usage, and climate change poses significant challenges to thermal comfort, energy consumption, and environmental sustainability.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_88.md)
 
 ## Closest similar item
 
 * [Carbon emissions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_149.md)
-* [Decreased carbon emissions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1247.md)
-* [Greenhouse gas emissions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2386.md)
-* [Ozone emissions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2971.md)
-* [Inadequate implementation of environmental adjustments](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1504.md)
-* [Environmental impacts, lack of awareness](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2780.md)
-* [Lack of proper environmental controls](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1135.md)
-* [Challenges in promoting low-carbon policies in member states](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2815.md)
-* [Insufficient funding for climate action](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3262.md)
+* [Challenges in promoting low-carbon policies in member states](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1247.md)
+* [Decreased carbon emissions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2386.md)
+* [Environmental impacts, lack of awareness](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2971.md)
+* [Greenhouse gas emissions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1504.md)
+* [Inadequate implementation of environmental adjustments](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2780.md)
+* [Insufficient funding for climate action](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1135.md)
+* [Lack of proper environmental controls](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2815.md)
+* [Ozone emissions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3262.md)
 * [Transport-related greenhouse gas emissions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1213.md)
 
 ## Mitigations of this risk

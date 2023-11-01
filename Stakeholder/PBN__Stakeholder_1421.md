@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [A collective of individuals and groups who contribute to and support the well-being of a community.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_220.md)
+* [A collective of individuals and groups who contribute to and support the well-being of a community.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_270.md)
 
 ## Closest similar item
 
-* [Community support service](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2406.md)
-* [Community support networks/services](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2407.md)
-* [Community support network](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2424.md)
-* [Community support networks](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1264.md)
-* [Support organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_789.md)
-* [Social services](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1819.md)
-* [Support organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2403.md)
-* [Community organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_150.md)
-* [Community](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_313.md)
-* [Community association](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2420.md)
+* [Community](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2406.md)
+* [Community association](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2407.md)
+* [Community organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2424.md)
+* [Community support network](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1264.md)
+* [Community support networks](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_789.md)
+* [Community support networks/services](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1819.md)
+* [Community support service](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2403.md)
+* [Social services](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_150.md)
+* [Support organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_313.md)
+* [Support organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2420.md)
 
 ## Risks that can be mitigated by this stakeholder
 
@@ -30,4 +30,8 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Community support networks/services](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2407.md)
+
+## Type of the stakeholder
+
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
 

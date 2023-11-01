@@ -2,11 +2,11 @@
 
 # __Information management__
 
+## Category to which it belongs
+
+* [Effective organization and control of data to facilitate efficient access and utilization.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_329.md)
+
 ## Property: has_BP_ThemeTitle
 
 theme_Information_management
-
-## Category to which it belongs
-
-* [Effective organization and control of data to facilitate efficient access and utilization.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_279.md)
 

@@ -4,25 +4,25 @@
 
 ## Category to which it belongs
 
-* [Entities involved in the buying, selling, development, and management of property and housing.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_207.md)
+* [Entities involved in the buying, selling, development, and management of property and housing.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_257.md)
 
 ## Closest similar item
 
-* [Housing industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1958.md)
-* [Real estate sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1862.md)
-* [Housing agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_587.md)
-* [Housing organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1947.md)
-* [Housing agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1950.md)
-* [Housing organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_707.md)
-* [Housing associations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1968.md)
-* [Housing providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1884.md)
-* [Government housing agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_608.md)
-* [Housing association](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2050.md)
+* [Government housing agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1958.md)
+* [Housing agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1862.md)
+* [Housing agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_587.md)
+* [Housing association](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1947.md)
+* [Housing associations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1950.md)
+* [Housing industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_707.md)
+* [Housing organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1968.md)
+* [Housing organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1884.md)
+* [Housing providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_608.md)
+* [Real estate sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2050.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
-* [Private sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_57.md)
-* [Housing and property](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2502.md)
+* [Housing and property](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_57.md)
+* [Private sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2502.md)
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 

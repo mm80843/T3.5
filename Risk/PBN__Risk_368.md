@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Wastewater acts as a carrier and data source for undetected transmission and decay of sars-cov-2.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_47.md)
+* [Wastewater acts as a carrier and data source for undetected transmission and decay of sars-cov-2.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_97.md)
 
 ## Closest similar item
 
-* [Transmission of sars-cov-2 through sewage](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_222.md)
-* [Spread of sars-cov-2 through wastewater](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_289.md)
-* [Sars-cov-2 in wastewater](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1646.md)
-* [Undetected sars-cov-2 in wastewater](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1050.md)
-* [Spread of sars-cov-2 in wastewater](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1611.md)
-* [Detection of sars-cov-2 in wastewater](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1434.md)
-* [Detection of sars-cov-2 in wastewater as a data source](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_291.md)
-* [Decay of sars-cov-2 in wastewater](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1438.md)
-* [Spread of sars-cov-2 through sewage](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1.md)
-* [Ineffectiveness of conventional wastewater treatment processes in removing sars-cov-2](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2315.md)
+* [Decay of sars-cov-2 in wastewater](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_222.md)
+* [Detection of sars-cov-2 in wastewater](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_289.md)
+* [Detection of sars-cov-2 in wastewater as a data source](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1646.md)
+* [Ineffectiveness of conventional wastewater treatment processes in removing sars-cov-2](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1050.md)
+* [Sars-cov-2 in wastewater](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1611.md)
+* [Spread of sars-cov-2 in wastewater](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1434.md)
+* [Spread of sars-cov-2 through sewage](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_291.md)
+* [Spread of sars-cov-2 through wastewater](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1438.md)
+* [Transmission of sars-cov-2 through sewage](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1.md)
+* [Undetected sars-cov-2 in wastewater](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2315.md)
 
 ## Mitigations of this risk
 

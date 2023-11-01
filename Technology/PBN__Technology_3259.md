@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Enforcement, regulation, and policy measures are implemented to ensure compliance, ethical standards, and effective governance.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_137.md)
+* [Enforcement, regulation, and policy measures are implemented to ensure compliance, ethical standards, and effective governance.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_187.md)
 
 ## Closest similar item
 
-* [Public communication channels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2729.md)
+* [Communication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2729.md)
 * [Communication channels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_566.md)
-* [Telecommunication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2323.md)
-* [Public communication campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2004.md)
-* [Communication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2850.md)
+* [Communication systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2323.md)
+* [Communication technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2004.md)
+* [Communication technologies and channels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2850.md)
 * [Communication technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_544.md)
 * [Digital communication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_814.md)
-* [Communication technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_5.md)
-* [Communication technologies and channels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2066.md)
-* [Communication systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1055.md)
+* [Public communication campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_5.md)
+* [Public communication channels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2066.md)
+* [Telecommunication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1055.md)
 
 ## This Technology enables the following mitigations
 

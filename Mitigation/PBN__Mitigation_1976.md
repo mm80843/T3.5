@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Promote and enforce rigorous hygiene practices, ensure proper sanitation infrastructure, and implement strict cleaning and disinfection protocols.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_73.md)
+* [Promote and enforce rigorous hygiene practices, ensure proper sanitation infrastructure, and implement strict cleaning and disinfection protocols.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_123.md)
 
 ## Closest similar item
 
-* [Strict implementation of hygiene measures, such as mask-wearing, hand sanitizing, and regular cleaning of vehicles](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2531.md)
-* [Implementation of hygiene protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_164.md)
+* [Hygiene compliance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2531.md)
+* [Hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_164.md)
 * [Implement hygiene measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_571.md)
-* [Hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_985.md)
-* [Implementing and enforcing comprehensive hygiene and cleanliness protocols, including regular cleaning and disinfection, hand hygiene stations, and proper waste disposal.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2676.md)
-* [Implement strict hygiene protocols, provide personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2458.md)
+* [Implement strict hygiene protocols, provide personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_985.md)
+* [Implementation of hygiene protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2676.md)
+* [Implementing and enforcing comprehensive hygiene and cleanliness protocols, including regular cleaning and disinfection, hand hygiene stations, and proper waste disposal.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2458.md)
 * [Improved sanitation and cleaning protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_529.md)
 * [Investing in hygiene and cleaning protocols for shared mobility services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1259.md)
 * [Neighbourhood hygiene maintenance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_754.md)
-* [Hygiene compliance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3016.md)
+* [Strict implementation of hygiene measures, such as mask-wearing, hand sanitizing, and regular cleaning of vehicles](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3016.md)
 
 ## Risks possibly mitigated by this Mitigation
 

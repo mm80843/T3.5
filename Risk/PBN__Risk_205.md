@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Efficient transmission of viruses, personal comfort, and access to local services are the common themes in this list.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_42.md)
+* [Efficient transmission of viruses, personal comfort, and access to local services are the common themes in this list.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_92.md)
 
 ## Closest similar item
 
-* [Lc2: local services](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_206.md)
-* [Limited access to services](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3376.md)
-* [Limited access to essential services](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1107.md)
-* [Essential services maintenance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_995.md)
-* [Maintenance of essential services](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2311.md)
-* [Eu1](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2185.md)
-* [Facilitating essential services](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2526.md)
-* [Ls1](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2197.md)
-* [Flexible public places to support essential sectors](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_268.md)
-* [High cost, limited infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2944.md)
+* [Essential services maintenance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_206.md)
+* [Eu1](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3376.md)
+* [Facilitating essential services](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1107.md)
+* [Flexible public places to support essential sectors](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_995.md)
+* [High cost, limited infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2311.md)
+* [Lc2: local services](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2185.md)
+* [Limited access to essential services](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2526.md)
+* [Limited access to services](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2197.md)
+* [Ls1](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_268.md)
+* [Maintenance of essential services](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2944.md)
 
 ## Mitigations of this risk
 

@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Indoor living challenges include limited self-sufficiency, reliance on artificial elements, poor lighting, and environmental variations.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_35.md)
+* [Indoor living challenges include limited self-sufficiency, reliance on artificial elements, poor lighting, and environmental variations.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_85.md)
 
 ## Closest similar item
 
-* [Poor lighting conditions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2227.md)
-* [Inadequate natural lighting](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1445.md)
-* [Overreliance on artificial lighting and ventilation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_112.md)
-* [Inadequate lighting](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1116.md)
-* [Poor lighting](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_127.md)
-* [Insufficient lighting and thermal comfort](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_953.md)
-* [Inadequate natural light](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1087.md)
-* [Inadequate ventilation and lighting](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1296.md)
-* [Lack of natural light](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1786.md)
-* [Poor lighting and glare](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1117.md)
+* [Inadequate lighting](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2227.md)
+* [Inadequate natural light](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1445.md)
+* [Inadequate natural lighting](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_112.md)
+* [Inadequate ventilation and lighting](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1116.md)
+* [Insufficient lighting and thermal comfort](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_127.md)
+* [Lack of natural light](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_953.md)
+* [Overreliance on artificial lighting and ventilation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1087.md)
+* [Poor lighting](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1296.md)
+* [Poor lighting and glare](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1786.md)
+* [Poor lighting conditions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1117.md)
 
 ## Mitigations of this risk
 

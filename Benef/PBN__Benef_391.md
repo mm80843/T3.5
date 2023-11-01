@@ -2,23 +2,27 @@
 
 # __Improved access to patients__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Patient monitoring systems and door-lock devices facilitate access to patients in AIIRs, improving patient care and monitoring.
+* [Rapid expansion of temporary, reliable airborne-infection isolation rooms with negative air machines for critical COVID-19 patients](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_77.md)
+
+## Category to which it belongs
+
+* [Enhanced availability and ease of reaching essential resources, services, and information for all.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_29.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Investing in these systems can improve workflow efficiency, enhance patient care, and potentially attract highly skilled medical personnel.](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_420.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [Rapid expansion of temporary, reliable airborne-infection isolation rooms with negative air machines for critical COVID-19 patients](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_77.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [Medical personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_184.md)
+Patient monitoring systems and door-lock devices facilitate access to patients in AIIRs, improving patient care and monitoring.
 
 ## Risks which can benefit from this action
 
 * [Patient monitoring system and door-lock device](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_395.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [Medical personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_184.md)
 

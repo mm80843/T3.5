@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Various measures such as wearable devices, protective clothing, and physical distancing markers promote safety and protection.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_127.md)
+* [Various measures such as wearable devices, protective clothing, and physical distancing markers promote safety and protection.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_177.md)
 
 ## Closest similar item
 
-* [Transparency](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1925.md)
-* [Uniform color](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3610.md)
-* [Natural lighting](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2655.md)
-* [Noise level difference compared to background](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1780.md)
+* [Daylighting](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1925.md)
+* [Face orientation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3610.md)
+* [Green facades](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2655.md)
+* [Green walls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1780.md)
 * [Lighting](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3665.md)
-* [Green walls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1008.md)
-* [Daylighting](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3309.md)
-* [Green facades](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1391.md)
-* [Natural light](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2427.md)
-* [Face orientation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3418.md)
+* [Natural light](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1008.md)
+* [Natural lighting](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3309.md)
+* [Noise level difference compared to background](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1391.md)
+* [Transparency](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2427.md)
+* [Uniform color](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3418.md)
 
 ## This Technology enables the following mitigations
 

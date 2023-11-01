@@ -1,49 +1,12 @@
 [Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_219 
 
-# __The populace of cities, including residents, professionals, officials, and decision-makers involved in urban planning and design.__
+# __Maintaining physical distance to prevent the spread of disease.__
 
 ## Items covered in this category
 
-* [Urban researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_943.md)
-* [Urban designers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_380.md)
-* [Urban planners and designers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1225.md)
-* [Urban wildlife](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_887.md)
-* [Urban dwellers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_26.md)
-* [City dwellers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_770.md)
-* [Especially urban dwellers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1034.md)
-* [Urban dweller](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2453.md)
-* [Urban planners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_125.md)
-* [Smart city professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_594.md)
-* [High-density urban area](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1869.md)
-* [Urban citizenry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_200.md)
-* [Urban and periurban areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_279.md)
-* [Urban areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_591.md)
-* [Commercial areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1295.md)
-* [City officials](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_724.md)
-* [Urban planning agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_550.md)
-* [Urban planning authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1068.md)
-* [Urban planning entities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1596.md)
-* [City planners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_750.md)
-* [Urban planner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1615.md)
-* [City planner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1608.md)
-* [Planners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_622.md)
-* [Urban planning authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1611.md)
-* [Urban planning department](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1600.md)
-* [Urban planning departments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_775.md)
-* [Urban poor](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_170.md)
-* [Urban](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1522.md)
-* [Local decision-makers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_470.md)
-* [Cities and urban areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_414.md)
-* [High-density urban areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1267.md)
-* [Urban planning and architectural institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_308.md)
-* [Local and national](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_331.md)
-* [City councils](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_798.md)
-* [Urban systems](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_597.md)
-* [Urban planning agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1622.md)
-* [Smart city professional](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2021.md)
-* [City official](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1601.md)
-* [City dweller](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1606.md)
-* [City council](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1612.md)
-* [Newcastle urban observatory](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_988.md)
-* [Especially urban dweller](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2151.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_20.md)
+
+## Title of the category
+
+This category of Interventions describes measures taken to promote physical distancing between individuals in order to reduce the spread of contagious diseases. Social distancing involves maintaining a certain distance, typically 6 feet or 2 meters, from others in public spaces such as work areas, shops, restaurants, and public transportation. This practice aims to minimize close contact and potential exposure to respiratory droplets that may carry infectious pathogens. It includes actions such as avoiding crowded places, gatherings, or events where maintaining distance is challenging, as well as limiting physical contact such as handshakes and hugs.
 

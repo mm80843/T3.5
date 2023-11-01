@@ -4,7 +4,7 @@
 
 ## This return can be realized by these benefits
 
+* [Reduction in droplet transmission risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_847.md)
+* [Reduction in fomite transmission risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_848.md)
 * [Reduction in infection risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_184.md)
-* [Reduction in fomite transmission risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_847.md)
-* [Reduction in droplet transmission risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_848.md)
 

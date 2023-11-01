@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Individuals from various sectors, including informal and formal economies, facing economic hardship and job loss.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_236.md)
+* [Individuals from various sectors, including informal and formal economies, facing economic hardship and job loss.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_286.md)
 
 ## Closest similar item
 
-* [Worker in the technology sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1771.md)
-* [Workers in the manufacturing sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1691.md)
-* [Worker in the manufacturing sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1790.md)
-* [Service industry workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1693.md)
-* [Workers in the service industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1705.md)
-* [Technology sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1872.md)
-* [Workers in essential industries](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1655.md)
-* [Essential sector workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_154.md)
-* [Construction industry workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_825.md)
-* [Workers in affected sectors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1470.md)
+* [Construction industry workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1771.md)
+* [Essential sector workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1691.md)
+* [Service industry workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1790.md)
+* [Technology sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1693.md)
+* [Worker in the manufacturing sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1705.md)
+* [Worker in the technology sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1872.md)
+* [Workers in affected sectors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1655.md)
+* [Workers in essential industries](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_154.md)
+* [Workers in the manufacturing sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_825.md)
+* [Workers in the service industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1470.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

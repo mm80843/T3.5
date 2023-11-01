@@ -1,8 +1,65 @@
 [Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_256 
 
-# __Virtual healthcare services for remote medical consultations and diagnoses without in-person interaction.__
+# __The wide-ranging sectors and industries, from the private sector to energy and manufacturing, that drive global economies and the interconnectedness of businesses and industries worldwide.__
 
 ## Items covered in this category
 
-* [Telemedecine](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_17.md)
+* [All economic actors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_892.md)
+* [And global economies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2375.md)
+* [Automobile industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2368.md)
+* [Building industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_144.md)
+* [Busine and industry with localized supply chain](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_86.md)
+* [Busines and industry with localized supply chain](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_57.md)
+* [Business and industry with localized supply chain](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2049.md)
+* [Businesses and industries with localized supply chains](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1863.md)
+* [Clean energy sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1661.md)
+* [Countries and industries reliant on gvcs for foreign inputs and exports](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_290.md)
+* [Countries facing food insecurities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_299.md)
+* [Countries heavily reliant on specific suppliers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1872.md)
+* [Countries participating in gvcs](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1108.md)
+* [Country and industry reliant on gvc for foreign input and export](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_629.md)
+* [Country facing food insecurity](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2243.md)
+* [Country heavily reliant on specific supplier](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2048.md)
+* [Country participating in gvc](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1243.md)
+* [Critical infrastructure operators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1875.md)
+* [Economic and social status](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2032.md)
+* [Economic and trade entities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_764.md)
+* [Economic policymaker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_389.md)
+* [Economic policymakers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1239.md)
+* [Electric utilities and grid operators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2003.md)
+* [Energy firms](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1975.md)
+* [Energy industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2373.md)
+* [Energy sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_24.md)
+* [Essential sector workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_852.md)
+* [Fitness industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_362.md)
+* [Food industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1240.md)
+* [Gaming industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2367.md)
+* [Global economic and financial systems](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1241.md)
+* [Global market](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2382.md)
+* [Global markets](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1338.md)
+* [Industries](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1211.md)
+* [Industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_241.md)
+* [Industry association](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1141.md)
+* [Industry associations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_253.md)
+* [Infrastructure sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1210.md)
+* [It sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1412.md)
+* [Manufacturing and industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1581.md)
+* [Manufacturing industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_256.md)
+* [National and international vector control programs](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2543.md)
+* [National economies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_273.md)
+* [Pharmaceutical industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1389.md)
+* [Private businesses and economy](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_154.md)
+* [Private sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_471.md)
+* [Renewable energy industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_237.md)
+* [Resource poor regions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1253.md)
+* [Sector/industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_160.md)
+* [Sectors and industries](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1005.md)
+* [Small businesses and self-employed individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1222.md)
+* [Sport industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1949.md)
+* [Sports industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1219.md)
+* [Technology sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2391.md)
+
+## Title of the category
+
+This category of Stakeholders describes a wide range of individuals and organizations involved in various aspects of the economy, industry, and infrastructure. It includes economic policymakers at national and global levels, private businesses and industries, sector/industry associations, energy firms, technology sector, manufacturing and pharmaceutical industries, critical infrastructure operators, and small businesses and self-employed individuals. It also encompasses countries and industries heavily reliant on global value chains (GVC) for foreign inputs and exports, as well as countries facing food insecurities. Additionally, it includes players in sectors such as renewable energy, clean energy, automotive, electric utilities, gaming, sports, and fitness. Overall, these stakeholders play crucial roles in shaping and functioning of the economic, industrial, and infrastructure landscape at various levels - national, regional, and global.
 

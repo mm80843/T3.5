@@ -2,42 +2,34 @@
 
 # __Transmission rebound after easing interventions__
 
+## Articles mentionning the risk
+
+* [The impact of COVID-19 and strategies for mitigation and suppression in low- and middle-income countries](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_65.md)
+
 ## Category to which it belongs
 
-* [The spread of disease through direct and indirect contact in various environments and social settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_32.md)
+* [The spread of disease through direct and indirect contact in various environments and social settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_82.md)
 
 ## Closest similar item
 
-* [Rebound in transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1380.md)
-* [Impact of interventions on transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_589.md)
-* [Transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_974.md)
-* [Risk of resurgence and rebound](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_742.md)
-* [High rates of transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2606.md)
+* [Disruption of transport operations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1380.md)
+* [High rates of transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_589.md)
+* [Impact of interventions on transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_974.md)
+* [Limited flexibility in adjusting to shocks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_742.md)
+* [Rebound in transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2606.md)
 * [Risk of rebound and resurgence](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1302.md)
-* [Limited flexibility in adjusting to shocks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1822.md)
-* [Transmission, economy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2639.md)
-* [Travel-related transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1034.md)
-* [Disruption of transport operations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_927.md)
+* [Risk of resurgence and rebound](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1822.md)
+* [Transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2639.md)
+* [Transmission, economy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1034.md)
+* [Travel-related transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_927.md)
 
 ## Description of the risk
 
 Resurgence in transmission after relaxation of preventive measures
 
-## Type of the risk
-
-* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Is the risk affecting GBN scales
 
 * [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
-
-## Type of impact of the risk (according to ISO37100)
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
-
-## Type of purpose of the risk (according to ISO37100)
-
-* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
 
 ## Mitigations of this risk
 
@@ -47,23 +39,31 @@ Resurgence in transmission after relaxation of preventive measures
 
 Second wave of infections, increased cases and deaths
 
-## Stakeholders who can mitigate this risk
-
-* [Public health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_222.md)
-* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
-
-## Articles mentionning the risk
-
-* [The impact of COVID-19 and strategies for mitigation and suppression in low- and middle-income countries](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_65.md)
-
 ## People affected by this risk
 
 * [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
+
+## Stakeholders who can mitigate this risk
+
+* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_222.md)
+* [Public health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
 
 ## Technologies linked to the risk
 
 * [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_402.md)
 * [Disease surveillance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1884.md)
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
+
+## Type of the risk
+
+* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 

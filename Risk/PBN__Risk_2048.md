@@ -2,42 +2,34 @@
 
 # __Privacy and surveillance concerns__
 
+## Articles mentionning the risk
+
+* [Towards the sustainable development of smart cities through mass video surveillance: A response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_117.md)
+
 ## Category to which it belongs
 
-* [Risks to personal information, confidentiality, ethical issues, surveillance, and the need for data protection.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_17.md)
+* [Risks to personal information, confidentiality, ethical issues, surveillance, and the need for data protection.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_67.md)
 
 ## Closest similar item
 
-* [Privacy concerns and surveillance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_582.md)
-* [Surveillance and privacy concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_877.md)
-* [Privacy concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_47.md)
-* [Privacy and security concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_25.md)
-* [Security and privacy concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2059.md)
-* [Privacy, ethics, and legal concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2568.md)
-* [Surveillance and personal data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2308.md)
-* [Privacy protection issues](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2069.md)
-* [Privacy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1096.md)
-* [Privacy and data security concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2041.md)
+* [Privacy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_582.md)
+* [Privacy and data security concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_877.md)
+* [Privacy and security concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_47.md)
+* [Privacy concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_25.md)
+* [Privacy concerns and surveillance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2059.md)
+* [Privacy protection issues](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2568.md)
+* [Privacy, ethics, and legal concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2308.md)
+* [Security and privacy concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2069.md)
+* [Surveillance and personal data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1096.md)
+* [Surveillance and privacy concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2041.md)
 
 ## Description of the risk
 
 Concerns regarding privacy and surveillance arising from the use of surveillance cameras and monitoring systems.
 
-## Type of the risk
-
-* [Other](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_2.md)
-
 ## Is the risk affecting GBN scales
 
 * [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
-
-## Type of impact of the risk (according to ISO37100)
-
-* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_4.md)
-
-## Type of purpose of the risk (according to ISO37100)
-
-* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_1.md)
 
 ## Mitigations of this risk
 
@@ -47,23 +39,31 @@ Concerns regarding privacy and surveillance arising from the use of surveillance
 
 Infringement on individual privacy, increased surveillance.
 
+## People affected by this risk
+
+* [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_29.md)
+
 ## Stakeholders who can mitigate this risk
 
 * [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
 * [Technology companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_717.md)
 
-## Articles mentionning the risk
-
-* [Towards the sustainable development of smart cities through mass video surveillance: A response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_117.md)
-
-## People affected by this risk
-
-* [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_29.md)
-
 ## Technologies linked to the risk
 
-* [Data encryption](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_344.md)
-* [Anonymization techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1380.md)
+* [Anonymization techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_344.md)
+* [Data encryption](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1380.md)
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_4.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_1.md)
+
+## Type of the risk
+
+* [Other](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_2.md)
 
 ## Property: has_RiskType
 

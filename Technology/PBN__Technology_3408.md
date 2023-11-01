@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Improved and diversified communication channels through digital integration, telecommunication technology, and network infrastructure.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_105.md)
+* [Improved and diversified communication channels through digital integration, telecommunication technology, and network infrastructure.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_155.md)
 
 ## Closest similar item
 
-* [Telecommuting and collaboration tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1451.md)
-* [Telecommunication technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2456.md)
+* [Communication technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1451.md)
+* [Telecommunication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2456.md)
 * [Telecommunication technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3457.md)
-* [Telecommunication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2323.md)
-* [Telehealth technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1650.md)
-* [Communication technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_544.md)
-* [Telephone network](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2754.md)
-* [Telecommunication technology internet](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3178.md)
-* [Teleconferencing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_386.md)
-* [Telecommunication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_242.md)
+* [Telecommunication technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2323.md)
+* [Telecommunication technology internet](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1650.md)
+* [Telecommunication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_544.md)
+* [Telecommuting and collaboration tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2754.md)
+* [Teleconferencing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3178.md)
+* [Telehealth technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_386.md)
+* [Telephone network](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_242.md)
 
 ## This Technology enables the following mitigations
 

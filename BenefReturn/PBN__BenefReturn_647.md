@@ -4,7 +4,7 @@
 
 ## This return can be realized by these benefits
 
-* [Infection prevention](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_594.md)
-* [Long-term protection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_595.md)
-* [Effective treatment](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_596.md)
+* [Effective treatment](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_594.md)
+* [Infection prevention](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_595.md)
+* [Long-term protection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_596.md)
 

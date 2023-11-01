@@ -4,19 +4,19 @@
 
 ## Category to which it belongs
 
-* [The prevalence and impact of inaccurate, uncertain, and biased data pose significant challenges in decision-making and effective response to the covid-19 pandemic.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_34.md)
+* [The prevalence and impact of inaccurate, uncertain, and biased data pose significant challenges in decision-making and effective response to the covid-19 pandemic.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_84.md)
 
 ## Closest similar item
 
-* [Lack of proper ppe usage and availability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1503.md)
-* [Shortage of ppe](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_924.md)
-* [Inadequate personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1276.md)
+* [Inadequate compliance monitoring](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1503.md)
+* [Inadequate personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_924.md)
+* [Insufficient behavior and adherence to guidelines](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1276.md)
 * [Lack of personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1490.md)
-* [Shortage of personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1485.md)
-* [Inadequate compliance monitoring](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1713.md)
+* [Lack of proper ppe usage and availability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1485.md)
+* [Non-compliance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1713.md)
 * [Non-compliance with guidelines and protocols](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1688.md)
-* [Insufficient behavior and adherence to guidelines](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1136.md)
-* [Non-compliance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2628.md)
+* [Shortage of personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1136.md)
+* [Shortage of ppe](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2628.md)
 * [Shortages of personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2368.md)
 
 ## Mitigations of this risk

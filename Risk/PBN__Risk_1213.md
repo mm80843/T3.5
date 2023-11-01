@@ -2,42 +2,34 @@
 
 # __Transport-related greenhouse gas emissions__
 
+## Articles mentionning the risk
+
+* [Responsible Transport: A post-COVID agenda for transport policy and practice](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_148.md)
+
 ## Category to which it belongs
 
-* [The intersection of urbanization, inefficient energy usage, and climate change poses significant challenges to thermal comfort, energy consumption, and environmental sustainability.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_38.md)
+* [The intersection of urbanization, inefficient energy usage, and climate change poses significant challenges to thermal comfort, energy consumption, and environmental sustainability.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_88.md)
 
 ## Closest similar item
 
-* [Greenhouse gas emissions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2386.md)
-* [Carbon emissions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_149.md)
-* [Disruption of transport operations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_927.md)
-* [Higher dependency on public transport](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3057.md)
-* [Travel and transportation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2005.md)
-* [Decline in public transport usage](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_406.md)
-* [Travel-related transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1034.md)
-* [Reduced demand for public transport](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1908.md)
-* [Spread through air travel](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1430.md)
-* [Decreased carbon emissions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1247.md)
+* [Carbon emissions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2386.md)
+* [Decline in public transport usage](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_149.md)
+* [Decreased carbon emissions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_927.md)
+* [Disruption of transport operations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3057.md)
+* [Greenhouse gas emissions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2005.md)
+* [Higher dependency on public transport](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_406.md)
+* [Reduced demand for public transport](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1034.md)
+* [Spread through air travel](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1908.md)
+* [Travel and transportation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1430.md)
+* [Travel-related transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1247.md)
 
 ## Description of the risk
 
 High emissions from transportation, contributing to climate change and air pollution
 
-## Type of the risk
-
-* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Is the risk affecting GBN scales
 
 * [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
-
-## Type of impact of the risk (according to ISO37100)
-
-* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_8.md)
-
-## Type of purpose of the risk (according to ISO37100)
-
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_4.md)
 
 ## Mitigations of this risk
 
@@ -47,25 +39,33 @@ High emissions from transportation, contributing to climate change and air pollu
 
 Worsening of air quality, environmental degradation, and health impacts
 
-## Stakeholders who can mitigate this risk
-
-* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
-* [Vehicle manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_735.md)
-* [Transportation agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_732.md)
-
-## Articles mentionning the risk
-
-* [Responsible Transport: A post-COVID agenda for transport policy and practice](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_148.md)
-
 ## People affected by this risk
 
 * [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_29.md)
 * [Vulnerable populations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_127.md)
 
+## Stakeholders who can mitigate this risk
+
+* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
+* [Transportation agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_735.md)
+* [Vehicle manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_732.md)
+
 ## Technologies linked to the risk
 
-* [Develop electric vehicle charging infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_306.md)
-* [Implement emission monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_307.md)
+* [Develop electric vehicle charging infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_307.md)
+* [Implement emission monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_306.md)
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_8.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_4.md)
+
+## Type of the risk
+
+* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 

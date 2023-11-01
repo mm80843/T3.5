@@ -2,46 +2,38 @@
 
 # __Temperature impact on virus detectability in wastewater__
 
-## Category to which it belongs
+## Articles mentionning the risk
 
-* [Standardizing coronavirus knowledge, the respiratory virus spreads through the built environment, work, touch, aerosols, and contaminated surfaces.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_23.md)
-
-## Closest similar item
-
-* [Presence of other coronaviruses in wastewater](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2314.md)
-* [Effect of humidity on virus viability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1693.md)
-* [Lack of specific biomarkers for covid-19 detection in wastewater](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1147.md)
-* [Lack of knowledge on the infectivity of wastewater-borne genetic material](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2316.md)
-* [Transmission of covid-19 through wastewater](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1789.md)
-* [Virus exposure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2487.md)
-* [Spread of covid-19 through wastewater](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_576.md)
-* [Risk of inadequate wastewater management during pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_365.md)
-* [Seasonal changes in wastewater temperature](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1436.md)
-* [Exposure to virus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3094.md)
+* [Computational analysis of SARS-CoV-2/COVID-19 surveillance by wastewater-based epidemiology locally and globally: Feasibility, economy, opportunities and challenges](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_252.md)
 
 ## Blueprints with this risk
 
 * [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_17.md)
 
+## Category to which it belongs
+
+* [Standardizing coronavirus knowledge, the respiratory virus spreads through the built environment, work, touch, aerosols, and contaminated surfaces.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_73.md)
+
+## Closest similar item
+
+* [Effect of humidity on virus viability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2314.md)
+* [Exposure to virus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1693.md)
+* [Lack of knowledge on the infectivity of wastewater-borne genetic material](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1147.md)
+* [Lack of specific biomarkers for covid-19 detection in wastewater](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2316.md)
+* [Presence of other coronaviruses in wastewater](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1789.md)
+* [Risk of inadequate wastewater management during pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2487.md)
+* [Seasonal changes in wastewater temperature](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_576.md)
+* [Spread of covid-19 through wastewater](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_365.md)
+* [Transmission of covid-19 through wastewater](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1436.md)
+* [Virus exposure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3094.md)
+
 ## Description of the risk
 
 The temperature of wastewater affects the detectability of the SARS-CoV-2 virus in wastewater samples, leading to potential underestimation or overestimation of the virus prevalence.
 
-## Type of the risk
-
-* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Is the risk affecting GBN scales
 
 * [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
-
-## Type of impact of the risk (according to ISO37100)
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
-
-## Type of purpose of the risk (according to ISO37100)
-
-* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_1.md)
 
 ## Mitigations of this risk
 
@@ -51,22 +43,30 @@ The temperature of wastewater affects the detectability of the SARS-CoV-2 virus 
 
 May result in misjudgment of the public health status and ineffective implementation of infectious disease control interventions.
 
+## People affected by this risk
+
+* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
+
 ## Stakeholders who can mitigate this risk
 
 * [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
 * [Wastewater testing laboratories](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_936.md)
 
-## Articles mentionning the risk
-
-* [Computational analysis of SARS-CoV-2/COVID-19 surveillance by wastewater-based epidemiology locally and globally: Feasibility, economy, opportunities and challenges](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_252.md)
-
-## People affected by this risk
-
-* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
-
 ## Technologies linked to the risk
 
 * [Temperature adjustments in data analysis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_704.md)
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_1.md)
+
+## Type of the risk
+
+* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 

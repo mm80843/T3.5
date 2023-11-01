@@ -4,20 +4,24 @@
 
 ## Category to which it belongs
 
-* [A diverse range of individuals and groups involved in various fields, research, projects, media, teams, and organizations.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_191.md)
+* [A diverse range of individuals and groups involved in various fields, research, projects, media, teams, and organizations.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_241.md)
 
 ## Closest similar item
 
-* [Contact tracing team](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1830.md)
-* [Contact tracing personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1149.md)
-* [Contact tracing entities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1822.md)
-* [Contact tracing agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1821.md)
-* [Contact tracing agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1150.md)
-* [Contact tracers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_963.md)
-* [Contact tracer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2468.md)
-* [Communication team](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_967.md)
+* [Communication team](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1830.md)
+* [Contact tracer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1149.md)
+* [Contact tracers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1822.md)
+* [Contact tracing agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1821.md)
+* [Contact tracing agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1150.md)
+* [Contact tracing entities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_963.md)
+* [Contact tracing personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2468.md)
+* [Contact tracing team](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_967.md)
 * [Departments and teams](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1663.md)
 * [Team members](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_986.md)
+
+## Risk affecting this stakeholder
+
+* [Asymptomatic transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1237.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -26,10 +30,10 @@
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Workers/professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1831.md)
-* [Contact tracing entities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1822.md)
+* [Contact tracing entities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1831.md)
+* [Workers/professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1822.md)
 
-## Risk affecting this stakeholder
+## Type of the stakeholder
 
-* [Asymptomatic transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1237.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

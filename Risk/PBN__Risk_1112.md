@@ -2,42 +2,34 @@
 
 # __Dependence on limited physiological information__
 
+## Articles mentionning the risk
+
+* [Wearable devices for the detection of COVID-19](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_296.md)
+
 ## Category to which it belongs
 
-* [The pandemic has led to a decrease in in-person surgical education, loss of control, temporary panic from cruise ship docking, limited social distancing, and decreased morale.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_20.md)
+* [The pandemic has led to a decrease in in-person surgical education, loss of control, temporary panic from cruise ship docking, limited social distancing, and decreased morale.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_70.md)
 
 ## Closest similar item
 
-* [Lack of dynamic information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2791.md)
-* [Limited physical/social distancing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_120.md)
+* [Inadequate health-oriented features](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2791.md)
+* [Inadequate physical distancing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_120.md)
 * [Information overload during pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1013.md)
-* [Limited data, efficacy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2954.md)
-* [Inadequate physical distancing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2697.md)
+* [Lack of dynamic information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2954.md)
+* [Lack of knowledge on disease transmission mechanisms](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2697.md)
 * [Limited connection to nature](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_957.md)
-* [Inadequate health-oriented features](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2699.md)
-* [Limited understanding of human behavior](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_583.md)
-* [Lack of knowledge on disease transmission mechanisms](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_6.md)
+* [Limited data, efficacy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2699.md)
+* [Limited physical/social distancing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_583.md)
+* [Limited understanding of human behavior](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_6.md)
 * [Physical inactivity during pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_850.md)
 
 ## Description of the risk
 
 Lack of additional physiological data beyond heart rate reducing diagnostic performance
 
-## Type of the risk
-
-* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Is the risk affecting GBN scales
 
 * [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
-
-## Type of impact of the risk (according to ISO37100)
-
-* [Safety and security](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_5.md)
-
-## Type of purpose of the risk (according to ISO37100)
-
-* [Safety and security](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_0.md)
 
 ## Mitigations of this risk
 
@@ -47,24 +39,32 @@ Lack of additional physiological data beyond heart rate reducing diagnostic perf
 
 Potential for inaccurate or incomplete diagnosis
 
-## Stakeholders who can mitigate this risk
-
-* [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
-* [Healthcare providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_121.md)
-
-## Articles mentionning the risk
-
-* [Wearable devices for the detection of COVID-19](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_296.md)
-
 ## People affected by this risk
 
-* [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
-* [Healthcare providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_121.md)
+* [Healthcare providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
+* [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_121.md)
+
+## Stakeholders who can mitigate this risk
+
+* [Healthcare providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
+* [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_121.md)
 
 ## Technologies linked to the risk
 
 * [Integration of multiple wearable sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_178.md)
 * [Multimodal device development](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_179.md)
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Safety and security](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_5.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Safety and security](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_0.md)
+
+## Type of the risk
+
+* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 

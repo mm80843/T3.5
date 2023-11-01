@@ -4,20 +4,24 @@
 
 ## Category to which it belongs
 
-* [Individuals in confined, poorly ventilated indoor spaces, including offices and homes, with low air quality and inadequate filtration systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_235.md)
+* [Individuals in confined, poorly ventilated indoor spaces, including offices and homes, with low air quality and inadequate filtration systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_285.md)
 
 ## Closest similar item
 
-* [Person in environment with high humidity level](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2192.md)
-* [Public health authorities are responsible for regulating humidity levels in the built environment](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1131.md)
-* [Individuals in indoor settings with poor ventilation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_793.md)
-* [People in spaces with poor air circulation and distribution](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1182.md)
-* [Individuals in indoor environments with poor environmental controls](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_672.md)
-* [Individuals in spaces with poor air filtration](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1204.md)
+* [Individuals in indoor environments with poor environmental controls](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2192.md)
+* [Individuals in indoor settings with poor ventilation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1131.md)
+* [Individuals in spaces with poor air filtration](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_793.md)
+* [Individuals living in areas with natural outdoor environments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1182.md)
+* [Occupants of buildings with poor indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_672.md)
+* [People in indoor environments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1204.md)
 * [People in indoor spaces with air-conditioning systems](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_922.md)
-* [Individuals living in areas with natural outdoor environments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_306.md)
-* [Occupants of buildings with poor indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1198.md)
-* [People in indoor environments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1122.md)
+* [People in spaces with poor air circulation and distribution](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_306.md)
+* [Person in environment with high humidity level](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1198.md)
+* [Public health authorities are responsible for regulating humidity levels in the built environment](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1122.md)
+
+## Risk affecting this stakeholder
+
+* [Effect of humidity on virus viability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1693.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -26,7 +30,7 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 
-## Risk affecting this stakeholder
+## Type of the stakeholder
 
-* [Effect of humidity on virus viability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1693.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

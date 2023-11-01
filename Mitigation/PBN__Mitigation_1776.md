@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Establishing efficient and transparent communication channels to facilitate understanding, collaboration, and dissemination of information.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_86.md)
+* [Establishing efficient and transparent communication channels to facilitate understanding, collaboration, and dissemination of information.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_136.md)
 
 ## Closest similar item
 
-* [Improve communication channels, provide clear and consistent information.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2688.md)
-* [Ensure consistent and transparent communication, address public concerns and questions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2403.md)
-* [Implement communication campaigns, provide clear instructions and guidelines, and promote public awareness](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2260.md)
+* [Develop incentive mechanisms, build trust through transparency and accountability.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2688.md)
+* [Encouraging effective communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2403.md)
+* [Ensure consistent and transparent communication, address public concerns and questions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2260.md)
 * [Establishing effective communication channels](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_647.md)
-* [Improve communication channels and methods](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2529.md)
-* [Develop incentive mechanisms, build trust through transparency and accountability.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1549.md)
-* [Promote reliable and verifiable sources of information; educate the public on how to critically evaluate information; combat misinformation through fact-checking and debunking.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2602.md)
+* [Implement communication campaigns, provide clear instructions and guidelines, and promote public awareness](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2529.md)
+* [Improve communication channels and methods](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1549.md)
+* [Improve communication channels, provide clear and consistent information.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2602.md)
 * [Maintain open communication and provide reassurance to the workforce.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2462.md)
-* [Promote transparency, communication, and community engagement](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2643.md)
-* [Encouraging effective communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_207.md)
+* [Promote reliable and verifiable sources of information; educate the public on how to critically evaluate information; combat misinformation through fact-checking and debunking.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2643.md)
+* [Promote transparency, communication, and community engagement](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_207.md)
 
 ## Risks possibly mitigated by this Mitigation
 

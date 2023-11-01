@@ -2,24 +2,28 @@
 
 # __Fecal coliform and pathogen destruction in wastewater__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Disinfecting hospital wastewater using various technologies reduces the presence of fecal coliforms and pathogens, protecting public health and the environment
+* [Disinfection technology of hospital wastes and wastewater: Suggestions for disinfection strategy during coronavirus Disease 2019 (COVID-19) pandemic in China](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_191.md)
+
+## Category to which it belongs
+
+* [Enhanced cleanliness, safety, and disinfection promote improved hygiene practices and increased access to clean water and sanitation.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_39.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Private investors in wastewater treatment technologies would benefit from increased demand for these services and improved sanitation, as well as potential cost savings from improved treatment efficiency](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_1028.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [Disinfection technology of hospital wastes and wastewater: Suggestions for disinfection strategy during coronavirus Disease 2019 (COVID-19) pandemic in China](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_191.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [Public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_52.md)
-* [Environment](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_116.md)
+Disinfecting hospital wastewater using various technologies reduces the presence of fecal coliforms and pathogens, protecting public health and the environment
 
 ## Risks which can benefit from this action
 
 * [Utilization of ozone, ultraviolet irradiation, liquid chlorine, chlorine dioxide, and sodium hypochlorite disinfection technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_932.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [Environment](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_52.md)
+* [Public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_116.md)
 

@@ -2,42 +2,34 @@
 
 # __Impact on food sector__
 
+## Articles mentionning the risk
+
+* [The socio-economic implications of the coronavirus pandemic (COVID-19): A review](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_135.md)
+
 ## Category to which it belongs
 
-* [The interconnectedness of global economics has led to financial instability, unemployment, poverty, and decreased investment in certain sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_12.md)
+* [The interconnectedness of global economics has led to financial instability, unemployment, poverty, and decreased investment in certain sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_62.md)
 
 ## Closest similar item
 
-* [Impact on food industry supply chain](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_411.md)
-* [Food supply disruptions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1839.md)
-* [Food supply disruption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3296.md)
-* [Impact on restaurants and hospitality industry](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_414.md)
-* [Food security](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_232.md)
-* [Food and nutrition security threat](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_236.md)
-* [Limited food availability, distribution challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3032.md)
-* [Impact on economy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1584.md)
-* [Economic impact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_124.md)
-* [Food insecurity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1856.md)
+* [Economic impact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_411.md)
+* [Food and nutrition security threat](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1839.md)
+* [Food insecurity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3296.md)
+* [Food security](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_414.md)
+* [Food supply disruption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_232.md)
+* [Food supply disruptions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_236.md)
+* [Impact on economy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3032.md)
+* [Impact on food industry supply chain](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1584.md)
+* [Impact on restaurants and hospitality industry](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_124.md)
+* [Limited food availability, distribution challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1856.md)
 
 ## Description of the risk
 
 Panic-buying and stockpiling leading to shortages, disruption in online food delivery, reduced donations to food banks
 
-## Type of the risk
-
-* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Is the risk affecting GBN scales
 
 * [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
-
-## Type of impact of the risk (according to ISO37100)
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
-
-## Type of purpose of the risk (according to ISO37100)
-
-* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_1.md)
 
 ## Mitigations of this risk
 
@@ -48,22 +40,30 @@ Panic-buying and stockpiling leading to shortages, disruption in online food del
 
 Increase in food prices, food insecurity for vulnerable populations, challenges in food distribution
 
-## Stakeholders who can mitigate this risk
-
-* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
-* [Food industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_237.md)
-
-## Articles mentionning the risk
-
-* [The socio-economic implications of the coronavirus pandemic (COVID-19): A review](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_135.md)
-
 ## People affected by this risk
 
-* [Vulnerable populations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_127.md)
-* [Consumers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_146.md)
+* [Consumers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_127.md)
+* [Vulnerable populations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_146.md)
+
+## Stakeholders who can mitigate this risk
+
+* [Food industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
+* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_237.md)
 
 ## Technologies linked to the risk
 
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_1.md)
+
+## Type of the risk
+
+* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 

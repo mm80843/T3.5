@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The challenges of urban inequality, parameter identification, noise pollution, waste, and delayed decision making have resulted in increased inequalities and exclusion, posing numerous issues for governance and scalability.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_14.md)
+* [The challenges of urban inequality, parameter identification, noise pollution, waste, and delayed decision making have resulted in increased inequalities and exclusion, posing numerous issues for governance and scalability.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_64.md)
 
 ## Closest similar item
 
-* [Lack of community connections](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1286.md)
+* [Community mitigation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1286.md)
 * [Community spread](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2381.md)
-* [Lack of community engagement](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2125.md)
+* [Community transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2125.md)
 * [Inadequate community engagement](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2330.md)
-* [Community mitigation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_405.md)
-* [Socializing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3286.md)
-* [Social inequities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2855.md)
-* [Social interaction](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2435.md)
-* [Community transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2434.md)
-* [Lack of community participation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2534.md)
+* [Lack of community connections](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_405.md)
+* [Lack of community engagement](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3286.md)
+* [Lack of community participation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2855.md)
+* [Social inequities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2435.md)
+* [Social interaction](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2434.md)
+* [Socializing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2534.md)
 
 ## Mitigations of this risk
 

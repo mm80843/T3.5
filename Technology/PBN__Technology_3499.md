@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Implement strategies to optimize costs, manage crises, and develop sustainable practices while ensuring efficient resource allocation and effective communication.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_143.md)
+* [Implement strategies to optimize costs, manage crises, and develop sustainable practices while ensuring efficient resource allocation and effective communication.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_193.md)
 
 ## Closest similar item
 
-* [Project management tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_631.md)
-* [Resource and project management tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2037.md)
-* [Project management software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_130.md)
-* [Software tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2328.md)
-* [Analytical tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3515.md)
-* [Project management platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_738.md)
-* [Productivity improvement tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3500.md)
-* [Collaboration tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_565.md)
-* [Collaborative tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2434.md)
-* [Risk assessment tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1455.md)
+* [Analytical tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_631.md)
+* [Collaboration tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2037.md)
+* [Collaborative tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_130.md)
+* [Productivity improvement tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2328.md)
+* [Project management platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3515.md)
+* [Project management software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_738.md)
+* [Project management tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3500.md)
+* [Resource and project management tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_565.md)
+* [Risk assessment tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2434.md)
+* [Software tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1455.md)
 
 ## This Technology enables the following mitigations
 

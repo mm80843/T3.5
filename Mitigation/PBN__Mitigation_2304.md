@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Design and construction strategies integrate flexible, adaptable, and sustainable elements to enhance human-centric, biophilic spaces with optimized lighting, color, and materials.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_94.md)
+* [Design and construction strategies integrate flexible, adaptable, and sustainable elements to enhance human-centric, biophilic spaces with optimized lighting, color, and materials.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_144.md)
 
 ## Closest similar item
 
-* [Sustainable design of courtyards](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_914.md)
-* [Designing outdoor areas or balconies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3535.md)
-* [Outdoor design and spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4626.md)
-* [Incorporate outdoor spaces in building design and provide access to communal gardens](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1787.md)
-* [Balcony size and functionality](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_821.md)
-* [Balcony design and biophilic design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1336.md)
-* [Use of balcony in apartments](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_818.md)
-* [Design apartments with windows that offer views of nature and the sky.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2483.md)
-* [Design apartments with views of the sky and natural elements, incorporate green spaces.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2486.md)
-* [Outdoor space design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4433.md)
+* [Balcony design and biophilic design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_914.md)
+* [Balcony size and functionality](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3535.md)
+* [Design apartments with views of the sky and natural elements, incorporate green spaces.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4626.md)
+* [Design apartments with windows that offer views of nature and the sky.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1787.md)
+* [Designing outdoor areas or balconies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_821.md)
+* [Incorporate outdoor spaces in building design and provide access to communal gardens](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1336.md)
+* [Outdoor design and spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_818.md)
+* [Outdoor space design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2483.md)
+* [Sustainable design of courtyards](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2486.md)
+* [Use of balcony in apartments](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4433.md)
 
 ## Risks possibly mitigated by this Mitigation
 

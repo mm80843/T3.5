@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Enabling remote connectivity and digital solutions for work, education, healthcare, and communication.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_66.md)
+* [Enabling remote connectivity and digital solutions for work, education, healthcare, and communication.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_116.md)
 
 ## Closest similar item
 
-* [Robotics in healthcare](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_809.md)
-* [Implement telehealth and telemedicine systems; increase healthcare infrastructure capacity; ensure access to essential healthcare services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2694.md)
-* [Telehealth services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3159.md)
-* [Telehealth](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3153.md)
-* [Telehealth for patients](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_27.md)
-* [Telemedicine and remote healthcare](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3360.md)
-* [Strengthen healthcare systems and ensure access to essential healthcare services through telemedicine and mobile clinics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2362.md)
-* [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3247.md)
-* [Increased use of telehealth clinics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_43.md)
-* [Telehealth clinics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3486.md)
+* [Implement telehealth and telemedicine systems; increase healthcare infrastructure capacity; ensure access to essential healthcare services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_809.md)
+* [Increased use of telehealth clinics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2694.md)
+* [Robotics in healthcare](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3159.md)
+* [Strengthen healthcare systems and ensure access to essential healthcare services through telemedicine and mobile clinics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3153.md)
+* [Telehealth](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_27.md)
+* [Telehealth clinics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3360.md)
+* [Telehealth for patients](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2362.md)
+* [Telehealth services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3247.md)
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_43.md)
+* [Telemedicine and remote healthcare](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3486.md)
 
 ## Risks possibly mitigated by this Mitigation
 

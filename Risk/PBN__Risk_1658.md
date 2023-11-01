@@ -2,42 +2,34 @@
 
 # __Increased exposure to pollen from urban green spaces__
 
+## Articles mentionning the risk
+
+* [Making green infrastructure healthier infrastructure](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_20.md)
+
 ## Category to which it belongs
 
-* [Insufficiency and neglect of green spaces, limited access to public and outdoor spaces, overcrowding in living areas and public spaces.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_39.md)
+* [Insufficiency and neglect of green spaces, limited access to public and outdoor spaces, overcrowding in living areas and public spaces.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_89.md)
 
 ## Closest similar item
 
-* [Green spaces and pollen allergies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_68.md)
+* [Allergic respiratory response to pollen](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_68.md)
 * [Fear of infection in urban green spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1805.md)
-* [Lack of green open spaces in urban areas](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_325.md)
-* [Allergic respiratory response to pollen](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2907.md)
-* [Lack of accessibility to urban green spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_693.md)
-* [Increased air pollution from emissions of volatile organic compounds by urban trees](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1651.md)
-* [Inadequate access to urban green spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1804.md)
-* [Limited access to urban green spaces during the pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_709.md)
-* [Limited green spaces in highly urbanized areas](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1534.md)
-* [Lack of green space in urban areas](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_141.md)
+* [Green spaces and pollen allergies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_325.md)
+* [Inadequate access to urban green spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2907.md)
+* [Increased air pollution from emissions of volatile organic compounds by urban trees](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_693.md)
+* [Lack of accessibility to urban green spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1651.md)
+* [Lack of green open spaces in urban areas](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1804.md)
+* [Lack of green space in urban areas](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_709.md)
+* [Limited access to urban green spaces during the pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1534.md)
+* [Limited green spaces in highly urbanized areas](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_141.md)
 
 ## Description of the risk
 
 Increasing green spaces can lead to higher pollen concentrations, increasing the risk of allergic reactions
 
-## Type of the risk
-
-* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Is the risk affecting GBN scales
 
 * [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
-
-## Type of impact of the risk (according to ISO37100)
-
-* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_4.md)
-
-## Type of purpose of the risk (according to ISO37100)
-
-* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
 
 ## Mitigations of this risk
 
@@ -47,22 +39,30 @@ Increasing green spaces can lead to higher pollen concentrations, increasing the
 
 Allergic symptoms, decreased quality of life for allergic individuals
 
-## Stakeholders who can mitigate this risk
-
-* [Urban planners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_125.md)
-* [City governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_354.md)
-
-## Articles mentionning the risk
-
-* [Making green infrastructure healthier infrastructure](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_20.md)
-
 ## People affected by this risk
 
-* [Allergic individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1099.md)
-* [Especially those with respiratory conditions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1031.md)
+* [Allergic individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1031.md)
+* [Especially those with respiratory conditions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1099.md)
+
+## Stakeholders who can mitigate this risk
+
+* [City governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_125.md)
+* [Urban planners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_354.md)
 
 ## Technologies linked to the risk
 
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_4.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
+
+## Type of the risk
+
+* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 

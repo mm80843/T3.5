@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Promoting sustainable and inclusive outdoor environments through land use regulation, environmental surveillance, and community gardening.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_111.md)
+* [Promoting sustainable and inclusive outdoor environments through land use regulation, environmental surveillance, and community gardening.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_161.md)
 
 ## Closest similar item
 
-* [Green technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1645.md)
+* [Carbon reduction technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1645.md)
 * [Climate control technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1098.md)
-* [Urban greening technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2177.md)
-* [Emission control technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1249.md)
-* [Renewable energy technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_353.md)
-* [Carbon reduction technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3468.md)
-* [Green sustainable materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3850.md)
+* [Emission control technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2177.md)
+* [Green roof technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1249.md)
+* [Green space management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_353.md)
+* [Green sustainable materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3468.md)
+* [Green technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3850.md)
 * [Low-carbon technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3552.md)
-* [Green space management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2762.md)
-* [Green roof technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_618.md)
+* [Renewable energy technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2762.md)
+* [Urban greening technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_618.md)
 
 ## This Technology enables the following mitigations
 

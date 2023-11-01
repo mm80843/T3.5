@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [A collection of diverse entities devoted to various causes, including mental and physical health, business, research, conservation, and social welfare.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_200.md)
+* [A collection of diverse entities devoted to various causes, including mental and physical health, business, research, conservation, and social welfare.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_250.md)
 
 ## Closest similar item
 
-* [Urban green space management organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1227.md)
-* [Users of urban green spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1231.md)
+* [General population in areas with underfunded green space](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1227.md)
+* [Green space advocate](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1231.md)
 * [Green space advocates](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2607.md)
 * [Public space managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_945.md)
-* [Urban management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2418.md)
-* [Green space advocate](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2603.md)
-* [Visitors of green spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_41.md)
-* [General population in areas with underfunded green space](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_570.md)
-* [Urban planning organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1607.md)
-* [Urban planning organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_829.md)
+* [Urban green space management organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2418.md)
+* [Urban management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2603.md)
+* [Urban planning organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_41.md)
+* [Urban planning organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_570.md)
+* [Users of urban green spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1607.md)
+* [Visitors of green spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_829.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

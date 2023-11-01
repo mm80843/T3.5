@@ -4,20 +4,24 @@
 
 ## Category to which it belongs
 
-* [People from diverse backgrounds and circumstances, including marginalized individuals, with different abilities, and in various environments.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_215.md)
+* [People from diverse backgrounds and circumstances, including marginalized individuals, with different abilities, and in various environments.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_265.md)
 
 ## Closest similar item
 
-* [Individual in isolation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2146.md)
-* [Isolated individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_65.md)
-* [Individuals in self-isolation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1142.md)
-* [Individual in self-isolation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2221.md)
-* [General population undergoing isolation and social distancing](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1028.md)
-* [Individuals living alone](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_612.md)
-* [Self-isolating individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_35.md)
+* [General population undergoing isolation and social distancing](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2146.md)
+* [Individual in isolation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_65.md)
+* [Individual in self-isolation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1142.md)
+* [Individual living alone](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2221.md)
+* [Individuals in quarantine or social isolation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1028.md)
+* [Individuals in self-isolation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_612.md)
+* [Individuals living alone](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_35.md)
 * [Individuals living alone or with limited social connections](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1339.md)
-* [Individuals in quarantine or social isolation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_357.md)
-* [Individual living alone](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2327.md)
+* [Isolated individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_357.md)
+* [Self-isolating individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2327.md)
+
+## Risk affecting this stakeholder
+
+* [Limited social interactions and mental health impact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2349.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -26,7 +30,7 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 
-## Risk affecting this stakeholder
+## Type of the stakeholder
 
-* [Limited social interactions and mental health impact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2349.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

@@ -4,20 +4,24 @@
 
 ## Category to which it belongs
 
-* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_212.md)
+* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_262.md)
 
 ## Closest similar item
 
-* [Public hospital](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1696.md)
-* [Hospitals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_64.md)
+* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1696.md)
+* [Healthcare facilities and patients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_64.md)
 * [Hospital](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1469.md)
-* [Such as hospitals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_673.md)
-* [Medical facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_187.md)
-* [Healthcare facilities and patients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_225.md)
-* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_33.md)
-* [Hospital patients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1057.md)
-* [Hospital administration](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_797.md)
-* [Public health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_0.md)
+* [Hospital administration](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_673.md)
+* [Hospital patients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_187.md)
+* [Hospitals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_225.md)
+* [Medical facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_33.md)
+* [Public health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1057.md)
+* [Public hospital](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_797.md)
+* [Such as hospitals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_0.md)
+
+## Risk affecting this stakeholder
+
+* [Lack of trustable data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2042.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -27,7 +31,7 @@
 
 * [Companies and institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1658.md)
 
-## Risk affecting this stakeholder
+## Type of the stakeholder
 
-* [Lack of trustable data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2042.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

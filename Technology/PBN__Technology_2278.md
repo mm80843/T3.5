@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Advanced analytics and simulation techniques can be used to study complex systems and make predictions using artificial intelligence and machine learning, as well as optimize processes and analyze data efficiently.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_107.md)
+* [Advanced analytics and simulation techniques can be used to study complex systems and make predictions using artificial intelligence and machine learning, as well as optimize processes and analyze data efficiently.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_157.md)
 
 ## Closest similar item
 
-* [Wbe technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2050.md)
-* [Wbe](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2465.md)
-* [Unbiased sampling](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2907.md)
-* [Statistical analysis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_357.md)
-* [Control samples](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1103.md)
-* [Improved sample collection and handling protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2028.md)
-* [Extensive sample clean-up processes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_240.md)
-* [Data analysis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2736.md)
-* [Wastewater sampling](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2821.md)
-* [Data collection and analysis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2223.md)
+* [Control samples](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2050.md)
+* [Data analysis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2465.md)
+* [Data collection and analysis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2907.md)
+* [Extensive sample clean-up processes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_357.md)
+* [Improved sample collection and handling protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1103.md)
+* [Statistical analysis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2028.md)
+* [Unbiased sampling](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_240.md)
+* [Wastewater sampling](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2736.md)
+* [Wbe](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2821.md)
+* [Wbe technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2223.md)
 
 ## This Technology belongs to this TechGroup
 

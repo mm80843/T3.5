@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Advancements in various technological domains facilitate touchless, remote, and efficient ways of communication, work, and data management.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_108.md)
+* [Advancements in various technological domains facilitate touchless, remote, and efficient ways of communication, work, and data management.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_158.md)
 
 ## Closest similar item
 
-* [Technology infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3265.md)
-* [Technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3000.md)
-* [Technological advancements](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2561.md)
-* [Improved access to technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_526.md)
-* [Technological means](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3538.md)
-* [Technology devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2965.md)
-* [Digital technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3264.md)
-* [Information technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2298.md)
-* [Continued technological advancements](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1641.md)
-* [Smart technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3882.md)
+* [Continued technological advancements](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3265.md)
+* [Digital technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3000.md)
+* [Improved access to technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2561.md)
+* [Information technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_526.md)
+* [Smart technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3538.md)
+* [Technological advancements](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2965.md)
+* [Technological means](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3264.md)
+* [Technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2298.md)
+* [Technology devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1641.md)
+* [Technology infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3882.md)
 
 ## This Technology enables the following mitigations
 

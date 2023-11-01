@@ -4,20 +4,24 @@
 
 ## Category to which it belongs
 
-* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_212.md)
+* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_262.md)
 
 ## Closest similar item
 
-* [Elderly](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_336.md)
-* [Elderly individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_804.md)
-* [Elderly individual](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2122.md)
-* [Elderly population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_613.md)
-* [Older people](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_107.md)
-* [Older adults](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_461.md)
-* [Older person](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2113.md)
-* [Elderly and at-risk individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_194.md)
-* [Elderly residents of care facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_868.md)
-* [At-risk populations elderly](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_163.md)
+* [At-risk populations elderly](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_336.md)
+* [Elderly](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_804.md)
+* [Elderly and at-risk individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2122.md)
+* [Elderly individual](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_613.md)
+* [Elderly individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_107.md)
+* [Elderly population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_461.md)
+* [Elderly residents of care facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2113.md)
+* [Older adults](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_194.md)
+* [Older people](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_868.md)
+* [Older person](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_163.md)
+
+## Risk affecting this stakeholder
+
+* [Overcrowding](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_571.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -27,7 +31,7 @@
 
 * [Age-specific concerns](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2313.md)
 
-## Risk affecting this stakeholder
+## Type of the stakeholder
 
-* [Overcrowding](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_571.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

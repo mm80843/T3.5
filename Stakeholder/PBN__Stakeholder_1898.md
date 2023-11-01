@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Individuals within the built environment, including building designers, architects, construction workers, and building occupants and managers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_208.md)
+* [Individuals within the built environment, including building designers, architects, construction workers, and building occupants and managers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_258.md)
 
 ## Closest similar item
 
-* [Building designers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_11.md)
+* [Architect](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_11.md)
 * [Building design professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1238.md)
-* [Designers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_74.md)
-* [Urban designers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_380.md)
-* [Building professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_98.md)
-* [Design professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_365.md)
-* [Architect](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_364.md)
-* [Building industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1108.md)
+* [Building designers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_74.md)
+* [Building industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_380.md)
+* [Building manager](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_98.md)
+* [Building professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_365.md)
+* [Design professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_364.md)
+* [Designers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1108.md)
 * [Interior designers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1414.md)
-* [Building manager](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1941.md)
+* [Urban designers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1941.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

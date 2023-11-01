@@ -2,9 +2,23 @@
 
 # __An e-mental health intervention to support burdened people in times of the COVID-19 pandemic: CoPE It__
 
+## Benefits listed in this article
+
+* [Containment of pandemics](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_425.md)
+* [Improvement in mental well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_426.md)
+* [Reduction in disease transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1008.md)
+
 ## DOI of the article
 
 10.1093/pubmed/fdaa058
+
+## List of risks in an article
+
+* [Importance of social distancing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1154.md)
+* [Inadequate global preparedness](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1152.md)
+* [Lack of access to pharmaceutical interventions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1151.md)
+* [Mental health impact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1150.md)
+* [Risk communication strategy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1153.md)
 
 ## Short summary of the article
 
@@ -14,6 +28,24 @@ The COVID-19 pandemic has revealed that global preparedness is inadequate in res
 
 The COVID-19 pandemic is a global health crisis that has affected almost all countries. It is caused by a virus called SARS-CoV-2. The current global preparedness for dealing with pandemics is not very effective, even though there have been some efforts to prepare. It's important for communities to work together and follow certain rules, like washing hands frequently, covering your mouth when you cough or sneeze, and keeping some distance from other people. These actions can help stop the virus from spreading. It's also important to communicate and share information with each other to make sure everyone knows what to do and not to believe in rumors or fake news. The pandemic has also impacted people's mental health, so it's important to stay connected with loved ones through phone or internet, and to seek help from mental health experts if needed. We need to work together and support each other to overcome this pandemic.
 
+## This article mentions these technologies
+
+* [Telecommunication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_242.md)
+* [Web-based applications](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_243.md)
+
+## This article points to following mitigation
+
+* [Augmented surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3326.md)
+* [Home quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3324.md)
+* [Mental health support](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Non-pharmaceutical interventions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_564.md)
+* [Public engagement](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3325.md)
+* [Risk communication strategy](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_337.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3323.md)
+* [Telecommunication tools](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3328.md)
+* [Travel restrictions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_377.md)
+* [Voluntary reporting](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3327.md)
+
 ## Title of the article
 
 An e-mental health intervention to support burdened people in times of the COVID-19 pandemic: CoPE It
@@ -21,36 +53,4 @@ An e-mental health intervention to support burdened people in times of the COVID
 ## Year of publication
 
 2020
-
-## Benefits listed in this article
-
-* [Reduction in disease transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_425.md)
-* [Improvement in mental well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_426.md)
-* [Containment of pandemics](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1008.md)
-
-## List of risks in an article
-
-* [Mental health impact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1154.md)
-* [Importance of social distancing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1152.md)
-* [Lack of access to pharmaceutical interventions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1151.md)
-* [Risk communication strategy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1153.md)
-* [Inadequate global preparedness](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1150.md)
-
-## This article points to following mitigation
-
-* [Mental health support](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3324.md)
-* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
-* [Travel restrictions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_564.md)
-* [Non-pharmaceutical interventions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_377.md)
-* [Home quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_337.md)
-* [Public engagement](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3328.md)
-* [Voluntary reporting](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3327.md)
-* [Risk communication strategy](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3323.md)
-* [Telecommunication tools](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3325.md)
-* [Augmented surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3326.md)
-
-## This article mentions these technologies
-
-* [Telecommunication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_242.md)
-* [Web-based applications](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_243.md)
 

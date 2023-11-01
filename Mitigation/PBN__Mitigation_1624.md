@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Implementation of comprehensive and rigorous cleaning, disinfection, and sanitation practices to ensure effective and efficient pathogen eradication.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_70.md)
+* [Implementation of comprehensive and rigorous cleaning, disinfection, and sanitation practices to ensure effective and efficient pathogen eradication.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_120.md)
 
 ## Closest similar item
 
-* [Uvgi systems for air disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1197.md)
-* [Uv susceptibility of bacterial aerosols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5105.md)
-* [Uv air disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_448.md)
-* [Air disinfection strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_993.md)
-* [Uv susceptibility of pathogenic viral aerosols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5107.md)
+* [Air disinfection strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1197.md)
+* [Disinfection of indoor air](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5105.md)
+* [Germicidal uv air disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_448.md)
+* [Implement strategies to promote good room air mixing, such as ceiling mounted fans, to ensure even distribution of aerosol particles in the uv field](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_993.md)
+* [Rh effect on uv inactivation of bacterial aerosols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5107.md)
 * [Study of the effect of rh on uv susceptibility of bacterial aerosols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_450.md)
-* [Rh effect on uv inactivation of bacterial aerosols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5106.md)
-* [Germicidal uv air disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4319.md)
-* [Disinfection of indoor air](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5136.md)
-* [Implement strategies to promote good room air mixing, such as ceiling mounted fans, to ensure even distribution of aerosol particles in the uv field](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1623.md)
+* [Uv air disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5106.md)
+* [Uv susceptibility of bacterial aerosols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4319.md)
+* [Uv susceptibility of pathogenic viral aerosols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5136.md)
+* [Uvgi systems for air disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1623.md)
 
 ## Risks possibly mitigated by this Mitigation
 

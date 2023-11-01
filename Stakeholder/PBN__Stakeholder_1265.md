@@ -6,3 +6,7 @@
 
 * [Gender-based violence](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1857.md)
 
+## Type of the stakeholder
+
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
+

@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Enhancing travel experience through real-time updates, virtual tours, local services, reservation systems, alternative transportation, and accessibility improvements.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_132.md)
+* [Enhancing travel experience through real-time updates, virtual tours, local services, reservation systems, alternative transportation, and accessibility improvements.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_182.md)
 
 ## Closest similar item
 
-* [Travel restrictions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_36.md)
-* [Travel policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3413.md)
-* [Travel advisories and restrictions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1565.md)
-* [Travel restrictions and monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2220.md)
-* [Travel bans](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_700.md)
-* [Regulations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1175.md)
-* [Government regulations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_917.md)
-* [Travel management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2297.md)
-* [Travel advisories](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_26.md)
-* [Implementation of border controls and travel restrictions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_560.md)
+* [Government regulations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_36.md)
+* [Implementation of border controls and travel restrictions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3413.md)
+* [Regulations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1565.md)
+* [Travel advisories](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2220.md)
+* [Travel advisories and restrictions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_700.md)
+* [Travel bans](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1175.md)
+* [Travel management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_917.md)
+* [Travel policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2297.md)
+* [Travel restrictions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_26.md)
+* [Travel restrictions and monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_560.md)
 
 ## This Technology enables the following mitigations
 

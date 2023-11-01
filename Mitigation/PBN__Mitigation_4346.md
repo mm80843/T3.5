@@ -4,34 +4,34 @@
 
 ## Category to which it belongs
 
-* [Promote and enforce rigorous hygiene practices, ensure proper sanitation infrastructure, and implement strict cleaning and disinfection protocols.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_73.md)
+* [Promote and enforce rigorous hygiene practices, ensure proper sanitation infrastructure, and implement strict cleaning and disinfection protocols.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_123.md)
 
 ## Closest similar item
 
-* [Regular cleaning and maintenance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4666.md)
-* [Routine cleaning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4440.md)
+* [Enhanced cleaning practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4666.md)
+* [Good maintenance practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4440.md)
 * [Maintenance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_317.md)
-* [Regular maintenance and disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2873.md)
-* [Good maintenance practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3411.md)
-* [Enhanced cleaning practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5267.md)
+* [Proper cleaning protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2873.md)
+* [Regular cleaning and maintenance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3411.md)
+* [Regular hvac maintenance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5267.md)
 * [Regular inspection and maintenance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4353.md)
 * [Regular maintenance and cleaning of hvac systems, following proper cleaning protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2386.md)
-* [Regular hvac maintenance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4661.md)
-* [Proper cleaning protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4354.md)
-
-## Property: has_MitigationPrinciple
-
-Regular maintenance and cleaning of HVAC systems and ductwork can prevent the buildup of contaminants and maintain good indoor air quality
+* [Regular maintenance and disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4661.md)
+* [Routine cleaning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4354.md)
 
 ## Risks possibly mitigated by this Mitigation
 
 * [Accumulation of dirt, debris, and microbial growth in hvac systems and ductwork](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3009.md)
 
-## Property: has_MitigationSource
-
-* [Ventilation use in nonmedical settings during COVID-19: Cleaning protocol, maintenance, and recommendations](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_104.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [Proper cleaning equipment and procedures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3241.md)
+
+## Property: has_MitigationPrinciple
+
+Regular maintenance and cleaning of HVAC systems and ductwork can prevent the buildup of contaminants and maintain good indoor air quality
+
+## Property: has_MitigationSource
+
+* [Ventilation use in nonmedical settings during COVID-19: Cleaning protocol, maintenance, and recommendations](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_104.md)
 

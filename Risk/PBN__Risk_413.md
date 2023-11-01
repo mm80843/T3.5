@@ -4,19 +4,19 @@
 
 ## Category to which it belongs
 
-* [The interconnectedness of global economics has led to financial instability, unemployment, poverty, and decreased investment in certain sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_12.md)
+* [The interconnectedness of global economics has led to financial instability, unemployment, poverty, and decreased investment in certain sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_62.md)
 
 ## Closest similar item
 
-* [Global coordination, political challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2876.md)
-* [Impact on developing countries](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_450.md)
-* [Lack of coordination, geopolitical tensions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2851.md)
+* [Challenges in global climate diplomacy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2876.md)
+* [Dependence on global suppliers](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_450.md)
+* [Economic impact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2851.md)
 * [Economic instability due to global connectivity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_14.md)
-* [Dependence on global suppliers](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2203.md)
-* [Challenges in global climate diplomacy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_552.md)
-* [Impact on economy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1584.md)
-* [Economic impact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_124.md)
-* [Exposure to foreign shocks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1820.md)
+* [Exposure to foreign shocks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2203.md)
+* [Global coordination, political challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_552.md)
+* [Impact on developing countries](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1584.md)
+* [Impact on economy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_124.md)
+* [Lack of coordination, geopolitical tensions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1820.md)
 * [Livelihood and trade disruptions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_774.md)
 
 ## Mitigations of this risk

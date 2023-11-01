@@ -2,33 +2,33 @@
 
 # __Social Networks__
 
-## Property: has_BP_EnablerTitle
-
-enabler_021
-
 ## Category to which it belongs
 
-* [Interconnected digital platforms facilitating communication and connection among individuals.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_258.md)
+* [Interconnected digital platforms facilitating communication and connection among individuals.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_308.md)
 
 ## Closest similar item
 
-* [Data Analytics](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_2.md)
-* [IoT](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_5.md)
-* [Blockchain](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_4.md)
-* [Visualization](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_3.md)
-* [Robots](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_14.md)
-* [SmartPhones](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_19.md)
-* [Wearables](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_11.md)
-* [BigData](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_9.md)
-* [GPS](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_10.md)
-* [Digital signage](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_31.md)
-
-## These blueprints use this enabler
-
-* [Resilience in staffing and skills training](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_12.md)
-* [Good hand hygiene practice](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_14.md)
+* [BigData](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_2.md)
+* [Blockchain](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_5.md)
+* [Data Analytics](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_4.md)
+* [Digital signage](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_3.md)
+* [GPS](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_14.md)
+* [IoT](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_19.md)
+* [Robots](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_11.md)
+* [SmartPhones](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_9.md)
+* [Visualization](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_10.md)
+* [Wearables](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_31.md)
 
 ## Technology equivalent to this enabler
 
 * [Social networks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1535.md)
+
+## These blueprints use this enabler
+
+* [Good hand hygiene practice](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_12.md)
+* [Resilience in staffing and skills training](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_14.md)
+
+## Property: has_BP_EnablerTitle
+
+enabler_021
 

@@ -4,20 +4,24 @@
 
 ## Category to which it belongs
 
-* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_212.md)
+* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_262.md)
 
 ## Closest similar item
 
-* [It engineer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2526.md)
+* [Engineer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2526.md)
 * [Engineers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_202.md)
-* [Engineer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1888.md)
-* [It professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_626.md)
-* [It companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2534.md)
-* [It company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2568.md)
-* [Technology developer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1942.md)
-* [It expert](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2537.md)
-* [Technology developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_761.md)
-* [It departments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2548.md)
+* [It companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1888.md)
+* [It company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_626.md)
+* [It departments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2534.md)
+* [It engineer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2568.md)
+* [It expert](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1942.md)
+* [It professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2537.md)
+* [Technology developer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_761.md)
+* [Technology developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2548.md)
+
+## Risk affecting this stakeholder
+
+* [Suboptimal data science literacy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_813.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -27,7 +31,7 @@
 
 * [Information technology and technical support](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2527.md)
 
-## Risk affecting this stakeholder
+## Type of the stakeholder
 
-* [Suboptimal data science literacy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_813.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

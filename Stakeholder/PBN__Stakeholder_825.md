@@ -4,20 +4,24 @@
 
 ## Category to which it belongs
 
-* [Individuals within the built environment, including building designers, architects, construction workers, and building occupants and managers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_208.md)
+* [Individuals within the built environment, including building designers, architects, construction workers, and building occupants and managers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_258.md)
 
 ## Closest similar item
 
-* [Construction workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_197.md)
-* [Construction industry worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1921.md)
+* [Construction industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_197.md)
+* [Construction industry professional](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1921.md)
 * [Construction industry professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1304.md)
-* [Construction worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1711.md)
+* [Construction industry worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1711.md)
 * [Construction professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_527.md)
-* [Construction industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_149.md)
-* [Workers in the built environment](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1013.md)
-* [Construction industry professional](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1991.md)
-* [Service industry workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1693.md)
-* [Workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_128.md)
+* [Construction worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_149.md)
+* [Construction workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1013.md)
+* [Service industry workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1991.md)
+* [Workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1693.md)
+* [Workers in the built environment](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_128.md)
+
+## Risk affecting this stakeholder
+
+* [Labour shortages](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_730.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -27,7 +31,7 @@
 
 * [Real estate and construction](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1684.md)
 
-## Risk affecting this stakeholder
+## Type of the stakeholder
 
-* [Labour shortages](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_730.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

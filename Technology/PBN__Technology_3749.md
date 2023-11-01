@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Enforcement, regulation, and policy measures are implemented to ensure compliance, ethical standards, and effective governance.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_137.md)
+* [Enforcement, regulation, and policy measures are implemented to ensure compliance, ethical standards, and effective governance.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_187.md)
 
 ## Closest similar item
 
-* [Flexible work policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_126.md)
-* [Workplace policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3471.md)
-* [Enforcement mechanisms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1150.md)
-* [Legal frameworks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1429.md)
+* [Employers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_126.md)
+* [Enforcement and regulation measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3471.md)
+* [Enforcement measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1150.md)
+* [Enforcement mechanisms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1429.md)
 * [Enforcement of mitigation measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1148.md)
-* [Enforcement measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_231.md)
-* [Enforcement personnel](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_369.md)
-* [Employers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_796.md)
-* [Enforcement and regulation measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2219.md)
-* [Legal measures and social support programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2305.md)
+* [Enforcement personnel](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_231.md)
+* [Flexible work policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_369.md)
+* [Legal frameworks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_796.md)
+* [Legal measures and social support programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2219.md)
+* [Workplace policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2305.md)
 
 ## This Technology enables the following mitigations
 

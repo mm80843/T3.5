@@ -2,25 +2,29 @@
 
 # __Water utilities/consumers__
 
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Enhanced treatment](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_998.md)
-* [Prevention of clogs](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1001.md)
-
 ## Category to which it belongs
 
-* [Entities involved in managing occupants, waste, water, and cleaning services within facilities and communities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_237.md)
+* [Entities involved in managing occupants, waste, water, and cleaning services within facilities and communities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_287.md)
 
 ## Closest similar item
 
-* [Water utilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_329.md)
-* [Water utilities/policy makers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_400.md)
-* [Water utilities/public sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_398.md)
-* [Water utility](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2587.md)
-* [Water utilities/workforce](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_399.md)
-* [Water utility employees](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1296.md)
-* [Water management agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1069.md)
-* [Utility companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_763.md)
-* [Water management authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1510.md)
-* [Water management agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2359.md)
+* [Utility companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_329.md)
+* [Water management agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_400.md)
+* [Water management agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_398.md)
+* [Water management authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2587.md)
+* [Water utilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_399.md)
+* [Water utilities/policy makers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1296.md)
+* [Water utilities/public sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1069.md)
+* [Water utilities/workforce](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_763.md)
+* [Water utility](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1510.md)
+* [Water utility employees](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2359.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Enhanced treatment](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1001.md)
+* [Prevention of clogs](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_998.md)
+
+## Type of the stakeholder
+
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_0.md)
 

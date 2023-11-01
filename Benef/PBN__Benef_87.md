@@ -2,23 +2,27 @@
 
 # __Decrease in reproduction number__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-NPHIs have resulted in a 1.90 decrease in the COVID-19 reproduction number, slowing down the spread of the virus.
+* [Effectiveness of non-pharmaceutical public health interventions against COVID-19: A systematic review and meta-analysis](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_19.md)
+
+## Category to which it belongs
+
+* [Optimized evaluation of human exposure to various hazards and the mitigation of their impact.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_8.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in nphis would benefit from a decreased risk of infection, potential reduction in healthcare costs, and improved economic stability.](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_84.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [Effectiveness of non-pharmaceutical public health interventions against COVID-19: A systematic review and meta-analysis](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_19.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
+NPHIs have resulted in a 1.90 decrease in the COVID-19 reproduction number, slowing down the spread of the virus.
 
 ## Risks which can benefit from this action
 
 * [Non-pharmaceutical public health interventions nphis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_74.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
 

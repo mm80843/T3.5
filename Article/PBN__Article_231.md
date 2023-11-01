@@ -2,9 +2,27 @@
 
 # __Significant applications of virtual reality for COVID-19 pandemic__
 
+## Benefits listed in this article
+
+* [Accelerated recovery and improved patient satisfaction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1111.md)
+* [Enhanced psychological treatment effectiveness](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1112.md)
+* [Enhanced training effectiveness](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1113.md)
+* [Improved patient satisfaction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1114.md)
+
 ## DOI of the article
 
 10.1016/j.dsx.2020.05.011
+
+## List of risks in an article
+
+* [Inefficient pain management](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2066.md)
+* [Lack of patient education](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2065.md)
+* [Lack of proper training](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2067.md)
+* [Psychological distress](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2068.md)
+
+## Referenced by other articles
+
+* [Restructured society and environment: A review on potential technological strategies to control the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_359.md)
 
 ## Short summary of the article
 
@@ -14,9 +32,17 @@ The use of virtual reality (VR) technology has been steadily growing in various 
 
 Virtual reality (VR) is when you use special technology to make you feel like you're in a different world. It can be used for lots of things like training doctors, playing video games, or even helping soldiers. Virtual reality can be really helpful in the healthcare field. It can make it easier for doctors to learn and practice surgeries, teach patients about their illnesses, and even help people with mental and physical therapy. Especially during the COVID-19 pandemic, virtual reality can be really useful in helping doctors and patients. It can improve training for medical staff, educate patients, and even help with mental health. Virtual reality is a cool technology that can make a big difference in healthcare!
 
-## Referenced by other articles
+## This article mentions these technologies
 
-* [Restructured society and environment: A review on potential technological strategies to control the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_359.md)
+* [Virtual reality](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1231.md)
+
+## This article points to following mitigation
+
+* [Disease awareness](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4813.md)
+* [Management of pain & physical therapy](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4810.md)
+* [Medical staff training](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4809.md)
+* [Mental and psychological treatment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4811.md)
+* [Patient education](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4812.md)
 
 ## Title of the article
 
@@ -25,30 +51,4 @@ Significant applications of virtual reality for COVID-19 pandemic
 ## Year of publication
 
 2020
-
-## Benefits listed in this article
-
-* [Enhanced training effectiveness](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1111.md)
-* [Improved patient satisfaction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1112.md)
-* [Enhanced psychological treatment effectiveness](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1113.md)
-* [Accelerated recovery and improved patient satisfaction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1114.md)
-
-## List of risks in an article
-
-* [Lack of patient education](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2066.md)
-* [Psychological distress](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2067.md)
-* [Inefficient pain management](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2068.md)
-* [Lack of proper training](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2065.md)
-
-## This article points to following mitigation
-
-* [Medical staff training](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4809.md)
-* [Patient education](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4810.md)
-* [Mental and psychological treatment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4811.md)
-* [Management of pain & physical therapy](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4812.md)
-* [Disease awareness](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4813.md)
-
-## This article mentions these technologies
-
-* [Virtual reality](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1231.md)
 

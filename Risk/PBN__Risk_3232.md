@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The spread of false and misleading information during a pandemic leads to misinformation, inaccurate news, and a lack of trust in reliable sources.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_24.md)
+* [The spread of false and misleading information during a pandemic leads to misinformation, inaccurate news, and a lack of trust in reliable sources.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_74.md)
 
 ## Closest similar item
 
-* [Slow timelines, lack of tools and standards](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2594.md)
+* [Disseminating information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2594.md)
 * [Lack of dynamic and timely information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2789.md)
-* [Lack of timely information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2860.md)
-* [Real-time information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3234.md)
-* [Disseminating information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2522.md)
+* [Lack of historical data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2860.md)
+* [Lack of timely information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3234.md)
+* [Lack of timely information and evidence](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2522.md)
 * [Outdated information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2282.md)
-* [Unreliable information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3084.md)
-* [Lack of timely information and evidence](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2754.md)
+* [Real-time information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3084.md)
+* [Slow timelines, lack of tools and standards](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2754.md)
 * [Time constraints](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3093.md)
-* [Lack of historical data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1097.md)
+* [Unreliable information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1097.md)
 
 ## Mitigations of this risk
 

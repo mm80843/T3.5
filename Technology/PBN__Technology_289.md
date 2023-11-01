@@ -4,34 +4,34 @@
 
 ## Category to which it belongs
 
-* [Improved and diversified communication channels through digital integration, telecommunication technology, and network infrastructure.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_105.md)
+* [Improved and diversified communication channels through digital integration, telecommunication technology, and network infrastructure.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_155.md)
 
 ## Closest similar item
 
-* [Contact tracing technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_29.md)
-* [Contact tracing technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1460.md)
-* [Testing and contact tracing technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1258.md)
-* [Advanced contact tracing and monitoring technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1621.md)
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_402.md)
-* [Digital contact tracing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_793.md)
-* [Contact tracing and control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2112.md)
+* [Advanced contact tracing and monitoring technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_29.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1460.md)
+* [Contact tracing and control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1258.md)
+* [Contact tracing software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1621.md)
+* [Contact tracing technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_402.md)
+* [Contact tracing technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_793.md)
+* [Digital contact tracing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2112.md)
 * [Manual contact tracing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2484.md)
-* [Contact tracing software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1066.md)
+* [Testing and contact tracing technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1066.md)
 * [Use of contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_555.md)
+
+## Risks linked to this technology
+
+* [Lack of social distancing implementation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1196.md)
 
 ## This Technology belongs to this TechGroup
 
 * [Enforcement measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_231.md)
 
-## This technology is mentioned by
-
-* [Analysis of COVID-19 Concerns Raised by the Construction Workforce and Development of Mitigation Practices](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_82.md)
-
 ## This Technology belongs to this TechSubgroup
 
 * [Public health and safety measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2095.md)
 
-## Risks linked to this technology
+## This technology is mentioned by
 
-* [Lack of social distancing implementation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1196.md)
+* [Analysis of COVID-19 Concerns Raised by the Construction Workforce and Development of Mitigation Practices](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_82.md)
 

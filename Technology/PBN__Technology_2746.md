@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_116.md)
+* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_166.md)
 
 ## Closest similar item
 
-* [Ontology matching](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3766.md)
-* [Property matching](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3767.md)
-* [Protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_154.md)
-* [Adaptable spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2653.md)
-* [Localization](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3743.md)
-* [Communication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2850.md)
-* [Transport](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2525.md)
-* [Vision algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3855.md)
-* [Similarity measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3768.md)
-* [Architecture](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2820.md)
+* [Adaptable spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3766.md)
+* [Architecture](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3767.md)
+* [Communication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_154.md)
+* [Localization](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2653.md)
+* [Ontology matching](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3743.md)
+* [Property matching](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2850.md)
+* [Protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2525.md)
+* [Similarity measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3855.md)
+* [Transport](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3768.md)
+* [Vision algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2820.md)
 
 ## This Technology enables the following mitigations
 

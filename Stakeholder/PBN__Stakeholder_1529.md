@@ -4,20 +4,24 @@
 
 ## Category to which it belongs
 
-* [Individuals in confined, poorly ventilated indoor spaces, including offices and homes, with low air quality and inadequate filtration systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_235.md)
+* [Individuals in confined, poorly ventilated indoor spaces, including offices and homes, with low air quality and inadequate filtration systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_285.md)
 
 ## Closest similar item
 
 * [Everyone who spend time indoor](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2459.md)
-* [Individuals spending time indoors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_304.md)
+* [General population and individuals in various indoor settings](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_304.md)
 * [Individual spending time indoor](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2102.md)
 * [Individuals in crowded indoor spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_884.md)
-* [Occupants of indoor spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_843.md)
-* [Room occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_701.md)
+* [Individuals spending time indoors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_843.md)
+* [Occupants of indoor spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_701.md)
 * [Occupants of indoor spaces homes](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1032.md)
 * [People in indoor buildings and spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1524.md)
-* [General population and individuals in various indoor settings](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_678.md)
-* [People in indoor environments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1122.md)
+* [People in indoor environments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_678.md)
+* [Room occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1122.md)
+
+## Risk affecting this stakeholder
+
+* [Poor indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_294.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -27,7 +31,7 @@
 
 * [General individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2101.md)
 
-## Risk affecting this stakeholder
+## Type of the stakeholder
 
-* [Poor indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_294.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

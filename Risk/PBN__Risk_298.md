@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The interconnectedness of global economics has led to financial instability, unemployment, poverty, and decreased investment in certain sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_12.md)
+* [The interconnectedness of global economics has led to financial instability, unemployment, poverty, and decreased investment in certain sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_62.md)
 
 ## Closest similar item
 
 * [Decreased productivity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2710.md)
-* [Less productivity compared to agriculture and manufacturing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1423.md)
-* [Loss of productivity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3085.md)
-* [Productivity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1567.md)
-* [Workplace productivity decrease](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1465.md)
-* [Poor work productivity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2563.md)
-* [Technological limitations, lack of productivity, isolation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3024.md)
-* [Labour shortages, low productivity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2562.md)
-* [Lack of coordination between sectors](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3049.md)
-* [Increased reliance on technology](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1949.md)
+* [Increased reliance on technology](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1423.md)
+* [Labour shortages, low productivity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3085.md)
+* [Lack of coordination between sectors](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1567.md)
+* [Less productivity compared to agriculture and manufacturing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1465.md)
+* [Loss of productivity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2563.md)
+* [Poor work productivity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3024.md)
+* [Productivity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2562.md)
+* [Technological limitations, lack of productivity, isolation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3049.md)
+* [Workplace productivity decrease](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1949.md)
 
 ## Mitigations of this risk
 

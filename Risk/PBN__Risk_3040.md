@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The spread of infectious diseases and lack of understanding of transmission mechanisms contribute to the propagation of contagions, posing a global threat.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_5.md)
+* [The spread of infectious diseases and lack of understanding of transmission mechanisms contribute to the propagation of contagions, posing a global threat.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_55.md)
 
 ## Closest similar item
 
-* [Increased risk of mosquito-borne diseases from bodies of water](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1656.md)
-* [Climate-associated diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1632.md)
-* [Increased prevalence of diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2901.md)
-* [Water contamination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_129.md)
-* [Spread of covid-19 through water](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_577.md)
-* [Spatial variations in disease spread](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_287.md)
-* [Airborne transmission of diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2747.md)
-* [Airborne transmission of disease](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2726.md)
-* [Water quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_714.md)
-* [Airborne diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3331.md)
+* [Airborne diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1656.md)
+* [Airborne transmission of disease](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1632.md)
+* [Airborne transmission of diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2901.md)
+* [Climate-associated diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_129.md)
+* [Increased prevalence of diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_577.md)
+* [Increased risk of mosquito-borne diseases from bodies of water](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_287.md)
+* [Spatial variations in disease spread](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2747.md)
+* [Spread of covid-19 through water](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2726.md)
+* [Water contamination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_714.md)
+* [Water quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3331.md)
 
 ## Mitigations of this risk
 

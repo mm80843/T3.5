@@ -2,42 +2,34 @@
 
 # __Lack of patient monitoring system__
 
+## Articles mentionning the risk
+
+* [Rapid expansion of temporary, reliable airborne-infection isolation rooms with negative air machines for critical COVID-19 patients](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_77.md)
+
 ## Category to which it belongs
 
-* [Healthcare systems overwhelmed, limited access to services, scarcity of resources, and risk to healthcare workers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_10.md)
+* [Healthcare systems overwhelmed, limited access to services, scarcity of resources, and risk to healthcare workers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_60.md)
 
 ## Closest similar item
 
-* [Lack of monitoring system for high-risk patients](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_999.md)
-* [Inadequate patient monitoring](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_465.md)
-* [Lack of monitoring capabilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3161.md)
-* [Lack of patient control over medical data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_321.md)
-* [Inadequate monitoring and evaluation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_398.md)
+* [Health care, surveillance and monitoring gaps](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_999.md)
+* [Health care, surveillance, and monitoring gaps](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_465.md)
+* [Inadequate monitoring and evaluation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3161.md)
+* [Inadequate patient monitoring](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_321.md)
+* [Lack of access to healthcare services](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_398.md)
 * [Lack of healthcare data exchange](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1266.md)
-* [Health care, surveillance and monitoring gaps](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_749.md)
-* [Health care, surveillance, and monitoring gaps](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1608.md)
-* [Lack of healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1859.md)
-* [Lack of access to healthcare services](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2469.md)
+* [Lack of healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_749.md)
+* [Lack of monitoring capabilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1608.md)
+* [Lack of monitoring system for high-risk patients](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1859.md)
+* [Lack of patient control over medical data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2469.md)
 
 ## Description of the risk
 
 Inadequate patient monitoring system in AIIRs
 
-## Type of the risk
-
-* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Is the risk affecting GBN scales
 
 * [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
-
-## Type of impact of the risk (according to ISO37100)
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
-
-## Type of purpose of the risk (according to ISO37100)
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_3.md)
 
 ## Mitigations of this risk
 
@@ -47,23 +39,31 @@ Inadequate patient monitoring system in AIIRs
 
 Difficult access for medical personnel and compromised patient care
 
-## Stakeholders who can mitigate this risk
-
-* [Medical personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_184.md)
-* [Hospital administration](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_797.md)
-
-## Articles mentionning the risk
-
-* [Rapid expansion of temporary, reliable airborne-infection isolation rooms with negative air machines for critical COVID-19 patients](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_77.md)
-
 ## People affected by this risk
 
 * [Health care workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_408.md)
 * [Patients in aiirs](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1059.md)
 
+## Stakeholders who can mitigate this risk
+
+* [Hospital administration](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_184.md)
+* [Medical personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_797.md)
+
 ## Technologies linked to the risk
 
 * [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_3.md)
+
+## Type of the risk
+
+* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 

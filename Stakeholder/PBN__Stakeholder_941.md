@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [A diverse collection of organizations and individuals with specific areas of expertise and jurisdiction.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_189.md)
+* [A diverse collection of organizations and individuals with specific areas of expertise and jurisdiction.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_239.md)
 
 ## Closest similar item
 
-* [Landscape architect](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1682.md)
+* [Architect](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1682.md)
 * [Architects](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_431.md)
-* [Architect](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_364.md)
-* [Landscape maintenance company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1794.md)
-* [Landscape maintenance companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_997.md)
-* [Surveyors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_979.md)
-* [Urban planners and designers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1225.md)
-* [Building designers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_11.md)
+* [Building design professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_364.md)
+* [Building designers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1794.md)
+* [Landscape architect](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_997.md)
+* [Landscape maintenance companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_979.md)
+* [Landscape maintenance company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1225.md)
+* [Surveyors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_11.md)
 * [Urban designers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_380.md)
-* [Building design professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1238.md)
+* [Urban planners and designers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1238.md)
 
 ## Risks that can be mitigated by this stakeholder
 
@@ -31,4 +31,8 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Specific roles and job titles](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1654.md)
+
+## Type of the stakeholder
+
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
 

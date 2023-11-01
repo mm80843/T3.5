@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Insufficient safety measures, inadequate protective equipment, and lack of adherence to prevention guidelines pose significant risks.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_48.md)
+* [Insufficient safety measures, inadequate protective equipment, and lack of adherence to prevention guidelines pose significant risks.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_98.md)
 
 ## Closest similar item
 
 * [Failure in containment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1017.md)
-* [Ineffectiveness of mitigation measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1770.md)
-* [Global containment strategy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_333.md)
-* [Ineffective mitigation policies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_542.md)
-* [Pandemic containment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_706.md)
-* [Failure to implement preventive measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2236.md)
-* [False sense of security from preventive measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1812.md)
-* [Lack of compliance with preventive measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3348.md)
-* [Ineffective use of isolation facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_547.md)
-* [Lack of adherence to preventive measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1106.md)
+* [Failure to implement preventive measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1770.md)
+* [False sense of security from preventive measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_333.md)
+* [Global containment strategy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_542.md)
+* [Ineffective mitigation policies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_706.md)
+* [Ineffective use of isolation facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2236.md)
+* [Ineffectiveness of mitigation measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1812.md)
+* [Lack of adherence to preventive measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3348.md)
+* [Lack of compliance with preventive measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_547.md)
+* [Pandemic containment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1106.md)
 
 ## Mitigations of this risk
 

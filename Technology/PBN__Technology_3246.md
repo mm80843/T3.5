@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Implement strategies to optimize costs, manage crises, and develop sustainable practices while ensuring efficient resource allocation and effective communication.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_143.md)
+* [Implement strategies to optimize costs, manage crises, and develop sustainable practices while ensuring efficient resource allocation and effective communication.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_193.md)
 
 ## Closest similar item
 
-* [Guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_521.md)
-* [Standardized protocols and guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_888.md)
-* [Standards](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_153.md)
-* [Design guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_166.md)
-* [Workplace design guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3478.md)
+* [Design guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_521.md)
+* [Enforcement of guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_888.md)
+* [Guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_153.md)
+* [Industrial practices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_166.md)
+* [Reporting standards](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3478.md)
 * [Standardization and regulation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1588.md)
-* [Reporting standards](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_519.md)
-* [Industrial practices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2982.md)
-* [Standardization efforts](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1637.md)
-* [Enforcement of guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1997.md)
+* [Standardization efforts](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_519.md)
+* [Standardized protocols and guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2982.md)
+* [Standards](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1637.md)
+* [Workplace design guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1997.md)
 
 ## This Technology enables the following mitigations
 

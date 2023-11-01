@@ -4,6 +4,6 @@
 
 ## This return can be realized by these benefits
 
-* [Understanding uv susceptibility of viral aerosols](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_433.md)
-* [Understanding the effect of rh on uv susceptibility of pathogenic viral aerosols](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_435.md)
+* [Understanding the effect of rh on uv susceptibility of pathogenic viral aerosols](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_433.md)
+* [Understanding uv susceptibility of viral aerosols](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_435.md)
 

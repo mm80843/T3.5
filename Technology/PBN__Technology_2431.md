@@ -4,24 +4,24 @@
 
 ## Category to which it belongs
 
-* [Effective water management encompasses wastewater testing, waste management, rainwater storage, wastewater treatment technology, smart water consumption, and improved infrastructure.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_131.md)
+* [Effective water management encompasses wastewater testing, waste management, rainwater storage, wastewater treatment technology, smart water consumption, and improved infrastructure.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_181.md)
 
 ## Closest similar item
 
-* [Water movement](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3078.md)
-* [Water management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2170.md)
+* [Fountains](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3078.md)
+* [Rainwater collection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2170.md)
 * [Water](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2480.md)
-* [Fountains](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3074.md)
-* [Water sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3895.md)
-* [Water storage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2359.md)
-* [Water treatment facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_664.md)
-* [Water-saving technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3649.md)
-* [Water filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3628.md)
-* [Rainwater collection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3735.md)
+* [Water filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3074.md)
+* [Water management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3895.md)
+* [Water movement](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2359.md)
+* [Water sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_664.md)
+* [Water storage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3649.md)
+* [Water treatment facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3628.md)
+* [Water-saving technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3735.md)
 
 ## This Technology enables the following mitigations
 
-* [Biophilic design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1017.md)
 * [Availability of greenery and gardens](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_220.md)
+* [Biophilic design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1017.md)
 * [Indoor biophilia](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5278.md)
 

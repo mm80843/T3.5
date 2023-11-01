@@ -2,9 +2,25 @@
 
 # __Physical interventions to interrupt or reduce the spread of respiratory viruses: systematic review__
 
+## Benefits listed in this article
+
+* [Decreased burden of respiratory disease](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_96.md)
+* [Decreased respiratory illness in children](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_98.md)
+* [Lower incidence of pneumonia in children](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_99.md)
+* [Prevention of severe respiratory syndrome sars](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_100.md)
+* [Reduction in transmission of respiratory syncytical virus](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_97.md)
+
 ## DOI of the article
 
 10.1136/bmj.39393.510347.BE
+
+## List of risks in an article
+
+* [Contagion from animals to humans](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1528.md)
+* [Inadequate reporting and method quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1530.md)
+* [Lack of vaccines and agent-specific drugs](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1529.md)
+* [Poor compliance with interventions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1526.md)
+* [Respiratory viruses strain health services](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1527.md)
 
 ## Short summary of the article
 
@@ -14,6 +30,37 @@ This systematic review summarizes the evidence for the effectiveness of combined
 
 Respiratory viruses can cause a lot of sickness and sometimes even lead to death. They can spread quickly and affect a lot of people. Epidemics of these viruses can also have a big impact on the economy and people's daily lives. Scientists have been studying different ways to prevent the spread of respiratory viruses. They found that things like washing hands often, wearing masks and gloves, and keeping distance from others can help reduce the spread of these viruses. These measures are especially important for younger children. It is also important to educate people about these preventive measures and make sure they follow them.
 
+## This article mentions these technologies
+
+* [Animal surveillance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_5.md)
+* [Antiviral drug research](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_826.md)
+* [Antivirals](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_835.md)
+* [Barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_837.md)
+* [Communication technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_827.md)
+* [Disinfection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_828.md)
+* [Distancing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_829.md)
+* [Educational programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_830.md)
+* [Handwashing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_831.md)
+* [Personal hygiene](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_833.md)
+* [Quarantine protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_832.md)
+* [Reporting guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_838.md)
+* [Research methodology improvement](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_839.md)
+* [Vaccine development](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_834.md)
+* [Vaccines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_836.md)
+
+## This article points to following mitigation
+
+* [Barrier measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Handwashing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3123.md)
+* [Hygiene education](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3306.md)
+* [Isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3912.md)
+* [Personal protection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3759.md)
+* [Quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3911.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_86.md)
+* [Wearing gloves](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3913.md)
+* [Wearing gowns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3909.md)
+* [Wearing masks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3910.md)
+
 ## Title of the article
 
 Physical interventions to interrupt or reduce the spread of respiratory viruses: systematic review
@@ -21,51 +68,4 @@ Physical interventions to interrupt or reduce the spread of respiratory viruses:
 ## Year of publication
 
 2008
-
-## Benefits listed in this article
-
-* [Decreased respiratory illness in children](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_96.md)
-* [Prevention of severe respiratory syndrome sars](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_98.md)
-* [Decreased burden of respiratory disease](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_99.md)
-* [Reduction in transmission of respiratory syncytical virus](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_100.md)
-* [Lower incidence of pneumonia in children](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_97.md)
-
-## List of risks in an article
-
-* [Respiratory viruses strain health services](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1526.md)
-* [Inadequate reporting and method quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1530.md)
-* [Contagion from animals to humans](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1527.md)
-* [Poor compliance with interventions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1529.md)
-* [Lack of vaccines and agent-specific drugs](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1528.md)
-
-## This article points to following mitigation
-
-* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
-* [Quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3123.md)
-* [Wearing masks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3306.md)
-* [Handwashing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_86.md)
-* [Barrier measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3911.md)
-* [Isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3759.md)
-* [Hygiene education](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3913.md)
-* [Personal protection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3912.md)
-* [Wearing gloves](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3909.md)
-* [Wearing gowns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3910.md)
-
-## This article mentions these technologies
-
-* [Disinfection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_833.md)
-* [Barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_831.md)
-* [Vaccine development](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_835.md)
-* [Communication technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_5.md)
-* [Quarantine protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_834.md)
-* [Reporting guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_838.md)
-* [Antiviral drug research](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_836.md)
-* [Educational programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_837.md)
-* [Antivirals](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_827.md)
-* [Research methodology improvement](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_839.md)
-* [Handwashing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_828.md)
-* [Distancing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_830.md)
-* [Personal hygiene](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_829.md)
-* [Vaccines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_826.md)
-* [Animal surveillance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_832.md)
 

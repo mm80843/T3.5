@@ -4,34 +4,34 @@
 
 ## Category to which it belongs
 
-* [Enhanced monitoring and tracking technologies ensure efficient surveillance, tracking, and crowd management without compromising privacy.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_136.md)
+* [Enhanced monitoring and tracking technologies ensure efficient surveillance, tracking, and crowd management without compromising privacy.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_186.md)
 
 ## Closest similar item
 
-* [Disease surveillance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1884.md)
-* [Surveillance and monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2204.md)
-* [Technology for disease surveillance and contact tracing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1029.md)
-* [Surveillance systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_0.md)
-* [Surveillance system](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3300.md)
-* [Digital surveillance systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1558.md)
+* [Digital surveillance systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1884.md)
+* [Disease surveillance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2204.md)
+* [Enhanced surveillance and monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1029.md)
+* [Improved surveillance systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_0.md)
+* [Monitoring and surveillance technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3300.md)
+* [Surveillance and monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1558.md)
 * [Surveillance and tracking systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2062.md)
-* [Improved surveillance systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1684.md)
-* [Enhanced surveillance and monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_604.md)
-* [Monitoring and surveillance technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1856.md)
+* [Surveillance system](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1684.md)
+* [Surveillance systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_604.md)
+* [Technology for disease surveillance and contact tracing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1856.md)
+
+## Risks linked to this technology
+
+* [Climate-associated diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1632.md)
 
 ## This Technology belongs to this TechGroup
 
 * [Surveillance systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_0.md)
 
-## This technology is mentioned by
-
-* [Challenges to Mitigating the Urban Health Burden of Mosquito-Borne Diseases in the Face of Climate Change](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_95.md)
-
 ## This Technology belongs to this TechSubgroup
 
 * [Surveillance and monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2204.md)
 
-## Risks linked to this technology
+## This technology is mentioned by
 
-* [Climate-associated diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1632.md)
+* [Challenges to Mitigating the Urban Health Burden of Mosquito-Borne Diseases in the Face of Climate Change](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_95.md)
 

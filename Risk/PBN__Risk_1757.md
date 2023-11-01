@@ -2,41 +2,34 @@
 
 # __Internal risks__
 
+## Articles mentionning the risk
+
+* [Mapping research in logistics and supply chain management during COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_4.md)
+
 ## Category to which it belongs
 
-* [The assortment of hazards, dangers, exposures, vulnerabilities, and uncertainties that stem from different domains of life.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_33.md)
+* [The assortment of hazards, dangers, exposures, vulnerabilities, and uncertainties that stem from different domains of life.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_83.md)
 
 ## Closest similar item
 
-* [Health risks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1990.md)
-* [Overall health risks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2430.md)
-* [Health and safety risks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_733.md)
-* [Risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_985.md)
-* [General health risks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2200.md)
-* [Psychological risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_84.md)
-* [Health risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_83.md)
-* [Human health risks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2968.md)
-* [Increased risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2915.md)
+* [General health risks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1990.md)
+* [Health and safety risks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2430.md)
+* [Health risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_733.md)
+* [Health risks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_985.md)
+* [Human health risks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2200.md)
+* [Increased risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_84.md)
+* [Overall health risks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_83.md)
+* [Psychological risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2968.md)
+* [Risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2915.md)
 * [Security risks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2103.md)
 
 ## Description of the risk
 
 Risks originating within the supply chain, such as disruptions in production, distribution, or transportation operations
 
-## Type of the risk
-
-
 ## Is the risk affecting GBN scales
 
 * [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
-
-## Type of impact of the risk (according to ISO37100)
-
-* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_8.md)
-
-## Type of purpose of the risk (according to ISO37100)
-
-* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_10.md)
 
 ## Mitigations of this risk
 
@@ -46,30 +39,37 @@ Risks originating within the supply chain, such as disruptions in production, di
 
 Decreased productivity, delays in delivery, increased costs
 
-## Stakeholders who can mitigate this risk
-
-* [Supply chain managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_983.md)
-* [Logistics providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_535.md)
-* [Suppliers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_283.md)
-
-## Articles mentionning the risk
-
-* [Mapping research in logistics and supply chain management during COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_4.md)
-
 ## People affected by this risk
 
-* [Supply chain managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_983.md)
-* [Logistics providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_535.md)
-* [Suppliers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_283.md)
+* [Logistics providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_983.md)
+* [Suppliers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_535.md)
+* [Supply chain managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_283.md)
+
+## Stakeholders who can mitigate this risk
+
+* [Logistics providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_983.md)
+* [Suppliers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_535.md)
+* [Supply chain managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_283.md)
 
 ## Technologies linked to the risk
 
 * [Risk assessment and management tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1138.md)
 * [Supply chain risk analytics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1139.md)
 
+## Type of impact of the risk (according to ISO37100)
+
+* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_8.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_10.md)
+
+## Type of the risk
+
+
 ## Property: has_RiskType
 
-* [Technological](https://github.com/mm80843/T3.5/blob/pages/RiskType/PBN__RiskType_5.md)
-* [Economic](https://github.com/mm80843/T3.5/blob/pages/RiskType/PBN__RiskType_3.md)
-* [Social](https://github.com/mm80843/T3.5/blob/pages/RiskType/PBN__RiskType_2.md)
+* [Economic](https://github.com/mm80843/T3.5/blob/pages/RiskType/PBN__RiskType_5.md)
+* [Social](https://github.com/mm80843/T3.5/blob/pages/RiskType/PBN__RiskType_3.md)
+* [Technological](https://github.com/mm80843/T3.5/blob/pages/RiskType/PBN__RiskType_2.md)
 

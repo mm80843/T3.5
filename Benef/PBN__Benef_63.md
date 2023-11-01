@@ -2,24 +2,28 @@
 
 # __Standardized knowledge representation__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-CIDO provides standardized and logical representation of coronavirus knowledge, facilitating data integration and analysis, and serving as a state-of-the-art knowledge base for coronavirus research.
+* [CIDO, a community-based ontology for coronavirus disease knowledge and data integration, sharing, and analysis](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_13.md)
+
+## Category to which it belongs
+
+* [Accelerated learning and adaptive expertise for optimal performance and advanced research capabilities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_26.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from improved data integration and analysis, resulting in more accurate and comprehensive understanding of coronavirus diseases, potentially leading to valuable discoveries or treatments.](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_63.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [CIDO, a community-based ontology for coronavirus disease knowledge and data integration, sharing, and analysis](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_13.md)
+CIDO provides standardized and logical representation of coronavirus knowledge, facilitating data integration and analysis, and serving as a state-of-the-art knowledge base for coronavirus research.
+
+## Risks which can benefit from this action
+
+* [Development of cido ontology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_56.md)
 
 ## Stakeholders benefitting from this Benefit
 
 * [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
 * [Scientists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_46.md)
-
-## Risks which can benefit from this action
-
-* [Development of cido ontology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_56.md)
 

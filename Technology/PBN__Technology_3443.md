@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Enhanced cleaning practices and hygiene protocols utilize a wide range of tools, equipment, solutions, and technologies to ensure cleanliness and safety.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_112.md)
+* [Enhanced cleaning practices and hygiene protocols utilize a wide range of tools, equipment, solutions, and technologies to ensure cleanliness and safety.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_162.md)
 
 ## Closest similar item
 
-* [Cleaning products](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_881.md)
-* [Sanitizing products](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3597.md)
-* [Cleaning and disinfection products](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_227.md)
-* [Enhanced cleaning and sanitization technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_735.md)
-* [Regular cleaning and disinfection technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1288.md)
-* [Cleaning and sanitization equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2942.md)
-* [Increased use of cleaning and disinfecting products](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_584.md)
-* [Enhanced cleaning technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1553.md)
-* [Cleaning technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3482.md)
-* [Disinfection products](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3118.md)
+* [Cleaning and disinfection products](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_881.md)
+* [Cleaning and sanitization equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3597.md)
+* [Cleaning products](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_227.md)
+* [Cleaning technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_735.md)
+* [Disinfection products](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1288.md)
+* [Enhanced cleaning and sanitization technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2942.md)
+* [Enhanced cleaning technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_584.md)
+* [Increased use of cleaning and disinfecting products](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1553.md)
+* [Regular cleaning and disinfection technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3482.md)
+* [Sanitizing products](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3118.md)
 
 ## This Technology enables the following mitigations
 

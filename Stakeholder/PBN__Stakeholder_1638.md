@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_212.md)
+* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_262.md)
 
 ## Closest similar item
 
-* [Educators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_43.md)
-* [Teacher](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1648.md)
-* [Teachers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_102.md)
+* [Academic](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_43.md)
+* [Education](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1648.md)
+* [Education authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_102.md)
 * [Education authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1642.md)
-* [Education authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1494.md)
-* [Education](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1630.md)
-* [Educational administration](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1636.md)
-* [Education department](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1639.md)
-* [School administrators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1278.md)
-* [Academic](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1633.md)
+* [Education department](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1494.md)
+* [Educational administration](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1630.md)
+* [Educators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1636.md)
+* [School administrators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1639.md)
+* [Teacher](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1278.md)
+* [Teachers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1633.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

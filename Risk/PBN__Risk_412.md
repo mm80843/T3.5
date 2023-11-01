@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The interconnectedness of global economics has led to financial instability, unemployment, poverty, and decreased investment in certain sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_12.md)
+* [The interconnectedness of global economics has led to financial instability, unemployment, poverty, and decreased investment in certain sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_62.md)
 
 ## Closest similar item
 
-* [Financial viability of businesses](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3257.md)
-* [Financial instability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1081.md)
-* [Negative economic effects on businesses](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_785.md)
-* [Financial vulnerability of smes](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_678.md)
-* [Financial problems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_415.md)
-* [Financial difficulties](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2808.md)
-* [Cash flow issues and financial instability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2767.md)
-* [Financial impact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_599.md)
+* [Cash flow issues and financial instability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3257.md)
+* [Financial difficulties](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1081.md)
+* [Financial impact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_785.md)
+* [Financial impacts](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_678.md)
+* [Financial instability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_415.md)
+* [Financial problems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2808.md)
+* [Financial viability of businesses](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2767.md)
+* [Financial vulnerability of smes](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_599.md)
 * [Impact on financial stability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_502.md)
-* [Financial impacts](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_553.md)
+* [Negative economic effects on businesses](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_553.md)
 
 ## Mitigations of this risk
 

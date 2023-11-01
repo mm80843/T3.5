@@ -2,9 +2,25 @@
 
 # __Urban form: Realising the value of green space: a planners’ perspective on the COVID-19 pandemic__
 
+## Benefits listed in this article
+
+* [Availability of public parks](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_190.md)
+* [Enhanced benefits from green space](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_186.md)
+* [High-quality green space](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_187.md)
+* [Improved health and wellbeing](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_188.md)
+* [Increased accessibility to green space](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_189.md)
+
 ## DOI of the article
 
 10.3828/tpr.2020.37
+
+## List of risks in an article
+
+* [Deprioritization of green space in urban planning](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1043.md)
+* [Inequitable distribution of green space](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1042.md)
+* [Insufficient funding for green space](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1041.md)
+* [Lack of access to green space](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1040.md)
+* [Poor quality of green space](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1044.md)
 
 ## Short summary of the article
 
@@ -14,6 +30,25 @@ This research abstract summarizes the importance of green space in urban plannin
 
 During the last few decades, cities have been growing really fast and more people are living in cities than ever before. This has made life better for many people, but it has also caused some problems. People's health, both physical and mental, is getting worse because there are not enough places to play or relax in cities. The COVID-19 pandemic has made this even worse because people have to stay home and can't go out to parks and other green spaces. Having access to green spaces, like parks, is really important for our health. It can help prevent diseases and make us feel happier. But not all neighborhoods have enough green spaces. This is a problem that needs to be fixed, even after the pandemic is over. Green spaces are really important for our well-being and we need to make sure everyone has access to them.
 
+## This article mentions these technologies
+
+* [Community engagement](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_49.md)
+* [Financial incentives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_55.md)
+* [Green infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_52.md)
+* [Green infrastructure management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_51.md)
+* [Public-private partnerships](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_48.md)
+* [Sustainable financing models](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_50.md)
+* [Urban planning regulations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_53.md)
+* [Urban planning strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_54.md)
+
+## This article points to following mitigation
+
+* [Access to green space](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3161.md)
+* [Creating green space in existing communities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3164.md)
+* [Planning and design interventions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3163.md)
+* [Proximity of green space](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3162.md)
+* [Quality of green space](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3165.md)
+
 ## Title of the article
 
 Urban form: Realising the value of green space: a planners’ perspective on the COVID-19 pandemic
@@ -21,39 +56,4 @@ Urban form: Realising the value of green space: a planners’ perspective on the
 ## Year of publication
 
 2021
-
-## Benefits listed in this article
-
-* [Improved health and wellbeing](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_186.md)
-* [Increased accessibility to green space](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_187.md)
-* [Availability of public parks](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_188.md)
-* [Enhanced benefits from green space](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_189.md)
-* [High-quality green space](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_190.md)
-
-## List of risks in an article
-
-* [Lack of access to green space](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1040.md)
-* [Poor quality of green space](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1042.md)
-* [Insufficient funding for green space](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1044.md)
-* [Deprioritization of green space in urban planning](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1043.md)
-* [Inequitable distribution of green space](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1041.md)
-
-## This article points to following mitigation
-
-* [Planning and design interventions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3164.md)
-* [Quality of green space](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3163.md)
-* [Access to green space](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3161.md)
-* [Proximity of green space](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3162.md)
-* [Creating green space in existing communities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3165.md)
-
-## This article mentions these technologies
-
-* [Green infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_48.md)
-* [Urban planning strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_49.md)
-* [Urban planning regulations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_52.md)
-* [Public-private partnerships](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_55.md)
-* [Green infrastructure management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_50.md)
-* [Community engagement](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_51.md)
-* [Financial incentives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_53.md)
-* [Sustainable financing models](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_54.md)
 

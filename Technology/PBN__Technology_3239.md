@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Lighting solutions that utilize ultraviolet technology for germicidal purposes, energy efficiency, and control of natural light.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_147.md)
+* [Lighting solutions that utilize ultraviolet technology for germicidal purposes, energy efficiency, and control of natural light.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_197.md)
 
 ## Closest similar item
 
-* [Uv radiation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2139.md)
-* [Uv air purification systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2153.md)
-* [Affordable filter materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2020.md)
-* [Uv light](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2451.md)
-* [Uv irradiation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2268.md)
-* [Uv](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3209.md)
-* [Water filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3628.md)
-* [Uv irradiation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_235.md)
-* [Glass walls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1263.md)
-* [Uv light systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_880.md)
+* [Affordable filter materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2139.md)
+* [Glass walls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2153.md)
+* [Uv](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2020.md)
+* [Uv air purification systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2451.md)
+* [Uv irradiation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2268.md)
+* [Uv irradiation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3209.md)
+* [Uv light](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3628.md)
+* [Uv light systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_235.md)
+* [Uv radiation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1263.md)
+* [Water filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_880.md)
 
 ## This Technology enables the following mitigations
 

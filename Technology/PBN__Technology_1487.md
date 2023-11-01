@@ -4,28 +4,28 @@
 
 ## Category to which it belongs
 
-* [Efforts to inform and engage the public, promote awareness, influence policies, and foster community involvement.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_124.md)
+* [Efforts to inform and engage the public, promote awareness, influence policies, and foster community involvement.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_174.md)
 
 ## Closest similar item
 
-* [Community outreach programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1080.md)
-* [Outreach programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_174.md)
-* [Outreach campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1204.md)
-* [Targeted outreach to disadvantaged communities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1828.md)
-* [Community outreach programs for social support](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1443.md)
+* [Community initiatives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1080.md)
+* [Community mobilization efforts](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_174.md)
+* [Community outreach programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1204.md)
+* [Community outreach programs for social support](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1828.md)
+* [Fostering community](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1443.md)
 * [Health education and community outreach](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2083.md)
-* [Targeted outreach programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1337.md)
-* [Fostering community](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3446.md)
-* [Community initiatives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2307.md)
-* [Community mobilization efforts](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2352.md)
+* [Outreach campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1337.md)
+* [Outreach programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3446.md)
+* [Targeted outreach programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2307.md)
+* [Targeted outreach to disadvantaged communities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2352.md)
+
+## Risks linked to this technology
+
+* [Lack of trust and cooperation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1998.md)
 
 ## This Technology belongs to this TechGroup
 
 * [Telehealth](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1447.md)
-
-## This technology is mentioned by
-
-* [From Viral City to Smart City: Learning from Pandemic Experiences](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_183.md)
 
 ## This Technology belongs to this TechSubgroup
 
@@ -35,7 +35,7 @@
 
 * [Community vaccination programs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4429.md)
 
-## Risks linked to this technology
+## This technology is mentioned by
 
-* [Lack of trust and cooperation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1998.md)
+* [From Viral City to Smart City: Learning from Pandemic Experiences](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_183.md)
 

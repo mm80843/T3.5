@@ -2,23 +2,27 @@
 
 # __Delivering relevant and high-quality evidence in short periods__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Timely provision of evidence supports urgent decision-making and informs policies and systems
+* [Amplifying the role of knowledge translation platforms in the COVID-19 pandemic response](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_111.md)
+
+## Category to which it belongs
+
+* [A comprehensive and efficient system for generating, disseminating, and utilizing reliable and actionable knowledge.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_3.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Quick decision-making, improved response, and increased capability demonstration](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_596.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [Amplifying the role of knowledge translation platforms in the COVID-19 pandemic response](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_111.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [Decision-makers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_227.md)
+Timely provision of evidence supports urgent decision-making and informs policies and systems
 
 ## Risks which can benefit from this action
 
 * [Activate rapid response services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_556.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [Decision-makers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_227.md)
 

@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Enhancing travel experience through real-time updates, virtual tours, local services, reservation systems, alternative transportation, and accessibility improvements.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_132.md)
+* [Enhancing travel experience through real-time updates, virtual tours, local services, reservation systems, alternative transportation, and accessibility improvements.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_182.md)
 
 ## Closest similar item
 
-* [Network infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2174.md)
-* [Road network data](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3054.md)
-* [Transportation infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2309.md)
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2164.md)
-* [Public transport infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3868.md)
-* [Infrastructure and transportation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2165.md)
-* [Scalable infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_157.md)
-* [Telecommunication infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3741.md)
-* [Active transportation infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1153.md)
-* [Infrastructure support](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2351.md)
+* [Active transportation infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2174.md)
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3054.md)
+* [Infrastructure and transportation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2309.md)
+* [Infrastructure support](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2164.md)
+* [Network infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3868.md)
+* [Public transport infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2165.md)
+* [Road network data](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_157.md)
+* [Scalable infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3741.md)
+* [Telecommunication infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1153.md)
+* [Transportation infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2351.md)
 
 ## This Technology enables the following mitigations
 

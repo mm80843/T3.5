@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The wide-ranging sectors and industries, from the private sector to energy and manufacturing, that drive global economies and the interconnectedness of businesses and industries worldwide.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_206.md)
+* [The wide-ranging sectors and industries, from the private sector to energy and manufacturing, that drive global economies and the interconnectedness of businesses and industries worldwide.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_256.md)
 
 ## Closest similar item
 
-* [Economic policymakers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_892.md)
-* [Policymakers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_126.md)
-* [Policy makers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_3.md)
-* [Policy-makers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_229.md)
-* [Policy advisors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1010.md)
-* [Economic organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1883.md)
-* [Economy](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_91.md)
-* [Economic organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_974.md)
-* [All economic actors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_144.md)
-* [National economies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_86.md)
+* [All economic actors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_892.md)
+* [Economic organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_126.md)
+* [Economic organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_3.md)
+* [Economic policymakers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_229.md)
+* [Economy](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1010.md)
+* [National economies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1883.md)
+* [Policy advisors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_91.md)
+* [Policy makers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_974.md)
+* [Policy-makers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_144.md)
+* [Policymakers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_86.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

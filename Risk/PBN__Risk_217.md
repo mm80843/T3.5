@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Contagious diseases in built environments, limited pandemic preparedness, and unpredictable disease spread contribute to the global outbreak.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_6.md)
+* [Contagious diseases in built environments, limited pandemic preparedness, and unpredictable disease spread contribute to the global outbreak.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_56.md)
 
 ## Closest similar item
 
-* [Influenza transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_215.md)
-* [Indoor influenza transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1691.md)
-* [Influenza virus survival](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1690.md)
-* [Influenza incidence](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_216.md)
-* [Inter-city variations in influenza-like outbreaks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_285.md)
-* [Impact of indoor and outdoor conditions on influenza seasonality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1694.md)
-* [Improving models predicting trends in influenza-like illnesses](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_680.md)
-* [Airborne transmission of respiratory animal viral aerosols](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_337.md)
-* [Infectious disease transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_942.md)
-* [Airborne transmission of viruses](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2443.md)
+* [Airborne transmission of respiratory animal viral aerosols](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_215.md)
+* [Airborne transmission of viruses](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1691.md)
+* [Impact of indoor and outdoor conditions on influenza seasonality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1690.md)
+* [Improving models predicting trends in influenza-like illnesses](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_216.md)
+* [Indoor influenza transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_285.md)
+* [Infectious disease transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1694.md)
+* [Influenza incidence](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_680.md)
+* [Influenza transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_337.md)
+* [Influenza virus survival](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_942.md)
+* [Inter-city variations in influenza-like outbreaks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2443.md)
 
 ## Mitigations of this risk
 

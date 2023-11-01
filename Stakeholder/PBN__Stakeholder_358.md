@@ -2,26 +2,26 @@
 
 # __Insurance companies__
 
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Cost savings in healthcare](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_896.md)
-
 ## Category to which it belongs
 
-* [A comprehensive array of various organizations and governing bodies related to diverse industries and sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_229.md)
+* [A comprehensive array of various organizations and governing bodies related to diverse industries and sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_279.md)
 
 ## Closest similar item
 
-* [Insurance company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1957.md)
-* [Insurance](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1871.md)
-* [Insurance subscribers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_456.md)
-* [Insurance subscriber](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1911.md)
-* [Healthcare providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_121.md)
-* [Companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_67.md)
-* [Healthcare provider](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2015.md)
-* [Health care providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_344.md)
-* [Healthcare agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1855.md)
-* [Health care provider](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1851.md)
+* [Companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1957.md)
+* [Health care provider](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1871.md)
+* [Health care providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_456.md)
+* [Healthcare agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1911.md)
+* [Healthcare provider](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_121.md)
+* [Healthcare providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_67.md)
+* [Insurance](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2015.md)
+* [Insurance company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_344.md)
+* [Insurance subscriber](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1855.md)
+* [Insurance subscribers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1851.md)
+
+## Risk affecting this stakeholder
+
+* [Risk of infection through face-to-face contact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_849.md)
 
 ## Risks that can be mitigated by this stakeholder
 
@@ -36,7 +36,13 @@
 
 * [Insurance](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1871.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder can get these Benefits from mitigation measures
 
-* [Risk of infection through face-to-face contact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_849.md)
+* [Cost savings in healthcare](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_896.md)
+
+## Type of the stakeholder
+
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_0.md)
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

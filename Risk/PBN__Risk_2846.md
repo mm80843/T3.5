@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The challenges of urbanization and population density manifest in overcrowding, limited transport infrastructure, and disrupted mobility patterns.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_13.md)
+* [The challenges of urbanization and population density manifest in overcrowding, limited transport infrastructure, and disrupted mobility patterns.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_63.md)
 
 ## Closest similar item
 
 * [Economic and social disruption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1510.md)
-* [Social disruptions, transmission in crowded spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2841.md)
-* [Urban mobility and commute patterns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2352.md)
-* [Increased transportation and contact in workplaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2843.md)
-* [Increased fear, disruption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2607.md)
-* [Social distancing impact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1298.md)
-* [Increased travel](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2960.md)
-* [Transiency and overcrowding](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1176.md)
-* [Increased contact in public transportation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2845.md)
-* [Economic impact, mobility restrictions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2733.md)
+* [Economic impact, mobility restrictions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2841.md)
+* [Increased contact in public transportation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2352.md)
+* [Increased fear, disruption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2843.md)
+* [Increased transportation and contact in workplaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2607.md)
+* [Increased travel](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1298.md)
+* [Social disruptions, transmission in crowded spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2960.md)
+* [Social distancing impact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1176.md)
+* [Transiency and overcrowding](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2845.md)
+* [Urban mobility and commute patterns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2733.md)
 
 ## Mitigations of this risk
 

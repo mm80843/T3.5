@@ -2,26 +2,26 @@
 
 # __Bim software__
 
-## Link between Blueprint and General ontology
-
-* [Design & Construction software (BIM)](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_27.md)
-
 ## Category to which it belongs
 
-* [Efficiently manage finances, construction projects, schedules, contracts, communication, and data analysis with advanced software and technology.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_141.md)
+* [Efficiently manage finances, construction projects, schedules, contracts, communication, and data analysis with advanced software and technology.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_191.md)
 
 ## Closest similar item
 
 * [Bim](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3877.md)
-* [Design & construction software bim](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3905.md)
-* [Building information model bim](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1041.md)
-* [Supply chain management software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_637.md)
+* [Building information model bim](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3905.md)
+* [Data management tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1041.md)
+* [Design & construction software bim](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_637.md)
 * [Financial management software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_128.md)
-* [Project management software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_130.md)
-* [Software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3537.md)
-* [Software tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2328.md)
-* [Data management tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_779.md)
-* [Gis software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3202.md)
+* [Gis software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_130.md)
+* [Project management software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3537.md)
+* [Software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2328.md)
+* [Software tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_779.md)
+* [Supply chain management software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3202.md)
+
+## Link between Blueprint and General ontology
+
+* [Design & Construction software (BIM)](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_27.md)
 
 ## This Technology enables the following mitigations
 

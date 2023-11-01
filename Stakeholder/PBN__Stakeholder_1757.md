@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [All individuals engaged in various forms of work, including employees, freelancers, laborers, and professionals.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_194.md)
+* [All individuals engaged in various forms of work, including employees, freelancers, laborers, and professionals.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_244.md)
 
 ## Closest similar item
 
-* [Job-seeker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1709.md)
-* [Job seekers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1488.md)
-* [Job-seekers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1364.md)
-* [Hiring managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_981.md)
-* [Retail worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1664.md)
-* [Unemployed individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_265.md)
-* [Freelancer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1725.md)
-* [Social worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2439.md)
-* [Employers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_180.md)
-* [Service industry worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1719.md)
+* [Employers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1709.md)
+* [Freelancer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1488.md)
+* [Hiring managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1364.md)
+* [Job seekers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_981.md)
+* [Job-seeker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1664.md)
+* [Job-seekers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_265.md)
+* [Retail worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1725.md)
+* [Service industry worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2439.md)
+* [Social worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_180.md)
+* [Unemployed individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1719.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

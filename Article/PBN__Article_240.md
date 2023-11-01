@@ -2,9 +2,31 @@
 
 # __Methods for air cleaning and protection of building occupants from airborne pathogens__
 
+## Benefits listed in this article
+
+* [Air purification](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_192.md)
+* [Dilution of contaminants](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_430.md)
+* [Improved air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_995.md)
+* [Pathogen inactivation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1165.md)
+* [Reduced risk of infection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1164.md)
+
 ## DOI of the article
 
 10.1016/j.buildenv.2008.09.001
+
+## List of risks in an article
+
+* [Airborne pathogen generation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1186.md)
+* [Dilution of room air](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1187.md)
+* [Filtration of air](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1184.md)
+* [Personalized ventilation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1183.md)
+* [Protection by ventilation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1181.md)
+* [Survival of pathogens in air](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1182.md)
+* [Ultraviolet germicidal irradiation uvgi](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1185.md)
+
+## Referenced by other articles
+
+* [Role of ventilation in airborne transmission of infectious agents in the built environment ? a multidisciplinary systematic review](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_328.md)
 
 ## Short summary of the article
 
@@ -14,9 +36,28 @@ This research article discusses the risks and challenges associated with the tra
 
 People live and work in crowded places where they can be exposed to many germs. This can make them sick and also affect how well they can work or enjoy their time. There have been many diseases in history that have spread quickly and made a lot of people sick, like the Spanish flu in 1918. This is a problem because people can travel easily now, which can help diseases spread even faster. It's important to make sure that the air indoors is clean and doesn't have any germs. Unfortunately, many buildings and air systems are not designed to prevent the spread of germs. There are different methods and technologies that can be used to clean the air, like filters, ultraviolet light, and personalized ventilation. These methods can help keep people healthy and prevent the spread of diseases.
 
-## Referenced by other articles
+## This article mentions these technologies
 
-* [Role of ventilation in airborne transmission of infectious agents in the built environment ? a multidisciplinary systematic review](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_328.md)
+* [Displacement ventilation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
+* [High-efficiency filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
+* [Mechanical ventilation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_271.md)
+* [Natural ventilation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_272.md)
+* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_273.md)
+* [Personalized ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_274.md)
+
+## This article points to following mitigation
+
+* [Advanced air distribution](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3354.md)
+* [Desiccant rotor](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_312.md)
+* [Dilution](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3304.md)
+* [Essential oils](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3356.md)
+* [Filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3355.md)
+* [Nanotechnology silver nanoparticles](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1166.md)
+* [Personalized ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_313.md)
+* [Photocatalytic oxidation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1168.md)
+* [Plasmacluster ions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3351.md)
+* [Ultraviolet germicidal irradiation uvgi](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3352.md)
+* [Ventilation protection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3353.md)
 
 ## Title of the article
 
@@ -25,45 +66,4 @@ Methods for air cleaning and protection of building occupants from airborne path
 ## Year of publication
 
 2009
-
-## Benefits listed in this article
-
-* [Improved air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_192.md)
-* [Pathogen inactivation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_995.md)
-* [Reduced risk of infection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_430.md)
-* [Dilution of contaminants](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1164.md)
-* [Air purification](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1165.md)
-
-## List of risks in an article
-
-* [Filtration of air](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1184.md)
-* [Personalized ventilation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1186.md)
-* [Protection by ventilation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1187.md)
-* [Ultraviolet germicidal irradiation uvgi](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1185.md)
-* [Airborne pathogen generation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1181.md)
-* [Survival of pathogens in air](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1182.md)
-* [Dilution of room air](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1183.md)
-
-## This article points to following mitigation
-
-* [Ultraviolet germicidal irradiation uvgi](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3304.md)
-* [Personalized ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1166.md)
-* [Filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_312.md)
-* [Dilution](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_313.md)
-* [Photocatalytic oxidation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1168.md)
-* [Desiccant rotor](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3351.md)
-* [Plasmacluster ions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3352.md)
-* [Essential oils](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3353.md)
-* [Nanotechnology silver nanoparticles](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3354.md)
-* [Ventilation protection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3355.md)
-* [Advanced air distribution](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3356.md)
-
-## This article mentions these technologies
-
-* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
-* [Mechanical ventilation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_271.md)
-* [Natural ventilation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_270.md)
-* [High-efficiency filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_272.md)
-* [Personalized ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_273.md)
-* [Displacement ventilation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_274.md)
 

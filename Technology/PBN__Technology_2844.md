@@ -4,19 +4,19 @@
 
 ## Category to which it belongs
 
-* [Advanced analytics and simulation techniques can be used to study complex systems and make predictions using artificial intelligence and machine learning, as well as optimize processes and analyze data efficiently.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_107.md)
+* [Advanced analytics and simulation techniques can be used to study complex systems and make predictions using artificial intelligence and machine learning, as well as optimize processes and analyze data efficiently.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_157.md)
 
 ## Closest similar item
 
 * [Benchmarking](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_823.md)
-* [Performance tracking tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1415.md)
-* [Cost optimization strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_162.md)
-* [Fast prediction models](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3703.md)
-* [Planning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2386.md)
+* [Cost optimization strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1415.md)
+* [Data optimization techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_162.md)
+* [Economic planning tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3703.md)
+* [Fast prediction models](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2386.md)
 * [Optimization](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3061.md)
-* [Economic planning tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1491.md)
-* [Optimized workflows](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2030.md)
-* [Data optimization techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_176.md)
+* [Optimized workflows](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1491.md)
+* [Performance tracking tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2030.md)
+* [Planning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_176.md)
 * [Rapid testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2315.md)
 
 ## This Technology enables the following mitigations

@@ -4,19 +4,19 @@
 
 ## Category to which it belongs
 
-* [Innovations and applications in chemistry, materials, and technology for purification, disinfection, and environmental protection.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_146.md)
+* [Innovations and applications in chemistry, materials, and technology for purification, disinfection, and environmental protection.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_196.md)
 
 ## Closest similar item
 
-* [Anti-bacterial materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2832.md)
-* [Antimicrobial materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2830.md)
-* [Anti-microbial materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3607.md)
-* [Data nan nan warehousing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1571.md)
-* [Selection of anti-microbial materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1727.md)
-* [Antimicrobial surface materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3483.md)
-* [Anti-bacterial](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3291.md)
-* [Antimicrobial coating](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2870.md)
-* [Nan nan nan sound-activated nan nan nan nan elevator design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3365.md)
+* [Anti-bacterial](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2832.md)
+* [Anti-bacterial materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
+* [Anti-microbial materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2830.md)
+* [Antimicrobial coating](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3607.md)
+* [Antimicrobial materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1571.md)
+* [Antimicrobial surface materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1727.md)
+* [Data nan nan warehousing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3483.md)
+* [Nan nan nan sound-activated nan nan nan nan elevator design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2870.md)
+* [Selection of anti-microbial materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3365.md)
 
 ## This Technology enables the following mitigations
 

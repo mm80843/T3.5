@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Innovative technologies and systems that enable efficient and secure control, management, and interaction in various domains.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_109.md)
+* [Innovative technologies and systems that enable efficient and secure control, management, and interaction in various domains.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_159.md)
 
 ## Closest similar item
 
-* [Remote working](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_716.md)
-* [Remote monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_207.md)
-* [Remote working technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_548.md)
-* [Remote monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_460.md)
-* [Remote work technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_284.md)
-* [Remote communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1239.md)
-* [Remote access software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1452.md)
-* [Remote monitoring devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_549.md)
-* [Technology for remote communication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2944.md)
-* [Remote monitoring technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_403.md)
+* [Remote access software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_716.md)
+* [Remote communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_207.md)
+* [Remote monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_548.md)
+* [Remote monitoring devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_460.md)
+* [Remote monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_284.md)
+* [Remote monitoring technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1239.md)
+* [Remote work technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1452.md)
+* [Remote working](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_549.md)
+* [Remote working technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2944.md)
+* [Technology for remote communication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_403.md)
 
 ## This Technology enables the following mitigations
 

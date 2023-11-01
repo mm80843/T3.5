@@ -2,42 +2,34 @@
 
 # __Lack of relaxation space__
 
+## Articles mentionning the risk
+
+* [Adaptive Design of the Built Environment to Mitigate the Transmission Risk of COVID-19](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_151.md)
+
 ## Category to which it belongs
 
-* [Insufficiency and neglect of green spaces, limited access to public and outdoor spaces, overcrowding in living areas and public spaces.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_39.md)
+* [Insufficiency and neglect of green spaces, limited access to public and outdoor spaces, overcrowding in living areas and public spaces.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_89.md)
 
 ## Closest similar item
 
-* [Limited space and inadequate room quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_640.md)
-* [Lack of green space](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2347.md)
-* [Poor thermal comfort](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1861.md)
-* [Lack of private space](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3148.md)
-* [Inadequate thermal comfort](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_342.md)
-* [Lack of self-sufficient spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1934.md)
-* [Lack of flexibility](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2659.md)
-* [Lack of safe spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2393.md)
-* [Lack of space and poor spatial organization](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_343.md)
-* [Lack of capacity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3187.md)
+* [Inadequate thermal comfort](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_640.md)
+* [Lack of capacity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2347.md)
+* [Lack of flexibility](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1861.md)
+* [Lack of green space](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3148.md)
+* [Lack of private space](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_342.md)
+* [Lack of safe spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1934.md)
+* [Lack of self-sufficient spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2659.md)
+* [Lack of space and poor spatial organization](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2393.md)
+* [Limited space and inadequate room quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_343.md)
+* [Poor thermal comfort](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3187.md)
 
 ## Description of the risk
 
 Limited access to dedicated relaxation spaces
 
-## Type of the risk
-
-* [Mental](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_1.md)
-
 ## Is the risk affecting GBN scales
 
 * [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
-
-## Type of impact of the risk (according to ISO37100)
-
-* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_4.md)
-
-## Type of purpose of the risk (according to ISO37100)
-
-* [Preserv. and improve. of the environment](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_7.md)
 
 ## Mitigations of this risk
 
@@ -47,23 +39,31 @@ Limited access to dedicated relaxation spaces
 
 Increased stress and mental health issues
 
-## Stakeholders who can mitigate this risk
-
-* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
-* [Architects](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_431.md)
-
-## Articles mentionning the risk
-
-* [Adaptive Design of the Built Environment to Mitigate the Transmission Risk of COVID-19](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_151.md)
-
 ## People affected by this risk
 
 * [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
+
+## Stakeholders who can mitigate this risk
+
+* [Architects](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
+* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_431.md)
 
 ## Technologies linked to the risk
 
 * [Green spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_146.md)
 * [Outdoor furniture](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_145.md)
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_4.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Preserv. and improve. of the environment](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_7.md)
+
+## Type of the risk
+
+* [Mental](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_1.md)
 
 ## Property: has_RiskType
 

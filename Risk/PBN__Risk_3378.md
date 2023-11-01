@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Inadequate resources, staff, facilities, training, coordination, and preparedness contribute to the inefficient and ineffective response to various challenges and needs.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_28.md)
+* [Inadequate resources, staff, facilities, training, coordination, and preparedness contribute to the inefficient and ineffective response to various challenges and needs.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_78.md)
 
 ## Closest similar item
 
-* [Lack of coordination and communication](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2868.md)
-* [Lack of collaboration and coordination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_397.md)
-* [Inadequate collaboration and coordination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1353.md)
-* [Poor communication and coordination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1747.md)
-* [Lack of coordination and integration](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_403.md)
-* [Lack of coordination and duplicative efforts](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2572.md)
-* [Lack of control](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1071.md)
-* [Coordination problems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2426.md)
-* [Lack of coordination and harmonization](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_815.md)
-* [Lack of control over movement](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3158.md)
+* [Coordination problems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2868.md)
+* [Inadequate collaboration and coordination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_397.md)
+* [Lack of collaboration and coordination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1353.md)
+* [Lack of control](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1747.md)
+* [Lack of control over movement](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_403.md)
+* [Lack of coordination and communication](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2572.md)
+* [Lack of coordination and duplicative efforts](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1071.md)
+* [Lack of coordination and harmonization](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2426.md)
+* [Lack of coordination and integration](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_815.md)
+* [Poor communication and coordination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3158.md)
 
 ## Mitigations of this risk
 

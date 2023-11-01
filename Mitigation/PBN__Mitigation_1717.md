@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Implementing extensive surveillance measures, including increased monitoring, tracking, and real-time detection, to enhance public safety and response to various threats.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_53.md)
+* [Implementing extensive surveillance measures, including increased monitoring, tracking, and real-time detection, to enhance public safety and response to various threats.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_103.md)
 
 ## Closest similar item
 
-* [Wearable devices for the detection of covid-19](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1421.md)
-* [Using wearables to manage symptoms and identify overexertion in individuals with long covid](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_949.md)
+* [Conducting training programs and educational sessions on covid-19 protocols and infection control measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1421.md)
+* [Covid-19 tracking apps](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_949.md)
 * [Develop algorithms and models that can accurately differentiate covid-19 from other viral infections based on physiological data](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1555.md)
-* [Use of wbe for tracking covid-19 prevalence](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1206.md)
-* [Covid-19 tracking apps](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1163.md)
-* [Wbe for monitoring covid-19](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1023.md)
-* [Strict adherence to covid-19 preventative measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3255.md)
-* [System robustness against covid-19](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3927.md)
-* [Rapid covid-19 screening](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4802.md)
-* [Conducting training programs and educational sessions on covid-19 protocols and infection control measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1989.md)
+* [Rapid covid-19 screening](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1206.md)
+* [Strict adherence to covid-19 preventative measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1163.md)
+* [System robustness against covid-19](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1023.md)
+* [Use of wbe for tracking covid-19 prevalence](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3255.md)
+* [Using wearables to manage symptoms and identify overexertion in individuals with long covid](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3927.md)
+* [Wbe for monitoring covid-19](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4802.md)
+* [Wearable devices for the detection of covid-19](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1989.md)
 
 ## Risks possibly mitigated by this Mitigation
 

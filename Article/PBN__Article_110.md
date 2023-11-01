@@ -2,9 +2,25 @@
 
 # __Reflecting on Impacts of COVID19 on Sustainable Buildings and Cities__
 
+## Benefits listed in this article
+
+* [Energy demand monitoring and adaptation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_169.md)
+* [Equitable indoor environments](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_534.md)
+* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_532.md)
+* [Improved outdoor air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_533.md)
+* [Personalized indoor environments](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_535.md)
+
 ## DOI of the article
 
 10.1115/1.4050374
+
+## List of risks in an article
+
+* [Energy consumption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1410.md)
+* [Inadequate infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1411.md)
+* [Inadequate ventilation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_745.md)
+* [Low indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_713.md)
+* [Social equity disparities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1409.md)
 
 ## Short summary of the article
 
@@ -18,6 +34,27 @@ The pandemic has exacerbated social equity issues related to indoor environments
 
 The COVID19 pandemic has affected many parts of our lives, including buildings and cities. Buildings are important because the virus can spread easily indoors, so it's important to have good ventilation and filters to control the spread. However, many buildings were not designed with this in mind, so changes may need to be made to make them safer. The pandemic has also affected the demand for energy, with less energy being used in commercial buildings and more in residential buildings. This has led to changes in how buildings should be designed in the future. Lastly, the pandemic has shown that not everyone has access to healthy indoor environments, which is a problem that needs to be addressed.
 
+## This article mentions these technologies
+
+* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
+* [Energy-efficient appliances](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_667.md)
+* [Equitable distribution of resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+* [Improved hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_79.md)
+* [Improved infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_660.md)
+* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_666.md)
+* [Smart meters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_668.md)
+* [Upgraded hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_669.md)
+
+## This article points to following mitigation
+
+* [Continuous monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1000.md)
+* [Filtration and ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3727.md)
+* [Multi-functional buildings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3725.md)
+* [Outdoor air quality control](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3728.md)
+* [Personalized indoor controls](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3726.md)
+* [Retrofits](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3723.md)
+* [Sociotechnical analysis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3724.md)
+
 ## Title of the article
 
 Reflecting on Impacts of COVID19 on Sustainable Buildings and Cities
@@ -25,41 +62,4 @@ Reflecting on Impacts of COVID19 on Sustainable Buildings and Cities
 ## Year of publication
 
 2021
-
-## Benefits listed in this article
-
-* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_169.md)
-* [Personalized indoor environments](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_532.md)
-* [Improved outdoor air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_533.md)
-* [Energy demand monitoring and adaptation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_534.md)
-* [Equitable indoor environments](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_535.md)
-
-## List of risks in an article
-
-* [Social equity disparities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1410.md)
-* [Low indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1409.md)
-* [Energy consumption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_745.md)
-* [Inadequate ventilation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_713.md)
-* [Inadequate infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1411.md)
-
-## This article points to following mitigation
-
-* [Multi-functional buildings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3727.md)
-* [Outdoor air quality control](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3726.md)
-* [Filtration and ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3723.md)
-* [Continuous monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1000.md)
-* [Personalized indoor controls](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3725.md)
-* [Sociotechnical analysis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3728.md)
-* [Retrofits](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3724.md)
-
-## This article mentions these technologies
-
-* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
-* [Improved hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_660.md)
-* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
-* [Energy-efficient appliances](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_79.md)
-* [Smart meters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_666.md)
-* [Improved infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_669.md)
-* [Upgraded hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_668.md)
-* [Equitable distribution of resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_667.md)
 

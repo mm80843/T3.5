@@ -4,20 +4,24 @@
 
 ## Category to which it belongs
 
-* [Individuals from various sectors, including informal and formal economies, facing economic hardship and job loss.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_236.md)
+* [Individuals from various sectors, including informal and formal economies, facing economic hardship and job loss.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_286.md)
 
 ## Closest similar item
 
-* [Woman in informal economy](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2310.md)
-* [Workers in the informal sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1778.md)
-* [Worker in the informal sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1743.md)
-* [Informal sector workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1259.md)
-* [Informal workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_96.md)
-* [Women experiencing economic hardship](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_563.md)
-* [Informal sector worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1768.md)
-* [Woman experiencing economic hardship](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2294.md)
-* [Informal settlements](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_917.md)
-* [Residents of informal settlements](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_95.md)
+* [Informal sector worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2310.md)
+* [Informal sector workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1778.md)
+* [Informal settlements](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1743.md)
+* [Informal workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1259.md)
+* [Residents of informal settlements](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_96.md)
+* [Woman experiencing economic hardship](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_563.md)
+* [Woman in informal economy](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1768.md)
+* [Women experiencing economic hardship](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2294.md)
+* [Worker in the informal sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_917.md)
+* [Workers in the informal sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_95.md)
+
+## Risk affecting this stakeholder
+
+* [Gender inequality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_237.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -27,7 +31,7 @@
 
 * [Gender defined individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2090.md)
 
-## Risk affecting this stakeholder
+## Type of the stakeholder
 
-* [Gender inequality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_237.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

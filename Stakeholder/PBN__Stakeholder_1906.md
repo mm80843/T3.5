@@ -4,19 +4,19 @@
 
 ## Category to which it belongs
 
-* [Creators of digital solutions for various purposes, from software and app development to blockchain and ai.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_226.md)
+* [Creators of digital solutions for various purposes, from software and app development to blockchain and ai.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_276.md)
 
 ## Closest similar item
 
-* [Mobile app developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1308.md)
-* [Mobile application developer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2016.md)
-* [Mobile app developer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2528.md)
-* [App developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1138.md)
-* [App developer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2029.md)
-* [Application developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1399.md)
-* [Software and app development](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1920.md)
-* [Developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_635.md)
-* [Platform developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1553.md)
+* [App developer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1308.md)
+* [App developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2016.md)
+* [Application developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2528.md)
+* [Developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1138.md)
+* [Mobile app developer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2029.md)
+* [Mobile app developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1399.md)
+* [Mobile application developer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1920.md)
+* [Platform developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_635.md)
+* [Software and app development](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1553.md)
 * [Software developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1569.md)
 
 ## This Stakeholder belongs to this StakeholderGroup

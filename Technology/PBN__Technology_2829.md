@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Lighting solutions that utilize ultraviolet technology for germicidal purposes, energy efficiency, and control of natural light.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_147.md)
+* [Lighting solutions that utilize ultraviolet technology for germicidal purposes, energy efficiency, and control of natural light.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_197.md)
 
 ## Closest similar item
 
-* [Natural light](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2427.md)
-* [Use of natural light](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1730.md)
-* [Natural lighting](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2655.md)
-* [Natural light solutions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1611.md)
-* [Natural lighting systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_422.md)
-* [Natural light solutions skylights, sun tubes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2138.md)
-* [Lighting](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3665.md)
-* [Lighting solutions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2123.md)
-* [Energy-efficient lighting](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_118.md)
-* [Far-uvc light](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3153.md)
+* [Energy-efficient lighting](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2427.md)
+* [Far-uvc light](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1730.md)
+* [Lighting](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2655.md)
+* [Lighting solutions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1611.md)
+* [Natural light](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_422.md)
+* [Natural light solutions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2138.md)
+* [Natural light solutions skylights, sun tubes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3665.md)
+* [Natural lighting](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2123.md)
+* [Natural lighting systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_118.md)
+* [Use of natural light](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3153.md)
 
 ## This Technology enables the following mitigations
 

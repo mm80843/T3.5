@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Digital platforms facilitate virtual collaboration, communication, information sharing, and online transactions among individuals and communities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_100.md)
+* [Digital platforms facilitate virtual collaboration, communication, information sharing, and online transactions among individuals and communities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_150.md)
 
 ## Closest similar item
 
-* [Web-based tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3298.md)
-* [Software tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2328.md)
-* [Project management tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_631.md)
+* [Collaboration tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3298.md)
+* [Collaborative tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2328.md)
+* [Digital content creation tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_631.md)
 * [Online collaboration tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1661.md)
-* [Digital content creation tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3402.md)
+* [Project management tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3402.md)
 * [Resource and project management tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2037.md)
-* [Collaborative tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2434.md)
-* [Collaboration tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_565.md)
+* [Software tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2434.md)
+* [Virtual collaboration tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_565.md)
 * [Web-based applications](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_243.md)
-* [Virtual collaboration tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_131.md)
+* [Web-based tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_131.md)
 
 ## This Technology enables the following mitigations
 

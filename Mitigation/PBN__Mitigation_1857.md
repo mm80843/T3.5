@@ -4,19 +4,19 @@
 
 ## Category to which it belongs
 
-* [Enhance air quality through the implementation of filtration systems, reduction of pollution levels, and increased outdoor air circulation.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_89.md)
+* [Enhance air quality through the implementation of filtration systems, reduction of pollution levels, and increased outdoor air circulation.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_139.md)
 
 ## Closest similar item
 
-* [Negative air ionization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_523.md)
-* [Improve design to reduce noise and develop smaller and more user-friendly personal air-purifying shields](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3111.md)
-* [Negative-pressure ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4718.md)
-* [Improved air filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4550.md)
-* [Enhanced air filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4179.md)
-* [Plasmacluster ions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3352.md)
-* [Bipolar ionization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1352.md)
-* [Improve air filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3736.md)
-* [Air filtration and purification](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4225.md)
+* [Air filtration and purification](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_523.md)
+* [Bipolar ionization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3111.md)
+* [Enhanced air filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4718.md)
+* [Improve air filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4550.md)
+* [Improve design to reduce noise and develop smaller and more user-friendly personal air-purifying shields](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4179.md)
+* [Improved air filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3352.md)
+* [Negative air ionization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1352.md)
+* [Negative-pressure ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3736.md)
+* [Plasmacluster ions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4225.md)
 * [Portable air filters](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4933.md)
 
 ## Risks possibly mitigated by this Mitigation

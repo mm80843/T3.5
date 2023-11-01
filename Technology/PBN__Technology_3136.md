@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Accurate and reliable knowledge dissemination and fact-checking through interdisciplinary collaboration and intelligent information feedback.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_122.md)
+* [Accurate and reliable knowledge dissemination and fact-checking through interdisciplinary collaboration and intelligent information feedback.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_172.md)
 
 ## Closest similar item
 
-* [Knowledge management platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3262.md)
-* [Knowledge sharing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2845.md)
-* [Knowledge base](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2325.md)
-* [Knowledge-base system](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2566.md)
-* [Knowledge graphs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2334.md)
-* [Knowledge translation platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_563.md)
-* [Expertise and collaboration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2378.md)
-* [Knowledge extraction techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1344.md)
-* [Data management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_512.md)
-* [Expert systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1145.md)
+* [Data management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3262.md)
+* [Expert systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2845.md)
+* [Expertise and collaboration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2325.md)
+* [Knowledge base](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2566.md)
+* [Knowledge extraction techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2334.md)
+* [Knowledge graphs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_563.md)
+* [Knowledge management platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2378.md)
+* [Knowledge sharing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1344.md)
+* [Knowledge translation platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_512.md)
+* [Knowledge-base system](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1145.md)
 
 ## This Technology enables the following mitigations
 

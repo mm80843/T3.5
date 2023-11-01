@@ -2,42 +2,34 @@
 
 # __Health risks__
 
+## Articles mentionning the risk
+
+* [Pandemics and Automation: Will the Lost Jobs Come Back?](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_98.md)
+
 ## Category to which it belongs
 
-* [The assortment of hazards, dangers, exposures, vulnerabilities, and uncertainties that stem from different domains of life.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_33.md)
+* [The assortment of hazards, dangers, exposures, vulnerabilities, and uncertainties that stem from different domains of life.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_83.md)
 
 ## Closest similar item
 
-* [Health risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_83.md)
-* [Human health risks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2968.md)
-* [General health risks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2200.md)
-* [Overall health risks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2430.md)
-* [Health and safety risks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_733.md)
-* [Health effects](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2497.md)
-* [Health and safety concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_557.md)
-* [Concerns about health and safety](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1976.md)
-* [Internal risks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1757.md)
+* [Concerns about health and safety](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_83.md)
+* [General health risks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2968.md)
+* [Health and safety concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2200.md)
+* [Health and safety risks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2430.md)
+* [Health effects](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_733.md)
+* [Health risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2497.md)
+* [Human health risks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_557.md)
+* [Internal risks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1976.md)
+* [Overall health risks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1757.md)
 * [Risk of exposure in healthcare settings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_362.md)
 
 ## Description of the risk
 
 Pandemics, such as COVID-19, pose significant health risks to individuals and communities.
 
-## Type of the risk
-
-* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Is the risk affecting GBN scales
 
 * [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
-
-## Type of impact of the risk (according to ISO37100)
-
-* [Impact](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_11.md)
-
-## Type of purpose of the risk (according to ISO37100)
-
-* [Topic](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_12.md)
 
 ## Mitigations of this risk
 
@@ -47,25 +39,33 @@ Pandemics, such as COVID-19, pose significant health risks to individuals and co
 
 Increased morbidity and mortality rates, overwhelmed healthcare systems, and long-term health consequences.
 
-## Stakeholders who can mitigate this risk
-
-* [Public health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_222.md)
-* [Healthcare systems](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_193.md)
-
-## Articles mentionning the risk
-
-* [Pandemics and Automation: Will the Lost Jobs Come Back?](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_98.md)
-
 ## People affected by this risk
 
 * [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
 * [Vulnerable populations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_127.md)
 
+## Stakeholders who can mitigate this risk
+
+* [Healthcare systems](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_222.md)
+* [Public health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_193.md)
+
 ## Technologies linked to the risk
 
+* [Healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1474.md)
 * [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_136.md)
-* [Healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3.md)
-* [Social distancing technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1474.md)
+* [Social distancing technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3.md)
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Impact](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_11.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Topic](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_12.md)
+
+## Type of the risk
+
+* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 

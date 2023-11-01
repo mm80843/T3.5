@@ -4,34 +4,34 @@
 
 ## Category to which it belongs
 
-* [Enhanced monitoring and control measures in various sectors, including vector control, infrastructure management, and behavior change interventions, with the use of advanced technology and continuous evaluation.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_75.md)
+* [Enhanced monitoring and control measures in various sectors, including vector control, infrastructure management, and behavior change interventions, with the use of advanced technology and continuous evaluation.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_125.md)
 
 ## Closest similar item
 
-* [Visualization and monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3447.md)
-* [Monitoring reactions and performance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4511.md)
-* [Reproducible analytics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3602.md)
-* [Spatiotemporal ieq monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3718.md)
-* [Monitoring and support mechanisms](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_831.md)
-* [Testing and early detection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4056.md)
+* [Enhanced monitoring and control efforts](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3447.md)
+* [Monitoring and support mechanisms](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4511.md)
+* [Monitoring changes in environmental and climatic conditions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3602.md)
+* [Monitoring environmental indicators](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3718.md)
+* [Monitoring reactions and performance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_831.md)
+* [Reproducible analytics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4056.md)
 * [Screening masses](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3156.md)
-* [Monitoring environmental indicators](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3899.md)
-* [Monitoring changes in environmental and climatic conditions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1018.md)
-* [Enhanced monitoring and control efforts](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_664.md)
-
-## Property: has_MitigationPrinciple
-
-Use of smartphone data and cameras to monitor and enforce social distancing measures
+* [Spatiotemporal ieq monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3899.md)
+* [Testing and early detection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1018.md)
+* [Visualization and monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_664.md)
 
 ## Risks possibly mitigated by this Mitigation
 
 * [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_332.md)
 
-## Property: has_MitigationSource
-
-* [Smart cities and the pandemic: digital technologies on the urban management of Brazilian cities](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_143.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [Geolocation data](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2755.md)
+
+## Property: has_MitigationPrinciple
+
+Use of smartphone data and cameras to monitor and enforce social distancing measures
+
+## Property: has_MitigationSource
+
+* [Smart cities and the pandemic: digital technologies on the urban management of Brazilian cities](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_143.md)
 

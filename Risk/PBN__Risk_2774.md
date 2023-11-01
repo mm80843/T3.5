@@ -4,19 +4,19 @@
 
 ## Category to which it belongs
 
-* [The toll of the pandemic includes harm to mental health, increased domestic violence, and psychological distress, highlighting the need for support and resources.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_2.md)
+* [The toll of the pandemic includes harm to mental health, increased domestic violence, and psychological distress, highlighting the need for support and resources.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_52.md)
 
 ## Closest similar item
 
-* [Stress and mental fatigue](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2451.md)
-* [Stress, fatigue, poor mental well-being](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2445.md)
-* [Psychological stress and mental health issues](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_532.md)
-* [Increased stress and anxiety](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2770.md)
-* [Emotional stress](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3274.md)
-* [Increased stress for students and faculty](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_213.md)
-* [Pandemic fatigue](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1218.md)
-* [Overwhelm, stress](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3109.md)
-* [Media fatigue, avoidance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2496.md)
+* [Emotional stress](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2451.md)
+* [Increased stress and anxiety](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2445.md)
+* [Increased stress for students and faculty](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_532.md)
+* [Media fatigue, avoidance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2770.md)
+* [Overwhelm, stress](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3274.md)
+* [Pandemic fatigue](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_213.md)
+* [Psychological stress and mental health issues](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1218.md)
+* [Stress and mental fatigue](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3109.md)
+* [Stress, fatigue, poor mental well-being](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2496.md)
 * [Stresses exacerbating disease](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_490.md)
 
 ## Mitigations of this risk

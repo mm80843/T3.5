@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The interconnectedness of global economics has led to financial instability, unemployment, poverty, and decreased investment in certain sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_12.md)
+* [The interconnectedness of global economics has led to financial instability, unemployment, poverty, and decreased investment in certain sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_62.md)
 
 ## Closest similar item
 
 * [Barriers to accessing funding](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_560.md)
-* [Scarcity of research](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2622.md)
+* [Declining funding flows](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2622.md)
 * [Decreased access to traditional research methodologies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1576.md)
-* [Public criticism of funding plans](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2811.md)
-* [Declining funding flows](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2549.md)
-* [Limited capacity and dependence on international researchers](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3283.md)
-* [Research needs](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_257.md)
-* [Insufficient funding and resources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2576.md)
-* [Insufficient funding for green space](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1044.md)
-* [Financial constraints](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1287.md)
+* [Financial constraints](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2811.md)
+* [Insufficient funding and resources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2549.md)
+* [Insufficient funding for green space](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3283.md)
+* [Limited capacity and dependence on international researchers](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_257.md)
+* [Public criticism of funding plans](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2576.md)
+* [Research needs](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1044.md)
+* [Scarcity of research](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1287.md)
 
 ## Mitigations of this risk
 

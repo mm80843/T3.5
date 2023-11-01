@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_119.md)
+* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_169.md)
 
 ## Closest similar item
 
-* [Improved screening measures on preprint servers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1920.md)
-* [Server infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3593.md)
-* [Secure servers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1069.md)
-* [Coordinated services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3453.md)
-* [Remote service platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3655.md)
-* [Improved evaluation and synthesis of preprint data](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1921.md)
-* [Secure server networks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_345.md)
-* [Cloud service](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2778.md)
-* [Preparedness planning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3012.md)
-* [Scalable infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_157.md)
+* [Cloud service](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1920.md)
+* [Coordinated services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3593.md)
+* [Improved evaluation and synthesis of preprint data](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1069.md)
+* [Improved screening measures on preprint servers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3453.md)
+* [Preparedness planning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3655.md)
+* [Remote service platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1921.md)
+* [Scalable infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_345.md)
+* [Secure server networks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2778.md)
+* [Secure servers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3012.md)
+* [Server infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_157.md)
 
 ## This Technology enables the following mitigations
 

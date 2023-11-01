@@ -4,20 +4,25 @@
 
 ## Category to which it belongs
 
-* [Particularly vulnerable populations, including low-income individuals, those with low education, and individuals in noisy or crowded environments, especially men, are at increased risk.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_202.md)
+* [Particularly vulnerable populations, including low-income individuals, those with low education, and individuals in noisy or crowded environments, especially men, are at increased risk.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_252.md)
 
 ## Closest similar item
 
-* [Especially those in densely populated area](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2235.md)
-* [Particularly those in densely populated areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1107.md)
-* [Particularly those in densely populated area](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2148.md)
-* [Especially in densely populated areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1143.md)
-* [Especially in densely populated area](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2225.md)
-* [Especially those living in densely populated areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_894.md)
-* [Especially those living in densely populated area](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2296.md)
-* [Especially those in densely populated and low-income neighborhood](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2231.md)
-* [Especially those in densely populated and low-income neighborhoods](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1224.md)
-* [Especially those living in densely populated area with limited acce to natural environment](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2314.md)
+* [Especially in densely populated area](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2235.md)
+* [Especially in densely populated areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1107.md)
+* [Especially those in densely populated and low-income neighborhood](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2148.md)
+* [Especially those in densely populated and low-income neighborhoods](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1143.md)
+* [Especially those in densely populated area](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2225.md)
+* [Especially those living in densely populated area](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_894.md)
+* [Especially those living in densely populated area with limited acce to natural environment](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2296.md)
+* [Especially those living in densely populated areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2231.md)
+* [Particularly those in densely populated area](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1224.md)
+* [Particularly those in densely populated areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2314.md)
+
+## Risk affecting this stakeholder
+
+* [Lack of green spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1672.md)
+* [Lack of green spaces in the built environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1295.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -27,8 +32,7 @@
 
 * [Geographically defined individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2075.md)
 
-## Risk affecting this stakeholder
+## Type of the stakeholder
 
-* [Lack of green spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1295.md)
-* [Lack of green spaces in the built environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1672.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

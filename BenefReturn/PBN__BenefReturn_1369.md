@@ -4,8 +4,8 @@
 
 ## This return can be realized by these benefits
 
-* [Improved public health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_47.md)
-* [Increased mental and physical health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1218.md)
-* [Enhanced mental and physical health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1221.md)
+* [Enhanced mental and physical health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_47.md)
+* [Improved public health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1218.md)
+* [Increased mental and physical health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1221.md)
 * [Increased resilience to disease outbreaks](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1222.md)
 

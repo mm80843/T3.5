@@ -2,23 +2,27 @@
 
 # __Control of the epidemic__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-The reduction in transmission achieved by interventions, as measured by changes in the reproduction number, leads to control of the epidemic and a decrease in the incidence of new infections.
+* [Report 13: Estimating the number of infections and the impact of non-pharmaceutical interventions on COVID-19 in 11 European countries](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_166.md)
+
+## Category to which it belongs
+
+* [Minimized transmission and spread risk while ensuring effective infection control, prevention, and containment measures against diseases like coronavirus.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_17.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Investing in interventions that reduce transmission can lead to a more stabilized and controlled epidemic, supporting economic recovery and preserving the well-being of the population.](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_901.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [Report 13: Estimating the number of infections and the impact of non-pharmaceutical interventions on COVID-19 in 11 European countries](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_166.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
+The reduction in transmission achieved by interventions, as measured by changes in the reproduction number, leads to control of the epidemic and a decrease in the incidence of new infections.
 
 ## Risks which can benefit from this action
 
 * [Reduction in transmission as measured by changes in reproduction number](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_826.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
 

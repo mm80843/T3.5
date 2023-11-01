@@ -4,27 +4,27 @@
 
 ## Category to which it belongs
 
-* [Public and governmental entities at various levels, including policy makers, governments, and citizens.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_192.md)
+* [Public and governmental entities at various levels, including policy makers, governments, and citizens.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_242.md)
 
 ## Closest similar item
 
-* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
-* [Foreign nationals living or visiting saudi arabia](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1272.md)
-* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
-* [Government authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_302.md)
-* [Government authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1613.md)
-* [Government and international organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2394.md)
+* [Foreign nationals living or visiting saudi arabia](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
+* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1272.md)
+* [Government agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
+* [Government and international organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_302.md)
+* [Government authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1613.md)
+* [Government authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2394.md)
 * [Government department](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2389.md)
-* [Government agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2372.md)
-* [National governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_51.md)
-* [Government officials](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_333.md)
+* [Government officials](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2372.md)
+* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_51.md)
+* [National governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_333.md)
 
 ## Risks that can be mitigated by this stakeholder
 
-* [Lockdown](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1866.md)
-* [Religious pilgrimages](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1863.md)
-* [High population of foreign nationals](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1862.md)
-* [Curfew](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1865.md)
+* [Curfew](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1866.md)
+* [High population of foreign nationals](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1863.md)
+* [Lockdown](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1862.md)
+* [Religious pilgrimages](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1865.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -33,4 +33,8 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Governmental entities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1603.md)
+
+## Type of the stakeholder
+
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
 

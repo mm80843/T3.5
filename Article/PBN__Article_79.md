@@ -2,9 +2,24 @@
 
 # __Recently employed engineering techniques to reduce the spread of COVID-19 (corona virus disease 2019): a review study__
 
+## Benefits listed in this article
+
+* [Contactless identification](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_400.md)
+* [Disinfection of surfaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_398.md)
+* [Fever detection and screening](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_399.md)
+* [Remote patient care and disinfection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_401.md)
+
 ## DOI of the article
 
 10.11591/ijeecs.v22.i1.pp277-286
+
+## List of risks in an article
+
+* [Contagious disease transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1021.md)
+* [Inaccurate identification and tracking of infected individuals](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2011.md)
+* [Inadequate temperature screening](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2010.md)
+* [Insufficient disinfection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2009.md)
+* [Limited healthcare capacity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2008.md)
 
 ## Short summary of the article
 
@@ -14,6 +29,26 @@ This study provides an overview of engineering techniques that have been used to
 
 There is a type of virus called coronaviruses that can make people sick, and the one we're dealing with right now is called COVID-19. This virus has a structure with spike proteins that look like a crown. Scientists have been using different engineering techniques to try and fight against this virus. One technique is using UV light, which can damage the genetic material of the virus and stop it from spreading. Another technique is using infrared cameras to measure people's body temperatures and identify if they have a fever, which is a symptom of COVID-19. Robots are also being used to help with tasks like taking temperatures and delivering things to reduce the contact between people. Lastly, face recognition technology can help track and identify people who might be infected. All of these techniques are being used to try and control the spread of the virus and keep people safe.
 
+## This article mentions these technologies
+
+* [Ai algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
+* [Automated face recognition systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1447.md)
+* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_149.md)
+* [Drones with thermal cameras](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
+* [Infrared thermal imaging cameras](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
+* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1504.md)
+* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1502.md)
+* [Remote patient monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1500.md)
+* [Robotic assistance in healthcare](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1501.md)
+* [Telehealth](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1503.md)
+
+## This article points to following mitigation
+
+* [Automated face recognition](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_404.md)
+* [Infrared thermal imaging](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_402.md)
+* [Robotics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_403.md)
+* [Uv-light radiation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4692.md)
+
 ## Title of the article
 
 Recently employed engineering techniques to reduce the spread of COVID-19 (corona virus disease 2019): a review study
@@ -21,39 +56,4 @@ Recently employed engineering techniques to reduce the spread of COVID-19 (coron
 ## Year of publication
 
 2021
-
-## Benefits listed in this article
-
-* [Disinfection of surfaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_398.md)
-* [Fever detection and screening](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_399.md)
-* [Remote patient care and disinfection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_400.md)
-* [Contactless identification](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_401.md)
-
-## List of risks in an article
-
-* [Inaccurate identification and tracking of infected individuals](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2011.md)
-* [Contagious disease transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1021.md)
-* [Insufficient disinfection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2008.md)
-* [Limited healthcare capacity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2010.md)
-* [Inadequate temperature screening](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2009.md)
-
-## This article points to following mitigation
-
-* [Robotics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_404.md)
-* [Uv-light radiation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_402.md)
-* [Infrared thermal imaging](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_403.md)
-* [Automated face recognition](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4692.md)
-
-## This article mentions these technologies
-
-* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
-* [Telehealth](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1447.md)
-* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
-* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
-* [Ai algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_149.md)
-* [Remote patient monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1502.md)
-* [Automated face recognition systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1504.md)
-* [Drones with thermal cameras](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1501.md)
-* [Robotic assistance in healthcare](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1503.md)
-* [Infrared thermal imaging cameras](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1500.md)
 

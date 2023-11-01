@@ -4,20 +4,25 @@
 
 ## Category to which it belongs
 
-* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_212.md)
+* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_262.md)
 
 ## Closest similar item
 
-* [Subcontractor](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1702.md)
-* [Suppliers and subcontractors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_320.md)
-* [Labor union](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1652.md)
-* [Construction companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_181.md)
-* [Contractor](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1961.md)
-* [Network operator](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1766.md)
-* [Hvac engineer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1753.md)
-* [Supply chain partners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_296.md)
-* [Hvac engineers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_921.md)
-* [Hvac technician](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1740.md)
+* [Construction companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1702.md)
+* [Contractor](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_320.md)
+* [Hvac engineer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1652.md)
+* [Hvac engineers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_181.md)
+* [Hvac technician](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1961.md)
+* [Labor union](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1766.md)
+* [Network operator](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1753.md)
+* [Subcontractor](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_296.md)
+* [Suppliers and subcontractors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_921.md)
+* [Supply chain partners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1740.md)
+
+## Risk affecting this stakeholder
+
+* [Labour impact and job loss](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_596.md)
+* [Suspension of projects](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_595.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -27,8 +32,7 @@
 
 * [Specific roles and job titles](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1654.md)
 
-## Risk affecting this stakeholder
+## Type of the stakeholder
 
-* [Labour impact and job loss](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_596.md)
-* [Suspension of projects](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_595.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

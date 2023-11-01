@@ -4,33 +4,33 @@
 
 ## Category to which it belongs
 
-* [Data protection measures, privacy regulations, encryption and authentication techniques, and standardized protocols ensure secure and anonymous communication.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_118.md)
+* [Data protection measures, privacy regulations, encryption and authentication techniques, and standardized protocols ensure secure and anonymous communication.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_168.md)
 
 ## Closest similar item
 
-* [Improved peer-review processes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1924.md)
-* [Peer-review systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1226.md)
-* [Strengthen peer review process](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_800.md)
+* [Data transparency](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1924.md)
+* [Improved peer-review processes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1226.md)
+* [Peer review](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_800.md)
 * [Peer-review platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3788.md)
-* [Peer review](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2911.md)
-* [Transparency measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_103.md)
-* [Transparency and public awareness measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2091.md)
-* [Transparent communication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_104.md)
-* [Transparency](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1925.md)
-* [Data transparency](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_799.md)
+* [Peer-review systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2911.md)
+* [Strengthen peer review process](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_103.md)
+* [Transparency](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2091.md)
+* [Transparency and public awareness measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_104.md)
+* [Transparency measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1925.md)
+* [Transparent communication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_799.md)
+
+## Risks linked to this technology
+
+* [Publication bias](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1496.md)
 
 ## This Technology belongs to this TechGroup
 
 * [Ai tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1316.md)
 
-## This technology is mentioned by
-
-* [Effectiveness of non-pharmaceutical public health interventions against COVID-19: A systematic review and meta-analysis](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_19.md)
-
 ## This Technology belongs to this TechSubgroup
 
 
-## Risks linked to this technology
+## This technology is mentioned by
 
-* [Publication bias](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1496.md)
+* [Effectiveness of non-pharmaceutical public health interventions against COVID-19: A systematic review and meta-analysis](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_19.md)
 

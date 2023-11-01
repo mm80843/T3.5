@@ -4,26 +4,26 @@
 
 ## Category to which it belongs
 
-* [Strategies and techniques for organizing and developing cities, including infrastructure, green spaces, and equitable policies.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_110.md)
+* [Strategies and techniques for organizing and developing cities, including infrastructure, green spaces, and equitable policies.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_160.md)
 
 ## Closest similar item
 
-* [Smart city technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_469.md)
-* [Smart city technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2272.md)
-* [Urban planning and city management technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1104.md)
-* [Urban planning and design technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1106.md)
+* [Smart city and home technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_469.md)
+* [Smart city technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2272.md)
+* [Smart city technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1104.md)
+* [Smart city technology to optimize space and resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1106.md)
 * [Smart zoning and urban planning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_750.md)
-* [Smart city and home technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2156.md)
-* [Urban planning tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1839.md)
-* [Urban planning and design tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1388.md)
-* [Urban planning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_920.md)
-* [Smart city technology to optimize space and resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_89.md)
-
-## This technology is mentioned by
-
-* [COVID-19: Lessons for an Urban(izing) World](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_85.md)
+* [Urban planning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2156.md)
+* [Urban planning and city management technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1839.md)
+* [Urban planning and design technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1388.md)
+* [Urban planning and design tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_920.md)
+* [Urban planning tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_89.md)
 
 ## Risks linked to this technology
 
 * [Overcrowding in urban areas](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1022.md)
+
+## This technology is mentioned by
+
+* [COVID-19: Lessons for an Urban(izing) World](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_85.md)
 

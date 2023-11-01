@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The consequences of social distancing include inconsistent recommendations, environmental degradation, prolonged isolation, and social inequalities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_4.md)
+* [The consequences of social distancing include inconsistent recommendations, environmental degradation, prolonged isolation, and social inequalities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_54.md)
 
 ## Closest similar item
 
-* [Environmental degradation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1335.md)
-* [Social inequalities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1912.md)
-* [Social inequality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_858.md)
-* [Social inequality and lifestyle](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2027.md)
-* [Socioeconomic inequality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2318.md)
-* [Climate change and environmental damage](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3345.md)
+* [Climate change and environmental damage](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1335.md)
+* [Environmental degradation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1912.md)
+* [Environmental impact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_858.md)
+* [Lack of consideration for social and environmental factors](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2027.md)
+* [Poor environmental quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2318.md)
+* [Social inequalities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3345.md)
 * [Social inequalities and income disparities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_487.md)
-* [Lack of consideration for social and environmental factors](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2703.md)
-* [Environmental impact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_748.md)
-* [Poor environmental quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2129.md)
+* [Social inequality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2703.md)
+* [Social inequality and lifestyle](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_748.md)
+* [Socioeconomic inequality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2129.md)
 
 ## Mitigations of this risk
 

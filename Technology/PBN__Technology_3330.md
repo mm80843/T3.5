@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Advancements in various technological domains facilitate touchless, remote, and efficient ways of communication, work, and data management.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_108.md)
+* [Advancements in various technological domains facilitate touchless, remote, and efficient ways of communication, work, and data management.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_158.md)
 
 ## Closest similar item
 
-* [Rfid technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1134.md)
-* [Smartphone technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2573.md)
-* [Mobile payment technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3290.md)
-* [Digital payment technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1945.md)
+* [Communication technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1134.md)
+* [Communication technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2573.md)
+* [Digital payment technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3290.md)
+* [Encryption technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1945.md)
 * [Encryption technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1068.md)
-* [Communication technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_544.md)
-* [Encryption technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1540.md)
-* [Mobile technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2300.md)
-* [Wearable device technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2571.md)
-* [Communication technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_5.md)
+* [Mobile payment technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_544.md)
+* [Mobile technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1540.md)
+* [Rfid technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2300.md)
+* [Smartphone technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2571.md)
+* [Wearable device technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_5.md)
 
 ## This Technology enables the following mitigations
 

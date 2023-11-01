@@ -2,26 +2,26 @@
 
 # __Improved sound__
 
-## Category to which it belongs
-
-* [Enhance sound quality and reduce noise through acoustic design, sound insulation, and noise reduction measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_97.md)
-
-## Closest similar item
-
-* [Improved acoustic design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_152.md)
-* [Improvement](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4565.md)
-* [Acoustic design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1304.md)
-* [Reduced noise levels](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_185.md)
-* [Good acoustic design, use of sound-absorbing materials, acoustic panels, and partitions.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1569.md)
-* [Acoustic comfort](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3223.md)
-* [Natural sound maskers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4064.md)
-* [Sound insulation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4062.md)
-* [Implement noise reduction measures, use sound-absorbing materials](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2928.md)
-* [Soundproofing, noise barriers, acoustic design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2476.md)
-
 ## Benefits linked to a risk
 
 * [Reduced neighbour noise](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1192.md)
+
+## Category to which it belongs
+
+* [Enhance sound quality and reduce noise through acoustic design, sound insulation, and noise reduction measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_147.md)
+
+## Closest similar item
+
+* [Acoustic comfort](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_152.md)
+* [Acoustic design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4565.md)
+* [Good acoustic design, use of sound-absorbing materials, acoustic panels, and partitions.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1304.md)
+* [Implement noise reduction measures, use sound-absorbing materials](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_185.md)
+* [Improved acoustic design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1569.md)
+* [Improvement](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3223.md)
+* [Natural sound maskers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4064.md)
+* [Reduced noise levels](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4062.md)
+* [Sound insulation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2928.md)
+* [Soundproofing, noise barriers, acoustic design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2476.md)
 
 ## Risks possibly mitigated by this Mitigation
 

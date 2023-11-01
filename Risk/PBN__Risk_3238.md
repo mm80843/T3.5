@@ -4,19 +4,19 @@
 
 ## Category to which it belongs
 
-* [Healthcare systems overwhelmed, limited access to services, scarcity of resources, and risk to healthcare workers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_10.md)
+* [Healthcare systems overwhelmed, limited access to services, scarcity of resources, and risk to healthcare workers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_60.md)
 
 ## Closest similar item
 
-* [Overwhelmed healthcare systems and operations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1878.md)
-* [Limited space for healthcare operations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1683.md)
-* [Lack of healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1859.md)
-* [Insufficient healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1318.md)
-* [Overwhelmed healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_22.md)
-* [Shortage of medical equipment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_764.md)
-* [Fragmented healthcare system](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2000.md)
-* [Inadequate healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1122.md)
-* [Overwhelmed healthcare systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1616.md)
+* [Fragmented healthcare system](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1878.md)
+* [Inadequate healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1683.md)
+* [Insufficient healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1859.md)
+* [Lack of healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1318.md)
+* [Limited space for healthcare operations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_22.md)
+* [Overwhelmed healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_764.md)
+* [Overwhelmed healthcare systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2000.md)
+* [Overwhelmed healthcare systems and operations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1122.md)
+* [Shortage of medical equipment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1616.md)
 * [Shortage of medical equipment and medication](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_703.md)
 
 ## Mitigations of this risk

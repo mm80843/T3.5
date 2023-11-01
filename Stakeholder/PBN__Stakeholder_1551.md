@@ -4,20 +4,24 @@
 
 ## Category to which it belongs
 
-* [A diverse group of specialists and professionals with expertise in risk assessment, data analysis, technology, communication, legal matters, and various domains.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_209.md)
+* [A diverse group of specialists and professionals with expertise in risk assessment, data analysis, technology, communication, legal matters, and various domains.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_259.md)
 
 ## Closest similar item
 
-* [Resident with limited knowledge or skill in using digital technology](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2416.md)
-* [Residents without adequate internet access or digital skills](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1547.md)
-* [Resident without adequate internet acces or digital skill](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2422.md)
-* [Resident without adequate internet acce or digital skill](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2404.md)
-* [Individual without internet acces or limited digital literacy](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2300.md)
-* [Individual without internet acce or limited digital literacy](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2315.md)
-* [Individuals without internet access or limited digital literacy](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1234.md)
-* [Residents who engage in online activities and share personal information](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1552.md)
-* [Digital and information access](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2239.md)
-* [Resident who engage in online activity and share personal information](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2426.md)
+* [Digital and information access](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2416.md)
+* [Individual without internet acce or limited digital literacy](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1547.md)
+* [Individual without internet acces or limited digital literacy](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2422.md)
+* [Individuals without internet access or limited digital literacy](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2404.md)
+* [Resident who engage in online activity and share personal information](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2300.md)
+* [Resident with limited knowledge or skill in using digital technology](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2315.md)
+* [Resident without adequate internet acce or digital skill](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1234.md)
+* [Resident without adequate internet acces or digital skill](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1552.md)
+* [Residents who engage in online activities and share personal information](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2239.md)
+* [Residents without adequate internet access or digital skills](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2426.md)
+
+## Risk affecting this stakeholder
+
+* [Lack of digital literacy and skills](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2302.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -27,7 +31,7 @@
 
 * [Residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_59.md)
 
-## Risk affecting this stakeholder
+## Type of the stakeholder
 
-* [Lack of digital literacy and skills](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2302.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

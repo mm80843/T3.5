@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_212.md)
+* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_262.md)
 
 ## Closest similar item
 
-* [Innovators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_301.md)
-* [Technology and innovation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1873.md)
+* [Ai company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_301.md)
+* [Engineer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1873.md)
 * [Entrepreneur](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1978.md)
 * [Entrepreneurs](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_417.md)
-* [Engineer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1888.md)
-* [Iaq expert](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1781.md)
-* [Ai company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2575.md)
-* [Industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_764.md)
+* [Iaq expert](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1888.md)
+* [Iaq experts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1781.md)
+* [Industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2575.md)
+* [Innovators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_764.md)
 * [Scientist](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1840.md)
-* [Iaq experts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1356.md)
+* [Technology and innovation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1356.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

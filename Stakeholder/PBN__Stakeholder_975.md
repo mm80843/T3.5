@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [A diverse collection of organizations and individuals with specific areas of expertise and jurisdiction.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_189.md)
+* [A diverse collection of organizations and individuals with specific areas of expertise and jurisdiction.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_239.md)
 
 ## Closest similar item
 
-* [Historian](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2480.md)
+* [Academia](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2480.md)
 * [Academic](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1633.md)
-* [Academia](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_442.md)
-* [Academics](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1018.md)
-* [Journalist](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1798.md)
-* [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
-* [Analysts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_524.md)
-* [Scientists/researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_137.md)
+* [Academics](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_442.md)
+* [Analysts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1018.md)
+* [Historian](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1798.md)
+* [Journalist](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
+* [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_524.md)
+* [Scientist](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_137.md)
 * [Scientists and researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_355.md)
-* [Scientist](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1840.md)
+* [Scientists/researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1840.md)
 
 ## Risks that can be mitigated by this stakeholder
 
@@ -30,4 +30,8 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Workers/professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1831.md)
+
+## Type of the stakeholder
+
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
 

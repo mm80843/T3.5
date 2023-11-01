@@ -4,28 +4,28 @@
 
 ## Category to which it belongs
 
-* [Data protection measures, privacy regulations, encryption and authentication techniques, and standardized protocols ensure secure and anonymous communication.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_118.md)
+* [Data protection measures, privacy regulations, encryption and authentication techniques, and standardized protocols ensure secure and anonymous communication.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_168.md)
 
 ## Closest similar item
 
-* [Data privacy](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2191.md)
-* [Privacy-enhancing technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1933.md)
-* [Privacy and anonymity techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2196.md)
-* [Privacy regulations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1592.md)
-* [Software-defined privacy](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1578.md)
-* [Privacy policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1587.md)
-* [Software defined privacy](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3527.md)
-* [Privacy regulations compliance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_575.md)
-* [Anonymization techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1380.md)
-* [Anonymity](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_98.md)
+* [Anonymity](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2191.md)
+* [Anonymization techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1933.md)
+* [Data privacy](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2196.md)
+* [Privacy and anonymity techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1592.md)
+* [Privacy policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1578.md)
+* [Privacy regulations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1587.md)
+* [Privacy regulations compliance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3527.md)
+* [Privacy-enhancing technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_575.md)
+* [Software defined privacy](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1380.md)
+* [Software-defined privacy](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_98.md)
+
+## Risks linked to this technology
+
+* [Privacy protection issues](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2069.md)
 
 ## This Technology belongs to this TechGroup
 
 * [Data privacy](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2191.md)
-
-## This technology is mentioned by
-
-* [The role of 5G for digital healthcare against COVID-19 pandemic: Opportunities and challenges](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_9.md)
 
 ## This Technology belongs to this TechSubgroup
 
@@ -34,7 +34,7 @@
 
 * [Privacy protection issues](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_31.md)
 
-## Risks linked to this technology
+## This technology is mentioned by
 
-* [Privacy protection issues](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2069.md)
+* [The role of 5G for digital healthcare against COVID-19 pandemic: Opportunities and challenges](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_9.md)
 

@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [A collective group, including marginalized and vulnerable, local and global communities, individuals, and communication entities, particularly in underserved areas.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_193.md)
+* [A collective group, including marginalized and vulnerable, local and global communities, individuals, and communication entities, particularly in underserved areas.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_243.md)
 
 ## Closest similar item
 
-* [Urban communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_774.md)
-* [Urban](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1522.md)
+* [Community residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_774.md)
+* [Local communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1522.md)
 * [Local community](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2452.md)
-* [Urban residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_209.md)
-* [Local communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_85.md)
+* [Low-income communities in urban areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_209.md)
+* [Low-income community in urban area](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_85.md)
 * [Poor urban communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_276.md)
-* [Low-income community in urban area](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2262.md)
-* [Community residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_525.md)
+* [Urban](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2262.md)
+* [Urban communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_525.md)
 * [Urban populations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_994.md)
-* [Low-income communities in urban areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_586.md)
+* [Urban residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_586.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

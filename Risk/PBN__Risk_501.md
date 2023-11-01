@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Interoperability challenges, high costs, limited communication, and lack of resources impact various sectors globally.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_22.md)
+* [Interoperability challenges, high costs, limited communication, and lack of resources impact various sectors globally.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_72.md)
 
 ## Closest similar item
 
 * [Client confidence](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1518.md)
-* [Delay in completion of construction projects](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_306.md)
-* [Concerns about project time, cost, and scope](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1975.md)
-* [Project delays](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_554.md)
-* [Delays in project activities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1513.md)
-* [Delays in construction projects](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1082.md)
-* [Limited time for project delivery](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2918.md)
-* [Delay in project](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2802.md)
-* [Uncertainty in construction market](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1932.md)
-* [Lack of confidence in service](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3134.md)
+* [Concerns about project time, cost, and scope](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_306.md)
+* [Delay in completion of construction projects](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1975.md)
+* [Delay in project](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_554.md)
+* [Delays in construction projects](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1513.md)
+* [Delays in project activities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1082.md)
+* [Lack of confidence in service](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2918.md)
+* [Limited time for project delivery](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2802.md)
+* [Project delays](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1932.md)
+* [Uncertainty in construction market](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3134.md)
 
 ## Mitigations of this risk
 

@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Accurate and reliable knowledge dissemination and fact-checking through interdisciplinary collaboration and intelligent information feedback.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_122.md)
+* [Accurate and reliable knowledge dissemination and fact-checking through interdisciplinary collaboration and intelligent information feedback.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_172.md)
 
 ## Closest similar item
 
-* [Reliable sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1860.md)
-* [Reliable sources of information](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_580.md)
-* [Reliable information sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1994.md)
-* [Research](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_261.md)
-* [Scientific research](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_762.md)
-* [Credible sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3287.md)
-* [Research studies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1814.md)
-* [Research and testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1159.md)
-* [Validation studies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_903.md)
-* [Research and scientific studies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_256.md)
+* [Credible sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1860.md)
+* [Reliable information sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_580.md)
+* [Reliable sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1994.md)
+* [Reliable sources of information](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_261.md)
+* [Research](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_762.md)
+* [Research and scientific studies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3287.md)
+* [Research and testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1814.md)
+* [Research studies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1159.md)
+* [Scientific research](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_903.md)
+* [Validation studies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_256.md)
 
 ## This Technology enables the following mitigations
 

@@ -2,42 +2,34 @@
 
 # __Globalization and travel__
 
+## Articles mentionning the risk
+
+* [Future perspectives of wastewater-based epidemiology: Monitoring infectious disease spread and resistance to the community level](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_48.md)
+
 ## Category to which it belongs
 
-* [The challenges of urbanization and population density manifest in overcrowding, limited transport infrastructure, and disrupted mobility patterns.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_13.md)
+* [The challenges of urbanization and population density manifest in overcrowding, limited transport infrastructure, and disrupted mobility patterns.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_63.md)
 
 ## Closest similar item
 
-* [Globalization](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2051.md)
-* [Global mobility](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2049.md)
-* [Expanding urbanization and international travel](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1983.md)
-* [Inadequate global travel restrictions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1028.md)
-* [Travel and transportation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2005.md)
-* [Globalization and environmental change](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_736.md)
-* [Increased travel](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2960.md)
-* [Disruption in the travel and tourism industry](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_679.md)
-* [Travel-related risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2819.md)
-* [Impact on hospitality, tourism, and aviation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1795.md)
+* [Disruption in the travel and tourism industry](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2051.md)
+* [Expanding urbanization and international travel](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2049.md)
+* [Global mobility](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1983.md)
+* [Globalization](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1028.md)
+* [Globalization and environmental change](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2005.md)
+* [Impact on hospitality, tourism, and aviation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_736.md)
+* [Inadequate global travel restrictions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2960.md)
+* [Increased travel](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_679.md)
+* [Travel and transportation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2819.md)
+* [Travel-related risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1795.md)
 
 ## Description of the risk
 
 Increased global mobility facilitates the rapid spread of infectious diseases across borders.
 
-## Type of the risk
-
-* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Is the risk affecting GBN scales
 
 * [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
-
-## Type of impact of the risk (according to ISO37100)
-
-* [Living and working environment](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_1.md)
-
-## Type of purpose of the risk (according to ISO37100)
-
-* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_6.md)
 
 ## Mitigations of this risk
 
@@ -47,24 +39,32 @@ Increased global mobility facilitates the rapid spread of infectious diseases ac
 
 Outbreaks can quickly become global pandemics.
 
+## People affected by this risk
+
+* [Border control authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
+* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_558.md)
+* [Travelers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_552.md)
+
 ## Stakeholders who can mitigate this risk
 
 * [None](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_627.md)
 
-## Articles mentionning the risk
-
-* [Future perspectives of wastewater-based epidemiology: Monitoring infectious disease spread and resistance to the community level](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_48.md)
-
-## People affected by this risk
-
-* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
-* [Travelers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_558.md)
-* [Border control authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_552.md)
-
 ## Technologies linked to the risk
 
-* [Travel advisories and restrictions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1565.md)
 * [Enhanced screening techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1564.md)
+* [Travel advisories and restrictions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1565.md)
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Living and working environment](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_1.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_6.md)
+
+## Type of the risk
+
+* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 

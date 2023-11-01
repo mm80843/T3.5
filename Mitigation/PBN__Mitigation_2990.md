@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Enhancing healthcare infrastructure and capacity, promoting equitable access to healthcare services and resources.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_95.md)
+* [Enhancing healthcare infrastructure and capacity, promoting equitable access to healthcare services and resources.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_145.md)
 
 ## Closest similar item
 
-* [Increase healthcare resources and facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2005.md)
+* [Enhancing healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2005.md)
 * [Improve healthcare facilities, increase capacity and resources](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2471.md)
-* [Enhancing healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4085.md)
-* [Increase the capacity of medical facilities, allocate resources efficiently.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1515.md)
-* [Increase healthcare capacity, allocate resources effectively](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2941.md)
-* [Increase healthcare capacity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1111.md)
-* [Increase healthcare capacity, ensure availability of medical supplies and equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1453.md)
-* [Strengthen healthcare infrastructure, increase resources and capacity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2283.md)
-* [Strengthening healthcare infrastructure, increasing hospital capacity, and ensuring adequate medical supplies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2717.md)
-* [Increase investment in healthcare infrastructure, establish temporary medical facilities during outbreaks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1574.md)
+* [Increase healthcare capacity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4085.md)
+* [Increase healthcare capacity, allocate resources effectively](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1515.md)
+* [Increase healthcare capacity, ensure availability of medical supplies and equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2941.md)
+* [Increase healthcare resources and facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1111.md)
+* [Increase investment in healthcare infrastructure, establish temporary medical facilities during outbreaks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1453.md)
+* [Increase the capacity of medical facilities, allocate resources efficiently.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2283.md)
+* [Strengthen healthcare infrastructure, increase resources and capacity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2717.md)
+* [Strengthening healthcare infrastructure, increasing hospital capacity, and ensuring adequate medical supplies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1574.md)
 
 ## Risks possibly mitigated by this Mitigation
 

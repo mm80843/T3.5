@@ -4,19 +4,19 @@
 
 ## Category to which it belongs
 
-* [Promote sustainable economic growth through infrastructure investment, revenue diversification, financial interventions, and decentralized activities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_62.md)
+* [Promote sustainable economic growth through infrastructure investment, revenue diversification, financial interventions, and decentralized activities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_112.md)
 
 ## Closest similar item
 
-* [Increase electricity rates to reflect the actual cost and reduce government subsidies, provide financial incentives for energy conservation.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1499.md)
+* [Diversify energy sources and investments, promote price stabilization mechanisms](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1499.md)
 * [Implement energy-efficient technologies, promote renewable energy sources](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2894.md)
-* [Increased funding for clean energy](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_620.md)
-* [Promote energy-saving practices, provide energy efficiency advice and incentives](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1709.md)
-* [Renewable energy](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4704.md)
-* [Implement renewable energy sources](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2878.md)
-* [Incentives for clean energy manufacturing and deployment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4847.md)
-* [Investment in clean energy](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_543.md)
-* [Diversify energy sources and investments, promote price stabilization mechanisms](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2143.md)
+* [Implement renewable energy sources](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_620.md)
+* [Incentives for clean energy manufacturing and deployment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1709.md)
+* [Increase electricity rates to reflect the actual cost and reduce government subsidies, provide financial incentives for energy conservation.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4704.md)
+* [Increased funding for clean energy](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2878.md)
+* [Investment in clean energy](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4847.md)
+* [Promote energy-saving practices, provide energy efficiency advice and incentives](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_543.md)
+* [Renewable energy](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2143.md)
 * [Strengthened carbon tax](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3976.md)
 
 ## Risks possibly mitigated by this Mitigation

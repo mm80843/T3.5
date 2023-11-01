@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Indoor living challenges include limited self-sufficiency, reliance on artificial elements, poor lighting, and environmental variations.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_35.md)
+* [Indoor living challenges include limited self-sufficiency, reliance on artificial elements, poor lighting, and environmental variations.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_85.md)
 
 ## Closest similar item
 
-* [Contamination from microorganisms in the built environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1562.md)
-* [Microbiological contaminants](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3110.md)
-* [Microbial community variation among offices](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_210.md)
-* [Influence of human activities and uses on microbial community structure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_211.md)
-* [Spread of infections and diseases in the built environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1010.md)
-* [Contamination and microbial growth in insulation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3019.md)
-* [Airborne transmission of infectious microorganisms indoors](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_336.md)
-* [Contaminated environments](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3098.md)
-* [Contamination and exposure to pathogens](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2672.md)
-* [Exposure to pathogens](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2396.md)
+* [Airborne transmission of infectious microorganisms indoors](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1562.md)
+* [Contaminated environments](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3110.md)
+* [Contamination and exposure to pathogens](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_210.md)
+* [Contamination and microbial growth in insulation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_211.md)
+* [Contamination from microorganisms in the built environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1010.md)
+* [Exposure to pathogens](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3019.md)
+* [Influence of human activities and uses on microbial community structure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_336.md)
+* [Microbial community variation among offices](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3098.md)
+* [Microbiological contaminants](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2672.md)
+* [Spread of infections and diseases in the built environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2396.md)
 
 ## Mitigations of this risk
 

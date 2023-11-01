@@ -4,26 +4,26 @@
 
 ## Category to which it belongs
 
-* [The intersection of public health and technology, including mobile apps, messaging systems, data analytics, and ai, to promote health and educate communities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_104.md)
+* [The intersection of public health and technology, including mobile apps, messaging systems, data analytics, and ai, to promote health and educate communities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_154.md)
 
 ## Closest similar item
 
-* [Screening technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2320.md)
-* [Enhanced screening techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1564.md)
-* [Improved screening and testing methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1534.md)
+* [Digital health solutions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2320.md)
+* [Digital health technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1564.md)
+* [Enhanced screening techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1534.md)
 * [Healthcare technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2768.md)
-* [Digital health technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2717.md)
-* [Mobile health technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1689.md)
-* [Technology for disease surveillance and contact tracing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1029.md)
-* [Digital health solutions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_471.md)
-* [Physical health technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2102.md)
-* [Improved healthcare technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_938.md)
-
-## This technology is mentioned by
-
-* [Association of built environment attributes with the spread of COVID-19 at its initial stage in China](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_32.md)
+* [Improved healthcare technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2717.md)
+* [Improved screening and testing methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1689.md)
+* [Mobile health technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1029.md)
+* [Physical health technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_471.md)
+* [Screening technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2102.md)
+* [Technology for disease surveillance and contact tracing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_938.md)
 
 ## Risks linked to this technology
 
 * [Population flow between cities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1638.md)
+
+## This technology is mentioned by
+
+* [Association of built environment attributes with the spread of COVID-19 at its initial stage in China](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_32.md)
 

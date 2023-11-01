@@ -2,50 +2,42 @@
 
 # __Drinking water treatment and distribution__
 
-## Link between Blueprint and General ontology
+## Articles mentionning the risk
 
-* [Water quality](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Theme_1.md)
-
-## Category to which it belongs
-
-* [The challenges of water pollution, inadequate wastewater management, and poor waste disposal require urgent attention for environmental sustainability.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_9.md)
-
-## Closest similar item
-
-* [Poor quality drinking water, lack of proper wastewater management](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2558.md)
-* [Water and wastewater management](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_574.md)
-* [Water quality and availability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_612.md)
-* [Wastewater collection and treatment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1894.md)
-* [Proper wastewater treatment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2928.md)
-* [Water and sanitation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2013.md)
-* [Water conservation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3292.md)
-* [Inadequate wastewater treatment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1926.md)
-* [Inadequate treatment of wastewater](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2935.md)
-* [Inadequate water and sanitation facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1297.md)
+* [When the fourth water and digital revolution encountered COVID-19](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_207.md)
 
 ## Blueprints with this risk
 
 * [Drinking water safety - restoring water quality in buildings after forced closure](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_22.md)
 
+## Category to which it belongs
+
+* [The challenges of water pollution, inadequate wastewater management, and poor waste disposal require urgent attention for environmental sustainability.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_59.md)
+
+## Closest similar item
+
+* [Inadequate treatment of wastewater](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2558.md)
+* [Inadequate wastewater treatment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_574.md)
+* [Inadequate water and sanitation facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_612.md)
+* [Poor quality drinking water, lack of proper wastewater management](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1894.md)
+* [Proper wastewater treatment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2928.md)
+* [Wastewater collection and treatment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2013.md)
+* [Water and sanitation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3292.md)
+* [Water and wastewater management](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1926.md)
+* [Water conservation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2935.md)
+* [Water quality and availability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1297.md)
+
 ## Description of the risk
 
 Fear of virus transmission leads to increased use of chlorination and disinfection, resulting in increased disinfection-by-products and chemical costs.
-
-## Type of the risk
-
-* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Is the risk affecting GBN scales
 
 * [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
 
-## Type of impact of the risk (according to ISO37100)
+## Link between Blueprint and General ontology
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
-
-## Type of purpose of the risk (according to ISO37100)
-
-* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_1.md)
+* [Water quality](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Theme_1.md)
 
 ## Mitigations of this risk
 
@@ -55,16 +47,12 @@ Fear of virus transmission leads to increased use of chlorination and disinfecti
 
 Increased generation of disinfection-by-products and chemical costs.
 
-## Stakeholders who can mitigate this risk
+## People affected by this risk
 
 * [Public health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_222.md)
 * [Water utilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_329.md)
 
-## Articles mentionning the risk
-
-* [When the fourth water and digital revolution encountered COVID-19](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_207.md)
-
-## People affected by this risk
+## Stakeholders who can mitigate this risk
 
 * [Public health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_222.md)
 * [Water utilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_329.md)
@@ -72,6 +60,18 @@ Increased generation of disinfection-by-products and chemical costs.
 ## Technologies linked to the risk
 
 * [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_1.md)
+
+## Type of the risk
+
+* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 

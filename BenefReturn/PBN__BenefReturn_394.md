@@ -4,6 +4,6 @@
 
 ## This return can be realized by these benefits
 
-* [Improved cost planning](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_366.md)
-* [Increased value](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_367.md)
+* [Improved cost planning](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_367.md)
+* [Increased value](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_366.md)
 

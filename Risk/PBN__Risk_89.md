@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Standardizing coronavirus knowledge, the respiratory virus spreads through the built environment, work, touch, aerosols, and contaminated surfaces.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_23.md)
+* [Standardizing coronavirus knowledge, the respiratory virus spreads through the built environment, work, touch, aerosols, and contaminated surfaces.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_73.md)
 
 ## Closest similar item
 
-* [Virus transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2490.md)
-* [Virus propagation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1032.md)
-* [Transmission of the virus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2821.md)
-* [Preventing virus propagation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_610.md)
-* [Virus propagation risks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_279.md)
-* [Virus exposure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2487.md)
-* [Virus transmission through close contact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_507.md)
-* [Virus transmission via surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1623.md)
-* [Contagious disease transmission in built environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2045.md)
-* [Contagious transmission in built environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_323.md)
+* [Contagious disease transmission in built environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2490.md)
+* [Contagious transmission in built environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1032.md)
+* [Preventing virus propagation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2821.md)
+* [Transmission of the virus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_610.md)
+* [Virus exposure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_279.md)
+* [Virus propagation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2487.md)
+* [Virus propagation risks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_507.md)
+* [Virus transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1623.md)
+* [Virus transmission through close contact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2045.md)
+* [Virus transmission via surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_323.md)
 
 ## Mitigations of this risk
 

@@ -8,9 +8,9 @@
 
 ## Referenced by other articles
 
-* [The effect of human mobility and control measures on the COVID-19 epidemic in China](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_248.md)
-* [COVID-19 Could Leverage a Sustainable Built Environment](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_316.md)
-* [Indirect effects of COVID-19 on the environment](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_238.md)
+* [COVID-19 Could Leverage a Sustainable Built Environment](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_248.md)
+* [Indirect effects of COVID-19 on the environment](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_316.md)
+* [The effect of human mobility and control measures on the COVID-19 epidemic in China](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_238.md)
 
 ## Title of the article
 

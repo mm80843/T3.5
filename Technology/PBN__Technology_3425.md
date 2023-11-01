@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Advancements in various technological domains facilitate touchless, remote, and efficient ways of communication, work, and data management.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_108.md)
+* [Advancements in various technological domains facilitate touchless, remote, and efficient ways of communication, work, and data management.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_158.md)
 
 ## Closest similar item
 
-* [Clean cooking technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1480.md)
-* [Cooking appliances](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3285.md)
+* [Advanced manufacturing techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1480.md)
+* [Clean cooking technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3285.md)
 * [Clean cookstoves](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1481.md)
-* [Cooking techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3434.md)
-* [Improved sensor technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_313.md)
+* [Cooking appliances](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3434.md)
+* [Cooking techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_313.md)
 * [Emission control technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1249.md)
 * [Energy-efficient technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2358.md)
-* [Improved biomass fuels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1482.md)
-* [Improved 3d printing technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2013.md)
-* [Advanced manufacturing techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1555.md)
+* [Improved 3d printing technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1482.md)
+* [Improved biomass fuels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2013.md)
+* [Improved sensor technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1555.md)
 
 ## This Technology enables the following mitigations
 

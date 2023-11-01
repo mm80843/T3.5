@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Variety of personnel involved in different roles, such as contractors, staff, administrators, technicians, and professionals in specific fields.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_210.md)
+* [Variety of personnel involved in different roles, such as contractors, staff, administrators, technicians, and professionals in specific fields.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_260.md)
 
 ## Closest similar item
 
-* [Individuals working remotely](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_615.md)
-* [Remote worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1745.md)
-* [Remote workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1700.md)
-* [Individuals working from home](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_473.md)
-* [Worker in close-proximity work environment](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1713.md)
-* [Frontline worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1660.md)
-* [Workers in close-proximity work environments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_837.md)
-* [Worker in indoor environment](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1678.md)
-* [Indoor worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2509.md)
-* [Worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1755.md)
+* [Frontline worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_615.md)
+* [Individuals working from home](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1745.md)
+* [Individuals working remotely](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1700.md)
+* [Indoor worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_473.md)
+* [Remote worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1713.md)
+* [Remote workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1660.md)
+* [Worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_837.md)
+* [Worker in close-proximity work environment](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1678.md)
+* [Worker in indoor environment](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2509.md)
+* [Workers in close-proximity work environments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1755.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

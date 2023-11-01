@@ -2,9 +2,29 @@
 
 # __How COVID-19 Redefines the Concept of Sustainability__
 
+## Benefits listed in this article
+
+* [Access to education](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_981.md)
+* [Cost reduction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_452.md)
+* [Environmental protection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_792.md)
+* [Financial support](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_982.md)
+* [Work-life balance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_980.md)
+
 ## DOI of the article
 
 10.3390/su12093727
+
+## List of risks in an article
+
+* [Decline in conservation efforts](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1427.md)
+* [Economic recession](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1428.md)
+* [Global pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1008.md)
+* [Increase in domestic violence](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1429.md)
+* [Inequality gap widening](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1426.md)
+
+## Referenced by other articles
+
+* [Mental Health and the Covid-19 Pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_167.md)
 
 ## Short summary of the article
 
@@ -14,9 +34,32 @@ This article proposes redefining sustainability to include human health as a fou
 
 Sustainability means taking care of the earth, making sure people are treated fairly, and making sure everyone has enough food and water. It also means keeping our environment clean and healthy. The United Nations made 17 goals to help make the world a better place. One of these goals is good health, which means making sure everyone is healthy and safe. With the COVID-19 pandemic, we have seen how important our health is to keeping everything going smoothly. The authors of this article think that we should add human health as a fourth pillar of sustainability, so that we remember how important it is to take care of ourselves and others.
 
-## Referenced by other articles
+## This article mentions these technologies
 
-* [Mental Health and the Covid-19 Pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_167.md)
+* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_403.md)
+* [Digital inclusion initiatives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
+* [Digital payment systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_220.md)
+* [E-commerce platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_696.md)
+* [Educational outreach through digital platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_19.md)
+* [Online counseling platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_697.md)
+* [Online learning platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_134.md)
+* [Remote monitoring technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_695.md)
+* [Remote work technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_74.md)
+* [Telecommunication systems for reporting](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_694.md)
+* [Telehealth services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_698.md)
+
+## This article points to following mitigation
+
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Enhanced cleaning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3123.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3329.md)
+* [Isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
+* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3332.md)
+* [Quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_627.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3759.md)
+* [Surface disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1130.md)
+* [Vaccination](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3760.md)
+* [Ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_415.md)
 
 ## Title of the article
 
@@ -25,47 +68,4 @@ How COVID-19 Redefines the Concept of Sustainability
 ## Year of publication
 
 2020
-
-## Benefits listed in this article
-
-* [Work-life balance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_452.md)
-* [Financial support](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_792.md)
-* [Cost reduction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_980.md)
-* [Environmental protection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_981.md)
-* [Access to education](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_982.md)
-
-## List of risks in an article
-
-* [Increase in domestic violence](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1427.md)
-* [Decline in conservation efforts](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1428.md)
-* [Global pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1426.md)
-* [Economic recession](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1008.md)
-* [Inequality gap widening](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1429.md)
-
-## This article points to following mitigation
-
-* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3332.md)
-* [Quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3123.md)
-* [Vaccination](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3329.md)
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
-* [Surface disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1130.md)
-* [Ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_627.md)
-* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_415.md)
-* [Enhanced cleaning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3760.md)
-* [Isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3759.md)
-
-## This article mentions these technologies
-
-* [Telehealth services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_19.md)
-* [Online counseling platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_220.md)
-* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
-* [Remote work technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_134.md)
-* [Digital payment systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_695.md)
-* [Remote monitoring technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_403.md)
-* [Online learning platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_74.md)
-* [E-commerce platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_694.md)
-* [Telecommunication systems for reporting](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_696.md)
-* [Educational outreach through digital platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_697.md)
-* [Digital inclusion initiatives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_698.md)
 

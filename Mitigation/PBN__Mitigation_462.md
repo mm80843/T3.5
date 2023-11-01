@@ -2,26 +2,26 @@
 
 # __Implementation of contact tracing and testing__
 
-## Category to which it belongs
-
-* [Promote comprehensive and widespread testing, contact tracing, and the development of standardized protocols to accurately detect and track the virus.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_96.md)
-
-## Closest similar item
-
-* [Testing and contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3347.md)
-* [Contact tracing and testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5038.md)
-* [Regular testing and contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_440.md)
-* [Rapid testing and contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3808.md)
-* [Regular testing and contact tracing programs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2757.md)
-* [Widespread testing and contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_720.md)
-* [Contact tracing application](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4798.md)
-* [Contact tracing applications](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4257.md)
-* [Digital contact tracing application](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3154.md)
-* [Contact tracing and monitoring technology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_537.md)
-
 ## Benefits linked to a risk
 
 * [Improved identification of asymptomatic cases](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_444.md)
+
+## Category to which it belongs
+
+* [Promote comprehensive and widespread testing, contact tracing, and the development of standardized protocols to accurately detect and track the virus.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_146.md)
+
+## Closest similar item
+
+* [Contact tracing and monitoring technology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3347.md)
+* [Contact tracing and testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5038.md)
+* [Contact tracing application](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_440.md)
+* [Contact tracing applications](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3808.md)
+* [Digital contact tracing application](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2757.md)
+* [Rapid testing and contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_720.md)
+* [Regular testing and contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4798.md)
+* [Regular testing and contact tracing programs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4257.md)
+* [Testing and contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3154.md)
+* [Widespread testing and contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_537.md)
 
 ## Risks possibly mitigated by this Mitigation
 

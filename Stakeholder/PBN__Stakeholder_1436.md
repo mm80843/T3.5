@@ -4,20 +4,25 @@
 
 ## Category to which it belongs
 
-* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_212.md)
+* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_262.md)
 
 ## Closest similar item
 
-* [Future generation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2501.md)
-* [Future residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_512.md)
-* [Less technologically advanced individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1311.md)
-* [Parents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_104.md)
-* [Education](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1630.md)
-* [Society](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_53.md)
-* [Youth](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_489.md)
+* [Education](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2501.md)
+* [Future generation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_512.md)
+* [Future residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1311.md)
+* [Less technologically advanced individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_104.md)
+* [Parents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1630.md)
+* [Societal population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_53.md)
+* [Society](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_489.md)
 * [Women and young children](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_519.md)
 * [Young people](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_264.md)
-* [Societal population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_289.md)
+* [Youth](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_289.md)
+
+## Risk affecting this stakeholder
+
+* [Environmental](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1570.md)
+* [Loss of ugs due to urban development](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2233.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -27,8 +32,7 @@
 
 * [General individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2101.md)
 
-## Risk affecting this stakeholder
+## Type of the stakeholder
 
-* [Environmental](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1570.md)
-* [Loss of ugs due to urban development](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2233.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

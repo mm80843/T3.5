@@ -4,27 +4,27 @@
 
 ## Category to which it belongs
 
-* [A comprehensive array of digital platforms, resources, and professionals offering support, counseling, therapy, and interventions for mental health.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_103.md)
+* [A comprehensive array of digital platforms, resources, and professionals offering support, counseling, therapy, and interventions for mental health.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_153.md)
 
 ## Closest similar item
 
-* [Mental health services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1078.md)
-* [Mental health professionals](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3407.md)
-* [Mental health resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_874.md)
-* [Social and mental health services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3316.md)
-* [Mental health support services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1119.md)
-* [Mental health support](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2106.md)
-* [Mental health education programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1810.md)
-* [Mental health resources and support](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2111.md)
-* [Healthcare organizations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_339.md)
-* [Mental health assessments](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_597.md)
+* [Healthcare organizations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1078.md)
+* [Mental health assessments](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3407.md)
+* [Mental health education programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_874.md)
+* [Mental health professionals](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3316.md)
+* [Mental health resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1119.md)
+* [Mental health resources and support](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2106.md)
+* [Mental health services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1810.md)
+* [Mental health support](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2111.md)
+* [Mental health support services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_339.md)
+* [Social and mental health services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_597.md)
+
+## Risks linked to this technology
+
+* [Perceived severity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1602.md)
+* [Perceived susceptibility](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1601.md)
 
 ## This technology is mentioned by
 
 * [What drives unverified information sharing and cyberchondria during the COVID-19 pandemic?](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_31.md)
-
-## Risks linked to this technology
-
-* [Perceived susceptibility](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1602.md)
-* [Perceived severity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1601.md)
 

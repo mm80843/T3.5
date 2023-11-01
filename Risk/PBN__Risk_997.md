@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Interoperability challenges, high costs, limited communication, and lack of resources impact various sectors globally.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_22.md)
+* [Interoperability challenges, high costs, limited communication, and lack of resources impact various sectors globally.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_72.md)
 
 ## Closest similar item
 
-* [Inadequate patient-centered care](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1997.md)
-* [Inadequate healthcare response](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_515.md)
-* [Inability to physically distance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3103.md)
-* [Lack of effective treatment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1849.md)
-* [Inadequate patient monitoring](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_465.md)
-* [Ineffective non-pharmaceutical interventions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1478.md)
-* [Difficulty of access for medical personnel](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2889.md)
-* [Inadequate health-oriented features](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2699.md)
-* [Patient rapport](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1259.md)
-* [Inaccurate positioning of patients](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2999.md)
+* [Difficulty of access for medical personnel](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1997.md)
+* [Inability to physically distance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_515.md)
+* [Inaccurate positioning of patients](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3103.md)
+* [Inadequate health-oriented features](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1849.md)
+* [Inadequate healthcare response](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_465.md)
+* [Inadequate patient monitoring](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1478.md)
+* [Inadequate patient-centered care](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2889.md)
+* [Ineffective non-pharmaceutical interventions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2699.md)
+* [Lack of effective treatment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1259.md)
+* [Patient rapport](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2999.md)
 
 ## Mitigations of this risk
 

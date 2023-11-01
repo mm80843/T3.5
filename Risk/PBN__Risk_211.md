@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The challenges of water pollution, inadequate wastewater management, and poor waste disposal require urgent attention for environmental sustainability.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_9.md)
+* [The challenges of water pollution, inadequate wastewater management, and poor waste disposal require urgent attention for environmental sustainability.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_59.md)
 
 ## Closest similar item
 
-* [Microbial community variation among offices](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_210.md)
-* [Bacterial activity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3333.md)
-* [Variation in built environment microbiome](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_207.md)
+* [Accumulation of dirt, dust, and microbial growth in hvac system components](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_210.md)
+* [Airborne transmission of infectious microorganisms indoors](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3333.md)
+* [Bacterial activity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_207.md)
 * [Contamination from microorganisms in the built environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1562.md)
-* [Microbiological contaminants](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3110.md)
+* [Lack of sanitation in shared spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3110.md)
 * [Link between human activity and health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_46.md)
-* [Lack of sanitation in shared spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1120.md)
-* [Airborne transmission of infectious microorganisms indoors](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_336.md)
-* [Accumulation of dirt, dust, and microbial growth in hvac system components](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3011.md)
-* [Spread of infections and diseases in the built environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1010.md)
+* [Microbial community variation among offices](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1120.md)
+* [Microbiological contaminants](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_336.md)
+* [Spread of infections and diseases in the built environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3011.md)
+* [Variation in built environment microbiome](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1010.md)
 
 ## Mitigations of this risk
 

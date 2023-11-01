@@ -4,18 +4,18 @@
 
 ## Category to which it belongs
 
-* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_212.md)
+* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_262.md)
 
 ## Closest similar item
 
-* [Compliance officer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1789.md)
-* [Health and safety officers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1287.md)
-* [Data protection officers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2578.md)
-* [Law enforcement agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_601.md)
-* [Public health officers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_818.md)
+* [Biosafety officers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1789.md)
+* [Campus police officers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1287.md)
+* [Compliance officer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2578.md)
+* [Data protection officers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_601.md)
+* [Health and safety officers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_818.md)
 * [Law enforcement](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_532.md)
-* [Biosafety officers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1052.md)
-* [Campus police officers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_135.md)
+* [Law enforcement agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1052.md)
+* [Public health officers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_135.md)
 * [Security personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_633.md)
 * [Supervisors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_719.md)
 
@@ -25,10 +25,14 @@
 
 ## This Stakeholder belongs to this StakeholderGroup
 
-* [Private sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_57.md)
-* [Workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_128.md)
+* [Private sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_128.md)
+* [Workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_57.md)
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Specific roles and job titles](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1654.md)
+
+## Type of the stakeholder
+
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
 

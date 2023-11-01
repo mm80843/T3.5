@@ -4,20 +4,24 @@
 
 ## Category to which it belongs
 
-* [Individuals within the built environment, including building designers, architects, construction workers, and building occupants and managers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_208.md)
+* [Individuals within the built environment, including building designers, architects, construction workers, and building occupants and managers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_258.md)
 
 ## Closest similar item
 
-* [Construction project team](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2065.md)
-* [Project teams](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_976.md)
-* [Construction project managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_772.md)
-* [Project team](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_620.md)
-* [Construction project manager](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1998.md)
-* [Construction organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_427.md)
-* [Construction project planners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1237.md)
-* [Construction organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_528.md)
-* [Project administration team](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_321.md)
-* [Construction companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_181.md)
+* [Construction companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2065.md)
+* [Construction organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_976.md)
+* [Construction organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_772.md)
+* [Construction project manager](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_620.md)
+* [Construction project managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1998.md)
+* [Construction project planners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_427.md)
+* [Construction project team](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1237.md)
+* [Project administration team](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_528.md)
+* [Project team](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_321.md)
+* [Project teams](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_181.md)
+
+## Risk affecting this stakeholder
+
+* [Communication challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1933.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -27,7 +31,7 @@
 
 * [Real estate and construction](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1684.md)
 
-## Risk affecting this stakeholder
+## Type of the stakeholder
 
-* [Communication challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1933.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

@@ -4,19 +4,19 @@
 
 ## Category to which it belongs
 
-* [Inadequate resources, staff, facilities, training, coordination, and preparedness contribute to the inefficient and ineffective response to various challenges and needs.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_28.md)
+* [Inadequate resources, staff, facilities, training, coordination, and preparedness contribute to the inefficient and ineffective response to various challenges and needs.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_78.md)
 
 ## Closest similar item
 
-* [Ineffective dissemination channels](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_404.md)
-* [Ineffective dissemination of evidence](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_395.md)
-* [Dissemination of false information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_493.md)
-* [Challenges in data dissemination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_724.md)
+* [Challenges in data dissemination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_404.md)
+* [Dissemination of false information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_395.md)
+* [Flawed communication](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_493.md)
+* [Inadequate communication](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_724.md)
 * [Inadequate communication and spread of misinformation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_806.md)
-* [Lack of communication and transparency](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1290.md)
-* [Inadequate communication](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1905.md)
-* [Flawed communication](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_829.md)
-* [Inadequate means of communication](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1091.md)
+* [Inadequate means of communication](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1290.md)
+* [Ineffective dissemination channels](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1905.md)
+* [Ineffective dissemination of evidence](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_829.md)
+* [Lack of communication and transparency](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1091.md)
 * [Spread of inaccurate news on social media](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1015.md)
 
 ## Mitigations of this risk

@@ -2,11 +2,11 @@
 
 # __Space design__
 
+## Category to which it belongs
+
+* [Aesthetic arrangement of physical environments in the cosmos.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_326.md)
+
 ## Property: has_BP_ThemeTitle
 
 theme_Space_Design
-
-## Category to which it belongs
-
-* [Aesthetic arrangement of physical environments in the cosmos.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_276.md)
 

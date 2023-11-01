@@ -2,23 +2,27 @@
 
 # __Integration of health and well-being into urban planning policies__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Integrating health and well-being into urban planning policies can lead to healthier and more equitable communities, reducing the risk of respiratory pandemics.
+* [Respiratory pandemics, urban planning and design: A multidisciplinary rapid review of the literature](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_133.md)
+
+## Category to which it belongs
+
+* [The promotion of sustainable development goals and the creation of resilient, accessible, and environmentally-friendly urban environments.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_16.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Private investors would benefit from investing in these interventions as they would contribute to creating attractive and sustainable neighborhoods, increasing the value and desirability of their properties.](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_722.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [Respiratory pandemics, urban planning and design: A multidisciplinary rapid review of the literature](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_133.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
+Integrating health and well-being into urban planning policies can lead to healthier and more equitable communities, reducing the risk of respiratory pandemics.
 
 ## Risks which can benefit from this action
 
 * [Urban planning and design interventions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_667.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
 

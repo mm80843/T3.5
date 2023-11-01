@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Promoting sustainable and inclusive outdoor environments through land use regulation, environmental surveillance, and community gardening.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_111.md)
+* [Promoting sustainable and inclusive outdoor environments through land use regulation, environmental surveillance, and community gardening.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_161.md)
 
 ## Closest similar item
 
-* [Community-level farming](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3637.md)
-* [Vertical gardening systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_620.md)
-* [Apartment-level farming](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3636.md)
-* [Urban/community farming](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3731.md)
-* [Urban farming technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1219.md)
-* [Vertical gardens](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3084.md)
-* [Organic farming methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2721.md)
-* [Sustainable farming practices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1505.md)
-* [Landscape ground](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3612.md)
-* [Precision agriculture technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1244.md)
+* [Apartment-level farming](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3637.md)
+* [Community-level farming](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_620.md)
+* [Landscape ground](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3636.md)
+* [Organic farming methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3731.md)
+* [Precision agriculture technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1219.md)
+* [Sustainable farming practices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3084.md)
+* [Urban farming technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2721.md)
+* [Urban/community farming](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1505.md)
+* [Vertical gardening systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3612.md)
+* [Vertical gardens](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1244.md)
 
 ## This Technology enables the following mitigations
 

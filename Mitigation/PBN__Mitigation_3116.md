@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Optimize airflow and air quality through improved ventilation systems and natural lighting, increased outdoor air intake, and proper maintenance.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_71.md)
+* [Optimize airflow and air quality through improved ventilation systems and natural lighting, increased outdoor air intake, and proper maintenance.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_121.md)
 
 ## Closest similar item
 
-* [Increased production of ventilators](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_676.md)
-* [Ventilator innovations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5273.md)
+* [Control sources, design ventilation systems, clean air.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_676.md)
+* [Implementing mechanically ventilated offices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5273.md)
 * [Improve the safety and functionality of alternative ventilator designs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3117.md)
-* [Innovative ventilator designs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1281.md)
+* [Improve ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1281.md)
 * [Improving ventilation systems, increasing airflow, using air purifiers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2018.md)
-* [Mechanical ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_341.md)
-* [Mechanical ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3309.md)
-* [Implementing mechanically ventilated offices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_249.md)
-* [Control sources, design ventilation systems, clean air.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2994.md)
-* [Improve ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_606.md)
+* [Increased production of ventilators](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_341.md)
+* [Innovative ventilator designs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3309.md)
+* [Mechanical ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_249.md)
+* [Mechanical ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2994.md)
+* [Ventilator innovations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_606.md)
 
 ## Risks possibly mitigated by this Mitigation
 

@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Promote self-cleaning spaces, implement touchless technologies, and use natural light to establish safer environments.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_80.md)
+* [Promote self-cleaning spaces, implement touchless technologies, and use natural light to establish safer environments.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_130.md)
 
 ## Closest similar item
 
-* [Use of professional signage](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_792.md)
-* [Use of branded signage](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_795.md)
-* [Use of standardized signage](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_793.md)
+* [Establish and enforce workplace rules and signage](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_792.md)
+* [Posting hygiene signage](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_795.md)
+* [Professional signs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_793.md)
 * [Retail store signs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4206.md)
 * [Retailers should prioritize the use of professional signs for important and standardized messaging, and remove or update informal signs to avoid confusion.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2288.md)
 * [Retailers should provide clear and updated information through signage, online channels, and verbal communication.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2285.md)
-* [Posting hygiene signage](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4721.md)
-* [Professional signs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4208.md)
-* [Small retailers should include alternative contact information on signs and other communication channels to stay connected with customers during closures or disruptions.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2287.md)
-* [Establish and enforce workplace rules and signage](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_386.md)
+* [Small retailers should include alternative contact information on signs and other communication channels to stay connected with customers during closures or disruptions.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4721.md)
+* [Use of branded signage](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4208.md)
+* [Use of professional signage](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2287.md)
+* [Use of standardized signage](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_386.md)
 
 ## Risks possibly mitigated by this Mitigation
 

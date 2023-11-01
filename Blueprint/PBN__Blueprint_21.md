@@ -2,6 +2,11 @@
 
 # __Drinking water safety - biofilm formation__
 
+## Blueprint description
+
+Fortunately, most tap water in Europe and North America is drinkable and of very good quality. Nevertheless, there is evidence that treated water contains a small amount of microorganisms. These microorganisms adhere to the side walls of the pipes and form so-called biofilms. The growth of biofilms mainly affects the turbidity, taste, odour and colour of the water and in many cases promotes the degradation of disinfectant residues. On the other hand, several studies have shown that these effects are exacerbated during stagnation.
+Considering that during the pandemic many public facilities remained closed for long periods of time, this fact is worrying and a cause for concern, especially when the buildings reopen. This concept involves the use of activated carbon philtres at strategic points in the pipe networks to improve taste and eliminate the risk of contamination, as well as the installation of optical biofilm sensors in the water distribution systems of GBNs to monitor the formation of biofilms. In this way, scheduled pipe cleaning can be carried out, limiting the negative impact of biofilms on drinking water quality and safety.
+
 ## Capabilities of the blueprint
 
 This BP is essentially based on continuous monitoring of biofilm growth in distribution networks. Today, there are several devices that can be installed either directly in the river or in a bypass line to assess this problem. Examples of these devices are optical biofilm sensors and electrochemical sensors. This measure again requires activated carbon filtres to eliminate the risk of contamination of household water.
@@ -14,42 +19,51 @@ This measure is to be implemented in all buildings of the GBNs. The sensors are 
 
 https://pubmed.ncbi.nlm.nih.gov/12701901/
 
-## Blueprint description
-
-Fortunately, most tap water in Europe and North America is drinkable and of very good quality. Nevertheless, there is evidence that treated water contains a small amount of microorganisms. These microorganisms adhere to the side walls of the pipes and form so-called biofilms. The growth of biofilms mainly affects the turbidity, taste, odour and colour of the water and in many cases promotes the degradation of disinfectant residues. On the other hand, several studies have shown that these effects are exacerbated during stagnation.
-Considering that during the pandemic many public facilities remained closed for long periods of time, this fact is worrying and a cause for concern, especially when the buildings reopen. This concept involves the use of activated carbon philtres at strategic points in the pipe networks to improve taste and eliminate the risk of contamination, as well as the installation of optical biofilm sensors in the water distribution systems of GBNs to monitor the formation of biofilms. In this way, scheduled pipe cleaning can be carried out, limiting the negative impact of biofilms on drinking water quality and safety.
-
 ## Enablers of the blueprint
 
-* [Data Analytics](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_2.md)
-* [IoT](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_5.md)
-* [Water sensors](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_7.md)
-
-## Interventions of the blueprint
-
-* [Managing drinking water safety measures](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_8.md)
-* [Maintenance / decontamination of building water sytems](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_9.md)
-
-## Possible mitigations of the BP
-
-* [Monitoring wastewater](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4362.md)
-* [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_492.md)
-* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_149.md)
-* [Wastewater-based surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5211.md)
-* [Increased sanitation monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5167.md)
-* [Environmental cleaning and disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3593.md)
-* [Environmental sanitation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1364.md)
-* [Proper treatment and disinfection of water and wastewater systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2297.md)
-* [Use high-performing filters, proper disposal of disinfectants](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2872.md)
-* [Regular monitoring and maintenance of filters, prevention of microbial growth.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2996.md)
-
-## Type of deployment of the blueprint
-
-* [Permanent](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Permanent_1.md)
+* [Data Analytics](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_5.md)
+* [IoT](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_7.md)
+* [Water sensors](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_2.md)
 
 ## GBN Phase of the blueprint
 
 * [Operational](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Phase_0.md)
+
+## Interventions of the blueprint
+
+* [Maintenance / decontamination of building water sytems](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_9.md)
+* [Managing drinking water safety measures](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_8.md)
+
+## Mode of transmission covered by the blueprint
+
+* [Direct contact](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_2.md)
+* [Fomite](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_3.md)
+
+## Possible mitigations of the BP
+
+* [Environmental cleaning and disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4362.md)
+* [Environmental sanitation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_492.md)
+* [Increased sanitation monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_149.md)
+* [Monitoring wastewater](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5211.md)
+* [Proper treatment and disinfection of water and wastewater systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5167.md)
+* [Regular monitoring and maintenance of filters, prevention of microbial growth.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1364.md)
+* [Use high-performing filters, proper disposal of disinfectants](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2996.md)
+* [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3593.md)
+* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2297.md)
+* [Wastewater-based surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2872.md)
+
+## Possible risks of the BP
+
+* [Contamination from microorganisms in the built environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_923.md)
+* [Contamination of sewage](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_129.md)
+* [Environmental contamination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3367.md)
+* [Limited availability of biosensors for wastewater analysis](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1562.md)
+* [Microbiological contaminants](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1148.md)
+* [Proper wastewater treatment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3110.md)
+* [Risk of inadequate wastewater management during pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_365.md)
+* [Wastewater collection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_717.md)
+* [Wastewater collection and treatment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1894.md)
+* [Water contamination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2928.md)
 
 ## Problem of the blueprint
 
@@ -65,19 +79,6 @@ Continuous monitoring of biofilm growth in distribution systems is the only way 
 
 Monitoring biofilm growth in water distribution systems is not a simple, time-consuming or costly procedure. The cost of installing and setting up such a monitoring system is not just a one-off cost. Continuous monitoring requires maintenance and handling costs that may limit the implementation of this measure.
 
-## Possible risks of the BP
-
-* [Environmental contamination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_923.md)
-* [Water contamination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_129.md)
-* [Contamination of sewage](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3367.md)
-* [Contamination from microorganisms in the built environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1562.md)
-* [Microbiological contaminants](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3110.md)
-* [Limited availability of biosensors for wastewater analysis](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1148.md)
-* [Risk of inadequate wastewater management during pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_365.md)
-* [Wastewater collection and treatment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1894.md)
-* [Proper wastewater treatment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2928.md)
-* [Wastewater collection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_717.md)
-
 ## Scale of the of the blueprint
 
 * [Both](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Scale_1.md)
@@ -86,10 +87,9 @@ Monitoring biofilm growth in water distribution systems is not a simple, time-co
 
 PBN:BP_22
 
-## Mode of transmission covered by the blueprint
+## Type of deployment of the blueprint
 
-* [Direct contact](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_2.md)
-* [Fomite](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_3.md)
+* [Permanent](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Permanent_1.md)
 
 ## Type of the blueprint
 

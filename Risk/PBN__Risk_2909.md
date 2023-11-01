@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Standardizing coronavirus knowledge, the respiratory virus spreads through the built environment, work, touch, aerosols, and contaminated surfaces.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_23.md)
+* [Standardizing coronavirus knowledge, the respiratory virus spreads through the built environment, work, touch, aerosols, and contaminated surfaces.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_73.md)
 
 ## Closest similar item
 
-* [Virus exposure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2487.md)
-* [Virus inactivation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2459.md)
-* [Exposure to virus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3094.md)
+* [Exposure to the virus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2487.md)
+* [Exposure to virus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2459.md)
+* [Inactivation of virus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3094.md)
 * [Persistence of virus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2778.md)
-* [Inactivation of virus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3387.md)
-* [Exposure to the virus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1851.md)
-* [Spread of virus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2484.md)
-* [Virus transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2490.md)
-* [Transmission of the virus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2821.md)
-* [Virus spread](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2488.md)
+* [Spread of virus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3387.md)
+* [Transmission of the virus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1851.md)
+* [Virus exposure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2484.md)
+* [Virus inactivation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2490.md)
+* [Virus spread](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2821.md)
+* [Virus transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2488.md)
 
 ## Mitigations of this risk
 

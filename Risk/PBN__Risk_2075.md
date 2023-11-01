@@ -2,42 +2,34 @@
 
 # __Inequalities in smart city development__
 
+## Articles mentionning the risk
+
+* [The three modes of existence of the pandemic smart city](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_250.md)
+
 ## Category to which it belongs
 
-* [The challenges of urbanization and population density manifest in overcrowding, limited transport infrastructure, and disrupted mobility patterns.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_13.md)
+* [The challenges of urbanization and population density manifest in overcrowding, limited transport infrastructure, and disrupted mobility patterns.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_63.md)
 
 ## Closest similar item
 
-* [Weaknesses in smart city governance models](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1192.md)
-* [Urban inequality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19.md)
-* [Health inequalities resulting from urban design](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1208.md)
+* [Economic inequality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1192.md)
+* [Health inequalities resulting from urban design](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19.md)
+* [Income inequalities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1208.md)
 * [Inequalities in health driven by urban design](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_286.md)
-* [Socioeconomic inequality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2318.md)
-* [Income inequalities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3145.md)
-* [Lack of urban governance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1024.md)
-* [Economic inequality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2462.md)
-* [Social inequalities and income disparities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_487.md)
-* [Social inequalities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1912.md)
+* [Lack of urban governance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2318.md)
+* [Social inequalities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3145.md)
+* [Social inequalities and income disparities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1024.md)
+* [Socioeconomic inequality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2462.md)
+* [Urban inequality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_487.md)
+* [Weaknesses in smart city governance models](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1912.md)
 
 ## Description of the risk
 
 Smart city initiatives and discourse may reinforce inequalities, as different actors define and shape the modes of existence of the smart city differently
 
-## Type of the risk
-
-* [Social](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_4.md)
-
 ## Is the risk affecting GBN scales
 
 * [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
-
-## Type of impact of the risk (according to ISO37100)
-
-* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_4.md)
-
-## Type of purpose of the risk (according to ISO37100)
-
-* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_10.md)
 
 ## Mitigations of this risk
 
@@ -47,27 +39,35 @@ Smart city initiatives and discourse may reinforce inequalities, as different ac
 
 Exacerbation of existing inequalities, uneven access to resources and benefits of smart city technologies
 
-## Stakeholders who can mitigate this risk
-
-* [Private sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_57.md)
-* [Government bodies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_973.md)
-* [Civil society organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_232.md)
-
-## Articles mentionning the risk
-
-* [The three modes of existence of the pandemic smart city](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_250.md)
-
 ## People affected by this risk
 
-* [Low-income individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_21.md)
-* [Marginalized communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_22.md)
-* [Vulnerable populations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_127.md)
+* [Low-income individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_22.md)
+* [Marginalized communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_127.md)
+* [Vulnerable populations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_21.md)
+
+## Stakeholders who can mitigate this risk
+
+* [Civil society organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_973.md)
+* [Government bodies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_57.md)
+* [Private sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_232.md)
 
 ## Technologies linked to the risk
 
+* [Equitable governance structures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1589.md)
 * [Open data](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1590.md)
-* [Participatory platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1589.md)
-* [Equitable governance structures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1591.md)
+* [Participatory platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1591.md)
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_4.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_10.md)
+
+## Type of the risk
+
+* [Social](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_4.md)
 
 ## Property: has_RiskType
 

@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Promote and implement comprehensive strategies to ensure widespread and equitable access to vaccination and development of effective vaccines.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_78.md)
+* [Promote and implement comprehensive strategies to ensure widespread and equitable access to vaccination and development of effective vaccines.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_128.md)
 
 ## Closest similar item
 
-* [Improve access to vaccination through targeted distribution and community outreach.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2540.md)
-* [Develop vaccines and promote vaccination programs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2756.md)
+* [Develop vaccines and promote vaccination programs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2540.md)
+* [Implement effective communication and education campaigns to address vaccine hesitancy, provide accurate information, and address concerns and misconceptions. engage with local communities and healthcare providers.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2756.md)
 * [Improve access to healthcare for immigrants, address language barriers, provide targeted interventions for high-risk immigrant groups.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2426.md)
-* [Implement effective communication and education campaigns to address vaccine hesitancy, provide accurate information, and address concerns and misconceptions. engage with local communities and healthcare providers.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2507.md)
-* [Increase vaccination coverage](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1185.md)
-* [Vaccination programs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3989.md)
-* [Promote healthy lifestyles, vaccination campaigns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2293.md)
-* [Improved access to healthcare, public awareness and education, targeted interventions for vulnerable populations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2679.md)
+* [Improve access to vaccination through targeted distribution and community outreach.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2507.md)
+* [Improved access to healthcare, public awareness and education, targeted interventions for vulnerable populations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1185.md)
+* [Increase vaccination coverage](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3989.md)
+* [Prioritize vaccination for vulnerable populations, implement protective measures in healthcare settings, provide support and resources for at-risk individuals.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2293.md)
+* [Promote healthy lifestyles, vaccination campaigns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2679.md)
 * [Public education and awareness campaigns about vaccine safety and importance, strengthen immunization programs.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2725.md)
-* [Prioritize vaccination for vulnerable populations, implement protective measures in healthcare settings, provide support and resources for at-risk individuals.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1871.md)
+* [Vaccination programs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1871.md)
 
 ## Risks possibly mitigated by this Mitigation
 

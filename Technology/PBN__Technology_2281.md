@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Cutting-edge techniques, strategies, and technologies for pathogen detection, vaccine development, and global disease surveillance.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_145.md)
+* [Cutting-edge techniques, strategies, and technologies for pathogen detection, vaccine development, and global disease surveillance.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_195.md)
 
 ## Closest similar item
 
-* [Antiviral](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3293.md)
-* [Antiviral drugs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_236.md)
-* [Antiviral drug research](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_836.md)
-* [Antivirals](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_827.md)
-* [Advanced antiviral technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_790.md)
-* [Hiv testing kits](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2722.md)
-* [Hiv testing and counseling services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2280.md)
-* [Clinical trials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1959.md)
-* [Medications](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3260.md)
-* [Antimalarial](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3292.md)
+* [Advanced antiviral technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3293.md)
+* [Antimalarial](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_236.md)
+* [Antiviral](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_836.md)
+* [Antiviral drug research](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_827.md)
+* [Antiviral drugs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_790.md)
+* [Antivirals](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2722.md)
+* [Clinical trials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2280.md)
+* [Hiv testing and counseling services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1959.md)
+* [Hiv testing kits](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3260.md)
+* [Medications](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3292.md)
 
 ## This Technology belongs to this TechGroup
 

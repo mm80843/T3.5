@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The toll of the pandemic includes harm to mental health, increased domestic violence, and psychological distress, highlighting the need for support and resources.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_2.md)
+* [The toll of the pandemic includes harm to mental health, increased domestic violence, and psychological distress, highlighting the need for support and resources.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_52.md)
 
 ## Closest similar item
 
 * [Emotional distress, unhealthy behaviors, noncompliance with public health directives](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3105.md)
-* [Noncompliance with public health directives](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1874.md)
-* [Negative emotions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2252.md)
-* [Fear and negative emotion](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1801.md)
-* [Lack of public health awareness](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1319.md)
+* [Emotional disturbance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1874.md)
+* [Fear and negative emotion](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2252.md)
+* [Health harming behaviours](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1801.md)
+* [Insufficient attention to public health impacts](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1319.md)
 * [Lack of awareness and compliance with public health protocols](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1665.md)
-* [Insufficient attention to public health impacts](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2648.md)
-* [Health harming behaviours](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_4.md)
-* [Lack of emphasis on public health impacts](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1394.md)
-* [Emotional disturbance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3108.md)
+* [Lack of emphasis on public health impacts](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2648.md)
+* [Lack of public health awareness](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_4.md)
+* [Negative emotions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1394.md)
+* [Noncompliance with public health directives](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3108.md)
 
 ## Mitigations of this risk
 

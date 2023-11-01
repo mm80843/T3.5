@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Interoperability challenges, high costs, limited communication, and lack of resources impact various sectors globally.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_22.md)
+* [Interoperability challenges, high costs, limited communication, and lack of resources impact various sectors globally.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_72.md)
 
 ## Closest similar item
 
 * [Compliance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3168.md)
-* [Lack of understanding of regulatory changes](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2771.md)
-* [Importance of compliance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1769.md)
-* [Non-compliance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2628.md)
-* [Difficulty in adapting to new rules and regulations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2769.md)
-* [Non-compliance with guidelines and protocols](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1688.md)
-* [Economic impacts, compliance issues](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3117.md)
-* [Inadequate compliance monitoring](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1713.md)
-* [High costs of compliance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2251.md)
-* [Low compliance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_541.md)
+* [Difficulty in adapting to new rules and regulations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2771.md)
+* [Economic impacts, compliance issues](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1769.md)
+* [High costs of compliance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2628.md)
+* [Importance of compliance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2769.md)
+* [Inadequate compliance monitoring](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1688.md)
+* [Lack of understanding of regulatory changes](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3117.md)
+* [Low compliance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1713.md)
+* [Non-compliance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2251.md)
+* [Non-compliance with guidelines and protocols](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_541.md)
 
 ## Mitigations of this risk
 

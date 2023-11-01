@@ -4,22 +4,26 @@
 
 ## Category to which it belongs
 
-* [A diverse range of individuals and groups involved in various fields, research, projects, media, teams, and organizations.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_191.md)
+* [A diverse range of individuals and groups involved in various fields, research, projects, media, teams, and organizations.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_241.md)
 
 ## Closest similar item
 
-* [Event attendees](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_841.md)
-* [Social gatherings](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_681.md)
-* [Individuals attending events](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2497.md)
-* [Social gathering](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2436.md)
-* [Event organizers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_859.md)
-* [Community organizers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1550.md)
-* [Individual attending event](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2460.md)
-* [Community leaders/organizers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2397.md)
-* [Funeral attendees](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_235.md)
-* [Public venues](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_939.md)
+* [Community leaders/organizers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_841.md)
+* [Community organizers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_681.md)
+* [Event attendees](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2497.md)
+* [Event organizers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2436.md)
+* [Funeral attendees](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_859.md)
+* [Individual attending event](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1550.md)
+* [Individuals attending events](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2460.md)
+* [Public venues](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2397.md)
+* [Social gathering](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_235.md)
+* [Social gatherings](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_939.md)
 
 ## Risk affecting this stakeholder
 
 * [Transmission at mass gatherings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1342.md)
+
+## Type of the stakeholder
+
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

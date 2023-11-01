@@ -4,20 +4,24 @@
 
 ## Category to which it belongs
 
-* [Individuals within the built environment, including building designers, architects, construction workers, and building occupants and managers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_208.md)
+* [Individuals within the built environment, including building designers, architects, construction workers, and building occupants and managers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_258.md)
 
 ## Closest similar item
 
-* [Worker in the built environment](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2520.md)
-* [People in the built environment](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1118.md)
-* [Building occupants and workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_907.md)
-* [Construction workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_197.md)
-* [Construction industry workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_825.md)
-* [Workers in outdoor environments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1733.md)
-* [Environmental workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1303.md)
-* [Outdoor workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1094.md)
+* [Building occupants and workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2520.md)
+* [Construction industry workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1118.md)
+* [Construction workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_907.md)
+* [Environmental workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_197.md)
+* [Outdoor workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_825.md)
+* [People in the built environment](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1733.md)
+* [Worker in the built environment](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1303.md)
+* [Workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1094.md)
 * [Workers in indoor environments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1776.md)
-* [Workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_128.md)
+* [Workers in outdoor environments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_128.md)
+
+## Risk affecting this stakeholder
+
+* [Contamination from microorganisms in the built environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1562.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -27,7 +31,7 @@
 
 * [Indoor workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_806.md)
 
-## Risk affecting this stakeholder
+## Type of the stakeholder
 
-* [Contamination from microorganisms in the built environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1562.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

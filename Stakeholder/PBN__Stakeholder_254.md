@@ -2,27 +2,26 @@
 
 # __Vulnerable households__
 
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Energy affordability and security](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_622.md)
-* [Financial stability and poverty reduction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1062.md)
-
 ## Category to which it belongs
 
-* [Individuals impacted by abusive relationships and violence within households, particularly women in need of support.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_196.md)
+* [Individuals impacted by abusive relationships and violence within households, particularly women in need of support.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_246.md)
 
 ## Closest similar item
 
-* [Vulnerable household](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2162.md)
-* [Vulnerable families](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_580.md)
-* [Vulnerable family](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2298.md)
-* [Households](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_762.md)
-* [Vulnerable individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_748.md)
-* [Impoverished households](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_460.md)
-* [Vulnerable population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_547.md)
-* [Vulnerable communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_28.md)
-* [Vulnerable community](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2130.md)
+* [Households](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2162.md)
+* [Impoverished households](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_580.md)
+* [Vulnerable communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2298.md)
+* [Vulnerable community](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_762.md)
+* [Vulnerable families](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_748.md)
+* [Vulnerable family](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_460.md)
+* [Vulnerable household](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_547.md)
+* [Vulnerable individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_28.md)
+* [Vulnerable population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2130.md)
 * [Vulnerable populations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_127.md)
+
+## Risk affecting this stakeholder
+
+* [Financial sustainability of water sector](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1896.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -30,10 +29,16 @@
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Vulnerable individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_748.md)
-* [Economic and social status](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2243.md)
+* [Economic and social status](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_748.md)
+* [Vulnerable individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2243.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder can get these Benefits from mitigation measures
 
-* [Financial sustainability of water sector](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1896.md)
+* [Energy affordability and security](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1062.md)
+* [Financial stability and poverty reduction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_622.md)
+
+## Type of the stakeholder
+
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_0.md)
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

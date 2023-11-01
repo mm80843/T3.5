@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Various organizations and individuals involved in the field of education, research, healthcare, finance, and government.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_224.md)
+* [Various organizations and individuals involved in the field of education, research, healthcare, finance, and government.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_274.md)
 
 ## Closest similar item
 
-* [Educational institution](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1649.md)
-* [Education institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1037.md)
-* [Educational institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_66.md)
-* [Academic institution](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1650.md)
-* [Education department](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1639.md)
-* [Education authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1642.md)
-* [Academic institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_992.md)
-* [Educational organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1643.md)
-* [University](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1453.md)
-* [Education departments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1248.md)
+* [Academic institution](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1649.md)
+* [Academic institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1037.md)
+* [Education authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_66.md)
+* [Education department](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1650.md)
+* [Education departments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1639.md)
+* [Education institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1642.md)
+* [Educational institution](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_992.md)
+* [Educational institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1643.md)
+* [Educational organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1453.md)
+* [University](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1248.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

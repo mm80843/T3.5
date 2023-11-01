@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The impact of various challenges on the workforce, including job insecurity, increased workload, uncertainty, unemployment, and changes in work schedules and productivity.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_41.md)
+* [The impact of various challenges on the workforce, including job insecurity, increased workload, uncertainty, unemployment, and changes in work schedules and productivity.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_91.md)
 
 ## Closest similar item
 
-* [Exploitation and mistreatment of workers](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3341.md)
-* [Job loss and exploitation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2467.md)
-* [Corporate behavior and exploitation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3343.md)
-* [Labour market vulnerabilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3065.md)
-* [Exclusion and vulnerability of migrants and gig workers](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2242.md)
+* [Corporate behavior and exploitation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3341.md)
+* [Exclusion and vulnerability of migrants and gig workers](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2467.md)
+* [Exploitation and mistreatment of workers](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3343.md)
+* [Job and livelihood loss](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3065.md)
+* [Job loss and exploitation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2242.md)
 * [Labour market challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_451.md)
-* [Workforce protection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1519.md)
-* [Job and livelihood loss](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1840.md)
-* [Labour shortages](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_730.md)
-* [Workers’ vulnerability to covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3411.md)
+* [Labour market vulnerabilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1519.md)
+* [Labour shortages](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1840.md)
+* [Workers’ vulnerability to covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_730.md)
+* [Workforce protection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3411.md)
 
 ## Mitigations of this risk
 

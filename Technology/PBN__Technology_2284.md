@@ -4,19 +4,19 @@
 
 ## Category to which it belongs
 
-* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_119.md)
+* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_169.md)
 
 ## Closest similar item
 
-* [Laboratory equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3203.md)
-* [Hardware](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3305.md)
-* [Laboratory testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1910.md)
-* [Advanced laboratory testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1407.md)
-* [Biosensor](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2578.md)
-* [Better laboratory equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1544.md)
-* [Hardware and devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2167.md)
-* [Biosensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2285.md)
-* [Laboratory facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2899.md)
+* [Advanced laboratory testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3203.md)
+* [Better laboratory equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3305.md)
+* [Biosensor](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1910.md)
+* [Biosensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1407.md)
+* [Hardware](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2578.md)
+* [Hardware and devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1544.md)
+* [Laboratory equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2167.md)
+* [Laboratory facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2285.md)
+* [Laboratory testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2899.md)
 * [Sensor devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3249.md)
 
 ## This Technology belongs to this TechGroup

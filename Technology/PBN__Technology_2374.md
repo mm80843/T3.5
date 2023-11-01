@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Enforcement, regulation, and policy measures are implemented to ensure compliance, ethical standards, and effective governance.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_137.md)
+* [Enforcement, regulation, and policy measures are implemented to ensure compliance, ethical standards, and effective governance.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_187.md)
 
 ## Closest similar item
 
-* [Policy frameworks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1492.md)
-* [Policy and regulation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2980.md)
+* [Government policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1492.md)
+* [Government policies and guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2980.md)
 * [International policy framework](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2719.md)
-* [Government policies and guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3698.md)
-* [Regulation, governance, and policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2109.md)
+* [Policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3698.md)
+* [Policy and regulation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2109.md)
 * [Policy and regulation changes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1177.md)
-* [Government policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1851.md)
-* [Regulatory frameworks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1643.md)
-* [Policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_480.md)
-* [Policy implementation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3433.md)
+* [Policy frameworks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1851.md)
+* [Policy implementation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1643.md)
+* [Regulation, governance, and policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_480.md)
+* [Regulatory frameworks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3433.md)
 
 ## This Technology enables the following mitigations
 

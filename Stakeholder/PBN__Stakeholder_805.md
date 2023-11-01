@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_212.md)
+* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_262.md)
 
 ## Closest similar item
 
-* [Volunteer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1896.md)
-* [Charitable organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_753.md)
-* [Nonprofits](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_808.md)
-* [Nonprofit](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2411.md)
-* [Humanitarian organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1262.md)
-* [Nonprofit organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_809.md)
-* [Fundraising team](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2008.md)
-* [Nonprofit organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1866.md)
-* [Ngos](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_234.md)
-* [Community organizers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1550.md)
+* [Charitable organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1896.md)
+* [Community organizers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_753.md)
+* [Fundraising team](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_808.md)
+* [Humanitarian organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2411.md)
+* [Ngos](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1262.md)
+* [Nonprofit](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_809.md)
+* [Nonprofit organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2008.md)
+* [Nonprofit organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1866.md)
+* [Nonprofits](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_234.md)
+* [Volunteer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1550.md)
 
 ## Risks that can be mitigated by this stakeholder
 
@@ -29,4 +29,8 @@
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 
+
+## Type of the stakeholder
+
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
 

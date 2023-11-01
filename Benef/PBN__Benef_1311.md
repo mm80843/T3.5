@@ -2,23 +2,27 @@
 
 # __Enhanced social interactions and well-being__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Providing outdoor and indoor communal spaces that support physical distancing creates safe spaces for passive and active social interactions, improving mental health and satisfaction.
+* [How our homes impact our health: using a COVID-19 informed approach to examine urban apartment housing](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_279.md)
+
+## Category to which it belongs
+
+* [The strengthening of communal bonds, relationships, and interactions leading to improved social unity and individual well-being.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_25.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Increased sense of community and social cohesion, potentially leading to higher tenant retention and increased property value.](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_1487.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [How our homes impact our health: using a COVID-19 informed approach to examine urban apartment housing](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_279.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [Occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_92.md)
+Providing outdoor and indoor communal spaces that support physical distancing creates safe spaces for passive and active social interactions, improving mental health and satisfaction.
 
 ## Risks which can benefit from this action
 
 * [Restorative common spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1334.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [Occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_92.md)
 

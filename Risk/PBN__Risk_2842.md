@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The intersection of urbanization, inefficient energy usage, and climate change poses significant challenges to thermal comfort, energy consumption, and environmental sustainability.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_38.md)
+* [The intersection of urbanization, inefficient energy usage, and climate change poses significant challenges to thermal comfort, energy consumption, and environmental sustainability.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_88.md)
 
 ## Closest similar item
 
-* [Urban heat islands uhis](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_367.md)
-* [Urban heat island effect](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1832.md)
-* [Urban heat island effect and heat waves](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1944.md)
-* [Increased urban densification and urban heat island effect](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_329.md)
-* [Inadequate health-oriented features](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2699.md)
-* [Existing poor health conditions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_854.md)
+* [Climate-associated diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_367.md)
+* [Existing poor health conditions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1832.md)
+* [Inadequate health-oriented features](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1944.md)
+* [Inadequate thermal environment control](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_329.md)
+* [Increased urban densification and urban heat island effect](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2699.md)
+* [Poor thermal comfort, inadequate indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_854.md)
 * [Unhealthy outdoor conditions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_390.md)
-* [Poor thermal comfort, inadequate indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2557.md)
-* [Climate-associated diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1632.md)
-* [Inadequate thermal environment control](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1399.md)
+* [Urban heat island effect](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2557.md)
+* [Urban heat island effect and heat waves](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1632.md)
+* [Urban heat islands uhis](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1399.md)
 
 ## Mitigations of this risk
 

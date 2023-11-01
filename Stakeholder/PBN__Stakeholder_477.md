@@ -2,38 +2,38 @@
 
 # __Data analysts__
 
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Improved ontology](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1230.md)
-* [Interoperable ontology](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1231.md)
-* [Consistent modeling](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1232.md)
-* [Improved logical](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1234.md)
-
 ## Category to which it belongs
 
-* [A diverse group of specialists and professionals with expertise in risk assessment, data analysis, technology, communication, legal matters, and various domains.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_209.md)
+* [A diverse group of specialists and professionals with expertise in risk assessment, data analysis, technology, communication, legal matters, and various domains.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_259.md)
 
 ## Closest similar item
 
-* [Data scientists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_625.md)
-* [Analysts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_524.md)
-* [Datum analyst](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2580.md)
-* [Energy analysts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_347.md)
-* [Data subjects](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_533.md)
-* [Data management agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1395.md)
-* [Data management companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_605.md)
-* [Data owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1465.md)
-* [Data curators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1302.md)
-* [Data security professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1536.md)
+* [Analysts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_625.md)
+* [Data curators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_524.md)
+* [Data management agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2580.md)
+* [Data management companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_347.md)
+* [Data owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_533.md)
+* [Data scientists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1395.md)
+* [Data security professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_605.md)
+* [Data subjects](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1465.md)
+* [Datum analyst](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1302.md)
+* [Energy analysts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1536.md)
+
+## Risk affecting this stakeholder
+
+* [Decreased access to traditional research methodologies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1580.md)
+* [Noise in big data sets](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2320.md)
+* [Reliability of social media data for research](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1576.md)
+* [Variations in prevalence of loneliness themes](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1579.md)
 
 ## Risks that can be mitigated by this stakeholder
 
-* [Data unavailability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2338.md)
-* [Limited access to data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_723.md)
-* [Lack of real-time data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_762.md)
+* [Data unavailability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_723.md)
+* [Inaccurate forecasting](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2338.md)
+* [Inconsistent data sources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_762.md)
+* [Lack of real-time data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2339.md)
+* [Limited access to data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2337.md)
 * [Noise in big data sets](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2320.md)
-* [Inaccurate forecasting](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2339.md)
-* [Inconsistent data sources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2337.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -43,10 +43,16 @@
 
 * [Data management and security](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2531.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder can get these Benefits from mitigation measures
 
-* [Decreased access to traditional research methodologies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1576.md)
-* [Variations in prevalence of loneliness themes](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1580.md)
-* [Noise in big data sets](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2320.md)
-* [Reliability of social media data for research](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1579.md)
+* [Consistent modeling](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1231.md)
+* [Improved logical](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1230.md)
+* [Improved ontology](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1232.md)
+* [Interoperable ontology](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1234.md)
+
+## Type of the stakeholder
+
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_0.md)
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Implementation of comprehensive and rigorous cleaning, disinfection, and sanitation practices to ensure effective and efficient pathogen eradication.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_70.md)
+* [Implementation of comprehensive and rigorous cleaning, disinfection, and sanitation practices to ensure effective and efficient pathogen eradication.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_120.md)
 
 ## Closest similar item
 
-* [Uv disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4023.md)
-* [Use of uv-c light for disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3413.md)
-* [Uv air disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_448.md)
-* [Uv light disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3589.md)
+* [Conduct further research and studies to compare the two types of uv light for disinfection purposes.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4023.md)
+* [Germicidal uv air disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3413.md)
+* [Provide appropriate training on the use of uv-c disinfection system and personal protective equipment for staff.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_448.md)
+* [Surfacide uv-c disinfection system](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3589.md)
 * [Use of robot-controlled noncontact uv surface disinfection for fast and effective disinfection.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3079.md)
-* [Conduct further research and studies to compare the two types of uv light for disinfection purposes.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1678.md)
-* [Provide appropriate training on the use of uv-c disinfection system and personal protective equipment for staff.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1620.md)
-* [Uvgi disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5263.md)
-* [Surfacide uv-c disinfection system](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3334.md)
-* [Germicidal uv air disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4319.md)
+* [Use of uv-c light for disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1678.md)
+* [Uv air disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1620.md)
+* [Uv disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5263.md)
+* [Uv light disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3334.md)
+* [Uvgi disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4319.md)
 
 ## Risks possibly mitigated by this Mitigation
 

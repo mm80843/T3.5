@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Inadequate air quality control contributes to the circulation of harmful contaminants and transmission of diseases through the built environment.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_37.md)
+* [Inadequate air quality control contributes to the circulation of harmful contaminants and transmission of diseases through the built environment.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_87.md)
 
 ## Closest similar item
 
-* [Lack of adequate indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_341.md)
-* [Inadequate indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1288.md)
-* [Poor indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_294.md)
-* [Poor natural ventilation and thermal comfort at home](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_956.md)
-* [Low indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1409.md)
-* [Poor ventilation and air quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2693.md)
-* [Poor thermal comfort](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1861.md)
-* [Poor air quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_712.md)
-* [Inadequate thermal comfort](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_342.md)
-* [Poor indoor environmental quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_965.md)
+* [Inadequate indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_341.md)
+* [Inadequate thermal comfort](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1288.md)
+* [Lack of adequate indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_294.md)
+* [Low indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_956.md)
+* [Poor air quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1409.md)
+* [Poor indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2693.md)
+* [Poor indoor environmental quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1861.md)
+* [Poor natural ventilation and thermal comfort at home](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_712.md)
+* [Poor thermal comfort](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_342.md)
+* [Poor ventilation and air quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_965.md)
 
 ## Mitigations of this risk
 

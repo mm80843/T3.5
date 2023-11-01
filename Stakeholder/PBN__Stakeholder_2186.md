@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Individuals and communities experiencing financial hardship, including renters, workers, and residents of low-income neighborhoods, particularly in urban areas and developing countries.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_217.md)
+* [Individuals and communities experiencing financial hardship, including renters, workers, and residents of low-income neighborhoods, particularly in urban areas and developing countries.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_267.md)
 
 ## Closest similar item
 
-* [Especially low-income and minority communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1230.md)
-* [Especially those in low-income community](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2147.md)
+* [Disadvantaged communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1230.md)
+* [Especially low-income and minority communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2147.md)
 * [Especially those in low-income communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_585.md)
-* [Low-income community](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2329.md)
+* [Especially those in low-income community](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2329.md)
 * [Low-income communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_27.md)
-* [Disadvantaged communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1139.md)
-* [Low-income community in urban area](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2262.md)
-* [Particularly those with low income or low education](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_267.md)
-* [Low-income communities in urban areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_586.md)
-* [Low-income populations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_110.md)
+* [Low-income communities in urban areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1139.md)
+* [Low-income community](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2262.md)
+* [Low-income community in urban area](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_267.md)
+* [Low-income populations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_586.md)
+* [Particularly those with low income or low education](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_110.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

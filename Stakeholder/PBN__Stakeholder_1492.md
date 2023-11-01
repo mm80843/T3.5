@@ -4,22 +4,26 @@
 
 ## Category to which it belongs
 
-* [All individuals engaged in various forms of work, including employees, freelancers, laborers, and professionals.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_194.md)
+* [All individuals engaged in various forms of work, including employees, freelancers, laborers, and professionals.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_244.md)
 
 ## Closest similar item
 
-* [Hospitality workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1212.md)
-* [Workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_128.md)
-* [Laborers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1779.md)
-* [Occupational and workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1666.md)
-* [Workers/professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1831.md)
-* [Construction workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_197.md)
-* [Cultural and social groups](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_942.md)
-* [Informal workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_96.md)
-* [Types of workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1656.md)
-* [Workers in the tourism industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1760.md)
+* [Construction workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1212.md)
+* [Cultural and social groups](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_128.md)
+* [Hospitality workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1779.md)
+* [Informal workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1666.md)
+* [Laborers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1831.md)
+* [Occupational and workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_197.md)
+* [Types of workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_942.md)
+* [Workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_96.md)
+* [Workers in the tourism industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1656.md)
+* [Workers/professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1760.md)
 
 ## Risk affecting this stakeholder
 
 * [Loss of cultural and creative industries](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2209.md)
+
+## Type of the stakeholder
+
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

@@ -2,9 +2,29 @@
 
 # __Effectiveness of non-pharmaceutical public health interventions against COVID-19: A systematic review and meta-analysis__
 
+## Benefits listed in this article
+
+* [Decrease in case growth rate](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_85.md)
+* [Decrease in death growth rate](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_86.md)
+* [Decrease in icu admission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_87.md)
+* [Decrease in reproduction number](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_88.md)
+
 ## DOI of the article
 
 10.1371/journal.pone.0260371
+
+## List of risks in an article
+
+* [Ineffective nphis](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1494.md)
+* [Late adoption of nphis](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1493.md)
+* [Publication bias](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1492.md)
+* [Testing strategy limitations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1495.md)
+* [Underreporting of data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1496.md)
+
+## Referenced by other articles
+
+* [The effect of human mobility and control measures on the COVID-19 epidemic in China](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_103.md)
+* [The effect of large-scale anti-contagion policies on the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_248.md)
 
 ## Short summary of the article
 
@@ -14,10 +34,33 @@ This systematic review and meta-analysis aimed to examine the effectiveness of N
 
 The COVID-19 pandemic has been a big problem all around the world for over a year now. At first, there was no vaccine or treatment for the disease, but now there are some vaccines that are effective. However, not all countries have access to these vaccines, so it is still important to slow down the spread of the virus. Different countries have used different measures to try and control the virus, like isolating sick people, tracing their contacts, and closing schools. These measures have helped reduce the spread of the virus until more people can get vaccinated. However, there have also been some negative consequences from these measures. For example, fewer people have been diagnosed with cancer and some children have missed out on their regular vaccinations. It's important to find a balance between controlling the virus and minimizing these negative effects. There is ongoing research to understand the effectiveness of these measures and how they can be improved.
 
-## Referenced by other articles
+## This article mentions these technologies
 
-* [The effect of large-scale anti-contagion policies on the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_103.md)
-* [The effect of human mobility and control measures on the COVID-19 epidemic in China](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_248.md)
+* [Behavioral change interventions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_0.md)
+* [Data management tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
+* [Early warning systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_783.md)
+* [Mobile testing units](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_779.md)
+* [Open-access databases](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_551.md)
+* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_780.md)
+* [Rapid antigen tests](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_778.md)
+* [Real-time data monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_781.md)
+* [Surveillance systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_782.md)
+* [Testing automation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_777.md)
+* [Transparent peer-review and publishing processes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_784.md)
+
+## This article points to following mitigation
+
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Contact-reducing strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3123.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
+* [Lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3332.md)
+* [Mass gathering containment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3833.md)
+* [Patient isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_427.md)
+* [Quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3834.md)
+* [School closing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3832.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3835.md)
+* [Travel ban](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3836.md)
+* [Wearing facemasks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3837.md)
 
 ## Title of the article
 
@@ -26,47 +69,4 @@ Effectiveness of non-pharmaceutical public health interventions against COVID-19
 ## Year of publication
 
 2021
-
-## Benefits listed in this article
-
-* [Decrease in case growth rate](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_85.md)
-* [Decrease in death growth rate](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_86.md)
-* [Decrease in reproduction number](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_87.md)
-* [Decrease in icu admission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_88.md)
-
-## List of risks in an article
-
-* [Underreporting of data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1494.md)
-* [Ineffective nphis](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1493.md)
-* [Testing strategy limitations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1495.md)
-* [Late adoption of nphis](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1492.md)
-* [Publication bias](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1496.md)
-
-## This article points to following mitigation
-
-* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3332.md)
-* [Quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3123.md)
-* [Lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_427.md)
-* [School closing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3834.md)
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
-* [Mass gathering containment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3835.md)
-* [Patient isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3832.md)
-* [Wearing facemasks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3836.md)
-* [Travel ban](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3833.md)
-* [Contact-reducing strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3837.md)
-
-## This article mentions these technologies
-
-* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
-* [Surveillance systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_0.md)
-* [Data management tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_779.md)
-* [Transparent peer-review and publishing processes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_783.md)
-* [Mobile testing units](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_782.md)
-* [Open-access databases](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_784.md)
-* [Real-time data monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_777.md)
-* [Early warning systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_551.md)
-* [Rapid antigen tests](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_780.md)
-* [Behavioral change interventions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_778.md)
-* [Testing automation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_781.md)
 

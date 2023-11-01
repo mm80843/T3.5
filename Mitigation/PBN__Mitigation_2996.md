@@ -2,26 +2,26 @@
 
 # __Regular monitoring and maintenance of filters, prevention of microbial growth.__
 
-## Category to which it belongs
-
-* [Enhancing water and waste management through surveillance, treatment, and improved infrastructure to ensure environmental hygiene and public health.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_50.md)
-
-## Closest similar item
-
-* [Use high-performing filters, proper disposal of disinfectants](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2872.md)
-* [Monitoring wastewater](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4362.md)
-* [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_492.md)
-* [Use of portable air filters to remove other pathogens from the air in hospital wards](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2832.md)
-* [Use high-efficiency air filters, regularly replace filters, and properly maintain air filtration systems.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2307.md)
-* [Portable air filters with uv sterilisation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3524.md)
-* [Wastewater-based monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5170.md)
-* [Regular cleaning and disinfection, proper ventilation and air filtration systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2473.md)
-* [Increased sanitation monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5167.md)
-* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_149.md)
-
 ## Blueprints with this mitigation
 
 * [Drinking water safety - biofilm formation](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_21.md)
+
+## Category to which it belongs
+
+* [Enhancing water and waste management through surveillance, treatment, and improved infrastructure to ensure environmental hygiene and public health.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_100.md)
+
+## Closest similar item
+
+* [Increased sanitation monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2872.md)
+* [Monitoring wastewater](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4362.md)
+* [Portable air filters with uv sterilisation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_492.md)
+* [Regular cleaning and disinfection, proper ventilation and air filtration systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2832.md)
+* [Use high-efficiency air filters, regularly replace filters, and properly maintain air filtration systems.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2307.md)
+* [Use high-performing filters, proper disposal of disinfectants](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3524.md)
+* [Use of portable air filters to remove other pathogens from the air in hospital wards](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5170.md)
+* [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2473.md)
+* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5167.md)
+* [Wastewater-based monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_149.md)
 
 ## Risks possibly mitigated by this Mitigation
 

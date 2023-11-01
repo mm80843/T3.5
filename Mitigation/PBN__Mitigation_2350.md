@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Implementation of comprehensive and rigorous cleaning, disinfection, and sanitation practices to ensure effective and efficient pathogen eradication.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_70.md)
+* [Implementation of comprehensive and rigorous cleaning, disinfection, and sanitation practices to ensure effective and efficient pathogen eradication.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_120.md)
 
 ## Closest similar item
 
-* [Germicidal uv air disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4319.md)
-* [Air cleaning devices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4296.md)
+* [Air cleaning devices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4319.md)
+* [Germicidal uv air disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4296.md)
 * [Implement air disinfection technologies such as uvgi, bipolar ionization, or photocatalytic oxidation. regularly clean and disinfect surfaces.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2308.md)
-* [Uv air disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_448.md)
-* [Uvgi systems for air disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1197.md)
+* [Implement ultraviolet germicidal irradiation uvgi](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_448.md)
+* [Implement uv germicidal irradiation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1197.md)
 * [Increase ventilation and air filtration, use uv germicidal irradiation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2979.md)
-* [Implement ultraviolet germicidal irradiation uvgi](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_191.md)
-* [Implement uv germicidal irradiation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3739.md)
-* [Portable air filters with uv sterilisation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3524.md)
-* [Room air cleaners](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4322.md)
+* [Portable air filters with uv sterilisation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_191.md)
+* [Room air cleaners](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3739.md)
+* [Uv air disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3524.md)
+* [Uvgi systems for air disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4322.md)
 
 ## Risks possibly mitigated by this Mitigation
 

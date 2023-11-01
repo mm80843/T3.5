@@ -4,19 +4,19 @@
 
 ## Category to which it belongs
 
-* [Challenges in connectivity, resources, funding, expertise, data, and infrastructure result in limited access and inequalities in various areas.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_18.md)
+* [Challenges in connectivity, resources, funding, expertise, data, and infrastructure result in limited access and inequalities in various areas.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_68.md)
 
 ## Closest similar item
 
-* [Limited access to testing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2340.md)
-* [Limited testing access](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_881.md)
+* [Insufficient testing capacity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2340.md)
+* [Insufficient testing data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_881.md)
 * [Lack of access](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2626.md)
-* [Lack of testing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_543.md)
-* [Lack of qualified staff for testing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2348.md)
-* [Lack of access to tests in lmic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3001.md)
-* [Insufficient testing data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1300.md)
-* [Insufficient testing capacity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_740.md)
-* [Lack of access to best practices and knowledge](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2765.md)
+* [Lack of access to best practices and knowledge](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_543.md)
+* [Lack of access to tests in lmic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2348.md)
+* [Lack of qualified staff for testing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3001.md)
+* [Lack of testing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1300.md)
+* [Limited access to testing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_740.md)
+* [Limited testing access](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2765.md)
 * [Testing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3393.md)
 
 ## Mitigations of this risk

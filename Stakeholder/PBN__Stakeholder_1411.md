@@ -4,20 +4,24 @@
 
 ## Category to which it belongs
 
-* [Individuals from various sectors, including informal and formal economies, facing economic hardship and job loss.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_236.md)
+* [Individuals from various sectors, including informal and formal economies, facing economic hardship and job loss.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_286.md)
 
 ## Closest similar item
 
-* [Worker in the renewable energy sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1765.md)
-* [Renewable energy industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1412.md)
+* [Energy industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1765.md)
+* [Environmental workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1412.md)
 * [Renewable energy companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1410.md)
-* [Environmental workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1303.md)
-* [Workers in the technology sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1671.md)
-* [Workers in the manufacturing sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1691.md)
-* [Energy industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1210.md)
-* [Workers in affected sectors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1470.md)
-* [Workers in all industries](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_838.md)
-* [Workers in the service industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1705.md)
+* [Renewable energy industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1303.md)
+* [Worker in the renewable energy sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1671.md)
+* [Workers in affected sectors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1691.md)
+* [Workers in all industries](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1210.md)
+* [Workers in the manufacturing sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1470.md)
+* [Workers in the service industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_838.md)
+* [Workers in the technology sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1705.md)
+
+## Risk affecting this stakeholder
+
+* [Negative impact on renewable energy sector](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2089.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -28,7 +32,7 @@
 * [Sectors and industries](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1661.md)
 * [Types of workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1656.md)
 
-## Risk affecting this stakeholder
+## Type of the stakeholder
 
-* [Negative impact on renewable energy sector](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2089.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

@@ -4,29 +4,29 @@
 
 ## Category to which it belongs
 
-* [Individuals from various sectors, including informal and formal economies, facing economic hardship and job loss.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_236.md)
+* [Individuals from various sectors, including informal and formal economies, facing economic hardship and job loss.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_286.md)
 
 ## Closest similar item
 
-* [Service industry workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1693.md)
-* [Worker in the service industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1767.md)
-* [Service workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1695.md)
-* [Service industry worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1719.md)
-* [Workers in the manufacturing sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1691.md)
-* [Service worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1739.md)
-* [Workers and firms](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_211.md)
-* [Service personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1167.md)
-* [Workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_128.md)
-* [Workers in the hospitality industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1786.md)
+* [Service industry worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1693.md)
+* [Service industry workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1767.md)
+* [Service personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1695.md)
+* [Service worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1719.md)
+* [Service workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1691.md)
+* [Worker in the service industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1739.md)
+* [Workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_211.md)
+* [Workers and firms](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1167.md)
+* [Workers in the hospitality industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_128.md)
+* [Workers in the manufacturing sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1786.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
-* [Private sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_57.md)
-* [Workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_128.md)
+* [Private sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_128.md)
+* [Workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_57.md)
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Sectors and industries](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1661.md)
+* [Occupational and workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1661.md)
+* [Sectors and industries](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1666.md)
 * [Types of workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1656.md)
-* [Occupational and workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1666.md)
 

@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Individuals from various sectors, including informal and formal economies, facing economic hardship and job loss.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_236.md)
+* [Individuals from various sectors, including informal and formal economies, facing economic hardship and job loss.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_286.md)
 
 ## Closest similar item
 
-* [People facing economic hardship](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_710.md)
-* [Woman experiencing economic hardship](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2294.md)
-* [Individual affected by the lo of loved one or economic hardship](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2149.md)
-* [Individual from lower socio-economic background](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2303.md)
-* [Individual affected by the los of loved one or economic hardship](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2238.md)
-* [Women experiencing economic hardship](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_563.md)
-* [Individuals affected by the loss of loved ones or economic hardships](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1145.md)
-* [Individuals facing economic crisis and uncertainties](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1283.md)
-* [Person living in deprived area](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2312.md)
-* [Low-income individual](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2178.md)
+* [Individual affected by the lo of loved one or economic hardship](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_710.md)
+* [Individual affected by the los of loved one or economic hardship](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2294.md)
+* [Individual from lower socio-economic background](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2149.md)
+* [Individuals affected by the loss of loved ones or economic hardships](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2303.md)
+* [Individuals facing economic crisis and uncertainties](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2238.md)
+* [Low-income individual](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_563.md)
+* [People facing economic hardship](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1145.md)
+* [Person living in deprived area](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1283.md)
+* [Woman experiencing economic hardship](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2312.md)
+* [Women experiencing economic hardship](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2178.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

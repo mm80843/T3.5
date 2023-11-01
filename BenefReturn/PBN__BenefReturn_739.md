@@ -4,6 +4,6 @@
 
 ## This return can be realized by these benefits
 
-* [Improved resource allocation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_688.md)
 * [Enhanced resource allocation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_691.md)
+* [Improved resource allocation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_688.md)
 

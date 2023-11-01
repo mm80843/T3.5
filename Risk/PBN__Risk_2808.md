@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The interconnectedness of global economics has led to financial instability, unemployment, poverty, and decreased investment in certain sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_12.md)
+* [The interconnectedness of global economics has led to financial instability, unemployment, poverty, and decreased investment in certain sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_62.md)
 
 ## Closest similar item
 
-* [Financial problems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_415.md)
-* [Lack of financial support](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2551.md)
-* [Financial instability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1081.md)
-* [Financial constraints](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1287.md)
-* [Financial crisis](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2043.md)
-* [Lack of financial inclusion](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2136.md)
-* [Financial burden](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2463.md)
-* [Limited financial resources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2831.md)
-* [Cash flow issues and financial instability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2767.md)
-* [Financial loss](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1566.md)
+* [Cash flow issues and financial instability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_415.md)
+* [Financial burden](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2551.md)
+* [Financial constraints](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1081.md)
+* [Financial crisis](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1287.md)
+* [Financial instability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2043.md)
+* [Financial loss](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2136.md)
+* [Financial problems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2463.md)
+* [Lack of financial inclusion](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2831.md)
+* [Lack of financial support](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2767.md)
+* [Limited financial resources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1566.md)
 
 ## Mitigations of this risk
 

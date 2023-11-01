@@ -2,26 +2,26 @@
 
 # __Iot in drug delivery__
 
-## Category to which it belongs
-
-* [The utilization of mobile apps, iot, wearable devices, and advanced technologies for contact tracing, monitoring, and tracking in healthcare and smart city solutions.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_83.md)
-
-## Closest similar item
-
-* [Medication delivery through blockchain](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4960.md)
-* [Blockchain medication delivery](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1329.md)
-* [Iot](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4490.md)
-* [Iot in healthcare iomt](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_142.md)
-* [Iot-enabled hospital](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4133.md)
-* [Iot devices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4875.md)
-* [Iomt applications](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4198.md)
-* [Collaborate with blockchain companies for secure and timely medication delivery with accurate tracking.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2856.md)
-* [Development of iomt applications](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_464.md)
-* [Iot and ai](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1285.md)
-
 ## Benefits linked to a risk
 
 * [Enhanced drug delivery](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_158.md)
+
+## Category to which it belongs
+
+* [The utilization of mobile apps, iot, wearable devices, and advanced technologies for contact tracing, monitoring, and tracking in healthcare and smart city solutions.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_133.md)
+
+## Closest similar item
+
+* [Blockchain medication delivery](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4960.md)
+* [Collaborate with blockchain companies for secure and timely medication delivery with accurate tracking.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1329.md)
+* [Development of iomt applications](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4490.md)
+* [Iomt applications](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_142.md)
+* [Iot](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4133.md)
+* [Iot and ai](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4875.md)
+* [Iot devices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4198.md)
+* [Iot in healthcare iomt](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2856.md)
+* [Iot-enabled hospital](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_464.md)
+* [Medication delivery through blockchain](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1285.md)
 
 ## Risks possibly mitigated by this Mitigation
 

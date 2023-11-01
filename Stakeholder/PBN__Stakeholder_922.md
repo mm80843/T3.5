@@ -4,31 +4,35 @@
 
 ## Category to which it belongs
 
-* [Individuals in confined, poorly ventilated indoor spaces, including offices and homes, with low air quality and inadequate filtration systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_235.md)
+* [Individuals in confined, poorly ventilated indoor spaces, including offices and homes, with low air quality and inadequate filtration systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_285.md)
 
 ## Closest similar item
 
-* [Person in indoor space with air-conditioning system](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2320.md)
-* [People in indoor environments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1122.md)
-* [People in indoor buildings and spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1524.md)
-* [Building occupants in indoor spaces sharing the same hvac system](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_926.md)
-* [Individuals in crowded indoor spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_884.md)
-* [Occupants of indoor spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_843.md)
-* [Workers in enclosed indoor spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_835.md)
-* [People in spaces connected to ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1180.md)
-* [Workers in indoor environments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1776.md)
-* [Individuals in indoor settings with poor ventilation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_793.md)
+* [Building occupants in indoor spaces sharing the same hvac system](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2320.md)
+* [Individuals in crowded indoor spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1122.md)
+* [Individuals in indoor settings with poor ventilation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1524.md)
+* [Occupants of indoor spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_926.md)
+* [People in indoor buildings and spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_884.md)
+* [People in indoor environments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_843.md)
+* [People in spaces connected to ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_835.md)
+* [Person in indoor space with air-conditioning system](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1180.md)
+* [Workers in enclosed indoor spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1776.md)
+* [Workers in indoor environments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_793.md)
+
+## Risk affecting this stakeholder
+
+* [Bad use of air-conditioning](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1419.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
-* [Vulnerable population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_547.md)
-* [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_547.md)
+* [Vulnerable population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Building conditions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1887.md)
 
-## Risk affecting this stakeholder
+## Type of the stakeholder
 
-* [Bad use of air-conditioning](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1419.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

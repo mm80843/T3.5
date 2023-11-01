@@ -2,42 +2,34 @@
 
 # __Persistence of sars-cov-2 on surfaces__
 
+## Articles mentionning the risk
+
+* [Environmental factors involved in SARS-CoV-2 transmission: effect and role of indoor environmental quality in the strategy for COVID-19 infection control](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_249.md)
+
 ## Category to which it belongs
 
-* [The propagation and dispersion of the sars-cov-2 virus in various environments and transmission through different mediums and routes.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_0.md)
+* [The propagation and dispersion of the sars-cov-2 virus in various environments and transmission through different mediums and routes.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_50.md)
 
 ## Closest similar item
 
-* [Surface stability of sars-cov-2](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2247.md)
-* [Spread of sars-cov-2 through contaminated surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_70.md)
-* [Spread of sars-cov-2 through the air](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2144.md)
+* [Airborne transmission of sars-cov-2](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2247.md)
+* [Decay rate of sars-cov-2 in the environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_70.md)
+* [Possible pathways of sars-cov-2 transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2144.md)
 * [Spread of sars-cov-2](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_642.md)
 * [Spread of sars-cov-2 through contact with contaminated solids](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_698.md)
-* [Spread of sars-cov-2 through droplets](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1235.md)
-* [Decay rate of sars-cov-2 in the environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2249.md)
-* [Possible pathways of sars-cov-2 transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_875.md)
-* [Airborne transmission of sars-cov-2](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1279.md)
+* [Spread of sars-cov-2 through contaminated surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1235.md)
+* [Spread of sars-cov-2 through droplets](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2249.md)
+* [Spread of sars-cov-2 through the air](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_875.md)
+* [Surface stability of sars-cov-2](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1279.md)
 * [Transmission of sars-cov-2 through contact with contaminated objects](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_221.md)
 
 ## Description of the risk
 
 SARS-CoV-2 can persist on fomites such as plastic, metal, and fabrics for several days, increasing the risk of transmission through contact with contaminated surfaces.
 
-## Type of the risk
-
-* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Is the risk affecting GBN scales
 
 * [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
-
-## Type of impact of the risk (according to ISO37100)
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
-
-## Type of purpose of the risk (according to ISO37100)
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_3.md)
 
 ## Mitigations of this risk
 
@@ -47,29 +39,37 @@ SARS-CoV-2 can persist on fomites such as plastic, metal, and fabrics for severa
 
 Extended survival of the virus on surfaces, leading to potential transmission and infection.
 
-## Stakeholders who can mitigate this risk
-
-* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
-* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
-* [Cleaning staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_654.md)
-* [Individuals responsible for maintaining cleanliness and hygiene in buildings](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_668.md)
-
-## Articles mentionning the risk
-
-* [Environmental factors involved in SARS-CoV-2 transmission: effect and role of indoor environmental quality in the strategy for COVID-19 infection control](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_249.md)
-
 ## People affected by this risk
 
 * [Customers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_221.md)
-* [Such as employees](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_666.md)
-* [Individuals who come into contact with contaminated surfaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_665.md)
-* [Visitors in various indoor settings](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_667.md)
+* [Individuals who come into contact with contaminated surfaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_666.md)
+* [Such as employees](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_667.md)
+* [Visitors in various indoor settings](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_665.md)
+
+## Stakeholders who can mitigate this risk
+
+* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
+* [Cleaning staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
+* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_654.md)
+* [Individuals responsible for maintaining cleanliness and hygiene in buildings](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_668.md)
 
 ## Technologies linked to the risk
 
-* [Cleaning and disinfection products](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_227.md)
-* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_228.md)
+* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_227.md)
+* [Cleaning and disinfection products](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_228.md)
 * [Protective barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_229.md)
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_3.md)
+
+## Type of the risk
+
+* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 

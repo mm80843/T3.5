@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Implement robust privacy protection measures, including encryption, anonymization, and secure data storage, to address privacy concerns.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_81.md)
+* [Implement robust privacy protection measures, including encryption, anonymization, and secure data storage, to address privacy concerns.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_131.md)
 
 ## Closest similar item
 
-* [Blockchain-based medical record management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1057.md)
-* [Use of blockchain for diagnosis confirmation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1172.md)
-* [Strengthen supply chains, utilize blockchain for efficient tracking and distribution of medical equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2698.md)
-* [Use of blockchain for reporting systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1169.md)
-* [Blockchain technology for contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1055.md)
-* [Use of blockchain technology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1052.md)
-* [Promote accurate information dissemination, fact-checking, and verification through blockchain-based platforms](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2700.md)
-* [Blockchain for data security](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4197.md)
-* [Blockchain technology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1103.md)
-* [Use of blockchain for donation tracking](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1170.md)
+* [Blockchain for data security](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1057.md)
+* [Blockchain technology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1172.md)
+* [Blockchain technology for contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2698.md)
+* [Blockchain-based medical record management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1169.md)
+* [Promote accurate information dissemination, fact-checking, and verification through blockchain-based platforms](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1055.md)
+* [Strengthen supply chains, utilize blockchain for efficient tracking and distribution of medical equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1052.md)
+* [Use of blockchain for diagnosis confirmation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2700.md)
+* [Use of blockchain for donation tracking](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4197.md)
+* [Use of blockchain for reporting systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1103.md)
+* [Use of blockchain technology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1170.md)
 
 ## Risks possibly mitigated by this Mitigation
 

@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The spread of diseases through various means such as air, contact, surfaces, and bodily fluids.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_45.md)
+* [The spread of diseases through various means such as air, contact, surfaces, and bodily fluids.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_95.md)
 
 ## Closest similar item
 
-* [Risk of airborne transmission during patient care](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1281.md)
+* [Airborne and direct transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1281.md)
 * [Airborne transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_252.md)
 * [Airborne transmission in the built environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1322.md)
-* [Transmission risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1086.md)
-* [Increased risk of virus transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2783.md)
-* [Airborne transmission of disease](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2726.md)
-* [Airborne and direct transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2991.md)
-* [Risk of transmission in public spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1468.md)
-* [Airborne transmission of diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2747.md)
-* [Risk of asymptomatic transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1369.md)
+* [Airborne transmission of disease](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1086.md)
+* [Airborne transmission of diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2783.md)
+* [Increased risk of virus transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2726.md)
+* [Risk of airborne transmission during patient care](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2991.md)
+* [Risk of asymptomatic transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1468.md)
+* [Risk of transmission in public spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2747.md)
+* [Transmission risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1369.md)
 
 ## Mitigations of this risk
 

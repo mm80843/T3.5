@@ -2,25 +2,25 @@
 
 # __Sources__
 
+## Benefits linked to a risk
+
+
 ## Category to which it belongs
 
-* [Implementing a wide range of measures and strategies to combat the challenges of the pandemic.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_77.md)
+* [Implementing a wide range of measures and strategies to combat the challenges of the pandemic.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_127.md)
 
 ## Closest similar item
 
-* [Use reliable sources](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4463.md)
-* [Reliable information sources](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4616.md)
-* [Research](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_318.md)
-* [Search for evidence beyond ’conventional’ sources](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5292.md)
-* [Information](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_762.md)
-* [Promote reliable sources](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_759.md)
-* [Evidence-based](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3869.md)
-* [Accurate evidence](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3881.md)
-* [Real-world evidence](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3596.md)
-* [Rely on accurate historical data and evidence-based information](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2048.md)
-
-## Benefits linked to a risk
-
+* [Accurate evidence](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4463.md)
+* [Evidence-based](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4616.md)
+* [Information](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_318.md)
+* [Promote reliable sources](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5292.md)
+* [Real-world evidence](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_762.md)
+* [Reliable information sources](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_759.md)
+* [Rely on accurate historical data and evidence-based information](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3869.md)
+* [Research](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3881.md)
+* [Search for evidence beyond ’conventional’ sources](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3596.md)
+* [Use reliable sources](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2048.md)
 
 ## Risks possibly mitigated by this Mitigation
 

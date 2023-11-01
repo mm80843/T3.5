@@ -5,6 +5,6 @@
 ## This return can be realized by these benefits
 
 * [Reduced contact with surfaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_210.md)
-* [Sanitized areas without human contact](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_344.md)
-* [Reduction of virus survival on surfaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_345.md)
+* [Reduction of virus survival on surfaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_344.md)
+* [Sanitized areas without human contact](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_345.md)
 

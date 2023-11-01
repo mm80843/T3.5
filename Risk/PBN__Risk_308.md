@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The spread of diseases through various means such as air, contact, surfaces, and bodily fluids.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_45.md)
+* [The spread of diseases through various means such as air, contact, surfaces, and bodily fluids.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_95.md)
 
 ## Closest similar item
 
-* [Malaria](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_938.md)
-* [Infectious disease transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_942.md)
+* [Airborne transmission of disease](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_938.md)
+* [Airborne transmission of diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_942.md)
 * [Disease transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_489.md)
-* [Transmission of the disease](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3250.md)
-* [Transmission of disease](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2725.md)
-* [Transmission from infected individuals](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3273.md)
-* [Airborne transmission of diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2747.md)
-* [Spread and transmission of mosquito and tick-borne diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3069.md)
-* [Airborne transmission of disease](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2726.md)
-* [Transmission of pathogens](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2475.md)
+* [Infectious disease transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3250.md)
+* [Malaria](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2725.md)
+* [Spread and transmission of mosquito and tick-borne diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3273.md)
+* [Transmission from infected individuals](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2747.md)
+* [Transmission of disease](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3069.md)
+* [Transmission of pathogens](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2726.md)
+* [Transmission of the disease](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2475.md)
 
 ## Mitigations of this risk
 

@@ -2,9 +2,34 @@
 
 # __The socio-economic implications of the coronavirus pandemic (COVID-19): A review__
 
+## Benefits listed in this article
+
+* [Improved access to food](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_680.md)
+* [Improved healthcare delivery](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_679.md)
+* [Increased revenue for video-gaming companies](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_686.md)
+* [Increased supply of ventilators](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_684.md)
+* [Minimized risk of infection spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_681.md)
+* [Protection of healthcare workers](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_682.md)
+* [Strengthened supply chain](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_683.md)
+* [Support for victims of domestic violence](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_685.md)
+
 ## DOI of the article
 
 10.1016/j.ijsu.2020.04.018
+
+## List of risks in an article
+
+* [Crash in demand for agricultural commodities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1799.md)
+* [Decline in manufacturing industry](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1794.md)
+* [Disruption in education system](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1793.md)
+* [Disruption in petroleum and oil industry](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1791.md)
+* [Impact on family dynamics: domestic violence & home video-gaming](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1792.md)
+* [Impact on food sector](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1795.md)
+* [Impact on healthcare systems and pharmaceutical industry](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1790.md)
+* [Impact on hospitality, tourism, and aviation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1798.md)
+* [Impact on information technology, media, and research & development](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_482.md)
+* [Impact on real estate and housing sector](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1796.md)
+* [Impact on sports industry](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1797.md)
 
 ## Short summary of the article
 
@@ -32,6 +57,41 @@ The sports industry has also been impacted. Many sporting events have been cance
 
 Overall, the COVID-19 outbreak has had a big impact on many different parts of the economy. It has caused a lot of uncertainty and financial difficulties for businesses and workers. It is important for governments and leaders to come up with plans to support the economy and help people who have been affected by the virus.
 
+## This article mentions these technologies
+
+* [Ai](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_278.md)
+* [Drones for medical supply delivery](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
+* [Financial aid programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1170.md)
+* [Robotics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1171.md)
+* [Technology for remote learning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1167.md)
+* [Tele-response bots](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1168.md)
+* [Telehealth solutions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1169.md)
+
+## This article points to following mitigation
+
+* [Delivery drones](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4367.md)
+* [Deployment of viral testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4381.md)
+* [Emergency loan guarantees](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Flexible delivery hours](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3123.md)
+* [Food parcels and free meals](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_564.md)
+* [Government bailout](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4370.md)
+* [Increased funding for vaccine research](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_832.md)
+* [Increased production of ventilators](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4378.md)
+* [Increased support for domestic violence services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4382.md)
+* [Limiting product range](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4376.md)
+* [Mortgage holidays](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4369.md)
+* [Online education](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3494.md)
+* [Online grocery delivery](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4375.md)
+* [Quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4374.md)
+* [Remote work](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4373.md)
+* [Self-isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4380.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4377.md)
+* [State aid for tourism industry](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4379.md)
+* [Support for unemployed individuals](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4372.md)
+* [Tele-response bots](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_676.md)
+* [Travel restrictions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4368.md)
+* [Virtual gaming](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4371.md)
+
 ## Title of the article
 
 The socio-economic implications of the coronavirus pandemic (COVID-19): A review
@@ -39,64 +99,4 @@ The socio-economic implications of the coronavirus pandemic (COVID-19): A review
 ## Year of publication
 
 2020
-
-## Benefits listed in this article
-
-* [Protection of healthcare workers](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_679.md)
-* [Improved healthcare delivery](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_680.md)
-* [Increased supply of ventilators](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_681.md)
-* [Strengthened supply chain](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_682.md)
-* [Minimized risk of infection spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_683.md)
-* [Improved access to food](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_684.md)
-* [Support for victims of domestic violence](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_685.md)
-* [Increased revenue for video-gaming companies](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_686.md)
-
-## List of risks in an article
-
-* [Disruption in petroleum and oil industry](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1791.md)
-* [Impact on hospitality, tourism, and aviation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1795.md)
-* [Impact on food sector](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_482.md)
-* [Disruption in education system](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1793.md)
-* [Impact on information technology, media, and research & development](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1798.md)
-* [Impact on real estate and housing sector](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1796.md)
-* [Impact on healthcare systems and pharmaceutical industry](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1794.md)
-* [Impact on family dynamics: domestic violence & home video-gaming](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1799.md)
-* [Decline in manufacturing industry](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1792.md)
-* [Crash in demand for agricultural commodities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1790.md)
-* [Impact on sports industry](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1797.md)
-
-## This article points to following mitigation
-
-* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
-* [Quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3123.md)
-* [Travel restrictions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_564.md)
-* [Support for unemployed individuals](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4373.md)
-* [Remote work](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_832.md)
-* [Deployment of viral testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4367.md)
-* [Self-isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3494.md)
-* [Online education](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4370.md)
-* [Food parcels and free meals](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4377.md)
-* [State aid for tourism industry](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4375.md)
-* [Increased production of ventilators](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_676.md)
-* [Online grocery delivery](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4380.md)
-* [Increased support for domestic violence services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4381.md)
-* [Virtual gaming](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4382.md)
-* [Government bailout](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4374.md)
-* [Delivery drones](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4369.md)
-* [Emergency loan guarantees](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4372.md)
-* [Limiting product range](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4379.md)
-* [Flexible delivery hours](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4378.md)
-* [Increased funding for vaccine research](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4376.md)
-* [Mortgage holidays](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4371.md)
-* [Tele-response bots](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4368.md)
-
-## This article mentions these technologies
-
-* [Ai](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_278.md)
-* [Robotics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1171.md)
-* [Financial aid programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_634.md)
-* [Telehealth solutions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1170.md)
-* [Drones for medical supply delivery](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1169.md)
-* [Technology for remote learning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1167.md)
-* [Tele-response bots](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1168.md)
 

@@ -4,6 +4,6 @@
 
 ## This return can be realized by these benefits
 
-* [Destruction of pathogens](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_315.md)
-* [Inactivation of pathogens](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_316.md)
+* [Destruction of pathogens](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_316.md)
+* [Inactivation of pathogens](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_315.md)
 

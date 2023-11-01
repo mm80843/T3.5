@@ -2,9 +2,25 @@
 
 # __Future perspectives of wastewater-based epidemiology: Monitoring infectious disease spread and resistance to the community level__
 
+## Benefits listed in this article
+
+* [Comprehensive and objective data](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_216.md)
+* [Early detection and response](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_217.md)
+* [Protection of privacy and vulnerable groups](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_218.md)
+* [Real-time disease monitoring](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_219.md)
+* [Tracking antimicrobial usage](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_220.md)
+
 ## DOI of the article
 
 10.1016/j.envint.2020.105689
+
+## List of risks in an article
+
+* [Antimicrobial resistance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2058.md)
+* [Emerging infectious diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2057.md)
+* [Globalization and travel](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2056.md)
+* [Hesitation to vaccinate](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_159.md)
+* [Lack of resources in disease surveillance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_160.md)
 
 ## Short summary of the article
 
@@ -20,6 +36,29 @@ The study concludes that WBE has the potential to complement current surveillanc
 
 There are many diseases that can make a lot of people sick. Some of these diseases are new and have never been seen before. They can spread quickly and cause outbreaks all over the world. There are different ways that people try to keep track of these diseases and stop them from spreading. One new way is called Wastewater-Based Epidemiology (WBE). WBE is a technique that looks at the water we use and can tell us if there are any harmful germs or chemicals in it. By studying the water, scientists can learn about the health of a whole community and if there are any diseases going around. This can help them respond faster and keep people safe. But there are still some challenges that scientists need to figure out, like how to extract the germs or chemicals from the water and how to measure the population size accurately. With more research, WBE could be a really helpful tool in fighting infectious diseases.
 
+## This article mentions these technologies
+
+* [Advanced molecular biology techniques for pathogen detection and monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_952.md)
+* [Antibiotic stewardship programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1566.md)
+* [Capacity-building programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1567.md)
+* [Enhanced screening techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1564.md)
+* [Mobile health applications for remote monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1565.md)
+* [Rapid diagnostics for targeted antimicrobial therapy](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1559.md)
+* [Telemedicine technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1561.md)
+* [Travel advisories and restrictions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1560.md)
+* [Vaccine education and communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1562.md)
+* [Vaccine registries and reminder systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1563.md)
+
+## This article points to following mitigation
+
+* [Antimicrobial resistance gene monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_202.md)
+* [Ethical considerations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4794.md)
+* [Monitoring of pharmaceuticals and metabolites](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4791.md)
+* [Pathogenic dna/rna residues detection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4795.md)
+* [Protein-based inflammation biomarkers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4790.md)
+* [Sentinel surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4792.md)
+* [Wastewater-based epidemiology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4793.md)
+
 ## Title of the article
 
 Future perspectives of wastewater-based epidemiology: Monitoring infectious disease spread and resistance to the community level
@@ -27,43 +66,4 @@ Future perspectives of wastewater-based epidemiology: Monitoring infectious dise
 ## Year of publication
 
 2020
-
-## Benefits listed in this article
-
-* [Real-time disease monitoring](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_216.md)
-* [Tracking antimicrobial usage](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_217.md)
-* [Early detection and response](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_218.md)
-* [Comprehensive and objective data](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_219.md)
-* [Protection of privacy and vulnerable groups](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_220.md)
-
-## List of risks in an article
-
-* [Lack of resources in disease surveillance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2058.md)
-* [Globalization and travel](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2057.md)
-* [Emerging infectious diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_159.md)
-* [Antimicrobial resistance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_160.md)
-* [Hesitation to vaccinate](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2056.md)
-
-## This article points to following mitigation
-
-* [Antimicrobial resistance gene monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4794.md)
-* [Wastewater-based epidemiology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_202.md)
-* [Ethical considerations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4795.md)
-* [Sentinel surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4790.md)
-* [Pathogenic dna/rna residues detection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4791.md)
-* [Protein-based inflammation biomarkers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4792.md)
-* [Monitoring of pharmaceuticals and metabolites](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4793.md)
-
-## This article mentions these technologies
-
-* [Advanced molecular biology techniques for pathogen detection and monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1559.md)
-* [Antibiotic stewardship programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1560.md)
-* [Rapid diagnostics for targeted antimicrobial therapy](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1561.md)
-* [Capacity-building programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1567.md)
-* [Telemedicine technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_952.md)
-* [Mobile health applications for remote monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1566.md)
-* [Travel advisories and restrictions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1565.md)
-* [Enhanced screening techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1564.md)
-* [Vaccine registries and reminder systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1563.md)
-* [Vaccine education and communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1562.md)
 

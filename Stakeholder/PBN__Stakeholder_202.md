@@ -2,38 +2,35 @@
 
 # __Engineers__
 
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Understanding uv susceptibility of viral aerosols](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_433.md)
-* [Understanding the effect of rh on uv susceptibility of bacterial aerosols](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_434.md)
-* [Understanding the effect of rh on uv susceptibility of pathogenic viral aerosols](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_435.md)
-* [Simulation and prediction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_810.md)
-
 ## Category to which it belongs
 
-* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_212.md)
+* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_262.md)
 
 ## Closest similar item
 
-* [Engineer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1888.md)
-* [It engineers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1463.md)
-* [Environmental engineers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_676.md)
-* [It engineer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2526.md)
-* [Environmental engineer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2602.md)
-* [Site engineers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_978.md)
-* [Hvac engineers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_921.md)
-* [Technicians](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_167.md)
-* [Acoustic engineers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1506.md)
-* [Hvac engineer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1753.md)
+* [Acoustic engineers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1888.md)
+* [Engineer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1463.md)
+* [Environmental engineer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_676.md)
+* [Environmental engineers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2526.md)
+* [Hvac engineer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2602.md)
+* [Hvac engineers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_978.md)
+* [It engineer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_921.md)
+* [It engineers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_167.md)
+* [Site engineers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1506.md)
+* [Technicians](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1753.md)
+
+## Risk affecting this stakeholder
+
+* [Placement and size of openings in buildings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1815.md)
 
 ## Risks that can be mitigated by this stakeholder
 
-* [Reliability and robustness of wearable devices](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1113.md)
-* [Poor ventilation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1418.md)
-* [Placement and size of openings in buildings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1815.md)
 * [Airborne transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_252.md)
+* [Harmful effects of uv-c light on humans if not properly shielded](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1113.md)
 * [Inadequate ventilation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_713.md)
-* [Harmful effects of uv-c light on humans if not properly shielded](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1166.md)
+* [Placement and size of openings in buildings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1418.md)
+* [Poor ventilation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1815.md)
+* [Reliability and robustness of wearable devices](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1166.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -42,7 +39,16 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 
-## Risk affecting this stakeholder
+## This Stakeholder can get these Benefits from mitigation measures
 
-* [Placement and size of openings in buildings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1815.md)
+* [Simulation and prediction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_810.md)
+* [Understanding the effect of rh on uv susceptibility of bacterial aerosols](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_433.md)
+* [Understanding the effect of rh on uv susceptibility of pathogenic viral aerosols](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_435.md)
+* [Understanding uv susceptibility of viral aerosols](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_434.md)
+
+## Type of the stakeholder
+
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_0.md)
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

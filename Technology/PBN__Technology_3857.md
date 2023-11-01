@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Enhanced and expanded array of diagnostic testing tools, technologies, and methods for widespread and reliable screening.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_133.md)
+* [Enhanced and expanded array of diagnostic testing tools, technologies, and methods for widespread and reliable screening.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_183.md)
 
 ## Closest similar item
 
-* [Medical imaging techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3169.md)
-* [Digital imaging](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3603.md)
-* [Thermal imaging technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3602.md)
-* [Enhanced diagnostic techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2027.md)
-* [Artificial intelligence and ct imaging data](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3215.md)
-* [Diagnostic tests](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1000.md)
-* [Diagnostic testing technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1307.md)
-* [Rapid diagnostic tests](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_610.md)
-* [Image processing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2402.md)
-* [Diagnostic testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_343.md)
+* [Artificial intelligence and ct imaging data](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3169.md)
+* [Diagnostic testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3603.md)
+* [Diagnostic testing technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3602.md)
+* [Diagnostic tests](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2027.md)
+* [Digital imaging](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3215.md)
+* [Enhanced diagnostic techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1000.md)
+* [Image processing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1307.md)
+* [Medical imaging techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_610.md)
+* [Rapid diagnostic tests](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2402.md)
+* [Thermal imaging technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_343.md)
 
 ## This Technology enables the following mitigations
 

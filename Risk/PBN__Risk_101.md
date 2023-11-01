@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The toll of the pandemic includes harm to mental health, increased domestic violence, and psychological distress, highlighting the need for support and resources.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_2.md)
+* [The toll of the pandemic includes harm to mental health, increased domestic violence, and psychological distress, highlighting the need for support and resources.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_52.md)
 
 ## Closest similar item
 
-* [Increase in domestic violence](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1427.md)
-* [Increased domestic violence](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2465.md)
+* [Domestic violence](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1427.md)
+* [Domestic violence and intimate partner violence](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2465.md)
 * [Domestic violence increase](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1132.md)
-* [Increased levels of domestic violence](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_483.md)
-* [Increase in mental health issues](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1130.md)
-* [Impact on families and domestic violence](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_833.md)
-* [Domestic violence and intimate partner violence](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2.md)
-* [Increase in intimate partner violence during pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_21.md)
-* [Domestic violence](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1750.md)
-* [Increased intimate partner violence during the pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1035.md)
+* [Impact on families and domestic violence](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_483.md)
+* [Increase in domestic violence](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1130.md)
+* [Increase in intimate partner violence during pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_833.md)
+* [Increase in mental health issues](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2.md)
+* [Increased domestic violence](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_21.md)
+* [Increased intimate partner violence during the pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1750.md)
+* [Increased levels of domestic violence](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1035.md)
 
 ## Mitigations of this risk
 

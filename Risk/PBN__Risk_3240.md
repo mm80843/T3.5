@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The pandemic has led to a decrease in in-person surgical education, loss of control, temporary panic from cruise ship docking, limited social distancing, and decreased morale.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_20.md)
+* [The pandemic has led to a decrease in in-person surgical education, loss of control, temporary panic from cruise ship docking, limited social distancing, and decreased morale.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_70.md)
 
 ## Closest similar item
 
-* [Ineffective use of isolation facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_547.md)
-* [Ineffective home isolation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2664.md)
-* [Quarantine, self-isolation, and lockdown](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_852.md)
-* [Negative impact of prolonged self-isolation on mental health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1700.md)
-* [Monitoring and restriction](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2527.md)
-* [Inadequate compliance monitoring](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1713.md)
-* [Social isolation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2454.md)
+* [Feeling of isolation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_547.md)
+* [Inadequate compliance monitoring](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2664.md)
+* [Ineffective home isolation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_852.md)
+* [Ineffective use of isolation facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1700.md)
+* [Isolation and lack of human interaction](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2527.md)
+* [Monitoring and restriction](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1713.md)
+* [Negative impact of prolonged self-isolation on mental health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2454.md)
 * [Non-compliance with social distancing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3150.md)
-* [Isolation and lack of human interaction](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_167.md)
-* [Feeling of isolation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1108.md)
+* [Quarantine, self-isolation, and lockdown](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_167.md)
+* [Social isolation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1108.md)
 
 ## Mitigations of this risk
 

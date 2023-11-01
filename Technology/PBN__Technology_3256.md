@@ -2,26 +2,26 @@
 
 # __Online delivery platforms__
 
-## Link between Blueprint and General ontology
-
-* [New delivery systems](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_21.md)
-
 ## Category to which it belongs
 
-* [Digital platforms facilitate virtual collaboration, communication, information sharing, and online transactions among individuals and communities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_100.md)
+* [Digital platforms facilitate virtual collaboration, communication, information sharing, and online transactions among individuals and communities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_150.md)
 
 ## Closest similar item
 
-* [New delivery systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3902.md)
-* [Delivery services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3755.md)
-* [Online platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_67.md)
-* [Online ordering platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1366.md)
-* [Online networking platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_907.md)
+* [Delivery services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3902.md)
+* [Digital supply chain platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3755.md)
+* [E-commerce platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_67.md)
+* [New delivery systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1366.md)
+* [Online booking platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_907.md)
 * [Online marketplaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1696.md)
-* [Online travel platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_994.md)
-* [E-commerce platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_694.md)
-* [Online booking platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_991.md)
-* [Digital supply chain platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1519.md)
+* [Online networking platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_994.md)
+* [Online ordering platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_694.md)
+* [Online platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_991.md)
+* [Online travel platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1519.md)
+
+## Link between Blueprint and General ontology
+
+* [New delivery systems](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_21.md)
 
 ## This Technology enables the following mitigations
 

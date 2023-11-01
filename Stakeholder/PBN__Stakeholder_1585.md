@@ -4,20 +4,24 @@
 
 ## Category to which it belongs
 
-* [Underprivileged individuals and marginalized communities lacking social connections and facing stigmatization, requiring support from advocacy and community organizations promoting equality and inclusion.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_234.md)
+* [Underprivileged individuals and marginalized communities lacking social connections and facing stigmatization, requiring support from advocacy and community organizations promoting equality and inclusion.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_284.md)
 
 ## Closest similar item
 
-* [Minority group](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2183.md)
-* [Minority populations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_850.md)
-* [Minority population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2176.md)
-* [Racial minorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_486.md)
-* [Minorities and marginalized groups](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2174.md)
-* [Racial and ethnic minority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2304.md)
-* [Community groups](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1312.md)
-* [Racial and ethnic minorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_659.md)
-* [Socially disadvantaged groups](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_199.md)
-* [Social groups](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_638.md)
+* [Community groups](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2183.md)
+* [Minorities and marginalized groups](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_850.md)
+* [Minority group](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2176.md)
+* [Minority population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_486.md)
+* [Minority populations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2174.md)
+* [Racial and ethnic minorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2304.md)
+* [Racial and ethnic minority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1312.md)
+* [Racial minorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_659.md)
+* [Social groups](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_199.md)
+* [Socially disadvantaged groups](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_638.md)
+
+## Risk affecting this stakeholder
+
+* [Lack of cultural sensitivity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2364.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -27,7 +31,7 @@
 
 * [Minorities and marginalized groups](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2174.md)
 
-## Risk affecting this stakeholder
+## Type of the stakeholder
 
-* [Lack of cultural sensitivity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2364.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

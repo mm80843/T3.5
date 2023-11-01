@@ -2,39 +2,34 @@
 
 # __Governance__
 
+## Articles mentionning the risk
+
+* [Leveraging Digital Transformation Technologies to Tackle COVID-19: Proposing a Privacy-First Holistic Framework](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_297.md)
+
 ## Category to which it belongs
 
-* [The challenges of urban inequality, parameter identification, noise pollution, waste, and delayed decision making have resulted in increased inequalities and exclusion, posing numerous issues for governance and scalability.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_14.md)
+* [The challenges of urban inequality, parameter identification, noise pollution, waste, and delayed decision making have resulted in increased inequalities and exclusion, posing numerous issues for governance and scalability.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_64.md)
 
 ## Closest similar item
 
-* [Inadequate governance models](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_631.md)
+* [Administrative controls](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_631.md)
 * [Conflicting interests and governance models](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1189.md)
-* [Inadequate governance and leadership](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1336.md)
+* [Fragmented governance and lack of cooperation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1336.md)
 * [Fragmented governance and limited cooperation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_805.md)
-* [Fragmented governance and lack of cooperation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2039.md)
-* [Lack of coordinated global governance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_44.md)
-* [Lack of urban governance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1024.md)
-* [Weaknesses in smart city governance models](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1192.md)
-* [Administrative controls](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2119.md)
-* [Political mismanagement](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1018.md)
+* [Inadequate governance and leadership](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2039.md)
+* [Inadequate governance models](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_44.md)
+* [Lack of coordinated global governance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1024.md)
+* [Lack of urban governance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1192.md)
+* [Political mismanagement](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2119.md)
+* [Weaknesses in smart city governance models](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1018.md)
 
 ## Description of the risk
 
 Lack of standards, protocols, and agreements for integrating fragmented digital transformation technologies.
 
-## Type of the risk
-
-
 ## Is the risk affecting GBN scales
 
 * [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
-
-## Type of impact of the risk (according to ISO37100)
-
-
-## Type of purpose of the risk (according to ISO37100)
-
 
 ## Mitigations of this risk
 
@@ -44,25 +39,30 @@ Lack of standards, protocols, and agreements for integrating fragmented digital 
 
 Difficulty in coordination and interoperability between different systems and technologies.
 
-## Stakeholders who can mitigate this risk
-
-* [Government agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_55.md)
-* [Industry associations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_629.md)
-
-## Articles mentionning the risk
-
-* [Leveraging Digital Transformation Technologies to Tackle COVID-19: Proposing a Privacy-First Holistic Framework](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_297.md)
-
 ## People affected by this risk
 
 * [Government agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_55.md)
 * [Technology providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_628.md)
 
+## Stakeholders who can mitigate this risk
+
+* [Government agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_55.md)
+* [Industry associations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_629.md)
+
 ## Technologies linked to the risk
 
 * [Collaboration platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_155.md)
-* [Protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_154.md)
-* [Standards](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_153.md)
+* [Protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_153.md)
+* [Standards](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_154.md)
+
+## Type of impact of the risk (according to ISO37100)
+
+
+## Type of purpose of the risk (according to ISO37100)
+
+
+## Type of the risk
+
 
 ## Property: has_RiskType
 

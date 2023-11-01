@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Accurate and reliable knowledge dissemination and fact-checking through interdisciplinary collaboration and intelligent information feedback.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_122.md)
+* [Accurate and reliable knowledge dissemination and fact-checking through interdisciplinary collaboration and intelligent information feedback.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_172.md)
 
 ## Closest similar item
 
-* [Knowledge graphs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2334.md)
-* [Open biological and biomedical ontology obo foundry](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3356.md)
-* [Knowledge base](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2325.md)
+* [Artificial intelligence and clinical data](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2334.md)
+* [Artificial intelligence and health data](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3356.md)
+* [Bioinformatics tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2325.md)
 * [Biomedical literature](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2331.md)
 * [Health networks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2703.md)
-* [Knowledge-base system](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2566.md)
-* [Artificial intelligence and clinical data](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3212.md)
-* [Bioinformatics tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_711.md)
-* [Artificial intelligence and health data](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3223.md)
-* [Knowledge extraction techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1344.md)
+* [Knowledge base](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2566.md)
+* [Knowledge extraction techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3212.md)
+* [Knowledge graphs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_711.md)
+* [Knowledge-base system](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3223.md)
+* [Open biological and biomedical ontology obo foundry](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1344.md)
 
 ## This Technology enables the following mitigations
 

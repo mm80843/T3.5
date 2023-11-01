@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Building design and construction incorporate biophilic principles, modular techniques, and flexible layouts to create sustainable, resilient, and adaptable spaces.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_138.md)
+* [Building design and construction incorporate biophilic principles, modular techniques, and flexible layouts to create sustainable, resilient, and adaptable spaces.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_188.md)
 
 ## Closest similar item
 
-* [Design strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2154.md)
-* [Nature-based design strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3891.md)
-* [Flexible design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2652.md)
-* [Architectural design technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1108.md)
-* [Design principles that allow for future modifications and customization](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2838.md)
+* [Architectural design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2154.md)
+* [Architectural design technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3891.md)
+* [Biophilic design strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2652.md)
+* [Design principles that allow for future modifications and customization](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1108.md)
+* [Design strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2838.md)
 * [Enhanced structural design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2015.md)
-* [Architectural design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2950.md)
-* [Sustainable and resilient design principles](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_470.md)
-* [Universal design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3396.md)
-* [Biophilic design strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1372.md)
+* [Flexible design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2950.md)
+* [Nature-based design strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_470.md)
+* [Sustainable and resilient design principles](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3396.md)
+* [Universal design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1372.md)
 
 ## This Technology enables the following mitigations
 

@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Interoperability challenges, high costs, limited communication, and lack of resources impact various sectors globally.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_22.md)
+* [Interoperability challenges, high costs, limited communication, and lack of resources impact various sectors globally.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_72.md)
 
 ## Closest similar item
 
-* [Technological limitations, lack of productivity, isolation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3024.md)
-* [Technological limitations and dependencies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2076.md)
-* [Increased reliance on technology](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1949.md)
-* [Technology access](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1258.md)
-* [Dependency on technology](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1226.md)
+* [Dependency on technology](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3024.md)
+* [Increased reliance on technology](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2076.md)
+* [Lack of effective technical systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1949.md)
+* [Lack of infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1258.md)
+* [Lack of physical barriers](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1226.md)
 * [Reliance on technology](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1941.md)
-* [Lack of infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2439.md)
-* [Lack of effective technical systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1190.md)
-* [Technical limitations and limited connectivity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_26.md)
-* [Lack of physical barriers](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1314.md)
+* [Technical limitations and limited connectivity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2439.md)
+* [Technological limitations and dependencies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1190.md)
+* [Technological limitations, lack of productivity, isolation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_26.md)
+* [Technology access](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1314.md)
 
 ## Mitigations of this risk
 

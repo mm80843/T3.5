@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Promote collaboration, coordination, and standardized guidelines to foster partnerships, implement policies, and achieve global cooperation.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_57.md)
+* [Promote collaboration, coordination, and standardized guidelines to foster partnerships, implement policies, and achieve global cooperation.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_107.md)
 
 ## Closest similar item
 
-* [Promoting awareness and knowledge sharing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_13.md)
-* [Knowledge sharing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4291.md)
-* [Adoption of smart communities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_898.md)
-* [Collaboration and knowledge sharing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3889.md)
-* [Knowledge exchange](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1067.md)
+* [Adoption of smart communities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_13.md)
+* [Collaboration and knowledge sharing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4291.md)
+* [Community engagement](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_898.md)
+* [Encourage critical thinking, promote responsible information sharing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3889.md)
+* [Establish standards and protocols, promote collaboration and knowledge sharing among stakeholders.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1067.md)
 * [Implement community-based strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_50.md)
-* [Establish standards and protocols, promote collaboration and knowledge sharing among stakeholders.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1543.md)
-* [Encourage critical thinking, promote responsible information sharing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2447.md)
-* [Community engagement](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4628.md)
-* [Increase data sharing and collaboration among researchers and institutions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2280.md)
+* [Increase data sharing and collaboration among researchers and institutions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1543.md)
+* [Knowledge exchange](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2447.md)
+* [Knowledge sharing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4628.md)
+* [Promoting awareness and knowledge sharing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2280.md)
 
 ## Risks possibly mitigated by this Mitigation
 

@@ -2,23 +2,27 @@
 
 # __Sanitized areas without human contact__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Decreased risk of virus transmission through surfaces
+* [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_67.md)
+
+## Category to which it belongs
+
+* [Enhanced cleanliness, safety, and disinfection promote improved hygiene practices and increased access to clean water and sanitation.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_39.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Improved health and safety of occupants, increased attractiveness of residential buildings](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_367.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_67.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [Occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_92.md)
+Decreased risk of virus transmission through surfaces
 
 ## Risks which can benefit from this action
 
 * [Self-cleaning spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_216.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [Occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_92.md)
 

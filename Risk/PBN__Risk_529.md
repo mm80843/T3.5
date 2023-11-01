@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The interconnectedness of global economics has led to financial instability, unemployment, poverty, and decreased investment in certain sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_12.md)
+* [The interconnectedness of global economics has led to financial instability, unemployment, poverty, and decreased investment in certain sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_62.md)
 
 ## Closest similar item
 
-* [Lack of access to private car](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1212.md)
-* [Decline in car-based transportation infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_242.md)
-* [Lack of private sector investment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2553.md)
-* [Reliance on technology](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1941.md)
-* [Disruption in automobile sales](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_410.md)
-* [Lack of private space](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3148.md)
-* [Infringement on privacy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3374.md)
-* [Inequitable access to transportation options](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1911.md)
+* [Decline in car-based transportation infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1212.md)
+* [Disruption in automobile sales](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_242.md)
+* [Inequitable access to transportation options](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2553.md)
+* [Infringement on privacy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1941.md)
+* [Lack of access to private car](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_410.md)
+* [Lack of financial support for public transport operators](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3148.md)
+* [Lack of private sector investment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3374.md)
+* [Lack of private space](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1911.md)
 * [Limited access to private green spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1946.md)
-* [Lack of financial support for public transport operators](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1910.md)
+* [Reliance on technology](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1910.md)
 
 ## Mitigations of this risk
 

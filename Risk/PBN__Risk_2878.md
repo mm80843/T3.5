@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The interconnectedness of global economics has led to financial instability, unemployment, poverty, and decreased investment in certain sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_12.md)
+* [The interconnectedness of global economics has led to financial instability, unemployment, poverty, and decreased investment in certain sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_62.md)
 
 ## Closest similar item
 
-* [Economic impacts](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_961.md)
-* [Economic impact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_124.md)
-* [Shortage of supplies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3252.md)
+* [Economic impact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_961.md)
+* [Economic impacts](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_124.md)
+* [Economic impacts, social impacts](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3252.md)
 * [Essential goods](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3338.md)
-* [Economic impacts, social impacts](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2875.md)
-* [Impact on economy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1584.md)
-* [Shortages in supply chains](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_491.md)
-* [Labour shortages, low productivity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2562.md)
-* [Lack of transportation and financial constraints](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3324.md)
-* [Livelihood and trade disruptions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_774.md)
+* [Impact on economy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2875.md)
+* [Labour shortages, low productivity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1584.md)
+* [Lack of transportation and financial constraints](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_491.md)
+* [Livelihood and trade disruptions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2562.md)
+* [Shortage of supplies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3324.md)
+* [Shortages in supply chains](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_774.md)
 
 ## Mitigations of this risk
 

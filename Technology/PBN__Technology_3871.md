@@ -4,18 +4,18 @@
 
 ## Category to which it belongs
 
-* [Advanced audiovisual technology is revolutionizing communication, surveillance, and media dissemination in our society.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_120.md)
+* [Advanced audiovisual technology is revolutionizing communication, surveillance, and media dissemination in our society.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_170.md)
 
 ## Closest similar item
 
-* [Media](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3022.md)
+* [Digital media](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3022.md)
 * [Mass media](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1538.md)
-* [News and information sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3385.md)
-* [Reliable news sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1125.md)
-* [Digital media](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2967.md)
-* [Media organizations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_335.md)
-* [Media regulations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_6.md)
-* [Media platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3714.md)
+* [Media](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3385.md)
+* [Media organizations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1125.md)
+* [Media platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2967.md)
+* [Media regulations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_335.md)
+* [News and information sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_6.md)
+* [Reliable news sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3714.md)
 * [Reliable sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1860.md)
 * [Responsible reporting by media](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1922.md)
 

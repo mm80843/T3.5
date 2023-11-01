@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Promote comprehensive and widespread testing, contact tracing, and the development of standardized protocols to accurately detect and track the virus.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_96.md)
+* [Promote comprehensive and widespread testing, contact tracing, and the development of standardized protocols to accurately detect and track the virus.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_146.md)
 
 ## Closest similar item
 
-* [Screening techniques](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1410.md)
-* [Screening technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_635.md)
-* [Preprint screening measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5144.md)
-* [Rapid screening](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4131.md)
-* [Symptom screening](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3438.md)
-* [Widespread testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_441.md)
-* [Increase testing capacity and accessibility, prioritize testing for high-risk individuals and areas, utilize alternative testing methods such as wastewater-based surveillance.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3070.md)
-* [Screening techniques for patient severity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5160.md)
-* [Expand testing capacity, prioritize testing for high-risk individuals and settings, implement targeted testing strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2029.md)
-* [Population screening](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5056.md)
+* [Expand testing capacity, prioritize testing for high-risk individuals and settings, implement targeted testing strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1410.md)
+* [Increase testing capacity and accessibility, prioritize testing for high-risk individuals and areas, utilize alternative testing methods such as wastewater-based surveillance.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_635.md)
+* [Population screening](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5144.md)
+* [Preprint screening measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4131.md)
+* [Rapid screening](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3438.md)
+* [Screening techniques](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_441.md)
+* [Screening techniques for patient severity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3070.md)
+* [Screening technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5160.md)
+* [Symptom screening](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2029.md)
+* [Widespread testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5056.md)
 
 ## Risks possibly mitigated by this Mitigation
 

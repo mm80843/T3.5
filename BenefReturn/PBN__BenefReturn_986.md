@@ -4,6 +4,6 @@
 
 ## This return can be realized by these benefits
 
-* [Enhanced community health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_897.md)
-* [Enhanced risk monitoring](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_902.md)
+* [Enhanced community health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_902.md)
+* [Enhanced risk monitoring](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_897.md)
 

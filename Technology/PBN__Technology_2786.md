@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [A comprehensive collection of iot devices, sensors, and monitoring systems for remote monitoring, measurement, and environmental control.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_117.md)
+* [A comprehensive collection of iot devices, sensors, and monitoring systems for remote monitoring, measurement, and environmental control.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_167.md)
 
 ## Closest similar item
 
-* [Sensor devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3249.md)
+* [Diagnostic devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3249.md)
 * [Monitoring devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1743.md)
-* [Technology devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2965.md)
-* [Monitoring equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3044.md)
-* [Temperature monitoring devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1298.md)
-* [Technological tracking device](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2766.md)
-* [Diagnostic devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3520.md)
-* [Multiplexed measurements](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2420.md)
-* [Testing and analysis equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_763.md)
-* [Monitoring systems and sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2169.md)
+* [Monitoring equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2965.md)
+* [Monitoring systems and sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3044.md)
+* [Multiplexed measurements](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1298.md)
+* [Sensor devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2766.md)
+* [Technological tracking device](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3520.md)
+* [Technology devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2420.md)
+* [Temperature monitoring devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_763.md)
+* [Testing and analysis equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2169.md)
 
 ## This Technology enables the following mitigations
 

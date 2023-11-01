@@ -2,9 +2,29 @@
 
 # __The role of green roofs in post COVID-19 confinement: An analysis of willingness to pay__
 
+## Benefits listed in this article
+
+* [Energy efficiency improvement](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_192.md)
+* [Improved acoustic performance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1020.md)
+* [Improved air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1248.md)
+* [Improved mental and physical health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1249.md)
+* [Increased in-service life of buildings](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1250.md)
+* [Increased property value](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1251.md)
+* [Mitigation of urban heat island effect](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1252.md)
+* [Natural greywater treatment](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1253.md)
+* [Reduced noise pollution](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_886.md)
+
 ## DOI of the article
 
 10.1016/j.jobe.2021.103388
+
+## List of risks in an article
+
+* [High installation and maintenance costs of green roofs](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1671.md)
+* [Lack of access to outdoor space](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1670.md)
+* [Lack of awareness and knowledge about green roofs](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1673.md)
+* [Lack of green spaces in the built environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1674.md)
+* [Spread of contagious diseases in densely populated areas](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1672.md)
 
 ## Short summary of the article
 
@@ -14,6 +34,38 @@ This research abstract summarizes a study that aimed to assess the value and wil
 
 This study looked at how people feel about having green spaces, like gardens or green roofs, in their homes, especially after being stuck at home during the COVID-19 pandemic. The researchers surveyed over 500 people from different countries to see how much they would be willing to pay for a green roof and what factors influenced their decision. They found that most people valued outdoor space more after the pandemic and would be willing to pay a small percentage of their monthly mortgage payment for a green roof. Factors like income, education level, and the type of housing they grew up in also played a role in their willingness to pay. Overall, having green spaces at home became more important to people during the pandemic.
 
+## This article mentions these technologies
+
+* [Educational materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_493.md)
+* [Financial incentives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_49.md)
+* [Green infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_920.md)
+* [Green infrastructure design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1028.md)
+* [Green roof maintenance technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1029.md)
+* [Information campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_48.md)
+* [Public health measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_53.md)
+* [Technology for disease surveillance and contact tracing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_435.md)
+* [Urban planning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1031.md)
+* [Urban planning strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1030.md)
+
+## This article points to following mitigation
+
+* [Artificial intelligence excluded](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4148.md)
+* [Assessing citizens’ willingness to pay](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4146.md)
+* [Correlation/association analysis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_752.md)
+* [Country-specific analyses](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4156.md)
+* [Data collection through online survey](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4142.md)
+* [Determining citizens’ preferences](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4149.md)
+* [Economic analysis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4154.md)
+* [Face-to-face surveys](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4150.md)
+* [Green roofs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4151.md)
+* [Incentives for green roof installation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4144.md)
+* [Integration of green infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4145.md)
+* [Multinomial logistic regression](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4147.md)
+* [Policies for green infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4152.md)
+* [Promotion of green roofs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4153.md)
+* [Regression modeling](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4155.md)
+* [Statistical analysis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4143.md)
+
 ## Title of the article
 
 The role of green roofs in post COVID-19 confinement: An analysis of willingness to pay
@@ -21,56 +73,4 @@ The role of green roofs in post COVID-19 confinement: An analysis of willingness
 ## Year of publication
 
 2021
-
-## Benefits listed in this article
-
-* [Energy efficiency improvement](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1020.md)
-* [Improved acoustic performance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1248.md)
-* [Increased in-service life of buildings](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1249.md)
-* [Increased property value](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1250.md)
-* [Natural greywater treatment](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1251.md)
-* [Mitigation of urban heat island effect](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1252.md)
-* [Improved air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_192.md)
-* [Reduced noise pollution](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1253.md)
-* [Improved mental and physical health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_886.md)
-
-## List of risks in an article
-
-* [Spread of contagious diseases in densely populated areas](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1671.md)
-* [High installation and maintenance costs of green roofs](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1673.md)
-* [Lack of green spaces in the built environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1672.md)
-* [Lack of access to outdoor space](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1670.md)
-* [Lack of awareness and knowledge about green roofs](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1674.md)
-
-## This article points to following mitigation
-
-* [Integration of green infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_752.md)
-* [Data collection through online survey](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4149.md)
-* [Statistical analysis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4148.md)
-* [Determining citizens’ preferences](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4144.md)
-* [Incentives for green roof installation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4145.md)
-* [Policies for green infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4146.md)
-* [Assessing citizens’ willingness to pay](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4147.md)
-* [Correlation/association analysis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4150.md)
-* [Regression modeling](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4151.md)
-* [Multinomial logistic regression](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4152.md)
-* [Artificial intelligence excluded](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4153.md)
-* [Face-to-face surveys](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4154.md)
-* [Country-specific analyses](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4155.md)
-* [Economic analysis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4156.md)
-* [Green roofs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4142.md)
-* [Promotion of green roofs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4143.md)
-
-## This article mentions these technologies
-
-* [Urban planning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_920.md)
-* [Green infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_48.md)
-* [Urban planning strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_49.md)
-* [Educational materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_493.md)
-* [Information campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_435.md)
-* [Green infrastructure design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1030.md)
-* [Financial incentives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_53.md)
-* [Public health measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1028.md)
-* [Technology for disease surveillance and contact tracing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1029.md)
-* [Green roof maintenance technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1031.md)
 

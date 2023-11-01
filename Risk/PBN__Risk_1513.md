@@ -2,45 +2,38 @@
 
 # __Delays in project activities__
 
-## Link between Blueprint and General ontology
+## Articles mentionning the risk
 
-* [Activities continuity](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Theme_8.md)
+* [The impact of COVID-19 outbreak on United Kingdom infrastructure sector](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_141.md)
 
 ## Category to which it belongs
 
-* [The construction industry faces challenges in occupant exposure, pandemic preparedness, information-based management, off-site construction, building systems, and financial crisis.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_7.md)
+* [The construction industry faces challenges in occupant exposure, pandemic preparedness, information-based management, off-site construction, building systems, and financial crisis.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_57.md)
 
 ## Closest similar item
 
-* [Project delays](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_554.md)
-* [Delay in project](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2802.md)
-* [Delays in construction projects](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1082.md)
-* [Delay in completion of construction projects](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_306.md)
-* [Delays due to lack of materials](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2806.md)
-* [Limited time for project delivery](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2918.md)
-* [Concerns about project time, cost, and scope](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1975.md)
+* [Concerns about project time, cost, and scope](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_554.md)
+* [Delay in completion of construction projects](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2802.md)
+* [Delay in delivery of construction materials](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1082.md)
+* [Delay in project](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_306.md)
+* [Delay in works due to staff members at high risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2806.md)
+* [Delays due to lack of materials](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2918.md)
+* [Delays in construction projects](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1975.md)
 * [Delays in delivery of construction materials](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_305.md)
-* [Delay in delivery of construction materials](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2044.md)
-* [Delay in works due to staff members at high risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_499.md)
+* [Limited time for project delivery](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2044.md)
+* [Project delays](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_499.md)
 
 ## Description of the risk
 
 COVID-19 restrictions and working from home leading to delays
 
-## Type of the risk
-
-
 ## Is the risk affecting GBN scales
 
 * [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
 
-## Type of impact of the risk (according to ISO37100)
+## Link between Blueprint and General ontology
 
-* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_8.md)
-
-## Type of purpose of the risk (according to ISO37100)
-
-* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
+* [Activities continuity](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Theme_8.md)
 
 ## Mitigations of this risk
 
@@ -50,24 +43,31 @@ COVID-19 restrictions and working from home leading to delays
 
 Increased costs, project timeline disruptions
 
+## People affected by this risk
+
+* [Clients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_179.md)
+* [Contractors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_976.md)
+* [Project teams](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_297.md)
+
 ## Stakeholders who can mitigate this risk
 
 * [Management team](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_292.md)
 * [Operations team](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_293.md)
 
-## Articles mentionning the risk
-
-* [The impact of COVID-19 outbreak on United Kingdom infrastructure sector](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_141.md)
-
-## People affected by this risk
-
-* [Contractors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_179.md)
-* [Project teams](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_976.md)
-* [Clients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_297.md)
-
 ## Technologies linked to the risk
 
 * [Communication and collaboration tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_808.md)
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_8.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
+
+## Type of the risk
+
 
 ## Property: has_RiskType
 

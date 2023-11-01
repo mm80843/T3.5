@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [A comprehensive collection of iot devices, sensors, and monitoring systems for remote monitoring, measurement, and environmental control.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_117.md)
+* [A comprehensive collection of iot devices, sensors, and monitoring systems for remote monitoring, measurement, and environmental control.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_167.md)
 
 ## Closest similar item
 
-* [Sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_200.md)
-* [Wearable sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2347.md)
-* [Indoor sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3304.md)
-* [Smart sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3144.md)
+* [Indoor sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_200.md)
+* [Iot sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2347.md)
+* [Sensor devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3304.md)
+* [Sensor networks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3144.md)
 * [Sensor technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3668.md)
-* [Sensor devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3249.md)
-* [Sensor technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2540.md)
-* [Wireless communication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2564.md)
-* [Iot sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3167.md)
-* [Sensor networks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3426.md)
+* [Sensor technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3249.md)
+* [Sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2540.md)
+* [Smart sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2564.md)
+* [Wearable sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3167.md)
+* [Wireless communication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3426.md)
 
 ## This Technology enables the following mitigations
 

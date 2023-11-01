@@ -2,34 +2,62 @@
 
 # __Suspension of projects__
 
+## Articles mentionning the risk
+
+* [The Impact of Pandemic Crisis on the Survival of Construction Industry: A Case of COVID-19](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_168.md)
+
 ## Category to which it belongs
 
-* [The construction industry faces challenges in occupant exposure, pandemic preparedness, information-based management, off-site construction, building systems, and financial crisis.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_7.md)
+* [The construction industry faces challenges in occupant exposure, pandemic preparedness, information-based management, off-site construction, building systems, and financial crisis.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_57.md)
 
 ## Closest similar item
 
-* [Project delays](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_554.md)
-* [Disruption of construction projects](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1547.md)
-* [Delays in project activities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1513.md)
-* [Delays in construction projects](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1082.md)
-* [Concerns about project time, cost, and scope](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1975.md)
-* [Delay in project](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2802.md)
-* [Delay in completion of construction projects](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_306.md)
-* [Limited time for project delivery](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2918.md)
-* [Building closures and restrictions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1845.md)
-* [Ineffective use of open government projects](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1193.md)
+* [Building closures and restrictions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_554.md)
+* [Concerns about project time, cost, and scope](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1547.md)
+* [Delay in completion of construction projects](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1513.md)
+* [Delay in project](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1082.md)
+* [Delays in construction projects](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1975.md)
+* [Delays in project activities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2802.md)
+* [Disruption of construction projects](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_306.md)
+* [Ineffective use of open government projects](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2918.md)
+* [Limited time for project delivery](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1845.md)
+* [Project delays](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1193.md)
 
 ## Description of the risk
 
 Projects are halted or postponed due to the pandemic, causing delays in construction activities and potential financial losses.
 
-## Type of the risk
-
-* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Is the risk affecting GBN scales
 
 * [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
+
+## Mitigations of this risk
+
+* [Implementing remote work arrangements, implementing safety protocols, ensuring proper communication and coordination](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_832.md)
+* [Remote work](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1898.md)
+
+## Name of the risk
+
+Delayed completion, financial losses, impact on supply chains and subcontractors.
+
+## People affected by this risk
+
+* [Construction workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_197.md)
+* [Contractors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_179.md)
+* [Project developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_902.md)
+* [Subcontractors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_901.md)
+
+## Stakeholders who can mitigate this risk
+
+* [Contractors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_903.md)
+* [Project developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_179.md)
+* [Project managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_902.md)
+
+## Technologies linked to the risk
+
+* [Project management software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_134.md)
+* [Remote work technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_130.md)
+* [Virtual meetings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_628.md)
 
 ## Type of impact of the risk (according to ISO37100)
 
@@ -39,37 +67,9 @@ Projects are halted or postponed due to the pandemic, causing delays in construc
 
 * [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
 
-## Mitigations of this risk
+## Type of the risk
 
-* [Remote work](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_832.md)
-* [Implementing remote work arrangements, implementing safety protocols, ensuring proper communication and coordination](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1898.md)
-
-## Name of the risk
-
-Delayed completion, financial losses, impact on supply chains and subcontractors.
-
-## Stakeholders who can mitigate this risk
-
-* [Contractors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_179.md)
-* [Project developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_902.md)
-* [Project managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_903.md)
-
-## Articles mentionning the risk
-
-* [The Impact of Pandemic Crisis on the Survival of Construction Industry: A Case of COVID-19](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_168.md)
-
-## People affected by this risk
-
-* [Contractors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_179.md)
-* [Project developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_902.md)
-* [Construction workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_197.md)
-* [Subcontractors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_901.md)
-
-## Technologies linked to the risk
-
-* [Remote work technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_134.md)
-* [Project management software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_130.md)
-* [Virtual meetings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_628.md)
+* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 

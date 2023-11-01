@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Innovative technologies and systems that enable efficient and secure control, management, and interaction in various domains.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_109.md)
+* [Innovative technologies and systems that enable efficient and secure control, management, and interaction in various domains.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_159.md)
 
 ## Closest similar item
 
-* [Rule-based algorithm](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3197.md)
-* [Rule-based methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1146.md)
-* [Expert systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1145.md)
-* [Knowledge-base system](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2566.md)
+* [Ai support systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3197.md)
+* [Control systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1146.md)
+* [Coordination systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1145.md)
+* [Data validation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2566.md)
 * [Decision support systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1315.md)
-* [Data validation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1317.md)
-* [Control systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3605.md)
-* [Coordination systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1283.md)
-* [Smart systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2646.md)
-* [Ai support systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2053.md)
+* [Expert systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1317.md)
+* [Knowledge-base system](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3605.md)
+* [Rule-based algorithm](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1283.md)
+* [Rule-based methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2646.md)
+* [Smart systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2053.md)
 
 ## This Technology enables the following mitigations
 

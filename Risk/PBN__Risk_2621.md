@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The prevalence and impact of inaccurate, uncertain, and biased data pose significant challenges in decision-making and effective response to the covid-19 pandemic.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_34.md)
+* [The prevalence and impact of inaccurate, uncertain, and biased data pose significant challenges in decision-making and effective response to the covid-19 pandemic.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_84.md)
 
 ## Closest similar item
 
-* [Changing priorities and needs not addressed](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_401.md)
-* [Shift in public priorities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1596.md)
+* [Changes in demand patterns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_401.md)
+* [Changes in social practices](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1596.md)
 * [Changing needs and capacities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2919.md)
-* [Resistance to change, inequitable impacts](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2852.md)
-* [Lack of behavior change](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2400.md)
+* [Changing priorities and needs not addressed](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2852.md)
+* [Delayed decision making](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2400.md)
 * [Impact on decision-making](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1559.md)
-* [Changes in demand patterns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1754.md)
-* [Changes in social practices](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_45.md)
-* [Delayed decision making](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_659.md)
-* [Inefficient decision-making](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2989.md)
+* [Inefficient decision-making](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1754.md)
+* [Lack of behavior change](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_45.md)
+* [Resistance to change, inequitable impacts](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_659.md)
+* [Shift in public priorities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2989.md)
 
 ## Mitigations of this risk
 

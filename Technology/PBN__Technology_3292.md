@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_119.md)
+* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_169.md)
 
 ## Closest similar item
 
-* [Anti-malaria drugs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_237.md)
-* [Antiviral](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3293.md)
-* [Antivirals](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_827.md)
-* [Antiviral drugs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_236.md)
-* [Anti-bacterial](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3291.md)
-* [Anti-inflammatory drugs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_238.md)
+* [Anti-bacterial](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_237.md)
+* [Anti-inflammatory drugs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3293.md)
+* [Anti-malaria drugs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_827.md)
+* [Antimicrobial materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_236.md)
+* [Antiretroviral therapy](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3291.md)
+* [Antiviral](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_238.md)
 * [Antiviral drug research](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_836.md)
-* [Medications](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3260.md)
-* [Antiretroviral therapy](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2281.md)
-* [Antimicrobial materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2830.md)
+* [Antiviral drugs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3260.md)
+* [Antivirals](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2281.md)
+* [Medications](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2830.md)
 
 ## This Technology enables the following mitigations
 

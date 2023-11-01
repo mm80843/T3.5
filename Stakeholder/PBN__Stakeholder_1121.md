@@ -4,22 +4,26 @@
 
 ## Category to which it belongs
 
-* [The various individuals and entities involved in the provision and administration of healthcare services and systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_190.md)
+* [The various individuals and entities involved in the provision and administration of healthcare services and systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_240.md)
 
 ## Closest similar item
 
-* [Research institutions and public health authorities are responsible for conducting research and developing guidelines to understand and regulate ah and rh levels](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1128.md)
-* [Public health authorities are at risk of misinterpreting the relationship between ah](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1125.md)
-* [Public health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_0.md)
-* [Public health agencies and policymakers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_122.md)
-* [Government health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_880.md)
-* [Public health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_222.md)
-* [Health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_394.md)
+* [Government health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1128.md)
+* [Health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1125.md)
+* [National public health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_0.md)
+* [Public health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_122.md)
+* [Public health agencies and policymakers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_880.md)
+* [Public health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_222.md)
+* [Public health authorities are at risk of misinterpreting the relationship between ah](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_394.md)
 * [Public health officials](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_310.md)
 * [Public-health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_513.md)
-* [National public health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1837.md)
+* [Research institutions and public health authorities are responsible for conducting research and developing guidelines to understand and regulate ah and rh levels](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1837.md)
 
 ## Risks that can be mitigated by this stakeholder
 
 * [Influenza virus survival](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1690.md)
+
+## Type of the stakeholder
+
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
 

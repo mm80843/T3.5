@@ -2,23 +2,27 @@
 
 # __Identification of energy consumption drivers__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Identifying the factors that contribute to energy waste in buildings can help develop targeted energy efficiency strategies and reduce unnecessary energy consumption.
+* [Addressing the impact of COVID-19 lockdown on energy use in municipal buildings: A case study in Florianópolis, Brazil](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_286.md)
+
+## Category to which it belongs
+
+* [Optimized energy usage, cost savings, and better energy infrastructure through increased efficiency and awareness.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_45.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Private investors would benefit from improved energy performance, reduced operating costs, and improved asset value.](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_1519.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [Addressing the impact of COVID-19 lockdown on energy use in municipal buildings: A case study in Florianópolis, Brazil](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_286.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [Building owners and managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_522.md)
+Identifying the factors that contribute to energy waste in buildings can help develop targeted energy efficiency strategies and reduce unnecessary energy consumption.
 
 ## Risks which can benefit from this action
 
 * [Conduct comprehensive energy consumption breakdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1369.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [Building owners and managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_522.md)
 

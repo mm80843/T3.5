@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Inadequate air quality control contributes to the circulation of harmful contaminants and transmission of diseases through the built environment.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_37.md)
+* [Inadequate air quality control contributes to the circulation of harmful contaminants and transmission of diseases through the built environment.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_87.md)
 
 ## Closest similar item
 
-* [Transmission through airborne aerosols](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1787.md)
-* [Transmission via aerosols](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1274.md)
-* [Transmission through aerosols](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1368.md)
-* [Aerosol transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1543.md)
-* [Aerosol transmission in dry environments](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2840.md)
-* [Airborne transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_252.md)
-* [Virus transmission through aerosol](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_509.md)
-* [Airborne transmission of respiratory particles](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3004.md)
-* [Airborne and direct transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2991.md)
-* [Airborne transmission in the built environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1322.md)
+* [Aerosol transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1787.md)
+* [Aerosol transmission in dry environments](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1274.md)
+* [Airborne and direct transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1368.md)
+* [Airborne transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1543.md)
+* [Airborne transmission in the built environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2840.md)
+* [Airborne transmission of respiratory particles](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_252.md)
+* [Transmission through aerosols](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_509.md)
+* [Transmission through airborne aerosols](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3004.md)
+* [Transmission via aerosols](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2991.md)
+* [Virus transmission through aerosol](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1322.md)
 
 ## Mitigations of this risk
 

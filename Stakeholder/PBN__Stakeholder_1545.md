@@ -4,20 +4,24 @@
 
 ## Category to which it belongs
 
-* [Particularly vulnerable populations, including low-income individuals, those with low education, and individuals in noisy or crowded environments, especially men, are at increased risk.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_202.md)
+* [Particularly vulnerable populations, including low-income individuals, those with low education, and individuals in noisy or crowded environments, especially men, are at increased risk.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_252.md)
 
 ## Closest similar item
 
-* [Especially those in underserved area](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2218.md)
-* [Especially those in underserved communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1228.md)
-* [Especially those in underserved community](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2232.md)
+* [Especially those in affected area](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2218.md)
+* [Especially those in affected areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1228.md)
+* [Especially those in densely populated area](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2232.md)
 * [Especially those in densely populated areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_817.md)
-* [Especially those in densely populated area](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2235.md)
-* [Especially those in affected areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_598.md)
-* [Especially those in affected area](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2188.md)
-* [Especially those in low-income communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_585.md)
-* [Especially those living in densely populated areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_894.md)
-* [Especially those living in densely populated area](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2296.md)
+* [Especially those in low-income communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2235.md)
+* [Especially those in underserved area](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_598.md)
+* [Especially those in underserved communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2188.md)
+* [Especially those in underserved community](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_585.md)
+* [Especially those living in densely populated area](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_894.md)
+* [Especially those living in densely populated areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2296.md)
+
+## Risk affecting this stakeholder
+
+* [Inadequate allocation of community service facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2299.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -27,7 +31,7 @@
 
 * [Vulnerable and underserved communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2219.md)
 
-## Risk affecting this stakeholder
+## Type of the stakeholder
 
-* [Inadequate allocation of community service facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2299.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

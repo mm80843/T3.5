@@ -4,19 +4,19 @@
 
 ## Category to which it belongs
 
-* [The various individuals and entities involved in the provision and administration of healthcare services and systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_190.md)
+* [The various individuals and entities involved in the provision and administration of healthcare services and systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_240.md)
 
 ## Closest similar item
 
 * [Clinical laboratories](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1380.md)
-* [Laboratory and research](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1825.md)
-* [Medical laboratories](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1575.md)
+* [Laboratories](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1825.md)
+* [Laboratory and research](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1575.md)
 * [Laboratory management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_700.md)
 * [Laboratory personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_688.md)
 * [Laboratory researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1557.md)
-* [Laboratories](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_5.md)
+* [Laboratory supervisors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_5.md)
 * [Laboratory technicians](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_698.md)
-* [Laboratory supervisors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1051.md)
+* [Medical laboratories](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1051.md)
 * [Testing laboratories](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1155.md)
 
 ## This Stakeholder belongs to this StakeholderGroup

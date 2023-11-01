@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Interoperability challenges, high costs, limited communication, and lack of resources impact various sectors globally.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_22.md)
+* [Interoperability challenges, high costs, limited communication, and lack of resources impact various sectors globally.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_72.md)
 
 ## Closest similar item
 
-* [Improper installation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3405.md)
-* [Ineffective administrative controls](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1315.md)
-* [Insufficient technical installations for adaptation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_794.md)
+* [Administrative controls](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3405.md)
+* [Connectivity issues](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1315.md)
+* [Improper installation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_794.md)
 * [Inadequate unit sizes](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1871.md)
-* [Lack of access](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2626.md)
-* [Technical failure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2724.md)
-* [Connectivity issues](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2060.md)
-* [Misdiagnosis and equipment malfunction](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2319.md)
-* [Lack of control](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1071.md)
-* [Administrative controls](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2119.md)
+* [Ineffective administrative controls](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2626.md)
+* [Insufficient technical installations for adaptation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2724.md)
+* [Lack of access](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2060.md)
+* [Lack of control](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2319.md)
+* [Misdiagnosis and equipment malfunction](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1071.md)
+* [Technical failure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2119.md)
 
 ## Mitigations of this risk
 

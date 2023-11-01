@@ -2,9 +2,24 @@
 
 # __A Continuously Active Antimicrobial Coating effective against Human Coronavirus 229E__
 
+## Benefits listed in this article
+
+* [Efficacy against coronavirus](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1187.md)
+* [Inactivation of deposited pathogens](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1188.md)
+* [Reduction of hospital acquired infections](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1189.md)
+* [Reduction of infectious viruses](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1190.md)
+
 ## DOI of the article
 
 10.1101/2020.05.10.20097329
+
+## List of risks in an article
+
+* [Contamination of fomites](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1499.md)
+* [Inefficacy of liquid disinfectants](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_865.md)
+* [Insufficient self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1498.md)
+* [Limited efficacy against specific viruses](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1500.md)
+* [Recontamination of surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1497.md)
 
 ## Short summary of the article
 
@@ -14,6 +29,42 @@ A novel continuously active antimicrobial coating called SurfaceWise2™ was tes
 
 There is a coating called SurfaceWise2 that can be put on surfaces to kill viruses. It is being tested to see if it can kill the coronavirus that causes the common cold. Scientists sprayed the coating on stainless steel and then put the virus on it to see what happened. They found that after 10 minutes, more than 90% of the virus was killed, and after two hours, more than 99.99% was killed. This means the coating can help stop the spread of viruses on surfaces. However, this study hasn't been checked by other scientists yet, so we need to wait for more research before we know for sure.
 
+## This article mentions these technologies
+
+* [Advanced antiviral technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_787.md)
+* [Advanced liquid disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_786.md)
+* [Advanced self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_790.md)
+* [Antimicrobial coatings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_791.md)
+* [Self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_789.md)
+* [Surface coatings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_788.md)
+* [Surface disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_785.md)
+
+## This article points to following mitigation
+
+* [Acetone cleaning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3848.md)
+* [Astm e1052 standard test method](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3855.md)
+* [Astm e1153 method](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3856.md)
+* [Autoclaving](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3857.md)
+* [Commercial and healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1189.md)
+* [Continuously active antimicrobial coating](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3853.md)
+* [Coronavirus 229e](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3838.md)
+* [Eagle minimal essential media mem](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3840.md)
+* [Electrostatic sprayer](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1130.md)
+* [Human lung fibroblast mrc-5 cell line](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1188.md)
+* [Letheen broth base lbb](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3844.md)
+* [Phosphate buffered saline pbs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3842.md)
+* [Polyethylene glycol mw 8000 extraction](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3839.md)
+* [Quaternary ammonium polymer coating surfacewise2™](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3841.md)
+* [Residential environments](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3843.md)
+* [Self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3845.md)
+* [Sephadex g-10 gel filtration column](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3846.md)
+* [Sodium chloride extraction](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3847.md)
+* [Spearman-karber method](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3849.md)
+* [Stainless steel coupons](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3850.md)
+* [Surface disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3851.md)
+* [Tissue culture infectious dose at the 50% endpoint tcid50 technique](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3852.md)
+* [X-ray fluorescence spectroscopy xrf spectrometer analyzer](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3854.md)
+
 ## Title of the article
 
 A Continuously Active Antimicrobial Coating effective against Human Coronavirus 229E
@@ -21,55 +72,4 @@ A Continuously Active Antimicrobial Coating effective against Human Coronavirus 
 ## Year of publication
 
 2020
-
-## Benefits listed in this article
-
-* [Reduction of infectious viruses](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1187.md)
-* [Inactivation of deposited pathogens](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1188.md)
-* [Reduction of hospital acquired infections](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1189.md)
-* [Efficacy against coronavirus](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1190.md)
-
-## List of risks in an article
-
-* [Recontamination of surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_865.md)
-* [Insufficient self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1499.md)
-* [Limited efficacy against specific viruses](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1500.md)
-* [Inefficacy of liquid disinfectants](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1498.md)
-* [Contamination of fomites](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1497.md)
-
-## This article points to following mitigation
-
-* [Residential environments](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3855.md)
-* [Stainless steel coupons](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3853.md)
-* [Surface disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1130.md)
-* [Self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1188.md)
-* [Sephadex g-10 gel filtration column](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3848.md)
-* [Continuously active antimicrobial coating](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1189.md)
-* [Quaternary ammonium polymer coating surfacewise2™](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3838.md)
-* [X-ray fluorescence spectroscopy xrf spectrometer analyzer](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3839.md)
-* [Electrostatic sprayer](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3840.md)
-* [Acetone cleaning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3841.md)
-* [Autoclaving](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3842.md)
-* [Sodium chloride extraction](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3843.md)
-* [Polyethylene glycol mw 8000 extraction](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3844.md)
-* [Phosphate buffered saline pbs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3845.md)
-* [Tissue culture infectious dose at the 50% endpoint tcid50 technique](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3846.md)
-* [Letheen broth base lbb](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3847.md)
-* [Eagle minimal essential media mem](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3849.md)
-* [Astm e1153 method](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3850.md)
-* [Astm e1052 standard test method](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3851.md)
-* [Spearman-karber method](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3852.md)
-* [Human lung fibroblast mrc-5 cell line](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3854.md)
-* [Commercial and healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3856.md)
-* [Coronavirus 229e](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3857.md)
-
-## This article mentions these technologies
-
-* [Self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_786.md)
-* [Antimicrobial coatings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_787.md)
-* [Advanced antiviral technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_790.md)
-* [Surface disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_785.md)
-* [Surface coatings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_791.md)
-* [Advanced self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_789.md)
-* [Advanced liquid disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_788.md)
 

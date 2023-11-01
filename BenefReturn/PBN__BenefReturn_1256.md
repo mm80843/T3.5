@@ -4,6 +4,6 @@
 
 ## This return can be realized by these benefits
 
-* [Protection of healthcare workers](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_679.md)
 * [Prevention of viral transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1120.md)
+* [Protection of healthcare workers](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_679.md)
 

@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_119.md)
+* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_169.md)
 
 ## Closest similar item
 
-* [Camera](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2864.md)
-* [Medications](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3260.md)
-* [Cameras](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3216.md)
-* [Ppe](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1461.md)
-* [Uvgi](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3152.md)
-* [Antiviral](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3293.md)
-* [Antivirals](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_827.md)
+* [Antiviral](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2864.md)
+* [Antivirals](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3260.md)
+* [Camera](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3216.md)
+* [Cameras](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1461.md)
+* [Cineca](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3152.md)
+* [Control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3293.md)
+* [Medications](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_827.md)
 * [Pharmaceutical companies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_761.md)
-* [Control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2369.md)
-* [Cineca](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3595.md)
+* [Ppe](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2369.md)
+* [Uvgi](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3595.md)
 
 ## This Technology enables the following mitigations
 

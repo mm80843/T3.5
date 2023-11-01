@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Variety of personnel involved in different roles, such as contractors, staff, administrators, technicians, and professionals in specific fields.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_210.md)
+* [Variety of personnel involved in different roles, such as contractors, staff, administrators, technicians, and professionals in specific fields.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_260.md)
 
 ## Closest similar item
 
-* [Security agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1528.md)
-* [Service personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1167.md)
-* [Security agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2632.md)
-* [Security and law enforcement](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2630.md)
-* [Maintenance personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_151.md)
-* [Datum security professional](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2561.md)
-* [Data security professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1536.md)
-* [Hospital personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_500.md)
-* [Law enforcement](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_532.md)
-* [Employees](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_220.md)
+* [Data security professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1528.md)
+* [Datum security professional](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1167.md)
+* [Employees](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2632.md)
+* [Hospital personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2630.md)
+* [Law enforcement](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_151.md)
+* [Maintenance personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2561.md)
+* [Security agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1536.md)
+* [Security agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_500.md)
+* [Security and law enforcement](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_532.md)
+* [Service personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_220.md)
 
 ## Risks that can be mitigated by this stakeholder
 
@@ -31,4 +31,8 @@
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 
+
+## Type of the stakeholder
+
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
 

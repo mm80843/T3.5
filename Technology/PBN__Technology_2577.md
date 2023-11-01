@@ -4,19 +4,19 @@
 
 ## Category to which it belongs
 
-* [Digital platforms facilitate virtual collaboration, communication, information sharing, and online transactions among individuals and communities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_100.md)
+* [Digital platforms facilitate virtual collaboration, communication, information sharing, and online transactions among individuals and communities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_150.md)
 
 ## Closest similar item
 
-* [Surveys](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_898.md)
-* [Electronic surveys](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1824.md)
-* [Online survey technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3104.md)
-* [Online survey platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3687.md)
-* [Online questionnaire/app](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3570.md)
-* [Online campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_46.md)
-* [Online forums](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3401.md)
-* [E-participation platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2510.md)
-* [Customer feedback platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_914.md)
+* [Customer feedback platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_898.md)
+* [E-participation platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1824.md)
+* [Electronic surveys](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3104.md)
+* [Online campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3687.md)
+* [Online forums](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3570.md)
+* [Online questionnaire/app](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_46.md)
+* [Online survey platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3401.md)
+* [Online survey technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2510.md)
+* [Surveys](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_914.md)
 * [Webinars](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2437.md)
 
 ## This Technology enables the following mitigations

@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Building design and construction incorporate biophilic principles, modular techniques, and flexible layouts to create sustainable, resilient, and adaptable spaces.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_138.md)
+* [Building design and construction incorporate biophilic principles, modular techniques, and flexible layouts to create sustainable, resilient, and adaptable spaces.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_188.md)
 
 ## Closest similar item
 
-* [Building layout and design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2689.md)
+* [Architectural design and building technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2689.md)
 * [Building design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3429.md)
 * [Building design and construction](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2257.md)
 * [Building design and construction techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_455.md)
-* [Layout design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3667.md)
+* [Building layout and design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3667.md)
 * [Building systems and design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2135.md)
-* [Spatial layout and design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2953.md)
-* [Urban layout planning and design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2602.md)
-* [Housing and building design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2218.md)
-* [Architectural design and building technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1105.md)
+* [Housing and building design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2953.md)
+* [Layout design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2602.md)
+* [Spatial layout and design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2218.md)
+* [Urban layout planning and design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1105.md)
 
 ## This Technology enables the following mitigations
 

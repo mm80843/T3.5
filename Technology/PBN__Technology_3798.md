@@ -4,19 +4,19 @@
 
 ## Category to which it belongs
 
-* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_119.md)
+* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_169.md)
 
 ## Closest similar item
 
-* [Centrifugal filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2344.md)
-* [75% 2-propanol](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2941.md)
-* [Filtration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1750.md)
-* [Ethanol](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_851.md)
-* [Transparency](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1925.md)
-* [Aeration control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3344.md)
-* [Ducting](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3082.md)
+* [75% 2-propanol](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2344.md)
+* [Aeration control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2941.md)
+* [Airflow](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1750.md)
+* [Centrifugal filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_851.md)
+* [Ducting](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1925.md)
+* [Ethanol](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3344.md)
+* [Filtration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3082.md)
 * [Green technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1645.md)
-* [Airflow](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1116.md)
+* [Transparency](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1116.md)
 * [Vector control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3487.md)
 
 ## This Technology enables the following mitigations

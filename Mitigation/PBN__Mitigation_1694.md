@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Promote and enforce rigorous hygiene practices, ensure proper sanitation infrastructure, and implement strict cleaning and disinfection protocols.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_73.md)
+* [Promote and enforce rigorous hygiene practices, ensure proper sanitation infrastructure, and implement strict cleaning and disinfection protocols.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_123.md)
 
 ## Closest similar item
 
-* [Implementing social distancing measures, investing in healthcare infrastructure, promoting hygiene practices.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1799.md)
-* [Establishing building specific hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4719.md)
-* [Promote cleanliness and hygiene practices at the community level](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1535.md)
+* [Development of public health infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1799.md)
+* [Encouraging proper sanitation and hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4719.md)
+* [Establishing building specific hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1535.md)
 * [Implement safety protocols, increase hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2056.md)
-* [Encouraging proper sanitation and hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3538.md)
-* [Increased hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3985.md)
-* [Development of public health infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3567.md)
-* [Implementing safety measures, promoting hygiene practices, and providing accurate information](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2204.md)
-* [Provide access to hand hygiene stations, improve sanitation facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1968.md)
-* [Promoting proper hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2973.md)
+* [Implementing safety measures, promoting hygiene practices, and providing accurate information](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3538.md)
+* [Implementing social distancing measures, investing in healthcare infrastructure, promoting hygiene practices.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3985.md)
+* [Increased hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3567.md)
+* [Promote cleanliness and hygiene practices at the community level](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2204.md)
+* [Promoting proper hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1968.md)
+* [Provide access to hand hygiene stations, improve sanitation facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2973.md)
 
 ## Risks possibly mitigated by this Mitigation
 

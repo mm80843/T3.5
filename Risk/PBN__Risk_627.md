@@ -4,19 +4,19 @@
 
 ## Category to which it belongs
 
-* [Interoperability challenges, high costs, limited communication, and lack of resources impact various sectors globally.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_22.md)
+* [Interoperability challenges, high costs, limited communication, and lack of resources impact various sectors globally.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_72.md)
 
 ## Closest similar item
 
-* [Social and gender disparities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2604.md)
-* [Regional disparities in knowledge, attitudes, and practices](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_628.md)
-* [Gender inequality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_237.md)
-* [Effects on gender equality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2243.md)
-* [Poor knowledge and attitudes](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3398.md)
-* [Gender inequalities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_449.md)
-* [Lack of knowledge and attitudes](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3399.md)
-* [Social disparities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2660.md)
-* [Disparities in economic, political, and cultural contexts](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2650.md)
+* [Disparities in economic, political, and cultural contexts](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2604.md)
+* [Effects on gender equality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_628.md)
+* [Gender inequalities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_237.md)
+* [Gender inequality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2243.md)
+* [Lack of knowledge and attitudes](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3398.md)
+* [Poor knowledge and attitudes](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_449.md)
+* [Regional disparities in knowledge, attitudes, and practices](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3399.md)
+* [Social and gender disparities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2660.md)
+* [Social disparities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2650.md)
 * [Social equity disparities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1410.md)
 
 ## Mitigations of this risk

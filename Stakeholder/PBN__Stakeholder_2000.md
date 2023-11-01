@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Participants in the iot ecosystem, including users, data collectors, technology providers, essential service providers, and information providers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_231.md)
+* [Participants in the iot ecosystem, including users, data collectors, technology providers, essential service providers, and information providers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_281.md)
 
 ## Closest similar item
 
-* [Energy providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_744.md)
-* [Energy company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1989.md)
-* [Electricity providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_249.md)
-* [Energy companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1003.md)
+* [Electricity providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_744.md)
+* [Energy companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1989.md)
+* [Energy company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_249.md)
+* [Energy consumers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1003.md)
 * [Energy firms](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_253.md)
-* [Energy managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1526.md)
+* [Energy industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1526.md)
 * [Energy manager](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1937.md)
-* [Energy consumers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_226.md)
-* [Renewable energy companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1410.md)
-* [Energy industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1210.md)
+* [Energy managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_226.md)
+* [Energy providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1410.md)
+* [Renewable energy companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1210.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

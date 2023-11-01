@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Advancements in various technological domains facilitate touchless, remote, and efficient ways of communication, work, and data management.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_108.md)
+* [Advancements in various technological domains facilitate touchless, remote, and efficient ways of communication, work, and data management.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_158.md)
 
 ## Closest similar item
 
-* [Digital health solutions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_471.md)
-* [Digital health interventions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_933.md)
-* [Healthcare technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2768.md)
-* [Digital technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3264.md)
-* [Physical health technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2102.md)
-* [Digital technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2318.md)
+* [Digital health interventions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_471.md)
+* [Digital health solutions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_933.md)
+* [Digital technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2768.md)
+* [Digital technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3264.md)
+* [Electronic health record systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2102.md)
+* [Electronic health records](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2318.md)
 * [Health information systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1514.md)
-* [Electronic health records](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1423.md)
+* [Healthcare technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1423.md)
 * [Mobile health technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1689.md)
-* [Electronic health record systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_513.md)
+* [Physical health technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_513.md)
 
 ## This Technology enables the following mitigations
 

@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The interconnectedness of global economics has led to financial instability, unemployment, poverty, and decreased investment in certain sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_12.md)
+* [The interconnectedness of global economics has led to financial instability, unemployment, poverty, and decreased investment in certain sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_62.md)
 
 ## Closest similar item
 
-* [Lack of funding](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2328.md)
-* [Lack of financial inclusion](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2136.md)
-* [Insufficient investment in healthcare](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2237.md)
-* [Decline of employment and investment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2244.md)
-* [Lack of urban governance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1024.md)
+* [Decline of employment and investment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2328.md)
+* [Insufficient investment in healthcare](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2136.md)
+* [Lack of coordination between sectors](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2237.md)
+* [Lack of financial inclusion](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2244.md)
+* [Lack of funding](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1024.md)
 * [Lack of infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2439.md)
 * [Lack of transportation and financial constraints](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3324.md)
-* [Poor infrastructure, inadequate housing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2409.md)
+* [Lack of urban governance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2409.md)
 * [Less productivity compared to other sectors](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_298.md)
-* [Lack of coordination between sectors](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3049.md)
+* [Poor infrastructure, inadequate housing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3049.md)
 
 ## Mitigations of this risk
 

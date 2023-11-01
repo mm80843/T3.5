@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The fragmented and non-interoperable nature of data and knowledge, along with the lack of bioinformatics tools and data integration, hinder effective data management and sharing, leading to limitations in analysis, communication, and decision-making.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_21.md)
+* [The fragmented and non-interoperable nature of data and knowledge, along with the lack of bioinformatics tools and data integration, hinder effective data management and sharing, leading to limitations in analysis, communication, and decision-making.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_71.md)
 
 ## Closest similar item
 
-* [Potential lack of coverage](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2500.md)
-* [Testing disparities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1913.md)
-* [Incidence disparities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1914.md)
-* [Lack of coverage](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2284.md)
-* [Disparities in access](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3373.md)
-* [Limited access to spatial data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2945.md)
-* [Limited data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3351.md)
-* [Potential socioeconomic disparities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2499.md)
-* [Limited data availability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2943.md)
-* [Lack of spatial variety and privacy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_952.md)
+* [Disparities in access](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2500.md)
+* [Incidence disparities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1913.md)
+* [Lack of coverage](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1914.md)
+* [Lack of spatial variety and privacy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2284.md)
+* [Limited access to spatial data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3373.md)
+* [Limited data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2945.md)
+* [Limited data availability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3351.md)
+* [Potential lack of coverage](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2499.md)
+* [Potential socioeconomic disparities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2943.md)
+* [Testing disparities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_952.md)
 
 ## Mitigations of this risk
 

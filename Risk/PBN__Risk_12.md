@@ -4,18 +4,18 @@
 
 ## Category to which it belongs
 
-* [Healthcare systems overwhelmed, limited access to services, scarcity of resources, and risk to healthcare workers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_10.md)
+* [Healthcare systems overwhelmed, limited access to services, scarcity of resources, and risk to healthcare workers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_60.md)
 
 ## Closest similar item
 
-* [Healthcare system overload](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2110.md)
-* [Healthcare overload](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2391.md)
-* [Overloading health system](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2611.md)
-* [Overburdened healthcare system](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1734.md)
-* [Overburdened healthcare systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2700.md)
-* [Overloaded healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_807.md)
-* [Overwhelmed healthcare systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1616.md)
-* [Overwhelmed healthcare system](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1007.md)
+* [Healthcare overload](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2110.md)
+* [Healthcare system overload](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2391.md)
+* [Overburdened healthcare system](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2611.md)
+* [Overburdened healthcare systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1734.md)
+* [Overloaded healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2700.md)
+* [Overloading health system](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_807.md)
+* [Overwhelmed healthcare system](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1616.md)
+* [Overwhelmed healthcare systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1007.md)
 * [Overwhelmed healthcare systems and operations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1878.md)
 * [Overwhelming healthcare systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1379.md)
 

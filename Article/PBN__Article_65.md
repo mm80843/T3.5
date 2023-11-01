@@ -2,9 +2,22 @@
 
 # __The impact of COVID-19 and strategies for mitigation and suppression in low- and middle-income countries__
 
+## Benefits listed in this article
+
+* [Reduction in severe outcomes](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_262.md)
+* [Reduction in transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_340.md)
+
 ## DOI of the article
 
 10.1126/science.abc0035
+
+## List of risks in an article
+
+* [Economic downturn](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2279.md)
+* [Lack of covid-19 vaccine](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2277.md)
+* [Negative impact on mental health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1379.md)
+* [Overwhelming healthcare systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_525.md)
+* [Transmission rebound after easing interventions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2278.md)
 
 ## Short summary of the article
 
@@ -18,6 +31,27 @@ In order to achieve suppression, countries need to implement several measures su
 
 The effectiveness of these strategies also depends on how people respond to them and how well they are implemented. It is important for governments and communities to work together to follow the guidelines and protect themselves and others from the virus.
 
+## This article mentions these technologies
+
+* [Business assistance programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_402.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_73.md)
+* [Disease surveillance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1885.md)
+* [Financial relief](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_108.md)
+* [Infrastructure development](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_76.md)
+* [Medical equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1883.md)
+* [Online mental health resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1887.md)
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1886.md)
+* [Vaccine development and manufacturing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1884.md)
+
+## This article points to following mitigation
+
+* [Case isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5109.md)
+* [Closure of schools and universities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_337.md)
+* [Home quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5110.md)
+* [Social distancing of >70s](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3685.md)
+* [Social distancing of the entire population](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_336.md)
+* [Stopping mass gatherings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5108.md)
+
 ## Title of the article
 
 The impact of COVID-19 and strategies for mitigation and suppression in low- and middle-income countries
@@ -25,38 +59,4 @@ The impact of COVID-19 and strategies for mitigation and suppression in low- and
 ## Year of publication
 
 2020
-
-## Benefits listed in this article
-
-* [Reduction in transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_262.md)
-* [Reduction in severe outcomes](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_340.md)
-
-## List of risks in an article
-
-* [Negative impact on mental health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2279.md)
-* [Overwhelming healthcare systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1379.md)
-* [Lack of covid-19 vaccine](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2277.md)
-* [Economic downturn](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_525.md)
-* [Transmission rebound after easing interventions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2278.md)
-
-## This article points to following mitigation
-
-* [Case isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_336.md)
-* [Home quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_337.md)
-* [Social distancing of the entire population](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5109.md)
-* [Closure of schools and universities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5110.md)
-* [Stopping mass gatherings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3685.md)
-* [Social distancing of >70s](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5108.md)
-
-## This article mentions these technologies
-
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_402.md)
-* [Infrastructure development](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_76.md)
-* [Financial relief](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1886.md)
-* [Business assistance programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1887.md)
-* [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_73.md)
-* [Medical equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_108.md)
-* [Online mental health resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1885.md)
-* [Disease surveillance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1884.md)
-* [Vaccine development and manufacturing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1883.md)
 

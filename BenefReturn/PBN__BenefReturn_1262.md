@@ -4,7 +4,7 @@
 
 ## This return can be realized by these benefits
 
-* [Increased dilution of pollutants](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1125.md)
-* [Improved distribution of pollutants](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1126.md)
+* [Improved distribution of pollutants](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1125.md)
+* [Increased dilution of pollutants](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1126.md)
 * [Increased ventilation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1127.md)
 

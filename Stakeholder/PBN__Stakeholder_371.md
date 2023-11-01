@@ -2,29 +2,27 @@
 
 # __Small businesses__
 
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Financial relief](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_34.md)
-* [Supply chain resilience](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_711.md)
-* [New business opportunities](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_945.md)
-* [Business liquidity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_946.md)
-
 ## Category to which it belongs
 
-* [Various establishments, including small businesses, private businesses, local businesses, retail businesses, and online businesses coexist with governments and are represented by business owners and associations.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_225.md)
+* [Various establishments, including small businesses, private businesses, local businesses, retail businesses, and online businesses coexist with governments and are represented by business owners and associations.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_275.md)
 
 ## Closest similar item
 
-* [Small business](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2022.md)
-* [Small and medium-sized businesses](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_416.md)
-* [Small and medium-sized business](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2006.md)
-* [Small business owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_76.md)
-* [Businesses](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_147.md)
-* [Small businesses and self-employed individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1338.md)
-* [Local businesses](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_300.md)
-* [Local businesses,](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_385.md)
-* [Small retailers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1151.md)
-* [Private businesses](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_291.md)
+* [Businesses](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2022.md)
+* [Local businesses](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_416.md)
+* [Local businesses,](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2006.md)
+* [Private businesses](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_76.md)
+* [Small and medium-sized business](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_147.md)
+* [Small and medium-sized businesses](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1338.md)
+* [Small business](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_300.md)
+* [Small business owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_385.md)
+* [Small businesses and self-employed individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1151.md)
+* [Small retailers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_291.md)
+
+## Risk affecting this stakeholder
+
+* [Decline in retail sales](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1008.md)
+* [Economic recession](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2207.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -34,8 +32,15 @@
 
 * [Business and financial services](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1865.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder can get these Benefits from mitigation measures
 
-* [Economic recession](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1008.md)
-* [Decline in retail sales](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2207.md)
+* [Business liquidity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_711.md)
+* [Financial relief](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_34.md)
+* [New business opportunities](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_946.md)
+* [Supply chain resilience](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_945.md)
+
+## Type of the stakeholder
+
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_0.md)
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

@@ -5,6 +5,6 @@
 ## This return can be realized by these benefits
 
 * [Reduction in airborne transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_341.md)
-* [Reduction in surface contamination](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_720.md)
-* [Reduction in faecal contamination](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_957.md)
+* [Reduction in faecal contamination](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_720.md)
+* [Reduction in surface contamination](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_957.md)
 

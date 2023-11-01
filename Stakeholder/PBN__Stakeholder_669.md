@@ -4,20 +4,24 @@
 
 ## Category to which it belongs
 
-* [Individuals in confined, poorly ventilated indoor spaces, including offices and homes, with low air quality and inadequate filtration systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_235.md)
+* [Individuals in confined, poorly ventilated indoor spaces, including offices and homes, with low air quality and inadequate filtration systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_285.md)
 
 ## Closest similar item
 
-* [Individual in poorly ventilated indoor environment such a office](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2126.md)
-* [Poorly ventilated indoor environments such as offices](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_662.md)
-* [Individuals in indoor settings with poor ventilation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_793.md)
-* [Building occupants in poorly ventilated buildings](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1352.md)
-* [Individual in indoor setting with poor ventilation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2165.md)
+* [Building occupants in poorly ventilated buildings](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2126.md)
+* [Individual in indoor setting with poor ventilation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_662.md)
+* [Individual in poorly ventilated indoor environment such a office](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_793.md)
+* [Individual in poorly ventilated space](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1352.md)
+* [Individuals in indoor settings with poor ventilation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2165.md)
 * [Individuals in poorly ventilated spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1203.md)
-* [Visitors in poorly ventilated indoor spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1288.md)
-* [Workers in poorly ventilated work environments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_833.md)
-* [Occupants of crowded and poorly ventilated buildings](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1197.md)
-* [Individual in poorly ventilated space](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2123.md)
+* [Occupants of crowded and poorly ventilated buildings](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1288.md)
+* [Poorly ventilated indoor environments such as offices](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_833.md)
+* [Visitors in poorly ventilated indoor spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1197.md)
+* [Workers in poorly ventilated work environments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2123.md)
+
+## Risk affecting this stakeholder
+
+* [Inadequate ventilation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_713.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -27,7 +31,7 @@
 
 * [Geographically defined individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2075.md)
 
-## Risk affecting this stakeholder
+## Type of the stakeholder
 
-* [Inadequate ventilation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_713.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

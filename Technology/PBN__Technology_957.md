@@ -4,29 +4,29 @@
 
 ## Category to which it belongs
 
-* [Digital platforms facilitate virtual collaboration, communication, information sharing, and online transactions among individuals and communities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_100.md)
+* [Digital platforms facilitate virtual collaboration, communication, information sharing, and online transactions among individuals and communities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_150.md)
 
 ## Closest similar item
 
-* [E-learning tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2253.md)
-* [Online learning platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_74.md)
-* [Digital learning platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1807.md)
-* [Digital learning platforms and tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2099.md)
-* [Virtual learning platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1420.md)
-* [Remote learning platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2251.md)
-* [Educational platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1858.md)
-* [Online training platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1208.md)
-* [Web-based platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1817.md)
-* [E-participation platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2510.md)
+* [Digital learning platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2253.md)
+* [Digital learning platforms and tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_74.md)
+* [E-learning tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1807.md)
+* [E-participation platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2099.md)
+* [Educational platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1420.md)
+* [Online learning platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2251.md)
+* [Online training platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1858.md)
+* [Remote learning platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1208.md)
+* [Virtual learning platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1817.md)
+* [Web-based platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2510.md)
+
+## Risks linked to this technology
+
+* [Disruption of core clinical services](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1617.md)
+* [Interrupted education](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2162.md)
 
 ## This Technology belongs to this TechGroup
 
 * [Educational resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_572.md)
-
-## This technology is mentioned by
-
-* [COVID-19 and the UN Sustainable Development Goals: Threat to Solidarity or an Opportunity?](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_109.md)
-* [Digital technology and COVID-19](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_278.md)
 
 ## This Technology belongs to this TechSubgroup
 
@@ -34,11 +34,11 @@
 
 ## This Technology enables the following mitigations
 
-* [Virtual e-learning platforms](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4959.md)
-* [E-learning packages](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4609.md)
+* [E-learning packages](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4959.md)
+* [Virtual e-learning platforms](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4609.md)
 
-## Risks linked to this technology
+## This technology is mentioned by
 
-* [Interrupted education](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1617.md)
-* [Disruption of core clinical services](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2162.md)
+* [COVID-19 and the UN Sustainable Development Goals: Threat to Solidarity or an Opportunity?](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_278.md)
+* [Digital technology and COVID-19](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_109.md)
 

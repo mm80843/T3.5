@@ -4,19 +4,19 @@
 
 ## Category to which it belongs
 
-* [Advanced analytics and simulation techniques can be used to study complex systems and make predictions using artificial intelligence and machine learning, as well as optimize processes and analyze data efficiently.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_107.md)
+* [Advanced analytics and simulation techniques can be used to study complex systems and make predictions using artificial intelligence and machine learning, as well as optimize processes and analyze data efficiently.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_157.md)
 
 ## Closest similar item
 
-* [Artificial intelligence ai](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1712.md)
+* [Ai](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1712.md)
 * [Ai algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_149.md)
-* [Ai](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_278.md)
-* [Ai tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1316.md)
-* [Ai/ml](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3896.md)
-* [Ai technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2042.md)
+* [Ai support systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_278.md)
+* [Ai technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1316.md)
+* [Ai tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3896.md)
+* [Ai triage systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2042.md)
 * [Ai-backed systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1312.md)
-* [Ai triage systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1848.md)
-* [Ai support systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2053.md)
+* [Ai/ml](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1848.md)
+* [Artificial intelligence ai](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2053.md)
 * [Artificial intelligence and ml](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3214.md)
 
 ## This Technology enables the following mitigations

@@ -4,17 +4,17 @@
 
 ## Category to which it belongs
 
-* [Promoting sustainable and inclusive outdoor environments through land use regulation, environmental surveillance, and community gardening.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_111.md)
+* [Promoting sustainable and inclusive outdoor environments through land use regulation, environmental surveillance, and community gardening.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_161.md)
 
 ## Closest similar item
 
-* [Landscape design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2978.md)
-* [Landscape architecture](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_121.md)
+* [Landscape architecture](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2978.md)
+* [Landscape design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_121.md)
 * [Landscape ground](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3612.md)
 * [Landscaped grounds](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1733.md)
-* [Landscaping techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_921.md)
-* [Landscaping](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_963.md)
-* [Landscaping materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3694.md)
+* [Landscaping](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_921.md)
+* [Landscaping materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_963.md)
+* [Landscaping techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3694.md)
 * [Park design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3866.md)
 * [Spatial layout and design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2953.md)
 * [Vertical gardening systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_620.md)

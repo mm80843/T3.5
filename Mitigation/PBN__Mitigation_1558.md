@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Implementation of various strategies to improve healthcare infrastructure, disease management, waste disposal, symptom recognition, and treatment through advanced technology and interventions.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_61.md)
+* [Implementation of various strategies to improve healthcare infrastructure, disease management, waste disposal, symptom recognition, and treatment through advanced technology and interventions.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_111.md)
 
 ## Closest similar item
 
-* [Implement regular and widespread symptom monitoring and testing, both symptomatic and asymptomatic](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2036.md)
-* [Testing and diagnosis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4553.md)
-* [Analysis of complex links between sensor data and physiological status](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1425.md)
-* [Rapid diagnostic tests](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1280.md)
-* [Rapid diagnosis techniques](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4203.md)
-* [Health monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3166.md)
-* [Biomarker testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3556.md)
-* [Monitor and manage gastrointestinal symptoms, enhance diagnostic capabilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2212.md)
-* [Evaluation of symptoms](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4532.md)
-* [Symptom screening](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3438.md)
+* [Analysis of complex links between sensor data and physiological status](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2036.md)
+* [Biomarker testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4553.md)
+* [Evaluation of symptoms](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1425.md)
+* [Health monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1280.md)
+* [Implement regular and widespread symptom monitoring and testing, both symptomatic and asymptomatic](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4203.md)
+* [Monitor and manage gastrointestinal symptoms, enhance diagnostic capabilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3166.md)
+* [Rapid diagnosis techniques](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3556.md)
+* [Rapid diagnostic tests](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2212.md)
+* [Symptom screening](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4532.md)
+* [Testing and diagnosis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3438.md)
 
 ## Risks possibly mitigated by this Mitigation
 

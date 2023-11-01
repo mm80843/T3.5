@@ -4,30 +4,30 @@
 
 ## Category to which it belongs
 
-* [Efficiently collect, analyze, and share anonymized data using a variety of tools, platforms, and systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_126.md)
+* [Efficiently collect, analyze, and share anonymized data using a variety of tools, platforms, and systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_176.md)
 
 ## Closest similar item
 
-* [Historical data analysis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_807.md)
-* [Data monitoring and analysis systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1486.md)
-* [New data and technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3778.md)
-* [Measurement devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2786.md)
-* [Event data](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3791.md)
-* [Data tracking](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2865.md)
-* [Data analytics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1067.md)
-* [Data collection and analysis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2223.md)
-* [Data collection and analysis technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_753.md)
+* [Data analytics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_807.md)
+* [Data collection and analysis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1486.md)
+* [Data collection and analysis technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3778.md)
+* [Data monitoring and analysis systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2786.md)
+* [Data tracking](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3791.md)
+* [Event data](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2865.md)
+* [Historical data analysis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1067.md)
+* [Measurement devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2223.md)
+* [New data and technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_753.md)
 * [Observational datasets](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2695.md)
 
-## This technology is mentioned by
+## Risks linked to this technology
 
-* [Building occupancy estimation with people flow modeling in AnyLogic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_29.md)
+* [Lack of real people flow data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1643.md)
 
 ## This Technology enables the following mitigations
 
 * [Optimization-based people flow](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4090.md)
 
-## Risks linked to this technology
+## This technology is mentioned by
 
-* [Lack of real people flow data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1643.md)
+* [Building occupancy estimation with people flow modeling in AnyLogic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_29.md)
 

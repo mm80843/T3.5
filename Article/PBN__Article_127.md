@@ -2,9 +2,26 @@
 
 # __Applications of digital technology in COVID-19 pandemic planning and response__
 
+## Benefits listed in this article
+
+* [Early detection and response](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_218.md)
+* [Identification of infected individuals and their contacts](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_636.md)
+* [Rapid identification of infected individuals](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_637.md)
+* [Real-time monitoring](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_638.md)
+* [Remote healthcare delivery](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_639.md)
+* [Targeted quarantine and movement control](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_640.md)
+
 ## DOI of the article
 
 10.1016/s2589-7500(20)30142-4
+
+## List of risks in an article
+
+* [Limited effectiveness of digital systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2318.md)
+* [Misdiagnosis and equipment malfunction](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2317.md)
+* [Noise in big data sets](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2320.md)
+* [Privacy invasion](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2319.md)
+* [Socioeconomic inequality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2321.md)
 
 ## Short summary of the article
 
@@ -14,6 +31,38 @@ Digital health technology has become a crucial tool in managing and responding t
 
 Digital health technology has been used by different countries to help manage the COVID-19 pandemic. For example, South Korea used digital technology to track people's movements and identify those who might have been exposed to the virus. Taiwan used data from immigration records and health databases to track the travel history of individuals and test them for the virus. Germany and Singapore used mobile apps to help with contact tracing, which means finding people who have been in contact with someone who has the virus. China used a QR code system to monitor people's health and control their movement. Digital technology can also help with diagnosing the virus, monitoring patients remotely, and delivering healthcare through video appointments. However, there are some challenges with using digital technology, such as privacy concerns and inequalities in access to technology. Overall, digital health technology has been helpful in managing the pandemic and can provide valuable lessons for other countries.
 
+## This article mentions these technologies
+
+* [Anonymous data collection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1936.md)
+* [Broadband access](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1937.md)
+* [Combination of vital sign screening and testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1938.md)
+* [Data validation techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_82.md)
+* [Free wi-fi hotspots](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1933.md)
+* [Loaner devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1594.md)
+* [Noise filtering algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1934.md)
+* [Opt-in systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1940.md)
+* [Privacy-enhancing technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1939.md)
+* [Quality control measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_83.md)
+* [Technical support](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1941.md)
+* [Training programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_822.md)
+* [Widespread testing programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1935.md)
+
+## This article points to following mitigation
+
+* [Ai-assisted ct service](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5184.md)
+* [Bluetooth contact tracing app](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5183.md)
+* [Broadband access](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_638.md)
+* [Data dashboards](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5179.md)
+* [Digital thermometers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5180.md)
+* [Health monitoring platform](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5175.md)
+* [Infrared thermal cameras](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5176.md)
+* [Machine learning models](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5178.md)
+* [Migration maps](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5177.md)
+* [Mobile temperature measurement](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_441.md)
+* [Privacy concerns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3421.md)
+* [Virtual care platforms](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5181.md)
+* [Widespread testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5182.md)
+
 ## Title of the article
 
 Applications of digital technology in COVID-19 pandemic planning and response
@@ -21,53 +70,4 @@ Applications of digital technology in COVID-19 pandemic planning and response
 ## Year of publication
 
 2020
-
-## Benefits listed in this article
-
-* [Early detection and response](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_218.md)
-* [Real-time monitoring](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_636.md)
-* [Rapid identification of infected individuals](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_637.md)
-* [Identification of infected individuals and their contacts](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_638.md)
-* [Targeted quarantine and movement control](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_639.md)
-* [Remote healthcare delivery](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_640.md)
-
-## List of risks in an article
-
-* [Socioeconomic inequality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2318.md)
-* [Limited effectiveness of digital systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2321.md)
-* [Privacy invasion](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2317.md)
-* [Noise in big data sets](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2320.md)
-* [Misdiagnosis and equipment malfunction](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2319.md)
-
-## This article points to following mitigation
-
-* [Privacy concerns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5184.md)
-* [Mobile temperature measurement](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5179.md)
-* [Digital thermometers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5180.md)
-* [Migration maps](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5175.md)
-* [Virtual care platforms](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_638.md)
-* [Widespread testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_441.md)
-* [Broadband access](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5183.md)
-* [Health monitoring platform](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5177.md)
-* [Data dashboards](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5178.md)
-* [Infrared thermal cameras](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3421.md)
-* [Bluetooth contact tracing app](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5181.md)
-* [Ai-assisted ct service](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5182.md)
-* [Machine learning models](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5176.md)
-
-## This article mentions these technologies
-
-* [Widespread testing programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1941.md)
-* [Training programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_82.md)
-* [Quality control measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_83.md)
-* [Anonymous data collection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1934.md)
-* [Combination of vital sign screening and testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1940.md)
-* [Data validation techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_822.md)
-* [Noise filtering algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1939.md)
-* [Broadband access](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1936.md)
-* [Technical support](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1594.md)
-* [Privacy-enhancing technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1933.md)
-* [Opt-in systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1935.md)
-* [Loaner devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1937.md)
-* [Free wi-fi hotspots](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1938.md)
 

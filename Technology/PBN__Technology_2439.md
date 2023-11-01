@@ -2,26 +2,26 @@
 
 # __Air pollution sensors__
 
-## Link between Blueprint and General ontology
-
-* [Air Sensors](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_6.md)
-
 ## Category to which it belongs
 
-* [Improved indoor air quality and temperature control through advanced hvac technologies, air purifiers, and monitoring systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_129.md)
+* [Improved indoor air quality and temperature control through advanced hvac technologies, air purifiers, and monitoring systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_179.md)
 
 ## Closest similar item
 
-* [Air quality sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_430.md)
-* [Air pollution monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_233.md)
-* [Indoor air quality sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1485.md)
-* [Air sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3894.md)
-* [Smart sensors for monitoring air quality](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1019.md)
-* [Air quality monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1248.md)
-* [Air quality monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1290.md)
-* [Outdoor air monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1747.md)
-* [Environmental sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2923.md)
-* [Environmental monitoring and pollution control technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1672.md)
+* [Air pollution monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_430.md)
+* [Air quality monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_233.md)
+* [Air quality monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1485.md)
+* [Air quality sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3894.md)
+* [Air sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1019.md)
+* [Environmental monitoring and pollution control technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1248.md)
+* [Environmental sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1290.md)
+* [Indoor air quality sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1747.md)
+* [Outdoor air monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2923.md)
+* [Smart sensors for monitoring air quality](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1672.md)
+
+## Link between Blueprint and General ontology
+
+* [Air Sensors](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_6.md)
 
 ## This Technology enables the following mitigations
 

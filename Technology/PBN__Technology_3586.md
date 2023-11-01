@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Various online platforms and tools promoting personal interaction, building social capital, and monitoring social behavior.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_121.md)
+* [Various online platforms and tools promoting personal interaction, building social capital, and monitoring social behavior.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_171.md)
 
 ## Closest similar item
 
 * [Building social capital](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3445.md)
-* [Social capital](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2977.md)
-* [Fostering community](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3446.md)
-* [Designated social spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2447.md)
-* [Social welfare programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_72.md)
-* [Social support](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3273.md)
+* [Community organizations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2977.md)
+* [Community outreach](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3446.md)
+* [Community planning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2447.md)
+* [Designated social spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_72.md)
+* [Fostering community](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3273.md)
 * [Placemaking initiatives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1800.md)
-* [Community outreach](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1487.md)
-* [Community organizations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1071.md)
-* [Community planning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2392.md)
+* [Social capital](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1487.md)
+* [Social support](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1071.md)
+* [Social welfare programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2392.md)
 
 ## This Technology enables the following mitigations
 

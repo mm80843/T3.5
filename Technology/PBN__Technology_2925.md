@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Efficiently collect, analyze, and share anonymized data using a variety of tools, platforms, and systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_126.md)
+* [Efficiently collect, analyze, and share anonymized data using a variety of tools, platforms, and systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_176.md)
 
 ## Closest similar item
 
-* [Data recording systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_360.md)
-* [Data management and recording systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2205.md)
-* [Standardized data recording structures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_518.md)
-* [Existing health data capture](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2710.md)
-* [Data integration platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_114.md)
-* [Data collection technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_758.md)
-* [Data tracking](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2865.md)
-* [Monitoring tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1861.md)
-* [Data access platforms and applications](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1967.md)
-* [Monitoring technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1844.md)
+* [Data access platforms and applications](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_360.md)
+* [Data collection technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2205.md)
+* [Data integration platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_518.md)
+* [Data management and recording systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2710.md)
+* [Data recording systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_114.md)
+* [Data tracking](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_758.md)
+* [Existing health data capture](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2865.md)
+* [Monitoring technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1861.md)
+* [Monitoring tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1967.md)
+* [Standardized data recording structures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1844.md)
 
 ## This Technology enables the following mitigations
 

@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Variety of personnel involved in different roles, such as contractors, staff, administrators, technicians, and professionals in specific fields.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_210.md)
+* [Variety of personnel involved in different roles, such as contractors, staff, administrators, technicians, and professionals in specific fields.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_260.md)
 
 ## Closest similar item
 
-* [Contractors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_179.md)
-* [Maintenance contractor](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1681.md)
-* [Maintenance contractors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1116.md)
-* [Contracting clients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1015.md)
-* [Construction worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1711.md)
-* [Freelancer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1725.md)
-* [Construction professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_527.md)
-* [Contracting client](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1903.md)
-* [Construction industry professional](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1991.md)
-* [Construction company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_619.md)
+* [Construction company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_179.md)
+* [Construction industry professional](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1681.md)
+* [Construction professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1116.md)
+* [Construction worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1015.md)
+* [Contracting client](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1711.md)
+* [Contracting clients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1725.md)
+* [Contractors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_527.md)
+* [Freelancer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1903.md)
+* [Maintenance contractor](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1991.md)
+* [Maintenance contractors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_619.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

@@ -2,26 +2,26 @@
 
 # __Digitalplatform__
 
-## Link between Blueprint and General ontology
-
-* [DigitalPlatform](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_1.md)
-
 ## Category to which it belongs
 
-* [Improved and diversified communication channels through digital integration, telecommunication technology, and network infrastructure.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_105.md)
+* [Improved and diversified communication channels through digital integration, telecommunication technology, and network infrastructure.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_155.md)
 
 ## Closest similar item
 
-* [Digitalization](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2617.md)
-* [Digitalisation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3341.md)
-* [Expansion of digital](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1873.md)
-* [Digital media](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2967.md)
-* [Digital technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2318.md)
-* [Digital techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2599.md)
-* [Digital devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_571.md)
-* [Digital tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2683.md)
-* [Digital imaging](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3603.md)
-* [Digital technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3264.md)
+* [Digital devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2617.md)
+* [Digital imaging](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3341.md)
+* [Digital media](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1873.md)
+* [Digital techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2967.md)
+* [Digital technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2318.md)
+* [Digital technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2599.md)
+* [Digital tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_571.md)
+* [Digitalisation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2683.md)
+* [Digitalization](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3603.md)
+* [Expansion of digital](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3264.md)
+
+## Link between Blueprint and General ontology
+
+* [DigitalPlatform](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_1.md)
 
 ## This is also an enabler
 

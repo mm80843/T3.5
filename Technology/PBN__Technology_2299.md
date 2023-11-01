@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Advancements in remote healthcare, antibiotic stewardship programs, medical robots, and international organizations contribute to improved healthcare infrastructure and access to healthcare services.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_135.md)
+* [Advancements in remote healthcare, antibiotic stewardship programs, medical robots, and international organizations contribute to improved healthcare infrastructure and access to healthcare services.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_185.md)
 
 ## Closest similar item
 
-* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1086.md)
-* [Healthcare technologies and facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1944.md)
-* [Facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3065.md)
-* [Improved healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_254.md)
-* [Medical infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2295.md)
-* [Modular healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_472.md)
-* [Equip healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_491.md)
-* [Access to healthcare technologies and facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1942.md)
-* [Build new hospitals](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_490.md)
-* [Mobile medical units](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1651.md)
+* [Access to healthcare technologies and facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1086.md)
+* [Build new hospitals](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1944.md)
+* [Equip healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3065.md)
+* [Facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_254.md)
+* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2295.md)
+* [Healthcare technologies and facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_472.md)
+* [Improved healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_491.md)
+* [Medical infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1942.md)
+* [Mobile medical units](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_490.md)
+* [Modular healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1651.md)
 
 ## This Technology enables the following mitigations
 

@@ -2,23 +2,27 @@
 
 # __Reduced transmission risk in neighbourhood__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Maintaining hygiene in neighbourhood reduces transmission risk of COVID-19 and promotes public health.
+* [Adaptive Design of the Built Environment to Mitigate the Transmission Risk of COVID-19](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_151.md)
+
+## Category to which it belongs
+
+* [Mitigation of spread and risk, lower emissions, and enhanced safety through transmission reduction efforts in various settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_19.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in neighbourhood hygiene maintenance can create a safer and healthier community, increasing desirability and asset value of the neighbourhood.](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_830.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [Adaptive Design of the Built Environment to Mitigate the Transmission Risk of COVID-19](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_151.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [Community](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_313.md)
+Maintaining hygiene in neighbourhood reduces transmission risk of COVID-19 and promotes public health.
 
 ## Risks which can benefit from this action
 
 * [Neighbourhood hygiene maintenance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_754.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [Community](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_313.md)
 

@@ -1,59 +1,13 @@
 [Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_204 
 
-# __Various categories of people, including individuals of different socioeconomic, gender, age, and health statuses, as well as those affected by specific circumstances or conditions.__
+# __Ensure proper air circulation and prevent the recycling of air in controlled environments.__
 
 ## Items covered in this category
 
-* [Individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_20.md)
-* [General individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2101.md)
-* [High-risk individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_69.md)
-* [Individual](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2477.md)
-* [All individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1315.md)
-* [All individual](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2482.md)
-* [Socioeconomic defined individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2104.md)
-* [Gender defined individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2090.md)
-* [Vulnerable individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_748.md)
-* [Self-isolating individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_35.md)
-* [Isolated individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_65.md)
-* [Quarantined or isolated individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2143.md)
-* [Allergic individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1099.md)
-* [Allergic individual](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2276.md)
-* [Age defined individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2078.md)
-* [Businesses and individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_383.md)
-* [Infected individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_161.md)
-* [Previously infected individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_465.md)
-* [Re-infected individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1292.md)
-* [Individuals in close proximity to infected individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_739.md)
-* [Individual in the vicinity of infected individual](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2132.md)
-* [Individuals in the vicinity of infected individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1451.md)
-* [Individual in close proximity to infected individual](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2110.md)
-* [Rural individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2083.md)
-* [Elderly individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_804.md)
-* [Elderly individual](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2122.md)
-* [Disabled individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1509.md)
-* [Especially socially disadvantaged individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1061.md)
-* [Contact persons of infected individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1047.md)
-* [Contact person of infected individual](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2466.md)
-* [Vulnerable individual](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2155.md)
-* [Vaccinated individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1289.md)
-* [Unvaccinated individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_463.md)
-* [Unemployed individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_265.md)
-* [Elderly and at-risk individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_194.md)
-* [Affected individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2081.md)
-* [Particularly child and vulnerable individual](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2199.md)
-* [Low education level individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1504.md)
-* [Particularly children and vulnerable individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1390.md)
-* [Homeless individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_549.md)
-* [Less technologically advanced individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1311.md)
-* [Immunocompromised individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1153.md)
-* [Homeles individual](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2099.md)
-* [Homele individual](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2328.md)
-* [Traveling individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2076.md)
-* [Geographically defined individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2075.md)
-* [Especially those in close contact with infected individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1425.md)
-* [Especially those in close contact with infected individual](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2137.md)
-* [Responsible or working individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2079.md)
-* [Residential defined individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2086.md)
-* [Especially socially disadvantaged individual](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2131.md)
-* [Sedentary individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1496.md)
+* [Control airflows in spaces & Avoid air recirculation](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_4.md)
+* [Control of airflows (airtight / negative pressure)](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_7.md)
+
+## Title of the category
+
+This category of Interventions describes measures that focus on controlling airflows in order to prevent the spread of contagious diseases within green building neighbourhoods. These interventions include ensuring the airtightness of buildings to minimize the infiltration of outside air and the potential entry of contaminants. Additionally, they involve maintaining negative pressure in certain spaces, such as quarantine or isolation rooms, to prevent contaminated air from recirculating and infecting others. By implementing these interventions, individuals within the green building neighbourhood can effectively minimize the transmission of contagious diseases through the control of airflows.
 

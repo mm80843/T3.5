@@ -4,20 +4,24 @@
 
 ## Category to which it belongs
 
-* [Particularly vulnerable populations, including low-income individuals, those with low education, and individuals in noisy or crowded environments, especially men, are at increased risk.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_202.md)
+* [Particularly vulnerable populations, including low-income individuals, those with low education, and individuals in noisy or crowded environments, especially men, are at increased risk.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_252.md)
 
 ## Closest similar item
 
-* [Particularly those who do not practice good hygiene or live in unsanitary condition](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2129.md)
-* [Especially those who do not practice proper hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1591.md)
-* [Especially urban dwellers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1034.md)
+* [Communities with inadequate sanitation facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2129.md)
+* [Communities with poor sanitation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1591.md)
+* [Especially those living in densely populated area with limited acce to natural environment](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1034.md)
 * [Especially those living in densely populated area with limited acces to natural environment](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2244.md)
-* [Especially those living in densely populated area with limited acce to natural environment](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2314.md)
-* [Communities with poor sanitation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_176.md)
-* [Individuals with poor health conditions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_579.md)
-* [Communities with inadequate sanitation facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_694.md)
-* [Especially vulnerable individuals such as children and people with respiratory conditions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_640.md)
-* [Especially those living in densely populated areas with limited access to natural environments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_895.md)
+* [Especially those living in densely populated areas with limited access to natural environments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2314.md)
+* [Especially those who do not practice proper hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_176.md)
+* [Especially urban dwellers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_579.md)
+* [Especially vulnerable individuals such as children and people with respiratory conditions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_694.md)
+* [Individuals with poor health conditions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_640.md)
+* [Particularly those who do not practice good hygiene or live in unsanitary condition](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_895.md)
+
+## Risk affecting this stakeholder
+
+* [Inadequate hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1289.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -26,7 +30,7 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 
-## Risk affecting this stakeholder
+## Type of the stakeholder
 
-* [Inadequate hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1289.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

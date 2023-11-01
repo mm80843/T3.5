@@ -2,23 +2,27 @@
 
 # __Infection prevention__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Reduced transmission of SARS-CoV-2
+* [Current knowledge of COVID-19: Advances, challenges and future perspectives](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_118.md)
+
+## Category to which it belongs
+
+* [Minimized transmission and spread risk while ensuring effective infection control, prevention, and containment measures against diseases like coronavirus.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_17.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Asset value increase from improved public health and safety](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_647.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [Current knowledge of COVID-19: Advances, challenges and future perspectives](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_118.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_29.md)
+Reduced transmission of SARS-CoV-2
 
 ## Risks which can benefit from this action
 
 * [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_29.md)
 

@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Digital tools and technologies facilitating various functions and services on mobile devices.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_101.md)
+* [Digital tools and technologies facilitating various functions and services on mobile devices.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_151.md)
 
 ## Closest similar item
 
-* [Messaging tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1425.md)
-* [Sms messaging](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3775.md)
-* [Text and video messaging](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2452.md)
+* [Apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1425.md)
+* [Messaging tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3775.md)
+* [Mobile app](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2452.md)
 * [Mobile apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2856.md)
-* [Apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1088.md)
-* [Targeted messaging](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_891.md)
-* [Smartphone apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3737.md)
-* [Public health messaging systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_703.md)
-* [Sms technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3367.md)
-* [Mobile app](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3127.md)
+* [Public health messaging systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1088.md)
+* [Smartphone apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_891.md)
+* [Sms messaging](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3737.md)
+* [Sms technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_703.md)
+* [Targeted messaging](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3367.md)
+* [Text and video messaging](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3127.md)
 
 ## This Technology enables the following mitigations
 

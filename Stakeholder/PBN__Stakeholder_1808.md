@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [A diverse collection of organizations and individuals with specific areas of expertise and jurisdiction.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_189.md)
+* [A diverse collection of organizations and individuals with specific areas of expertise and jurisdiction.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_239.md)
 
 ## Closest similar item
 
 * [Journal editors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1555.md)
-* [Medical journal editors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_851.md)
-* [Scientific journal](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1856.md)
-* [Scientific journals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_968.md)
-* [Publisher](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1800.md)
-* [Publishers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1556.md)
-* [Journalist](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1798.md)
+* [Journalism and reporting](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_851.md)
+* [Journalist](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1856.md)
+* [Journalists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_968.md)
+* [Medical journal editors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1800.md)
+* [Publisher](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1556.md)
+* [Publishers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1798.md)
 * [Publishing](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1801.md)
-* [Journalism and reporting](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1799.md)
-* [Journalists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1806.md)
+* [Scientific journal](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1799.md)
+* [Scientific journals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1806.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

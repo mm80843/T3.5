@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Advanced audiovisual technology is revolutionizing communication, surveillance, and media dissemination in our society.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_120.md)
+* [Advanced audiovisual technology is revolutionizing communication, surveillance, and media dissemination in our society.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_170.md)
 
 ## Closest similar item
 
-* [Infrared thermal imaging cameras](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1500.md)
-* [Infrared thermal camera technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2569.md)
-* [High-performance infrared thermal cameras](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3808.md)
-* [Thermal cameras](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2362.md)
-* [Video cameras](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3063.md)
-* [Thermal camera](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2859.md)
+* [Cameras](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1500.md)
+* [High-performance infrared thermal cameras](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2569.md)
+* [Infrared thermal camera technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3808.md)
+* [Infrared thermal imaging cameras](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2362.md)
+* [Infrared thermometers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3063.md)
+* [Surveillance camera technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2859.md)
 * [Surveillance cameras](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_165.md)
-* [Cameras](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3216.md)
-* [Surveillance camera technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2568.md)
-* [Infrared thermometers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2636.md)
+* [Thermal camera](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3216.md)
+* [Thermal cameras](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2568.md)
+* [Video cameras](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2636.md)
 
 ## This Technology enables the following mitigations
 

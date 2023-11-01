@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Individuals living in densely populated neighborhoods, informal settlements, or substandard housing, including migrants and those facing eviction, who may also reside in underserved communities without basic amenities or access to clean water.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_228.md)
+* [Individuals living in densely populated neighborhoods, informal settlements, or substandard housing, including migrants and those facing eviction, who may also reside in underserved communities without basic amenities or access to clean water.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_278.md)
 
 ## Closest similar item
 
-* [Individuals from lower socio-economic backgrounds](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_743.md)
+* [Especially socially disadvantaged individual](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_743.md)
 * [Individual in socially disadvantaged area](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2339.md)
-* [Individuals from socioeconomically disadvantaged groups](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_375.md)
-* [Lower-income individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1511.md)
+* [Individuals from lower socio-economic backgrounds](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_375.md)
+* [Individuals from socioeconomically disadvantaged groups](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1511.md)
 * [Low-income individual](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2178.md)
-* [Populations of lower socioeconomic status](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_445.md)
-* [Low-income individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_21.md)
-* [Especially socially disadvantaged individual](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2131.md)
-* [Socioeconomic defined individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2104.md)
-* [Person facing economic hardship](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2263.md)
+* [Low-income individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_445.md)
+* [Lower-income individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_21.md)
+* [Person facing economic hardship](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2131.md)
+* [Populations of lower socioeconomic status](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2104.md)
+* [Socioeconomic defined individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2263.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

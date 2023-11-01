@@ -2,6 +2,10 @@
 
 # __Public places as information points__
 
+## Blueprint description
+
+The idea is to turn high-traffic points into hubs of a networked system for communicating relevant information to building users/GBNs to ensure much greater visibility, easier, engaging and comprehensive communication, and immediacy of H&S analysis and messages, commitments and recommendations. This will bring a clear definition of relevant criteria and communication processes, which in turn will improve the ability to prevent critical points before reactive phases. The nature of provided information can vary from the summary of current pandemic situation, update on legislative measures to information specific to the building or GBN including its environmental parameters monitoring. 
+
 ## Capabilities of the blueprint
 
 Large screens and other digital signage 
@@ -16,44 +20,53 @@ The measure is conceived for the both the- buildings’ users and general public
 
 During the COVID-19 outbreak, drugstores or townhalls turned into information points for their neighbourhoods
 
-## Blueprint description
-
-The idea is to turn high-traffic points into hubs of a networked system for communicating relevant information to building users/GBNs to ensure much greater visibility, easier, engaging and comprehensive communication, and immediacy of H&S analysis and messages, commitments and recommendations. This will bring a clear definition of relevant criteria and communication processes, which in turn will improve the ability to prevent critical points before reactive phases. The nature of provided information can vary from the summary of current pandemic situation, update on legislative measures to information specific to the building or GBN including its environmental parameters monitoring. 
-
 ## Enablers of the blueprint
 
-* [SmartPhones](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_19.md)
-* [Digital signage](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_31.md)
-* [DigitalPlatform](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_1.md)
 * [5G](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_0.md)
-
-## Interventions of the blueprint
-
-* [Raising awareness](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_38.md)
-* [Facilitate transparent communication](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_37.md)
-* [Prevent fake news](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_36.md)
-* [Promote verified information](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_39.md)
-
-## Possible mitigations of the BP
-
-* [Spatiotemporal ieq monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3718.md)
-* [Emphasis on ict infrastructure access](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_240.md)
-* [Ict infrastructure access](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5047.md)
-* [Proper management of ict infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4967.md)
-* [Targeted communication strategies, improving housing conditions, and enhancing public transport safety measures.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2425.md)
-* [Monitoring mobility metrics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3900.md)
-* [Information dissemination through public places](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_325.md)
-* [Bim building information modelling](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3756.md)
-* [Develop pandemic-resilient office building requirements](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_605.md)
-* [Provide clear and concise information about preventive measures, communicate regularly with occupants and visitors.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2181.md)
-
-## Type of deployment of the blueprint
-
-* [Temporary](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Permanent_0.md)
+* [Digital signage](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_31.md)
+* [DigitalPlatform](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_19.md)
+* [SmartPhones](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_1.md)
 
 ## GBN Phase of the blueprint
 
 * [Design](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Phase_1.md)
+
+## Interventions of the blueprint
+
+* [Facilitate transparent communication](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_38.md)
+* [Prevent fake news](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_37.md)
+* [Promote verified information](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_36.md)
+* [Raising awareness](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_39.md)
+
+## Mode of transmission covered by the blueprint
+
+* [All](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_4.md)
+
+## Possible mitigations of the BP
+
+* [Bim building information modelling](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5047.md)
+* [Develop pandemic-resilient office building requirements](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4967.md)
+* [Emphasis on ict infrastructure access](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_325.md)
+* [Ict infrastructure access](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3718.md)
+* [Information dissemination through public places](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_240.md)
+* [Monitoring mobility metrics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3900.md)
+* [Proper management of ict infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2181.md)
+* [Provide clear and concise information about preventive measures, communicate regularly with occupants and visitors.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2425.md)
+* [Spatiotemporal ieq monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_605.md)
+* [Targeted communication strategies, improving housing conditions, and enhancing public transport safety measures.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3756.md)
+
+## Possible risks of the BP
+
+* [Changing behaviors and perceptions towards urban green space during covid-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2520.md)
+* [Inequities in infrastructure access](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_267.md)
+* [Lack of access to urban green space during covid-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_579.md)
+* [Monitoring mobility](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_364.md)
+* [Public health monitoring](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_346.md)
+* [Public places as informative nodes in the city](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_349.md)
+* [Risk of covid-19 transmission in buildings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2128.md)
+* [Temporary regulations to monitor and restrict certain activities in public places](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_437.md)
+* [Transmission of covid-19 in buildings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_718.md)
+* [Vulnerabilities of office buildings to pandemic spread](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_272.md)
 
 ## Problem of the blueprint
 
@@ -70,19 +83,6 @@ Messages that are not suitable for all types of building users
 Outdated or misleading information
 Development of potential bottlenecks at the information points 
 
-## Possible risks of the BP
-
-* [Monitoring mobility](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2520.md)
-* [Public places as informative nodes in the city](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_267.md)
-* [Lack of access to urban green space during covid-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_346.md)
-* [Changing behaviors and perceptions towards urban green space during covid-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_349.md)
-* [Transmission of covid-19 in buildings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_579.md)
-* [Risk of covid-19 transmission in buildings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_364.md)
-* [Vulnerabilities of office buildings to pandemic spread](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_437.md)
-* [Temporary regulations to monitor and restrict certain activities in public places](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_272.md)
-* [Public health monitoring](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_718.md)
-* [Inequities in infrastructure access](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2128.md)
-
 ## Scale of the of the blueprint
 
 * [Gbn](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Scale_2.md)
@@ -91,9 +91,9 @@ Development of potential bottlenecks at the information points
 
 PBN:BP_9
 
-## Mode of transmission covered by the blueprint
+## Type of deployment of the blueprint
 
-* [All](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_4.md)
+* [Temporary](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Permanent_0.md)
 
 ## Type of the blueprint
 

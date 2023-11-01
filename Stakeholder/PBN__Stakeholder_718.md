@@ -4,20 +4,25 @@
 
 ## Category to which it belongs
 
-* [Variety of personnel involved in different roles, such as contractors, staff, administrators, technicians, and professionals in specific fields.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_210.md)
+* [Variety of personnel involved in different roles, such as contractors, staff, administrators, technicians, and professionals in specific fields.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_260.md)
 
 ## Closest similar item
 
-* [City administrator](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1623.md)
-* [City officials and administrators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1602.md)
-* [City authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1617.md)
-* [Public administrators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_715.md)
-* [Administrators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1179.md)
+* [Administrators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1623.md)
+* [Building administrators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1602.md)
+* [City administrator](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1617.md)
+* [City authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_715.md)
+* [City authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1179.md)
 * [City officials](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_724.md)
-* [City authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_534.md)
-* [Urban managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_516.md)
-* [Building administrators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1406.md)
-* [Community administrators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_636.md)
+* [City officials and administrators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_534.md)
+* [Community administrators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_516.md)
+* [Public administrators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1406.md)
+* [Urban managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_636.md)
+
+## Risk affecting this stakeholder
+
+* [Lack of strategic planning and alignment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1191.md)
+* [Weaknesses in smart city governance models](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1192.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -25,11 +30,10 @@
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Governmental entities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1603.md)
-* [City officials and administrators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1602.md)
+* [City officials and administrators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1603.md)
+* [Governmental entities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1602.md)
 
-## Risk affecting this stakeholder
+## Type of the stakeholder
 
-* [Lack of strategic planning and alignment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1191.md)
-* [Weaknesses in smart city governance models](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1192.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

@@ -2,23 +2,27 @@
 
 # __Reduced environmental impact__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Decreased pollution, improved air quality, and mitigated climate change
+* [COVID-19 and the UN Sustainable Development Goals: Threat to Solidarity or an Opportunity?](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_109.md)
+
+## Category to which it belongs
+
+* [The promotion of sustainable development goals and the creation of resilient, accessible, and environmentally-friendly urban environments.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_16.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Transitioning to clean energy sources can lead to a more sustainable and resilient economy, attracting environmentally-conscious investors.](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_583.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [COVID-19 and the UN Sustainable Development Goals: Threat to Solidarity or an Opportunity?](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_109.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
+Decreased pollution, improved air quality, and mitigated climate change
 
 ## Risks which can benefit from this action
 
 * [Investment in clean energy](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_543.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
 

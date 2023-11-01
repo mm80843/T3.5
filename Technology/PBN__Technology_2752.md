@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Innovations and applications in chemistry, materials, and technology for purification, disinfection, and environmental protection.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_146.md)
+* [Innovations and applications in chemistry, materials, and technology for purification, disinfection, and environmental protection.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_196.md)
 
 ## Closest similar item
 
-* [Electrostatic filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1114.md)
+* [Bipolar ionization devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1114.md)
 * [Develop electric vehicle charging infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_306.md)
-* [Implement electric vehicle charging infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_305.md)
-* [High voltage electrodes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3156.md)
-* [Solar chargers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1786.md)
+* [Electrical](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_305.md)
+* [Electrochemical reactions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3156.md)
+* [Electrostatic filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1786.md)
 * [Electrostatic sprayer](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2873.md)
 * [Energy storage systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1763.md)
-* [Bipolar ionization devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2233.md)
-* [Electrochemical reactions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2472.md)
-* [Electrical](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3107.md)
+* [High voltage electrodes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2233.md)
+* [Implement electric vehicle charging infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2472.md)
+* [Solar chargers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3107.md)
 
 ## This Technology enables the following mitigations
 

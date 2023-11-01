@@ -2,26 +2,26 @@
 
 # __Digital transformation technologies__
 
-## Category to which it belongs
-
-* [The utilization and integration of various cutting-edge technologies, including contact tracing, ontologies, and wearable devices, to enhance digital transformation and improve communication and work adaptability.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_72.md)
-
-## Closest similar item
-
-* [Digital transformation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3489.md)
-* [Digitalization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3757.md)
-* [Digital transformation and telecommuting](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4235.md)
-* [Use of digital technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_707.md)
-* [Digital change](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3146.md)
-* [Digital tools and technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3885.md)
-* [Digital tools](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_722.md)
-* [Transformation design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1079.md)
-* [Accelerated digital transformation of healthcare delivery](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_675.md)
-* [Accelerating transition towards digitalization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1109.md)
-
 ## Benefits linked to a risk
 
 * [Prevention of economic shrinkage](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1394.md)
+
+## Category to which it belongs
+
+* [The utilization and integration of various cutting-edge technologies, including contact tracing, ontologies, and wearable devices, to enhance digital transformation and improve communication and work adaptability.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_122.md)
+
+## Closest similar item
+
+* [Accelerated digital transformation of healthcare delivery](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3489.md)
+* [Accelerating transition towards digitalization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3757.md)
+* [Digital change](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4235.md)
+* [Digital tools](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_707.md)
+* [Digital tools and technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3146.md)
+* [Digital transformation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3885.md)
+* [Digital transformation and telecommuting](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_722.md)
+* [Digitalization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1079.md)
+* [Transformation design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_675.md)
+* [Use of digital technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1109.md)
 
 ## Risks possibly mitigated by this Mitigation
 

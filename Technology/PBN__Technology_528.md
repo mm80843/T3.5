@@ -4,33 +4,33 @@
 
 ## Category to which it belongs
 
-* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_116.md)
+* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_166.md)
 
 ## Closest similar item
 
-* [Community initiatives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2307.md)
-* [Employment opportunities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1225.md)
-* [Job creation initiatives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_45.md)
-* [Government initiatives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1640.md)
-* [Education initiatives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_871.md)
+* [Community engagement initiatives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2307.md)
+* [Community initiatives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1225.md)
+* [Education initiatives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_45.md)
+* [Employment opportunities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1640.md)
+* [Equitable urban planning and policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_871.md)
 * [Fair principles](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2714.md)
-* [Community engagement initiatives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1301.md)
-* [Equitable urban planning and policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2152.md)
-* [Placemaking initiatives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1800.md)
-* [Inclusive policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1804.md)
+* [Government initiatives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1301.md)
+* [Inclusive policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2152.md)
+* [Job creation initiatives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1800.md)
+* [Placemaking initiatives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1804.md)
+
+## Risks linked to this technology
+
+* [Inequalities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1333.md)
 
 ## This Technology belongs to this TechGroup
 
 * [Social media](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_896.md)
 
-## This technology is mentioned by
-
-* [Building up an ecologically sustainable and socially desirable post-COVID-19 future](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_5.md)
-
 ## This Technology belongs to this TechSubgroup
 
 
-## Risks linked to this technology
+## This technology is mentioned by
 
-* [Inequalities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1333.md)
+* [Building up an ecologically sustainable and socially desirable post-COVID-19 future](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_5.md)
 

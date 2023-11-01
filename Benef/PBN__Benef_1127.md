@@ -2,23 +2,27 @@
 
 # __Increased ventilation__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Opening windows introduces outdoor air into the building, increasing ventilation and improving air circulation.
+* [The Effect of Opening Windows on Air Change Rates in Two Homes](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_235.md)
+
+## Category to which it belongs
+
+* [Enhanced ventilation and reduced environmental impact lead to improved air quality and health outcomes.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_32.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Improved indoor air quality, which can lead to improved health outcomes and increased comfort for occupants.](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_1262.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [The Effect of Opening Windows on Air Change Rates in Two Homes](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_235.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [Occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_92.md)
+Opening windows introduces outdoor air into the building, increasing ventilation and improving air circulation.
 
 ## Risks which can benefit from this action
 
 * [Opening windows](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1133.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [Occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_92.md)
 

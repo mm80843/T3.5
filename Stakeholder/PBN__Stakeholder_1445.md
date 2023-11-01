@@ -4,19 +4,19 @@
 
 ## Category to which it belongs
 
-* [Those on the move, whether for work or leisure, including those affected by travel restrictions and transportation workers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_233.md)
+* [Those on the move, whether for work or leisure, including those affected by travel restrictions and transportation workers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_283.md)
 
 ## Closest similar item
 
-* [Transportation departments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_771.md)
-* [Transportation authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1621.md)
-* [Transportation agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1625.md)
-* [Transportation authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_944.md)
-* [Transportation agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_732.md)
-* [State and federal transportation agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_498.md)
-* [Transportation company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1948.md)
-* [Transport authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1624.md)
-* [Transport authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_731.md)
+* [State and federal transportation agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_771.md)
+* [Transport authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1621.md)
+* [Transport authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1625.md)
+* [Transportation agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_944.md)
+* [Transportation agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_732.md)
+* [Transportation authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_498.md)
+* [Transportation authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1948.md)
+* [Transportation company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1624.md)
+* [Transportation departments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_731.md)
 * [Transportation providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1081.md)
 
 ## Risks that can be mitigated by this stakeholder
@@ -30,4 +30,8 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Transportation entities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1597.md)
+
+## Type of the stakeholder
+
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
 

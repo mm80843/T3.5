@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Inadequate air quality control contributes to the circulation of harmful contaminants and transmission of diseases through the built environment.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_37.md)
+* [Inadequate air quality control contributes to the circulation of harmful contaminants and transmission of diseases through the built environment.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_87.md)
 
 ## Closest similar item
 
 * [Airborne](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3347.md)
-* [Airborne spread](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2966.md)
-* [Airborne and direct transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2991.md)
-* [Close contact transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1881.md)
+* [Airborne and direct transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2966.md)
+* [Airborne spread](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2991.md)
+* [Airborne transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1881.md)
 * [Close contact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2473.md)
-* [Airborne transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_252.md)
-* [Transmission through close contact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1367.md)
+* [Close contact transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_252.md)
+* [Close proximity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1367.md)
 * [Contamination, transmission through close contact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2457.md)
 * [Crowding and close contact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2711.md)
-* [Close proximity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2931.md)
+* [Transmission through close contact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2931.md)
 
 ## Mitigations of this risk
 

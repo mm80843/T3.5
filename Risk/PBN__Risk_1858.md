@@ -2,34 +2,65 @@
 
 # __Contagious spread__
 
+## Articles mentionning the risk
+
+* [COVID-19 Higher Mortality in Chinese Regions With Chronic Exposure to Lower Air Quality](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_42.md)
+
 ## Category to which it belongs
 
-* [Contagious diseases in built environments, limited pandemic preparedness, and unpredictable disease spread contribute to the global outbreak.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_6.md)
+* [Contagious diseases in built environments, limited pandemic preparedness, and unpredictable disease spread contribute to the global outbreak.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_56.md)
 
 ## Closest similar item
 
-* [Contagious disease spread](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2003.md)
-* [Spread of contagious disease](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3175.md)
-* [Contagion spread](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2053.md)
-* [Spread of contagious epidemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_936.md)
-* [Spread of contagious diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20.md)
-* [Contagious disease outbreak](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_641.md)
-* [Contagious diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2956.md)
-* [Risk of rapid spread and cross-sectorial impact of contagious diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2094.md)
-* [Contagious disease transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1021.md)
-* [Contagious diseases propagation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_153.md)
+* [Contagion spread](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2003.md)
+* [Contagious disease outbreak](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3175.md)
+* [Contagious disease spread](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2053.md)
+* [Contagious disease transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_936.md)
+* [Contagious diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20.md)
+* [Contagious diseases propagation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_641.md)
+* [Risk of rapid spread and cross-sectorial impact of contagious diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2956.md)
+* [Spread of contagious disease](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2094.md)
+* [Spread of contagious diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1021.md)
+* [Spread of contagious epidemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_153.md)
 
 ## Description of the risk
 
 Spread of contagious diseases in the built environment
 
-## Type of the risk
-
-* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Is the risk affecting GBN scales
 
 * [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
+
+## Mitigations of this risk
+
+* [Decontamination](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4902.md)
+* [Hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Implement strict hygiene and sanitation measures, promote social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2468.md)
+* [Patrol separately](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_985.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4900.md)
+* [Universal precautions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4901.md)
+
+## Name of the risk
+
+Higher infection and mortality rates
+
+## People affected by this risk
+
+* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_68.md)
+* [Healthcare workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
+* [Vulnerable populations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_127.md)
+
+## Stakeholders who can mitigate this risk
+
+* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
+* [Healthcare institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_269.md)
+* [Individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_20.md)
+
+## Technologies linked to the risk
+
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_402.md)
+* [Disinfection technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_0.md)
+* [Surveillance systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_348.md)
 
 ## Type of impact of the risk (according to ISO37100)
 
@@ -39,40 +70,9 @@ Spread of contagious diseases in the built environment
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_3.md)
 
-## Mitigations of this risk
+## Type of the risk
 
-* [Universal precautions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4902.md)
-* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
-* [Decontamination](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4900.md)
-* [Hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_985.md)
-* [Patrol separately](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4901.md)
-* [Implement strict hygiene and sanitation measures, promote social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2468.md)
-
-## Name of the risk
-
-Higher infection and mortality rates
-
-## Stakeholders who can mitigate this risk
-
-* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
-* [Individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_20.md)
-* [Healthcare institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_269.md)
-
-## Articles mentionning the risk
-
-* [COVID-19 Higher Mortality in Chinese Regions With Chronic Exposure to Lower Air Quality](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_42.md)
-
-## People affected by this risk
-
-* [Healthcare workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_68.md)
-* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
-* [Vulnerable populations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_127.md)
-
-## Technologies linked to the risk
-
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_402.md)
-* [Disinfection technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_348.md)
-* [Surveillance systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_0.md)
+* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 

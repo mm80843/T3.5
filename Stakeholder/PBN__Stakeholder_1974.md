@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Individuals with ownership, control, or responsibility over various properties, businesses, data, or belongings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_213.md)
+* [Individuals with ownership, control, or responsibility over various properties, businesses, data, or belongings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_263.md)
 
 ## Closest similar item
 
-* [Product owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2054.md)
-* [Owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1868.md)
-* [Business owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_726.md)
-* [Store owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1751.md)
+* [Business owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2054.md)
+* [Device manufacturer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1868.md)
+* [Manufacturer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_726.md)
+* [Manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1751.md)
 * [Owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1897.md)
-* [Manufacturer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1953.md)
-* [Manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_34.md)
-* [Store owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1706.md)
-* [Device manufacturer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1882.md)
-* [Responsible owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_977.md)
+* [Owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1953.md)
+* [Product owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_34.md)
+* [Responsible owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1706.md)
+* [Store owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1882.md)
+* [Store owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_977.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

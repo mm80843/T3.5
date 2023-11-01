@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The interconnectedness of global economics has led to financial instability, unemployment, poverty, and decreased investment in certain sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_12.md)
+* [The interconnectedness of global economics has led to financial instability, unemployment, poverty, and decreased investment in certain sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_62.md)
 
 ## Closest similar item
 
-* [Economic instability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2002.md)
-* [Financial instability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1081.md)
-* [Cash flow issues and financial instability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2767.md)
-* [Loss of income and economic instability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1967.md)
-* [Decreasing revenues and illiquidity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2830.md)
-* [Impact on financial stability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_502.md)
-* [Economic instability due to global connectivity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_14.md)
-* [Shocks in global value chains](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_251.md)
-* [Economic downfall](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_707.md)
-* [Economic strain](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1963.md)
+* [Cash flow issues and financial instability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2002.md)
+* [Decreasing revenues and illiquidity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1081.md)
+* [Economic downfall](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2767.md)
+* [Economic instability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1967.md)
+* [Economic instability due to global connectivity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2830.md)
+* [Economic strain](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_502.md)
+* [Financial instability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_14.md)
+* [Impact on financial stability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_251.md)
+* [Loss of income and economic instability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_707.md)
+* [Shocks in global value chains](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1963.md)
 
 ## Mitigations of this risk
 

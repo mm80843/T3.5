@@ -4,19 +4,19 @@
 
 ## Category to which it belongs
 
-* [The financial ecosystem involves a diverse range of entities such as investors, regulatory bodies, stakeholders, banks, and professional associations.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_230.md)
+* [The financial ecosystem involves a diverse range of entities such as investors, regulatory bodies, stakeholders, banks, and professional associations.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_280.md)
 
 ## Closest similar item
 
-* [Investment professional](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1964.md)
-* [Financial advisors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_827.md)
-* [Investor](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1893.md)
-* [Investors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_49.md)
-* [Financial advisor](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1951.md)
-* [Fund managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1326.md)
-* [Private investors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_89.md)
-* [Alternative investments funds](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_505.md)
-* [Analysts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_524.md)
+* [Alternative investments funds](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1964.md)
+* [Analysts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_827.md)
+* [Financial advisor](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1893.md)
+* [Financial advisors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_49.md)
+* [Fund managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1951.md)
+* [Investment professional](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1326.md)
+* [Investor](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_89.md)
+* [Investors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_505.md)
+* [Private investors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_524.md)
 * [Professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1190.md)
 
 ## Risks that can be mitigated by this stakeholder
@@ -30,4 +30,8 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Business and financial services](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1865.md)
+
+## Type of the stakeholder
+
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
 

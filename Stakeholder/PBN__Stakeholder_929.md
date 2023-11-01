@@ -4,20 +4,24 @@
 
 ## Category to which it belongs
 
-* [The financial ecosystem involves a diverse range of entities such as investors, regulatory bodies, stakeholders, banks, and professional associations.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_230.md)
+* [The financial ecosystem involves a diverse range of entities such as investors, regulatory bodies, stakeholders, banks, and professional associations.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_280.md)
 
 ## Closest similar item
 
-* [Finance team](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_930.md)
-* [Financial institution](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2033.md)
-* [Financial institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_405.md)
-* [Finance department](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_987.md)
-* [Management team](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_292.md)
-* [Finance sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_90.md)
-* [Financial advisor](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1951.md)
-* [Bank](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1916.md)
-* [Business and financial services](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1865.md)
-* [Financial advisors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_827.md)
+* [Bank](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_930.md)
+* [Business and financial services](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2033.md)
+* [Finance department](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_405.md)
+* [Finance sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_987.md)
+* [Finance team](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_292.md)
+* [Financial advisor](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_90.md)
+* [Financial advisors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1951.md)
+* [Financial institution](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1916.md)
+* [Financial institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1865.md)
+* [Management team](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_827.md)
+
+## Risk affecting this stakeholder
+
+* [Ineffective cost planning](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_296.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -27,7 +31,7 @@
 
 * [Business and financial services](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1865.md)
 
-## Risk affecting this stakeholder
+## Type of the stakeholder
 
-* [Ineffective cost planning](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_296.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

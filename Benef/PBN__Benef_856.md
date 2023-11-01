@@ -2,25 +2,29 @@
 
 # __Accurate and reliable information dissemination__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Access to up-to-date and reliable scientific findings, aiding in informed decision-making and policy formulation.
+* [Rise of the preprint: how rapid data sharing during COVID-19 has changed science forever](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_173.md)
+
+## Category to which it belongs
+
+* [A comprehensive and efficient system for generating, disseminating, and utilizing reliable and actionable knowledge.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_3.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Improved public perception of science and research, increased trust in academic institutions, potential economic benefits from better-informed policies and interventions.](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_935.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [Rise of the preprint: how rapid data sharing during COVID-19 has changed science forever](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_173.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
-* [Policymakers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_126.md)
-* [Public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_52.md)
+Access to up-to-date and reliable scientific findings, aiding in informed decision-making and policy formulation.
 
 ## Risks which can benefit from this action
 
 * [Transparent and responsible preprint publishing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_854.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [Policymakers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
+* [Public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_126.md)
+* [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_52.md)
 

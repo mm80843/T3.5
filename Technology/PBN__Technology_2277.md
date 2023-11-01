@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Combatting malaria and mitigating its impact through various means such as drugs, deterrents, treatments, surveillance, alternative materials, and pest control.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_149.md)
+* [Combatting malaria and mitigating its impact through various means such as drugs, deterrents, treatments, surveillance, alternative materials, and pest control.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_199.md)
 
 ## Closest similar item
 
-* [Investigate material science to develop mosquito-resistant alternative building materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1193.md)
-* [Building materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2255.md)
+* [Advanced building materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1193.md)
+* [Architectural & construction materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2255.md)
 * [Building insulation materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3435.md)
-* [Advanced building materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2261.md)
-* [Architectural & construction materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2260.md)
+* [Building material technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2261.md)
+* [Building materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2260.md)
 * [Green building materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3232.md)
-* [Mosquito traps and surveillance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_977.md)
+* [Investigate material science to develop mosquito-resistant alternative building materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_977.md)
 * [Mosquito control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2361.md)
-* [Building material technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1107.md)
-* [Mosquito control operations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3422.md)
+* [Mosquito control operations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1107.md)
+* [Mosquito traps and surveillance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3422.md)
 
 ## This Technology belongs to this TechGroup
 

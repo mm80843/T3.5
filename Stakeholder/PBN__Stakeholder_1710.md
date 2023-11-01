@@ -4,28 +4,28 @@
 
 ## Category to which it belongs
 
-* [Individuals from various sectors, including informal and formal economies, facing economic hardship and job loss.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_236.md)
+* [Individuals from various sectors, including informal and formal economies, facing economic hardship and job loss.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_286.md)
 
 ## Closest similar item
 
-* [Worker in low-wage job](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1669.md)
+* [Low-income earners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1669.md)
 * [Low-income workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1258.md)
 * [Low-skilled workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_212.md)
 * [Unemployed workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_260.md)
-* [Workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_128.md)
-* [Low-income earners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_213.md)
-* [Workers in the manufacturing sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1691.md)
-* [Workers and firms](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_211.md)
-* [Workers in high-risk industries](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_831.md)
-* [Workers in high-risk occupations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1665.md)
+* [Worker in low-wage job](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_128.md)
+* [Workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_213.md)
+* [Workers and firms](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1691.md)
+* [Workers in high-risk industries](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_211.md)
+* [Workers in high-risk occupations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_831.md)
+* [Workers in the manufacturing sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1665.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
-* [Private sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_57.md)
-* [Workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_128.md)
+* [Private sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_128.md)
+* [Workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_57.md)
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Types of workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1656.md)
 * [Occupational and workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1666.md)
+* [Types of workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1656.md)
 

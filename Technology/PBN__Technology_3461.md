@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Detection and regulation of heat, from thermal cameras and sensors to smart thermostats and temperature control devices.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_144.md)
+* [Detection and regulation of heat, from thermal cameras and sensors to smart thermostats and temperature control devices.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_194.md)
 
 ## Closest similar item
 
-* [Thermal cameras](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2362.md)
-* [Thermal camera](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2859.md)
-* [Infrared thermal imaging cameras](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1500.md)
-* [Infrared thermal camera technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2569.md)
-* [Thermal imaging technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3602.md)
-* [High-performance infrared thermal cameras](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3808.md)
-* [Temperature scanners](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_359.md)
-* [Thermometers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3296.md)
-* [Drones with thermal cameras](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1501.md)
-* [Thermal scanners](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1601.md)
+* [Drones with thermal cameras](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2362.md)
+* [High-performance infrared thermal cameras](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2859.md)
+* [Infrared thermal camera technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1500.md)
+* [Infrared thermal imaging cameras](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2569.md)
+* [Temperature scanners](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3602.md)
+* [Thermal camera](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3808.md)
+* [Thermal cameras](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_359.md)
+* [Thermal imaging technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3296.md)
+* [Thermal scanners](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1501.md)
+* [Thermometers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1601.md)
 
 ## This Technology enables the following mitigations
 

@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [A diverse range of individuals and groups involved in various fields, research, projects, media, teams, and organizations.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_191.md)
+* [A diverse range of individuals and groups involved in various fields, research, projects, media, teams, and organizations.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_241.md)
 
 ## Closest similar item
 
-* [Gyms](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_663.md)
-* [Fitness and sports](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1860.md)
-* [Fitness trainers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_791.md)
-* [Fitness industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1141.md)
-* [School](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1644.md)
-* [Athletes](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1217.md)
-* [Fitne trainer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1892.md)
-* [Fitnes trainer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2011.md)
-* [Especially individuals who relied on gyms or public spaces for exercise](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1144.md)
-* [Activities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1079.md)
+* [Activities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_663.md)
+* [Athletes](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1860.md)
+* [Especially individuals who relied on gyms or public spaces for exercise](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_791.md)
+* [Fitne trainer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1141.md)
+* [Fitnes trainer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1644.md)
+* [Fitness and sports](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1217.md)
+* [Fitness industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1892.md)
+* [Fitness trainers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2011.md)
+* [Gyms](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1144.md)
+* [School](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1079.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

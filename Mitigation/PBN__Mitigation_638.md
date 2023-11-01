@@ -2,42 +2,42 @@
 
 # __Virtual care platforms__
 
-## Category to which it belongs
-
-* [Enhancing healthcare infrastructure and capacity, promoting equitable access to healthcare services and resources.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_95.md)
-
-## Closest similar item
-
-* [Virtual clinics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3250.md)
-* [Virtual clinics and tele-medicine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1327.md)
-* [Virtual platforms](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1178.md)
-* [Establish virtual clinics for remote consultations and utilize telemedicine and e-learning platforms.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2854.md)
-* [Use virtual reality to educate patients](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2736.md)
-* [Virtual reality medical training](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1125.md)
-* [Virtual reality patient education](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1126.md)
-* [Care infrastructures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3743.md)
-* [Use virtual reality for pain management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2738.md)
-* [Rapid development of virtual educational platforms, e-learning packages, virtual assessments.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2594.md)
-
 ## Benefits linked to a risk
 
 * [Remote healthcare delivery](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_640.md)
 
-## Property: has_MitigationPrinciple
+## Category to which it belongs
 
-Remote delivery of healthcare services to reduce exposure to the virus
+* [Enhancing healthcare infrastructure and capacity, promoting equitable access to healthcare services and resources.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_145.md)
+
+## Closest similar item
+
+* [Care infrastructures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3250.md)
+* [Establish virtual clinics for remote consultations and utilize telemedicine and e-learning platforms.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1327.md)
+* [Rapid development of virtual educational platforms, e-learning packages, virtual assessments.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1178.md)
+* [Use virtual reality for pain management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2854.md)
+* [Use virtual reality to educate patients](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2736.md)
+* [Virtual clinics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1125.md)
+* [Virtual clinics and tele-medicine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1126.md)
+* [Virtual platforms](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3743.md)
+* [Virtual reality medical training](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2738.md)
+* [Virtual reality patient education](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2594.md)
 
 ## Risks possibly mitigated by this Mitigation
 
 * [Covid-19 transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_133.md)
 * [Misdiagnoses, privacy breaches, equipment malfunction, costs](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3372.md)
 
+## This Mitigation is enabled by the following technologies
+
+* [Digital monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_404.md)
+* [Video conferencing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3812.md)
+
+## Property: has_MitigationPrinciple
+
+Remote delivery of healthcare services to reduce exposure to the virus
+
 ## Property: has_MitigationSource
 
 * [Applications of digital technology in COVID-19 pandemic planning and response](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_127.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Video conferencing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_404.md)
-* [Digital monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3812.md)
 

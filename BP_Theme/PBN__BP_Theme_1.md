@@ -2,11 +2,11 @@
 
 # __Water quality__
 
+## Category to which it belongs
+
+* [Environmental conditions.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_321.md)
+
 ## Property: has_BP_ThemeTitle
 
 theme_Water_Quality
-
-## Category to which it belongs
-
-* [Environmental conditions.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_271.md)
 

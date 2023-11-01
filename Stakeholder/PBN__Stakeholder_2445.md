@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Underprivileged individuals and marginalized communities lacking social connections and facing stigmatization, requiring support from advocacy and community organizations promoting equality and inclusion.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_234.md)
+* [Underprivileged individuals and marginalized communities lacking social connections and facing stigmatization, requiring support from advocacy and community organizations promoting equality and inclusion.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_284.md)
 
 ## Closest similar item
 
-* [Society as a whole](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_437.md)
-* [Society](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_53.md)
+* [All individual](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_437.md)
+* [All individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_53.md)
 * [Civil society](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_148.md)
-* [Societal population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_289.md)
+* [Civil society organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_289.md)
 * [Environment and society](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_407.md)
-* [All individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1315.md)
+* [General individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1315.md)
 * [General populace](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_515.md)
-* [General individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2101.md)
-* [All individual](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2482.md)
-* [Civil society organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_232.md)
+* [Societal population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2101.md)
+* [Society](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2482.md)
+* [Society as a whole](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_232.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

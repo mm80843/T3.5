@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_119.md)
+* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_169.md)
 
 ## Closest similar item
 
-* [Open spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2388.md)
-* [Containment spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3563.md)
-* [Designated space](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2387.md)
-* [Physical space](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2482.md)
-* [Adaptable spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2653.md)
+* [Adaptable spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2388.md)
+* [Communal spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3563.md)
+* [Containment spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2387.md)
+* [Designated social spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2482.md)
+* [Designated space](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2653.md)
 * [Designated workspaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_741.md)
-* [Designated social spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2447.md)
-* [Green spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_146.md)
-* [Communal spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3313.md)
-* [Physical activity spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2446.md)
+* [Green spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2447.md)
+* [Open spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_146.md)
+* [Physical activity spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3313.md)
+* [Physical space](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2446.md)
 
 ## This Technology enables the following mitigations
 

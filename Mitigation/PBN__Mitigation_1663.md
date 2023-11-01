@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Promote active transportation while optimizing transport, managing destination image, and streamlining travel processes and operations.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_68.md)
+* [Promote active transportation while optimizing transport, managing destination image, and streamlining travel processes and operations.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_118.md)
 
 ## Closest similar item
 
-* [Population mobility data analysis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_390.md)
-* [Monitoring mobility metrics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3900.md)
-* [Benchmarking mobility metrics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3907.md)
-* [Collect and analyze data on human movement patterns using mobile phone call data records and other sources](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2827.md)
-* [Mobility restrictions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3417.md)
-* [Monitoring traffic patterns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3905.md)
-* [Land use data analysis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5020.md)
-* [Implement travel restrictions, quarantine measures, and health screenings for individuals moving between cities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2196.md)
-* [Travel-related measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3762.md)
-* [Mobility limitations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3145.md)
+* [Benchmarking mobility metrics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_390.md)
+* [Collect and analyze data on human movement patterns using mobile phone call data records and other sources](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3900.md)
+* [Implement travel restrictions, quarantine measures, and health screenings for individuals moving between cities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3907.md)
+* [Land use data analysis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2827.md)
+* [Mobility limitations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3417.md)
+* [Mobility restrictions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3905.md)
+* [Monitoring mobility metrics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5020.md)
+* [Monitoring traffic patterns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2196.md)
+* [Population mobility data analysis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3762.md)
+* [Travel-related measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3145.md)
 
 ## Risks possibly mitigated by this Mitigation
 

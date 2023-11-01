@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Various categories of people, including individuals of different socioeconomic, gender, age, and health statuses, as well as those affected by specific circumstances or conditions.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_204.md)
+* [Various categories of people, including individuals of different socioeconomic, gender, age, and health statuses, as well as those affected by specific circumstances or conditions.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_254.md)
 
 ## Closest similar item
 
 * [All individual](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2482.md)
-* [Individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_20.md)
-* [General individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2101.md)
-* [All individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1315.md)
-* [Human](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2500.md)
-* [Individual in isolation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2146.md)
-* [Individual in urban area](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2461.md)
-* [Individual with different gender identity](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2307.md)
-* [Homeles individual](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2099.md)
-* [Gender defined individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2090.md)
+* [All individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_20.md)
+* [Gender defined individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2101.md)
+* [General individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1315.md)
+* [Homeles individual](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2500.md)
+* [Human](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2146.md)
+* [Individual in isolation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2461.md)
+* [Individual in urban area](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2307.md)
+* [Individual with different gender identity](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2099.md)
+* [Individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2090.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

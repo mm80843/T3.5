@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Promote equitable access to and utilization of urban green spaces, prioritize biodiversity conservation, and implement sustainable land use practices.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_56.md)
+* [Promote equitable access to and utilization of urban green spaces, prioritize biodiversity conservation, and implement sustainable land use practices.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_106.md)
 
 ## Closest similar item
 
-* [Outdoor recreation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4030.md)
-* [Provide access to outdoor spaces, create opportunities for physical activity and social interaction](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2938.md)
-* [Outdoor activities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3914.md)
-* [Develop outreach programs to encourage park use among underrepresented populations.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2153.md)
-* [Provide access to public parks and green spaces, encourage the development of outdoor spaces in residential areas.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1522.md)
-* [Provide or improve outdoor spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_455.md)
-* [Outdoor activity spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3178.md)
-* [Outdoor activities/usage of open spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3988.md)
-* [Encourage outdoor activities in green spaces, create more green spaces in urban areas, protect existing natural areas.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2764.md)
-* [Increase access to greenspaces and promote outdoor activity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2911.md)
+* [Develop outreach programs to encourage park use among underrepresented populations.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4030.md)
+* [Encourage outdoor activities in green spaces, create more green spaces in urban areas, protect existing natural areas.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2938.md)
+* [Increase access to greenspaces and promote outdoor activity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3914.md)
+* [Outdoor activities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2153.md)
+* [Outdoor activities/usage of open spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1522.md)
+* [Outdoor activity spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_455.md)
+* [Outdoor recreation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3178.md)
+* [Provide access to outdoor spaces, create opportunities for physical activity and social interaction](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3988.md)
+* [Provide access to public parks and green spaces, encourage the development of outdoor spaces in residential areas.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2764.md)
+* [Provide or improve outdoor spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2911.md)
 
 ## Risks possibly mitigated by this Mitigation
 

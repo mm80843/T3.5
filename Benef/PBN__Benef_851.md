@@ -2,23 +2,27 @@
 
 # __Improved social connection__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Access to common building spaces promotes social interaction and improves mental well-being.
+* [How to Make Green Building Certification \& Rating Systems More Pandemic-Sustainable?](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_172.md)
+
+## Category to which it belongs
+
+* [The strengthening of communal bonds, relationships, and interactions leading to improved social unity and individual well-being.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_25.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Private investors can attract tenants who value social connection, leading to higher occupancy rates and rental income.](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_928.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [How to Make Green Building Certification \& Rating Systems More Pandemic-Sustainable?](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_172.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
+Access to common building spaces promotes social interaction and improves mental well-being.
 
 ## Risks which can benefit from this action
 
 * [Access to common building spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_222.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
 

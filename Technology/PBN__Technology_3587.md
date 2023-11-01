@@ -4,19 +4,19 @@
 
 ## Category to which it belongs
 
-* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_119.md)
+* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_169.md)
 
 ## Closest similar item
 
-* [Mobile phone cdrs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3596.md)
-* [Ipcr](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2957.md)
-* [Anylogic](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3062.md)
-* [Mec](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1582.md)
-* [Ipfs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2618.md)
-* [Digital integration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3784.md)
-* [Digital data collection systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_40.md)
-* [Digital platforms for resource allocation and distribution](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_15.md)
-* [Electronic health record systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_513.md)
+* [Anylogic](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3596.md)
+* [Digital data collection systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2957.md)
+* [Digital integration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3062.md)
+* [Digital platforms for resource allocation and distribution](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1582.md)
+* [Electronic health record systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2618.md)
+* [Ipcr](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3784.md)
+* [Ipfs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_40.md)
+* [Mec](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_15.md)
+* [Mobile phone cdrs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_513.md)
 * [Ssd](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3505.md)
 
 ## This Technology enables the following mitigations

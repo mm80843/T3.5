@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_119.md)
+* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_169.md)
 
 ## Closest similar item
 
-* [Tailored interventions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1339.md)
-* [Targeted healthcare services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_592.md)
-* [Coordinated services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3453.md)
-* [Delivery services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3755.md)
-* [Support services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2802.md)
-* [Improved governance and service provision](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2303.md)
-* [Digital services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3540.md)
-* [Web service](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3306.md)
-* [Cleaning services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1353.md)
-* [Logistics providers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1083.md)
+* [Cleaning services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1339.md)
+* [Coordinated services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_592.md)
+* [Delivery services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3453.md)
+* [Digital services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3755.md)
+* [Improved governance and service provision](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2802.md)
+* [Logistics providers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2303.md)
+* [Support services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3540.md)
+* [Tailored interventions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3306.md)
+* [Targeted healthcare services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1353.md)
+* [Web service](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1083.md)
 
 ## This Technology enables the following mitigations
 

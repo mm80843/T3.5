@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The prevalence and impact of inaccurate, uncertain, and biased data pose significant challenges in decision-making and effective response to the covid-19 pandemic.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_34.md)
+* [The prevalence and impact of inaccurate, uncertain, and biased data pose significant challenges in decision-making and effective response to the covid-19 pandemic.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_84.md)
 
 ## Closest similar item
 
-* [Spreading inaccurate news](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3082.md)
+* [Inaccurate data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3082.md)
 * [Inaccurate information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_972.md)
-* [Misinformation and fake news](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1364.md)
-* [Spread of inaccurate news on social media](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1015.md)
-* [Inaccurate data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3130.md)
-* [Unreliable information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3084.md)
-* [Inaccurate or sensationalized information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2757.md)
-* [Misdiagnosis and fake news](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_768.md)
-* [Inaccurate predictions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3002.md)
-* [Misinformation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1033.md)
+* [Inaccurate or sensationalized information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1364.md)
+* [Inaccurate predictions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1015.md)
+* [Misdiagnosis and fake news](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3130.md)
+* [Misinformation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3084.md)
+* [Misinformation and fake news](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2757.md)
+* [Spread of inaccurate news on social media](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_768.md)
+* [Spreading inaccurate news](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3002.md)
+* [Unreliable information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1033.md)
 
 ## Mitigations of this risk
 

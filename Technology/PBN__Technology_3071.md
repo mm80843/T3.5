@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_119.md)
+* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_169.md)
 
 ## Closest similar item
 
-* [Pesticides](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3421.md)
-* [Insecticides](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3823.md)
-* [Medications](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3260.md)
-* [Toxic baited sugar traps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_979.md)
-* [Spatial repellents](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3832.md)
-* [Disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_411.md)
-* [Corticosteroids](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3295.md)
-* [Disinfectant sprays](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_670.md)
-* [Disinfectant](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3115.md)
-* [Suitable treatment and](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1863.md)
+* [Corticosteroids](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3421.md)
+* [Disinfectant](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3823.md)
+* [Disinfectant sprays](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3260.md)
+* [Disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_979.md)
+* [Insecticides](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3832.md)
+* [Medications](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_411.md)
+* [Pesticides](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3295.md)
+* [Spatial repellents](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_670.md)
+* [Suitable treatment and](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3115.md)
+* [Toxic baited sugar traps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1863.md)
 
 ## This Technology enables the following mitigations
 

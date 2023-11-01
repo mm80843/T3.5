@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Enhanced and expanded array of diagnostic testing tools, technologies, and methods for widespread and reliable screening.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_133.md)
+* [Enhanced and expanded array of diagnostic testing tools, technologies, and methods for widespread and reliable screening.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_183.md)
 
 ## Closest similar item
 
-* [Increased availability of diagnostic tests](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_946.md)
-* [Diagnostic testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_343.md)
-* [Increased testing capacity](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_590.md)
-* [Diagnostic testing systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1556.md)
+* [Diagnostic testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_946.md)
+* [Diagnostic testing kits](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_343.md)
+* [Diagnostic testing systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_590.md)
+* [Diagnostic testing technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1556.md)
 * [Diagnostic tests](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1000.md)
-* [Diagnostic testing technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1307.md)
-* [Testing and diagnostic technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1.md)
-* [Testing capacity](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_905.md)
-* [Improved testing capabilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_569.md)
-* [Diagnostic testing kits](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2898.md)
+* [Improved testing capabilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1307.md)
+* [Increased availability of diagnostic tests](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1.md)
+* [Increased testing capacity](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_905.md)
+* [Testing and diagnostic technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_569.md)
+* [Testing capacity](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2898.md)
 
 ## This Technology enables the following mitigations
 

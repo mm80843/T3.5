@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Healthcare systems overwhelmed, limited access to services, scarcity of resources, and risk to healthcare workers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_10.md)
+* [Healthcare systems overwhelmed, limited access to services, scarcity of resources, and risk to healthcare workers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_60.md)
 
 ## Closest similar item
 
-* [Impact on healthcare systems and pharmaceutical industry](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1794.md)
-* [Healthcare workers at risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_477.md)
+* [Healthcare](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1794.md)
+* [Healthcare access](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_477.md)
 * [Healthcare overload](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2391.md)
-* [Shortage of experienced healthcare personnel](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_317.md)
-* [Healthcare](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2379.md)
-* [Mental health issues among healthcare professionals](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2983.md)
-* [Loss of healthcare workforce](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_408.md)
-* [Inadequate healthcare capacity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2861.md)
-* [Increased workload for medical staff](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_998.md)
-* [Healthcare access](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2483.md)
+* [Healthcare workers at risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_317.md)
+* [Impact on healthcare systems and pharmaceutical industry](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2379.md)
+* [Inadequate healthcare capacity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2983.md)
+* [Increased workload for medical staff](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_408.md)
+* [Loss of healthcare workforce](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2861.md)
+* [Mental health issues among healthcare professionals](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_998.md)
+* [Shortage of experienced healthcare personnel](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2483.md)
 
 ## Mitigations of this risk
 

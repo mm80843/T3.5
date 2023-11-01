@@ -2,24 +2,28 @@
 
 # __Energy demand monitoring and adaptation__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Monitoring energy demands at a large scale allows for adaptive design of buildings, optimizing energy efficiency and occupant comfort.
+* [Reflecting on Impacts of COVID19 on Sustainable Buildings and Cities](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_110.md)
+
+## Category to which it belongs
+
+* [Optimized energy usage, cost savings, and better energy infrastructure through increased efficiency and awareness.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_45.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Investing in continuous energy demand monitoring and adaptive design can lead to cost savings, increased energy efficiency, and improved tenant satisfaction, enhancing the value of buildings.](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_588.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [Reflecting on Impacts of COVID19 on Sustainable Buildings and Cities](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_110.md)
+Monitoring energy demands at a large scale allows for adaptive design of buildings, optimizing energy efficiency and occupant comfort.
+
+## Risks which can benefit from this action
+
+* [Continuous monitoring of energy demands and adaptive design of the built environment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_548.md)
 
 ## Stakeholders benefitting from this Benefit
 
 * [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
 * [Energy consumers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_226.md)
-
-## Risks which can benefit from this action
-
-* [Continuous monitoring of energy demands and adaptive design of the built environment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_548.md)
 

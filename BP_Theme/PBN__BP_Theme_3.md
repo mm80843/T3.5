@@ -2,11 +2,11 @@
 
 # __User journey__
 
+## Category to which it belongs
+
+* [Path followed by a person while using a product or service.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_323.md)
+
 ## Property: has_BP_ThemeTitle
 
 theme_User_journey
-
-## Category to which it belongs
-
-* [Path followed by a person while using a product or service.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_273.md)
 

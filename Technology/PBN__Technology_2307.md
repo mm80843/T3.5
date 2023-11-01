@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_116.md)
+* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_166.md)
 
 ## Closest similar item
 
-* [Government initiatives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1640.md)
+* [Community engagement](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1640.md)
 * [Community engagement initiatives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1301.md)
-* [Community mobilization efforts](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2352.md)
-* [Community mobilization](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_77.md)
+* [Community mobilization](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2352.md)
+* [Community mobilization efforts](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_77.md)
 * [Community organizations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1071.md)
-* [Financial support and community initiatives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2079.md)
-* [Community outreach](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1487.md)
-* [Community outreach programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1080.md)
-* [Community planning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2392.md)
-* [Community engagement](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_51.md)
+* [Community outreach](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2079.md)
+* [Community outreach programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1487.md)
+* [Community planning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1080.md)
+* [Financial support and community initiatives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2392.md)
+* [Government initiatives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_51.md)
 
 ## This Technology enables the following mitigations
 

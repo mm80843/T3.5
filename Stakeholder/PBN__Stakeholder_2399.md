@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [A collective of individuals and groups who contribute to and support the well-being of a community.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_220.md)
+* [A collective of individuals and groups who contribute to and support the well-being of a community.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_270.md)
 
 ## Closest similar item
 
-* [Community leaders](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_604.md)
+* [Community](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_604.md)
 * [Community administrator](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2456.md)
-* [Community leaders/organizers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2397.md)
-* [Community member](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2444.md)
-* [Community administrators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_636.md)
-* [Community](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_313.md)
-* [Community members](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_155.md)
-* [Community group](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2450.md)
-* [Community organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2438.md)
-* [Community groups](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1312.md)
+* [Community administrators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2397.md)
+* [Community group](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2444.md)
+* [Community groups](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_636.md)
+* [Community leaders](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_313.md)
+* [Community leaders/organizers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_155.md)
+* [Community member](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2450.md)
+* [Community members](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2438.md)
+* [Community organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1312.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Various measures such as wearable devices, protective clothing, and physical distancing markers promote safety and protection.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_127.md)
+* [Various measures such as wearable devices, protective clothing, and physical distancing markers promote safety and protection.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_177.md)
 
 ## Closest similar item
 
-* [Masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1051.md)
+* [Cloth masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1051.md)
 * [Face masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_340.md)
-* [Cloth masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3869.md)
-* [Ppe](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1461.md)
-* [Mask-wearing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_589.md)
-* [Surgical masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2889.md)
-* [Masks or face coverings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2460.md)
-* [Ppe supply](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3479.md)
-* [Personal protective equipment masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2404.md)
-* [N95 masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3163.md)
+* [Mask-wearing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3869.md)
+* [Masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1461.md)
+* [Masks or face coverings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_589.md)
+* [N95 masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2889.md)
+* [Personal protective equipment masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2460.md)
+* [Ppe](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3479.md)
+* [Ppe supply](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2404.md)
+* [Surgical masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3163.md)
 
 ## This Technology enables the following mitigations
 

@@ -2,25 +2,29 @@
 
 # __Access to real-time data__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Enables researchers and officials to obtain comprehensive, up-to-date data on the outbreak
+* [Open-source analytics tools for studying the COVID-19 coronavirus outbreak](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_218.md)
+
+## Category to which it belongs
+
+* [Access to diverse, comprehensive, and accurate data enables efficient analysis and informed decision-making while ensuring data integrity and security.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_9.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Improved decision making and response measures based on real-time information, leading to better control and management of the outbreak, reduced transmission, and potentially saving lives](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_1171.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [Open-source analytics tools for studying the COVID-19 coronavirus outbreak](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_218.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [Public health officials](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_310.md)
-* [Scientists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_46.md)
-* [Public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_52.md)
+Enables researchers and officials to obtain comprehensive, up-to-date data on the outbreak
 
 ## Risks which can benefit from this action
 
 * [Ncov2019 package](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1051.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [Public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_310.md)
+* [Public health officials](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_46.md)
+* [Scientists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_52.md)
 

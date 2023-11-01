@@ -2,24 +2,28 @@
 
 # __Reinfected patients with and without symptoms__
 
+## Category to which it belongs
+
+* [People at risk or affected by infectious diseases, including covid-19, and those involved in containment and response measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_245.md)
+
+## Closest similar item
+
+* [Infected individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1291.md)
+* [Infected persons](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1292.md)
+* [Patients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_465.md)
+* [Patients in quarantine](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1576.md)
+* [People with pre-existing medical conditions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_31.md)
+* [Person with pre-existing medical condition](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_208.md)
+* [Previously infected individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2145.md)
+* [Re-infected individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_114.md)
+* [Re-infected patients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1318.md)
+* [Vulnerable patients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_161.md)
+
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Tailored protection for symptomatic and asymptomatic patients](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1185.md)
 
-## Category to which it belongs
+## Type of the stakeholder
 
-* [People at risk or affected by infectious diseases, including covid-19, and those involved in containment and response measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_195.md)
-
-## Closest similar item
-
-* [Re-infected patients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1291.md)
-* [Re-infected individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1292.md)
-* [Previously infected individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_465.md)
-* [Patients in quarantine](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1576.md)
-* [Patients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_31.md)
-* [Vulnerable patients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_208.md)
-* [Person with pre-existing medical condition](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2145.md)
-* [Infected persons](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_114.md)
-* [People with pre-existing medical conditions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1318.md)
-* [Infected individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_161.md)
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_0.md)
 

@@ -4,33 +4,33 @@
 
 ## Category to which it belongs
 
-* [Cutting-edge techniques, strategies, and technologies for pathogen detection, vaccine development, and global disease surveillance.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_145.md)
+* [Cutting-edge techniques, strategies, and technologies for pathogen detection, vaccine development, and global disease surveillance.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_195.md)
 
 ## Closest similar item
 
-* [Advanced laboratory techniques for virus detection and identification](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_494.md)
-* [Viral enrichment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3848.md)
+* [Advanced antiviral technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_494.md)
+* [Advanced laboratory techniques for virus detection and identification](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3848.md)
 * [Airborne virus filtration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2601.md)
-* [Viral testing kits](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3252.md)
-* [Advanced antiviral technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_790.md)
-* [Antiviral drug research](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_836.md)
-* [Antivirus software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1918.md)
-* [Viral survival](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1957.md)
-* [Antiviral drugs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_236.md)
-* [Attenuated/inactivated virus](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3838.md)
+* [Antiviral drug research](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3252.md)
+* [Antiviral drugs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_790.md)
+* [Antivirus software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_836.md)
+* [Attenuated/inactivated virus](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1918.md)
+* [Viral enrichment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1957.md)
+* [Viral survival](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_236.md)
+* [Viral testing kits](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3838.md)
+
+## Risks linked to this technology
+
+* [Inconsistent results between concentration methods](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1051.md)
 
 ## This Technology belongs to this TechGroup
 
 * [Biology techs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2274.md)
 
-## This technology is mentioned by
-
-* [First confirmed detection of SARS-CoV-2 in untreated wastewater in Australia: A proof of concept for the wastewater surveillance of COVID-19 in the community](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_205.md)
-
 ## This Technology belongs to this TechSubgroup
 
 
-## Risks linked to this technology
+## This technology is mentioned by
 
-* [Inconsistent results between concentration methods](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1051.md)
+* [First confirmed detection of SARS-CoV-2 in untreated wastewater in Australia: A proof of concept for the wastewater surveillance of COVID-19 in the community](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_205.md)
 

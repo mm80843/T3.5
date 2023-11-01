@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [A comprehensive array of various organizations and governing bodies related to diverse industries and sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_229.md)
+* [A comprehensive array of various organizations and governing bodies related to diverse industries and sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_279.md)
 
 ## Closest similar item
 
-* [It companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2534.md)
-* [Technology company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2040.md)
-* [Company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1440.md)
+* [Company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2534.md)
+* [Internet company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2040.md)
+* [It companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1440.md)
 * [It department](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_746.md)
-* [Tech company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2538.md)
-* [Internet company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2557.md)
-* [Technology companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_717.md)
-* [It departments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2548.md)
-* [It engineer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2526.md)
-* [It engineers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1463.md)
+* [It departments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2538.md)
+* [It engineer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2557.md)
+* [It engineers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_717.md)
+* [Tech company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2548.md)
+* [Technology companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2526.md)
+* [Technology company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1463.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

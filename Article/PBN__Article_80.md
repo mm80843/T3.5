@@ -2,9 +2,25 @@
 
 # __Report 9: Impact of non-pharmaceutical interventions (NPIs) to reduce COVID19 mortality and healthcare demand__
 
+## Benefits listed in this article
+
+* [Reduced healthcare demand](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_232.md)
+* [Reduced morbidity and mortality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_402.md)
+* [Reduced transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_403.md)
+* [Reduced transmission within households](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_404.md)
+* [Suppression of transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_405.md)
+
 ## DOI of the article
 
 10.25561/77482
+
+## List of risks in an article
+
+* [Mental health issues](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1382.md)
+* [Negative impact of interventions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1379.md)
+* [Overwhelming healthcare systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1381.md)
+* [Rebound in transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_974.md)
+* [Transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1380.md)
 
 ## Short summary of the article
 
@@ -20,6 +36,29 @@ The most effective strategy to reduce the spread of the virus is a combination o
 
 It's also important to know that these measures can have a big impact on our lives and our economy. They may cause disruptions and challenges, but they are necessary to protect our health and the health of others. We need to work together as a community and follow these measures to stop the spread of the virus and keep each other safe.
 
+## This article mentions these technologies
+
+* [Allocate resources efficiently](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_607.md)
+* [Enhanced surveillance and monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_124.md)
+* [Financial support](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_606.md)
+* [Increase healthcare capacity](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_602.md)
+* [Mobile phone apps for contact tracing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_603.md)
+* [Online support groups](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_601.md)
+* [Resource allocation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_605.md)
+* [Teletherapy](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_604.md)
+
+## This article points to following mitigation
+
+* [Adaptive hospital surveillance-based triggers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Case isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3686.md)
+* [Home quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_337.md)
+* [Household quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3684.md)
+* [Mobile phone apps](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_339.md)
+* [Population-wide social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3688.md)
+* [School and university closure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3685.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_336.md)
+* [Stopping mass gatherings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3687.md)
+
 ## Title of the article
 
 Report 9: Impact of non-pharmaceutical interventions (NPIs) to reduce COVID19 mortality and healthcare demand
@@ -27,43 +66,4 @@ Report 9: Impact of non-pharmaceutical interventions (NPIs) to reduce COVID19 mo
 ## Year of publication
 
 2020
-
-## Benefits listed in this article
-
-* [Reduced transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_232.md)
-* [Reduced healthcare demand](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_402.md)
-* [Reduced transmission within households](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_403.md)
-* [Reduced morbidity and mortality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_404.md)
-* [Suppression of transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_405.md)
-
-## List of risks in an article
-
-* [Mental health issues](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1382.md)
-* [Overwhelming healthcare systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1379.md)
-* [Transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_974.md)
-* [Negative impact of interventions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1381.md)
-* [Rebound in transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1380.md)
-
-## This article points to following mitigation
-
-* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
-* [Population-wide social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3686.md)
-* [Case isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_336.md)
-* [Household quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3684.md)
-* [Home quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_337.md)
-* [School and university closure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_339.md)
-* [Stopping mass gatherings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3685.md)
-* [Adaptive hospital surveillance-based triggers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3687.md)
-* [Mobile phone apps](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3688.md)
-
-## This article mentions these technologies
-
-* [Financial support](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_605.md)
-* [Mobile phone apps for contact tracing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_601.md)
-* [Online support groups](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_124.md)
-* [Enhanced surveillance and monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_604.md)
-* [Increase healthcare capacity](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_602.md)
-* [Teletherapy](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_607.md)
-* [Resource allocation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_606.md)
-* [Allocate resources efficiently](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_603.md)
 

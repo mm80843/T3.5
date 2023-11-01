@@ -2,42 +2,34 @@
 
 # __Data security breaches__
 
+## Articles mentionning the risk
+
+* [The three modes of existence of the pandemic smart city](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_250.md)
+
 ## Category to which it belongs
 
-* [The risks of unauthorized access, misuse, corruption, and breaches in data security and privacy are widespread.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_27.md)
+* [The risks of unauthorized access, misuse, corruption, and breaches in data security and privacy are widespread.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_77.md)
 
 ## Closest similar item
 
-* [Data breaches](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3359.md)
-* [Potential data breaches](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2498.md)
-* [Data privacy breach](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2723.md)
-* [Security breaches](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1069.md)
-* [Data breaches, technological limitations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3022.md)
-* [Data breaches, scalability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2946.md)
-* [Data security](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1524.md)
-* [Privacy breach](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3247.md)
-* [Breach of confidentiality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3319.md)
-* [Potential breach of privacy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2637.md)
+* [Breach of confidentiality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3359.md)
+* [Data breaches](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2498.md)
+* [Data breaches, scalability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2723.md)
+* [Data breaches, technological limitations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1069.md)
+* [Data privacy breach](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3022.md)
+* [Data security](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2946.md)
+* [Potential breach of privacy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1524.md)
+* [Potential data breaches](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3247.md)
+* [Privacy breach](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3319.md)
+* [Security breaches](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2637.md)
 
 ## Description of the risk
 
 Smart city systems and networks may be vulnerable to cyber attacks, resulting in unauthorized access or manipulation of data
 
-## Type of the risk
-
-* [Other](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_2.md)
-
 ## Is the risk affecting GBN scales
 
 * [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
-
-## Type of impact of the risk (according to ISO37100)
-
-* [Safety and security](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_5.md)
-
-## Type of purpose of the risk (according to ISO37100)
-
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_4.md)
 
 ## Mitigations of this risk
 
@@ -47,26 +39,34 @@ Smart city systems and networks may be vulnerable to cyber attacks, resulting in
 
 Compromise of personal data, privacy breaches, disruption of services
 
+## People affected by this risk
+
+* [Businesses](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
+* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_55.md)
+* [Government agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_147.md)
+
 ## Stakeholders who can mitigate this risk
 
 * [Government bodies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_973.md)
 * [Technology companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_717.md)
 
-## Articles mentionning the risk
-
-* [The three modes of existence of the pandemic smart city](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_250.md)
-
-## People affected by this risk
-
-* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
-* [Government agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_55.md)
-* [Businesses](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_147.md)
-
 ## Technologies linked to the risk
 
-* [Encryption technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1540.md)
-* [Cybersecurity protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_577.md)
-* [Firewalls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1595.md)
+* [Cybersecurity protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1540.md)
+* [Encryption technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1595.md)
+* [Firewalls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_577.md)
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Safety and security](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_5.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_4.md)
+
+## Type of the risk
+
+* [Other](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_2.md)
 
 ## Property: has_RiskType
 

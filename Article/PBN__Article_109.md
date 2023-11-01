@@ -2,9 +2,30 @@
 
 # __COVID-19 and the UN Sustainable Development Goals: Threat to Solidarity or an Opportunity?__
 
+## Benefits listed in this article
+
+* [Gender equality in the workforce](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_528.md)
+* [Increased educational opportunities](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_531.md)
+* [Reduced environmental impact](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_526.md)
+* [Reduced poverty](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_527.md)
+* [Social and political stability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_529.md)
+* [Strengthened health systems](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_530.md)
+
 ## DOI of the article
 
 10.3390/su12135343
+
+## List of risks in an article
+
+* [Economic recession](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1616.md)
+* [Increase in poverty](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1008.md)
+* [Interrupted education](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_235.md)
+* [Overwhelmed healthcare systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_91.md)
+* [Spread of covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1617.md)
+
+## Referenced by other articles
+
+* [Indirect effects of COVID-19 on the environment](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_238.md)
 
 ## Short summary of the article
 
@@ -14,9 +35,42 @@ The COVID-19 pandemic has had a significant impact on the global economy, posing
 
 The COVID-19 pandemic has had a big impact on the world. Many countries are struggling to meet the goals set by the United Nations to make the world a better place by 2030. The pandemic has made it even harder for less developed countries to achieve these goals. The UN is hopeful that with international cooperation and support, we can overcome the virus and work towards a better world. There is a lot of work to be done, especially in areas like ending poverty, ensuring everyone has enough to eat, and providing good healthcare and education for all. The pandemic has shown us that we need to take better care of our planet and work together to solve problems.
 
-## Referenced by other articles
+## This article mentions these technologies
 
-* [Indirect effects of COVID-19 on the environment](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_238.md)
+* [Cash transfer programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_952.md)
+* [Contact-tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_953.md)
+* [Digital devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_634.md)
+* [Digital payment systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_695.md)
+* [E-learning platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_951.md)
+* [Financial aid programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_608.md)
+* [Microfinance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_957.md)
+* [Mobile banking](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_571.md)
+* [Portable medical equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_954.md)
+* [Telemedicine technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_955.md)
+* [Testing kits](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_956.md)
+
+## This article points to following mitigation
+
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4056.md)
+* [Crowd control measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_865.md)
+* [Disinfection of surfaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Economic support and aid](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4053.md)
+* [Enhanced ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3123.md)
+* [Face masks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_564.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4060.md)
+* [Health system strengthening](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3329.md)
+* [International collaboration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
+* [Ppe distribution](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4051.md)
+* [Public health campaigns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3332.md)
+* [Quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_607.md)
+* [Remote work and online education](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4052.md)
+* [Research and development](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4057.md)
+* [Resilient supply chains](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4059.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_987.md)
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3247.md)
+* [Testing and early detection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4058.md)
+* [Travel restrictions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4054.md)
+* [Vaccination](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4055.md)
 
 ## Title of the article
 
@@ -25,58 +79,4 @@ COVID-19 and the UN Sustainable Development Goals: Threat to Solidarity or an Op
 ## Year of publication
 
 2020
-
-## Benefits listed in this article
-
-* [Strengthened health systems](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_526.md)
-* [Reduced poverty](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_527.md)
-* [Increased educational opportunities](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_528.md)
-* [Gender equality in the workforce](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_529.md)
-* [Social and political stability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_530.md)
-* [Reduced environmental impact](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_531.md)
-
-## List of risks in an article
-
-* [Overwhelmed healthcare systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1616.md)
-* [Spread of covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_91.md)
-* [Interrupted education](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1617.md)
-* [Increase in poverty](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_235.md)
-* [Economic recession](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1008.md)
-
-## This article points to following mitigation
-
-* [Remote work and online education](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4054.md)
-* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3332.md)
-* [Quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3123.md)
-* [Vaccination](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3329.md)
-* [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3247.md)
-* [Public health campaigns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_865.md)
-* [Travel restrictions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_564.md)
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
-* [Disinfection of surfaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4052.md)
-* [Economic support and aid](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4055.md)
-* [International collaboration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_987.md)
-* [Research and development](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4060.md)
-* [Resilient supply chains](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4059.md)
-* [Health system strengthening](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4058.md)
-* [Enhanced ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_607.md)
-* [Face masks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4051.md)
-* [Ppe distribution](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4057.md)
-* [Testing and early detection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4056.md)
-* [Crowd control measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4053.md)
-
-## This article mentions these technologies
-
-* [Testing kits](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_608.md)
-* [Contact-tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_951.md)
-* [Digital payment systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_695.md)
-* [Mobile banking](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_954.md)
-* [Microfinance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_955.md)
-* [Cash transfer programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_956.md)
-* [Financial aid programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_634.md)
-* [Telemedicine technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_952.md)
-* [E-learning platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_957.md)
-* [Portable medical equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_953.md)
-* [Digital devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_571.md)
 

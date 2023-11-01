@@ -2,24 +2,28 @@
 
 # __Broader healthcare applications__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-The expansion of wearables in healthcare can lead to new applications, such as smart facemasks and biomarker detection, improving healthcare delivery and outcomes.
+* [Wearable technology and COVID-19](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_195.md)
+
+## Category to which it belongs
+
+* [Enhanced healthcare accessibility, quality, outcomes, and efficiency, along with reduced burden and inequalities, leading to improved public health.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_14.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from the development and commercialization of new wearable technologies for healthcare applications.](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_1054.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [Wearable technology and COVID-19](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_195.md)
+The expansion of wearables in healthcare can lead to new applications, such as smart facemasks and biomarker detection, improving healthcare delivery and outcomes.
+
+## Risks which can benefit from this action
+
+* [Exploring new applications of wearables in healthcare, such as smart facemasks and biomarker detection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_953.md)
 
 ## Stakeholders benefitting from this Benefit
 
 * [Healthcare providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_121.md)
 * [Individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_20.md)
-
-## Risks which can benefit from this action
-
-* [Exploring new applications of wearables in healthcare, such as smart facemasks and biomarker detection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_953.md)
 

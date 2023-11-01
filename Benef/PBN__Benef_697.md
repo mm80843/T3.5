@@ -2,23 +2,27 @@
 
 # __Reducing environmental contamination__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Improving environmental quality reduces the risk of disease transmission from polluted environments
+* [Learning from pandemics: Applying resilience thinking to identify priorities for planning urban settlements](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_137.md)
+
+## Category to which it belongs
+
+* [Promotion of hygienic conditions through efficient water usage, microbial control, and contaminant reduction.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_6.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Higher asset value due to improved public health and reduced healthcare costs](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_745.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [Learning from pandemics: Applying resilience thinking to identify priorities for planning urban settlements](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_137.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [Humans](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_17.md)
+Improving environmental quality reduces the risk of disease transmission from polluted environments
 
 ## Risks which can benefit from this action
 
 * [Centralize environmental quality improvement](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_691.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [Humans](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_17.md)
 

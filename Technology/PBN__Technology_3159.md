@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Building design and construction incorporate biophilic principles, modular techniques, and flexible layouts to create sustainable, resilient, and adaptable spaces.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_138.md)
+* [Building design and construction incorporate biophilic principles, modular techniques, and flexible layouts to create sustainable, resilient, and adaptable spaces.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_188.md)
 
 ## Closest similar item
 
-* [Building design software and modeling tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2176.md)
-* [Building design software and modeling tools can be used to optimize opening design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1192.md)
-* [Digital tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2683.md)
-* [Architectural design technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1108.md)
-* [Software tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2328.md)
-* [Modeling and simulation tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_757.md)
-* [Urban planning and design tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1388.md)
-* [Flexible design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2652.md)
-* [Simulation tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_756.md)
-* [Digital tools and technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2914.md)
+* [Architectural design technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2176.md)
+* [Building design software and modeling tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1192.md)
+* [Building design software and modeling tools can be used to optimize opening design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2683.md)
+* [Digital tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1108.md)
+* [Digital tools and technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2328.md)
+* [Flexible design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_757.md)
+* [Modeling and simulation tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1388.md)
+* [Simulation tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2652.md)
+* [Software tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_756.md)
+* [Urban planning and design tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2914.md)
 
 ## This Technology enables the following mitigations
 

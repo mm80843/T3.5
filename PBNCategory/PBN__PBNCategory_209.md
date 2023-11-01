@@ -1,46 +1,12 @@
 [Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_209 
 
-# __A diverse group of specialists and professionals with expertise in risk assessment, data analysis, technology, communication, legal matters, and various domains.__
+# __Sanitary amenities for tainted liquid disposal.__
 
 ## Items covered in this category
 
-* [Policy advisors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1010.md)
-* [Risk assessors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_12.md)
-* [Design professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_365.md)
-* [Risk experts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1073.md)
-* [Professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1190.md)
-* [Data scientists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_625.md)
-* [Learners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1647.md)
-* [Technicians](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_167.md)
-* [Technical expert](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2563.md)
-* [Energy analysts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_347.md)
-* [Technology and innovation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1873.md)
-* [Iaq experts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1356.md)
-* [Analysts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_524.md)
-* [Data analysts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_477.md)
-* [Legal experts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_630.md)
-* [Communication experts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_828.md)
-* [It professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_626.md)
-* [Datum analyst](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2580.md)
-* [Data security professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1536.md)
-* [Experts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_538.md)
-* [It experts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1466.md)
-* [Technical experts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_716.md)
-* [It expert](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2537.md)
-* [Linguistic experts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1593.md)
-* [Domain experts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1534.md)
-* [Communication expert](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1816.md)
-* [It professional](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2539.md)
-* [Professional](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1785.md)
-* [Ai and technology](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1857.md)
-* [Legal advisors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1404.md)
-* [Cybersecurity experts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_787.md)
-* [Cybersecurity expert](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2535.md)
-* [Meteorologists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_956.md)
-* [Ontology experts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_938.md)
-* [Residents with limited knowledge or skills in using digital technology](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1551.md)
-* [Domain expert](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2556.md)
-* [Resident with limited knowledge or skill in using digital technology](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2416.md)
-* [Iaq expert](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1781.md)
-* [Ai and machine learning](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2547.md)
+* [Separate water facilities (toilets/bathrooms for contaminated)](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_10.md)
+
+## Title of the category
+
+This category of Interventions describes the implementation of separate water facilities, specifically toilets and bathrooms, for individuals who are contaminated with a contagious disease. This measure aims to prevent the spread of the disease within a green building neighborhood or infrastructure. By providing segregated facilities, contaminated individuals can avoid direct contact with others, reducing the risk of transmission and protecting the overall health of the community.
 

@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Enhancing travel experience through real-time updates, virtual tours, local services, reservation systems, alternative transportation, and accessibility improvements.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_132.md)
+* [Enhancing travel experience through real-time updates, virtual tours, local services, reservation systems, alternative transportation, and accessibility improvements.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_182.md)
 
 ## Closest similar item
 
-* [Air exchanges](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3277.md)
-* [Airflow](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1116.md)
-* [Transport](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2525.md)
-* [Air distribution evaluation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3578.md)
-* [Travel management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2297.md)
-* [Travel restrictions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_36.md)
-* [Air exhaustion](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3621.md)
-* [Flight data](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3055.md)
-* [Emergency transportation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3549.md)
-* [Travel policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3413.md)
+* [Air distribution evaluation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3277.md)
+* [Air exchanges](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1116.md)
+* [Air exhaustion](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2525.md)
+* [Airflow](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3578.md)
+* [Emergency transportation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2297.md)
+* [Flight data](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_36.md)
+* [Transport](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3621.md)
+* [Travel management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3055.md)
+* [Travel policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3549.md)
+* [Travel restrictions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3413.md)
 
 ## This Technology enables the following mitigations
 

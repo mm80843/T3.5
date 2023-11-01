@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Various measures such as wearable devices, protective clothing, and physical distancing markers promote safety and protection.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_127.md)
+* [Various measures such as wearable devices, protective clothing, and physical distancing markers promote safety and protection.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_177.md)
 
 ## Closest similar item
 
-* [Spatial repellents](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3832.md)
-* [Disinfectant sprays](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_670.md)
-* [Surface sanitization](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2531.md)
-* [Insecticides](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3823.md)
-* [Soap and water or hand sanitizer](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3174.md)
-* [Hand sanitizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_410.md)
-* [Pesticides](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3421.md)
-* [Hand sanitizer](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2648.md)
-* [Regular disinfection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2666.md)
-* [Hand sanitizer solutions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2896.md)
+* [Disinfectant sprays](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3832.md)
+* [Hand sanitizer](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_670.md)
+* [Hand sanitizer solutions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2531.md)
+* [Hand sanitizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3823.md)
+* [Insecticides](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3174.md)
+* [Pesticides](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_410.md)
+* [Regular disinfection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3421.md)
+* [Soap and water or hand sanitizer](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2648.md)
+* [Spatial repellents](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2666.md)
+* [Surface sanitization](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2896.md)
 
 ## This Technology enables the following mitigations
 

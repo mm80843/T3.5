@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Cutting-edge techniques, strategies, and technologies for pathogen detection, vaccine development, and global disease surveillance.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_145.md)
+* [Cutting-edge techniques, strategies, and technologies for pathogen detection, vaccine development, and global disease surveillance.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_195.md)
 
 ## Closest similar item
 
-* [Vaccine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2478.md)
-* [Vaccine tracking technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1299.md)
-* [Vaccines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_826.md)
+* [Development of various vaccine strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2478.md)
+* [Vaccine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1299.md)
+* [Vaccine development](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_826.md)
 * [Vaccine development and improvement technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1305.md)
-* [Vaccine development technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_915.md)
-* [Development of various vaccine strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1958.md)
-* [Vaccines and therapies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2148.md)
-* [Vaccine development and tracking technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2245.md)
-* [Vaccine distribution](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1603.md)
-* [Vaccine development](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_835.md)
+* [Vaccine development and tracking technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_915.md)
+* [Vaccine development technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1958.md)
+* [Vaccine distribution](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2148.md)
+* [Vaccine tracking technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2245.md)
+* [Vaccines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1603.md)
+* [Vaccines and therapies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_835.md)
 
 ## This Technology enables the following mitigations
 

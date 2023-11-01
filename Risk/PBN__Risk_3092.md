@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The pandemic has led to a decrease in in-person surgical education, loss of control, temporary panic from cruise ship docking, limited social distancing, and decreased morale.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_20.md)
+* [The pandemic has led to a decrease in in-person surgical education, loss of control, temporary panic from cruise ship docking, limited social distancing, and decreased morale.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_70.md)
 
 ## Closest similar item
 
-* [Dependence on non-contact interaction activities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2301.md)
-* [Increased interactions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2489.md)
-* [Social interaction](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2435.md)
-* [Lack of face-to-face interaction](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2760.md)
-* [Reduced human contact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3320.md)
-* [Social interaction and engagement](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2006.md)
-* [Communication and coordination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_457.md)
-* [Airborne or close contact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2958.md)
-* [Communication](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3165.md)
-* [Reduced social interaction due to social distancing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_853.md)
+* [Airborne or close contact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2301.md)
+* [Communication](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2489.md)
+* [Communication and coordination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2435.md)
+* [Dependence on non-contact interaction activities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2760.md)
+* [Increased interactions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3320.md)
+* [Lack of face-to-face interaction](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2006.md)
+* [Reduced human contact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_457.md)
+* [Reduced social interaction due to social distancing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2958.md)
+* [Social interaction](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3165.md)
+* [Social interaction and engagement](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_853.md)
 
 ## Mitigations of this risk
 

@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_212.md)
+* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_262.md)
 
 ## Closest similar item
 
-* [Fitne trainer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1892.md)
-* [Staff trainers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_966.md)
-* [Fitness industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1141.md)
-* [Fitnes trainer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2011.md)
-* [Gyms](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_663.md)
+* [Athletes](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1892.md)
+* [Fitne trainer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_966.md)
+* [Fitnes trainer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1141.md)
+* [Fitness and sports](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2011.md)
+* [Fitness industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_663.md)
 * [Gym](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2017.md)
-* [Fitness and sports](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1860.md)
-* [Training organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1331.md)
+* [Gyms](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1860.md)
+* [Staff trainers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1331.md)
 * [Training organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1651.md)
-* [Athletes](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1217.md)
+* [Training organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1217.md)
 
 ## Risks that can be mitigated by this stakeholder
 
@@ -30,4 +30,8 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Fitness and sports](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1860.md)
+
+## Type of the stakeholder
+
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
 

@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Advancements in various technological domains facilitate touchless, remote, and efficient ways of communication, work, and data management.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_108.md)
+* [Advancements in various technological domains facilitate touchless, remote, and efficient ways of communication, work, and data management.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_158.md)
 
 ## Closest similar item
 
-* [Bluetooth technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1382.md)
+* [Ble](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1382.md)
 * [Bluetooth](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2397.md)
-* [Ble](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3526.md)
-* [Location and bluetooth data](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3168.md)
-* [Wearable device technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2571.md)
-* [Iot devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_96.md)
+* [Bluetooth technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3526.md)
+* [Iot devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3168.md)
+* [Location and bluetooth data](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2571.md)
+* [Smart devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_96.md)
 * [Smartphone technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2573.md)
-* [Smart devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2287.md)
-* [Wearable devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2579.md)
-* [Wearable device](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2553.md)
+* [Wearable device](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2287.md)
+* [Wearable device technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2579.md)
+* [Wearable devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2553.md)
 
 ## This Technology enables the following mitigations
 

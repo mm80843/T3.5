@@ -4,6 +4,6 @@
 
 ## This return can be realized by these benefits
 
-* [Reduction of contact points](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1329.md)
-* [Killing or inhibition of germs](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1333.md)
+* [Killing or inhibition of germs](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1329.md)
+* [Reduction of contact points](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1333.md)
 

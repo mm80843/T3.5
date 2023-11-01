@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Efficiently manage finances, construction projects, schedules, contracts, communication, and data analysis with advanced software and technology.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_141.md)
+* [Efficiently manage finances, construction projects, schedules, contracts, communication, and data analysis with advanced software and technology.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_191.md)
 
 ## Closest similar item
 
-* [Hardware and devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2167.md)
-* [Hardware resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1454.md)
-* [Computers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3464.md)
-* [Technology devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2965.md)
-* [Digital devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_571.md)
-* [Equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2638.md)
-* [Embedded board](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2863.md)
+* [Computers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2167.md)
+* [Digital devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1454.md)
+* [Embedded board](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3464.md)
+* [Equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2965.md)
+* [Hardware and devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_571.md)
+* [Hardware resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2638.md)
+* [Smart devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2863.md)
 * [Supercomputing facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3739.md)
-* [Smart devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2287.md)
-* [Technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3000.md)
+* [Technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2287.md)
+* [Technology devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3000.md)
 
 ## This Technology enables the following mitigations
 

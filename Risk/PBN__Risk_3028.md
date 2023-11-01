@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The interconnectedness of global economics has led to financial instability, unemployment, poverty, and decreased investment in certain sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_12.md)
+* [The interconnectedness of global economics has led to financial instability, unemployment, poverty, and decreased investment in certain sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_62.md)
 
 ## Closest similar item
 
-* [Economic impact on government budgets](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3029.md)
-* [Economic impact on government budgets, inequitable distribution](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3030.md)
-* [Reduction in domestic public budgets](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_106.md)
-* [Financial difficulties](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2808.md)
-* [Financial problems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_415.md)
-* [Financial burden](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2463.md)
-* [Financial constraints](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1287.md)
+* [Cash flow issues and financial instability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3029.md)
+* [Economic impact on government budgets](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3030.md)
+* [Economic impact on government budgets, inequitable distribution](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_106.md)
+* [Financial burden](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2808.md)
+* [Financial constraints](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_415.md)
+* [Financial difficulties](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2463.md)
+* [Financial problems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1287.md)
 * [Limited financial resources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2831.md)
 * [Public criticism of funding plans](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2811.md)
-* [Cash flow issues and financial instability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2767.md)
+* [Reduction in domestic public budgets](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2767.md)
 
 ## Mitigations of this risk
 

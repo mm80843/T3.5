@@ -4,6 +4,6 @@
 
 ## This return can be realized by these benefits
 
-* [Reduction in tb infection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_511.md)
-* [Reduction in tb disease](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_512.md)
+* [Reduction in tb disease](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_511.md)
+* [Reduction in tb infection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_512.md)
 

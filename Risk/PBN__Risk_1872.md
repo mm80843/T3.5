@@ -2,42 +2,34 @@
 
 # __Lack of passive survivability__
 
+## Articles mentionning the risk
+
+* [How our homes impact our health: using a COVID-19 informed approach to examine urban apartment housing](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_279.md)
+
 ## Category to which it belongs
 
-* [The repercussions of domestic violence, the pandemic’s transmission, extreme events, population dynamics, and systemic vulnerabilities persist.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_1.md)
+* [The repercussions of domestic violence, the pandemic’s transmission, extreme events, population dynamics, and systemic vulnerabilities persist.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_51.md)
 
 ## Closest similar item
 
 * [Data unavailability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2338.md)
-* [Ineffective reachability to patients](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_997.md)
-* [Ineffectiveness of mitigation measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1770.md)
-* [Underutilized smart solutions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_808.md)
-* [Failure to implement preventive measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2236.md)
-* [Limited generalizability of adms](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1252.md)
-* [Lack of interoperability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_901.md)
-* [Exploitation of weaknesses](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3308.md)
-* [Impulsive adoption of extreme measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1509.md)
-* [Ineffective containment measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2742.md)
+* [Exploitation of weaknesses](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_997.md)
+* [Failure to implement preventive measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1770.md)
+* [Impulsive adoption of extreme measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_808.md)
+* [Ineffective containment measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2236.md)
+* [Ineffective reachability to patients](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1252.md)
+* [Ineffectiveness of mitigation measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_901.md)
+* [Lack of interoperability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3308.md)
+* [Limited generalizability of adms](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1509.md)
+* [Underutilized smart solutions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2742.md)
 
 ## Description of the risk
 
 Apartments that are not resilient to external factors, such as power outages or other emergencies, may pose risks to resident safety and comfort during crises or extreme events.
 
-## Type of the risk
-
-* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Is the risk affecting GBN scales
 
 * [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
-
-## Type of impact of the risk (according to ISO37100)
-
-* [Safety and security](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_5.md)
-
-## Type of purpose of the risk (according to ISO37100)
-
-* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
 
 ## Mitigations of this risk
 
@@ -47,24 +39,32 @@ Apartments that are not resilient to external factors, such as power outages or 
 
 Increased vulnerability to emergencies or disruptions, limited ability to maintain comfort and safety.
 
-## Stakeholders who can mitigate this risk
-
-* [Building managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_10.md)
-* [Designers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_74.md)
-* [Architects](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_431.md)
-
-## Articles mentionning the risk
-
-* [How our homes impact our health: using a COVID-19 informed approach to examine urban apartment housing](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_279.md)
-
 ## People affected by this risk
 
-* [Occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_92.md)
-* [Apartment residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_356.md)
+* [Apartment residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_92.md)
+* [Occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_356.md)
+
+## Stakeholders who can mitigate this risk
+
+* [Architects](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_431.md)
+* [Building managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_74.md)
+* [Designers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_10.md)
 
 ## Technologies linked to the risk
 
 * [Incorporate operable windows and natural ventilation for passive survivability](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1275.md)
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Safety and security](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_5.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
+
+## Type of the risk
+
+* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 

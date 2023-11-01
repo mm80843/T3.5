@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Implement strategies to optimize costs, manage crises, and develop sustainable practices while ensuring efficient resource allocation and effective communication.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_143.md)
+* [Implement strategies to optimize costs, manage crises, and develop sustainable practices while ensuring efficient resource allocation and effective communication.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_193.md)
 
 ## Closest similar item
 
-* [Diversification of supply chains](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_531.md)
-* [Supplier diversification technologies and supply chain management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1197.md)
-* [Diversification strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_636.md)
-* [Economic diversification strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_894.md)
-* [Diversification](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3742.md)
-* [Coordination with suppliers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2532.md)
-* [Supply chains](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2983.md)
-* [Commercial vendors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2702.md)
+* [Commercial vendors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_531.md)
+* [Coordination with suppliers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1197.md)
+* [Diversification](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_636.md)
+* [Diversification of supply chains](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_894.md)
+* [Diversification strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3742.md)
+* [Economic diversification strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2532.md)
+* [Supplier diversification technologies and supply chain management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2983.md)
+* [Supply chain management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2702.md)
 * [Supply chain optimization](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1850.md)
-* [Supply chain management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_765.md)
+* [Supply chains](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_765.md)
 
 ## This Technology enables the following mitigations
 

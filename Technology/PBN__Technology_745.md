@@ -4,34 +4,34 @@
 
 ## Category to which it belongs
 
-* [Innovative technologies and systems that enable efficient and secure control, management, and interaction in various domains.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_109.md)
+* [Innovative technologies and systems that enable efficient and secure control, management, and interaction in various domains.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_159.md)
 
 ## Closest similar item
 
-* [Touchless interfaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1328.md)
-* [Touchless technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_206.md)
-* [Touchless technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1006.md)
-* [Touchless and barrier technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2228.md)
-* [Touchless and remote technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2096.md)
-* [Touchless technologies for doors and faucets](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_585.md)
-* [Touchless household technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1724.md)
-* [Touch-free technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1289.md)
-* [Contactless interfaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_487.md)
-* [Touchless technologies for hygiene facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1526.md)
+* [Contactless interfaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1328.md)
+* [Touch-free technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_206.md)
+* [Touchless and barrier technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1006.md)
+* [Touchless and remote technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2228.md)
+* [Touchless household technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2096.md)
+* [Touchless interfaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_585.md)
+* [Touchless technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1724.md)
+* [Touchless technologies for doors and faucets](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1289.md)
+* [Touchless technologies for hygiene facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_487.md)
+* [Touchless technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1526.md)
+
+## Risks linked to this technology
+
+* [Risk of transmission in public spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1468.md)
 
 ## This Technology belongs to this TechGroup
 
 * [Iot](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_277.md)
 
-## This technology is mentioned by
-
-* [A study on office workplace modification during the COVID-19 pandemic in The Netherlands](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_193.md)
-
 ## This Technology belongs to this TechSubgroup
 
 * [Touchless and remote technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2096.md)
 
-## Risks linked to this technology
+## This technology is mentioned by
 
-* [Risk of transmission in public spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1468.md)
+* [A study on office workplace modification during the COVID-19 pandemic in The Netherlands](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_193.md)
 

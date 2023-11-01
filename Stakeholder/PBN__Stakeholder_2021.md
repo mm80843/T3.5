@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The populace of cities, including residents, professionals, officials, and decision-makers involved in urban planning and design.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_219.md)
+* [The populace of cities, including residents, professionals, officials, and decision-makers involved in urban planning and design.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_269.md)
 
 ## Closest similar item
 
-* [Smart city professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_594.md)
-* [It professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_626.md)
-* [Professional](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1785.md)
-* [City administrator](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1623.md)
-* [City planner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1608.md)
-* [City planners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_750.md)
-* [City authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1617.md)
-* [Urban](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1522.md)
-* [Urban managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_516.md)
-* [City administrators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_718.md)
+* [City administrator](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_594.md)
+* [City administrators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_626.md)
+* [City authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1785.md)
+* [City planner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1623.md)
+* [City planners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1608.md)
+* [It professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_750.md)
+* [Professional](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1617.md)
+* [Smart city professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1522.md)
+* [Urban](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_516.md)
+* [Urban managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_718.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

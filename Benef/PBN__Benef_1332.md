@@ -2,23 +2,27 @@
 
 # __Reduction of airborne viruses__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-UVGI technology disinfects viruses in the air
+* [Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_282.md)
+
+## Category to which it belongs
+
+* [Enhanced measures to inhibit the dissemination and transmission of viruses, including reducing concentration and spread.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_10.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Improved health and reduced risk of transmission](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_1502.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_282.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [Occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_92.md)
+UVGI technology disinfects viruses in the air
 
 ## Risks which can benefit from this action
 
 * [Uvgi technology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1356.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [Occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_92.md)
 

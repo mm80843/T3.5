@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Strategies and techniques for organizing and developing cities, including infrastructure, green spaces, and equitable policies.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_110.md)
+* [Strategies and techniques for organizing and developing cities, including infrastructure, green spaces, and equitable policies.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_160.md)
 
 ## Closest similar item
 
 * [Equitable urban planning and policies to address spatial inequalities and improve social and economic conditions in marginalized communities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1992.md)
-* [Urban planning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_920.md)
-* [Urban planning strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_49.md)
-* [Urban planning and design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1176.md)
-* [Urban planners](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_377.md)
-* [Infrastructure and urban planning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2131.md)
-* [Urban planning regulations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_52.md)
-* [Improved urban planning strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2271.md)
-* [Urban planning and transportation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_371.md)
-* [Urban planning and design strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_657.md)
+* [Improved urban planning strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_920.md)
+* [Infrastructure and urban planning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_49.md)
+* [Urban planners](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1176.md)
+* [Urban planning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_377.md)
+* [Urban planning and design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2131.md)
+* [Urban planning and design strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_52.md)
+* [Urban planning and transportation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2271.md)
+* [Urban planning regulations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_371.md)
+* [Urban planning strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_657.md)
 
 ## This Technology belongs to this TechGroup
 

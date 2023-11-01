@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Design and construction strategies integrate flexible, adaptable, and sustainable elements to enhance human-centric, biophilic spaces with optimized lighting, color, and materials.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_94.md)
+* [Design and construction strategies integrate flexible, adaptable, and sustainable elements to enhance human-centric, biophilic spaces with optimized lighting, color, and materials.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_144.md)
 
 ## Closest similar item
 
-* [Use of off-site construction methods](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_293.md)
-* [Increase in off-site construction and engineering](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3478.md)
+* [Construction dewatering strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_293.md)
+* [Improve building design and operation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3478.md)
 * [Improve construction techniques and standards, ensure the use of high-quality building materials.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1497.md)
-* [Offsite construction](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1012.md)
-* [Improve building design and operation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1368.md)
-* [Research and develop new materials for insulation and building performance, enhance construction methods](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1732.md)
-* [Indoor building and finishing materials](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3549.md)
-* [Improved building environment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_276.md)
+* [Improved building environment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1012.md)
+* [Increase in off-site construction and engineering](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1368.md)
+* [Indoor building and finishing materials](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1732.md)
+* [Offsite construction](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3549.md)
+* [Research and develop new materials for insulation and building performance, enhance construction methods](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_276.md)
 * [Sustainable design and construction](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1289.md)
-* [Construction dewatering strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4403.md)
+* [Use of off-site construction methods](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4403.md)
 
 ## Risks possibly mitigated by this Mitigation
 

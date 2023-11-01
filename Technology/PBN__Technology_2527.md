@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_116.md)
+* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_166.md)
 
 ## Closest similar item
 
-* [Task-shifting strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1816.md)
-* [Correspondence](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2746.md)
-* [Rearrangement of furniture](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_496.md)
-* [Evaluation and adaptation of temporary changes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_726.md)
+* [Adjustable area ratio](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1816.md)
+* [Adjustable furniture](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2746.md)
+* [Adjustable lighting controls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_496.md)
+* [Changes in work procedures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_726.md)
 * [Correct orientation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2654.md)
-* [Distancing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_830.md)
-* [Changes in work procedures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2679.md)
-* [Adjustable lighting controls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_197.md)
-* [Adjustable furniture](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2428.md)
-* [Adjustable area ratio](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1777.md)
+* [Correspondence](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_830.md)
+* [Distancing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2679.md)
+* [Evaluation and adaptation of temporary changes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_197.md)
+* [Rearrangement of furniture](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2428.md)
+* [Task-shifting strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1777.md)
 
 ## This Technology enables the following mitigations
 

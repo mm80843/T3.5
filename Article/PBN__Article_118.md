@@ -2,9 +2,35 @@
 
 # __Current knowledge of COVID-19: Advances, challenges and future perspectives__
 
+## Benefits listed in this article
+
+* [Antiviral targets](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_0.md)
+* [Early detection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_594.md)
+* [Effective treatment](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_595.md)
+* [Identification](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_586.md)
+* [Infection prevention](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_587.md)
+* [Long-term protection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_588.md)
+* [Pathogenesis](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_589.md)
+* [Receptor interaction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_590.md)
+* [Susceptibility](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_591.md)
+* [Thrombotic complications](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_592.md)
+* [Vaccine testing](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_593.md)
+* [Virus recreation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_596.md)
+
 ## DOI of the article
 
 10.1016/j.bsheal.2021.06.001
+
+## List of risks in an article
+
+* [Cell entry of sars-cov-2](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_431.md)
+* [Development of drugs](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_430.md)
+* [Expectations for vaccine](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2335.md)
+* [Key factors of covid-19 transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2336.md)
+* [Knowledge gaps and future threats](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_429.md)
+* [Population susceptibility](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2333.md)
+* [Tissue tropism and pathogenesis of sars-cov-2](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2332.md)
+* [Unclear origin of sars-cov-2](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2334.md)
 
 ## Short summary of the article
 
@@ -14,6 +40,38 @@ This review article provides a summary of current knowledge on various aspects o
 
 Scientists have been studying COVID-19 to find out where it comes from and how it affects our bodies. They think the virus may have come from bats, but they're not sure yet. Some other animals, like pangolins and salmon, can also get similar viruses. They're studying these animals to help make vaccines and treatments for COVID-19. The virus can enter our cells through a special protein and can affect different parts of our body, not just our lungs. Older people and men are more likely to get sick from the virus. It spreads from person to person through coughing, sneezing, and talking, so it's important to wear masks and wash our hands. Scientists are also working on developing vaccines and medicines to treat COVID-19. In the future, we need to keep studying viruses and be prepared for new ones to keep us safe.
 
+## This article mentions these technologies
+
+* [Clinical trials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_261.md)
+* [Development of various vaccine strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1960.md)
+* [Environmental factors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1959.md)
+* [Genome sequencing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1958.md)
+* [Global network of virus surveillance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1961.md)
+* [Identification of potential therapeutic targets](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1956.md)
+* [Identification of receptor molecules](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1360.md)
+* [Phylogenetic analysis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1957.md)
+* [Research](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1962.md)
+* [Research on potential therapeutic options](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1950.md)
+* [Research on tissue tropism and pathogenesis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1949.md)
+* [Research on transmission routes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1951.md)
+* [Research on viral cell entry mechanisms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1952.md)
+* [Surveillance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1953.md)
+* [Targeted testing and protection measures based on population characteristics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1954.md)
+* [Viral survival](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1955.md)
+
+## This article points to following mitigation
+
+* [Broad-spectrum antiviral drugs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Face mask](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
+* [Genome sequencing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5199.md)
+* [Global virus surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5201.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_590.md)
+* [Phylogenetic analysis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5204.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4829.md)
+* [Steroids](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5203.md)
+* [Universal vaccines](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5202.md)
+* [Vaccine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5200.md)
+
 ## Title of the article
 
 Current knowledge of COVID-19: Advances, challenges and future perspectives
@@ -21,62 +79,4 @@ Current knowledge of COVID-19: Advances, challenges and future perspectives
 ## Year of publication
 
 2021
-
-## Benefits listed in this article
-
-* [Early detection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_0.md)
-* [Infection prevention](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_594.md)
-* [Identification](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_586.md)
-* [Vaccine testing](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_587.md)
-* [Virus recreation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_588.md)
-* [Antiviral targets](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_589.md)
-* [Receptor interaction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_590.md)
-* [Pathogenesis](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_591.md)
-* [Thrombotic complications](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_592.md)
-* [Susceptibility](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_593.md)
-* [Long-term protection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_595.md)
-* [Effective treatment](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_596.md)
-
-## List of risks in an article
-
-* [Development of drugs](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_431.md)
-* [Expectations for vaccine](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_430.md)
-* [Key factors of covid-19 transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2335.md)
-* [Knowledge gaps and future threats](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2336.md)
-* [Cell entry of sars-cov-2](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2333.md)
-* [Tissue tropism and pathogenesis of sars-cov-2](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2334.md)
-* [Population susceptibility](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_429.md)
-* [Unclear origin of sars-cov-2](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2332.md)
-
-## This article points to following mitigation
-
-* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
-* [Genome sequencing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5201.md)
-* [Vaccine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5199.md)
-* [Universal vaccines](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5204.md)
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
-* [Face mask](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4829.md)
-* [Phylogenetic analysis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_590.md)
-* [Steroids](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5200.md)
-* [Global virus surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5202.md)
-* [Broad-spectrum antiviral drugs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5203.md)
-
-## This article mentions these technologies
-
-* [Genome sequencing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1950.md)
-* [Targeted testing and protection measures based on population characteristics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1955.md)
-* [Development of various vaccine strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1958.md)
-* [Clinical trials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1959.md)
-* [Research on potential therapeutic options](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1960.md)
-* [Surveillance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1961.md)
-* [Viral survival](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1957.md)
-* [Research](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_261.md)
-* [Research on transmission routes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1956.md)
-* [Environmental factors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1360.md)
-* [Phylogenetic analysis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1949.md)
-* [Research on viral cell entry mechanisms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1951.md)
-* [Identification of receptor molecules](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1952.md)
-* [Identification of potential therapeutic targets](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1954.md)
-* [Research on tissue tropism and pathogenesis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1953.md)
-* [Global network of virus surveillance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1962.md)
 

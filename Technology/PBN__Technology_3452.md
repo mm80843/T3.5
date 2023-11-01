@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Advancements in remote healthcare, antibiotic stewardship programs, medical robots, and international organizations contribute to improved healthcare infrastructure and access to healthcare services.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_135.md)
+* [Advancements in remote healthcare, antibiotic stewardship programs, medical robots, and international organizations contribute to improved healthcare infrastructure and access to healthcare services.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_185.md)
 
 ## Closest similar item
 
-* [Integrated healthcare systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3447.md)
+* [Ai in healthcare](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3447.md)
 * [Care coordination tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1488.md)
-* [Flexible working models](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3323.md)
-* [Point-of-care testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2024.md)
-* [Self-care resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1120.md)
-* [Modular healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_472.md)
-* [Community care centers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2805.md)
-* [Tailored interventions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1339.md)
-* [Healthcare systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2774.md)
-* [Ai in healthcare](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1506.md)
+* [Community care centers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3323.md)
+* [Flexible working models](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2024.md)
+* [Healthcare systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1120.md)
+* [Integrated healthcare systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_472.md)
+* [Modular healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2805.md)
+* [Point-of-care testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1339.md)
+* [Self-care resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2774.md)
+* [Tailored interventions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1506.md)
 
 ## This Technology enables the following mitigations
 

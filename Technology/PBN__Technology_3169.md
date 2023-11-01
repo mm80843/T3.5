@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Advancements in remote healthcare, antibiotic stewardship programs, medical robots, and international organizations contribute to improved healthcare infrastructure and access to healthcare services.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_135.md)
+* [Advancements in remote healthcare, antibiotic stewardship programs, medical robots, and international organizations contribute to improved healthcare infrastructure and access to healthcare services.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_185.md)
 
 ## Closest similar item
 
-* [Ultrasound imaging](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3857.md)
+* [Artificial intelligence and ct imaging data](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3857.md)
 * [Digital imaging](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3603.md)
-* [Thermal imaging technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3602.md)
+* [Digital techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3602.md)
 * [Enhanced diagnostic techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2027.md)
 * [Image processing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2402.md)
-* [Surgical techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2726.md)
-* [Artificial intelligence and ct imaging data](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3215.md)
-* [Digital techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2599.md)
+* [Rapid diagnostic tests](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2726.md)
+* [Surgical techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3215.md)
+* [Thermal imaging technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2599.md)
 * [Thermographic cameras](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3461.md)
-* [Rapid diagnostic tests](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_610.md)
+* [Ultrasound imaging](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_610.md)
 
 ## This Technology enables the following mitigations
 

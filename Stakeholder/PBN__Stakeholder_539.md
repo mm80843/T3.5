@@ -2,24 +2,28 @@
 
 # __High-risk patients__
 
+## Category to which it belongs
+
+* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_262.md)
+
+## Closest similar item
+
+* [High-risk group](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_69.md)
+* [High-risk groups](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2205.md)
+* [High-risk individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1074.md)
+* [Individual in high-risk area](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1570.md)
+* [Individuals at risk including those who contract the disease](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2347.md)
+* [Individuals in high-risk areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_208.md)
+* [Individuals with symptoms or high-risk exposures](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1195.md)
+* [People with pre-existing medical conditions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1409.md)
+* [People with preexisting medical conditions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_335.md)
+* [Vulnerable patients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1318.md)
+
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Remote patient monitoring](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_484.md)
 
-## Category to which it belongs
+## Type of the stakeholder
 
-* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_212.md)
-
-## Closest similar item
-
-* [High-risk individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_69.md)
-* [Individual in high-risk area](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2205.md)
-* [Individuals in high-risk areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1074.md)
-* [Individuals with symptoms or high-risk exposures](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1570.md)
-* [High-risk group](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2347.md)
-* [Vulnerable patients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_208.md)
-* [High-risk groups](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1195.md)
-* [People with preexisting medical conditions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1409.md)
-* [Individuals at risk including those who contract the disease](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_335.md)
-* [People with pre-existing medical conditions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1318.md)
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_0.md)
 

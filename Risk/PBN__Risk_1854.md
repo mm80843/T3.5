@@ -2,42 +2,34 @@
 
 # __Uncertainty about future__
 
+## Articles mentionning the risk
+
+* [Impacts of COVID-19 on Health and Safety of Workforce in Construction Industry](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_49.md)
+
 ## Category to which it belongs
 
-* [The prevalence and impact of inaccurate, uncertain, and biased data pose significant challenges in decision-making and effective response to the covid-19 pandemic.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_34.md)
+* [The prevalence and impact of inaccurate, uncertain, and biased data pose significant challenges in decision-making and effective response to the covid-19 pandemic.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_84.md)
 
 ## Closest similar item
 
-* [Uncertainty](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2389.md)
-* [Confusion and uncertainty](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1709.md)
-* [Uncertainty and changes](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2824.md)
-* [Handling uncertain risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_661.md)
-* [Uncertainty and lack of direction](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2768.md)
-* [High uncertainty in estimates and predictions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1388.md)
-* [Measurement uncertainty](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_96.md)
-* [Uncertainty of maintaining intensive policies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_80.md)
+* [Confusion and uncertainty](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2389.md)
+* [Handling uncertain risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1709.md)
+* [High uncertainty in estimates and predictions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2824.md)
+* [Measurement uncertainty](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_661.md)
+* [Real estate industry uncertainty](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2768.md)
+* [Uncertainty](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1388.md)
+* [Uncertainty and changes](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_96.md)
+* [Uncertainty and lack of direction](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_80.md)
 * [Uncertainty in construction market](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1932.md)
-* [Real estate industry uncertainty](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_481.md)
+* [Uncertainty of maintaining intensive policies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_481.md)
 
 ## Description of the risk
 
 Workers may be uncertain about the future of their job and the industry due to the pandemic.
 
-## Type of the risk
-
-* [Mental](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_1.md)
-
 ## Is the risk affecting GBN scales
 
 * [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
-
-## Type of impact of the risk (according to ISO37100)
-
-* [Safety and security](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_5.md)
-
-## Type of purpose of the risk (according to ISO37100)
-
-* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
 
 ## Mitigations of this risk
 
@@ -47,21 +39,29 @@ Workers may be uncertain about the future of their job and the industry due to t
 
 Increased stress and anxiety.
 
-## Stakeholders who can mitigate this risk
-
-* [Employers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_180.md)
-
-## Articles mentionning the risk
-
-* [Impacts of COVID-19 on Health and Safety of Workforce in Construction Industry](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_49.md)
-
 ## People affected by this risk
 
 * [Workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_128.md)
 
+## Stakeholders who can mitigate this risk
+
+* [Employers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_180.md)
+
 ## Technologies linked to the risk
 
 * [Virtual communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_144.md)
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Safety and security](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_5.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
+
+## Type of the risk
+
+* [Mental](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_1.md)
 
 ## Property: has_RiskType
 

@@ -4,19 +4,19 @@
 
 ## Category to which it belongs
 
-* [Healthcare systems overwhelmed, limited access to services, scarcity of resources, and risk to healthcare workers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_10.md)
+* [Healthcare systems overwhelmed, limited access to services, scarcity of resources, and risk to healthcare workers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_60.md)
 
 ## Closest similar item
 
 * [Contamination of healthcare workers](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1326.md)
-* [Safety risks for workers](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1085.md)
-* [Risk of exposure in healthcare settings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_362.md)
-* [Infection and transmission to healthcare workers](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3221.md)
-* [Impact on workers’ health and safety](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3413.md)
+* [Health risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1085.md)
+* [Impact on healthcare professionals](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_362.md)
+* [Impact on workers’ health and safety](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3221.md)
+* [Infection and transmission to healthcare workers](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3413.md)
 * [Loss of healthcare workforce](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_408.md)
-* [Health risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_83.md)
-* [Shortage of health care personnel](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1631.md)
-* [Impact on healthcare professionals](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_831.md)
+* [Risk of exposure in healthcare settings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_83.md)
+* [Safety risks for workers](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1631.md)
+* [Shortage of health care personnel](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_831.md)
 * [Workers’ vulnerability to covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3411.md)
 
 ## Mitigations of this risk

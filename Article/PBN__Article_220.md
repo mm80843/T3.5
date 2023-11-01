@@ -2,9 +2,23 @@
 
 # __Identifying Actions to Control and Mitigate the Effects of the COVID-19 Pandemic on Construction Organizations: Preliminary Findings__
 
+## Benefits listed in this article
+
+* [Enhanced worker protection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_279.md)
+* [Minimized transmission risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_207.md)
+* [Reduced transmission risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1055.md)
+
 ## DOI of the article
 
 10.1177/1087724X20969164
+
+## List of risks in an article
+
+* [Communication challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1933.md)
+* [Inadequate site facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1931.md)
+* [Lack of personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1932.md)
+* [Uncertainty in construction market](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1930.md)
+* [Workforce distancing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1490.md)
 
 ## Short summary of the article
 
@@ -14,6 +28,30 @@ This study aims to develop a response plan for construction organizations to add
 
 The COVID-19 pandemic has affected the construction industry in many ways. Construction organizations are facing challenges like a shortage of workers and uncertainty about the future. To help construction companies survive, the government is investing in projects that can start quickly. Construction companies are implementing safety measures like health checks and providing protective equipment to workers. They are also using technology, like video calls, to communicate with their teams. It is important for construction organizations to take care of their workers' health and morale, and to stay updated on the latest guidelines and regulations.
 
+## This article mentions these technologies
+
+* [Market analysis tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_110.md)
+* [Online ordering platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_130.md)
+* [Project management software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1365.md)
+* [Remote monitoring and tracking technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1369.md)
+* [Sensor-based systems for monitoring facility usage and cleanliness](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1366.md)
+* [Smart technologies for site communication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1364.md)
+* [Supply chain management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1368.md)
+* [Videoconferencing tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1367.md)
+
+## This article points to following mitigation
+
+* [Assessing the possibility of late or halted deliveries of materials](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4586.md)
+* [Disinfecting shared tools and equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1063.md)
+* [Health screening of workers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1062.md)
+* [Implementing physical distancing procedures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1059.md)
+* [Implementing remote working](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1061.md)
+* [Providing additional personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4588.md)
+* [Regular communication and coordination among project teams](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4587.md)
+* [Regular monitoring of public health and government announcements](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4585.md)
+* [Upgrading site facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4589.md)
+* [Using smart technologies for site access](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4584.md)
+
 ## Title of the article
 
 Identifying Actions to Control and Mitigate the Effects of the COVID-19 Pandemic on Construction Organizations: Preliminary Findings
@@ -21,42 +59,4 @@ Identifying Actions to Control and Mitigate the Effects of the COVID-19 Pandemic
 ## Year of publication
 
 2021
-
-## Benefits listed in this article
-
-* [Reduced transmission risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_207.md)
-* [Minimized transmission risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_279.md)
-* [Enhanced worker protection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1055.md)
-
-## List of risks in an article
-
-* [Communication challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1933.md)
-* [Workforce distancing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1930.md)
-* [Uncertainty in construction market](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1932.md)
-* [Lack of personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1490.md)
-* [Inadequate site facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1931.md)
-
-## This article points to following mitigation
-
-* [Using smart technologies for site access](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4587.md)
-* [Implementing physical distancing procedures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1062.md)
-* [Implementing remote working](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1063.md)
-* [Assessing the possibility of late or halted deliveries of materials](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4588.md)
-* [Providing additional personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4584.md)
-* [Regular monitoring of public health and government announcements](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4589.md)
-* [Health screening of workers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1059.md)
-* [Regular communication and coordination among project teams](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4586.md)
-* [Disinfecting shared tools and equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1061.md)
-* [Upgrading site facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4585.md)
-
-## This article mentions these technologies
-
-* [Project management software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_130.md)
-* [Supply chain management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_110.md)
-* [Remote monitoring and tracking technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1364.md)
-* [Videoconferencing tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1365.md)
-* [Online ordering platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1366.md)
-* [Sensor-based systems for monitoring facility usage and cleanliness](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1367.md)
-* [Market analysis tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1368.md)
-* [Smart technologies for site communication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1369.md)
 

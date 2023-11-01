@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Individuals from various sectors, including informal and formal economies, facing economic hardship and job loss.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_236.md)
+* [Individuals from various sectors, including informal and formal economies, facing economic hardship and job loss.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_286.md)
 
 ## Closest similar item
 
-* [Workers in close-proximity work environments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_837.md)
-* [Worker in indoor environment](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1678.md)
-* [Workers in indoor environments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1776.md)
-* [Worker in the built environment](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2520.md)
-* [Workers in public spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1102.md)
-* [Workers in outdoor environments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1733.md)
-* [Indoor worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2509.md)
-* [Indoor workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_806.md)
-* [Workers in enclosed indoor spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_835.md)
-* [Worker in public space](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1764.md)
+* [Indoor worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_837.md)
+* [Indoor workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1678.md)
+* [Worker in indoor environment](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1776.md)
+* [Worker in public space](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2520.md)
+* [Worker in the built environment](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1102.md)
+* [Workers in close-proximity work environments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1733.md)
+* [Workers in enclosed indoor spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2509.md)
+* [Workers in indoor environments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_806.md)
+* [Workers in outdoor environments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_835.md)
+* [Workers in public spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1764.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

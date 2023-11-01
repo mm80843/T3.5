@@ -4,23 +4,23 @@
 
 ## Category to which it belongs
 
-* [Innovations and applications in chemistry, materials, and technology for purification, disinfection, and environmental protection.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_146.md)
+* [Innovations and applications in chemistry, materials, and technology for purification, disinfection, and environmental protection.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_196.md)
 
 ## Closest similar item
 
-* [Dna/rna extraction methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3374.md)
-* [Dna analyzer](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3797.md)
-* [Nucleic acid-based polymerase chain reaction](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2466.md)
-* [Nucleic acid-based polymerase chain reaction pcr](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2668.md)
-* [Dna barcoding](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1704.md)
-* [Biomarker extraction techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3508.md)
-* [Pcr assay](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2468.md)
-* [Desk-based extraction](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3558.md)
-* [Molecular testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3016.md)
-* [Monitoring techniques for rna degradation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1975.md)
+* [Biomarker extraction techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3374.md)
+* [Desk-based extraction](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3797.md)
+* [Dna analyzer](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2466.md)
+* [Dna barcoding](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2668.md)
+* [Dna/rna extraction methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1704.md)
+* [Molecular testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3508.md)
+* [Monitoring techniques for rna degradation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2468.md)
+* [Nucleic acid-based polymerase chain reaction](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3558.md)
+* [Nucleic acid-based polymerase chain reaction pcr](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3016.md)
+* [Pcr assay](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1975.md)
 
 ## This Technology enables the following mitigations
 
-* [Wastewater-based surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5211.md)
-* [Viral enrichment protocol](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5212.md)
+* [Viral enrichment protocol](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5211.md)
+* [Wastewater-based surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5212.md)
 

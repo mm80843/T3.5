@@ -2,26 +2,26 @@
 
 # __Support and information sharing__
 
-## Link between Blueprint and General ontology
-
-* [Information management](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Theme_9.md)
-
 ## Category to which it belongs
 
-* [Interoperability challenges, high costs, limited communication, and lack of resources impact various sectors globally.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_22.md)
+* [Interoperability challenges, high costs, limited communication, and lack of resources impact various sectors globally.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_72.md)
 
 ## Closest similar item
 
 * [Data sharing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1736.md)
-* [Lack of communication and information sharing among stakeholders](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3053.md)
-* [Lack of data sharing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_810.md)
-* [Privacy and data sharing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_960.md)
-* [Individual responsibility for sharing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1844.md)
-* [Limited data sharing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1330.md)
-* [Support at organizational level](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1463.md)
-* [Lack of data sharing and coordination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1075.md)
-* [Health inequities in data sharing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1331.md)
-* [Support at individual level](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1464.md)
+* [Health inequities in data sharing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3053.md)
+* [Individual responsibility for sharing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_810.md)
+* [Lack of communication and information sharing among stakeholders](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_960.md)
+* [Lack of data sharing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1844.md)
+* [Lack of data sharing and coordination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1330.md)
+* [Limited data sharing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1463.md)
+* [Privacy and data sharing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1075.md)
+* [Support at individual level](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1331.md)
+* [Support at organizational level](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1464.md)
+
+## Link between Blueprint and General ontology
+
+* [Information management](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Theme_9.md)
 
 ## Mitigations of this risk
 

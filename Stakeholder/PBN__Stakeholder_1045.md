@@ -4,20 +4,24 @@
 
 ## Category to which it belongs
 
-* [Entities involved in managing occupants, waste, water, and cleaning services within facilities and communities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_237.md)
+* [Entities involved in managing occupants, waste, water, and cleaning services within facilities and communities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_287.md)
 
 ## Closest similar item
 
-* [Wastewater treatment plant worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2604.md)
-* [Wastewater treatment workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_686.md)
-* [Wastewater workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1082.md)
-* [Wastewater treatment plants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_573.md)
-* [Wastewater worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2600.md)
-* [Wastewater treatment plant operators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1046.md)
-* [Wastewater treatment plant](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2588.md)
-* [Wastewater treatment plant operator](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2619.md)
-* [Workers handling human waste and wastewater](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_174.md)
-* [Wastewater treatment facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_687.md)
+* [Wastewater treatment facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2604.md)
+* [Wastewater treatment plant](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_686.md)
+* [Wastewater treatment plant operator](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1082.md)
+* [Wastewater treatment plant operators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_573.md)
+* [Wastewater treatment plant worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2600.md)
+* [Wastewater treatment plants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1046.md)
+* [Wastewater treatment workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2588.md)
+* [Wastewater worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2619.md)
+* [Wastewater workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_174.md)
+* [Workers handling human waste and wastewater](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_687.md)
+
+## Risk affecting this stakeholder
+
+* [Spread of sars-cov-2 in wastewater](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1611.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -27,7 +31,7 @@
 
 * [Waste and wastewater management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2584.md)
 
-## Risk affecting this stakeholder
+## Type of the stakeholder
 
-* [Spread of sars-cov-2 in wastewater](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1611.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

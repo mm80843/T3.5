@@ -4,6 +4,6 @@
 
 ## Risks labelled under this category
 
-* [Legal issues](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1568.md)
-* [Legal and contractual disputes](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1846.md)
+* [Legal and contractual disputes](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1568.md)
+* [Legal issues](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1846.md)
 

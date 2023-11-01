@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Enhancing education through digital platforms and online resources, promoting virtual classes and workshops, and improving digital literacy.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_148.md)
+* [Enhancing education through digital platforms and online resources, promoting virtual classes and workshops, and improving digital literacy.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_198.md)
 
 ## Closest similar item
 
-* [Communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_168.md)
-* [Online communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3404.md)
-* [Communication and collaboration tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_808.md)
-* [Vaccine education and communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1562.md)
-* [Education technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2296.md)
-* [Digital communication and collaboration tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2141.md)
-* [Digital communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_717.md)
-* [Communication software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_737.md)
-* [Education initiatives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_871.md)
-* [Communication experts](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2006.md)
+* [Communication and collaboration tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_168.md)
+* [Communication experts](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3404.md)
+* [Communication software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_808.md)
+* [Communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1562.md)
+* [Digital communication and collaboration tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2296.md)
+* [Digital communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2141.md)
+* [Education initiatives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_717.md)
+* [Education technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_737.md)
+* [Online communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_871.md)
+* [Vaccine education and communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2006.md)
 
 ## This Technology enables the following mitigations
 

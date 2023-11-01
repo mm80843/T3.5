@@ -2,26 +2,26 @@
 
 # __Responsible transport__
 
-## Category to which it belongs
-
-* [Promote active transportation while optimizing transport, managing destination image, and streamlining travel processes and operations.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_68.md)
-
-## Closest similar item
-
-* [Transport](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_490.md)
-* [Active transportation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4021.md)
-* [Promotion of responsible travel behavior](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_743.md)
-* [Suspension of public transport](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4944.md)
-* [Promote active transportation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_21.md)
-* [Development of sustainable transport modes](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_742.md)
-* [Green transportation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4063.md)
-* [Building transport networks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4084.md)
-* [Reviewing transport, logistics, and border regulations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4416.md)
-* [Suspension of intracity public transport](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_956.md)
-
 ## Benefits linked to a risk
 
 * [Reduction in transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_262.md)
+
+## Category to which it belongs
+
+* [Promote active transportation while optimizing transport, managing destination image, and streamlining travel processes and operations.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_118.md)
+
+## Closest similar item
+
+* [Active transportation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_490.md)
+* [Building transport networks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4021.md)
+* [Development of sustainable transport modes](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_743.md)
+* [Green transportation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4944.md)
+* [Promote active transportation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_21.md)
+* [Promotion of responsible travel behavior](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_742.md)
+* [Reviewing transport, logistics, and border regulations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4063.md)
+* [Suspension of intracity public transport](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4084.md)
+* [Suspension of public transport](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4416.md)
+* [Transport](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_956.md)
 
 ## Risks possibly mitigated by this Mitigation
 

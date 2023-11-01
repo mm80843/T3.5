@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Virtual healthcare and remote communication technology for medical diagnosis, therapy, and consultation.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_102.md)
+* [Virtual healthcare and remote communication technology for medical diagnosis, therapy, and consultation.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_152.md)
 
 ## Closest similar item
 
-* [Telephones](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3492.md)
+* [Mobile phones](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3492.md)
 * [Phone](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1092.md)
-* [Telephone network](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2754.md)
-* [Telecommunication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2323.md)
-* [Mobile phones](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3802.md)
-* [Teleworking](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3494.md)
-* [Smartphone](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3518.md)
-* [Smartphones](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2399.md)
-* [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_73.md)
-* [Telecommunication technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2456.md)
+* [Smartphone](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2754.md)
+* [Smartphones](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2323.md)
+* [Telecommunication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3802.md)
+* [Telecommunication technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3494.md)
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3518.md)
+* [Telephone network](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2399.md)
+* [Telephones](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_73.md)
+* [Teleworking](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2456.md)
 
 ## This Technology enables the following mitigations
 

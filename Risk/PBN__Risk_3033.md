@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The challenges of urbanization and population density manifest in overcrowding, limited transport infrastructure, and disrupted mobility patterns.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_13.md)
+* [The challenges of urbanization and population density manifest in overcrowding, limited transport infrastructure, and disrupted mobility patterns.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_63.md)
 
 ## Closest similar item
 
-* [Increased demand, logistical challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3035.md)
-* [Increased cost and workload](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2670.md)
-* [Changes in demand patterns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1754.md)
-* [Supply disruption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2986.md)
-* [Shortages in supply chains](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_491.md)
-* [Shortage of supplies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3252.md)
-* [Lack of transportation and financial constraints](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3324.md)
-* [Shortage of critical supplies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3277.md)
-* [Labour shortages](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_730.md)
-* [Economic impacts, shortage of essential goods](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2878.md)
+* [Changes in demand patterns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3035.md)
+* [Economic impacts, shortage of essential goods](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2670.md)
+* [Increased cost and workload](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1754.md)
+* [Increased demand, logistical challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2986.md)
+* [Labour shortages](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_491.md)
+* [Lack of transportation and financial constraints](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3252.md)
+* [Shortage of critical supplies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3324.md)
+* [Shortage of supplies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3277.md)
+* [Shortages in supply chains](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_730.md)
+* [Supply disruption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2878.md)
 
 ## Mitigations of this risk
 

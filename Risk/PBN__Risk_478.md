@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Insufficient safety measures, inadequate protective equipment, and lack of adherence to prevention guidelines pose significant risks.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_48.md)
+* [Insufficient safety measures, inadequate protective equipment, and lack of adherence to prevention guidelines pose significant risks.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_98.md)
 
 ## Closest similar item
 
-* [Shortages of personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2368.md)
-* [Lack of protective equipment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1957.md)
+* [Inadequate supplies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2368.md)
+* [Inadequate use of personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1957.md)
 * [Lack of personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2054.md)
-* [Shortage of personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1485.md)
-* [Inadequate use of personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1316.md)
-* [Shortage of supplies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3252.md)
+* [Lack of personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1485.md)
+* [Lack of protective equipment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1316.md)
+* [Shortage of critical supplies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3252.md)
 * [Shortage of medical equipment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_764.md)
-* [Lack of personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1490.md)
-* [Shortage of critical supplies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3277.md)
-* [Inadequate supplies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2034.md)
+* [Shortage of personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1490.md)
+* [Shortage of supplies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3277.md)
+* [Shortages of personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2034.md)
 
 ## Mitigations of this risk
 

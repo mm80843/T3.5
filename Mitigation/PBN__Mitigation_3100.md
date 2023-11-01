@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Promote trustworthy information, combat misinformation, ensure transparency, and engage in evidence-based decision-making.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_88.md)
+* [Promote trustworthy information, combat misinformation, ensure transparency, and engage in evidence-based decision-making.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_138.md)
 
 ## Closest similar item
 
-* [Improve information disclosure and transparency](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3098.md)
-* [Timely disclosure of information](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5257.md)
-* [Improving transparency and communication, providing accurate and timely information, addressing concerns and misinformation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2099.md)
-* [Information transparency](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5256.md)
-* [Clear and timely information](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4614.md)
-* [Providing clear and transparent information](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_101.md)
-* [Transparent and consistent communication, providing accurate and timely information](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1794.md)
-* [Improve testing and reporting systems, increase transparency](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2847.md)
+* [Clear and timely information](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3098.md)
+* [Improve data collection and reporting systems, enhance testing capacity, ensure transparency in data reporting](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5257.md)
+* [Improve information disclosure and transparency](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2099.md)
+* [Improve testing and reporting systems, increase transparency](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5256.md)
+* [Improving transparency and communication, providing accurate and timely information, addressing concerns and misinformation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4614.md)
+* [Information transparency](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_101.md)
+* [Providing clear and transparent information](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1794.md)
+* [Timely disclosure of information](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2847.md)
 * [Transparency and governance of data](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_815.md)
-* [Improve data collection and reporting systems, enhance testing capacity, ensure transparency in data reporting](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2028.md)
+* [Transparent and consistent communication, providing accurate and timely information](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2028.md)
 
 ## Risks possibly mitigated by this Mitigation
 

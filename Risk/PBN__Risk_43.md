@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The interconnectedness of global economics has led to financial instability, unemployment, poverty, and decreased investment in certain sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_12.md)
+* [The interconnectedness of global economics has led to financial instability, unemployment, poverty, and decreased investment in certain sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_62.md)
 
 ## Closest similar item
 
-* [Reliance on fossil fuels](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3208.md)
-* [Fall in energy demand](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1594.md)
+* [Carbon emissions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3208.md)
+* [Decline in conservation revenue](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1594.md)
 * [Decline of employment and investment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2244.md)
-* [Lack of occupant interest in energy conservation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1062.md)
-* [Decline in conservation revenue](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2150.md)
+* [Declines in conservation revenue](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1062.md)
+* [Decreased carbon emissions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2150.md)
 * [Disruption in petroleum and oil industry](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1791.md)
-* [Declines in conservation revenue](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_772.md)
-* [Decreased carbon emissions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1247.md)
-* [Use of biomass fuels](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1994.md)
-* [Carbon emissions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_149.md)
+* [Fall in energy demand](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_772.md)
+* [Lack of occupant interest in energy conservation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1247.md)
+* [Reliance on fossil fuels](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1994.md)
+* [Use of biomass fuels](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_149.md)
 
 ## Mitigations of this risk
 

@@ -4,17 +4,17 @@
 
 ## Category to which it belongs
 
-* [Promote collaboration, coordination, and standardized guidelines to foster partnerships, implement policies, and achieve global cooperation.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_57.md)
+* [Promote collaboration, coordination, and standardized guidelines to foster partnerships, implement policies, and achieve global cooperation.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_107.md)
 
 ## Closest similar item
 
 * [Address force majeure provisions, revise contracts, establish clear communication channels.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1790.md)
 * [Clear contractual arrangements](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3966.md)
-* [Reviewing contracts and service agreements](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4777.md)
-* [Review and adjust contracts and service agreements](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_383.md)
-* [Contractual arrangements](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_581.md)
-* [Develop new project schedules, adjust contract clauses, increase cooperation and communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1526.md)
-* [Force majeure clause](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_783.md)
+* [Contractual arrangements](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4777.md)
+* [Develop new project schedules, adjust contract clauses, increase cooperation and communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_383.md)
+* [Force majeure clause](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_581.md)
+* [Review and adjust contracts and service agreements](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1526.md)
+* [Reviewing contracts and service agreements](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_783.md)
 * [Robust contract and claims management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_673.md)
 * [Seek financial aids, revise contracts to claim losses](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2107.md)
 * [Standardized protocols and governance structures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_68.md)

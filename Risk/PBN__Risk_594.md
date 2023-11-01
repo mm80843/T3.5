@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Healthcare systems overwhelmed, limited access to services, scarcity of resources, and risk to healthcare workers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_10.md)
+* [Healthcare systems overwhelmed, limited access to services, scarcity of resources, and risk to healthcare workers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_60.md)
 
 ## Closest similar item
 
-* [Stress and burnout among healthcare providers](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1877.md)
-* [Psychological distress in healthcare providers](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_896.md)
-* [Stress on individual providers and general operations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3107.md)
-* [Increased stress for students and faculty](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_213.md)
-* [Increased stress and anxiety](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2770.md)
+* [Health care system overload](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1877.md)
+* [Increased stress and anxiety](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_896.md)
+* [Increased stress for students and faculty](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3107.md)
+* [Overwhelm, stress](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_213.md)
+* [Psychological distress in healthcare providers](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2770.md)
 * [Psychological stress and mental health issues](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_532.md)
-* [Stress, fatigue, poor mental well-being](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2445.md)
+* [Stress and burnout among healthcare providers](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2445.md)
 * [Stress and mental fatigue](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2451.md)
-* [Health care system overload](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12.md)
-* [Overwhelm, stress](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3109.md)
+* [Stress on individual providers and general operations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12.md)
+* [Stress, fatigue, poor mental well-being](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3109.md)
 
 ## Mitigations of this risk
 

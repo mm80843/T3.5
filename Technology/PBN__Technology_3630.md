@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Promoting sustainability through clean energy infrastructure, smart technologies, and efficient energy management.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_123.md)
+* [Promoting sustainability through clean energy infrastructure, smart technologies, and efficient energy management.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_173.md)
 
 ## Closest similar item
 
-* [Backup generators](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1758.md)
-* [Energy storage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1759.md)
+* [Access to modern energy sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1758.md)
+* [Backup generators](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1759.md)
 * [Backup systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_576.md)
-* [Energy storage systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1763.md)
-* [Renewable energy sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_864.md)
-* [Access to modern energy sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1483.md)
-* [Home energy management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2586.md)
-* [Backup systems and capabilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3674.md)
-* [Energy management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_322.md)
-* [Energy management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3907.md)
+* [Backup systems and capabilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1763.md)
+* [Energy management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_864.md)
+* [Energy management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1483.md)
+* [Energy storage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2586.md)
+* [Energy storage systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3674.md)
+* [Home energy management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_322.md)
+* [Renewable energy sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3907.md)
 
 ## This Technology enables the following mitigations
 

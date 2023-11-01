@@ -4,20 +4,28 @@
 
 ## Category to which it belongs
 
-* [A collection of diverse entities devoted to various causes, including mental and physical health, business, research, conservation, and social welfare.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_200.md)
+* [A collection of diverse entities devoted to various causes, including mental and physical health, business, research, conservation, and social welfare.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_250.md)
 
 ## Closest similar item
 
-* [Non-governmental organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1902.md)
-* [Non-profit organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_802.md)
-* [Nonprofit organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_809.md)
+* [Ngos](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1902.md)
+* [Non-governmental organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_802.md)
+* [Non-profit organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_809.md)
+* [Non-profits](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1866.md)
+* [Nonprofit](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_708.md)
+* [Nonprofit organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_808.md)
+* [Nonprofit organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2411.md)
+* [Nonprofits](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_186.md)
+* [Organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_247.md)
+* [Private organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_234.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [Ngo](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_234.md)
+* [Ngos](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2395.md)
+* [Nonprofit](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_808.md)
 * [Nonprofit organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1866.md)
-* [Non-profits](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_708.md)
-* [Nonprofits](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_808.md)
-* [Nonprofit](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2411.md)
-* [Organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_186.md)
-* [Private organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_247.md)
-* [Ngos](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_234.md)
+* [Nonprofits](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2411.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -25,12 +33,4 @@
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 
-
-## Stakeholders in this stakeholder subgroup
-
-* [Ngos](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_234.md)
-* [Ngo](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2395.md)
-* [Nonprofits](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_808.md)
-* [Nonprofit organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1866.md)
-* [Nonprofit](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2411.md)
 

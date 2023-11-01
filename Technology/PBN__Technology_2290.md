@@ -2,31 +2,27 @@
 
 # __Robots__
 
-## Link between Blueprint and General ontology
-
-* [Robots, Drones & Automated Vehicules](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_13.md)
-* [Robots](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_14.md)
-
 ## Category to which it belongs
 
-* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_116.md)
+* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_166.md)
 
 ## Closest similar item
 
-* [Robotics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1171.md)
-* [Medical robots](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3463.md)
-* [Social robots](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1985.md)
-* [Robot technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3368.md)
-* [Robot systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3134.md)
-* [Industrial robots](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3863.md)
-* [Robotic systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3856.md)
-* [Drones and robots](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2289.md)
-* [Ai](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_278.md)
-* [Artificial intelligence](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_356.md)
+* [Ai](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1171.md)
+* [Artificial intelligence](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3463.md)
+* [Drones and robots](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1985.md)
+* [Industrial robots](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3368.md)
+* [Medical robots](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3134.md)
+* [Robot systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3863.md)
+* [Robot technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3856.md)
+* [Robotic systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2289.md)
+* [Robotics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_278.md)
+* [Social robots](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_356.md)
 
-## This is also an enabler
+## Link between Blueprint and General ontology
 
-* [Robots](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_14.md)
+* [Robots](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_13.md)
+* [Robots, Drones & Automated Vehicules](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_14.md)
 
 ## This Technology belongs to this TechGroup
 
@@ -38,8 +34,12 @@
 
 ## This Technology enables the following mitigations
 
-* [Robotics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_404.md)
+* [Automated surveillance and contactless delivery](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3254.md)
 * [Digitalization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3757.md)
-* [Automated surveillance and contactless delivery](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4764.md)
-* [Integrated healthcare environment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3254.md)
+* [Integrated healthcare environment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_404.md)
+* [Robotics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4764.md)
+
+## This is also an enabler
+
+* [Robots](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_14.md)
 

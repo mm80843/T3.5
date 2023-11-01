@@ -4,20 +4,24 @@
 
 ## Category to which it belongs
 
-* [Individuals from various sectors, including informal and formal economies, facing economic hardship and job loss.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_236.md)
+* [Individuals from various sectors, including informal and formal economies, facing economic hardship and job loss.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_286.md)
 
 ## Closest similar item
 
-* [Worker with mid-level skill](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1756.md)
-* [Low-skilled workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_212.md)
-* [Workers/professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1831.md)
-* [Workers in high-risk occupations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1665.md)
-* [Workers in essential industries](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1655.md)
-* [Essential sector workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_154.md)
-* [Essential workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1383.md)
-* [Workers in the technology sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1671.md)
-* [Occupational and workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1666.md)
-* [Low-income workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1258.md)
+* [Essential sector workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1756.md)
+* [Essential workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_212.md)
+* [Low-income workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1831.md)
+* [Low-skilled workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1665.md)
+* [Occupational and workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1655.md)
+* [Worker with mid-level skill](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_154.md)
+* [Workers in essential industries](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1383.md)
+* [Workers in high-risk occupations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1671.md)
+* [Workers in the technology sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1666.md)
+* [Workers/professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1258.md)
+
+## Risk affecting this stakeholder
+
+* [Increased inequality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1988.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -26,7 +30,7 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 
-## Risk affecting this stakeholder
+## Type of the stakeholder
 
-* [Increased inequality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1988.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

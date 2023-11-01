@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Limited capacity, high demand, waning effectiveness, distribution difficulties, and access disparities hinder efficient vaccination efforts.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_25.md)
+* [Limited capacity, high demand, waning effectiveness, distribution difficulties, and access disparities hinder efficient vaccination efforts.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_75.md)
 
 ## Closest similar item
 
-* [Lack of vaccine or cure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1733.md)
-* [Lack of drugs and vaccines](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1341.md)
-* [Lack of knowledge of infection status](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2761.md)
-* [Lack of knowledge on covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_624.md)
-* [Lack of medication and vaccines for covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1483.md)
-* [Lack of access to vaccination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3142.md)
-* [Lack of knowledge and understanding of vector-borne diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3070.md)
-* [Lack of covid-19 vaccine](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2277.md)
-* [Lack of vaccines and agent-specific drugs](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1528.md)
-* [Inadequate vaccination coverage](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3186.md)
+* [Inadequate vaccination coverage](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1733.md)
+* [Lack of access to vaccination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1341.md)
+* [Lack of covid-19 vaccine](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2761.md)
+* [Lack of drugs and vaccines](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_624.md)
+* [Lack of knowledge and understanding of vector-borne diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1483.md)
+* [Lack of knowledge of infection status](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3142.md)
+* [Lack of knowledge on covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3070.md)
+* [Lack of medication and vaccines for covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2277.md)
+* [Lack of vaccine or cure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1528.md)
+* [Lack of vaccines and agent-specific drugs](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3186.md)
 
 ## Mitigations of this risk
 

@@ -4,6 +4,6 @@
 
 ## This return can be realized by these benefits
 
-* [Identification of energy consumption drivers](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1340.md)
-* [Improved understanding of building energy use](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1342.md)
+* [Identification of energy consumption drivers](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1342.md)
+* [Improved understanding of building energy use](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1340.md)
 

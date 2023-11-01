@@ -4,34 +4,34 @@
 
 ## Category to which it belongs
 
-* [Improved indoor air quality and temperature control through advanced hvac technologies, air purifiers, and monitoring systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_129.md)
+* [Improved indoor air quality and temperature control through advanced hvac technologies, air purifiers, and monitoring systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_179.md)
 
 ## Closest similar item
 
-* [Improved hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_660.md)
-* [Hvac system modification](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2463.md)
-* [Hvac system modifications](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3192.md)
-* [Enhanced hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1517.md)
-* [Hvac system](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2580.md)
+* [Energy-efficient hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_660.md)
+* [Enhanced hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2463.md)
+* [Hvac system](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3192.md)
+* [Hvac system modification](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1517.md)
+* [Hvac system modifications](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2580.md)
 * [Hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_185.md)
-* [Improved hvac systems with high-efficiency filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1524.md)
-* [Energy-efficient hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_748.md)
-* [Hvac systems with improved ventilation and air filtration capabilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2264.md)
-* [Hvac technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1829.md)
+* [Hvac systems with improved ventilation and air filtration capabilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1524.md)
+* [Hvac technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_748.md)
+* [Improved hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2264.md)
+* [Improved hvac systems with high-efficiency filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1829.md)
+
+## Risks linked to this technology
+
+* [Poor ventilation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1418.md)
 
 ## This Technology belongs to this TechGroup
 
 * [Urban technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2270.md)
 
-## This technology is mentioned by
-
-* [Review and comparison of HVAC operation guidelines in different countries during the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_45.md)
-
 ## This Technology belongs to this TechSubgroup
 
 * [Hvac and air quality systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2136.md)
 
-## Risks linked to this technology
+## This technology is mentioned by
 
-* [Poor ventilation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1418.md)
+* [Review and comparison of HVAC operation guidelines in different countries during the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_45.md)
 

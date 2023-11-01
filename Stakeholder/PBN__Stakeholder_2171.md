@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [People at risk or affected by infectious diseases, including covid-19, and those involved in containment and response measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_195.md)
+* [People at risk or affected by infectious diseases, including covid-19, and those involved in containment and response measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_245.md)
 
 ## Closest similar item
 
-* [Individuals with mild or asymptomatic infections](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_893.md)
-* [Re-infected patients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1291.md)
+* [Individual in close proximity to an infected person](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_893.md)
+* [Individual in close proximity to infected individual](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1291.md)
 * [Individual in the vicinity of infected individual](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2132.md)
-* [Infected persons](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_114.md)
-* [Individual in close proximity to infected individual](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2110.md)
-* [Previously infected individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_465.md)
-* [Individual in close proximity to an infected person](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2273.md)
-* [Individual infected with covid-19](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2080.md)
-* [Infected individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_161.md)
-* [Re-infected individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1292.md)
+* [Individual infected with covid-19](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_114.md)
+* [Individuals with mild or asymptomatic infections](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2110.md)
+* [Infected individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_465.md)
+* [Infected persons](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2273.md)
+* [Previously infected individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2080.md)
+* [Re-infected individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_161.md)
+* [Re-infected patients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1292.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

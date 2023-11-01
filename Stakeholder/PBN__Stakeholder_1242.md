@@ -4,20 +4,24 @@
 
 ## Category to which it belongs
 
-* [A collection of diverse entities devoted to various causes, including mental and physical health, business, research, conservation, and social welfare.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_200.md)
+* [A collection of diverse entities devoted to various causes, including mental and physical health, business, research, conservation, and social welfare.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_250.md)
 
 ## Closest similar item
 
-* [Government and international organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2394.md)
-* [International organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_242.md)
-* [International and health organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2358.md)
-* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
-* [Global governing bodies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_50.md)
+* [Global governing bodies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2394.md)
+* [Government and authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_242.md)
+* [Government and international organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2358.md)
+* [Governmental entities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
+* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_50.md)
 * [Governments and businesses](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1244.md)
-* [National governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_51.md)
-* [Government and authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1614.md)
-* [Organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_186.md)
-* [Governmental entities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1603.md)
+* [International and health organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_51.md)
+* [International organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1614.md)
+* [National governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_186.md)
+* [Organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1603.md)
+
+## Risk affecting this stakeholder
+
+* [Trade-offs between efficiency and stability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1823.md)
 
 ## Risks that can be mitigated by this stakeholder
 
@@ -31,7 +35,8 @@
 
 * [International and health organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2358.md)
 
-## Risk affecting this stakeholder
+## Type of the stakeholder
 
-* [Trade-offs between efficiency and stability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1823.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

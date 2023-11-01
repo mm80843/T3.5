@@ -4,19 +4,19 @@
 
 ## Category to which it belongs
 
-* [The intersection of public health and technology, including mobile apps, messaging systems, data analytics, and ai, to promote health and educate communities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_104.md)
+* [The intersection of public health and technology, including mobile apps, messaging systems, data analytics, and ai, to promote health and educate communities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_154.md)
 
 ## Closest similar item
 
-* [Insurance providers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2704.md)
-* [Policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_480.md)
-* [Healthcare providers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1070.md)
-* [National health insurance nhi database](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3776.md)
-* [Policy support](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1607.md)
-* [Government policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1851.md)
-* [Access to healthcare](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3491.md)
-* [Assistance programs for healthcare providers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1281.md)
-* [Healthcare funding](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1852.md)
+* [Access to healthcare](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2704.md)
+* [Assistance programs for healthcare providers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_480.md)
+* [Government policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1070.md)
+* [Healthcare funding](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3776.md)
+* [Healthcare providers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1607.md)
+* [Insurance providers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1851.md)
+* [National health insurance nhi database](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3491.md)
+* [Policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1281.md)
+* [Policy support](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1852.md)
 * [Welfare policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2814.md)
 
 ## This Technology enables the following mitigations

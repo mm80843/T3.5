@@ -4,22 +4,26 @@
 
 ## Category to which it belongs
 
-* [A diverse range of individuals and groups involved in various fields, research, projects, media, teams, and organizations.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_191.md)
+* [A diverse range of individuals and groups involved in various fields, research, projects, media, teams, and organizations.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_241.md)
 
 ## Closest similar item
 
-* [Surgeons](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1168.md)
-* [Teams](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_363.md)
-* [Surgical trainees](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_42.md)
-* [Surgical educators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_776.md)
-* [Infection control teams](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1181.md)
-* [Operations team](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_293.md)
+* [Departments and teams](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1168.md)
+* [Infection control team](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_363.md)
+* [Infection control teams](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_42.md)
+* [Operations team](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_776.md)
+* [Surgeons](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1181.md)
+* [Surgical educators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_293.md)
 * [Surgical residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_777.md)
-* [Departments and teams](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1663.md)
+* [Surgical trainees](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1663.md)
 * [Team members](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_986.md)
-* [Infection control team](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_697.md)
+* [Teams](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_697.md)
 
 ## Risks that can be mitigated by this stakeholder
 
 * [Minimized surgery](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1257.md)
+
+## Type of the stakeholder
+
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
 

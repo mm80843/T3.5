@@ -4,32 +4,32 @@
 
 ## Category to which it belongs
 
-* [Enhancing risk management, crisis response, resilience building, and effective communication through comprehensive preparedness planning and strategic decision-making.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_63.md)
+* [Enhancing risk management, crisis response, resilience building, and effective communication through comprehensive preparedness planning and strategic decision-making.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_113.md)
 
 ## Closest similar item
 
-* [Risk management strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_836.md)
-* [Strengthen risk management and cooperation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_309.md)
-* [Improve risk preparedness](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_300.md)
-* [Improved risk preparedness](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4412.md)
-* [Risk communication strategy](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3323.md)
-* [Risk mapping](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4929.md)
-* [Bio-risk management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3218.md)
+* [Bio-risk management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_836.md)
+* [Improve risk preparedness](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_309.md)
+* [Improved risk preparedness](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_300.md)
+* [Risk communication strategy](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4412.md)
+* [Risk communication systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3323.md)
+* [Risk management strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4929.md)
+* [Risk mapping](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3218.md)
 * [Risk perception](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_379.md)
 * [Risk prevention measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_412.md)
-* [Risk communication systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3122.md)
+* [Strengthen risk management and cooperation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3122.md)
+
+## Risks possibly mitigated by this Mitigation
+
+
+## This Mitigation is enabled by the following technologies
+
 
 ## Property: has_MitigationPrinciple
 
 Identify and assess risks associated with value engineering and other project management processes
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## Property: has_MitigationSource
 
 * [Overcoming the Impact of COVID-19 Using Integrated Project Delivery Model](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_72.md)
-
-## This Mitigation is enabled by the following technologies
-
 

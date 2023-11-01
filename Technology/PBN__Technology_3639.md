@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Innovative technologies and systems that enable efficient and secure control, management, and interaction in various domains.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_109.md)
+* [Innovative technologies and systems that enable efficient and secure control, management, and interaction in various domains.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_159.md)
 
 ## Closest similar item
 
-* [Voice recognition](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3158.md)
-* [Voice recognition technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3715.md)
-* [Control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2369.md)
-* [Noise control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2235.md)
-* [Control systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3605.md)
-* [Individual controls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_195.md)
-* [Voice and face recognition](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3662.md)
-* [Smartphone control systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3237.md)
-* [Face and voice recognition](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3906.md)
-* [Remote control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3647.md)
+* [Control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3158.md)
+* [Control systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3715.md)
+* [Face and voice recognition](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2369.md)
+* [Individual controls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2235.md)
+* [Noise control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3605.md)
+* [Remote control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_195.md)
+* [Smartphone control systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3662.md)
+* [Voice and face recognition](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3237.md)
+* [Voice recognition](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3906.md)
+* [Voice recognition technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3647.md)
 
 ## This Technology enables the following mitigations
 

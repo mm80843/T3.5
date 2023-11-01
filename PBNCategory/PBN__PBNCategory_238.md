@@ -1,29 +1,12 @@
 [Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_238 
 
-# __Green space stakeholders and caretakers.__
+# __Spread accurate facts.__
 
 ## Items covered in this category
 
-* [Park visitors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1095.md)
-* [Gardeners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_799.md)
-* [Gardening clubs](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_803.md)
-* [Pest control services](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_919.md)
-* [Pest control service](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1726.md)
-* [Gardening clubs/members](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2434.md)
-* [Conservation sites](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1476.md)
-* [Conservation site](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2623.md)
-* [Gardener](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2449.md)
-* [Gardening club](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2433.md)
-* [Parks and recreation departments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_916.md)
-* [Park and recreation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1673.md)
-* [Park and recreation departments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_996.md)
-* [Park and recreation department](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1737.md)
-* [Park management agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1115.md)
-* [Park management agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2605.md)
-* [Park authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2611.md)
-* [Park management authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2614.md)
-* [Park management authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1508.md)
-* [Park maintenance organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1495.md)
-* [Park authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1098.md)
-* [Park visitor](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2606.md)
+* [Promote verified information](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_39.md)
+
+## Title of the category
+
+This category of Interventions describes actions taken to promote verified information. It suggests that the individuals in the list are likely involved in efforts to combat misinformation and promote accurate and reliable information. They may engage in activities such as fact-checking, disseminating verified sources, and educating others about the importance of relying on credible information. These interventions could be implemented in various domains, including public health, media literacy, and online platforms, with the aim of countering the spread of false or misleading information.
 

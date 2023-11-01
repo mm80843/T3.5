@@ -4,35 +4,35 @@
 
 ## Category to which it belongs
 
-* [Accurate and reliable knowledge dissemination and fact-checking through interdisciplinary collaboration and intelligent information feedback.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_122.md)
+* [Accurate and reliable knowledge dissemination and fact-checking through interdisciplinary collaboration and intelligent information feedback.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_172.md)
 
 ## Closest similar item
 
-* [Ontology development strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_715.md)
-* [Ontology interoperability techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_712.md)
+* [Established ontological models](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_715.md)
+* [Existing ontologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_712.md)
 * [Ontologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_710.md)
-* [Existing ontologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2333.md)
-* [Ontology-based approaches](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_713.md)
-* [Ontology development and integration tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2828.md)
-* [Ontology search engines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1343.md)
-* [Ontologies and semantic web](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2058.md)
-* [Ontology matching](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3766.md)
-* [Established ontological models](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1345.md)
-
-## This Technology belongs to this TechGroup
-
-* [Ai tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1316.md)
-
-## This technology is mentioned by
-
-* [The COVID-19 epidemiology and monitoring ontology](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_259.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Ontologies and semantic web](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2058.md)
+* [Ontologies and semantic web](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2333.md)
+* [Ontology development and integration tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_713.md)
+* [Ontology development strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2828.md)
+* [Ontology interoperability techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1343.md)
+* [Ontology matching](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2058.md)
+* [Ontology search engines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3766.md)
+* [Ontology-based approaches](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1345.md)
 
 ## Risks linked to this technology
 
 * [Lack of interoperability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_901.md)
 * [Logical inconsistencies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1917.md)
+
+## This Technology belongs to this TechGroup
+
+* [Ai tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1316.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Ontologies and semantic web](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2058.md)
+
+## This technology is mentioned by
+
+* [The COVID-19 epidemiology and monitoring ontology](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_259.md)
 

@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_119.md)
+* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_169.md)
 
 ## Closest similar item
 
-* [Distribution strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1418.md)
-* [Vaccine distribution](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1603.md)
+* [Air distribution evaluation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1418.md)
+* [Analysis of droplet distribution and transmission](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1603.md)
 * [Condom distribution](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2282.md)
-* [Analysis of droplet distribution and transmission](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3577.md)
+* [Distribution strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3577.md)
 * [Efficient gas distribution](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1045.md)
-* [Simulation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_387.md)
-* [Population density data](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3056.md)
+* [Population density data](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_387.md)
+* [Simulation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3056.md)
 * [Vaccination distribution systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3266.md)
-* [Air distribution evaluation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3578.md)
-* [Vaccine development and distribution](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1602.md)
+* [Vaccine development and distribution](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3578.md)
+* [Vaccine distribution](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1602.md)
 
 ## This Technology enables the following mitigations
 

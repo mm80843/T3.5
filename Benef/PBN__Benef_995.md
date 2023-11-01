@@ -2,26 +2,30 @@
 
 # __Pathogen inactivation__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-UVGI technology can effectively inactivate airborne pathogens, including viruses and bacteria, reducing the risk of infection transmission.
+* [Indoor Air Quality: Rethinking rules of building design strategies in post-pandemic architecture](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_206.md)
+* [Methods for air cleaning and protection of building occupants from airborne pathogens](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_240.md)
+
+## Category to which it belongs
+
+* [Effective control and elimination of infectious pathogens to prevent disease transmission and reduce the overall risk of infection.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_1.md)
 
 ## Description of actual returns pertaining to this benefit
 
-* [Private investors can benefit from increased demand and desirability of buildings with uv-based technologies, leading to higher asset value and potential premium rental rates.](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_1105.md)
-* [Implementation of uvgi systems can lead to a reduction in the risk of airborne infections, resulting in healthier occupants and improved productivity.](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_1300.md)
+* [Implementation of uvgi systems can lead to a reduction in the risk of airborne infections, resulting in healthier occupants and improved productivity.](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_1105.md)
+* [Private investors can benefit from increased demand and desirability of buildings with uv-based technologies, leading to higher asset value and potential premium rental rates.](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_1300.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [Methods for air cleaning and protection of building occupants from airborne pathogens](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_240.md)
-* [Indoor Air Quality: Rethinking rules of building design strategies in post-pandemic architecture](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_206.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [Occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_92.md)
+UVGI technology can effectively inactivate airborne pathogens, including viruses and bacteria, reducing the risk of infection transmission.
 
 ## Risks which can benefit from this action
 
 * [Uv-based technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_994.md)
 * [Uvgi](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_315.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [Occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_92.md)
 

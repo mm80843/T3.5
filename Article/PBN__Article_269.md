@@ -2,9 +2,21 @@
 
 # __Efficacy of an Automated Multiple Emitter Whole-Room Ultraviolet-C Disinfection System Against Coronaviruses MHV and MERS-CoV__
 
+## Benefits listed in this article
+
+* [Reduction of viral titers](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1271.md)
+
 ## DOI of the article
 
 10.1017/ice.2015.348
+
+## List of risks in an article
+
+* [Contamination of glass coverslips](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1164.md)
+* [Ineffectiveness of disinfection system](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1163.md)
+* [Insufficient virus reduction](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1160.md)
+* [Lack of protection for staff](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1161.md)
+* [Neglecting standard cleaning practices](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1162.md)
 
 ## Short summary of the article
 
@@ -14,6 +26,23 @@ This research study aimed to evaluate the effectiveness of the Surfacide multipl
 
 A machine called the Surfacide uses ultraviolet light to kill viruses and bacteria on surfaces. It has three big lights that rotate to shine light all around a room. Scientists tested the Surfacide on two viruses called MHV-A59 and MERS-CoV. They put the viruses on glass and then exposed them to the UV light for different amounts of time. After just a few minutes, the viruses were gone and couldn't make people sick anymore. This is important because it means the Surfacide machine could help keep hospitals clean and stop the spread of viruses.
 
+## This article mentions these technologies
+
+* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
+* [Sterile glass coverslips](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_255.md)
+
+## This article points to following mitigation
+
+* [Conducting experiments under bsl3 protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3340.md)
+* [Fixation of cells with formalin](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3334.md)
+* [Inoculation of virus onto hela cells](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3341.md)
+* [Layering dmem to prevent drying](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3335.md)
+* [Loading of virus onto glass coverslips](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3336.md)
+* [Plaque count determination](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3337.md)
+* [Surfacide uv-c disinfection system](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3338.md)
+* [Use of bleach-soaked pads to prevent virus spread](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3339.md)
+* [Use of crystal violet for plaque detection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3342.md)
+
 ## Title of the article
 
 Efficacy of an Automated Multiple Emitter Whole-Room Ultraviolet-C Disinfection System Against Coronaviruses MHV and MERS-CoV
@@ -21,33 +50,4 @@ Efficacy of an Automated Multiple Emitter Whole-Room Ultraviolet-C Disinfection 
 ## Year of publication
 
 2016
-
-## Benefits listed in this article
-
-* [Reduction of viral titers](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1271.md)
-
-## List of risks in an article
-
-* [Lack of protection for staff](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1164.md)
-* [Ineffectiveness of disinfection system](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1160.md)
-* [Neglecting standard cleaning practices](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1163.md)
-* [Contamination of glass coverslips](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1161.md)
-* [Insufficient virus reduction](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1162.md)
-
-## This article points to following mitigation
-
-* [Layering dmem to prevent drying](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3340.md)
-* [Surfacide uv-c disinfection system](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3334.md)
-* [Loading of virus onto glass coverslips](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3335.md)
-* [Inoculation of virus onto hela cells](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3336.md)
-* [Plaque count determination](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3337.md)
-* [Conducting experiments under bsl3 protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3338.md)
-* [Use of bleach-soaked pads to prevent virus spread](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3339.md)
-* [Fixation of cells with formalin](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3341.md)
-* [Use of crystal violet for plaque detection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3342.md)
-
-## This article mentions these technologies
-
-* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
-* [Sterile glass coverslips](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_255.md)
 

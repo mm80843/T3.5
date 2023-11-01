@@ -2,23 +2,27 @@
 
 # __Mitigating job displacement__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Softening the labor market impact of automation through policies such as unemployment insurance and job transition programs helps workers adjust to new job opportunities, reducing unemployment and improving social welfare.
+* [Pandemics and Automation: Will the Lost Jobs Come Back?](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_98.md)
+
+## Category to which it belongs
+
+* [Safer and more secure working conditions with improved employee well-being and stability.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_49.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Private investors benefit from a stable labor market and reduced labor market disruptions, reducing costs associated with layoffs and turnover.](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_524.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [Pandemics and Automation: Will the Lost Jobs Come Back?](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_98.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [Workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_128.md)
+Softening the labor market impact of automation through policies such as unemployment insurance and job transition programs helps workers adjust to new job opportunities, reducing unemployment and improving social welfare.
 
 ## Risks which can benefit from this action
 
 * [Softening labor market impact](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_496.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [Workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_128.md)
 

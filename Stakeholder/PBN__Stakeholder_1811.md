@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [A comprehensive array of various organizations and governing bodies related to diverse industries and sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_229.md)
+* [A comprehensive array of various organizations and governing bodies related to diverse industries and sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_279.md)
 
 ## Closest similar item
 
-* [Social media companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_555.md)
-* [Social medium user](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2448.md)
+* [Social institution](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_555.md)
+* [Social media companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2448.md)
 * [Social medium platform](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1815.md)
-* [Social organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1489.md)
-* [Social service organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2447.md)
-* [Social service organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_660.md)
-* [Social institution](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2415.md)
-* [Social workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_693.md)
-* [Social organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2455.md)
-* [Social worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2439.md)
+* [Social medium user](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1489.md)
+* [Social organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2447.md)
+* [Social organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_660.md)
+* [Social service organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2415.md)
+* [Social service organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_693.md)
+* [Social worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2455.md)
+* [Social workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2439.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

@@ -2,6 +2,17 @@
 
 # __Early detection__
 
+## Category to which it belongs
+
+* [Identifying an issue at its inception.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_230.md)
+
+## This intervention is used in the following blueprints
+
+* [Infection tracking](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_0.md)
+* [Rotating shift schedule](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_17.md)
+* [Tracking and enforcing use of personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_19.md)
+* [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_20.md)
+
 ## Property: has_BP_InterventionKey
 
 MP3
@@ -9,15 +20,4 @@ MP3
 ## Property: has_BP_InterventionTitle
 
 Early detection
-
-## Category to which it belongs
-
-* [Identifying an issue at its inception.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_180.md)
-
-## This intervention is used in the following blueprints
-
-* [Rotating shift schedule](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_0.md)
-* [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_17.md)
-* [Tracking and enforcing use of personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_19.md)
-* [Infection tracking](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_20.md)
 

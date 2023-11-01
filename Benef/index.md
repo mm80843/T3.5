@@ -1,6 +1,6 @@
 [Source](https://github.com/mm80843/T3.5/blob/pages/index.md)
 
-# Benef -- 1408 instances.
+# Benef -- 1409 instances.
 
 * [Accelerated drug testing](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_661.md)
 * [Accelerated recovery and improved patient satisfaction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1114.md)
@@ -1405,4 +1405,5 @@
 * [Work-life balance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_452.md)
 * [Worker safety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1011.md)
 * [Workers’ safety and health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_676.md)
+* [Workers’ safety and health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1408.md)
 * [Workplace adaptation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_714.md)

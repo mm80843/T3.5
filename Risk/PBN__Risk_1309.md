@@ -2,42 +2,34 @@
 
 # __Inequitable access to healthcare__
 
+## Articles mentionning the risk
+
+* [Epidemics, Planning and the City: A Special Issue of Planning Perspectives](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_152.md)
+
 ## Category to which it belongs
 
-* [The impact of various factors on public health, including unhealthy behaviors, limited access to healthcare, and food insecurity.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_3.md)
+* [The impact of various factors on public health, including unhealthy behaviors, limited access to healthcare, and food insecurity.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_53.md)
 
 ## Closest similar item
 
-* [Lack of equitable access to healthcare](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1698.md)
+* [Healthcare access](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1698.md)
 * [Inequality in access to healthcare](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1970.md)
-* [Healthcare access](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2483.md)
-* [Limited access to healthcare](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_122.md)
-* [Limited healthcare access](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3058.md)
-* [Limited access to healthcare services](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1960.md)
-* [Lack of healthcare access](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3144.md)
+* [Insufficient healthcare access](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2483.md)
+* [Lack of access to healthcare services](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_122.md)
+* [Lack of equitable access to healthcare](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3058.md)
+* [Lack of healthcare access](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1960.md)
+* [Limited access to healthcare](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3144.md)
 * [Limited access to healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3181.md)
-* [Lack of access to healthcare services](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2469.md)
-* [Insufficient healthcare access](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1390.md)
+* [Limited access to healthcare services](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2469.md)
+* [Limited healthcare access](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1390.md)
 
 ## Description of the risk
 
 Unequal access to healthcare services exacerbates the impact of epidemics on marginalized populations.
 
-## Type of the risk
-
-* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Is the risk affecting GBN scales
 
 * [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
-
-## Type of impact of the risk (according to ISO37100)
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
-
-## Type of purpose of the risk (according to ISO37100)
-
-* [Governance, empowerment and engagement](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_17.md)
 
 ## Mitigations of this risk
 
@@ -47,26 +39,34 @@ Unequal access to healthcare services exacerbates the impact of epidemics on mar
 
 Higher infection rates, disproportionate mortality rates, increased health disparities.
 
+## People affected by this risk
+
+* [Marginalized populations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_127.md)
+* [Vulnerable populations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_275.md)
+
 ## Stakeholders who can mitigate this risk
 
 * [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
 * [Healthcare organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_216.md)
 * [Social welfare organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_830.md)
 
-## Articles mentionning the risk
-
-* [Epidemics, Planning and the City: A Special Issue of Planning Perspectives](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_152.md)
-
-## People affected by this risk
-
-* [Marginalized populations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_275.md)
-* [Vulnerable populations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_127.md)
-
 ## Technologies linked to the risk
 
-* [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_73.md)
-* [Mobile health clinics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_475.md)
-* [Community health workers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_476.md)
+* [Community health workers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_73.md)
+* [Mobile health clinics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_476.md)
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_475.md)
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Governance, empowerment and engagement](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_17.md)
+
+## Type of the risk
+
+* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 

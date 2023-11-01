@@ -4,26 +4,26 @@
 
 ## Category to which it belongs
 
-* [Promotion and implementation of clean and safe practices, including the use of sanitizers, soap, proper hygiene supplies, and improved sanitation protocols.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_130.md)
+* [Promotion and implementation of clean and safe practices, including the use of sanitizers, soap, proper hygiene supplies, and improved sanitation protocols.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_180.md)
 
 ## Closest similar item
 
 * [Improved sanitation and hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_525.md)
 * [Improved sanitation infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_998.md)
-* [Increased cleaning and sanitation protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1822.md)
-* [Sanitation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1216.md)
-* [Improved water management and sanitation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_980.md)
-* [Sanitation facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_624.md)
-* [Sanitation and safety](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2179.md)
-* [Sanitation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_246.md)
-* [Sanitation supplies and facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2833.md)
+* [Improved water management and sanitation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1822.md)
+* [Increased cleaning and sanitation protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1216.md)
+* [Sanitation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_980.md)
+* [Sanitation and safety](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_624.md)
+* [Sanitation facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2179.md)
+* [Sanitation supplies and facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_246.md)
+* [Sanitation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2833.md)
 * [Sanitation technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_30.md)
-
-## This technology is mentioned by
-
-* [Urban nature in a time of crisis: recreational use of green space increases during the COVID-19 outbreak in Oslo, Norway](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_256.md)
 
 ## Risks linked to this technology
 
 * [Lack of hygiene](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2261.md)
+
+## This technology is mentioned by
+
+* [Urban nature in a time of crisis: recreational use of green space increases during the COVID-19 outbreak in Oslo, Norway](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_256.md)
 

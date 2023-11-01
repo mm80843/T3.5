@@ -4,19 +4,19 @@
 
 ## Category to which it belongs
 
-* [Promote self-cleaning spaces, implement touchless technologies, and use natural light to establish safer environments.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_80.md)
+* [Promote self-cleaning spaces, implement touchless technologies, and use natural light to establish safer environments.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_130.md)
 
 ## Closest similar item
 
-* [Use of coatings that have been proven safe for human health and the environment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1629.md)
-* [Applying antimicrobial coatings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3152.md)
+* [Antiviral coatings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1629.md)
+* [Antiviral surface coatings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3152.md)
 * [Application of antimicrobial coatings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_574.md)
-* [Quaternary ammonium polymer coating surfacewise2™](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3838.md)
-* [Development of robust antiviral coatings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_920.md)
-* [Application of antiviral surface coatings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_921.md)
-* [Antiviral surface coatings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_917.md)
-* [Antiviral coatings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3285.md)
-* [Regular monitoring of coated surfaces for changes in viral viability and development of alternative coatings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1630.md)
+* [Application of antiviral surface coatings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3838.md)
+* [Applying antimicrobial coatings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_920.md)
+* [Development of robust antiviral coatings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_921.md)
+* [Quaternary ammonium polymer coating surfacewise2™](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_917.md)
+* [Regular monitoring of coated surfaces for changes in viral viability and development of alternative coatings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3285.md)
+* [Use of coatings that have been proven safe for human health and the environment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1630.md)
 * [Use of nanomaterials and graphene-based coatings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_919.md)
 
 ## Risks possibly mitigated by this Mitigation

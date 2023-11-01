@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Managers responsible for overseeing various aspects of facilities and operations, including supply chain, construction projects, healthcare, property, and crisis.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_205.md)
+* [Managers responsible for overseeing various aspects of facilities and operations, including supply chain, construction projects, healthcare, property, and crisis.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_255.md)
 
 ## Closest similar item
 
-* [Healthcare manager](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1826.md)
-* [Healthcare personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_185.md)
-* [Healthcare administration](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1834.md)
-* [Healthcare administrators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_557.md)
-* [Nursing managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_203.md)
-* [Health care personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1060.md)
+* [Health care personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1826.md)
+* [Healthcare administration](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_185.md)
+* [Healthcare administrators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1834.md)
+* [Healthcare manager](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_557.md)
+* [Healthcare personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_203.md)
+* [Healthcare professional](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1060.md)
 * [Healthcare staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_139.md)
-* [Hospital management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_239.md)
-* [Healthcare professional](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1850.md)
-* [Healthcare worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1833.md)
+* [Healthcare worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_239.md)
+* [Hospital management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1850.md)
+* [Nursing managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1833.md)
 
 ## Risks that can be mitigated by this stakeholder
 
@@ -30,4 +30,8 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Healthcare workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_68.md)
+
+## Type of the stakeholder
+
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
 

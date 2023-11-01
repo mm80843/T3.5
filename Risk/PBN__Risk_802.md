@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The spread of disease through direct and indirect contact in various environments and social settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_32.md)
+* [The spread of disease through direct and indirect contact in various environments and social settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_82.md)
 
 ## Closest similar item
 
-* [Faecal-oral transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1325.md)
-* [Fecal-oral transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1544.md)
-* [Potential fecal-oral transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1925.md)
-* [Transmission through anal secretions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_801.md)
-* [Transmission of infection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2772.md)
+* [Disease transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1325.md)
+* [Faecal-oral transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1544.md)
+* [Fecal-oral transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1925.md)
+* [Infectious disease transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_801.md)
+* [Potential fecal-oral transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2772.md)
 * [Transmission from infected individuals](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3273.md)
 * [Transmission of germs](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2428.md)
-* [Infectious disease transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_942.md)
+* [Transmission of infection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_942.md)
 * [Transmission of the disease](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3250.md)
-* [Disease transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_489.md)
+* [Transmission through anal secretions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_489.md)
 
 ## Mitigations of this risk
 

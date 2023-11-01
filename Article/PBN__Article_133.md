@@ -2,9 +2,32 @@
 
 # __Respiratory pandemics, urban planning and design: A multidisciplinary rapid review of the literature__
 
+## Benefits listed in this article
+
+* [Creation of high-quality open public spaces that facilitate npis](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_674.md)
+* [Effective prevention of disease spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_671.md)
+* [Improved air quality in buildings and public spaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_672.md)
+* [Integration of health and well-being into urban planning policies](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_673.md)
+* [Resilient transport infrastructure to prevent virus spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_670.md)
+
 ## DOI of the article
 
 10.1016/j.cities.2022.103767
+
+## List of risks in an article
+
+* [Inadequate sanitation and hygiene](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1022.md)
+* [Inadequate ventilation in buildings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1433.md)
+* [Lack of public awareness and education](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1430.md)
+* [Overcrowding in urban areas](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1431.md)
+* [Spread through air travel](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1432.md)
+
+## Referenced by other articles
+
+* [An investigation of transmission control measures during the first 50 days of the COVID-19 epidemic in China](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_147.md)
+* [Pandemic stricken cities on lockdown. Where are our planning and design professionals [now, then and into the future]?](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_22.md)
+* [Physical interventions to interrupt or reduce the spread of respiratory viruses: systematic review](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_318.md)
+* [The COVID-19 pandemic: Impacts on cities and major lessons for urban planning, design, and management](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_197.md)
 
 ## Short summary of the article
 
@@ -14,12 +37,31 @@ This research abstract summarizes a rapid review of the multidisciplinary litera
 
 Cities and urban living are important in the spread of respiratory pandemics like COVID-19. Urban planning and design can help prevent the spread of diseases by creating healthy environments. Measures like handwashing, wearing masks, and social distancing are important in cities. The way cities are built, such as the design of buildings and streets, can also impact the spread of pandemics. Local governments and communities need to work together to respond to and prepare for respiratory pandemics.
 
-## Referenced by other articles
+## This article mentions these technologies
 
-* [Pandemic stricken cities on lockdown. Where are our planning and design professionals [now, then and into the future]?](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_147.md)
-* [Physical interventions to interrupt or reduce the spread of respiratory viruses: systematic review](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_22.md)
-* [The COVID-19 pandemic: Impacts on cities and major lessons for urban planning, design, and management](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_318.md)
-* [An investigation of transmission control measures during the first 50 days of the COVID-19 epidemic in China](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_197.md)
+* [Air filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_488.md)
+* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_469.md)
+* [Crowd monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_52.md)
+* [Educational campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_203.md)
+* [Handwashing stations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+* [Improved hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_47.md)
+* [Natural ventilation design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_251.md)
+* [Public health messaging systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_700.md)
+* [Sanitation infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_660.md)
+* [Smart city technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_665.md)
+* [Social media platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_701.md)
+* [Temperature screenings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_623.md)
+* [Travel bans](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_699.md)
+* [Urban planning regulations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_702.md)
+* [Water purification systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_703.md)
+
+## This article points to following mitigation
+
+* [Environmental measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_416.md)
+* [Personal protective measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3761.md)
+* [Social distancing measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3763.md)
+* [Travel-related measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3762.md)
+* [Urban planning and design policies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1366.md)
 
 ## Title of the article
 
@@ -28,46 +70,4 @@ Respiratory pandemics, urban planning and design: A multidisciplinary rapid revi
 ## Year of publication
 
 2022
-
-## Benefits listed in this article
-
-* [Effective prevention of disease spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_670.md)
-* [Improved air quality in buildings and public spaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_671.md)
-* [Creation of high-quality open public spaces that facilitate npis](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_672.md)
-* [Integration of health and well-being into urban planning policies](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_673.md)
-* [Resilient transport infrastructure to prevent virus spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_674.md)
-
-## List of risks in an article
-
-* [Overcrowding in urban areas](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1022.md)
-* [Inadequate ventilation in buildings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1431.md)
-* [Spread through air travel](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1430.md)
-* [Inadequate sanitation and hygiene](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1432.md)
-* [Lack of public awareness and education](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1433.md)
-
-## This article points to following mitigation
-
-* [Urban planning and design policies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3763.md)
-* [Social distancing measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_416.md)
-* [Personal protective measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3761.md)
-* [Travel-related measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3762.md)
-* [Environmental measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1366.md)
-
-## This article mentions these technologies
-
-* [Air filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_203.md)
-* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
-* [Social media platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_47.md)
-* [Improved hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_660.md)
-* [Travel bans](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_700.md)
-* [Urban planning regulations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_52.md)
-* [Smart city technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_469.md)
-* [Crowd monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_488.md)
-* [Educational campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_251.md)
-* [Temperature screenings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_699.md)
-* [Sanitation infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_702.md)
-* [Water purification systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_623.md)
-* [Handwashing stations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_665.md)
-* [Natural ventilation design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_701.md)
-* [Public health messaging systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_703.md)
 

@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Individuals living in densely populated neighborhoods, informal settlements, or substandard housing, including migrants and those facing eviction, who may also reside in underserved communities without basic amenities or access to clean water.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_228.md)
+* [Individuals living in densely populated neighborhoods, informal settlements, or substandard housing, including migrants and those facing eviction, who may also reside in underserved communities without basic amenities or access to clean water.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_278.md)
 
 ## Closest similar item
 
-* [Individuals in socially disadvantaged areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1316.md)
-* [Especially socially disadvantaged individual](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2131.md)
-* [Socially disadvantaged group](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2109.md)
-* [Individual from lower socio-economic background](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2303.md)
-* [Individuals from socioeconomically disadvantaged groups](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_375.md)
-* [Socially disadvantaged groups](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_199.md)
-* [Socially and economically disadvantaged group](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2091.md)
-* [Especially socially disadvantaged individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1061.md)
-* [Individuals from lower socio-economic backgrounds](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_743.md)
-* [Individual in deprived area](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2158.md)
+* [Especially socially disadvantaged individual](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1316.md)
+* [Especially socially disadvantaged individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2131.md)
+* [Individual from lower socio-economic background](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2109.md)
+* [Individual in deprived area](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2303.md)
+* [Individuals from lower socio-economic backgrounds](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_375.md)
+* [Individuals from socioeconomically disadvantaged groups](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_199.md)
+* [Individuals in socially disadvantaged areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2091.md)
+* [Socially and economically disadvantaged group](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1061.md)
+* [Socially disadvantaged group](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_743.md)
+* [Socially disadvantaged groups](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2158.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

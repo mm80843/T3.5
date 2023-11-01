@@ -2,26 +2,26 @@
 
 # __Uvgi systems__
 
-## Link between Blueprint and General ontology
-
-* [UV/UVGI/Irradation](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_15.md)
-
 ## Category to which it belongs
 
-* [Lighting solutions that utilize ultraviolet technology for germicidal purposes, energy efficiency, and control of natural light.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_147.md)
+* [Lighting solutions that utilize ultraviolet technology for germicidal purposes, energy efficiency, and control of natural light.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_197.md)
 
 ## Closest similar item
 
-* [Uvgi system](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3874.md)
-* [Uvgi](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3152.md)
-* [Design and engineering solutions for upper-room uvgi systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_257.md)
-* [Uvgi lamps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2500.md)
-* [Uvc and uvgi lights](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2688.md)
+* [Cost-effective uv systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3874.md)
+* [Design and engineering solutions for upper-room uvgi systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3152.md)
+* [Ultraviolet uv lamps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_257.md)
+* [Uv lamps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2500.md)
+* [Uv light systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2688.md)
 * [Uv/uvgi/irradation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3900.md)
-* [Uv light systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_880.md)
-* [Cost-effective uv systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1160.md)
-* [Uv lamps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2583.md)
-* [Ultraviolet uv lamps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2798.md)
+* [Uvc and uvgi lights](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_880.md)
+* [Uvgi](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1160.md)
+* [Uvgi lamps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2583.md)
+* [Uvgi system](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2798.md)
+
+## Link between Blueprint and General ontology
+
+* [UV/UVGI/Irradation](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_15.md)
 
 ## This Technology belongs to this TechGroup
 
@@ -35,6 +35,6 @@
 
 ## This Technology enables the following mitigations
 
-* [Ultraviolet germicidal irradiation uvgi](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3304.md)
-* [Ultraviolet germicidal irradiation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4345.md)
+* [Ultraviolet germicidal irradiation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3304.md)
+* [Ultraviolet germicidal irradiation uvgi](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4345.md)
 

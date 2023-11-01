@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Building design and construction incorporate biophilic principles, modular techniques, and flexible layouts to create sustainable, resilient, and adaptable spaces.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_138.md)
+* [Building design and construction incorporate biophilic principles, modular techniques, and flexible layouts to create sustainable, resilient, and adaptable spaces.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_188.md)
 
 ## Closest similar item
 
-* [Specialized room design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2637.md)
-* [Flexible design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2652.md)
-* [Flexible furniture](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2644.md)
+* [Adjustable walls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2637.md)
+* [Flexible and adaptable public space designs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2652.md)
+* [Flexible design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2644.md)
 * [Flexible floor plans](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3315.md)
-* [Use modular design systems and adjustable walls/screens in apartment layouts](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1265.md)
-* [Room dividers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1002.md)
-* [Flexible layout](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1778.md)
-* [Flexible shelving](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3562.md)
-* [Flexible and adaptable public space designs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_724.md)
-* [Adjustable walls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3660.md)
+* [Flexible furniture](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1265.md)
+* [Flexible layout](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1002.md)
+* [Flexible shelving](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1778.md)
+* [Room dividers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3562.md)
+* [Specialized room design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_724.md)
+* [Use modular design systems and adjustable walls/screens in apartment layouts](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3660.md)
 
 ## This Technology enables the following mitigations
 

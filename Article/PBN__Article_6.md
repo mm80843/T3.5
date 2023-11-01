@@ -2,9 +2,24 @@
 
 # __Urban design attributes and resilience: COVID-19 evidence from New York City__
 
+## Benefits listed in this article
+
+* [Improved pandemic resilience](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_28.md)
+* [Lower infection rates](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_29.md)
+* [Lower vulnerability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_30.md)
+* [Reduced infection risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_31.md)
+* [Reduced vulnerability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_32.md)
+
 ## DOI of the article
 
 10.5334/bc.130
+
+## List of risks in an article
+
+* [Urban activities and points of interests pois](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19.md)
+* [Urban density and crowding](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_16.md)
+* [Urban inequality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2353.md)
+* [Urban mobility and commute patterns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_295.md)
 
 ## Short summary of the article
 
@@ -14,6 +29,30 @@ This research abstract summarizes a study that examines the relationship between
 
 In this study, researchers looked at how different aspects of cities can affect the spread of diseases like COVID-19. They studied four key factors: urban density and crowding, urban mobility, urban activities, and urban inequality. They found that high residential building density, which means more people living close together, can actually be good for pandemic resilience. However, crowded buildings and rooms can increase the risk of infection. They also found that long commute times on public transportation can increase the risk of spreading the virus. The study suggested that cities should focus on things like mixed land use, shorter commute times, and access to essential services like grocery stores and parks to make them more resilient to future pandemics.
 
+## This article mentions these technologies
+
+* [Alternative modes of transportation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
+* [Equitable urban planning and policies to address spatial inequalities and improve social and economic conditions in marginalized communities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1988.md)
+* [Face mask usage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1989.md)
+* [Physical distancing measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1987.md)
+* [Urban planning and design strategies to manage population density and promote a well-distributed urban development](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1991.md)
+* [Urban planning and design strategies to manage the distribution and density of pois](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1992.md)
+
+## This article points to following mitigation
+
+* [Active transportation infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5227.md)
+* [Adequate green space allocation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3694.md)
+* [Adherence to physical distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_20.md)
+* [Affordable housing with resilient building typologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5231.md)
+* [Balanced allocation of urban services and facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5232.md)
+* [Enhanced communication technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5228.md)
+* [Horizontal urban development](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5229.md)
+* [Improved public transportation systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5230.md)
+* [Improved ventilation and sunlight exposure in buildings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5225.md)
+* [Increase availability of healthcare resources](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5233.md)
+* [Proximities between jobs and homes](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_698.md)
+* [Use of face masks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5226.md)
+
 ## Title of the article
 
 Urban design attributes and resilience: COVID-19 evidence from New York City
@@ -21,43 +60,4 @@ Urban design attributes and resilience: COVID-19 evidence from New York City
 ## Year of publication
 
 2021
-
-## Benefits listed in this article
-
-* [Improved pandemic resilience](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_28.md)
-* [Reduced infection risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_29.md)
-* [Lower infection rates](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_30.md)
-* [Reduced vulnerability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_31.md)
-* [Lower vulnerability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_32.md)
-
-## List of risks in an article
-
-* [Urban mobility and commute patterns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2352.md)
-* [Urban density and crowding](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_16.md)
-* [Urban activities and points of interests pois](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2353.md)
-* [Urban inequality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19.md)
-
-## This article points to following mitigation
-
-* [Horizontal urban development](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_20.md)
-* [Active transportation infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3694.md)
-* [Improved public transportation systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5231.md)
-* [Balanced allocation of urban services and facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5232.md)
-* [Adequate green space allocation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5228.md)
-* [Affordable housing with resilient building typologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5229.md)
-* [Proximities between jobs and homes](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5230.md)
-* [Adherence to physical distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5225.md)
-* [Increase availability of healthcare resources](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5226.md)
-* [Use of face masks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_698.md)
-* [Improved ventilation and sunlight exposure in buildings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5227.md)
-* [Enhanced communication technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5233.md)
-
-## This article mentions these technologies
-
-* [Urban planning and design strategies to manage population density and promote a well-distributed urban development](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1987.md)
-* [Equitable urban planning and policies to address spatial inequalities and improve social and economic conditions in marginalized communities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1992.md)
-* [Alternative modes of transportation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1990.md)
-* [Face mask usage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1989.md)
-* [Physical distancing measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1988.md)
-* [Urban planning and design strategies to manage the distribution and density of pois](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1991.md)
 

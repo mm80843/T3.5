@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [A diverse group of specialists and professionals with expertise in risk assessment, data analysis, technology, communication, legal matters, and various domains.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_209.md)
+* [A diverse group of specialists and professionals with expertise in risk assessment, data analysis, technology, communication, legal matters, and various domains.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_259.md)
 
 ## Closest similar item
 
-* [Communication expert](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1816.md)
-* [Communication team](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_967.md)
-* [Linguistic experts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1593.md)
-* [Technical experts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_716.md)
-* [Technical expert](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2563.md)
-* [Communication agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1805.md)
-* [Communication agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_544.md)
-* [Experts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_538.md)
-* [It experts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1466.md)
-* [Communication entities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1797.md)
+* [Communication agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1816.md)
+* [Communication agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_967.md)
+* [Communication entities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1593.md)
+* [Communication expert](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_716.md)
+* [Communication team](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2563.md)
+* [Experts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1805.md)
+* [It experts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_544.md)
+* [Linguistic experts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_538.md)
+* [Technical expert](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1466.md)
+* [Technical experts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1797.md)
 
 ## Risks that can be mitigated by this stakeholder
 
@@ -30,4 +30,8 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Communication entities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1797.md)
+
+## Type of the stakeholder
+
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
 

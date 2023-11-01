@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Advanced analytics and simulation techniques can be used to study complex systems and make predictions using artificial intelligence and machine learning, as well as optimize processes and analyze data efficiently.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_107.md)
+* [Advanced analytics and simulation techniques can be used to study complex systems and make predictions using artificial intelligence and machine learning, as well as optimize processes and analyze data efficiently.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_157.md)
 
 ## Closest similar item
 
-* [Machine learning algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2555.md)
-* [Machine learning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2041.md)
-* [Artificial intelligence and machine learning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2034.md)
-* [Ai and machine learning for data processing and modeling](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_754.md)
-* [Data mining](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2423.md)
-* [Ai algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_149.md)
-* [Advanced data analysis algorithms and machine learning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_173.md)
-* [Research methodologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_897.md)
-* [Deep learning algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3213.md)
-* [Computational models](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3335.md)
+* [Advanced data analysis algorithms and machine learning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2555.md)
+* [Ai algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2041.md)
+* [Ai and machine learning for data processing and modeling](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2034.md)
+* [Artificial intelligence and machine learning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_754.md)
+* [Computational models](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2423.md)
+* [Data mining](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_149.md)
+* [Deep learning algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_173.md)
+* [Machine learning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_897.md)
+* [Machine learning algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3213.md)
+* [Research methodologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3335.md)
 
 ## This Technology enables the following mitigations
 

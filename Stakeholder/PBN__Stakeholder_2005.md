@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [A comprehensive array of various organizations and governing bodies related to diverse industries and sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_229.md)
+* [A comprehensive array of various organizations and governing bodies related to diverse industries and sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_279.md)
 
 ## Closest similar item
 
-* [Manufacturing companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1148.md)
-* [Manufacturing industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1211.md)
-* [Company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1440.md)
-* [Manufacturing and industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1875.md)
-* [Manufacturer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1953.md)
-* [Manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_34.md)
-* [Companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_67.md)
-* [Technology company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2040.md)
-* [Construction company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_619.md)
-* [Tech company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2538.md)
+* [Companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1148.md)
+* [Company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1211.md)
+* [Construction company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1440.md)
+* [Manufacturer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1875.md)
+* [Manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1953.md)
+* [Manufacturing and industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_34.md)
+* [Manufacturing companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_67.md)
+* [Manufacturing industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2040.md)
+* [Tech company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_619.md)
+* [Technology company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2538.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

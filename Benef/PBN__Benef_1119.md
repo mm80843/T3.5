@@ -2,23 +2,27 @@
 
 # __Reduction in infectiousness__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Disinfecting surfaces significantly reduces coronavirus infectivity within 1 minute exposure time
+* [Persistence of coronaviruses on inanimate surfaces and their inactivation with biocidal agents](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_233.md)
+
+## Category to which it belongs
+
+* [Effective control and elimination of infectious pathogens to prevent disease transmission and reduce the overall risk of infection.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_1.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in surface disinfectants would benefit from improved asset value increased demand for disinfectant products](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_1255.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [Persistence of coronaviruses on inanimate surfaces and their inactivation with biocidal agents](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_233.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [Public and healthcare settings](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_440.md)
+Disinfecting surfaces significantly reduces coronavirus infectivity within 1 minute exposure time
 
 ## Risks which can benefit from this action
 
 * [Surface disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1130.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [Public and healthcare settings](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_440.md)
 

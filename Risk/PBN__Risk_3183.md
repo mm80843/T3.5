@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Interoperability challenges, high costs, limited communication, and lack of resources impact various sectors globally.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_22.md)
+* [Interoperability challenges, high costs, limited communication, and lack of resources impact various sectors globally.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_72.md)
 
 ## Closest similar item
 
-* [Delayed treatment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3219.md)
-* [Delayed decision making](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_659.md)
-* [Delay in control measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2155.md)
-* [Delay in project](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2802.md)
+* [Delay in control measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3219.md)
+* [Delay in project](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_659.md)
+* [Delay in works due to lockdown](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2155.md)
+* [Delayed decision making](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2802.md)
 * [Delayed reporting](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2503.md)
-* [Delay in works due to lockdown](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_498.md)
+* [Delayed treatment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_498.md)
 * [Delays due to lack of materials](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2806.md)
-* [Project delays](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_554.md)
+* [Improper implementation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_554.md)
 * [Inconsistent implementation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2533.md)
-* [Improper implementation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_297.md)
+* [Project delays](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_297.md)
 
 ## Mitigations of this risk
 

@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [People from diverse backgrounds and circumstances, including marginalized individuals, with different abilities, and in various environments.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_215.md)
+* [People from diverse backgrounds and circumstances, including marginalized individuals, with different abilities, and in various environments.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_265.md)
 
 ## Closest similar item
 
-* [Individuals with different gender identities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1419.md)
+* [Age and gender](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1419.md)
 * [Gender defined individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2090.md)
 * [Individual](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2477.md)
-* [Males and females](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1418.md)
+* [Individual from stigmatized group](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1418.md)
 * [Individual in isolation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2146.md)
-* [Age and gender](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2234.md)
-* [Organizations promoting gender equality](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1361.md)
-* [Individual in multilingual environment](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2319.md)
-* [Individual from stigmatized group](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2119.md)
-* [Individuals with specific conditions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2097.md)
+* [Individual in multilingual environment](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2234.md)
+* [Individuals with different gender identities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1361.md)
+* [Individuals with specific conditions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2319.md)
+* [Males and females](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2119.md)
+* [Organizations promoting gender equality](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2097.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

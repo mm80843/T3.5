@@ -2,23 +2,27 @@
 
 # __Reduction in indirect transmission__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Prevents transmission from contaminated surfaces
+* [COVID-19 and its Modes of Transmission](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_225.md)
+
+## Category to which it belongs
+
+* [Mitigated transmission of diseases through various means, such as reduced airborne and aerosol transmission, and improved understanding and prevention of transmission.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_35.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Decreased risk of contamination and improved safety for hospital workers](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_1213.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [COVID-19 and its Modes of Transmission](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_225.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [Hospital workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_432.md)
+Prevents transmission from contaminated surfaces
 
 ## Risks which can benefit from this action
 
 * [Strict precautions and infection control training](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1093.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [Hospital workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_432.md)
 

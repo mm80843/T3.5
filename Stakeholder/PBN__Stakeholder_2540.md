@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_212.md)
+* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_262.md)
 
 ## Closest similar item
 
-* [Datum management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1859.md)
-* [Datum provider](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2541.md)
-* [Datum owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2562.md)
-* [Datum protection officer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2542.md)
-* [Datum management company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1955.md)
-* [Data handlers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1427.md)
-* [Datum analyst](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2580.md)
+* [Data handlers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1859.md)
+* [Datum analyst](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2541.md)
+* [Datum collector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2562.md)
+* [Datum curator](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2542.md)
+* [Datum management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1955.md)
+* [Datum management company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1427.md)
+* [Datum owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2580.md)
 * [Datum protection authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2570.md)
-* [Datum curator](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2565.md)
-* [Datum collector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2566.md)
+* [Datum protection officer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2565.md)
+* [Datum provider](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2566.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

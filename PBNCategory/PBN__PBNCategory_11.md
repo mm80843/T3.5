@@ -1,29 +1,28 @@
 [Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_11 
 
-# __The effects of lockdown measures: exacerbated social inequalities, limited accessibility to green spaces, shifts in energy demands, work delays, adversity for startups, and mental health issues.__
+# __Enhanced contact management and tracking methods implemented to reduce human-to-human contact and potential exposure.__
 
 ## Items covered in this category
 
-* [Social inequalities exacerbated by lockdowns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_13.md)
-* [Lockdown impact on mental health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_886.md)
-* [Mental health issues due to extended lockdowns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_729.md)
-* [Increased recreational activity during lockdown](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_889.md)
-* [The lockdown](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_872.md)
-* [Lockdown](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1866.md)
-* [Quarantine, self-isolation, and lockdown](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_852.md)
-* [Limited accessibility to green spaces during lockdowns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_328.md)
-* [Preference for greenviews during lockdown](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_890.md)
-* [Lack of outdoor recreation during lockdown](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1943.md)
-* [Shifts in energy demands for the building sector during lockdowns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_391.md)
-* [Increase in outdoor noise during lockdown](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1618.md)
-* [Delay in works due to lockdown](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_498.md)
-* [Adversity facing innovative startups during lockdown](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_558.md)
-* [Increase in neighbour noise during lockdown](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1619.md)
-* [Increased annoyance from neighbour noise in flats during lockdown](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1622.md)
-* [City lockdown](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_988.md)
-* [Spaces during lockdown](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2264.md)
-* [Inflexible or strict lockdown measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3330.md)
-* [Impact of reduced traffic noise during lockdown](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1620.md)
-* [Increased annoyance from bird noise during lockdown](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1621.md)
-* [Inadequate door-lock device](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1630.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_16.md)
+* [Contact tracing and notification](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_38.md)
+* [Contact tracing and proximity detection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_82.md)
+* [Contact tracing and remote monitoring](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_112.md)
+* [Contactless identification](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_264.md)
+* [Contactless interaction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1089.md)
+* [Decreased contact](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_483.md)
+* [Decreased contact and proximity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_209.md)
+* [Decreased vector-human contact](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_464.md)
+* [Efficient contact tracing](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_231.md)
+* [Estimation of exposure metrics](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1403.md)
+* [Improved contact tracing](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1329.md)
+* [Improved monitoring and contact tracing](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_401.md)
+* [Minimized contact and exposure](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1215.md)
+* [Reduced contact](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1161.md)
+* [Reduction of contact points](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1385.md)
+* [Swift contact tracing and case isolation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1148.md)
+
+## Title of the category
+
+This category of Benenefits describes various measures and technologies aimed at reducing contact and proximity between individuals in order to prevent the spread of contagious diseases. These include the estimation of exposure metrics, improved monitoring, and efficient contact tracing. It also involves the use of contactless identification, reducing contact points, and facilitating contactless interactions. These measures help in minimizing contact and exposure, enabling swift contact tracing, case isolation, and notification, as well as enabling remote monitoring and proximity detection. Individuals associated with these Benenefits are likely part of a group focused on implementing strategies to limit and track contact in order to mitigate the transmission of contagious diseases in infrastructure environments, particularly in green buildings neighborhoods.
 

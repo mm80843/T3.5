@@ -2,9 +2,23 @@
 
 # __Characterization and performance evaluation of a full-scale activated carbon-based dynamic botanical air filtration system for improving indoor air quality__
 
+## Benefits listed in this article
+
+* [Energy saving](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_192.md)
+* [Improved aesthetics](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_363.md)
+* [Improved air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_364.md)
+* [Reduced emissions](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_365.md)
+
 ## DOI of the article
 
 10.1016/j.buildenv.2010.10.008
+
+## List of risks in an article
+
+* [Energy consumption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_745.md)
+* [Inefficient voc removal by plants](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2281.md)
+* [Microbial pollution from botanical filters](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_294.md)
+* [Poor indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2280.md)
 
 ## Short summary of the article
 
@@ -14,6 +28,24 @@ This research article focuses on the potential use of plants to improve indoor a
 
 Indoor air quality (IAQ) is very important because it can affect our health and productivity. Studies have shown that indoor air can be more polluted than outdoor air. One way to improve indoor air quality is by using plants. Plants can absorb harmful gases and clean the air. However, there are different methods and systems for using plants to clean the air, and more research is needed to understand how well these systems work. One system, called the dynamic botanical air filtration system (DBAF), uses plants along with activated carbon and microorganisms to clean the air. Tests have shown that the DBAF can effectively remove formaldehyde and toluene from the air. It can also help save energy in buildings. Overall, using plants to clean indoor air shows promise, but more research is needed to fully understand its effectiveness.
 
+## This article mentions these technologies
+
+* [Activated carbon](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
+* [Air filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_201.md)
+* [Biological methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1891.md)
+* [Energy-efficient systems and technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1109.md)
+* [Maintenance protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1889.md)
+* [Monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1890.md)
+* [Ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1888.md)
+
+## This article points to following mitigation
+
+* [Biological methods](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5113.md)
+* [Cleaning air](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5114.md)
+* [Controlling source](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5115.md)
+* [Designing ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5112.md)
+* [Dynamic botanical air filtration system](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5111.md)
+
 ## Title of the article
 
 Characterization and performance evaluation of a full-scale activated carbon-based dynamic botanical air filtration system for improving indoor air quality
@@ -21,36 +53,4 @@ Characterization and performance evaluation of a full-scale activated carbon-bas
 ## Year of publication
 
 2011
-
-## Benefits listed in this article
-
-* [Energy saving](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_363.md)
-* [Reduced emissions](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_364.md)
-* [Improved aesthetics](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_365.md)
-* [Improved air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_192.md)
-
-## List of risks in an article
-
-* [Poor indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_294.md)
-* [Energy consumption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_745.md)
-* [Microbial pollution from botanical filters](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2281.md)
-* [Inefficient voc removal by plants](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2280.md)
-
-## This article points to following mitigation
-
-* [Cleaning air](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5113.md)
-* [Designing ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5112.md)
-* [Dynamic botanical air filtration system](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5115.md)
-* [Controlling source](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5111.md)
-* [Biological methods](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5114.md)
-
-## This article mentions these technologies
-
-* [Monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_201.md)
-* [Ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
-* [Air filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1109.md)
-* [Energy-efficient systems and technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1891.md)
-* [Maintenance protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1890.md)
-* [Activated carbon](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1889.md)
-* [Biological methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1888.md)
 

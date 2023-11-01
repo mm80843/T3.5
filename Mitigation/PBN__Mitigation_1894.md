@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Promote equitable access to and utilization of urban green spaces, prioritize biodiversity conservation, and implement sustainable land use practices.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_56.md)
+* [Promote equitable access to and utilization of urban green spaces, prioritize biodiversity conservation, and implement sustainable land use practices.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_106.md)
 
 ## Closest similar item
 
-* [Create and maintain green spaces, parks, and public gardens in urban areas.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1920.md)
-* [Increase access to green spaces, promote urban greening initiatives, create more parks and gardens](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2138.md)
+* [Create and maintain green spaces in urban areas, prioritize green space in urban planning and design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1920.md)
+* [Create and maintain green spaces, parks, and public gardens in urban areas.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2138.md)
 * [Encourage outdoor activities in green spaces, create more green spaces in urban areas, protect existing natural areas.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2764.md)
-* [Urban greening initiatives](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_72.md)
+* [Implement green infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_72.md)
 * [Implement urban greening initiatives to create and enhance green spaces in highly urbanized areas, consider green roofs and vertical gardens](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2072.md)
-* [Create and maintain green spaces in urban areas, prioritize green space in urban planning and design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1470.md)
-* [Incorporate green spaces, such as parks and green roofs, into urban planning and development projects](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2241.md)
+* [Incorporate green spaces, such as parks and green roofs, into urban planning and development projects](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1470.md)
+* [Increase access to green spaces, promote urban greening initiatives, create more parks and gardens](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2241.md)
 * [Increase the availability and accessibility of urban green spaces, create new green spaces, and improve existing ones](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2405.md)
 * [Urban green infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4602.md)
-* [Implement green infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1313.md)
+* [Urban greening initiatives](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1313.md)
 
 ## Risks possibly mitigated by this Mitigation
 

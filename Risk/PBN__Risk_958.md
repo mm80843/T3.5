@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Indoor living challenges include limited self-sufficiency, reliance on artificial elements, poor lighting, and environmental variations.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_35.md)
+* [Indoor living challenges include limited self-sufficiency, reliance on artificial elements, poor lighting, and environmental variations.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_85.md)
 
 ## Closest similar item
 
-* [Inadequate physical distancing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2697.md)
-* [Lack of distancing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3089.md)
-* [Limited physical/social distancing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_120.md)
+* [Inability to physically distance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2697.md)
+* [Inadequate physical distancing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3089.md)
+* [Inadequate unit sizes](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_120.md)
 * [Ineffective implementation of social distancing measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1027.md)
-* [Inability to physically distance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3103.md)
-* [Insufficient social distancing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2121.md)
-* [Lack of social distancing measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2047.md)
-* [Lack of awareness and safe distancing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3155.md)
-* [Lack of proper social distancing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1922.md)
-* [Inadequate unit sizes](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1871.md)
+* [Insufficient social distancing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3103.md)
+* [Lack of awareness and safe distancing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2121.md)
+* [Lack of distancing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2047.md)
+* [Lack of proper social distancing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3155.md)
+* [Lack of social distancing measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1922.md)
+* [Limited physical/social distancing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1871.md)
 
 ## Mitigations of this risk
 

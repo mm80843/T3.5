@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_212.md)
+* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_262.md)
 
 ## Closest similar item
 
-* [Individuals living in noisy areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1257.md)
-* [Occupants of buildings with lack of natural light](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1201.md)
-* [Occupant of building with lack of natural light](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2522.md)
-* [Especially those in noisy environments such as offices](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_646.md)
-* [Especially those in noisy environment such a office](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2322.md)
-* [Especially those living in noisy areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1582.md)
-* [Especially those living in noisy area](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2211.md)
+* [Building conditions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1257.md)
+* [Especially those in noisy environment such a office](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1201.md)
+* [Especially those in noisy environments such as offices](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2522.md)
+* [Especially those living in noisy area](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_646.md)
+* [Especially those living in noisy areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2322.md)
+* [Individuals exposed to far-uvc light](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1582.md)
+* [Individuals living in noisy areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2211.md)
 * [Lighting designers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_645.md)
-* [Individuals exposed to far-uvc light](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_740.md)
-* [Building conditions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1887.md)
+* [Occupant of building with lack of natural light](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_740.md)
+* [Occupants of buildings with lack of natural light](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1887.md)
 
 ## Stakeholders in this stakeholder subgroup
 

@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Enforcement, regulation, and policy measures are implemented to ensure compliance, ethical standards, and effective governance.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_137.md)
+* [Enforcement, regulation, and policy measures are implemented to ensure compliance, ethical standards, and effective governance.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_187.md)
 
 ## Closest similar item
 
-* [Strengthen border control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1466.md)
-* [Border control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3414.md)
-* [Border control technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1547.md)
-* [Implementation of border controls and travel restrictions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_560.md)
-* [Border controls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2485.md)
-* [Policy measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2974.md)
-* [Enforcement measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_231.md)
-* [Enforcement of mitigation measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1148.md)
-* [Enforcement and regulation measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2219.md)
-* [Fiscal policy measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1794.md)
+* [Border control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1466.md)
+* [Border control technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3414.md)
+* [Border controls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1547.md)
+* [Enforcement and regulation measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_560.md)
+* [Enforcement measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2485.md)
+* [Enforcement of mitigation measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2974.md)
+* [Fiscal policy measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_231.md)
+* [Implementation of border controls and travel restrictions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1148.md)
+* [Policy measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2219.md)
+* [Strengthen border control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1794.md)
 
 ## This Technology enables the following mitigations
 

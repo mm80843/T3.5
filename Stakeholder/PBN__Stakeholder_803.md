@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Green space stakeholders and caretakers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_238.md)
+* [Green space stakeholders and caretakers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_288.md)
 
 ## Closest similar item
 
-* [Gardening club](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2433.md)
-* [Gardening clubs/members](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2434.md)
-* [Gardeners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_799.md)
+* [Agricultural organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2433.md)
+* [Farmers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2434.md)
+* [Food establishments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_799.md)
 * [Gardener](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2449.md)
-* [Park managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1042.md)
-* [Agricultural organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1208.md)
-* [Nature enthusiasts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_800.md)
-* [Farmers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_145.md)
-* [Food establishments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1521.md)
-* [Local organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1459.md)
+* [Gardeners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1042.md)
+* [Gardening club](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1208.md)
+* [Gardening clubs/members](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_800.md)
+* [Local organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_145.md)
+* [Nature enthusiasts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1521.md)
+* [Park managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1459.md)
 
 ## Risks that can be mitigated by this stakeholder
 
@@ -30,4 +30,8 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Gardening clubs/members](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2434.md)
+
+## Type of the stakeholder
+
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
 

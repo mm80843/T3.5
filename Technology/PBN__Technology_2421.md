@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Innovations and applications in chemistry, materials, and technology for purification, disinfection, and environmental protection.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_146.md)
+* [Innovations and applications in chemistry, materials, and technology for purification, disinfection, and environmental protection.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_196.md)
 
 ## Closest similar item
 
-* [Low-carbon technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3552.md)
-* [Hardware and devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2167.md)
-* [High voltage electrodes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3156.md)
-* [Bipolar ionization devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2233.md)
-* [Technology devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2965.md)
-* [Hands-free light nan switches](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3363.md)
-* [Wearable electronic devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2408.md)
-* [Hardware](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3305.md)
-* [Quieter fan technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2018.md)
-* [Noise-cancelling devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1831.md)
+* [Bipolar ionization devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3552.md)
+* [Hands-free light nan switches](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2167.md)
+* [Hardware](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3156.md)
+* [Hardware and devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2233.md)
+* [High voltage electrodes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2965.md)
+* [Low-carbon technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3363.md)
+* [Noise-cancelling devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2408.md)
+* [Quieter fan technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3305.md)
+* [Technology devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2018.md)
+* [Wearable electronic devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1831.md)
 
 ## This Technology enables the following mitigations
 

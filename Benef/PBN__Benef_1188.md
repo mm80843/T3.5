@@ -2,23 +2,27 @@
 
 # __Inactivation of deposited pathogens__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Self-disinfecting surfaces can continuously inactivate pathogens, reducing the risk of recontamination
+* [A Continuously Active Antimicrobial Coating effective against Human Coronavirus 229E](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_246.md)
+
+## Category to which it belongs
+
+* [Effective control and elimination of infectious pathogens to prevent disease transmission and reduce the overall risk of infection.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_1.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Improved occupant health and well-being, increased asset value through reputation and tenant retention](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_1327.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [A Continuously Active Antimicrobial Coating effective against Human Coronavirus 229E](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_246.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [Occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_92.md)
+Self-disinfecting surfaces can continuously inactivate pathogens, reducing the risk of recontamination
 
 ## Risks which can benefit from this action
 
 * [Self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1188.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [Occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_92.md)
 

@@ -4,7 +4,7 @@
 
 ## This return can be realized by these benefits
 
-* [Reduced overcrowding](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_557.md)
-* [Improved cleanliness](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_555.md)
-* [Enhanced social distancing](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_556.md)
+* [Enhanced social distancing](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_555.md)
+* [Improved cleanliness](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_557.md)
+* [Reduced overcrowding](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_556.md)
 

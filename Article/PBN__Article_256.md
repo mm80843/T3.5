@@ -2,9 +2,26 @@
 
 # __Urban nature in a time of crisis: recreational use of green space increases during the COVID-19 outbreak in Oslo, Norway__
 
+## Benefits listed in this article
+
+* [Enhanced mental and physical health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_47.md)
+* [Enhanced mental health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1220.md)
+* [Improved public health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1219.md)
+* [Increased mental and physical health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1218.md)
+* [Increased resilience to disease outbreaks](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1221.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1222.md)
+
 ## DOI of the article
 
 10.1088/1748-9326/abb396
+
+## List of risks in an article
+
+* [Impact of reduced](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2263.md)
+* [Increase in disease](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2266.md)
+* [Lack of access to green](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2261.md)
+* [Lack of hygiene](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2260.md)
+* [Mobility on mental](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2265.md)
 
 ## Short summary of the article
 
@@ -14,6 +31,22 @@ This study explores how COVID-19 containment measures affected the recreational 
 
 During the COVID-19 lockdown in Oslo, Norway, people started spending more time in green spaces like parks and forests. This is because they couldn't go to indoor places like gyms or sports facilities. They also wanted to avoid crowded areas and practice social distancing. Researchers used data from a mobile app called STRAVA and Google to study how the lockdown affected people's recreational activities. They found that outdoor recreational activity increased by a lot during the lockdown compared to previous years. The increase in activity was especially high in areas with more trees and vegetation. This shows that spending time in nature is good for our health and well-being, especially during difficult times.
 
+## This article mentions these technologies
+
+* [Expansion of digital](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1863.md)
+* [Improved sanitation and](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1865.md)
+* [Platforms and virtual](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1874.md)
+* [Suitable treatment and](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1873.md)
+* [Urban planning and design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1868.md)
+
+## This article points to following mitigation
+
+* [Access to open green space](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5092.md)
+* [Availability of urban green space](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5095.md)
+* [Closure of indoor exercise facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5093.md)
+* [Designing streets for pedestrians](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5094.md)
+* [Proximity to urban green space](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5091.md)
+
 ## Title of the article
 
 Urban nature in a time of crisis: recreational use of green space increases during the COVID-19 outbreak in Oslo, Norway
@@ -21,37 +54,4 @@ Urban nature in a time of crisis: recreational use of green space increases duri
 ## Year of publication
 
 2020
-
-## Benefits listed in this article
-
-* [Improved public health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_47.md)
-* [Increased mental and physical health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1218.md)
-* [Enhanced mental health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1219.md)
-* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1220.md)
-* [Enhanced mental and physical health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1221.md)
-* [Increased resilience to disease outbreaks](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1222.md)
-
-## List of risks in an article
-
-* [Increase in disease](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2259.md)
-* [Lack of access to green](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2263.md)
-* [Mobility on mental](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2266.md)
-* [Lack of hygiene](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2261.md)
-* [Impact of reduced](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2265.md)
-
-## This article points to following mitigation
-
-* [Availability of urban green space](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5094.md)
-* [Closure of indoor exercise facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5091.md)
-* [Access to open green space](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5092.md)
-* [Designing streets for pedestrians](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5093.md)
-* [Proximity to urban green space](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5095.md)
-
-## This article mentions these technologies
-
-* [Urban planning and design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1176.md)
-* [Improved sanitation and](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1868.md)
-* [Platforms and virtual](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1874.md)
-* [Suitable treatment and](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1863.md)
-* [Expansion of digital](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1873.md)
 

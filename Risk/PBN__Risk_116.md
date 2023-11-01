@@ -4,19 +4,19 @@
 
 ## Category to which it belongs
 
-* [The repercussions of domestic violence, the pandemic’s transmission, extreme events, population dynamics, and systemic vulnerabilities persist.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_1.md)
+* [The repercussions of domestic violence, the pandemic’s transmission, extreme events, population dynamics, and systemic vulnerabilities persist.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_51.md)
 
 ## Closest similar item
 
-* [Spread of coronavirus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_867.md)
-* [Spread of coronavirus on surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_825.md)
+* [Persistence of coronavirus on inanimate surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_867.md)
+* [Risk of spreading covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_825.md)
 * [Slow the spread of the coronavirus pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3390.md)
-* [Spread of virus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2484.md)
-* [Spread of covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_91.md)
-* [Spread of the virus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2415.md)
-* [Persistence of coronavirus on inanimate surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1536.md)
-* [Transmission of coronaviruses from contaminated surfaces to hands](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1539.md)
-* [Risk of spreading covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2938.md)
+* [Spread of coronavirus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2484.md)
+* [Spread of coronavirus on surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_91.md)
+* [Spread of covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2415.md)
+* [Spread of the virus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1536.md)
+* [Spread of virus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1539.md)
+* [Transmission of coronaviruses from contaminated surfaces to hands](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2938.md)
 * [Virus spread](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2488.md)
 
 ## Mitigations of this risk

@@ -2,24 +2,28 @@
 
 # __Reduced risk of infection through contact__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Eliminating the need for physical documents reduces the risk of infection through face-to-face contact, while ensuring reliable and verifiable information for insurance claims.
+* [How Can Blockchain Help People in the Event of Pandemics Such as the COVID-19?](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_241.md)
+
+## Category to which it belongs
+
+* [Minimized transmission and spread risk while ensuring effective infection control, prevention, and containment measures against diseases like coronavirus.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_17.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Reduced risk of infection, streamlined insurance claim process, reduced administrative burden.](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_1307.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [How Can Blockchain Help People in the Event of Pandemics Such as the COVID-19?](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_241.md)
+Eliminating the need for physical documents reduces the risk of infection through face-to-face contact, while ensuring reliable and verifiable information for insurance claims.
+
+## Risks which can benefit from this action
+
+* [Use of blockchain for diagnosis confirmation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1172.md)
 
 ## Stakeholders benefitting from this Benefit
 
 * [Healthcare providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_121.md)
 * [Insurance subscribers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_456.md)
-
-## Risks which can benefit from this action
-
-* [Use of blockchain for diagnosis confirmation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1172.md)
 

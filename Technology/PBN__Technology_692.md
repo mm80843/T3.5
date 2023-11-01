@@ -4,26 +4,26 @@
 
 ## Category to which it belongs
 
-* [Advanced analytics and simulation techniques can be used to study complex systems and make predictions using artificial intelligence and machine learning, as well as optimize processes and analyze data efficiently.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_107.md)
+* [Advanced analytics and simulation techniques can be used to study complex systems and make predictions using artificial intelligence and machine learning, as well as optimize processes and analyze data efficiently.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_157.md)
 
 ## Closest similar item
 
-* [Production optimization tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_10.md)
-* [Software tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2328.md)
-* [Optimization algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_986.md)
-* [Healthcare resource optimization tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1552.md)
-* [Performance tracking tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1415.md)
-* [Optimization](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3061.md)
-* [Optimized workflows](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2030.md)
-* [Cost optimization strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_162.md)
+* [Cost optimization strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_10.md)
+* [Data optimization techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2328.md)
+* [Healthcare resource optimization tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_986.md)
+* [Optimization](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1552.md)
+* [Optimization algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1415.md)
+* [Optimized workflows](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3061.md)
+* [Performance tracking tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2030.md)
+* [Production optimization tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_162.md)
 * [Quality control tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_690.md)
-* [Data optimization techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_176.md)
-
-## This technology is mentioned by
-
-* [Overcoming the Impact of COVID-19 Using Integrated Project Delivery Model](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_72.md)
+* [Software tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_176.md)
 
 ## Risks linked to this technology
 
 * [Less productivity compared to agriculture and manufacturing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1423.md)
+
+## This technology is mentioned by
+
+* [Overcoming the Impact of COVID-19 Using Integrated Project Delivery Model](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_72.md)
 

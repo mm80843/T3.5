@@ -2,24 +2,28 @@
 
 # __Early detection and personalized treatment__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-AI-powered applications can detect COVID-19 carriers early and develop personalized treatment protocols, leading to better health outcomes.
+* [Leveraging Digital Transformation Technologies to Tackle COVID-19: Proposing a Privacy-First Holistic Framework](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_297.md)
+
+## Category to which it belongs
+
+* [Enhanced identification, prompt response, and efficient containment to prevent and address potential cases and outbreaks.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_0.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Improved treatment success rates, reduced mortality rates](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_1593.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [Leveraging Digital Transformation Technologies to Tackle COVID-19: Proposing a Privacy-First Holistic Framework](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_297.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [Patients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_31.md)
-* [Healthcare professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_32.md)
+AI-powered applications can detect COVID-19 carriers early and develop personalized treatment protocols, leading to better health outcomes.
 
 ## Risks which can benefit from this action
 
 * [Ai-powered applications for diagnosis and treatment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1432.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [Healthcare professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_31.md)
+* [Patients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_32.md)
 

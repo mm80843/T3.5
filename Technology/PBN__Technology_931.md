@@ -2,11 +2,11 @@
 
 # __Social media platforms’ moderation policies__
 
-## This technology is mentioned by
-
-* [What drives unverified information sharing and cyberchondria during the COVID-19 pandemic?](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_31.md)
-
 ## Risks linked to this technology
 
 * [Misinformation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1033.md)
+
+## This technology is mentioned by
+
+* [What drives unverified information sharing and cyberchondria during the COVID-19 pandemic?](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_31.md)
 

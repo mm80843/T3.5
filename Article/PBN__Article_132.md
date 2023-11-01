@@ -2,9 +2,27 @@
 
 # __Global policy challenges for urban vector-borne disease risks__
 
+## Benefits listed in this article
+
+* [Improved access to clean water](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_668.md)
+* [Improved living conditions](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_669.md)
+* [Improved sanitation and waste management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_79.md)
+* [Increased citizen cooperation and trust](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_664.md)
+* [Raised awareness of health gains](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_665.md)
+* [Reduced disease transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_667.md)
+* [Reduced vulnerability and improved living conditions](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_666.md)
+
 ## DOI of the article
 
 10.14745/ccdr.v42i10a05
+
+## List of risks in an article
+
+* [Inadequate waste management](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1067.md)
+* [Lack of running water](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1063.md)
+* [Lack of surveillance and control measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1066.md)
+* [Poor housing conditions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1065.md)
+* [Urban crowding](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1064.md)
 
 ## Short summary of the article
 
@@ -14,6 +32,24 @@ This research abstract focuses on the global policy challenges and approaches to
 
 Urbanization is when more and more people move to live in cities. But it can also bring some bad things, like diseases that are spread by bugs called vectors. Examples of these diseases are Zika and dengue fever. Poor communities in cities are more vulnerable to these diseases because they live in crowded and dirty places. To help fight against these diseases, it's important to involve the community and have better city planning, like having clean water and good waste management. Also, it's important to have good healthcare and proper housing for everyone. Finally, we need to keep an eye on the spread of these diseases and control the mosquitoes that carry them.
 
+## This article mentions these technologies
+
+* [Affordable and sustainable housing solutions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_89.md)
+* [Smart city technology to optimize space and resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_91.md)
+* [Vector surveillance and control technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_92.md)
+* [Waste collection and disposal technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_90.md)
+* [Water purification and distribution technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_93.md)
+
+## This article points to following mitigation
+
+* [Community outreach and participation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3200.md)
+* [Covering water containers and collecting garbage](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3201.md)
+* [Effective waste management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3196.md)
+* [Enhanced urban planning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3199.md)
+* [Heightened surveillance and mosquito control measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3198.md)
+* [Improved water storage and sanitation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3197.md)
+* [Improvement of infrastructure and housing design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3202.md)
+
 ## Title of the article
 
 Global policy challenges for urban vector-borne disease risks
@@ -21,40 +57,4 @@ Global policy challenges for urban vector-borne disease risks
 ## Year of publication
 
 2016
-
-## Benefits listed in this article
-
-* [Reduced disease transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_79.md)
-* [Improved living conditions](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_664.md)
-* [Improved access to clean water](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_665.md)
-* [Improved sanitation and waste management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_666.md)
-* [Increased citizen cooperation and trust](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_667.md)
-* [Raised awareness of health gains](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_668.md)
-* [Reduced vulnerability and improved living conditions](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_669.md)
-
-## List of risks in an article
-
-* [Urban crowding](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1063.md)
-* [Inadequate waste management](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1066.md)
-* [Lack of running water](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1065.md)
-* [Poor housing conditions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1064.md)
-* [Lack of surveillance and control measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1067.md)
-
-## This article points to following mitigation
-
-* [Enhanced urban planning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3196.md)
-* [Community outreach and participation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3199.md)
-* [Improved water storage and sanitation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3197.md)
-* [Effective waste management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3198.md)
-* [Improvement of infrastructure and housing design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3201.md)
-* [Covering water containers and collecting garbage](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3202.md)
-* [Heightened surveillance and mosquito control measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3200.md)
-
-## This article mentions these technologies
-
-* [Smart city technology to optimize space and resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_89.md)
-* [Affordable and sustainable housing solutions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_90.md)
-* [Water purification and distribution technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_91.md)
-* [Waste collection and disposal technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_92.md)
-* [Vector surveillance and control technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_93.md)
 

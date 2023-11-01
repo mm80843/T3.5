@@ -4,27 +4,27 @@
 
 ## Category to which it belongs
 
-* [Digital tools and technologies facilitating various functions and services on mobile devices.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_101.md)
+* [Digital tools and technologies facilitating various functions and services on mobile devices.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_151.md)
 
 ## Closest similar item
 
-* [Mobile apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2856.md)
-* [Smartphone app](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3535.md)
-* [Mobile phone application](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3810.md)
+* [Apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2856.md)
+* [Apps and mobile technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3535.md)
+* [Mobile app technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3810.md)
 * [Mobile applications](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1144.md)
-* [Mobile app technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2542.md)
-* [Smartphone apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3737.md)
-* [Apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1088.md)
-* [Apps and mobile technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2063.md)
+* [Mobile apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2542.md)
+* [Mobile phone application](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3737.md)
+* [Smartphone](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1088.md)
+* [Smartphone app](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2063.md)
 * [Smartphone applications](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_65.md)
-* [Smartphone](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3518.md)
+* [Smartphone apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3518.md)
 
 ## This Technology enables the following mitigations
 
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3332.md)
-* [Telemedicine apps](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1156.md)
-* [Aarogya setu app](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4595.md)
-* [Covidsafe app](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4599.md)
-* [Gok direct app](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4598.md)
+* [Aarogya setu app](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3332.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1156.md)
+* [Covidsafe app](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4595.md)
+* [Gok direct app](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4599.md)
+* [Telemedicine apps](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4598.md)
 * [Tracetogether app](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4596.md)
 

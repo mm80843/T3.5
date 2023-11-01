@@ -2,25 +2,29 @@
 
 # __Enhanced targeting of interventions__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Improve deployment of resources and maximize impact
+* [Integrating rapid risk mapping and mobile phone call record data for strategic malaria elimination planning](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_76.md)
+
+## Category to which it belongs
+
+* [Enhanced connectivity and collaboration fostered by flexible customization and enriched knowledge, communication, coordination, and cooperation.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_42.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Increased likelihood of successful elimination](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_412.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [Integrating rapid risk mapping and mobile phone call record data for strategic malaria elimination planning](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_76.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [Healthcare providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_121.md)
-* [Affected communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_183.md)
-* [Malaria elimination programs](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_182.md)
+Improve deployment of resources and maximize impact
 
 ## Risks which can benefit from this action
 
 * [Risk maps through cdrs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_387.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [Affected communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_121.md)
+* [Healthcare providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_183.md)
+* [Malaria elimination programs](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_182.md)
 

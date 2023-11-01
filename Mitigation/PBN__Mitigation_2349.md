@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Optimize airflow and air quality through improved ventilation systems and natural lighting, increased outdoor air intake, and proper maintenance.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_71.md)
+* [Optimize airflow and air quality through improved ventilation systems and natural lighting, increased outdoor air intake, and proper maintenance.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_121.md)
 
 ## Closest similar item
 
-* [Proper ventilation arrangements](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1344.md)
-* [Ventilation design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4857.md)
-* [Designing ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5112.md)
-* [Window and vent design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4402.md)
-* [Proper building ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4659.md)
-* [Proper ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3818.md)
-* [Optimizing ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_247.md)
-* [Install personalized ventilation systems, control air flow and temperature](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1642.md)
-* [Filtered ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4343.md)
-* [Implement proper ventilation systems to reduce aerosol concentration in enclosed spaces.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2955.md)
+* [Designing ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1344.md)
+* [Filtered ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4857.md)
+* [Implement proper ventilation systems to reduce aerosol concentration in enclosed spaces.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5112.md)
+* [Install personalized ventilation systems, control air flow and temperature](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4402.md)
+* [Optimizing ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4659.md)
+* [Proper building ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3818.md)
+* [Proper ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_247.md)
+* [Proper ventilation arrangements](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1642.md)
+* [Ventilation design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4343.md)
+* [Window and vent design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2955.md)
 
 ## Risks possibly mitigated by this Mitigation
 

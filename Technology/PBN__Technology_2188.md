@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Promoting sustainability through clean energy infrastructure, smart technologies, and efficient energy management.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_123.md)
+* [Promoting sustainability through clean energy infrastructure, smart technologies, and efficient energy management.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_173.md)
 
 ## Closest similar item
 
-* [Sustainable practices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1152.md)
-* [Renewable energy](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_532.md)
-* [Renewable energy development](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1606.md)
-* [Energy systems and sustainability](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2166.md)
-* [Renewable energy technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_353.md)
-* [Renewable energy sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_864.md)
-* [Investments in clean energy and sustainable industries](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3753.md)
-* [Sustainable farming practices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1505.md)
-* [Energy management and efficiency](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2143.md)
-* [Energy and resource management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2168.md)
+* [Energy and resource management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1152.md)
+* [Energy management and efficiency](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_532.md)
+* [Energy systems and sustainability](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1606.md)
+* [Investments in clean energy and sustainable industries](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2166.md)
+* [Renewable energy](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_353.md)
+* [Renewable energy development](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_864.md)
+* [Renewable energy sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3753.md)
+* [Renewable energy technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1505.md)
+* [Sustainable farming practices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2143.md)
+* [Sustainable practices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2168.md)
 
 ## This Technology belongs to this TechnologySubgroup
 

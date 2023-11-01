@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The interconnectedness of global economics has led to financial instability, unemployment, poverty, and decreased investment in certain sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_12.md)
+* [The interconnectedness of global economics has led to financial instability, unemployment, poverty, and decreased investment in certain sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_62.md)
 
 ## Closest similar item
 
-* [Declining funding flows](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2549.md)
-* [Lack of funding](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2328.md)
-* [Barriers to accessing funding](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_560.md)
-* [Financial strain on government budgets](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3028.md)
-* [Insufficient funding and resources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2576.md)
-* [Ineffective cost planning](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_296.md)
-* [Reduction in domestic public budgets](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_106.md)
-* [Insufficient funding for climate action](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3262.md)
-* [Ineffective use of open government projects](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1193.md)
-* [Insufficient funding for green space](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1044.md)
+* [Barriers to accessing funding](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2549.md)
+* [Declining funding flows](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2328.md)
+* [Financial strain on government budgets](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_560.md)
+* [Ineffective cost planning](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3028.md)
+* [Ineffective use of open government projects](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2576.md)
+* [Insufficient funding and resources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_296.md)
+* [Insufficient funding for climate action](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_106.md)
+* [Insufficient funding for green space](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3262.md)
+* [Lack of funding](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1193.md)
+* [Reduction in domestic public budgets](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1044.md)
 
 ## Mitigations of this risk
 

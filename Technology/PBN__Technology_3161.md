@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Enhanced and expanded array of diagnostic testing tools, technologies, and methods for widespread and reliable screening.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_133.md)
+* [Enhanced and expanded array of diagnostic testing tools, technologies, and methods for widespread and reliable screening.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_183.md)
 
 ## Closest similar item
 
-* [Regular testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1751.md)
-* [Medical assessment equipment and protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1652.md)
-* [Clinical assessment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3331.md)
-* [Regular inspection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3878.md)
+* [Clinical assessment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1751.md)
+* [Clinical testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1652.md)
+* [Development of non-invasive testing techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3331.md)
+* [Diagnostic testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3878.md)
 * [Diagnostic tests](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1000.md)
-* [Clinical testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2823.md)
-* [Rapid diagnostic tests](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_610.md)
-* [Diagnostic testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_343.md)
-* [Point-of-care testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2024.md)
-* [Development of non-invasive testing techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1970.md)
+* [Medical assessment equipment and protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2823.md)
+* [Point-of-care testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_610.md)
+* [Rapid diagnostic tests](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_343.md)
+* [Regular inspection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2024.md)
+* [Regular testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1970.md)
 
 ## This Technology enables the following mitigations
 

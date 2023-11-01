@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Promote and enforce rigorous hygiene practices, ensure proper sanitation infrastructure, and implement strict cleaning and disinfection protocols.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_73.md)
+* [Promote and enforce rigorous hygiene practices, ensure proper sanitation infrastructure, and implement strict cleaning and disinfection protocols.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_123.md)
 
 ## Closest similar item
 
-* [Improved hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_954.md)
-* [Increased hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3985.md)
-* [Increased personal hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4219.md)
-* [Improved hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5186.md)
-* [Hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_985.md)
-* [Increased emphasis on hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3944.md)
-* [Promote cleanliness and hygiene practices at the community level](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1535.md)
-* [Encouraging proper sanitation and hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3538.md)
-* [Implement hygiene measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_571.md)
-* [Improve hygiene practices, use personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1637.md)
+* [Encouraging proper sanitation and hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_954.md)
+* [Hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3985.md)
+* [Implement hygiene measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4219.md)
+* [Improve hygiene practices, use personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5186.md)
+* [Improved hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_985.md)
+* [Improved hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3944.md)
+* [Increased emphasis on hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1535.md)
+* [Increased hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3538.md)
+* [Increased personal hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_571.md)
+* [Promote cleanliness and hygiene practices at the community level](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1637.md)
 
 ## Risks possibly mitigated by this Mitigation
 

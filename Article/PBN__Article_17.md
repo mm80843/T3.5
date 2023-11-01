@@ -2,9 +2,25 @@
 
 # __Vector-borne disease, climate change and urban design__
 
+## Benefits listed in this article
+
+* [Decreased risk of west nile infection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_79.md)
+* [Decreased vector-human contact](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_80.md)
+* [Reduced disease transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_81.md)
+* [Reduced epidemic risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_83.md)
+* [Reduced risk of tick-borne diseases](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_82.md)
+
 ## DOI of the article
 
 10.14745/ccdr.v42i10a04
+
+## List of risks in an article
+
+* [Changes in disease distribution](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1830.md)
+* [Extreme weather events](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1433.md)
+* [Increased habitat suitability for vectors](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1829.md)
+* [Lack of public awareness and education](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1831.md)
+* [Urban heat island effect](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1832.md)
 
 ## Short summary of the article
 
@@ -14,6 +30,26 @@ This review examines the risks of tick- and mosquito-borne diseases (VBDs) in Ca
 
 Tick-and mosquito-borne diseases (like Lyme disease and West Nile virus) can be spread by bugs called ticks and mosquitoes. These bugs are affected by the weather, like how hot or cold it is. If the weather gets warmer because of climate change, more of these bugs can live in Canada. This means the diseases they carry can spread more easily. But, how we design our cities and suburbs can make a difference. If we have lots of green spaces and places for water to collect, like in gardens or puddles, there can be more bugs and diseases. So, we need to be careful how we design our cities to make sure we stay safe from these diseases.
 
+## This article mentions these technologies
+
+* [Community engagement platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_279.md)
+* [Early warning systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1212.md)
+* [Emergency management protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1215.md)
+* [Geographic information systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1030.md)
+* [Green infrastructure design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_551.md)
+* [Health promotion campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1213.md)
+* [Integrated pest management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1211.md)
+* [Remote sensing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1214.md)
+* [Urban design guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_964.md)
+
+## This article points to following mitigation
+
+* [Drainage system management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4435.md)
+* [Green infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4431.md)
+* [Outdoor space design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4433.md)
+* [Public health awareness](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4434.md)
+* [Vector control programs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4432.md)
+
 ## Title of the article
 
 Vector-borne disease, climate change and urban design
@@ -21,40 +57,4 @@ Vector-borne disease, climate change and urban design
 ## Year of publication
 
 2016
-
-## Benefits listed in this article
-
-* [Reduced disease transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_79.md)
-* [Reduced epidemic risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_80.md)
-* [Reduced risk of tick-borne diseases](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_81.md)
-* [Decreased vector-human contact](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_82.md)
-* [Decreased risk of west nile infection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_83.md)
-
-## List of risks in an article
-
-* [Extreme weather events](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1831.md)
-* [Changes in disease distribution](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1830.md)
-* [Urban heat island effect](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1832.md)
-* [Increased habitat suitability for vectors](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1829.md)
-* [Lack of public awareness and education](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1433.md)
-
-## This article points to following mitigation
-
-* [Public health awareness](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4435.md)
-* [Green infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4431.md)
-* [Vector control programs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4434.md)
-* [Drainage system management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4432.md)
-* [Outdoor space design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4433.md)
-
-## This article mentions these technologies
-
-* [Emergency management protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1213.md)
-* [Green infrastructure design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1030.md)
-* [Community engagement platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_964.md)
-* [Urban design guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1214.md)
-* [Health promotion campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1215.md)
-* [Remote sensing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_279.md)
-* [Early warning systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_551.md)
-* [Geographic information systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1212.md)
-* [Integrated pest management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1211.md)
 

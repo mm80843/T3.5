@@ -2,42 +2,34 @@
 
 # __Heat stress due to modified internal conditions__
 
+## Articles mentionning the risk
+
+* [Adaptation of HVAC Systems to Reduce the Spread of COVID-19 in Buildings](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_214.md)
+
 ## Category to which it belongs
 
-* [The intersection of urbanization, inefficient energy usage, and climate change poses significant challenges to thermal comfort, energy consumption, and environmental sustainability.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_38.md)
+* [The intersection of urbanization, inefficient energy usage, and climate change poses significant challenges to thermal comfort, energy consumption, and environmental sustainability.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_88.md)
 
 ## Closest similar item
 
-* [Poor thermal conditions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1115.md)
-* [Thermal discomfort](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_126.md)
-* [Increased thermal discomfort](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2891.md)
+* [Excessive cooling/heating](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1115.md)
+* [High indoor temperatures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_126.md)
+* [Inadequate thermal comfort](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2891.md)
 * [Inadequate thermal environment control](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1399.md)
-* [Excessive cooling/heating](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2402.md)
+* [Increased thermal discomfort](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2402.md)
 * [Poor thermal comfort](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1861.md)
-* [Uncomfortable temperature](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2444.md)
-* [Inadequate thermal comfort](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_342.md)
-* [High indoor temperatures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_783.md)
+* [Poor thermal conditions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2444.md)
+* [Thermal discomfort](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_342.md)
+* [Uncomfortable temperature](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_783.md)
 * [Urban overheating](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3174.md)
 
 ## Description of the risk
 
 Failure to modify internal conditions can cause heat stress in humans, reducing their resistance to infection.
 
-## Type of the risk
-
-* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Is the risk affecting GBN scales
 
 * [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
-
-## Type of impact of the risk (according to ISO37100)
-
-* [Living and working environment](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_1.md)
-
-## Type of purpose of the risk (according to ISO37100)
-
-* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_1.md)
 
 ## Mitigations of this risk
 
@@ -47,23 +39,31 @@ Failure to modify internal conditions can cause heat stress in humans, reducing 
 
 Increased risk of heat-related illnesses and decreased immune response
 
+## People affected by this risk
+
+* [People in buildings with modified internal conditions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1525.md)
+
 ## Stakeholders who can mitigate this risk
 
 * [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
 * [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
 * [Hvac professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1160.md)
 
-## Articles mentionning the risk
-
-* [Adaptation of HVAC Systems to Reduce the Spread of COVID-19 in Buildings](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_214.md)
-
-## People affected by this risk
-
-* [People in buildings with modified internal conditions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1525.md)
-
 ## Technologies linked to the risk
 
 * [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Living and working environment](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_1.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_1.md)
+
+## Type of the risk
+
+* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 

@@ -4,23 +4,23 @@
 
 ## Category to which it belongs
 
-* [The pandemic has led to a decrease in in-person surgical education, loss of control, temporary panic from cruise ship docking, limited social distancing, and decreased morale.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_20.md)
+* [The pandemic has led to a decrease in in-person surgical education, loss of control, temporary panic from cruise ship docking, limited social distancing, and decreased morale.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_70.md)
 
 ## Closest similar item
 
-* [Increase in chronic diseases from sedentary lifestyles](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_113.md)
-* [Physical activity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3287.md)
-* [Reduced physical activity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3075.md)
-* [Negative effects of sedentary behavior during quarantine and social isolation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_645.md)
-* [Exposure to greenspace and physical activity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_172.md)
-* [Impact of control measures on diet and physical activity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_283.md)
-* [Lack of physical activity opportunities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_130.md)
-* [Lack of physical activity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1936.md)
-* [Social inequality and lifestyle](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2027.md)
-* [Decreased physical activity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1056.md)
+* [Decreased physical activity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_113.md)
+* [Exposure to greenspace and physical activity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3287.md)
+* [Impact of control measures on diet and physical activity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3075.md)
+* [Increase in chronic diseases from sedentary lifestyles](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_645.md)
+* [Lack of physical activity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_172.md)
+* [Lack of physical activity opportunities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_283.md)
+* [Negative effects of sedentary behavior during quarantine and social isolation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_130.md)
+* [Physical activity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1936.md)
+* [Reduced physical activity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2027.md)
+* [Social inequality and lifestyle](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1056.md)
 
 ## Mitigations of this risk
 
-* [Active design strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3278.md)
-* [Active design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4590.md)
+* [Active design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3278.md)
+* [Active design strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4590.md)
 

@@ -2,22 +2,26 @@
 
 # __Telephone exchange__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Call centers provide guidance and support for individuals with doubts and questions
+* [Smart cities and the pandemic: digital technologies on the urban management of Brazilian cities](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_143.md)
+
+## Category to which it belongs
+
+* [Efficient and seamless remote access to healthcare, education, work, and professional connections.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_21.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Provide reliable information and alleviate public anxiety](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_781.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [Smart cities and the pandemic: digital technologies on the urban management of Brazilian cities](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_143.md)
+Call centers provide guidance and support for individuals with doubts and questions
+
+## Risks which can benefit from this action
+
 
 ## Stakeholders benefitting from this Benefit
 
 * [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_29.md)
-
-## Risks which can benefit from this action
-
 

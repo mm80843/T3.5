@@ -2,23 +2,27 @@
 
 # __Increased safety__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Non-contact interaction activities, such as virtual meetings and online shopping, reduce the risk of virus transmission and help maintain social distancing measures in community settings.
+* [Urban Community Sustainable Development Patterns under the Influence of COVID-19: A Case Study Based on the Non-Contact Interaction Perspective of Hangzhou City](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_291.md)
+
+## Category to which it belongs
+
+* [Promotion of security and well-being through measures to minimize harm, enhance protection, and ensure long-term safety.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_48.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Implementing non-contact interaction measures can contribute to a safer environment for community residents, reducing the risk of contagious diseases and ensuring public health.](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_1546.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [Urban Community Sustainable Development Patterns under the Influence of COVID-19: A Case Study Based on the Non-Contact Interaction Perspective of Hangzhou City](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_291.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [Community residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_525.md)
+Non-contact interaction activities, such as virtual meetings and online shopping, reduce the risk of virus transmission and help maintain social distancing measures in community settings.
 
 ## Risks which can benefit from this action
 
 * [Non-contact interaction](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1393.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [Community residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_525.md)
 

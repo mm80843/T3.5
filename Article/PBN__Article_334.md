@@ -8,9 +8,9 @@
 
 ## Referenced by other articles
 
-* [The socio-economic implications of the coronavirus pandemic (COVID-19): A review](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_135.md)
-* [Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_21.md)
-* [Impacts of the coronavirus pandemic on biodiversity conservation](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_335.md)
+* [Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_135.md)
+* [Impacts of the coronavirus pandemic on biodiversity conservation](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_21.md)
+* [The socio-economic implications of the coronavirus pandemic (COVID-19): A review](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_335.md)
 
 ## Title of the article
 

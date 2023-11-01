@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Improved indoor air quality and temperature control through advanced hvac technologies, air purifiers, and monitoring systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_129.md)
+* [Improved indoor air quality and temperature control through advanced hvac technologies, air purifiers, and monitoring systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_179.md)
 
 ## Closest similar item
 
-* [Advanced air distribution systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2508.md)
-* [Outdoor air monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1747.md)
-* [Improved airflow](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2892.md)
+* [Adequate airflow](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2508.md)
+* [Advanced air distribution systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1747.md)
+* [Air filtration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2892.md)
 * [Airflow](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1116.md)
-* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2238.md)
-* [Outdoor air circulation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1162.md)
-* [Personalized air supply combined with specific air distribution system](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3580.md)
-* [Indoor air technlogies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2292.md)
-* [Adequate airflow](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2450.md)
-* [Air filtration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3148.md)
+* [Improved airflow](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2238.md)
+* [Indoor air technlogies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1162.md)
+* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3580.md)
+* [Outdoor air circulation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2292.md)
+* [Outdoor air monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2450.md)
+* [Personalized air supply combined with specific air distribution system](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3148.md)
 
 ## This Technology enables the following mitigations
 

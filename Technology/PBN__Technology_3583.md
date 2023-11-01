@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Building design and construction incorporate biophilic principles, modular techniques, and flexible layouts to create sustainable, resilient, and adaptable spaces.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_138.md)
+* [Building design and construction incorporate biophilic principles, modular techniques, and flexible layouts to create sustainable, resilient, and adaptable spaces.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_188.md)
 
 ## Closest similar item
 
-* [Infrastructure redundancy](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1593.md)
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2164.md)
-* [Scalable infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_157.md)
-* [Utilization of available infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1047.md)
-* [Reliable electrical infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1044.md)
+* [Adaptive infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1593.md)
+* [Improved infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2164.md)
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_157.md)
+* [Infrastructure development](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1047.md)
+* [Infrastructure redundancy](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1044.md)
 * [Infrastructure support](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2351.md)
-* [Adaptive infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2592.md)
-* [Improved infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_669.md)
-* [Network infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2174.md)
-* [Infrastructure development](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_76.md)
+* [Network infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2592.md)
+* [Reliable electrical infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_669.md)
+* [Scalable infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2174.md)
+* [Utilization of available infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_76.md)
 
 ## This Technology enables the following mitigations
 

@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The interconnectedness of global economics has led to financial instability, unemployment, poverty, and decreased investment in certain sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_12.md)
+* [The interconnectedness of global economics has led to financial instability, unemployment, poverty, and decreased investment in certain sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_62.md)
 
 ## Closest similar item
 
-* [Reduced consumer spending](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2148.md)
-* [Reduced sales and fixed costs](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1585.md)
-* [Reduction in consumer choice, impact on manufacturers](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3034.md)
-* [Shift in customers’ needs](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3415.md)
-* [Cutting public social expenditures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2239.md)
-* [Increased cost and workload](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2670.md)
-* [Reduction in domestic public budgets](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_106.md)
-* [Increased contact in crowded shops](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2844.md)
-* [Ineffective cost planning](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_296.md)
-* [Lack of communication and customer relationships](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2790.md)
+* [Cutting public social expenditures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2148.md)
+* [Increased contact in crowded shops](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1585.md)
+* [Increased cost and workload](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3034.md)
+* [Ineffective cost planning](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3415.md)
+* [Lack of communication and customer relationships](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2239.md)
+* [Reduced consumer spending](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2670.md)
+* [Reduced sales and fixed costs](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_106.md)
+* [Reduction in consumer choice, impact on manufacturers](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2844.md)
+* [Reduction in domestic public budgets](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_296.md)
+* [Shift in customers’ needs](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2790.md)
 
 ## Mitigations of this risk
 

@@ -4,33 +4,33 @@
 
 ## Category to which it belongs
 
-* [Digital platforms facilitate virtual collaboration, communication, information sharing, and online transactions among individuals and communities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_100.md)
+* [Digital platforms facilitate virtual collaboration, communication, information sharing, and online transactions among individuals and communities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_150.md)
 
 ## Closest similar item
 
-* [Remote collaboration tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_125.md)
-* [Remote working tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_736.md)
-* [Remote data collection tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1698.md)
-* [Remote teaching tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1808.md)
-* [Remote communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1239.md)
-* [Remote access software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1452.md)
+* [Expert consultation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_125.md)
+* [Remote access software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_736.md)
+* [Remote collaboration tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1698.md)
+* [Remote communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1808.md)
+* [Remote data collection tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1239.md)
+* [Remote monitoring and patient management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1452.md)
 * [Remote patient monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1502.md)
-* [Expert consultation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3794.md)
-* [Remote monitoring and patient management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2158.md)
-* [Remote work options](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1496.md)
+* [Remote teaching tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3794.md)
+* [Remote work options](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2158.md)
+* [Remote working tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1496.md)
+
+## Risks linked to this technology
+
+* [Limited access to healthcare services](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1960.md)
 
 ## This Technology belongs to this TechGroup
 
 * [Telehealth](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1447.md)
 
-## This technology is mentioned by
-
-* [COVID-19: A new digital dawn?](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_93.md)
-
 ## This Technology belongs to this TechSubgroup
 
 
-## Risks linked to this technology
+## This technology is mentioned by
 
-* [Limited access to healthcare services](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1960.md)
+* [COVID-19: A new digital dawn?](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_93.md)
 

@@ -4,28 +4,28 @@
 
 ## Category to which it belongs
 
-* [Advanced filtration systems that clean and purify air, water, and remove particles and pathogens efficiently.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_113.md)
+* [Advanced filtration systems that clean and purify air, water, and remove particles and pathogens efficiently.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_163.md)
 
 ## Closest similar item
 
-* [Water filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1843.md)
-* [Mechanical filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3195.md)
-* [Filtration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1750.md)
+* [Advanced air filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1843.md)
+* [Air filtration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3195.md)
+* [Air filtration and purification systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1750.md)
 * [Air filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_203.md)
-* [Advanced air filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2113.md)
-* [Air filtration and purification systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_767.md)
-* [Air filtration technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_308.md)
-* [Air quality and filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2120.md)
-* [Air filtration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3148.md)
-* [Membrane filtration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1931.md)
+* [Air filtration technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2113.md)
+* [Air quality and filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_767.md)
+* [Filtration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_308.md)
+* [Mechanical filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2120.md)
+* [Membrane filtration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3148.md)
+* [Water filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1931.md)
+
+## Risks linked to this technology
+
+* [Effects of nebulization and impingement on viral survival](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2275.md)
 
 ## This Technology belongs to this TechGroup
 
 * [Indoor air technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2238.md)
-
-## This technology is mentioned by
-
-* [Effect of Ultraviolet Germicidal Irradiation on Viral Aerosols](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_88.md)
 
 ## This Technology belongs to this TechSubgroup
 
@@ -34,7 +34,7 @@
 
 * [Mechanical filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4340.md)
 
-## Risks linked to this technology
+## This technology is mentioned by
 
-* [Effects of nebulization and impingement on viral survival](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2275.md)
+* [Effect of Ultraviolet Germicidal Irradiation on Viral Aerosols](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_88.md)
 

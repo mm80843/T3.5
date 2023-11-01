@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Uv germicidal technology: limited awareness, efficacy, and safety concerns with potential health risks and lack of definitive evidence.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_46.md)
+* [Uv germicidal technology: limited awareness, efficacy, and safety concerns with potential health risks and lack of definitive evidence.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_96.md)
 
 ## Closest similar item
 
-* [Direct exposure to sunlight](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2910.md)
-* [Lack of sunlight and fresh air](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1285.md)
-* [Inadequate natural lighting](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1445.md)
-* [Inadequate lighting](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1116.md)
-* [Inadequate natural light](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1087.md)
-* [Poor lighting conditions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2227.md)
-* [Decreased exposure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1255.md)
-* [Lack of natural light](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1786.md)
-* [Lack of nature exposure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2912.md)
-* [Insufficient lighting and thermal comfort](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_953.md)
+* [Decreased exposure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2910.md)
+* [Direct exposure to sunlight](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1285.md)
+* [Inadequate lighting](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1445.md)
+* [Inadequate natural light](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1116.md)
+* [Inadequate natural lighting](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1087.md)
+* [Insufficient lighting and thermal comfort](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2227.md)
+* [Lack of natural light](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1255.md)
+* [Lack of nature exposure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1786.md)
+* [Lack of sunlight and fresh air](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2912.md)
+* [Poor lighting conditions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_953.md)
 
 ## Mitigations of this risk
 

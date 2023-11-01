@@ -4,20 +4,25 @@
 
 ## Category to which it belongs
 
-* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_212.md)
+* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_262.md)
 
 ## Closest similar item
 
 * [Adolescent](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2475.md)
-* [Youth](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_489.md)
-* [Young people](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_264.md)
-* [Children](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_62.md)
-* [Younger age group](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2168.md)
-* [Younger age groups](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1334.md)
+* [Child](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_489.md)
+* [Children](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_264.md)
+* [Parents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_62.md)
+* [Students](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2168.md)
+* [Young people](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1334.md)
 * [Young person](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2115.md)
-* [Child](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2269.md)
-* [Parents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_104.md)
-* [Students](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_101.md)
+* [Younger age group](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2269.md)
+* [Younger age groups](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_104.md)
+* [Youth](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_101.md)
+
+## Risk affecting this stakeholder
+
+* [Decreased physical activity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1272.md)
+* [Lack of physical activity in children and adolescents during quarantine](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1056.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -27,8 +32,7 @@
 
 * [Age groups](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2465.md)
 
-## Risk affecting this stakeholder
+## Type of the stakeholder
 
-* [Lack of physical activity in children and adolescents during quarantine](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1272.md)
-* [Decreased physical activity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1056.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

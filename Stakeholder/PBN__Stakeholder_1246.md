@@ -4,25 +4,29 @@
 
 ## Category to which it belongs
 
-* [A diverse collection of organizations responsible for various aspects of governance, health, environment, safety, and communication.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_199.md)
+* [A diverse collection of organizations responsible for various aspects of governance, health, environment, safety, and communication.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_249.md)
 
 ## Closest similar item
 
-* [Employers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_180.md)
-* [Government agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_55.md)
-* [Government agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2372.md)
-* [Labor organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1365.md)
-* [Employer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1993.md)
+* [Agencies/providers/associations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_180.md)
+* [Employer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_55.md)
+* [Employers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2372.md)
+* [Government agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1365.md)
+* [Government agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1993.md)
 * [Healthcare agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_541.md)
-* [Security agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1528.md)
-* [Social service agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1340.md)
-* [Agencies/providers/associations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1885.md)
-* [Marketing agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1904.md)
+* [Labor organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1528.md)
+* [Marketing agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1340.md)
+* [Security agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1885.md)
+* [Social service agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1904.md)
 
 ## Risks that can be mitigated by this stakeholder
 
-* [Disruption of immigrant employment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1827.md)
-* [Job losses](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2149.md)
-* [Increase in unemployment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2206.md)
+* [Disruption of immigrant employment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2149.md)
 * [Fragmentation of employment services and training](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2246.md)
+* [Increase in unemployment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1827.md)
+* [Job losses](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2206.md)
+
+## Type of the stakeholder
+
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
 

@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Efficient implementation of containment strategies, home quarantine, monitoring, and isolation measures to combat the spread of infectious diseases.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_74.md)
+* [Efficient implementation of containment strategies, home quarantine, monitoring, and isolation measures to combat the spread of infectious diseases.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_124.md)
 
 ## Closest similar item
 
-* [Implementing travel restrictions, screening protocols, and quarantine measures for travelers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2713.md)
-* [Quarantine measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3515.md)
-* [Implement travel restrictions, quarantine measures, and health screenings for individuals moving between cities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2196.md)
-* [Lockdown and quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3246.md)
-* [Implement temperature screening, travel advisories, and quarantine measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1456.md)
-* [Compliance of quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4808.md)
-* [Effective quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5058.md)
+* [Compliance of quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2713.md)
+* [Effective quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3515.md)
+* [Implement temperature screening, travel advisories, and quarantine measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2196.md)
+* [Implement travel restrictions, quarantine measures, and health screenings for individuals moving between cities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3246.md)
+* [Implementing travel restrictions, screening protocols, and quarantine measures for travelers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1456.md)
+* [Lockdown and quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4808.md)
+* [Quarantine and social distancing measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5058.md)
 * [Quarantine for high-risk individuals](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_93.md)
-* [Quarantine/isolation measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3346.md)
-* [Quarantine and social distancing measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_893.md)
+* [Quarantine measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3346.md)
+* [Quarantine/isolation measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_893.md)
 
 ## Risks possibly mitigated by this Mitigation
 

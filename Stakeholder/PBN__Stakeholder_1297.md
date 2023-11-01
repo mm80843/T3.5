@@ -4,27 +4,31 @@
 
 ## Category to which it belongs
 
-* [A diverse collection of organizations and individuals with specific areas of expertise and jurisdiction.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_189.md)
+* [A diverse collection of organizations and individuals with specific areas of expertise and jurisdiction.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_239.md)
 
 ## Closest similar item
 
-* [Housing authorities/agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2072.md)
-* [Housing authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2451.md)
-* [Housing agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_587.md)
-* [Housing agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1950.md)
-* [Government housing agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_608.md)
-* [Housing providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1884.md)
-* [Housing provider](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2004.md)
-* [Housing association](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2050.md)
-* [Housing organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_707.md)
-* [Housing associations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1968.md)
+* [Government housing agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2072.md)
+* [Housing agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2451.md)
+* [Housing agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_587.md)
+* [Housing association](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1950.md)
+* [Housing associations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_608.md)
+* [Housing authorities/agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1884.md)
+* [Housing authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2004.md)
+* [Housing organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2050.md)
+* [Housing provider](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_707.md)
+* [Housing providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1968.md)
+
+## Risk affecting this stakeholder
+
+* [Lack of government support](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1906.md)
 
 ## Risks that can be mitigated by this stakeholder
 
-* [Inadequate communication](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1905.md)
-* [Inadequate sanitation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1391.md)
-* [Limited access to resources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1902.md)
-* [Infrastructure challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1904.md)
+* [Inadequate communication](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1904.md)
+* [Inadequate sanitation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1905.md)
+* [Infrastructure challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1902.md)
+* [Limited access to resources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1391.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -34,7 +38,8 @@
 
 * [Housing authorities/agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2072.md)
 
-## Risk affecting this stakeholder
+## Type of the stakeholder
 
-* [Lack of government support](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1906.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

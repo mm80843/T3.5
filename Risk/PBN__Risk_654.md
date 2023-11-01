@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Standardizing coronavirus knowledge, the respiratory virus spreads through the built environment, work, touch, aerosols, and contaminated surfaces.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_23.md)
+* [Standardizing coronavirus knowledge, the respiratory virus spreads through the built environment, work, touch, aerosols, and contaminated surfaces.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_73.md)
 
 ## Closest similar item
 
-* [Limited efficacy against specific viruses](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1500.md)
-* [Lack of drug therapies for covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_935.md)
-* [Limited availability of medication and vaccines for covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_54.md)
-* [Inactivation of virus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3387.md)
-* [Lack of medication and vaccines for covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1483.md)
-* [Incomplete covid-19 prevention and mitigation information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_836.md)
-* [Effects of nebulization and impingement on viral survival](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2275.md)
-* [Slow the spread of the coronavirus pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3390.md)
-* [Inactivation of coronaviruses by biocidal agents in carrier tests](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1538.md)
-* [Infection prevention](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2461.md)
+* [Effects of nebulization and impingement on viral survival](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1500.md)
+* [Inactivation of coronaviruses by biocidal agents in carrier tests](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_935.md)
+* [Inactivation of virus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_54.md)
+* [Incomplete covid-19 prevention and mitigation information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3387.md)
+* [Infection prevention](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1483.md)
+* [Lack of drug therapies for covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_836.md)
+* [Lack of medication and vaccines for covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2275.md)
+* [Limited availability of medication and vaccines for covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3390.md)
+* [Limited efficacy against specific viruses](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1538.md)
+* [Slow the spread of the coronavirus pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2461.md)
 
 ## Mitigations of this risk
 

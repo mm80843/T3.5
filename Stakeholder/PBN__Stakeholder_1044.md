@@ -4,25 +4,29 @@
 
 ## Category to which it belongs
 
-* [A collection of diverse entities devoted to various causes, including mental and physical health, business, research, conservation, and social welfare.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_200.md)
+* [A collection of diverse entities devoted to various causes, including mental and physical health, business, research, conservation, and social welfare.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_250.md)
 
 ## Closest similar item
 
-* [Waste management organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2378.md)
+* [Waste management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2378.md)
 * [Waste management agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1487.md)
 * [Waste management agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2390.md)
-* [Waste management industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1584.md)
-* [Waste management authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_590.md)
-* [Waste management authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2388.md)
-* [Waste management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1484.md)
+* [Waste management authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1584.md)
+* [Waste management authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_590.md)
+* [Waste management industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2388.md)
+* [Waste management organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1484.md)
 * [Waste management staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_493.md)
-* [Waste management systems](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1439.md)
-* [Waste management system](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2592.md)
+* [Waste management system](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1439.md)
+* [Waste management systems](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2592.md)
+
+## Risk affecting this stakeholder
+
+* [Demolition and construction waste management](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1818.md)
 
 ## Risks that can be mitigated by this stakeholder
 
-* [Environmental impact and waste management challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1610.md)
-* [Demolition and construction waste management](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1818.md)
+* [Demolition and construction waste management](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1610.md)
+* [Environmental impact and waste management challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1818.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -32,7 +36,8 @@
 
 * [Waste management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1484.md)
 
-## Risk affecting this stakeholder
+## Type of the stakeholder
 
-* [Demolition and construction waste management](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1818.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

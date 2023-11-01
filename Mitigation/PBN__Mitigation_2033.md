@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Implementation of comprehensive and rigorous cleaning, disinfection, and sanitation practices to ensure effective and efficient pathogen eradication.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_70.md)
+* [Implementation of comprehensive and rigorous cleaning, disinfection, and sanitation practices to ensure effective and efficient pathogen eradication.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_120.md)
 
 ## Closest similar item
 
-* [Develop safe and efficient disinfectants](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1577.md)
-* [Effective disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_265.md)
-* [Use of disinfectants](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_721.md)
-* [Develop and implement effective disinfection protocols, invest in environmentally friendly disinfection technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1593.md)
-* [Regular disinfection and hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_324.md)
-* [Spraying disinfectants](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3151.md)
-* [Disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3283.md)
-* [Development of sustainable disinfection technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1293.md)
-* [Enhanced cleaning and disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3722.md)
-* [Implement proper disinfection measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2881.md)
+* [Develop and implement effective disinfection protocols, invest in environmentally friendly disinfection technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1577.md)
+* [Develop safe and efficient disinfectants](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_265.md)
+* [Development of sustainable disinfection technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_721.md)
+* [Disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1593.md)
+* [Effective disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_324.md)
+* [Enhanced cleaning and disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3151.md)
+* [Implement proper disinfection measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3283.md)
+* [Regular disinfection and hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1293.md)
+* [Spraying disinfectants](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3722.md)
+* [Use of disinfectants](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2881.md)
 
 ## Risks possibly mitigated by this Mitigation
 

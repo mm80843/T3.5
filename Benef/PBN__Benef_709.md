@@ -2,23 +2,27 @@
 
 # __Employee safety__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Reduces the risk of infection for vulnerable employees
+* [The impact of COVID-19 outbreak on United Kingdom infrastructure sector](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_141.md)
+
+## Category to which it belongs
+
+* [Safer and more secure working conditions with improved employee well-being and stability.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_49.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Improved employee well-being and retention](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_763.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [The impact of COVID-19 outbreak on United Kingdom infrastructure sector](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_141.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [Existing workforce](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_294.md)
+Reduces the risk of infection for vulnerable employees
 
 ## Risks which can benefit from this action
 
 * [Restructuring workforce](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_708.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [Existing workforce](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_294.md)
 

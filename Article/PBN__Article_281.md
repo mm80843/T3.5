@@ -2,9 +2,25 @@
 
 # __A comprehensive review on indoor air quality monitoring systems for enhanced public health__
 
+## Benefits listed in this article
+
+* [Access to cleaner and more efficient fuel](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_169.md)
+* [Enhanced indoor environmental quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1321.md)
+* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1322.md)
+* [Reduced exposure to harmful pollutants](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1319.md)
+* [Reduced exposure to vocs](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1320.md)
+
 ## DOI of the article
 
 10.1186/s42834-020-0047-y
+
+## List of risks in an article
+
+* [Chemical pollutants](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1995.md)
+* [Indoor air pollution iap](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1994.md)
+* [Lack of iaq monitoring](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1418.md)
+* [Poor ventilation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1993.md)
+* [Use of biomass fuels](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1996.md)
 
 ## Short summary of the article
 
@@ -14,6 +30,45 @@ This paper provides an overview of the challenges and health impacts associated 
 
 Researchers have been studying the quality of the air we breathe, especially indoors. They have found that the air we breathe indoors can be even more dangerous than the air outside. In many developing countries, people use biomass fuels like wood and coal for cooking indoors, and this leads to indoor air pollution. This pollution can cause a lot of health problems like respiratory infections, asthma, and even cancer. In developed countries, people use cleaner fuels like electricity, but there are still problems with indoor air quality due to modern heating and cooling systems. To help solve this problem, researchers are developing systems to monitor indoor air quality and alert people to any dangers. These systems can help improve the air we breathe and keep us healthier.
 
+## This article mentions these technologies
+
+* [Access to modern energy sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
+* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+* [Clean cooking technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_249.md)
+* [Clean cookstoves](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1011.md)
+* [Data monitoring and analysis systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1481.md)
+* [Improved biomass fuels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1482.md)
+* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1483.md)
+* [Indoor air quality sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1012.md)
+* [Mechanical ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1480.md)
+* [Natural ventilation strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1485.md)
+* [Reducing chemical use in indoor environments](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1484.md)
+* [Ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1486.md)
+
+## This article points to following mitigation
+
+* [Access to clean cooking fuels](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4658.md)
+* [Active smoke-free policies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4668.md)
+* [Adequate air exchange](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4664.md)
+* [Advanced ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4655.md)
+* [Control of moisture and humidity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4657.md)
+* [Efficient cooking practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4670.md)
+* [Elimination of indoor pollutants](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4667.md)
+* [Energy-efficient heating/cooling](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4672.md)
+* [Filtering indoor air](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3237.md)
+* [Improved building insulation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4666.md)
+* [Improved cooking stoves](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4661.md)
+* [Indoor air quality monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4659.md)
+* [Natural ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4357.md)
+* [Products](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4656.md)
+* [Proper building ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4665.md)
+* [Public awareness and education](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4669.md)
+* [Regular cleaning and maintenance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4663.md)
+* [Regular hvac maintenance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4654.md)
+* [Sustainable building design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4660.md)
+* [Use of low-voc products](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4671.md)
+* [Use of non-toxic cleaning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4662.md)
+
 ## Title of the article
 
 A comprehensive review on indoor air quality monitoring systems for enhanced public health
@@ -21,59 +76,4 @@ A comprehensive review on indoor air quality monitoring systems for enhanced pub
 ## Year of publication
 
 2020
-
-## Benefits listed in this article
-
-* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_169.md)
-* [Reduced exposure to harmful pollutants](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1319.md)
-* [Access to cleaner and more efficient fuel](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1320.md)
-* [Enhanced indoor environmental quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1321.md)
-* [Reduced exposure to vocs](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1322.md)
-
-## List of risks in an article
-
-* [Use of biomass fuels](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1994.md)
-* [Indoor air pollution iap](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1993.md)
-* [Poor ventilation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1418.md)
-* [Lack of iaq monitoring](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1996.md)
-* [Chemical pollutants](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1995.md)
-
-## This article points to following mitigation
-
-* [Public awareness and education](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4658.md)
-* [Sustainable building design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4668.md)
-* [Adequate air exchange](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4670.md)
-* [Advanced ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4655.md)
-* [Natural ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3237.md)
-* [Energy-efficient heating/cooling](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4656.md)
-* [Filtering indoor air](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4667.md)
-* [Regular hvac maintenance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4661.md)
-* [Proper building ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4659.md)
-* [Control of moisture and humidity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4669.md)
-* [Indoor air quality monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4357.md)
-* [Regular cleaning and maintenance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4666.md)
-* [Improved building insulation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4664.md)
-* [Elimination of indoor pollutants](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4665.md)
-* [Products](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4672.md)
-* [Efficient cooking practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4663.md)
-* [Improved cooking stoves](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4654.md)
-* [Access to clean cooking fuels](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4657.md)
-* [Use of non-toxic cleaning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4671.md)
-* [Use of low-voc products](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4660.md)
-* [Active smoke-free policies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4662.md)
-
-## This article mentions these technologies
-
-* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
-* [Mechanical ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1011.md)
-* [Ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
-* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_249.md)
-* [Data monitoring and analysis systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1486.md)
-* [Indoor air quality sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1485.md)
-* [Natural ventilation strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1012.md)
-* [Improved biomass fuels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1482.md)
-* [Access to modern energy sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1483.md)
-* [Clean cooking technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1480.md)
-* [Clean cookstoves](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1481.md)
-* [Reducing chemical use in indoor environments](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1484.md)
 

@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [People from diverse backgrounds and circumstances, including marginalized individuals, with different abilities, and in various environments.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_215.md)
+* [People from diverse backgrounds and circumstances, including marginalized individuals, with different abilities, and in various environments.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_265.md)
 
 ## Closest similar item
 
-* [Individual attending event](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2460.md)
+* [Attendees of mass gatherings](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2460.md)
 * [Event attendees](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_841.md)
-* [Attendees of mass gatherings](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_858.md)
-* [Event organizers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_859.md)
-* [Individuals attending nan events](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1520.md)
-* [Individuals in crowded](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_661.md)
-* [Social gatherings](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_681.md)
-* [Funeral attendees](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_235.md)
+* [Event organizers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_858.md)
+* [Funeral attendees](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_859.md)
+* [Individual attending event](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1520.md)
+* [Individuals attending nan events](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_661.md)
+* [Individuals in crowded](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_681.md)
+* [Individuals in crowded environments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_235.md)
 * [Social gathering](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2436.md)
-* [Individuals in crowded environments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1594.md)
+* [Social gatherings](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1594.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

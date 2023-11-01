@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [People exploring different locations, staying in accommodations, and contributing to the hospitality and tourism sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_223.md)
+* [People exploring different locations, staying in accommodations, and contributing to the hospitality and tourism sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_273.md)
 
 ## Closest similar item
 
-* [Worker in the hospitality industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1736.md)
-* [Hotel worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1762.md)
-* [Hospitality workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1212.md)
-* [Workers in the hospitality industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1786.md)
+* [Hospitality industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1736.md)
+* [Hospitality workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1762.md)
+* [Hotel worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1212.md)
+* [Hotel workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1786.md)
 * [Restaurant worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1744.md)
-* [Worker in the tourism industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1782.md)
+* [Service worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1782.md)
 * [Worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1755.md)
-* [Hotel workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1749.md)
-* [Service worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1739.md)
-* [Hospitality industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_244.md)
+* [Worker in the hospitality industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1749.md)
+* [Worker in the tourism industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1739.md)
+* [Workers in the hospitality industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_244.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

@@ -4,19 +4,19 @@
 
 ## Category to which it belongs
 
-* [The prevalence and impact of inaccurate, uncertain, and biased data pose significant challenges in decision-making and effective response to the covid-19 pandemic.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_34.md)
+* [The prevalence and impact of inaccurate, uncertain, and biased data pose significant challenges in decision-making and effective response to the covid-19 pandemic.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_84.md)
 
 ## Closest similar item
 
-* [Exaggerated estimates](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1507.md)
-* [Biases in representation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2636.md)
-* [Bias in regions without testing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2678.md)
-* [Inaccurate results or bias](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2995.md)
-* [Biased risk perception](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1800.md)
-* [High uncertainty in estimates and predictions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1388.md)
-* [Publication bias](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1496.md)
+* [Bias in regions without testing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1507.md)
+* [Biased risk perception](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2636.md)
+* [Biases in representation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2678.md)
+* [Exaggerated estimates](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2995.md)
+* [High uncertainty in estimates and predictions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1800.md)
+* [Inaccurate results or bias](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1388.md)
+* [Lack of evidence synthesis and filtering](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1496.md)
 * [Non-evidence-based measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_375.md)
-* [Lack of evidence synthesis and filtering](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_394.md)
+* [Publication bias](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_394.md)
 * [Sample bias in wearable device studies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1110.md)
 
 ## Mitigations of this risk

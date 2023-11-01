@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Green space stakeholders and caretakers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_238.md)
+* [Green space stakeholders and caretakers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_288.md)
 
 ## Closest similar item
 
-* [Pest control service](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1726.md)
-* [Pest control companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1096.md)
-* [Pest control company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1697.md)
-* [Agricultural agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1263.md)
-* [Vector control agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1064.md)
-* [Service providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_474.md)
-* [Cleaning services](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_536.md)
-* [Park management agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2605.md)
-* [Agricultural organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1208.md)
-* [Service provider](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2059.md)
+* [Agricultural agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1726.md)
+* [Agricultural organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1096.md)
+* [Cleaning services](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1697.md)
+* [Park management agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1263.md)
+* [Pest control companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1064.md)
+* [Pest control company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_474.md)
+* [Pest control service](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_536.md)
+* [Service provider](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2605.md)
+* [Service providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1208.md)
+* [Vector control agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2059.md)
 
 ## Risks that can be mitigated by this stakeholder
 
@@ -30,4 +30,8 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Specific roles and job titles](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1654.md)
+
+## Type of the stakeholder
+
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
 

@@ -4,34 +4,34 @@
 
 ## Category to which it belongs
 
-* [Improved and diversified communication channels through digital integration, telecommunication technology, and network infrastructure.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_105.md)
+* [Improved and diversified communication channels through digital integration, telecommunication technology, and network infrastructure.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_155.md)
 
 ## Closest similar item
 
-* [Messaging apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3400.md)
+* [Communication and collaboration tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3400.md)
 * [Communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_168.md)
-* [Online communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3404.md)
-* [Sms messaging](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3775.md)
-* [Communication and collaboration tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_808.md)
-* [Targeted messaging](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_891.md)
-* [Digital communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_717.md)
-* [Virtual communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_144.md)
+* [Digital communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3404.md)
+* [Messaging apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3775.md)
+* [Online communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_808.md)
+* [Public health messaging systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_891.md)
+* [Sms messaging](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_717.md)
+* [Targeted messaging](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_144.md)
 * [Text and video messaging](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2452.md)
-* [Public health messaging systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_703.md)
+* [Virtual communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_703.md)
+
+## Risks linked to this technology
+
+* [Misinformation and communication gaps](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1962.md)
 
 ## This Technology belongs to this TechGroup
 
 * [Social media](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_896.md)
 
-## This technology is mentioned by
-
-* [COVID-19: A new digital dawn?](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_93.md)
-
 ## This Technology belongs to this TechSubgroup
 
 * [Communication technologies and channels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2066.md)
 
-## Risks linked to this technology
+## This technology is mentioned by
 
-* [Misinformation and communication gaps](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1962.md)
+* [COVID-19: A new digital dawn?](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_93.md)
 

@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Combatting malaria and mitigating its impact through various means such as drugs, deterrents, treatments, surveillance, alternative materials, and pest control.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_149.md)
+* [Combatting malaria and mitigating its impact through various means such as drugs, deterrents, treatments, surveillance, alternative materials, and pest control.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_199.md)
 
 ## Closest similar item
 
-* [Integrated pest management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1211.md)
-* [Pollution control measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3206.md)
-* [Auto-dissemination of insecticides](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_978.md)
+* [Auto-dissemination of insecticides](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1211.md)
+* [Environmental controls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3206.md)
+* [Insecticide-treated screens](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_978.md)
 * [Insecticides](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3823.md)
-* [Pesticides](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3421.md)
+* [Integrated pest management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3421.md)
 * [Mosquito control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2361.md)
 * [Mosquito control operations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3422.md)
-* [Environmental controls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1880.md)
+* [Pesticides](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1880.md)
 * [Planting insect-pollinated plants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3079.md)
-* [Insecticide-treated screens](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3049.md)
+* [Pollution control measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3049.md)
 
 ## This Technology enables the following mitigations
 

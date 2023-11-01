@@ -9,8 +9,8 @@
 
 ## This article mentions these technologies
 
+* [Experiences](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1870.md)
+* [Hygiene measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1875.md)
 * [Promotion of virtual tours and classes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1876.md)
-* [Hygiene measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1869.md)
-* [Public education and awareness](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1870.md)
-* [Experiences](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1875.md)
+* [Public education and awareness](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1869.md)
 

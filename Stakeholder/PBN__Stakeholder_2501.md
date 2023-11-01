@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_212.md)
+* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_262.md)
 
 ## Closest similar item
 
-* [Future generations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1436.md)
-* [Future residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_512.md)
-* [Youth](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_489.md)
-* [Less technologically advanced individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1311.md)
-* [Education](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1630.md)
-* [Young people](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_264.md)
-* [Adolescent](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2475.md)
-* [Adolescents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_577.md)
-* [Parents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_104.md)
-* [Technology and innovation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1873.md)
+* [Adolescent](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1436.md)
+* [Adolescents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_512.md)
+* [Education](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_489.md)
+* [Future generations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1311.md)
+* [Future residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1630.md)
+* [Less technologically advanced individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_264.md)
+* [Parents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2475.md)
+* [Technology and innovation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_577.md)
+* [Young people](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_104.md)
+* [Youth](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1873.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

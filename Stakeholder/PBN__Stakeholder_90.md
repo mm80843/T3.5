@@ -2,24 +2,28 @@
 
 # __Finance sector__
 
+## Category to which it belongs
+
+* [The financial ecosystem involves a diverse range of entities such as investors, regulatory bodies, stakeholders, banks, and professional associations.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_280.md)
+
+## Closest similar item
+
+* [Business and financial services](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_405.md)
+* [Finance department](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_930.md)
+* [Finance team](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_987.md)
+* [Financial institution](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2033.md)
+* [Financial institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1863.md)
+* [Financial team](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1865.md)
+* [Global economic and financial systems](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_929.md)
+* [Private sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_57.md)
+* [Real estate sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_24.md)
+* [Sector/industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1862.md)
+
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Private investment](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_151.md)
 
-## Category to which it belongs
+## Type of the stakeholder
 
-* [The financial ecosystem involves a diverse range of entities such as investors, regulatory bodies, stakeholders, banks, and professional associations.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_230.md)
-
-## Closest similar item
-
-* [Financial institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_405.md)
-* [Finance team](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_930.md)
-* [Finance department](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_987.md)
-* [Financial institution](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2033.md)
-* [Sector/industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1863.md)
-* [Business and financial services](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1865.md)
-* [Financial team](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_929.md)
-* [Private sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_57.md)
-* [Global economic and financial systems](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_24.md)
-* [Real estate sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1862.md)
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_0.md)
 

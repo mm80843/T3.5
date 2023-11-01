@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_116.md)
+* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_166.md)
 
 ## Closest similar item
 
-* [Signage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_230.md)
-* [Signs and information boards](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_415.md)
+* [](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_230.md)
+* [Announcements](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_415.md)
 * [Closure signs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_366.md)
-* [Self-reported symptoms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2412.md)
-* [Diagnostic tests](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1000.md)
-* [Signage materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3475.md)
-* [Fans](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2424.md)
-* [Testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_401.md)
-* [](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3360.md)
-* [Announcements](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_776.md)
+* [Diagnostic tests](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2412.md)
+* [Fans](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1000.md)
+* [Self-reported symptoms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3475.md)
+* [Signage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2424.md)
+* [Signage materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_401.md)
+* [Signs and information boards](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3360.md)
+* [Testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_776.md)
 
 ## This Technology enables the following mitigations
 

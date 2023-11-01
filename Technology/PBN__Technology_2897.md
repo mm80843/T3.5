@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The advancement and use of various technologies and materials for the purpose of eliminating microorganisms and promoting cleanliness.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_114.md)
+* [The advancement and use of various technologies and materials for the purpose of eliminating microorganisms and promoting cleanliness.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_164.md)
 
 ## Closest similar item
 
-* [Disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_411.md)
-* [Liquid disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2868.md)
-* [Chemical disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3772.md)
-* [Advanced liquid disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_788.md)
+* [Advanced liquid disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_411.md)
+* [Chemical disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2868.md)
+* [Cleaning disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3772.md)
+* [Disinfectant](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_788.md)
 * [Disinfectant products](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2458.md)
-* [Disinfection products](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3118.md)
-* [Use of disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1726.md)
-* [Cleaning disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3880.md)
-* [Disinfection technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_348.md)
-* [Disinfectant](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3115.md)
+* [Disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3118.md)
+* [Disinfection products](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1726.md)
+* [Disinfection technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3880.md)
+* [Liquid disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_348.md)
+* [Use of disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3115.md)
 
 ## This Technology enables the following mitigations
 

@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Enforcement, regulation, and policy measures are implemented to ensure compliance, ethical standards, and effective governance.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_137.md)
+* [Enforcement, regulation, and policy measures are implemented to ensure compliance, ethical standards, and effective governance.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_187.md)
 
 ## Closest similar item
 
-* [International cooperation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2984.md)
-* [International coordination](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_918.md)
-* [Coordination](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3257.md)
-* [International partnerships](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3696.md)
-* [Coordination systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1283.md)
-* [International organizations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_611.md)
-* [Transnational governance mechanisms and cooperative agreements](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_734.md)
-* [International collaboration platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2771.md)
-* [Coordination mechanisms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3680.md)
-* [Coordination with suppliers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2532.md)
+* [Coordination](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2984.md)
+* [Coordination mechanisms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_918.md)
+* [Coordination systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3257.md)
+* [Coordination with suppliers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3696.md)
+* [International collaboration platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1283.md)
+* [International cooperation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_611.md)
+* [International coordination](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_734.md)
+* [International organizations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2771.md)
+* [International partnerships](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3680.md)
+* [Transnational governance mechanisms and cooperative agreements](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2532.md)
 
 ## This Technology enables the following mitigations
 

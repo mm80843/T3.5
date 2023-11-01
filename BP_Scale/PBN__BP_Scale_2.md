@@ -4,9 +4,9 @@
 
 ## Scale of the of the blueprint
 
-* [Public places as information points](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_8.md)
-* [Tender support at building stage](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_9.md)
+* [Acces to green space](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_8.md)
+* [Public places as information points](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_9.md)
 * [Resilience in staffing and skills training](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_12.md)
-* [Acces to green space](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_16.md)
+* [Tender support at building stage](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_16.md)
 * [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_17.md)
 

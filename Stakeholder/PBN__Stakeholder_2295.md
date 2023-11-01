@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_212.md)
+* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_262.md)
 
 ## Closest similar item
 
-* [Immigrants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_487.md)
-* [Migrant](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2338.md)
-* [Child of immigrant](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2153.md)
-* [Migrants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_446.md)
-* [Children of immigrants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1247.md)
-* [Migrants and minorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2264.md)
-* [Refugees](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_948.md)
-* [Migrant populations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1382.md)
-* [Global migrants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_947.md)
-* [Immigration authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1072.md)
+* [Child of immigrant](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_487.md)
+* [Children of immigrants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2338.md)
+* [Global migrants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2153.md)
+* [Immigrants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_446.md)
+* [Immigration authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1247.md)
+* [Migrant](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2264.md)
+* [Migrant populations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_948.md)
+* [Migrants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1382.md)
+* [Migrants and minorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_947.md)
+* [Refugees](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1072.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

@@ -2,9 +2,26 @@
 
 # __Covid-19 Associated Risks and Mitigation Strategies relevant for the UK Construction Industry__
 
+## Benefits listed in this article
+
+* [Business support](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_659.md)
+* [Contractual stability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_368.md)
+* [Improved decision-making](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1011.md)
+* [Increased productivity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_678.md)
+* [Risk mitigation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1009.md)
+* [Worker safety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1010.md)
+
 ## DOI of the article
 
 10.20935/AL1485
+
+## List of risks in an article
+
+* [Contractual problems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1298.md)
+* [Economic impact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_124.md)
+* [Insolvency risks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_730.md)
+* [Labour shortages](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_731.md)
+* [Social distancing impact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1299.md)
 
 ## Short summary of the article
 
@@ -14,6 +31,27 @@ The COVID-19 pandemic has posed significant risks to the UK construction industr
 
 The Covid-19 pandemic has affected the construction industry in the UK. There are three main risks: lockdown, economic recession, and social distancing. Lockdown means fewer workers and delays in projects. The recession makes it hard for businesses to pay their bills. Social distancing measures change how workers can do their jobs and may affect their mental health. To reduce risks, the government and industry leaders have taken steps, like providing financial support and creating safety guidelines. Offsite construction and better planning can also help. It's important to communicate clearly and prevent disputes between employers and workers.
 
+## This article mentions these technologies
+
+* [Communication platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_459.md)
+* [Contract management software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_460.md)
+* [Financial management software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_458.md)
+* [Financial planning tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_284.md)
+* [Government financial aid programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_128.md)
+* [Remote monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_135.md)
+* [Remote work technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_457.md)
+* [Virtual collaboration tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_461.md)
+* [Workplace safety technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_131.md)
+
+## This article points to following mitigation
+
+* [Better communication channels](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3552.md)
+* [Detailed and better task planning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3551.md)
+* [Early serving of notices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3550.md)
+* [Offsite construction](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3553.md)
+* [Second shift schedule](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1012.md)
+* [Standard working procedures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1015.md)
+
 ## Title of the article
 
 Covid-19 Associated Risks and Mitigation Strategies relevant for the UK Construction Industry
@@ -21,42 +59,4 @@ Covid-19 Associated Risks and Mitigation Strategies relevant for the UK Construc
 ## Year of publication
 
 2021
-
-## Benefits listed in this article
-
-* [Increased productivity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_368.md)
-* [Improved decision-making](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_659.md)
-* [Risk mitigation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_678.md)
-* [Business support](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1009.md)
-* [Contractual stability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1010.md)
-* [Worker safety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1011.md)
-
-## List of risks in an article
-
-* [Social distancing impact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1298.md)
-* [Economic impact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_124.md)
-* [Contractual problems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_731.md)
-* [Labour shortages](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_730.md)
-* [Insolvency risks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1299.md)
-
-## This article points to following mitigation
-
-* [Detailed and better task planning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3552.md)
-* [Better communication channels](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3551.md)
-* [Offsite construction](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1012.md)
-* [Standard working procedures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3550.md)
-* [Second shift schedule](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3553.md)
-* [Early serving of notices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1015.md)
-
-## This article mentions these technologies
-
-* [Financial management software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_128.md)
-* [Government financial aid programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_457.md)
-* [Remote work technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_284.md)
-* [Virtual collaboration tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_131.md)
-* [Contract management software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_458.md)
-* [Communication platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_135.md)
-* [Remote monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_460.md)
-* [Financial planning tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_461.md)
-* [Workplace safety technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_459.md)
 

@@ -4,26 +4,30 @@
 
 ## Category to which it belongs
 
-* [Individuals with ownership, control, or responsibility over various properties, businesses, data, or belongings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_213.md)
+* [Individuals with ownership, control, or responsibility over various properties, businesses, data, or belongings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_263.md)
 
 ## Closest similar item
 
-* [Venue owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1627.md)
-* [Facility owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_844.md)
-* [Owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1868.md)
-* [Public venues](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_939.md)
-* [Hotel owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2028.md)
-* [Restaurant owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1965.md)
-* [Facility owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2053.md)
-* [Store owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1751.md)
-* [Public place owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_766.md)
-* [Business owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_726.md)
+* [Business owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1627.md)
+* [Facility owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_844.md)
+* [Facility owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1868.md)
+* [Hotel owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_939.md)
+* [Owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2028.md)
+* [Public place owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1965.md)
+* [Public venues](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2053.md)
+* [Restaurant owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1751.md)
+* [Store owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_766.md)
+* [Venue owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_726.md)
 
 ## Risks that can be mitigated by this stakeholder
 
-* [Crowded public spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1317.md)
-* [Risk of transmission in public spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1468.md)
-* [Overcrowding](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_571.md)
+* [Crowded public spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1468.md)
+* [Overcrowding](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1317.md)
+* [Risk of transmission in public spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_571.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [Venue owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_842.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -33,7 +37,7 @@
 
 * [Venue owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_842.md)
 
-## Stakeholders in this stakeholder subgroup
+## Type of the stakeholder
 
-* [Venue owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_842.md)
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
 

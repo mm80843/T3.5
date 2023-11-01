@@ -2,9 +2,24 @@
 
 # __SARS-CoV-2 in wastewater: potential health risk, but also data source__
 
+## Benefits listed in this article
+
+* [Early detection of virus circulation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_358.md)
+* [Improved management of liver transplant recipients](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_360.md)
+* [Indication of virus circulation in the human population](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_362.md)
+* [Informative data in areas with scarce data](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_359.md)
+* [Protection from infectious diseases](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_361.md)
+
 ## DOI of the article
 
 10.1016/S2468-1253(20)30087-X
+
+## List of risks in an article
+
+* [Enteric involvement in covid-19 patients](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1646.md)
+* [Faecal-oral transmission of covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1648.md)
+* [Limited data and sample size](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_292.md)
+* [Sars-cov-2 in wastewater](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1647.md)
 
 ## Short summary of the article
 
@@ -14,6 +29,26 @@ This study reports the detection of SARS-CoV-2 in wastewater samples collected a
 
 Scientists have found the virus that causes COVID-19 in wastewater. This means that by testing wastewater, they can see if the virus is spreading in a community before people even show symptoms. This could help them give early warnings and stop the virus from spreading more. They have also found that the virus can be in poop and might be able to spread through people's poop. So it's important to have good sanitation to keep everyone safe. Scientists are still learning more about how the virus spreads, but this new discovery could help keep us safe from COVID-19.
 
+## This article mentions these technologies
+
+* [Data collection tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_996.md)
+* [Diagnostic tests](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_997.md)
+* [Diagnostic tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1001.md)
+* [Gastrointestinal monitoring tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_897.md)
+* [Improved sanitation infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1000.md)
+* [Improved water treatment technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_609.md)
+* [Research methodologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_999.md)
+* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_998.md)
+
+## This article points to following mitigation
+
+* [Enteric involvement studies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_149.md)
+* [Environmental surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4097.md)
+* [Improved sanitation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4098.md)
+* [Maintaining immunosuppression in liver transplant recipients](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4096.md)
+* [Safe water, sanitation, and hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4099.md)
+* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4100.md)
+
 ## Title of the article
 
 SARS-CoV-2 in wastewater: potential health risk, but also data source
@@ -21,39 +56,4 @@ SARS-CoV-2 in wastewater: potential health risk, but also data source
 ## Year of publication
 
 2020
-
-## Benefits listed in this article
-
-* [Early detection of virus circulation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_358.md)
-* [Indication of virus circulation in the human population](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_360.md)
-* [Informative data in areas with scarce data](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_362.md)
-* [Protection from infectious diseases](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_359.md)
-* [Improved management of liver transplant recipients](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_361.md)
-
-## List of risks in an article
-
-* [Sars-cov-2 in wastewater](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1646.md)
-* [Limited data and sample size](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1648.md)
-* [Enteric involvement in covid-19 patients](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_292.md)
-* [Faecal-oral transmission of covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1647.md)
-
-## This article points to following mitigation
-
-* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_149.md)
-* [Improved sanitation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4098.md)
-* [Safe water, sanitation, and hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4096.md)
-* [Maintaining immunosuppression in liver transplant recipients](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4099.md)
-* [Environmental surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4097.md)
-* [Enteric involvement studies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4100.md)
-
-## This article mentions these technologies
-
-* [Gastrointestinal monitoring tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_999.md)
-* [Diagnostic tests](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1000.md)
-* [Improved sanitation infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_998.md)
-* [Data collection tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1001.md)
-* [Diagnostic tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_609.md)
-* [Improved water treatment technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_996.md)
-* [Research methodologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_897.md)
-* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_997.md)
 

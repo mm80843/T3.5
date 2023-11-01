@@ -2,26 +2,26 @@
 
 # __Cancellation of educational activities__
 
-## Link between Blueprint and General ontology
-
-* [Activities continuity](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Theme_8.md)
-
 ## Category to which it belongs
 
-* [The pandemic has led to a decrease in in-person surgical education, loss of control, temporary panic from cruise ship docking, limited social distancing, and decreased morale.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_20.md)
+* [The pandemic has led to a decrease in in-person surgical education, loss of control, temporary panic from cruise ship docking, limited social distancing, and decreased morale.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_70.md)
 
 ## Closest similar item
 
-* [Disrupted educational activities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3179.md)
-* [Disrupted education during school closures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3061.md)
-* [Interrupted education for children and adults](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_780.md)
-* [Interrupted education](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1617.md)
-* [Disruption of education](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2625.md)
-* [Disruption of education system](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2210.md)
+* [Disrupted education during school closures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3179.md)
+* [Disrupted educational activities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3061.md)
+* [Disruption in education system](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_780.md)
+* [Disruption of education](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1617.md)
+* [Disruption of education system](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2625.md)
+* [Disruption of work and education](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2210.md)
 * [Education disruption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_234.md)
-* [Disruption in education system](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1793.md)
-* [School closures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1864.md)
-* [Disruption of work and education](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3176.md)
+* [Interrupted education](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1793.md)
+* [Interrupted education for children and adults](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1864.md)
+* [School closures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3176.md)
+
+## Link between Blueprint and General ontology
+
+* [Activities continuity](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Theme_8.md)
 
 ## Mitigations of this risk
 

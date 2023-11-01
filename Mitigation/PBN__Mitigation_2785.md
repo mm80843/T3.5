@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Promote sustainable and efficient energy practices, utilize renewable sources, efficient appliances, and implement energy management systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_99.md)
+* [Promote sustainable and efficient energy practices, utilize renewable sources, efficient appliances, and implement energy management systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_149.md)
 
 ## Closest similar item
 
-* [Implement proper waste management and recycling systems, encourage environmentally-friendly consumer behavior.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3096.md)
-* [Waste management strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1146.md)
-* [Improved waste management strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5055.md)
-* [Effective waste management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3198.md)
+* [Effective waste management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3096.md)
+* [Enhance waste management systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1146.md)
+* [Implement additional waste management measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5055.md)
+* [Implement proper waste management and recycling systems, encourage environmentally-friendly consumer behavior.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3198.md)
 * [Implementing effective waste management systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1503.md)
-* [Implement additional waste management measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2882.md)
-* [Improved waste management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4042.md)
-* [Enhance waste management systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2161.md)
-* [Promoting sustainable design and construction practices, proper waste management.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2089.md)
-* [Proper waste management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3414.md)
+* [Improved waste management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2882.md)
+* [Improved waste management strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4042.md)
+* [Promoting sustainable design and construction practices, proper waste management.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2161.md)
+* [Proper waste management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2089.md)
+* [Waste management strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3414.md)
 
 ## Risks possibly mitigated by this Mitigation
 

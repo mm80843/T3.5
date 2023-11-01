@@ -2,26 +2,26 @@
 
 # __Connectivity analysis__
 
-## Category to which it belongs
-
-* [Optimizing public health response through the integration of artificial intelligence, machine learning, bioinformatics tools, and knowledge sharing.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_87.md)
-
-## Closest similar item
-
-* [Spatial analysis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_160.md)
-* [Solidarity networks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4818.md)
-* [Statistical analysis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4148.md)
-* [Social network](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4619.md)
-* [Sensory networks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4819.md)
-* [Cluster identification](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4807.md)
-* [Improved internet connectivity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_353.md)
-* [Correlation/association analysis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4150.md)
-* [Collaborative networks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4286.md)
-* [Analysis visualization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4069.md)
-
 ## Benefits linked to a risk
 
 * [Identification of source and sink areas](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_386.md)
+
+## Category to which it belongs
+
+* [Optimizing public health response through the integration of artificial intelligence, machine learning, bioinformatics tools, and knowledge sharing.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_137.md)
+
+## Closest similar item
+
+* [Analysis visualization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_160.md)
+* [Cluster identification](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4818.md)
+* [Collaborative networks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4148.md)
+* [Correlation/association analysis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4619.md)
+* [Improved internet connectivity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4819.md)
+* [Sensory networks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4807.md)
+* [Social network](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_353.md)
+* [Solidarity networks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4150.md)
+* [Spatial analysis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4286.md)
+* [Statistical analysis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4069.md)
 
 ## Risks possibly mitigated by this Mitigation
 

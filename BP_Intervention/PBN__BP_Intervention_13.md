@@ -2,6 +2,15 @@
 
 # __Touchless technologies__
 
+## Category to which it belongs
+
+* [Innovative methods that allow interaction without physical contact.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_212.md)
+
+## This intervention is used in the following blueprints
+
+* [Reducing contact points](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_1.md)
+* [Smart locker system](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_15.md)
+
 ## Property: has_BP_InterventionKey
 
 PS2
@@ -9,13 +18,4 @@ PS2
 ## Property: has_BP_InterventionTitle
 
 Touchless technologies
-
-## Category to which it belongs
-
-* [Innovative methods that allow interaction without physical contact.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_162.md)
-
-## This intervention is used in the following blueprints
-
-* [Smart locker system](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_1.md)
-* [Reducing contact points](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_15.md)
 

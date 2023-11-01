@@ -4,22 +4,26 @@
 
 ## Category to which it belongs
 
-* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_212.md)
+* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_262.md)
 
 ## Closest similar item
 
-* [Residents of informal settlements](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_95.md)
-* [Resident of informal settlement](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2309.md)
+* [Informal sector worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_95.md)
+* [Informal sector workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2309.md)
 * [Informal workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_96.md)
-* [Workers in the informal sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1778.md)
-* [Informal sector workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1259.md)
-* [Worker in the informal sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1743.md)
-* [Informal sector worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1768.md)
+* [Poor urban communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1778.md)
+* [Resident of informal settlement](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1259.md)
+* [Residents of informal settlements](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1743.md)
+* [Urban communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1768.md)
 * [Women in informal economy](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1360.md)
-* [Poor urban communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_276.md)
-* [Urban communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_774.md)
+* [Worker in the informal sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_276.md)
+* [Workers in the informal sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_774.md)
 
 ## Risk affecting this stakeholder
 
 * [Inadequate sanitation facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1408.md)
+
+## Type of the stakeholder
+
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

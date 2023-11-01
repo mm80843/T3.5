@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_116.md)
+* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_166.md)
 
 ## Closest similar item
 
-* [Provide active workstations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1373.md)
-* [Designated workspaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_741.md)
-* [Computers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3464.md)
-* [Smart windows](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3716.md)
-* [Remote work technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_284.md)
+* [Access control systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1373.md)
+* [Computers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_741.md)
+* [Designated workspaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3464.md)
+* [Provide active workstations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3716.md)
+* [Remote work options](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_284.md)
 * [Remote work technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_134.md)
-* [Remote working technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_548.md)
+* [Remote work technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_548.md)
 * [Remote working technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_218.md)
-* [Access control systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_164.md)
-* [Remote work options](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1496.md)
+* [Remote working technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_164.md)
+* [Smart windows](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1496.md)
 
 ## This Technology enables the following mitigations
 

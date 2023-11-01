@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [A collection of diverse entities devoted to various causes, including mental and physical health, business, research, conservation, and social welfare.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_200.md)
+* [A collection of diverse entities devoted to various causes, including mental and physical health, business, research, conservation, and social welfare.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_250.md)
 
 ## Closest similar item
 
-* [Veterinary organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_990.md)
-* [Wildlife conservation organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2598.md)
-* [Wildlife conservation organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_543.md)
-* [Health organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1848.md)
-* [Healthcare organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1849.md)
-* [Organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1912.md)
-* [Organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_186.md)
-* [Professional organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1723.md)
-* [Health organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_422.md)
-* [Healthcare organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_216.md)
+* [Health organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_990.md)
+* [Health organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2598.md)
+* [Healthcare organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_543.md)
+* [Healthcare organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1848.md)
+* [Organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1849.md)
+* [Organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1912.md)
+* [Professional organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_186.md)
+* [Veterinary organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1723.md)
+* [Wildlife conservation organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_422.md)
+* [Wildlife conservation organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_216.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

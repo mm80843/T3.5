@@ -2,24 +2,28 @@
 
 # __Minimized disease transmission through shared facilities__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Implementing restrictions on shared facilities and uses in public places, such as elevators, crowded retail units, or centralized cooling/heating systems, minimizes the potential spread of diseases through these shared resources.
+* [10 Adaptive Measures for Public Places to face the COVID 19 Pandemic Outbreak](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_63.md)
+
+## Category to which it belongs
+
+* [Minimized transmission and spread risk while ensuring effective infection control, prevention, and containment measures against diseases like coronavirus.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_17.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in this measure would benefit from reduced liability and risk, improved safety ratings, and increased asset attractiveness.](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_348.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [10 Adaptive Measures for Public Places to face the COVID 19 Pandemic Outbreak](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_63.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [Public place users](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_153.md)
-* [Private investors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_89.md)
+Implementing restrictions on shared facilities and uses in public places, such as elevators, crowded retail units, or centralized cooling/heating systems, minimizes the potential spread of diseases through these shared resources.
 
 ## Risks which can benefit from this action
 
 * [Restrictions on shared facilities and uses](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_327.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [Private investors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_153.md)
+* [Public place users](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_89.md)
 

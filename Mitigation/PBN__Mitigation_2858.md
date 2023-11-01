@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The utilization and integration of various cutting-edge technologies, including contact tracing, ontologies, and wearable devices, to enhance digital transformation and improve communication and work adaptability.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_72.md)
+* [The utilization and integration of various cutting-edge technologies, including contact tracing, ontologies, and wearable devices, to enhance digital transformation and improve communication and work adaptability.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_122.md)
 
 ## Closest similar item
 
-* [Use of new smart/innovative technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_214.md)
-* [Technology and innovation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4697.md)
-* [Using smart technologies for site access](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4587.md)
-* [Implementation of ai technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_463.md)
+* [Adoption of emerging technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_214.md)
+* [Implement energy-efficient technologies, promote renewable energy sources](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4697.md)
+* [Implementation of ai technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4587.md)
+* [Increased use of technology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_463.md)
 * [Innovative projects](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1286.md)
 * [Integration of emerging technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_873.md)
 * [Integration of smart building technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_158.md)
-* [Increased use of technology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4480.md)
-* [Adoption of emerging technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_583.md)
-* [Implement energy-efficient technologies, promote renewable energy sources](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2894.md)
+* [Technology and innovation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4480.md)
+* [Use of new smart/innovative technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_583.md)
+* [Using smart technologies for site access](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2894.md)
 
 ## Risks possibly mitigated by this Mitigation
 

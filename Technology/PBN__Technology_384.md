@@ -4,34 +4,34 @@
 
 ## Category to which it belongs
 
-* [Enhancing education through digital platforms and online resources, promoting virtual classes and workshops, and improving digital literacy.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_148.md)
+* [Enhancing education through digital platforms and online resources, promoting virtual classes and workshops, and improving digital literacy.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_198.md)
 
 ## Closest similar item
 
-* [Virtual classrooms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2254.md)
-* [Classes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1915.md)
-* [Community education](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1338.md)
-* [Prerecorded video lecture](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2608.md)
-* [Video lectures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_385.md)
+* [Classes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2254.md)
+* [Community education](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1915.md)
+* [Education campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1338.md)
+* [Education teams](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2608.md)
+* [Education technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_385.md)
 * [Educational programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_837.md)
-* [Education teams](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2849.md)
-* [Education technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2296.md)
-* [Education campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_85.md)
-* [Regular interactions with students and faculty](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1664.md)
+* [Prerecorded video lecture](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2849.md)
+* [Regular interactions with students and faculty](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2296.md)
+* [Video lectures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_85.md)
+* [Virtual classrooms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1664.md)
+
+## Risks linked to this technology
+
+* [Decreased exposure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1255.md)
 
 ## This Technology belongs to this TechGroup
 
 * [Monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2215.md)
 
-## This technology is mentioned by
-
-* [Using Technology to Maintain the Education of Residents During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_11.md)
-
 ## This Technology belongs to this TechSubgroup
 
 * [Education and training](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2075.md)
 
-## Risks linked to this technology
+## This technology is mentioned by
 
-* [Decreased exposure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1255.md)
+* [Using Technology to Maintain the Education of Residents During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_11.md)
 

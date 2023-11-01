@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The prevalence and impact of inaccurate, uncertain, and biased data pose significant challenges in decision-making and effective response to the covid-19 pandemic.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_34.md)
+* [The prevalence and impact of inaccurate, uncertain, and biased data pose significant challenges in decision-making and effective response to the covid-19 pandemic.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_84.md)
 
 ## Closest similar item
 
-* [Inaccurate predictions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3002.md)
-* [Lack of evidence-informed decision-making](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_393.md)
-* [Lack of data-driven decision making](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2529.md)
-* [Misinformed decisions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2739.md)
-* [Inaccurate forecasting](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2339.md)
-* [High uncertainty in estimates and predictions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1388.md)
-* [Lack of reliable ai forecasting models](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1706.md)
-* [Lack of reliable information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2798.md)
-* [Lack of expertise](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2440.md)
-* [Inefficient decision-making](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2989.md)
+* [High uncertainty in estimates and predictions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3002.md)
+* [Inaccurate forecasting](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_393.md)
+* [Inaccurate predictions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2529.md)
+* [Inefficient decision-making](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2739.md)
+* [Lack of data-driven decision making](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2339.md)
+* [Lack of evidence-informed decision-making](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1388.md)
+* [Lack of expertise](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1706.md)
+* [Lack of reliable ai forecasting models](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2798.md)
+* [Lack of reliable information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2440.md)
+* [Misinformed decisions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2989.md)
 
 ## Mitigations of this risk
 

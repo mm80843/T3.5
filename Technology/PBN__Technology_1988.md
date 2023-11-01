@@ -4,30 +4,30 @@
 
 ## Category to which it belongs
 
-* [A comprehensive collection of iot devices, sensors, and monitoring systems for remote monitoring, measurement, and environmental control.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_117.md)
+* [A comprehensive collection of iot devices, sensors, and monitoring systems for remote monitoring, measurement, and environmental control.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_167.md)
 
 ## Closest similar item
 
-* [Physical distancing tools and measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2115.md)
-* [Physical distancing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_409.md)
-* [Physical distancing markers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_966.md)
-* [Social distancing measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1099.md)
-* [Distancing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_830.md)
+* [Apps and software for social distancing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2115.md)
+* [Distancing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_409.md)
+* [Physical distancing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_966.md)
+* [Physical distancing markers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1099.md)
+* [Physical distancing tools and measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_830.md)
 * [Provide larger units and flexible housing options to support physical distancing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1274.md)
-* [Wearable devices for social distancing monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_859.md)
-* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_904.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_859.md)
+* [Social distancing measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_904.md)
 * [Social nan distancing measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1867.md)
-* [Apps and software for social distancing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2206.md)
+* [Wearable devices for social distancing monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2206.md)
 
-## This technology is mentioned by
+## Risks linked to this technology
 
-* [Urban design attributes and resilience: COVID-19 evidence from New York City](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_6.md)
+* [Urban mobility and commute patterns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2352.md)
 
 ## This Technology enables the following mitigations
 
 * [Uncrowded spacing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3307.md)
 
-## Risks linked to this technology
+## This technology is mentioned by
 
-* [Urban mobility and commute patterns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2352.md)
+* [Urban design attributes and resilience: COVID-19 evidence from New York City](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_6.md)
 

@@ -2,42 +2,35 @@
 
 # __Inadequate lighting__
 
+## Articles mentionning the risk
+
+* [Continuous IEQ monitoring system: Context and development](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_273.md)
+* [Occupant health in buildings: Impact of the COVID-19 pandemic on the opinions of building professionals and implications on research](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_160.md)
+
 ## Category to which it belongs
 
-* [Indoor living challenges include limited self-sufficiency, reliance on artificial elements, poor lighting, and environmental variations.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_35.md)
+* [Indoor living challenges include limited self-sufficiency, reliance on artificial elements, poor lighting, and environmental variations.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_85.md)
 
 ## Closest similar item
 
-* [Inadequate natural lighting](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1445.md)
-* [Poor lighting](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_127.md)
-* [Poor lighting conditions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2227.md)
-* [Inadequate natural light](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1087.md)
-* [Inadequate ventilation and lighting](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1296.md)
-* [Insufficient lighting and thermal comfort](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_953.md)
+* [Inadequate natural light](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1445.md)
+* [Inadequate natural lighting](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_127.md)
+* [Inadequate sunlight exposure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2227.md)
+* [Inadequate ventilation and lighting](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1087.md)
+* [Insufficient lighting and thermal comfort](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1296.md)
+* [Lack of access to natural light](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_953.md)
 * [Lack of natural light](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1786.md)
-* [Poor lighting and glare](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1117.md)
-* [Lack of access to natural light](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3169.md)
-* [Inadequate sunlight exposure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2690.md)
+* [Poor lighting](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1117.md)
+* [Poor lighting and glare](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3169.md)
+* [Poor lighting conditions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2690.md)
 
 ## Description of the risk
 
 Insufficient natural or artificial lighting, glare, and flickering lights
 
-## Type of the risk
-
-* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Is the risk affecting GBN scales
 
 * [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
-
-## Type of impact of the risk (according to ISO37100)
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
-
-## Type of purpose of the risk (according to ISO37100)
-
-* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_1.md)
 
 ## Mitigations of this risk
 
@@ -48,30 +41,37 @@ Insufficient natural or artificial lighting, glare, and flickering lights
 
 Eye strain, headaches, reduced visual comfort, and decreased productivity
 
-## Stakeholders who can mitigate this risk
-
-* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
-* [Lighting designers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_645.md)
-* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
-
-## Articles mentionning the risk
-
-* [Continuous IEQ monitoring system: Context and development](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_160.md)
-* [Occupant health in buildings: Impact of the COVID-19 pandemic on the opinions of building professionals and implications on research](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_273.md)
-
 ## People affected by this risk
 
 * [Employees](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_220.md)
-* [Occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_92.md)
-* [Especially those in poorly lit areas or those performing visually demanding tasks](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_644.md)
+* [Especially those in poorly lit areas or those performing visually demanding tasks](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_92.md)
+* [Occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_644.md)
+
+## Stakeholders who can mitigate this risk
+
+* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
+* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
+* [Lighting designers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_645.md)
 
 ## Technologies linked to the risk
 
 * [Daylighting systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_187.md)
-* [Energy-efficient lighting systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1254.md)
-* [Lighting controls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1255.md)
-* [Led lighting](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_188.md)
+* [Energy-efficient lighting systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_188.md)
 * [Glare control devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_189.md)
+* [Led lighting](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1254.md)
+* [Lighting controls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1255.md)
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_1.md)
+
+## Type of the risk
+
+* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 

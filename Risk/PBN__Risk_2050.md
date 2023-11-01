@@ -2,42 +2,34 @@
 
 # __Urbanization__
 
+## Articles mentionning the risk
+
+* [The Socio-Spatial Determinants of COVID-19 Diffusion: The Impact of Globalisation, Settlement Characteristics and Population](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_175.md)
+
 ## Category to which it belongs
 
-* [The challenges of urbanization and population density manifest in overcrowding, limited transport infrastructure, and disrupted mobility patterns.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_13.md)
+* [The challenges of urbanization and population density manifest in overcrowding, limited transport infrastructure, and disrupted mobility patterns.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_63.md)
 
 ## Closest similar item
 
-* [Population growth and urbanization](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_162.md)
+* [Desertification of urban areas](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_162.md)
 * [Expanding urbanization and international travel](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1983.md)
-* [Urban management](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2388.md)
-* [Urban mobility](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17.md)
-* [Desertification of urban areas](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2208.md)
+* [Overcrowded cities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2388.md)
+* [Population growth and urbanization](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17.md)
+* [Urban activities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2208.md)
 * [Urban density](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2004.md)
-* [Urban inequality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19.md)
-* [Overcrowded cities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1405.md)
-* [Urban activities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_18.md)
-* [Urban density and crowding](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_16.md)
+* [Urban density and crowding](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19.md)
+* [Urban inequality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1405.md)
+* [Urban management](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_18.md)
+* [Urban mobility](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_16.md)
 
 ## Description of the risk
 
 The risk of the disease spreading rapidly in densely populated urban areas
 
-## Type of the risk
-
-* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Is the risk affecting GBN scales
 
 * [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
-
-## Type of impact of the risk (according to ISO37100)
-
-* [Living and working environment](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_1.md)
-
-## Type of purpose of the risk (according to ISO37100)
-
-* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
 
 ## Mitigations of this risk
 
@@ -47,27 +39,35 @@ The risk of the disease spreading rapidly in densely populated urban areas
 
 Higher transmission rates, increased burden on healthcare systems, and greater vulnerability of residents
 
-## Stakeholders who can mitigate this risk
-
-* [Urban planners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_125.md)
-* [Healthcare institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_269.md)
-* [Local governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_566.md)
-
-## Articles mentionning the risk
-
-* [The Socio-Spatial Determinants of COVID-19 Diffusion: The Impact of Globalisation, Settlement Characteristics and Population](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_175.md)
-
 ## People affected by this risk
 
-* [Urban residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_209.md)
-* [Essential workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1383.md)
-* [Disadvantaged populations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1343.md)
+* [Disadvantaged populations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_209.md)
+* [Essential workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1343.md)
+* [Urban residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1383.md)
+
+## Stakeholders who can mitigate this risk
+
+* [Healthcare institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_269.md)
+* [Local governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_125.md)
+* [Urban planners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_566.md)
 
 ## Technologies linked to the risk
 
-* [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_73.md)
-* [Smart city technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_469.md)
+* [Smart city technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_73.md)
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_469.md)
 * [Urban surveillance systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1548.md)
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Living and working environment](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_1.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
+
+## Type of the risk
+
+* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 

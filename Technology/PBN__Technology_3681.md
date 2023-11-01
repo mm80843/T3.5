@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Digital platforms facilitate virtual collaboration, communication, information sharing, and online transactions among individuals and communities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_100.md)
+* [Digital platforms facilitate virtual collaboration, communication, information sharing, and online transactions among individuals and communities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_150.md)
 
 ## Closest similar item
 
-* [Collaborative platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1130.md)
-* [Model sharing platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3787.md)
-* [Coordination platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1468.md)
-* [Collaboration platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_155.md)
-* [Development of interoperability frameworks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1638.md)
-* [Collaborative platforms and networks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3817.md)
+* [Collaboration mechanisms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1130.md)
+* [Collaboration platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3787.md)
+* [Collaboration platforms and emerging technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1468.md)
+* [Collaborative platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_155.md)
+* [Collaborative platforms and networks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1638.md)
+* [Communication and coordination platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3817.md)
 * [Coordinated services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3453.md)
-* [Communication and coordination platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1149.md)
-* [Collaboration mechanisms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2747.md)
-* [Collaboration platforms and emerging technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2758.md)
+* [Coordination platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1149.md)
+* [Development of interoperability frameworks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2747.md)
+* [Model sharing platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2758.md)
 
 ## This Technology enables the following mitigations
 

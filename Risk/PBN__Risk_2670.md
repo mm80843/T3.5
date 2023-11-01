@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Interoperability challenges, high costs, limited communication, and lack of resources impact various sectors globally.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_22.md)
+* [Interoperability challenges, high costs, limited communication, and lack of resources impact various sectors globally.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_72.md)
 
 ## Closest similar item
 
-* [Increase in workload](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_166.md)
-* [Increase in demand, logistical challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3033.md)
-* [Increased demand, logistical challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3035.md)
-* [Higher costs and complexity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2657.md)
-* [Increased workload for medical staff](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_998.md)
-* [Increased workload for nurses](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_409.md)
-* [Costly and slow](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2679.md)
-* [Higher installation and maintenance costs](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2916.md)
-* [Improved resource allocation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_884.md)
-* [Increase in local opportunity cost](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_108.md)
+* [Costly and slow](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_166.md)
+* [Higher costs and complexity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3033.md)
+* [Higher installation and maintenance costs](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3035.md)
+* [Improved resource allocation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2657.md)
+* [Increase in demand, logistical challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_998.md)
+* [Increase in local opportunity cost](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_409.md)
+* [Increase in workload](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2679.md)
+* [Increased demand, logistical challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2916.md)
+* [Increased workload for medical staff](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_884.md)
+* [Increased workload for nurses](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_108.md)
 
 ## Mitigations of this risk
 

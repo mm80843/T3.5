@@ -2,34 +2,58 @@
 
 # __A push for meso scale strategies at the neighbourhood/community level__
 
+## Articles mentionning the risk
+
+* [Revisiting the built environment: 10 potential development changes and paradigm shifts due to COVID-19](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_59.md)
+
 ## Category to which it belongs
 
-* [The consequences of social distancing include inconsistent recommendations, environmental degradation, prolonged isolation, and social inequalities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_4.md)
+* [The consequences of social distancing include inconsistent recommendations, environmental degradation, prolonged isolation, and social inequalities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_54.md)
 
 ## Closest similar item
 
-* [Mixed-use neighborhoods](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_497.md)
-* [Community mitigation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_405.md)
-* [Timing of community measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1345.md)
+* [Community mitigation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_497.md)
+* [Community spread](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_405.md)
+* [Difficulties in ensuring social distancing in densely populated areas](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1345.md)
 * [Exclusion of local communities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2552.md)
-* [Increase in local opportunity cost for pca-adjacent communities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1293.md)
-* [Overcrowding and poor community behavior](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_355.md)
+* [Inadequate community engagement](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1293.md)
+* [Increase in local opportunity cost for pca-adjacent communities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_355.md)
 * [Lack of community engagement](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2125.md)
-* [Difficulties in ensuring social distancing in densely populated areas](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_728.md)
-* [Community spread](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2381.md)
-* [Inadequate community engagement](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2330.md)
+* [Mixed-use neighborhoods](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_728.md)
+* [Overcrowding and poor community behavior](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2381.md)
+* [Timing of community measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2330.md)
 
 ## Description of the risk
 
 Implementation of strategies for community-level planning and design
 
-## Type of the risk
-
-* [Social](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_4.md)
-
 ## Is the risk affecting GBN scales
 
 * [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+
+## Mitigations of this risk
+
+* [Emphasize community-level design, develop green spaces and local amenities, promote accessibility](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1736.md)
+* [Implementation of community-level planning and design strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_298.md)
+
+## Name of the risk
+
+Enhanced community-level infrastructure, better accessibility and amenities
+
+## People affected by this risk
+
+* [Community members](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_155.md)
+* [Residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_59.md)
+
+## Stakeholders who can mitigate this risk
+
+* [Community organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_150.md)
+* [Local governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_566.md)
+
+## Technologies linked to the risk
+
+* [Planners](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_382.md)
+* [Urban designers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_381.md)
 
 ## Type of impact of the risk (according to ISO37100)
 
@@ -39,33 +63,9 @@ Implementation of strategies for community-level planning and design
 
 * [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
 
-## Mitigations of this risk
+## Type of the risk
 
-* [Implementation of community-level planning and design strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_298.md)
-* [Emphasize community-level design, develop green spaces and local amenities, promote accessibility](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1736.md)
-
-## Name of the risk
-
-Enhanced community-level infrastructure, better accessibility and amenities
-
-## Stakeholders who can mitigate this risk
-
-* [Community organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_150.md)
-* [Local governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_566.md)
-
-## Articles mentionning the risk
-
-* [Revisiting the built environment: 10 potential development changes and paradigm shifts due to COVID-19](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_59.md)
-
-## People affected by this risk
-
-* [Residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_59.md)
-* [Community members](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_155.md)
-
-## Technologies linked to the risk
-
-* [Urban designers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_381.md)
-* [Planners](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_382.md)
+* [Social](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_4.md)
 
 ## Property: has_RiskType
 

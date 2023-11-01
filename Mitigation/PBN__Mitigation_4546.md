@@ -4,33 +4,33 @@
 
 ## Category to which it belongs
 
-* [Implementing various measures to ensure uninterrupted essential services, restrict movement, and enforce closures in response to the pandemic.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_65.md)
+* [Implementing various measures to ensure uninterrupted essential services, restrict movement, and enforce closures in response to the pandemic.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_115.md)
 
 ## Closest similar item
 
-* [Lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_427.md)
-* [Lockdowns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3820.md)
-* [Building lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4388.md)
-* [Lockdown measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_863.md)
-* [Enforcing lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1403.md)
-* [Mandatory lockdowns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_616.md)
-* [Local lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4525.md)
-* [Phasing out of lockdown with local strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_904.md)
-* [Early enforcement of lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_75.md)
-* [Conditional lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_695.md)
-
-## Property: has_MitigationPrinciple
-
-Imposing strict restrictions to limit people's movement and prevent the spread of the virus
+* [Building lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_427.md)
+* [Conditional lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3820.md)
+* [Early enforcement of lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4388.md)
+* [Enforcing lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_863.md)
+* [Local lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1403.md)
+* [Lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_616.md)
+* [Lockdown measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4525.md)
+* [Lockdowns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_904.md)
+* [Mandatory lockdowns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_75.md)
+* [Phasing out of lockdown with local strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_695.md)
 
 ## Risks possibly mitigated by this Mitigation
 
 * [Containment of infection cluster](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3136.md)
 
+## This Mitigation is enabled by the following technologies
+
+
+## Property: has_MitigationPrinciple
+
+Imposing strict restrictions to limit people's movement and prevent the spread of the virus
+
 ## Property: has_MitigationSource
 
 * [Public housing and COVID-19: contestation, challenge and change](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_107.md)
-
-## This Mitigation is enabled by the following technologies
-
 

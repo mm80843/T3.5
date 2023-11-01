@@ -4,19 +4,19 @@
 
 ## Category to which it belongs
 
-* [Individuals with ownership, control, or responsibility over various properties, businesses, data, or belongings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_213.md)
+* [Individuals with ownership, control, or responsibility over various properties, businesses, data, or belongings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_263.md)
 
 ## Closest similar item
 
-* [Hotel owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1910.md)
-* [Hotel workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1749.md)
-* [Hotel staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1727.md)
-* [Restaurant owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1965.md)
-* [Hotels](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1889.md)
-* [Hotel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1946.md)
-* [Business owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_726.md)
-* [Hotel worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1762.md)
-* [Restaurant owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1976.md)
+* [Business owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1910.md)
+* [Hotel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1749.md)
+* [Hotel owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1727.md)
+* [Hotel staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1965.md)
+* [Hotel worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1889.md)
+* [Hotel workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1946.md)
+* [Hotels](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_726.md)
+* [Restaurant owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1762.md)
+* [Restaurant owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1976.md)
 * [Store owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1751.md)
 
 ## This Stakeholder belongs to this StakeholderGroup

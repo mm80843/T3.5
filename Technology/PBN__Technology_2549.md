@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_116.md)
+* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_166.md)
 
 ## Closest similar item
 
-* [Gis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3143.md)
-* [Mec](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1582.md)
-* [Chws](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2353.md)
-* [Iots](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2339.md)
-* [Ehrs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2694.md)
-* [Support systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_805.md)
-* [Wipes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3301.md)
+* [Chws](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3143.md)
+* [Ehrs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1582.md)
+* [Fitbits](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2353.md)
+* [Gis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2339.md)
+* [Iot](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2694.md)
+* [Iots](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_805.md)
+* [Mec](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3301.md)
 * [Support](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2812.md)
-* [Iot](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_277.md)
-* [Fitbits](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2410.md)
+* [Support systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_277.md)
+* [Wipes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2410.md)
 
 ## This Technology enables the following mitigations
 

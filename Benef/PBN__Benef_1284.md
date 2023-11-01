@@ -2,23 +2,27 @@
 
 # __Reduced noise transmission__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Decreased stress, improved focus and concentration
+* [Occupant health in buildings: Impact of the COVID-19 pandemic on the opinions of building professionals and implications on research](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_273.md)
+
+## Category to which it belongs
+
+* [Mitigated transmission of diseases through various means, such as reduced airborne and aerosol transmission, and improved understanding and prevention of transmission.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_35.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Reduced noise levels lead to increased productivity and improved well-being, maximizing the asset value of the property.](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_1453.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [Occupant health in buildings: Impact of the COVID-19 pandemic on the opinions of building professionals and implications on research](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_273.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [Occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_92.md)
+Decreased stress, improved focus and concentration
 
 ## Risks which can benefit from this action
 
 * [Acoustic design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1304.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [Occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_92.md)
 

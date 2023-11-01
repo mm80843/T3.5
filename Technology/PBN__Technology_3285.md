@@ -4,19 +4,19 @@
 
 ## Category to which it belongs
 
-* [Digital tools and technologies facilitating various functions and services on mobile devices.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_101.md)
+* [Digital tools and technologies facilitating various functions and services on mobile devices.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_151.md)
 
 ## Closest similar item
 
 * [Appliances](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3724.md)
-* [Energy-efficient appliances](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_79.md)
-* [Clean cooking technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1480.md)
-* [Energy-efficient appliances and smart home technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_866.md)
-* [Cooking techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3434.md)
-* [Improved stove technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3425.md)
-* [Clean cookstoves](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1481.md)
-* [Microwave](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3773.md)
-* [Food supply technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3347.md)
+* [Clean cooking technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_79.md)
+* [Clean cookstoves](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1480.md)
+* [Cooking techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_866.md)
+* [Energy-efficient appliances](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3434.md)
+* [Energy-efficient appliances and smart home technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3425.md)
+* [Food supply technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1481.md)
+* [Improved stove technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3773.md)
+* [Microwave](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3347.md)
 * [Smart devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2287.md)
 
 ## This Technology enables the following mitigations

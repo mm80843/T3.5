@@ -4,20 +4,24 @@
 
 ## Category to which it belongs
 
-* [Individuals with respiratory conditions or weakened immune systems, including allergy sufferers, are at higher risk, particularly in areas with high infection rates.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_232.md)
+* [Individuals with respiratory conditions or weakened immune systems, including allergy sufferers, are at higher risk, particularly in areas with high infection rates.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_282.md)
 
 ## Closest similar item
 
-* [Especially elderly and individual with chronic condition](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2354.md)
-* [Patients with chronic conditions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1260.md)
-* [Individuals with underlying health conditions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_886.md)
-* [Individuals with health conditions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2077.md)
+* [Elderly individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2354.md)
+* [Especially elderly and individual with chronic condition](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1260.md)
+* [Especially those with high disease burden](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_886.md)
+* [Especially those with respiratory and cardiovascular problem](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2077.md)
 * [Especially those with respiratory and cardiovascular problems](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_682.md)
 * [Individual with underlying health condition](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2227.md)
-* [Especially those with respiratory and cardiovascular problem](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2092.md)
+* [Individuals with health conditions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2092.md)
 * [Individuals with poor health conditions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_579.md)
-* [Elderly individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_804.md)
-* [Especially those with high disease burden](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_592.md)
+* [Individuals with underlying health conditions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_804.md)
+* [Patients with chronic conditions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_592.md)
+
+## Risk affecting this stakeholder
+
+* [Decreased physical activity during quarantine and social isolation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1270.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -27,7 +31,7 @@
 
 * [Age-specific concerns](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2313.md)
 
-## Risk affecting this stakeholder
+## Type of the stakeholder
 
-* [Decreased physical activity during quarantine and social isolation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1270.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

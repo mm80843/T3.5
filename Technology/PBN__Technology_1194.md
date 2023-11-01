@@ -4,33 +4,33 @@
 
 ## Category to which it belongs
 
-* [Effective water management encompasses wastewater testing, waste management, rainwater storage, wastewater treatment technology, smart water consumption, and improved infrastructure.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_131.md)
+* [Effective water management encompasses wastewater testing, waste management, rainwater storage, wastewater treatment technology, smart water consumption, and improved infrastructure.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_181.md)
 
 ## Closest similar item
 
-* [Drainage systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3275.md)
-* [Drainage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3818.md)
-* [Water management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2170.md)
-* [Improved water management and sanitation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_980.md)
-* [Water and waste management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2190.md)
-* [Water treatment facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_664.md)
-* [Maintenance and landscaping equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_842.md)
-* [Water treatment systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3736.md)
-* [Moisture management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3441.md)
-* [Proper sewage and treatment systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3645.md)
+* [Drainage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3275.md)
+* [Drainage systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3818.md)
+* [Improved water management and sanitation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2170.md)
+* [Maintenance and landscaping equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_980.md)
+* [Moisture management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2190.md)
+* [Proper sewage and treatment systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_664.md)
+* [Water and waste management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_842.md)
+* [Water management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3736.md)
+* [Water treatment facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3441.md)
+* [Water treatment systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3645.md)
+
+## Risks linked to this technology
+
+* [Poor drainage and management of water systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1817.md)
 
 ## This Technology belongs to this TechGroup
 
 * [Infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2164.md)
 
-## This technology is mentioned by
-
-* [Decision Making within the Built Environment as a Strategy for Mitigating the Risk of Malaria and Other Vector-Borne Diseases](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_272.md)
-
 ## This Technology belongs to this TechSubgroup
 
 
-## Risks linked to this technology
+## This technology is mentioned by
 
-* [Poor drainage and management of water systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1817.md)
+* [Decision Making within the Built Environment as a Strategy for Mitigating the Risk of Malaria and Other Vector-Borne Diseases](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_272.md)
 

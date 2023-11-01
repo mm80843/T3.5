@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Various establishments, including small businesses, private businesses, local businesses, retail businesses, and online businesses coexist with governments and are represented by business owners and associations.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_225.md)
+* [Various establishments, including small businesses, private businesses, local businesses, retail businesses, and online businesses coexist with governments and are represented by business owners and associations.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_275.md)
 
 ## Closest similar item
 
-* [Governments and businesses](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1244.md)
-* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
-* [Government and busines](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2387.md)
-* [Business](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2052.md)
-* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
-* [Businesses](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_147.md)
-* [Businesses and organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_262.md)
-* [Business and financial services](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1865.md)
-* [Businesses and individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_383.md)
-* [Government and authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1614.md)
+* [Business](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1244.md)
+* [Business and financial services](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
+* [Businesses](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2387.md)
+* [Businesses and individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2052.md)
+* [Businesses and organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
+* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_147.md)
+* [Government and authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_262.md)
+* [Government and busines](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1865.md)
+* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_383.md)
+* [Governments and businesses](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1614.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

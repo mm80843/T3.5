@@ -4,19 +4,19 @@
 
 ## Category to which it belongs
 
-* [Improved and diversified communication channels through digital integration, telecommunication technology, and network infrastructure.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_105.md)
+* [Improved and diversified communication channels through digital integration, telecommunication technology, and network infrastructure.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_155.md)
 
 ## Closest similar item
 
-* [Internet connectivity](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_570.md)
-* [Internet access](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1209.md)
+* [Broadband access](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_570.md)
+* [Broadband connection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1209.md)
 * [Broadband internet](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3813.md)
-* [Broadband connection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3725.md)
+* [Connectivity](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3725.md)
 * [Internet](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2454.md)
-* [Internet-connected devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2288.md)
-* [Broadband access](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1936.md)
-* [Internet and wi-fi networks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2663.md)
-* [Connectivity](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3517.md)
+* [Internet access](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2288.md)
+* [Internet and wi-fi networks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1936.md)
+* [Internet connectivity](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2663.md)
+* [Internet-connected devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3517.md)
 * [Wi-fi](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2777.md)
 
 ## This Technology enables the following mitigations

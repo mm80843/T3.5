@@ -2,42 +2,34 @@
 
 # __Decline in well-being__
 
+## Articles mentionning the risk
+
+* [Mental Health and the Role of Physical Activity During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_242.md)
+
 ## Category to which it belongs
 
-* [The interconnectedness of global economics has led to financial instability, unemployment, poverty, and decreased investment in certain sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_12.md)
+* [The interconnectedness of global economics has led to financial instability, unemployment, poverty, and decreased investment in certain sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_62.md)
 
 ## Closest similar item
 
-* [Low levels of psychological well-being](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2016.md)
-* [Impact on psychological well-being](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1558.md)
-* [Health and well-being](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_747.md)
-* [Negative impact of social confinement and distancing measures on well-being](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_694.md)
-* [Mental well-being](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_941.md)
-* [Decreased physical and mental health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2854.md)
-* [Non-flourishing individuals](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2017.md)
-* [Decreased job opportunities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2804.md)
-* [Economic decline](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_856.md)
+* [Decreased job opportunities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2016.md)
+* [Decreased physical and mental health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1558.md)
+* [Economic decline](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_747.md)
+* [Health and well-being](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_694.md)
+* [Impact on psychological well-being](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_941.md)
+* [Low levels of psychological well-being](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2854.md)
+* [Mental well-being](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2017.md)
+* [Negative impact of social confinement and distancing measures on well-being](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2804.md)
+* [Non-flourishing individuals](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_856.md)
 * [Stress, fatigue, poor mental well-being](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2445.md)
 
 ## Description of the risk
 
 Public health measures limit physical activities and personal contact, leading to decline in well-being.
 
-## Type of the risk
-
-* [Mental](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_1.md)
-
 ## Is the risk affecting GBN scales
 
 * [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
-
-## Type of impact of the risk (according to ISO37100)
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
-
-## Type of purpose of the risk (according to ISO37100)
-
-* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_1.md)
 
 ## Mitigations of this risk
 
@@ -47,22 +39,30 @@ Public health measures limit physical activities and personal contact, leading t
 
 Deterioration in mental health, increase in stress, anxiety, depression, and feelings of isolation.
 
-## Stakeholders who can mitigate this risk
-
-* [Healthcare organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_216.md)
-* [Government departments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_575.md)
-* [Sports companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_576.md)
-
-## Articles mentionning the risk
-
-* [Mental Health and the Role of Physical Activity During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_242.md)
-
 ## People affected by this risk
 
 * [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
 
+## Stakeholders who can mitigate this risk
+
+* [Government departments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_216.md)
+* [Healthcare organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_575.md)
+* [Sports companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_576.md)
+
 ## Technologies linked to the risk
 
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_1.md)
+
+## Type of the risk
+
+* [Mental](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_1.md)
 
 ## Property: has_RiskType
 

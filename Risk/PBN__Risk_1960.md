@@ -2,34 +2,64 @@
 
 # __Limited access to healthcare services__
 
+## Articles mentionning the risk
+
+* [COVID-19: A new digital dawn?](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_93.md)
+* [Contributions of Smart City Solutions and Technologies to Resilience against the COVID-19 Pandemic: A Literature Review](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_227.md)
+
 ## Category to which it belongs
 
-* [Healthcare systems overwhelmed, limited access to services, scarcity of resources, and risk to healthcare workers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_10.md)
+* [Healthcare systems overwhelmed, limited access to services, scarcity of resources, and risk to healthcare workers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_60.md)
 
 ## Closest similar item
 
-* [Limited access to healthcare](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_122.md)
-* [Limited healthcare access](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3058.md)
-* [Limited access to healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3181.md)
-* [Lack of access to healthcare services](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2469.md)
-* [Insufficient healthcare access](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1390.md)
-* [Healthcare access](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2483.md)
-* [Limited care and restricted health services](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_779.md)
-* [Limited access to patient health data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_158.md)
-* [Limited access to healthcare during the pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_518.md)
-* [Limited access to services](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3376.md)
+* [Healthcare access](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_122.md)
+* [Insufficient healthcare access](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3058.md)
+* [Lack of access to healthcare services](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3181.md)
+* [Limited access to healthcare](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2469.md)
+* [Limited access to healthcare during the pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1390.md)
+* [Limited access to healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2483.md)
+* [Limited access to patient health data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_779.md)
+* [Limited access to services](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_158.md)
+* [Limited care and restricted health services](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_518.md)
+* [Limited healthcare access](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3376.md)
 
 ## Description of the risk
 
 Restriction of access to healthcare services and limited in-person consultations.
 
-## Type of the risk
-
-* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Is the risk affecting GBN scales
 
 * [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+
+## Mitigations of this risk
+
+* [Implement telehealth and telemedicine systems; increase healthcare infrastructure capacity; ensure access to essential healthcare services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2694.md)
+* [Implementation of telemedicine consultation approaches, remote consultation solutions.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3247.md)
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2595.md)
+
+## Name of the risk
+
+Delayed diagnosis and treatment, increased burden on healthcare system, reduced patient care.
+
+## People affected by this risk
+
+* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
+* [Patients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_31.md)
+* [Vulnerable groups](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_115.md)
+
+## Stakeholders who can mitigate this risk
+
+* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
+* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_216.md)
+* [Healthcare organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_33.md)
+
+## Technologies linked to the risk
+
+* [Remote consultation tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_73.md)
+* [Telehealth platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_219.md)
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_404.md)
+* [Video conferencing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1422.md)
 
 ## Type of impact of the risk (according to ISO37100)
 
@@ -39,39 +69,9 @@ Restriction of access to healthcare services and limited in-person consultations
 
 * [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_1.md)
 
-## Mitigations of this risk
+## Type of the risk
 
-* [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3247.md)
-* [Implement telehealth and telemedicine systems; increase healthcare infrastructure capacity; ensure access to essential healthcare services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2694.md)
-* [Implementation of telemedicine consultation approaches, remote consultation solutions.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2595.md)
-
-## Name of the risk
-
-Delayed diagnosis and treatment, increased burden on healthcare system, reduced patient care.
-
-## Stakeholders who can mitigate this risk
-
-* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
-* [Healthcare organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_216.md)
-* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_33.md)
-
-## Articles mentionning the risk
-
-* [COVID-19: A new digital dawn?](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_93.md)
-* [Contributions of Smart City Solutions and Technologies to Resilience against the COVID-19 Pandemic: A Literature Review](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_227.md)
-
-## People affected by this risk
-
-* [Patients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_31.md)
-* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
-* [Vulnerable groups](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_115.md)
-
-## Technologies linked to the risk
-
-* [Video conferencing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_404.md)
-* [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_73.md)
-* [Telehealth platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_219.md)
-* [Remote consultation tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1422.md)
+* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 

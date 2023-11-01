@@ -4,23 +4,23 @@
 
 ## Category to which it belongs
 
-* [Interoperability challenges, high costs, limited communication, and lack of resources impact various sectors globally.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_22.md)
+* [Interoperability challenges, high costs, limited communication, and lack of resources impact various sectors globally.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_72.md)
 
 ## Closest similar item
 
-* [Ineffective containment measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2742.md)
-* [Global coordination, political challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2876.md)
+* [Challenges in global climate diplomacy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2742.md)
+* [Disruption of global settlement system](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2876.md)
 * [Failure in containment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1017.md)
-* [Inadequate global preparedness](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1150.md)
-* [Challenges in global climate diplomacy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_552.md)
-* [Lack of coordinated global governance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_44.md)
-* [Disruption of global settlement system](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1456.md)
-* [Globalization](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2051.md)
-* [Global supply chain disruptions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_456.md)
+* [Global coordination, political challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1150.md)
+* [Global supply chain disruptions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_552.md)
+* [Globalization](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_44.md)
+* [Inadequate global preparedness](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1456.md)
+* [Ineffective containment measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2051.md)
+* [Lack of coordinated global governance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_456.md)
 * [Pandemic containment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_706.md)
 
 ## Mitigations of this risk
 
-* [Travel restrictions and border control measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_437.md)
-* [Isolation and quarantine of confirmed cases and contacts](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_438.md)
+* [Isolation and quarantine of confirmed cases and contacts](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_437.md)
+* [Travel restrictions and border control measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_438.md)
 

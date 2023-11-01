@@ -2,23 +2,27 @@
 
 # __Data protection__
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Protects personal data from unauthorized access and ensures privacy rights are respected
+* [The Emergence of Anti-Privacy and Control at the Nexus between the Concepts of Safe City and Smart City](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_15.md)
+
+## Category to which it belongs
+
+* [Enhanced safeguarding of personal information, privacy, rights, and security with inclusive access to reliable and secure data.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_22.md)
 
 ## Description of actual returns pertaining to this benefit
 
 * [Increased trust and confidence in the safety and security of smart and safe city concepts](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_71.md)
 
-## Articles mentionning this Benefit
+## Name of the Benefit
 
-* [The Emergence of Anti-Privacy and Control at the Nexus between the Concepts of Safe City and Smart City](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_15.md)
-
-## Stakeholders benefitting from this Benefit
-
-* [Citizens](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_54.md)
+Protects personal data from unauthorized access and ensures privacy rights are respected
 
 ## Risks which can benefit from this action
 
 * [Encryption and anonymity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_64.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [Citizens](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_54.md)
 

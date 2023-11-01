@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Accurate and reliable knowledge dissemination and fact-checking through interdisciplinary collaboration and intelligent information feedback.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_122.md)
+* [Accurate and reliable knowledge dissemination and fact-checking through interdisciplinary collaboration and intelligent information feedback.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_172.md)
 
 ## Closest similar item
 
 * [Application programming interfaces apis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2927.md)
-* [Tele-response bots](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1168.md)
-* [Web service](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3306.md)
-* [Contact-tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_951.md)
-* [Apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1088.md)
-* [Mobile phone call data records](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1681.md)
-* [Use of contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_555.md)
-* [Telephone](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2453.md)
-* [Web-based applications](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_243.md)
-* [Telephones](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3492.md)
+* [Apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1168.md)
+* [Contact-tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3306.md)
+* [Mobile phone call data records](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_951.md)
+* [Tele-response bots](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1088.md)
+* [Telephone](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1681.md)
+* [Telephones](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_555.md)
+* [Use of contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2453.md)
+* [Web service](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_243.md)
+* [Web-based applications](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3492.md)
 
 ## This Technology enables the following mitigations
 

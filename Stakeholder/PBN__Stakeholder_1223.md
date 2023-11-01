@@ -4,20 +4,26 @@
 
 ## Category to which it belongs
 
-* [Individuals living in densely populated neighborhoods, informal settlements, or substandard housing, including migrants and those facing eviction, who may also reside in underserved communities without basic amenities or access to clean water.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_228.md)
+* [Individuals living in densely populated neighborhoods, informal settlements, or substandard housing, including migrants and those facing eviction, who may also reside in underserved communities without basic amenities or access to clean water.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_278.md)
 
 ## Closest similar item
 
-* [Urban residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_209.md)
-* [Resident of urban area](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2454.md)
+* [City residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_209.md)
+* [Individual living in urban area](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2454.md)
 * [Individuals living in urban areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1416.md)
-* [City residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_332.md)
-* [Individual living in urban area](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2190.md)
-* [Residents of neighborhoods](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_39.md)
-* [Local residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_481.md)
-* [Residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_59.md)
+* [Local residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_332.md)
+* [Resident of urban area](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2190.md)
+* [Residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_39.md)
+* [Residents of neighborhoods](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_481.md)
+* [Residents,](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_59.md)
 * [Urban resident](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2423.md)
-* [Residents,](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_467.md)
+* [Urban residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_467.md)
+
+## Risk affecting this stakeholder
+
+* [Fear of infection in urban green spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1805.md)
+* [Inadequate access to urban green spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1804.md)
+* [Lack of knowledge about the benefits of urban green spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1806.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -27,9 +33,7 @@
 
 * [Residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_59.md)
 
-## Risk affecting this stakeholder
+## Type of the stakeholder
 
-* [Fear of infection in urban green spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1805.md)
-* [Lack of knowledge about the benefits of urban green spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1806.md)
-* [Inadequate access to urban green spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1804.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
 

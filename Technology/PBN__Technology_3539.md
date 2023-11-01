@@ -2,26 +2,26 @@
 
 # __Big urban data__
 
-## Link between Blueprint and General ontology
-
-* [BigData](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_9.md)
-
 ## Category to which it belongs
 
-* [Efficiently collect, analyze, and share anonymized data using a variety of tools, platforms, and systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_126.md)
+* [Efficiently collect, analyze, and share anonymized data using a variety of tools, platforms, and systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_176.md)
 
 ## Closest similar item
 
 * [Big data](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_276.md)
-* [Bigdata](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3897.md)
-* [Big data analytics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2336.md)
-* [Big-data analytics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1709.md)
-* [Road network data](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3054.md)
-* [Urban technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2270.md)
-* [Urban surveillance systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1548.md)
-* [Iot and big data technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2784.md)
-* [Urban planners](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_377.md)
-* [Urban planning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_920.md)
+* [Big data analytics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3897.md)
+* [Big-data analytics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2336.md)
+* [Bigdata](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1709.md)
+* [Iot and big data technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3054.md)
+* [Road network data](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2270.md)
+* [Urban planners](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1548.md)
+* [Urban planning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2784.md)
+* [Urban surveillance systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_377.md)
+* [Urban technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_920.md)
+
+## Link between Blueprint and General ontology
+
+* [BigData](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_9.md)
 
 ## This Technology enables the following mitigations
 

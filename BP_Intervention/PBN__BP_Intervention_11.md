@@ -2,6 +2,14 @@
 
 # __Greywater management__
 
+## Category to which it belongs
+
+* [Efficiently handling and reusing wastewater for conservation and environmental sustainability.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_210.md)
+
+## This intervention is used in the following blueprints
+
+* [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_17.md)
+
 ## Property: has_BP_InterventionKey
 
 PW4
@@ -9,12 +17,4 @@ PW4
 ## Property: has_BP_InterventionTitle
 
 Greywater management
-
-## Category to which it belongs
-
-* [Efficiently handling and reusing wastewater for conservation and environmental sustainability.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_160.md)
-
-## This intervention is used in the following blueprints
-
-* [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_17.md)
 

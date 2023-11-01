@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The populace of cities, including residents, professionals, officials, and decision-makers involved in urban planning and design.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_219.md)
+* [The populace of cities, including residents, professionals, officials, and decision-makers involved in urban planning and design.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_269.md)
 
 ## Closest similar item
 
 * [City dweller](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1606.md)
-* [Especially urban dweller](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2151.md)
-* [Urban dwellers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_26.md)
-* [City dwellers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_770.md)
-* [Urban resident](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2423.md)
+* [City dwellers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2151.md)
+* [Especially urban dweller](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_26.md)
+* [Individual in urban area](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_770.md)
+* [Individual living in urban area](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2423.md)
 * [Urban](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1522.md)
-* [Urban residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_209.md)
-* [Individual living in urban area](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2190.md)
-* [Individual in urban area](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2461.md)
-* [Urban citizenry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_200.md)
+* [Urban citizenry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_209.md)
+* [Urban dwellers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2190.md)
+* [Urban resident](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2461.md)
+* [Urban residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_200.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

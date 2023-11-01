@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [A comprehensive collection of iot devices, sensors, and monitoring systems for remote monitoring, measurement, and environmental control.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_117.md)
+* [A comprehensive collection of iot devices, sensors, and monitoring systems for remote monitoring, measurement, and environmental control.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_167.md)
 
 ## Closest similar item
 
-* [Biosensor technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_239.md)
-* [Biosensor](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2578.md)
-* [Sensor-based technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2432.md)
-* [Sensor technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2540.md)
-* [Biosensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2285.md)
-* [Sensor technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3668.md)
-* [Improved sensor technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_313.md)
-* [Wearable sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2347.md)
-* [Environmental sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2923.md)
-* [Motion-sensor technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2831.md)
+* [Biosensor](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_239.md)
+* [Biosensor technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2578.md)
+* [Biosensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2432.md)
+* [Environmental sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2540.md)
+* [Improved sensor technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2285.md)
+* [Motion-sensor technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3668.md)
+* [Sensor technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_313.md)
+* [Sensor technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2347.md)
+* [Sensor-based technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2923.md)
+* [Wearable sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2831.md)
 
 ## This Technology enables the following mitigations
 

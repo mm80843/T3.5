@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The prevalence and impact of inaccurate, uncertain, and biased data pose significant challenges in decision-making and effective response to the covid-19 pandemic.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_34.md)
+* [The prevalence and impact of inaccurate, uncertain, and biased data pose significant challenges in decision-making and effective response to the covid-19 pandemic.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_84.md)
 
 ## Closest similar item
 
-* [Error accumulation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1645.md)
-* [Sensor failure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1229.md)
-* [Limited sensor capability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1396.md)
-* [Measurement uncertainty](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_96.md)
+* [Data accuracy and reliability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1645.md)
+* [Error accumulation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1229.md)
+* [Inaccurate measurement data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1396.md)
+* [Insufficient monitoring data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_96.md)
 * [Limited diversity of sensors](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_262.md)
 * [Limited monitoring](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2455.md)
-* [Insufficient monitoring data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_739.md)
-* [Inaccurate measurement data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1644.md)
-* [Data accuracy and reliability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2438.md)
-* [Reliability and robustness of wearable devices](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1113.md)
+* [Limited sensor capability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_739.md)
+* [Measurement uncertainty](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1644.md)
+* [Reliability and robustness of wearable devices](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2438.md)
+* [Sensor failure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1113.md)
 
 ## Mitigations of this risk
 

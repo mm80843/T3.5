@@ -2,42 +2,34 @@
 
 # __Lack of immediate threat perception__
 
+## Articles mentionning the risk
+
+* [What our response to the COVID-19 pandemic tells us of our capacity to respond to climate change](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_257.md)
+
 ## Category to which it belongs
 
-* [The pandemic has led to a decrease in in-person surgical education, loss of control, temporary panic from cruise ship docking, limited social distancing, and decreased morale.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_20.md)
+* [The pandemic has led to a decrease in in-person surgical education, loss of control, temporary panic from cruise ship docking, limited social distancing, and decreased morale.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_70.md)
 
 ## Closest similar item
 
-* [Threat events](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3304.md)
-* [Risk perception](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1203.md)
-* [Lack of awareness or engagement](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2853.md)
-* [Impulsiveness and aggressiveness](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2775.md)
+* [Impulsiveness and aggressiveness](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3304.md)
+* [Inadequate communication and awareness](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1203.md)
+* [Increased fear, disruption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2853.md)
+* [Lack of awareness](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2775.md)
 * [Lack of awareness and safe distancing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3155.md)
-* [Lack of occupant awareness and behavior](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1404.md)
-* [Increased fear, disruption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2607.md)
+* [Lack of awareness or engagement](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1404.md)
+* [Lack of occupant awareness and behavior](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2607.md)
 * [Lack of understanding, fear](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3402.md)
-* [Lack of awareness](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_49.md)
-* [Inadequate communication and awareness](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1491.md)
+* [Risk perception](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_49.md)
+* [Threat events](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1491.md)
 
 ## Description of the risk
 
 People are more afraid of immediate threats like COVID-19 than long-term threats like climate change, as it feels more personal and immediate.
 
-## Type of the risk
-
-* [Mental](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_1.md)
-
 ## Is the risk affecting GBN scales
 
 * [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
-
-## Type of impact of the risk (according to ISO37100)
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
-
-## Type of purpose of the risk (according to ISO37100)
-
-* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
 
 ## Mitigations of this risk
 
@@ -47,21 +39,29 @@ People are more afraid of immediate threats like COVID-19 than long-term threats
 
 People may not prioritize climate change action due to perceived lack of immediate threat.
 
-## Stakeholders who can mitigate this risk
-
-* [Policymakers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_126.md)
-* [Climate change communicators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_906.md)
-
-## Articles mentionning the risk
-
-* [What our response to the COVID-19 pandemic tells us of our capacity to respond to climate change](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_257.md)
-
 ## People affected by this risk
 
 * [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
 
+## Stakeholders who can mitigate this risk
+
+* [Climate change communicators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_126.md)
+* [Policymakers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_906.md)
+
 ## Technologies linked to the risk
 
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
+
+## Type of the risk
+
+* [Mental](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_1.md)
 
 ## Property: has_RiskType
 

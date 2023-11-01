@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The propagation and dispersion of the sars-cov-2 virus in various environments and transmission through different mediums and routes.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_0.md)
+* [The propagation and dispersion of the sars-cov-2 virus in various environments and transmission through different mediums and routes.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_50.md)
 
 ## Closest similar item
 
-* [Uncontrolled sars-cov-2 transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_330.md)
-* [Possible pathways of sars-cov-2 transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_875.md)
-* [Transmission of sars-cov-2 in built environments](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_377.md)
-* [Airborne transmission of sars-cov-2](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1279.md)
-* [Low recovery of sars-cov-2](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2397.md)
+* [Airborne transmission of sars-cov-2](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_330.md)
+* [Airborne transmission of sars-cov-2 in built environments](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_875.md)
+* [Exposure to sars-cov-2](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_377.md)
+* [Low recovery of sars-cov-2](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1279.md)
+* [Possible pathways of sars-cov-2 transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2397.md)
 * [Spread of sars-cov-2](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_642.md)
-* [Transmission of sars-cov-2 through contact with contaminated objects](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_221.md)
-* [Transmission of sars-cov-2 through sewage](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_222.md)
-* [Airborne transmission of sars-cov-2 in built environments](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_439.md)
-* [Exposure to sars-cov-2](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2577.md)
+* [Transmission of sars-cov-2 in built environments](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_221.md)
+* [Transmission of sars-cov-2 through contact with contaminated objects](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_222.md)
+* [Transmission of sars-cov-2 through sewage](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_439.md)
+* [Uncontrolled sars-cov-2 transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2577.md)
 
 ## Mitigations of this risk
 

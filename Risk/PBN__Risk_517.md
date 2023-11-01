@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [The interconnectedness of global economics has led to financial instability, unemployment, poverty, and decreased investment in certain sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_12.md)
+* [The interconnectedness of global economics has led to financial instability, unemployment, poverty, and decreased investment in certain sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_62.md)
 
 ## Closest similar item
 
-* [Vulnerable populations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1748.md)
-* [Increase in poverty](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_235.md)
-* [Precarious situation of vulnerable populations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_830.md)
+* [Economic impacts on vulnerable groups](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1748.md)
+* [Epidemiological vulnerability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_235.md)
+* [Health disparities among vulnerable groups](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_830.md)
 * [Homelessness and food insecurity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2466.md)
-* [Health disparities among vulnerable groups](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1131.md)
+* [Increase in poverty](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1131.md)
 * [Increased poverty and inequality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2865.md)
 * [Poor infrastructure, inadequate housing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2409.md)
-* [Economic impacts on vulnerable groups](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_448.md)
-* [Epidemiological vulnerability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2322.md)
-* [Poor sanitation areas](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2898.md)
+* [Poor sanitation areas](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_448.md)
+* [Precarious situation of vulnerable populations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2322.md)
+* [Vulnerable populations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2898.md)
 
 ## Mitigations of this risk
 

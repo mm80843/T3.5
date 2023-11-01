@@ -4,19 +4,19 @@
 
 ## Category to which it belongs
 
-* [Lighting solutions that utilize ultraviolet technology for germicidal purposes, energy efficiency, and control of natural light.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_147.md)
+* [Lighting solutions that utilize ultraviolet technology for germicidal purposes, energy efficiency, and control of natural light.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_197.md)
 
 ## Closest similar item
 
-* [Temperature control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3423.md)
-* [Climate control technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1098.md)
-* [Humidity control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3611.md)
-* [Daylighting](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3309.md)
-* [Daylighting systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_187.md)
-* [Ultraviolet irradiation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1902.md)
-* [Ultraviolet radiation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3224.md)
-* [Emission control measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2998.md)
-* [Lighting control systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_652.md)
+* [Climate control technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3423.md)
+* [Daylighting](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1098.md)
+* [Daylighting systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3611.md)
+* [Emission control measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3309.md)
+* [Humidity control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_187.md)
+* [Lighting control systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1902.md)
+* [Temperature control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3224.md)
+* [Ultraviolet irradiation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2998.md)
+* [Ultraviolet radiation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_652.md)
 * [Ultraviolet uv lamps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2798.md)
 
 ## This Technology enables the following mitigations

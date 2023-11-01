@@ -1,60 +1,12 @@
 [Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_233 
 
-# __Those on the move, whether for work or leisure, including those affected by travel restrictions and transportation workers.__
+# __Addressing scarcity of resources by assimilating or incorporating them.__
 
 ## Items covered in this category
 
-* [Public transport users](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_236.md)
-* [Public transportation users](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1579.md)
-* [Individuals traveling during pandemic](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1076.md)
-* [Individuals traveling during a pandemic](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2093.md)
-* [Individual traveling during a pandemic](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2114.md)
-* [Travellers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_551.md)
-* [Travelers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_558.md)
-* [Travelers with tight schedules and time constraints](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1080.md)
-* [Transportation providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1081.md)
-* [Transportation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_387.md)
-* [Commuters](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_530.md)
-* [Transportation departments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_771.md)
-* [Public transportation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_188.md)
-* [Public transport](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1178.md)
-* [Public transport authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1300.md)
-* [Public transport passengers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1298.md)
-* [Public transport authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1620.md)
-* [Public transport operators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_730.md)
-* [Transportation authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_944.md)
-* [Public transit users](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_484.md)
-* [City transport authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_529.md)
-* [Transport authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_731.md)
-* [Transportation sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1583.md)
-* [Travel industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2039.md)
-* [Transport operators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1299.md)
-* [International traveler](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2470.md)
-* [Transportation hubs](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1349.md)
-* [Transportation entities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1597.md)
-* [Transport authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1624.md)
-* [Cyclists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_480.md)
-* [Commuters/cyclists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2469.md)
-* [Cyclist](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2491.md)
-* [Transportation workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1358.md)
-* [Users of shared mobility services](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_483.md)
-* [Transportation staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1444.md)
-* [State and federal transportation agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_498.md)
-* [Transportation agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_732.md)
-* [Transportation agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1625.md)
-* [Transportation department](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1445.md)
-* [Transportation authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1621.md)
-* [Commuter](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2499.md)
-* [Transportation worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1689.md)
-* [Traveler](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2486.md)
-* [International travelers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1385.md)
-* [Travel agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_561.md)
-* [Travel agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1858.md)
-* [Industries affected by travel restrictions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1027.md)
-* [Individuals traveling from or to wuhan](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1022.md)
-* [Individual traveling from or to wuhan](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2204.md)
-* [Individuals traveling from wuhan to other locations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1023.md)
-* [Individual traveling from wuhan to other location](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2200.md)
-* [Railway authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1071.md)
-* [Railway authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1609.md)
+* [Absorb resource shortages](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_34.md)
+
+## Title of the category
+
+This category of Interventions describes measures taken to address and alleviate resource shortages in green building neighborhoods. These interventions aim to mitigate the impact of limited resources by implementing strategies to efficiently use available resources, generate new resources, or reduce overall resource consumption. The individuals in this list are likely individuals who have implemented or are involved in interventions that focus on addressing resource shortages in green building neighborhoods.
 

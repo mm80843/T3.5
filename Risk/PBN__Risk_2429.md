@@ -4,19 +4,19 @@
 
 ## Category to which it belongs
 
-* [The spread of diseases through various means such as air, contact, surfaces, and bodily fluids.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_45.md)
+* [The spread of diseases through various means such as air, contact, surfaces, and bodily fluids.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_95.md)
 
 ## Closest similar item
 
-* [Transmission via hands](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2718.md)
-* [Contact transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1685.md)
-* [Transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_974.md)
+* [Contact transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2718.md)
+* [Direct contact transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1685.md)
+* [Direct transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_974.md)
 * [Surface transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1882.md)
-* [Transmission to others](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2582.md)
-* [Direct contact transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2613.md)
-* [Transmission via close contact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_73.md)
-* [Transmission through close contact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1367.md)
-* [Direct transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1541.md)
+* [Transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2582.md)
+* [Transmission through close contact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2613.md)
+* [Transmission to others](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_73.md)
+* [Transmission via close contact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1367.md)
+* [Transmission via hands](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1541.md)
 * [Transmission, exposure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2501.md)
 
 ## Mitigations of this risk

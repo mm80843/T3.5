@@ -2,26 +2,26 @@
 
 # __Improve access to basic water and sanitation facilities in housing__
 
-## Link between Blueprint and General ontology
-
-* [Separate water facilities (toilets/bathrooms for contaminated)](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_10.md)
-
 ## Category to which it belongs
 
-* [Promote and enforce rigorous hygiene practices, ensure proper sanitation infrastructure, and implement strict cleaning and disinfection protocols.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_73.md)
+* [Promote and enforce rigorous hygiene practices, ensure proper sanitation infrastructure, and implement strict cleaning and disinfection protocols.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_123.md)
 
 ## Closest similar item
 
 * [Access to adequate sanitation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3139.md)
-* [Improve access to safe drinking water and sanitation infrastructure.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2663.md)
-* [Sanitation facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4971.md)
-* [Improved water storage and sanitation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3197.md)
-* [Improvement of sanitation infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_757.md)
-* [Implement strategies for reduced contact and improved hygiene, provide access to water and sanitation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3048.md)
-* [Scaling up provision of water and safe sanitation in settlements](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_144.md)
+* [Implement strategies for reduced contact and improved hygiene, provide access to water and sanitation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2663.md)
+* [Implementing proper sanitation measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4971.md)
+* [Improve access to safe drinking water and sanitation infrastructure.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3197.md)
+* [Improved sanitation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_757.md)
+* [Improved water storage and sanitation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3048.md)
+* [Improvement of sanitation infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_144.md)
 * [Provision of safe water, sanitation, and hygienic conditions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_364.md)
-* [Improved sanitation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4098.md)
-* [Implementing proper sanitation measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_888.md)
+* [Sanitation facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4098.md)
+* [Scaling up provision of water and safe sanitation in settlements](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_888.md)
+
+## Link between Blueprint and General ontology
+
+* [Separate water facilities (toilets/bathrooms for contaminated)](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_10.md)
 
 ## Risks possibly mitigated by this Mitigation
 

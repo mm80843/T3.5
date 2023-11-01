@@ -8,8 +8,8 @@
 
 ## Referenced by other articles
 
-* [The COVID-19 pandemic: Impacts on cities and major lessons for urban planning, design, and management](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_318.md)
-* [Effects of the COVID-19 pandemic on the use and perceptions of urban green space: An international exploratory study](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_90.md)
+* [Effects of the COVID-19 pandemic on the use and perceptions of urban green space: An international exploratory study](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_318.md)
+* [The COVID-19 pandemic: Impacts on cities and major lessons for urban planning, design, and management](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_90.md)
 
 ## Title of the article
 

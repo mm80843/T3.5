@@ -1,44 +1,24 @@
 [Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_36 
 
-# __Limited access to safe water, sanitation, and hygiene facilities, leading to insufficient cleanliness and inadequate cleaning practices in unhygienic environments.__
+# __Enhanced disease prevention through minimization of vector-borne illnesses and limited exposure to infected vectors.__
 
 ## Items covered in this category
 
-* [Lack of access to water and sanitation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_119.md)
-* [Lack of sanitation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3205.md)
-* [Lack of proper sanitation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2695.md)
-* [Inadequate water and sanitation facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1297.md)
-* [Lack of proper cleaning and sanitation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1923.md)
-* [Inadequate sanitation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1391.md)
-* [Inadequate sanitation facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1408.md)
-* [Poor sanitation conditions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3146.md)
-* [Inadequate sanitation and hygiene facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1667.md)
-* [Lack of access to clean water](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_238.md)
-* [Limited access to hand hygiene facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_227.md)
-* [Inadequate hygiene facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1197.md)
-* [Lack of hygiene and cleanliness protocols](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2024.md)
-* [Inadequate hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1289.md)
-* [Insufficient sanitation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1444.md)
-* [Lack of access to clean energy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3261.md)
-* [Poor sanitation areas](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2898.md)
-* [Inadequate sanitation and hygiene](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1432.md)
-* [Inadequate sanitation and hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1156.md)
-* [Inadequate cleaning](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3408.md)
-* [Inadequate cleaning practices](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3112.md)
-* [Ineffective cleaning practices](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2366.md)
-* [Neglecting standard cleaning practices](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1163.md)
-* [Inadequate cleaning and sanitization](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3139.md)
-* [Lack of personal cleanliness](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1088.md)
-* [Lack of hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1486.md)
-* [Poor hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1564.md)
-* [Cleaning purposes](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2926.md)
-* [Clean beaches](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2359.md)
-* [Lack of access to clean cooking fuels](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_964.md)
-* [Inequitable access to clean energy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1597.md)
-* [Lack of hygienic building materials](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1724.md)
-* [Inefficient washing area](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1089.md)
-* [Hygiene maintenance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3365.md)
-* [Poor cleaning and sanitation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1475.md)
-* [Unhygienic neighbourhood](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1090.md)
-* [Sanitation practices](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2384.md)
+* [Biodiversity as disease reservoir](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_81.md)
+* [Decreased burden of respiratory disease](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_83.md)
+* [Decreased risk of west nile infection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_694.md)
+* [Lower vulnerability to disease](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_92.md)
+* [Protection from infectious diseases](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_99.md)
+* [Reduced breeding sites for mosquitoes](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_359.md)
+* [Reduced risk of mosquito breeding](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_696.md)
+* [Reduced risk of mosquito intrusion](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_512.md)
+* [Reduced risk of mosquito-borne infections](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1278.md)
+* [Reduced risk of tick-borne diseases](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_336.md)
+* [Reduction in mosquito breeding](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1279.md)
+* [Reduction in mosquito-human contact](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1280.md)
+* [Reduction in tb disease](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1281.md)
+
+## Title of the category
+
+This category of Benenefits describes the various advantages associated with reduced risk and protection against vector-borne and infectious diseases, particularly those transmitted by ticks, mosquitoes, and other vectors. These benefits include a decreased risk of tick-borne diseases and west Nile infection, as well as a reduction in mosquito breeding and human-mosquito contact. Additionally, this category encompasses protection from infectious diseases, including respiratory illnesses and tuberculosis, and highlights the role of biodiversity as a disease reservoir. It also emphasizes the lower vulnerability to disease and decreased risk of mosquito intrusion and breeding, ultimately resulting in a reduced risk of mosquito-borne infections.
 

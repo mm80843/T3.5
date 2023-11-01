@@ -4,34 +4,34 @@
 
 ## Category to which it belongs
 
-* [Various forms of financial support and assistance, including government programs, funding initiatives, microfinance, cash transfer, and community outreach.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_142.md)
+* [Various forms of financial support and assistance, including government programs, funding initiatives, microfinance, cash transfer, and community outreach.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_192.md)
 
 ## Closest similar item
 
-* [Financial assistance programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_892.md)
+* [Access to healthcare](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_892.md)
 * [Business assistance programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1887.md)
-* [Financial assistance programs and grants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1438.md)
+* [Financial aid programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1438.md)
 * [Financial assistance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3350.md)
-* [Healthcare providers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1070.md)
-* [Healthcare resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1996.md)
+* [Financial assistance programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1070.md)
+* [Financial assistance programs and grants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1996.md)
 * [Financial support programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_44.md)
 * [Healthcare funding](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1852.md)
-* [Financial aid programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_634.md)
-* [Access to healthcare](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3491.md)
+* [Healthcare providers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_634.md)
+* [Healthcare resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3491.md)
+
+## Risks linked to this technology
+
+* [Stress and burnout among healthcare providers](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1877.md)
 
 ## This Technology belongs to this TechGroup
 
 * [Wellbeing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2100.md)
 
-## This technology is mentioned by
-
-* [Mental Health and the Covid-19 Pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_167.md)
-
 ## This Technology belongs to this TechSubgroup
 
 * [Mental health support](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2106.md)
 
-## Risks linked to this technology
+## This technology is mentioned by
 
-* [Stress and burnout among healthcare providers](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1877.md)
+* [Mental Health and the Covid-19 Pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_167.md)
 
