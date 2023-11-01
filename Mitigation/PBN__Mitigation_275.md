@@ -84,6 +84,13 @@
 * [Technology-enabled monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2770.md)
 * [Wearable devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3444.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Contagious Disease Control through Social Distancing and Digital Engagement](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_6.md)
+* [Implementing Contagious Disease Control: Stakeholders, Strategies, and Technologies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_8.md)
+* [Implementing Disease Containment Strategies: Managing Contagious Risks with Social Distancing and Enhanced Sanitation Measures](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_10.md)
+* [Implementing Social Distancing and Surveillance](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_32.md)
+
 ## Property: has_MitigationPrinciple
 
 Minimize close contact and maintain physical distance to reduce the spread of the disease

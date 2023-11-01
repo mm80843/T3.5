@@ -23,3 +23,7 @@
 
 * [Transmission risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1086.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Disease Control Strategies: Mitigating Contagion Risks through Hygiene Measures and Rapid Isolation](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_41.md)
+

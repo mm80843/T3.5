@@ -24,3 +24,7 @@
 * [Health system strengthening](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4058.md)
 * [Resilient healthcare system](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4489.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Infectious Disease Control Measures within Sustainable Urban Developments](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_22.md)
+

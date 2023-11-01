@@ -49,6 +49,10 @@
 * [The general public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_952.md)
 * [The global population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_54.md)
 
+## These stakeholders can be supported by the following general blueprint
+
+* [Implementing Biohazard Mitigation Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_45.md)
+
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Access to real-time data](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_192.md)

@@ -26,3 +26,7 @@ Cleaner cooking solutions reduce exposure to harmful pollutants and provide a mo
 
 * [Low-income households](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_219.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing Enhanced Sanitation and Hygiene Practices](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_44.md)
+

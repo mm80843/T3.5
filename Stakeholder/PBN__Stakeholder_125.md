@@ -2,6 +2,12 @@
 
 # __Urban planners__
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Implementing Disease Containment Approaches](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_13.md)
+* [Implementing Disease Mitigation Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_19.md)
+* [Implementing Occupancy Controls and Physical Distancing](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_27.md)
+
 ## Category to which it belongs
 
 * [The populace of cities, including residents, professionals, officials, and decision-makers involved in urban planning and design.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_269.md)

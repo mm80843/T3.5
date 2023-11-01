@@ -41,3 +41,8 @@
 * [Respiratory pandemics, urban planning and design: A multidisciplinary rapid review of the literature](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_248.md)
 * [The effect of human mobility and control measures on the COVID-19 epidemic in China](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_133.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Disease Surveillance and Resilience Measures](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_5.md)
+* [Implementing Early-Warning Systems and Safety Protocols Against COVID-19 Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_49.md)
+

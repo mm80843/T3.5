@@ -140,3 +140,10 @@
 * [The hierarchy of preventive measures to protect workers against the COVID-19 pandemic: A review](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_196.md)
 * [Toilets dominate environmental detection of SARS-CoV-2 virus in a hospital](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_214.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Indoor Air Quality Monitoring and Maintenance Protocols for Contagion Control](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_15.md)
+* [Implementing Infectious Disease Prevention](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_26.md)
+* [Implementing UV Based Technologies and Ventilation Improvements to Control Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_40.md)
+* [Implementing Ventilation and Filtration Strategies to Mitigate Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_43.md)
+

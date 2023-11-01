@@ -2,7 +2,7 @@
 
 # __The construction industry faces challenges in occupant exposure, pandemic preparedness, information-based management, off-site construction, building systems, and financial crisis.__
 
-## Category contains the blueprint
+## Category links to the following 'general blueprint'
 
 * [Implementing Disease Containment Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_14.md)
 

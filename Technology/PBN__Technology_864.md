@@ -46,3 +46,7 @@
 * [Nurture to nature via COVID-19, a self-regenerating environmental strategy of environment in global context](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_44.md)
 * [Strategies to Mitigate COVID-19 Pandemic Impacts on Health and Safety of Workers in Construction Projects](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_238.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Infectious Disease Prevention](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_26.md)
+

@@ -25,3 +25,8 @@
 * [Increased sampling of wastewater treatment plants](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3764.md)
 * [Wastewater-based epidemiology wbe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3766.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Contagious Disease Prevention](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_29.md)
+* [Implementing Pooled-Sample Analysis and Contact Tracing Systems](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_34.md)
+

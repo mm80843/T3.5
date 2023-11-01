@@ -26,3 +26,8 @@
 * [Uv air disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5102.md)
 * [Uvgi](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5103.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Biohazard Mitigation Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_28.md)
+* [Implementing Real-time Epidemiological Data Collection and Analysis to Mitigate Virus Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_45.md)
+

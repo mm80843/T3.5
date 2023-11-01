@@ -23,3 +23,7 @@
 
 * [Medical gas supply](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4171.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing UV Based Technologies and Ventilation Improvements to Control Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_43.md)
+

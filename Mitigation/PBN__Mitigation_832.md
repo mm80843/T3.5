@@ -50,6 +50,10 @@
 * [Telecommunication technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2852.md)
 * [Telecommunication technology laptops](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3408.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Disease Containment Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_14.md)
+
 ## Property: has_MitigationPrinciple
 
 Encouraging individuals to work from home to minimize the need for commuting and reduce the risk of disease transmission in office environments.

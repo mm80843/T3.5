@@ -28,6 +28,10 @@
 * [Hvac system modification](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2463.md)
 * [Natural ventilation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_270.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing UV Based Technologies and Ventilation Improvements to Control Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_43.md)
+
 ## Property: has_MitigationPrinciple
 
 Increasing ventilation rates per person in indoor environments helps dilute and remove infectious aerosols, reducing the risk of transmission.

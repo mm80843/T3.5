@@ -37,6 +37,10 @@
 * [Social media platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3492.md)
 * [Telephones](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_135.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Contagious Disease Prevention](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_34.md)
+
 ## Property: has_MitigationPrinciple
 
 Utilizing digital platforms and effective communication strategies to raise awareness and promote adherence to public health strategies

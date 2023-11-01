@@ -2,7 +2,7 @@
 
 # __The challenges include inadequate monitoring and contact tracing, limited sensor diversity, and temporary regulations to restrict activities in public places.__
 
-## Category contains the blueprint
+## Category links to the following 'general blueprint'
 
 * [Implementing Pooled-Sample Analysis and Contact Tracing Systems](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_29.md)
 

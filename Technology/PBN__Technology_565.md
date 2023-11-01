@@ -35,3 +35,8 @@
 
 * [Amplifying the role of knowledge translation platforms in the COVID-19 pandemic response](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_111.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Disease Containment Scenarios and Supply Chain Adaptations](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_14.md)
+* [Implementing Disease Containment Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_17.md)
+

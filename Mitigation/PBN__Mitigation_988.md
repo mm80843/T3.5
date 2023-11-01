@@ -44,6 +44,10 @@
 * [Sewage monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2821.md)
 * [Wastewater sampling](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2822.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Regular Cleaning, WBE and Quarantine Measures for Infectious Diseases Mitigation](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_0.md)
+
 ## Property: has_MitigationPrinciple
 
 Monitoring the prevalence of viruses in wastewater to provide early warning of disease outbreaks and assess the efficacy of public health interventions

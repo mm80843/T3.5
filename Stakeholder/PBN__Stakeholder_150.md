@@ -2,6 +2,11 @@
 
 # __Community organizations__
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Implementing Contagious Disease Control through Social Distancing and Digital Engagement](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_6.md)
+* [Implementing Disease Mitigation Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_19.md)
+
 ## Category to which it belongs
 
 * [A collective of individuals and groups who contribute to and support the well-being of a community.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_270.md)
@@ -88,6 +93,10 @@
 * [Uneven distribution of ugs](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2232.md)
 * [Urban inequality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2326.md)
 * [Variations in prevalence of loneliness themes](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2037.md)
+
+## These stakeholders can be supported by the following general blueprint
+
+* [Implementing Collaborative Measures to Combat Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_4.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

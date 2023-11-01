@@ -2,6 +2,11 @@
 
 # __Developers__
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Implementing Disease Mitigation Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_13.md)
+* [Implementing Occupancy Controls and Physical Distancing](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_19.md)
+
 ## Category to which it belongs
 
 * [Creators of digital solutions for various purposes, from software and app development to blockchain and ai.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_276.md)
@@ -69,6 +74,10 @@
 * [Property developer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_611.md)
 * [Property developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1987.md)
 * [Real estate developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1880.md)
+
+## These stakeholders can be supported by the following general blueprint
+
+* [Implementing Disease Mitigation Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_19.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

@@ -37,6 +37,10 @@
 * [Legal and contractual disputes](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1846.md)
 * [Limited site access](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_731.md)
 
+## These stakeholders can be supported by the following general blueprint
+
+* [Implementing Disease Containment Strategies and Technological Solutions](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_38.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_20.md)

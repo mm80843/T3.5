@@ -24,3 +24,10 @@
 * [Nucleic acid-based polymerase chain reaction pcr](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_988.md)
 * [Wastewater-based epidemiology wbe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3315.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Contagious Disease Control and Privacy Protection](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_0.md)
+* [Implementing Pooled-Sample Analysis and Contact Tracing Systems](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_1.md)
+* [Implementing Regular Cleaning, WBE and Quarantine Measures for Infectious Diseases Mitigation](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_29.md)
+* [Implementing Wastewater Monitoring and Enhanced Sanitation Measures to Mitigate SARS-CoV-2 Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_30.md)
+

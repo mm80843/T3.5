@@ -64,6 +64,10 @@
 * [Poor health conditions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1355.md)
 * [Scalability and performance limitations of model-based solutions for pandemic data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2030.md)
 
+## These stakeholders can be supported by the following general blueprint
+
+* [Implementing Real-time Epidemiological Data Collection and Analysis to Mitigate Virus Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_28.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_394.md)

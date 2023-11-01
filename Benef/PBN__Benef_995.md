@@ -29,3 +29,7 @@ UVGI technology can effectively inactivate airborne pathogens, including viruses
 
 * [Occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_92.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing Real-time Epidemiological Data Collection and Analysis to Mitigate Virus Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_28.md)
+

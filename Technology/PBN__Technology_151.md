@@ -45,3 +45,7 @@
 * [Leveraging Digital Transformation Technologies to Tackle COVID-19: Proposing a Privacy-First Holistic Framework](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_297.md)
 * [The role of contemporary digital tools and technologies in COVID19 crisis: An exploratory analysis](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_226.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Vaccination Strategies and Awareness Campaigns](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_11.md)
+

@@ -26,3 +26,7 @@ Providing PPE such as masks, gloves, and face shields reduces the risk of virus 
 
 * [Construction workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_197.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing Innovative Techniques to Thwart Contagious Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_37.md)
+

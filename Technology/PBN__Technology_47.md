@@ -80,3 +80,8 @@
 * [The efficacy of social distance and ventilation effectiveness in preventing COVID-19 transmission](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_159.md)
 * [Treating two pandemics for the price of one: Chronic and infectious disease impacts of the built and natural environment](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_237.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Contagious Disease Prevention](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_24.md)
+* [Implementing Disease Control Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_34.md)
+

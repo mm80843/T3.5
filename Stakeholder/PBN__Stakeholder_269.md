@@ -2,6 +2,15 @@
 
 # __Healthcare institutions__
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Implementing Contagious Disease Control](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_0.md)
+* [Implementing Contagious Disease Control: Stakeholders, Strategies, and Technologies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_8.md)
+* [Implementing Disease Containment Strategies: Managing Contagious Risks with Social Distancing and Enhanced Sanitation Measures](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_10.md)
+* [Implementing Infectious Disease Control Measures within Sustainable Urban Developments](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_22.md)
+* [Implementing Regular Cleaning, WBE and Quarantine Measures for Infectious Diseases Mitigation](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_32.md)
+* [Implementing Social Distancing and Surveillance](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_35.md)
+
 ## Category to which it belongs
 
 * [Various organizations and individuals involved in the field of education, research, healthcare, finance, and government.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_274.md)

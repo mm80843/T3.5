@@ -50,3 +50,12 @@
 * [Virtualization of public services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4691.md)
 * [Working from home](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3300.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Acoustic Design and Soundproofing Measures to Mitigate Noise Pollution Risks](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_3.md)
+* [Implementing Disease Containment Strategies and Technological Solutions](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_16.md)
+* [Implementing Disease Control Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_20.md)
+* [Implementing Infrastructure Modifications and Community Engagement Strategies to Counter Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_23.md)
+* [Implementing Mental Health Mitigation Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_24.md)
+* [Implementing Proactive Measures to Control Disease Spread and Economic Disruptions](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_38.md)
+

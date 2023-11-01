@@ -27,3 +27,7 @@ Lightweight and scalable security mechanisms, encryption, blockchain, and distri
 * [Healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_36.md)
 * [Users of healthcare technologies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_33.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing Infectious Disease Control Measures within Sustainable Urban Developments](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_22.md)
+

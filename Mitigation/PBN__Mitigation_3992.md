@@ -27,6 +27,10 @@
 
 * [Rapid diagnostic tests](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_610.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Disease Control Strategies: Mitigating Contagion Risks through Hygiene Measures and Rapid Isolation](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_41.md)
+
 ## Property: has_MitigationPrinciple
 
 Isolating suspected cases, confirmed cases, and contacts to prevent further spread

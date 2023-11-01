@@ -51,6 +51,11 @@
 * [Wastewater analysis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3129.md)
 * [Wastewater testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3130.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Proactive Measures to Control Disease Spread and Economic Disruptions](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_20.md)
+* [Implementing Social Distancing and Surveillance](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_32.md)
+
 ## Property: has_MitigationPrinciple
 
 Monitoring virus circulation in the human population

@@ -2,6 +2,10 @@
 
 # __Ministry of commerce__
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Implementing Infrastructure Modifications and Community Engagement Strategies to Counter Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_23.md)
+
 ## Category to which it belongs
 
 * [A comprehensive array of various organizations and governing bodies related to diverse industries and sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_279.md)

@@ -28,6 +28,10 @@
 * [Restrictions on shared facilities in public places](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_272.md)
 * [Temporary regulations to monitor and restrict certain activities in public places](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_265.md)
 
+## These stakeholders can be supported by the following general blueprint
+
+* [Implementing Pooled-Sample Analysis and Contact Tracing Systems](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_29.md)
+
 ## Type of the stakeholder
 
 * [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)

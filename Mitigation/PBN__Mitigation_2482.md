@@ -23,3 +23,7 @@
 
 * [Lockdown](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1866.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Infrastructure Modifications and Community Engagement Strategies to Counter Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_23.md)
+

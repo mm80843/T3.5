@@ -52,3 +52,7 @@
 * [The effect of a redesigned floor plan, occupant density and the quality of indoor climate on the cost of space, productivity and sick leave in an office building–A case study](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_283.md)
 * [The role of green roofs in post COVID-19 confinement: An analysis of willingness to pay](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_52.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Disease Mitigation Strategies: Addressing Wildlife Trade, Vector Control, and Environmental Hygiene](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_21.md)
+

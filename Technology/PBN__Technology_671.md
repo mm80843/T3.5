@@ -40,3 +40,7 @@
 
 * [Aerosol and Surface Distribution of Severe Acute Respiratory Syndrome Coronavirus 2 in Hospital Wards, Wuhan, China, 2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_263.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Enhanced Sanitation and Hygiene Practices](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_44.md)
+

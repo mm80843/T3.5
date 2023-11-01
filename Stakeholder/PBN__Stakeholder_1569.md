@@ -2,6 +2,10 @@
 
 # __Software developers__
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Implementing Data-Driven Measures to Control Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_31.md)
+
 ## Category to which it belongs
 
 * [Creators of digital solutions for various purposes, from software and app development to blockchain and ai.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_276.md)

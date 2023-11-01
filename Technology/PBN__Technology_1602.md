@@ -31,3 +31,7 @@
 
 * [Contextualizing the Covid-19 pandemic for a carbon-constrained world: Insights for sustainability transitions, energy justice, and research methodology](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_123.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Vaccination Strategies and Awareness Campaigns](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_11.md)
+

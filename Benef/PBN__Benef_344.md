@@ -26,3 +26,8 @@ Decreased risk of virus transmission through surfaces
 
 * [Occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_92.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing Advanced Tech and Anti-Microbial Materials to Mitigate Contagious Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_45.md)
+* [Implementing Biohazard Mitigation Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_47.md)
+

@@ -23,3 +23,7 @@
 
 * [Lack of awareness and compliance with public health protocols](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1665.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Collaborative Measures to Combat Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_4.md)
+

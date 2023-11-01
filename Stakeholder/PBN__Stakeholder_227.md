@@ -32,6 +32,10 @@
 * [Limited accessibility](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1557.md)
 * [Spread of fake news](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1354.md)
 
+## These stakeholders can be supported by the following general blueprint
+
+* [Implementing Effective Measures to Combat Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_2.md)
+
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Access to relevant, reliable evidence syntheses](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_659.md)

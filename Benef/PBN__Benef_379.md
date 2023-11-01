@@ -26,3 +26,7 @@ Efficient crisis management can help construction companies overcome crises with
 
 * [Construction companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_181.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing Disease Containment Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_14.md)
+

@@ -23,3 +23,7 @@
 
 * [Shortages of personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2368.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Contagious Disease Containment Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_42.md)
+

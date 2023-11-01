@@ -23,3 +23,7 @@
 
 * [Inadequate surveillance measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1501.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Pooled-Sample Analysis and Contact Tracing Systems](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_29.md)
+

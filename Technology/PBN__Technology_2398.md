@@ -39,3 +39,8 @@
 
 * [GPS](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_10.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Contagious Disease Control and Privacy Protection](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_30.md)
+* [Implementing Data-Driven Measures to Control Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_31.md)
+

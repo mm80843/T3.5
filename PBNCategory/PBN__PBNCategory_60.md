@@ -2,7 +2,7 @@
 
 # __Healthcare systems overwhelmed, limited access to services, scarcity of resources, and risk to healthcare workers.__
 
-## Category contains the blueprint
+## Category links to the following 'general blueprint'
 
 * [Implementing Infectious Disease Control Measures within Sustainable Urban Developments](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_22.md)
 

@@ -23,3 +23,7 @@
 
 * [Exposure to sunlight](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3529.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing UVGI Systems to Combat Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_46.md)
+

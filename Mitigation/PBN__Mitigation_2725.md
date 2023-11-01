@@ -23,3 +23,7 @@
 
 * [Hesitation to vaccinate](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2056.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Vaccination Strategies and Awareness Campaigns](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_11.md)
+

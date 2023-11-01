@@ -23,6 +23,10 @@
 
 * [Inadequate mosquito control](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1634.md)
 
+## These stakeholders can be supported by the following general blueprint
+
+* [Implementing Disease Mitigation Strategies: Addressing Wildlife Trade, Vector Control, and Environmental Hygiene](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_21.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Vulnerable population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_547.md)

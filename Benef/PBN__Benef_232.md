@@ -63,3 +63,14 @@ Effective control of temperature and humidity can limit the airborne transmissio
 * [Occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_59.md)
 * [Residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_92.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing Contagious Disease Control through Social Distancing and Digital Engagement](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_6.md)
+* [Implementing Contagious Disease Control: Stakeholders, Strategies, and Technologies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_8.md)
+* [Implementing Disease Containment Strategies: Managing Contagious Risks with Social Distancing and Enhanced Sanitation Measures](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_10.md)
+* [Implementing Disease Control Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_15.md)
+* [Implementing Disease Control Strategies: Mitigating Contagion Risks through Hygiene Measures and Rapid Isolation](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_24.md)
+* [Implementing Infectious Disease Prevention](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_26.md)
+* [Implementing Strategic Measures to Counteract Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_33.md)
+* [Implementing Ventilation and Filtration Strategies to Mitigate Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_41.md)
+

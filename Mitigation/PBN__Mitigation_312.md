@@ -43,6 +43,10 @@
 * [Hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3151.md)
 * [Nanoparticle filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3173.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Filtration and Protective Measures to Minimize Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_9.md)
+
 ## Property: has_MitigationPrinciple
 
 High-efficiency particle filtration reduces the airborne load of infectious particles, improving indoor air quality.

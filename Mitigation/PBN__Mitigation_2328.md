@@ -23,3 +23,7 @@
 
 * [Lack of definitive epidemiologic data on the ability of uvgi systems to prevent healthcare-associated infections](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1746.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing UVGI Systems to Combat Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_46.md)
+

@@ -45,3 +45,7 @@
 * [10 Adaptive Measures for Public Places to face the COVID 19 Pandemic Outbreak](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_63.md)
 * [Architectural Design Drives the Biogeography of Indoor Bacterial Communities](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_52.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Disease Containment Approaches](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_27.md)
+

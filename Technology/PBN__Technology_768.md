@@ -40,3 +40,7 @@
 
 * [Design and Implementation of Entry-level COVID-19 Digital Signage Player supporting Fever Detection, Face Mask Wearing Detection and KI-pass QR Code Checking](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_285.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Surface Disinfection Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_39.md)
+

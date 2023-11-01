@@ -39,3 +39,7 @@
 * [How loneliness is talked about in social media during COVID-19 pandemic: Text mining of 4,492 Twitter feeds](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_139.md)
 * [The effect of a redesigned floor plan, occupant density and the quality of indoor climate on the cost of space, productivity and sick leave in an office building–A case study](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_190.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Contagious Disease Prevention](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_34.md)
+

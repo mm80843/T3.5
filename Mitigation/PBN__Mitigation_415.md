@@ -52,6 +52,10 @@
 * [Ppe](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2728.md)
 * [Protective clothing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_484.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Filtration and Protective Measures to Minimize Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_9.md)
+
 ## Property: has_MitigationPrinciple
 
 Protecting sampling personnel from exposure to pathogens including SARS-CoV-2 during wastewater sampling

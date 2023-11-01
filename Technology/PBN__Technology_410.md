@@ -66,3 +66,7 @@
 * [Designing a Multi-Agent Occupant Simulation System to Support Facility Planning and Analysis for COVID-19](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_52.md)
 * [Resilient Built Environment: Critical Review of the Strategies Released by the Sustainability Rating Systems in Response to the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_120.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Contagion Prevention Practices and Infrastructure](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_12.md)
+

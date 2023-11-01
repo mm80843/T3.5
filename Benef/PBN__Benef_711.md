@@ -31,3 +31,7 @@ Improves coordination and communication with suppliers
 * [Smes](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_370.md)
 * [Supply chain partners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_371.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing Disease Containment Scenarios and Supply Chain Adaptations](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_17.md)
+

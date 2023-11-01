@@ -23,3 +23,7 @@
 
 * [Lack of awareness and knowledge about green roofs](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1674.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Disease Mitigation Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_19.md)
+

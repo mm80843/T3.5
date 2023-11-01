@@ -26,3 +26,7 @@ Natural ventilation systems provide fresh air supply, improving indoor air quali
 
 * [Residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_59.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing UV Based Technologies and Ventilation Improvements to Control Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_43.md)
+

@@ -2,7 +2,7 @@
 
 # __Limited capacity, high demand, waning effectiveness, distribution difficulties, and access disparities hinder efficient vaccination efforts.__
 
-## Category contains the blueprint
+## Category links to the following 'general blueprint'
 
 * [Implementing Vaccination Strategies and Awareness Campaigns](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_11.md)
 

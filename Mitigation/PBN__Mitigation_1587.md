@@ -27,3 +27,7 @@
 
 * [Persistence of sars-cov-2 on surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1134.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Regular Cleaning, WBE and Quarantine Measures for Infectious Diseases Mitigation](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_0.md)
+

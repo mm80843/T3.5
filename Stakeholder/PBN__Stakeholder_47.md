@@ -2,6 +2,28 @@
 
 # __Governments__
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Implementing Acoustic Design and Soundproofing Measures to Mitigate Noise Pollution Risks](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_0.md)
+* [Implementing Biosecurity Measures and Technological Solutions to Counter Infectious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_2.md)
+* [Implementing Collaborative Measures to Combat Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_3.md)
+* [Implementing Contagious Disease Prevention](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_4.md)
+* [Implementing Digital Tracing and Proactive Infection Control Measures](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_5.md)
+* [Implementing Disease Containment Scenarios and Supply Chain Adaptations](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_7.md)
+* [Implementing Disease Containment Strategies and Technological Solutions](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_8.md)
+* [Implementing Disease Containment Strategies: Managing Contagious Risks with Social Distancing and Enhanced Sanitation Measures](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_15.md)
+* [Implementing Disease Control Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_16.md)
+* [Implementing Disease Mitigation Strategies: Addressing Wildlife Trade, Vector Control, and Environmental Hygiene](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_17.md)
+* [Implementing Early-Warning Systems and Safety Protocols Against COVID-19 Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_20.md)
+* [Implementing Effective Measures to Combat Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_21.md)
+* [Implementing Infectious Disease Control Measures within Sustainable Urban Developments](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_22.md)
+* [Implementing Mental Health Mitigation Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_24.md)
+* [Implementing Proactive Measures to Control Disease Spread and Economic Disruptions](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_25.md)
+* [Implementing Real-time Epidemiological Data Collection and Analysis to Mitigate Virus Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_28.md)
+* [Implementing Regular Cleaning, WBE and Quarantine Measures for Infectious Diseases Mitigation](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_32.md)
+* [Implementing Social Distancing and Surveillance](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_34.md)
+* [Implementing Ventilation and Filtration Strategies to Mitigate Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_38.md)
+
 ## Category to which it belongs
 
 * [Public and governmental entities at various levels, including policy makers, governments, and citizens.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_242.md)
@@ -209,6 +231,10 @@
 * [Water and sanitation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1561.md)
 * [Weak health-care systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1966.md)
 * [Zoonotic infections](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2138.md)
+
+## These stakeholders can be supported by the following general blueprint
+
+* [Implementing Early-Warning Systems and Safety Protocols Against COVID-19 Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_5.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

@@ -2,7 +2,7 @@
 
 # __Uv germicidal technology: limited awareness, efficacy, and safety concerns with potential health risks and lack of definitive evidence.__
 
-## Category contains the blueprint
+## Category links to the following 'general blueprint'
 
 * [Implementing UVGI Systems to Combat Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_46.md)
 

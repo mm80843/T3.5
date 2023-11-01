@@ -23,3 +23,7 @@
 
 * [Concentration of suppliers](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1819.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Strategic Measures to Counteract Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_33.md)
+

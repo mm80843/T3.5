@@ -2,7 +2,7 @@
 
 # __The challenges of water pollution, inadequate wastewater management, and poor waste disposal require urgent attention for environmental sustainability.__
 
-## Category contains the blueprint
+## Category links to the following 'general blueprint'
 
 * [Implementing Drainage System Improvements and PCR Protocol Standardization to Mitigate Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_18.md)
 

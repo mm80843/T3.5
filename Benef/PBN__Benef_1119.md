@@ -26,3 +26,7 @@ Disinfecting surfaces significantly reduces coronavirus infectivity within 1 min
 
 * [Public and healthcare settings](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_440.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing Surface Disinfection Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_39.md)
+

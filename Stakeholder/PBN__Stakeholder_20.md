@@ -2,6 +2,16 @@
 
 # __Individuals__
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Implementing Contagious Disease Prevention](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_8.md)
+* [Implementing Disease Containment Strategies: Managing Contagious Risks with Social Distancing and Enhanced Sanitation Measures](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_9.md)
+* [Implementing Disease Control Strategies: Mitigating Contagion Risks through Hygiene Measures and Rapid Isolation](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_26.md)
+* [Implementing Filtration and Protective Measures to Minimize Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_32.md)
+* [Implementing Infectious Disease Prevention](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_34.md)
+* [Implementing Social Distancing and Surveillance](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_41.md)
+* [Implementing UV Based Technologies and Ventilation Improvements to Control Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_43.md)
+
 ## Category to which it belongs
 
 * [Various categories of people, including individuals of different socioeconomic, gender, age, and health statuses, as well as those affected by specific circumstances or conditions.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_254.md)
@@ -190,6 +200,10 @@
 * [Tourists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2325.md)
 * [Traveler](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2462.md)
 * [Travelers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2492.md)
+
+## These stakeholders can be supported by the following general blueprint
+
+* [Implementing Proactive Measures to Control Disease Spread and Economic Disruptions](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_20.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

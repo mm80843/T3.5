@@ -32,6 +32,10 @@
 
 * [Digital reservation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2866.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Disease Containment Approaches](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_27.md)
+
 ## Property: has_MitigationPrinciple
 
 Limit the number of individuals allowed in a space to reduce crowding and maintain social distancing

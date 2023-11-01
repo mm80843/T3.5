@@ -2,7 +2,7 @@
 
 # __Indoor living challenges include limited self-sufficiency, reliance on artificial elements, poor lighting, and environmental variations.__
 
-## Category contains the blueprint
+## Category links to the following 'general blueprint'
 
 * [Implementing Ventilation and Filtration Strategies to Mitigate Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_15.md)
 

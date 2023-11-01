@@ -2,6 +2,10 @@
 
 # __Government bodies__
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Implementing Disease Containment Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_14.md)
+
 ## Category to which it belongs
 
 * [Public and governmental entities at various levels, including policy makers, governments, and citizens.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_242.md)

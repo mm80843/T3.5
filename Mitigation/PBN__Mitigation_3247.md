@@ -39,6 +39,10 @@
 * [Video conferencing tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2396.md)
 * [Wearable technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1233.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Infectious Disease Control Measures within Sustainable Urban Developments](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_22.md)
+
 ## Property: has_MitigationPrinciple
 
 Facilitating remote consultations between patients and healthcare providers, reducing the need for physical presence at clinics and minimizing the risk of virus transmission

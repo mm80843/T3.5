@@ -26,6 +26,10 @@
 * [Loss of urban biodiversity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1374.md)
 * [Neglected green space quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_533.md)
 
+## These stakeholders can be supported by the following general blueprint
+
+* [Implementing Disease Mitigation Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_19.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Community stakeholders](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2582.md)

@@ -59,6 +59,10 @@
 * [Uv-c irradiation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3125.md)
 * [Wipes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3301.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Surface Disinfection Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_39.md)
+
 ## Property: has_MitigationPrinciple
 
 Regular disinfection of surfaces, using appropriate disinfectants or UV-C irradiation, helps eliminate pathogens and reduces the risk of surface contamination.

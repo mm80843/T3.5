@@ -37,3 +37,7 @@
 
 * [Effects to Construction Project Management Impacted Circular Economic of Covid-19 Pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_134.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Data-Driven Measures to Control Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_31.md)
+

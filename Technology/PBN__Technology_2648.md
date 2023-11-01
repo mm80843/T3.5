@@ -27,3 +27,7 @@
 * [Proper hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3576.md)
 * [Regular hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3538.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Contagion Prevention Practices and Infrastructure](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_12.md)
+

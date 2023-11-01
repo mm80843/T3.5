@@ -32,6 +32,10 @@
 * [Context-specific initiatives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2348.md)
 * [Innovative demand and supply-side initiatives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2349.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Collaborative Measures to Combat Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_4.md)
+
 ## Property: has_MitigationPrinciple
 
 Implement innovative strategies to strengthen food supply chains, support local food markets, and ensure access to nutritious food in vulnerable communities.

@@ -26,6 +26,10 @@
 ## This Mitigation is enabled by the following technologies
 
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Contagious Disease Control: Stakeholders, Strategies, and Technologies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_10.md)
+
 ## Property: has_MitigationPrinciple
 
 Restricting movement within a country to prevent the spread of diseases between regions/areas

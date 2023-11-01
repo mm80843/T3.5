@@ -46,3 +46,7 @@
 * [Association between indoor-outdoor green features and psychological health during the COVID-19 lockdown in Italy: A cross-sectional nationwide study](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_151.md)
 * [Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_282.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Disease Containment Approaches](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_27.md)
+

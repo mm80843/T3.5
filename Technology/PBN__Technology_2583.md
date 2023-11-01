@@ -29,3 +29,10 @@
 * [Uv-light radiation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5105.md)
 * [Uvgi](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5107.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Biohazard Mitigation Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_4.md)
+* [Implementing Collaborative Measures to Combat Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_28.md)
+* [Implementing Real-time Epidemiological Data Collection and Analysis to Mitigate Virus Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_45.md)
+* [Implementing UVGI Systems to Combat Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_46.md)
+

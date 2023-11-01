@@ -48,3 +48,8 @@
 * [Resilient Built Environment: Critical Review of the Strategies Released by the Sustainability Rating Systems in Response to the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_125.md)
 * [The efficacy of social distance and ventilation effectiveness in preventing COVID-19 transmission](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_274.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Innovative Techniques to Thwart Contagious Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_37.md)
+* [Implementing Surface Disinfection Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_39.md)
+

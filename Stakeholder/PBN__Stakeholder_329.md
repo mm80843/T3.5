@@ -2,6 +2,10 @@
 
 # __Water utilities__
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Implementing Drainage System Improvements and PCR Protocol Standardization to Mitigate Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_18.md)
+
 ## Category to which it belongs
 
 * [Entities involved in managing occupants, waste, water, and cleaning services within facilities and communities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_287.md)
@@ -48,6 +52,10 @@
 ## Stakeholders in this stakeholder subgroup
 
 * [Water utilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_329.md)
+
+## These stakeholders can be supported by the following general blueprint
+
+* [Implementing Drainage System Improvements and PCR Protocol Standardization to Mitigate Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_18.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

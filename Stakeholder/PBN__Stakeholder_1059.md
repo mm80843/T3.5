@@ -26,6 +26,10 @@
 * [Lack of anterooms](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1630.md)
 * [Lack of patient monitoring system](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1628.md)
 
+## These stakeholders can be supported by the following general blueprint
+
+* [Implementing Infrastructure Modifications and Community Engagement Strategies to Counter Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_23.md)
+
 ## Type of the stakeholder
 
 * [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)

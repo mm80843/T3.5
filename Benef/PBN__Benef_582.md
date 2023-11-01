@@ -26,3 +26,7 @@ Social distancing measures implemented early can reduce the total number of COVI
 
 * [Public health](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_58.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing Digital Tracing and Proactive Infection Control Measures](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_7.md)
+

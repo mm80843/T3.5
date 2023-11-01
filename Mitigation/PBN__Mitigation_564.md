@@ -57,6 +57,11 @@
 * [Travel regulations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3414.md)
 * [Travel tracking and monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3415.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Proactive Measures to Control Disease Spread and Economic Disruptions](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_20.md)
+* [Implementing Social Distancing and Surveillance](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_32.md)
+
 ## Property: has_MitigationPrinciple
 
 Restrict and control travel to and from areas with high infection rates to minimize the spread of infectious diseases

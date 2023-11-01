@@ -30,6 +30,11 @@
 * [Propaganda](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1193.md)
 * [Security breaches](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1070.md)
 
+## These stakeholders can be supported by the following general blueprint
+
+* [Implementing Contagion Prevention Practices and Infrastructure](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_12.md)
+* [Implementing Contagious Disease Control and Privacy Protection](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_30.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_20.md)

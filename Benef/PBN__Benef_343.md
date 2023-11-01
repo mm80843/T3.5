@@ -28,3 +28,7 @@ Increased awareness and training on germicidal UV technology can lead to higher 
 * [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
 * [Technicians](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing UVGI Systems to Combat Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_46.md)
+

@@ -26,3 +26,7 @@ Next-generation wearable devices must be biocompatible, energy efficient, compli
 
 * [Individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_20.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing Contagious Disease Containment Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_42.md)
+

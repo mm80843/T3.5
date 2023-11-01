@@ -31,6 +31,10 @@
 
 * [Nucleic acid-based polymerase chain reaction pcr](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2668.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Pooled-Sample Analysis and Contact Tracing Systems](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_29.md)
+
 ## Property: has_MitigationPrinciple
 
 Increase testing capacity and throughput, especially for PCR-based methods, by testing multiple samples together

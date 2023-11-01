@@ -32,6 +32,10 @@
 
 * [Dependency on technology](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1226.md)
 
+## These stakeholders can be supported by the following general blueprint
+
+* [Implementing Contagious Disease Control and Privacy Protection](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_30.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Technology sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1872.md)

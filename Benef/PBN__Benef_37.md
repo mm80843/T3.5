@@ -27,3 +27,7 @@ Utilizing 5G and IoT devices in supply chain management can increase transparenc
 * [Healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_34.md)
 * [Manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_33.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing Disease Containment Scenarios and Supply Chain Adaptations](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_17.md)
+

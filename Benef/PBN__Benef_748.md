@@ -26,3 +26,7 @@ Implementing social distancing measures in open-plan offices reduces the risk of
 
 * [Office workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_129.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing Ventilation and Filtration Strategies to Mitigate Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_15.md)
+

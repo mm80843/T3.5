@@ -36,6 +36,10 @@
 * [Voice control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1721.md)
 * [Voice recognition technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3715.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Contagious Disease Control](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_35.md)
+
 ## Property: has_MitigationPrinciple
 
 Decrease contact with contaminated surfaces

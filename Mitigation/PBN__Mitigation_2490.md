@@ -23,3 +23,7 @@
 
 * [Lack of passive survivability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1872.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Effective Measures to Combat Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_2.md)
+

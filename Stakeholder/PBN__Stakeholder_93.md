@@ -40,6 +40,10 @@
 
 * [Contamination of masks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1414.md)
 
+## These stakeholders can be supported by the following general blueprint
+
+* [Implementing Collaborative Measures to Combat Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_4.md)
+
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Efficient tracking of high-risk patients](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1111.md)

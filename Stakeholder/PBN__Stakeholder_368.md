@@ -2,6 +2,10 @@
 
 # __Mental health professionals__
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Implementing Mental Health Mitigation Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_3.md)
+
 ## Category to which it belongs
 
 * [Individuals requiring mental health support, including those with pre-existing conditions, poor health, or marginalized access to services.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_251.md)

@@ -27,6 +27,10 @@
 
 * [Solar energy](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3650.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Infectious Disease Prevention](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_26.md)
+
 ## Property: has_MitigationPrinciple
 
 Enable charging of electronic devices using sustainable energy sources

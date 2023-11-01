@@ -33,3 +33,7 @@ Energy consumption reduction for HVAC systems through proper operation and utili
 * [Building owners/operators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
 * [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_406.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing Infrastructure Modifications and Community Engagement Strategies to Counter Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_23.md)
+

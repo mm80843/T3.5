@@ -29,6 +29,10 @@
 * [Diversification](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3743.md)
 * [Localization](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_133.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Disease Containment Scenarios and Supply Chain Adaptations](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_17.md)
+
 ## Property: has_MitigationPrinciple
 
 Rethinking global trade and supply chains by diversifying sources, localizing production, and incorporating technologies such as 3D printing can reduce vulnerability to supply chain disruptions and ensure the availability of critical goods during a crisis.

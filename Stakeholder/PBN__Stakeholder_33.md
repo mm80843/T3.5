@@ -61,6 +61,10 @@
 * [Spread of covid-19 in healthcare](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1233.md)
 * [Staff sickness and self-isolation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2162.md)
 
+## These stakeholders can be supported by the following general blueprint
+
+* [Implementing Indoor Air Quality Monitoring and Maintenance Protocols for Contagion Control](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_40.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_394.md)

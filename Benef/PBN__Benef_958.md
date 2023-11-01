@@ -26,3 +26,10 @@ Wuhan travel ban delayed arrival of COVID-19 in other cities by 2.91 days
 
 * [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_29.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing Biosecurity Measures and Technological Solutions to Counter Infectious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_5.md)
+* [Implementing Disease Surveillance and Resilience Measures](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_20.md)
+* [Implementing Early-Warning Systems and Safety Protocols Against COVID-19 Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_25.md)
+* [Implementing Proactive Measures to Control Disease Spread and Economic Disruptions](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_49.md)
+

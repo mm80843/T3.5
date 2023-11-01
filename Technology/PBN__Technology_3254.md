@@ -23,3 +23,7 @@
 
 * [Remote work](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_832.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Disease Containment Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_14.md)
+

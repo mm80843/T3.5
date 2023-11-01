@@ -44,3 +44,7 @@
 * [Physical interventions to interrupt or reduce the spread of respiratory viruses: systematic review](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_22.md)
 * [The impacts of knowledge, risk perception, emotion and information on citizens’ protective behaviors during the outbreak of COVID-19: a cross-sectional study in China](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_74.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Data-Driven Measures to Control Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_31.md)
+

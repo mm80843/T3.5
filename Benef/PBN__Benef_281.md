@@ -26,3 +26,7 @@ Easy access to sinks in the containment space encourages regular hand washing, r
 
 * [Occupants of the building and public health](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_141.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing Enhanced Sanitation and Hygiene Practices](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_44.md)
+

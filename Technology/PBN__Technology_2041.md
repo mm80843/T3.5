@@ -44,3 +44,7 @@
 * [Smart city infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4186.md)
 * [Wearable technology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4544.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Real-time Epidemiological Data Collection and Analysis to Mitigate Virus Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_28.md)
+

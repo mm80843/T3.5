@@ -48,6 +48,12 @@
 * [Vulnerable population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_199.md)
 * [Vulnerable populations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2109.md)
 
+## These stakeholders can be supported by the following general blueprint
+
+* [Implementing Contagious Disease Control: Stakeholders, Strategies, and Technologies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_8.md)
+* [Implementing Disease Containment Strategies: Managing Contagious Risks with Social Distancing and Enhanced Sanitation Measures](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_10.md)
+* [Implementing Disease Control Strategies: Mitigating Contagion Risks through Hygiene Measures and Rapid Isolation](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_41.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Vulnerable population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_547.md)

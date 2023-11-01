@@ -23,3 +23,7 @@
 
 * [Mental health impact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1154.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Mental Health Mitigation Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_3.md)
+

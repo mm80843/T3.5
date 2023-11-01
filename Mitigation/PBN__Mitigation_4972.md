@@ -27,6 +27,10 @@
 
 * [Remote control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3647.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Infectious Disease Prevention](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_26.md)
+
 ## Property: has_MitigationPrinciple
 
 Automatically cut off energy supply when devices are not in use

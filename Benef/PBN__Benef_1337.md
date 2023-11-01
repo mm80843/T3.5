@@ -26,3 +26,7 @@ The use of PPE, such as masks and gloves, can protect individuals from infection
 
 * [Individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_20.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing Innovative Techniques to Thwart Contagious Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_37.md)
+

@@ -27,6 +27,10 @@
 
 * [Healthcare infrastructure investments](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3746.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Infectious Disease Control Measures within Sustainable Urban Developments](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_22.md)
+
 ## Property: has_MitigationPrinciple
 
 Investing in public healthcare infrastructure can strengthen the capacity and resilience of healthcare systems, ensuring adequate resources and services to respond to pandemics and protect public health.

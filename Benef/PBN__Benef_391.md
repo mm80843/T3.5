@@ -26,3 +26,7 @@ Patient monitoring systems and door-lock devices facilitate access to patients i
 
 * [Medical personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_184.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing Data-Driven Measures to Control Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_31.md)
+

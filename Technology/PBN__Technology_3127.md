@@ -28,3 +28,8 @@
 * [Telemedicine apps](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4598.md)
 * [Tracetogether app](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4596.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Cybersecurity and Transparency Strategies to Mitigate Contagious Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_31.md)
+* [Implementing Data-Driven Measures to Control Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_36.md)
+

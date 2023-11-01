@@ -25,6 +25,10 @@
 * [Increase in outdoor noise during lockdown](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1618.md)
 * [Increased annoyance from bird noise during lockdown](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1621.md)
 
+## These stakeholders can be supported by the following general blueprint
+
+* [Implementing Infrastructure Modifications and Community Engagement Strategies to Counter Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_23.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Vulnerable population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_547.md)

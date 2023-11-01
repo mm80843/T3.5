@@ -28,3 +28,7 @@
 * [Digital divide and information gap](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1033.md)
 * [Misinformation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_751.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Contagious Disease Prevention](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_34.md)
+

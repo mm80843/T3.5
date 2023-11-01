@@ -2,6 +2,11 @@
 
 # __Research institutions__
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Implementing Innovative Techniques to Thwart Contagious Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_1.md)
+* [Implementing Wastewater Monitoring and Enhanced Sanitation Measures to Mitigate SARS-CoV-2 Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_37.md)
+
 ## Category to which it belongs
 
 * [Various organizations and individuals involved in the field of education, research, healthcare, finance, and government.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_274.md)

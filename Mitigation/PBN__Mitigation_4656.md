@@ -27,6 +27,10 @@
 
 * [Energy-efficient hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_748.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Indoor Air Quality Monitoring and Maintenance Protocols for Contagion Control](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_40.md)
+
 ## Property: has_MitigationPrinciple
 
 Use energy-efficient heating and cooling systems in buildings to maintain a comfortable indoor environment while minimizing the impact on indoor air quality.

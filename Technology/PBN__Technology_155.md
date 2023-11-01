@@ -50,3 +50,7 @@
 * [Leveraging Digital Transformation Technologies to Tackle COVID-19: Proposing a Privacy-First Holistic Framework](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_72.md)
 * [Overcoming the Impact of COVID-19 Using Integrated Project Delivery Model](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_28.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Disease Control Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_24.md)
+

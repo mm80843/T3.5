@@ -35,6 +35,11 @@
 * [Overcrowding](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1489.md)
 * [Schoolchildren and children in day care](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2126.md)
 
+## These stakeholders can be supported by the following general blueprint
+
+* [Implementing Contagious Disease Containment Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_13.md)
+* [Implementing Occupancy Controls and Physical Distancing](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_42.md)
+
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Compliance with regulations](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_262.md)

@@ -24,3 +24,7 @@
 * [Mass surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4833.md)
 * [Tracking plans for universal energy access and sdg7](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4848.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Enhanced Sanitation and Hygiene Practices](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_44.md)
+

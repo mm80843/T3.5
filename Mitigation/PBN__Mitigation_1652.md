@@ -27,3 +27,7 @@
 
 * [Lack of social distancing implementation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1196.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Contagious Disease Control through Social Distancing and Digital Engagement](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_6.md)
+

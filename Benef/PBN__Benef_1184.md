@@ -26,3 +26,7 @@ Increasing vaccination coverage reduces the risk of reinfection, contributing to
 
 * [Unvaccinated individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_463.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing Vaccination Strategies and Awareness Campaigns](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_11.md)
+

@@ -33,6 +33,10 @@
 * [Far-uvc light](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3152.md)
 * [Uvgi](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3153.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing UV Based Technologies and Ventilation Improvements to Control Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_43.md)
+
 ## Property: has_MitigationPrinciple
 
 Inactivating airborne pathogens through the use of UV light to reduce the concentration of viruses and bacteria in indoor spaces, with caution required to minimize health risks associated with UV exposure.

@@ -2,6 +2,10 @@
 
 # __Customers__
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Implementing Disease Containment Scenarios and Supply Chain Adaptations](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_17.md)
+
 ## Category to which it belongs
 
 * [Individuals with ownership, control, or responsibility over various properties, businesses, data, or belongings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_263.md)

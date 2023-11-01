@@ -26,3 +26,7 @@ UV air disinfection can effectively inactivate respiratory animal viral aerosols
 
 * [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing Real-time Epidemiological Data Collection and Analysis to Mitigate Virus Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_28.md)
+

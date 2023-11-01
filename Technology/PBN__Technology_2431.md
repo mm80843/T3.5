@@ -25,3 +25,7 @@
 * [Biophilic design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1017.md)
 * [Indoor biophilia](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5278.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Mental Health Mitigation Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_3.md)
+

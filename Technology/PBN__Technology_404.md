@@ -51,3 +51,7 @@
 * [Effects of the COVID-19 pandemic on the use and perceptions of urban green space: An international exploratory study](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_184.md)
 * [Staying Physically Active During the Quarantine and Self-Isolation Period for Controlling and Mitigating the COVID-19 Pandemic: A Systematic Overview of the Literature](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_90.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Data-Driven Measures to Control Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_31.md)
+

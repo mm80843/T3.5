@@ -23,3 +23,7 @@
 
 * [Reliance on digital platforms](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1363.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Biosecurity Measures and Technological Solutions to Counter Infectious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_25.md)
+

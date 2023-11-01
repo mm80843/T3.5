@@ -23,3 +23,11 @@
 
 * [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_149.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Collaborative Measures to Combat Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_1.md)
+* [Implementing Drainage System Improvements and PCR Protocol Standardization to Mitigate Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_4.md)
+* [Implementing Pooled-Sample Analysis and Contact Tracing Systems](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_18.md)
+* [Implementing Proactive Measures to Control Disease Spread and Economic Disruptions](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_20.md)
+* [Implementing Wastewater Monitoring and Enhanced Sanitation Measures to Mitigate SARS-CoV-2 Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_29.md)
+

@@ -23,3 +23,7 @@
 
 * [Lack of proper environmental controls](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1135.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Ventilation and Filtration Strategies to Mitigate Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_15.md)
+

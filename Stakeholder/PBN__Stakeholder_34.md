@@ -2,6 +2,12 @@
 
 # __Manufacturers__
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Implementing Biosecurity Measures and Technological Solutions to Counter Infectious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_17.md)
+* [Implementing Contagious Disease Containment Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_25.md)
+* [Implementing Disease Containment Scenarios and Supply Chain Adaptations](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_42.md)
+
 ## Category to which it belongs
 
 * [The industry of creating and supplying various devices, equipment, and platforms for different sectors and users.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_264.md)
@@ -56,6 +62,10 @@
 * [Supply chain disruption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1128.md)
 * [Supply chain disruptions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1127.md)
 * [Toxicity of nanomaterials](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2372.md)
+
+## These stakeholders can be supported by the following general blueprint
+
+* [Implementing Disease Containment Scenarios and Supply Chain Adaptations](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_17.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

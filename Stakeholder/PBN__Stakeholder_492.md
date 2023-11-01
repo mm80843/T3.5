@@ -31,6 +31,10 @@
 * [Contagious diseases transmission through hospital wastes and wastewater](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2288.md)
 * [Lack of running water](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1650.md)
 
+## These stakeholders can be supported by the following general blueprint
+
+* [Implementing Biohazard Mitigation Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_45.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [National authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2356.md)

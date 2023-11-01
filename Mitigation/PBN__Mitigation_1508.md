@@ -23,3 +23,7 @@
 
 * [Economic impact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_124.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Proactive Measures to Control Disease Spread and Economic Disruptions](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_20.md)
+

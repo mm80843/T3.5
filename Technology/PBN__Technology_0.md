@@ -156,3 +156,7 @@
 * [Mitigation strategies to fight the COVID-19 pandemic—present, future and beyond](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_42.md)
 * [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_76.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Contagious Disease Containment Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_42.md)
+

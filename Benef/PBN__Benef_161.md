@@ -26,3 +26,7 @@ Improved hygiene practices and reduced risk of waterborne diseases
 
 * [Residents of informal settlements](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_95.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing Enhanced Sanitation and Hygiene Practices](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_44.md)
+

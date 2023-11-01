@@ -72,3 +72,9 @@
 * [The role of 5G for digital healthcare against COVID-19 pandemic: Opportunities and challenges](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_177.md)
 * [The socio-economic implications of the coronavirus pandemic (COVID-19): A review](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_9.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Acoustic Design and Soundproofing Measures to Mitigate Noise Pollution Risks](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_16.md)
+* [Implementing Infectious Disease Control Measures within Sustainable Urban Developments](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_22.md)
+* [Implementing Real-time Epidemiological Data Collection and Analysis to Mitigate Virus Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_28.md)
+

@@ -23,3 +23,7 @@
 
 * [Lack of trust in evidence](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1352.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Effective Measures to Combat Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_2.md)
+

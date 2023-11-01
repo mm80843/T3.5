@@ -27,3 +27,7 @@ Reduced risk of infection for healthcare workers
 * [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_68.md)
 * [Healthcare workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing Contagious Disease Containment Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_42.md)
+

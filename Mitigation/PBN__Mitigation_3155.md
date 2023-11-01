@@ -27,6 +27,10 @@
 
 * [Crowd surveillance technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2319.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Digital Tracing and Proactive Infection Control Measures](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_7.md)
+
 ## Property: has_MitigationPrinciple
 
 Ensuring social distancing guidelines are followed in public spaces

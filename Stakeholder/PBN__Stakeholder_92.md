@@ -2,6 +2,10 @@
 
 # __Occupants__
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Implementing Surface Disinfection Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_39.md)
+
 ## Category to which it belongs
 
 * [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_262.md)
@@ -93,6 +97,14 @@
 * [Occupants of indoor spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1861.md)
 * [Occupants of indoor spaces such as offices](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2026.md)
 * [Occupants of living units](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2074.md)
+
+## These stakeholders can be supported by the following general blueprint
+
+* [Implementing Acoustic Design and Soundproofing Measures to Mitigate Noise Pollution Risks](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_15.md)
+* [Implementing Contagious Disease Containment Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_16.md)
+* [Implementing Disease Control Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_24.md)
+* [Implementing UV Based Technologies and Ventilation Improvements to Control Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_42.md)
+* [Implementing Ventilation and Filtration Strategies to Mitigate Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_43.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

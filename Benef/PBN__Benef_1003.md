@@ -26,3 +26,7 @@ Increased efficiency and productivity
 
 * [Water utilities/workforce](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_399.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing Disease Containment Strategies and Technological Solutions](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_38.md)
+

@@ -47,3 +47,7 @@
 * [The Rise of Wearable Devices during the COVID-19 Pandemic: A Systematic Review](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_143.md)
 * [Towards the sustainable development of smart cities through mass video surveillance: A response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_106.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Cybersecurity and Transparency Strategies to Mitigate Contagious Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_36.md)
+

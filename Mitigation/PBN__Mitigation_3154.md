@@ -27,6 +27,10 @@
 
 * [Digital technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2318.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Digital Tracing and Proactive Infection Control Measures](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_7.md)
+
 ## Property: has_MitigationPrinciple
 
 Gathering information on individuals with symptoms for isolation measures

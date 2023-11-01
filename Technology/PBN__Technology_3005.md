@@ -23,3 +23,7 @@
 
 * [Vaccine production and distribution improvement](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4043.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Vaccination Strategies and Awareness Campaigns](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_11.md)
+

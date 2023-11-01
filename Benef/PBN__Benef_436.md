@@ -34,3 +34,8 @@ Improved air quality reduces the risk of respiratory diseases and improves overa
 * [Household members](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
 * [Public health](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_162.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing Disease Control Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_3.md)
+* [Implementing Mental Health Mitigation Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_24.md)
+

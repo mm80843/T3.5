@@ -41,6 +41,11 @@
 * [Vaccine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_826.md)
 * [Vaccines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3271.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Contagious Disease Control: Stakeholders, Strategies, and Technologies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_10.md)
+* [Implementing Vaccination Strategies and Awareness Campaigns](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_11.md)
+
 ## Property: has_MitigationPrinciple
 
 Vaccination provides immunity to individuals and reduces the spread of infectious diseases by preventing transmission from infected individuals to susceptible ones.

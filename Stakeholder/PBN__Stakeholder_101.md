@@ -45,6 +45,11 @@
 
 * [Students](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_101.md)
 
+## These stakeholders can be supported by the following general blueprint
+
+* [Implementing Disease Containment Approaches](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_27.md)
+* [Implementing Strategic Measures to Counteract Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_33.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Education](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_20.md)

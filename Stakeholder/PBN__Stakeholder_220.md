@@ -74,6 +74,17 @@
 * [Workforce protection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1710.md)
 * [Workplace productivity decrease](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1712.md)
 
+## These stakeholders can be supported by the following general blueprint
+
+* [Implementing Acoustic Design and Soundproofing Measures to Mitigate Noise Pollution Risks](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_9.md)
+* [Implementing Disease Containment Approaches](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_15.md)
+* [Implementing Disease Containment Strategies and Technological Solutions](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_16.md)
+* [Implementing Enhanced Sanitation and Hygiene Practices](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_27.md)
+* [Implementing Filtration and Protective Measures to Minimize Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_38.md)
+* [Implementing Surface Disinfection Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_39.md)
+* [Implementing UV Based Technologies and Ventilation Improvements to Control Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_43.md)
+* [Implementing Ventilation and Filtration Strategies to Mitigate Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_44.md)
+
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Enhanced safety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_473.md)

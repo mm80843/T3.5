@@ -26,3 +26,9 @@ Social distancing measures can help prevent outbreaks of COVID-19 in workplaces 
 
 * [Businesses and organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_262.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing Disease Control Strategies: Mitigating Contagion Risks through Hygiene Measures and Rapid Isolation](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_2.md)
+* [Implementing Effective Measures to Combat Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_33.md)
+* [Implementing Strategic Measures to Counteract Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_41.md)
+

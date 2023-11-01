@@ -2,7 +2,7 @@
 
 # __Risks to personal information, confidentiality, ethical issues, surveillance, and the need for data protection.__
 
-## Category contains the blueprint
+## Category links to the following 'general blueprint'
 
 * [Implementing Contagious Disease Control and Privacy Protection](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_30.md)
 

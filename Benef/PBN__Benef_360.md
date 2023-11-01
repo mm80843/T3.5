@@ -27,3 +27,7 @@ Environmental surveillance of SARS-CoV-2 in wastewater can provide valuable data
 * [Public health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_0.md)
 * [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing Drainage System Improvements and PCR Protocol Standardization to Mitigate Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_18.md)
+

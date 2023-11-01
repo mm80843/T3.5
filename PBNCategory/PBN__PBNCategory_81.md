@@ -2,7 +2,7 @@
 
 # __Urban areas suffer from a scarcity of accessible and diverse green spaces, contributing to disparities, inadequate quality, and decreased visitation, while also exacerbating health issues and environmental concerns.__
 
-## Category contains the blueprint
+## Category links to the following 'general blueprint'
 
 * [Implementing Disease Mitigation Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_19.md)
 

@@ -30,3 +30,7 @@ Ensures timely testing and identification of infected healthcare workers, preven
 * [Healthcare settings](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_68.md)
 * [Healthcare workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_441.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing Contagion Prevention Practices and Infrastructure](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_12.md)
+

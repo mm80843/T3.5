@@ -34,3 +34,7 @@ Modulating urban environments can reduce contact between ticks and humans, decre
 * [Public health](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
 * [Urban and periurban areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_279.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing Disease Mitigation Strategies: Addressing Wildlife Trade, Vector Control, and Environmental Hygiene](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_21.md)
+

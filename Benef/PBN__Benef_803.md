@@ -26,3 +26,7 @@ Well-designed living spaces that are adaptable and flexible can improve safety, 
 
 * [All occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_328.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing Disease Containment Approaches](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_27.md)
+

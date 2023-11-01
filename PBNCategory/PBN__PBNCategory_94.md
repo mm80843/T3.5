@@ -2,7 +2,7 @@
 
 # __Proper management of water safety, waste, and consumption is crucial to prevent environmental hazards.__
 
-## Category contains the blueprint
+## Category links to the following 'general blueprint'
 
 * [Implementing Innovative Waste Management Strategies to Curtail Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_48.md)
 

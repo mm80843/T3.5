@@ -27,3 +27,7 @@ Increased opportunities for nature connection, improved mental and physical heal
 * [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_29.md)
 * [Local residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_481.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing Disease Containment Approaches](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_27.md)
+

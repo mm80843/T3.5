@@ -2,6 +2,10 @@
 
 # __Hospitality industry__
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Implementing Early-Warning Systems and Safety Protocols Against COVID-19 Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_5.md)
+
 ## Category to which it belongs
 
 * [People exploring different locations, staying in accommodations, and contributing to the hospitality and tourism sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_273.md)

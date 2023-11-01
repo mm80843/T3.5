@@ -23,3 +23,7 @@
 
 * [High installation and maintenance costs of green roofs](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1673.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Disease Mitigation Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_19.md)
+

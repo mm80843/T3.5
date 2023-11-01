@@ -36,3 +36,7 @@ Presence of indoor plants was associated with a lower increase in anger, fear, i
 * [Individuals spending time indoors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_306.md)
 * [Individuals with access to private green spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_305.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing Disease Containment Approaches](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_27.md)
+

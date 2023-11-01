@@ -24,3 +24,7 @@
 * [Viral enrichment protocol](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5211.md)
 * [Wastewater-based surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5212.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Data-Driven Measures to Control Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_31.md)
+

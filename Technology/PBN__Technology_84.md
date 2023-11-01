@@ -33,3 +33,7 @@
 
 * [Occupants’ behavior and activity patterns influencing the energy consumption in the Kuwaiti residences](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_260.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Collaborative Measures to Combat Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_4.md)
+

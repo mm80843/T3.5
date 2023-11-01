@@ -26,3 +26,7 @@
 * [Telemedicine and remote consultation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1156.md)
 * [Telemedicine apps](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4201.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Data-Driven Measures to Control Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_31.md)
+

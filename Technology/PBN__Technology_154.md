@@ -34,3 +34,7 @@
 * [Leveraging Digital Transformation Technologies to Tackle COVID-19: Proposing a Privacy-First Holistic Framework](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_297.md)
 * [The hierarchy of preventive measures to protect workers against the COVID-19 pandemic: A review](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_73.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Innovative Waste Management Strategies to Curtail Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_48.md)
+

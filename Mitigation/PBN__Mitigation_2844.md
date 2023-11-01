@@ -23,3 +23,7 @@
 
 * [Increased wildlife exploitation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2153.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Disease Mitigation Strategies: Addressing Wildlife Trade, Vector Control, and Environmental Hygiene](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_21.md)
+

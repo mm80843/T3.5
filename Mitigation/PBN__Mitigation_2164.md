@@ -23,3 +23,7 @@
 
 * [Lack of standardized method for sars-cov-2 detection in environmental samples](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1613.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Wastewater Monitoring and Enhanced Sanitation Measures to Mitigate SARS-CoV-2 Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_1.md)
+

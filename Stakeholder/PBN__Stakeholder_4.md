@@ -36,6 +36,10 @@
 * [Food insecurity and poor-quality diets](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_777.md)
 * [Zoonotic infections](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1016.md)
 
+## These stakeholders can be supported by the following general blueprint
+
+* [Implementing Infectious Disease Control Measures within Sustainable Urban Developments](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_22.md)
+
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Achieve sustainable development goals sdgs](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_878.md)

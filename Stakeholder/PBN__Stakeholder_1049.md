@@ -23,6 +23,10 @@
 
 * [Low sensitivity of current assays for sars-cov-2 detection in sewage](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1614.md)
 
+## These stakeholders can be supported by the following general blueprint
+
+* [Implementing Wastewater Monitoring and Enhanced Sanitation Measures to Mitigate SARS-CoV-2 Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_1.md)
+
 ## Type of the stakeholder
 
 * [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)

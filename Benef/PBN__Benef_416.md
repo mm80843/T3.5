@@ -34,3 +34,7 @@ Green roofs and facades help regulate temperature through shade and evapotranspi
 * [Urban residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_115.md)
 * [Vulnerable groups](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_198.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing Infectious Disease Prevention](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_26.md)
+

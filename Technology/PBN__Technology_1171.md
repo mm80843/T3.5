@@ -48,3 +48,7 @@
 
 * [The socio-economic implications of the coronavirus pandemic (COVID-19): A review](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_135.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Disease Containment Strategies and Technological Solutions](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_38.md)
+

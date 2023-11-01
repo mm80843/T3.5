@@ -2,7 +2,7 @@
 
 # __The pandemic has led to a decrease in in-person surgical education, loss of control, temporary panic from cruise ship docking, limited social distancing, and decreased morale.__
 
-## Category contains the blueprint
+## Category links to the following 'general blueprint'
 
 * [Implementing Strategic Measures to Counteract Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_33.md)
 

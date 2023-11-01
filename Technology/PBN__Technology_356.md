@@ -68,3 +68,7 @@
 * [Pandemics and Automation: Will the Lost Jobs Come Back?](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_192.md)
 * [Wearable technology for early detection of COVID-19: A systematic scoping review](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_60.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Disease Containment Strategies and Technological Solutions](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_38.md)
+

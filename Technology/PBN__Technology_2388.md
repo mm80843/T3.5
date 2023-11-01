@@ -24,3 +24,7 @@
 * [Availability of outdoor spaces in the building](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4962.md)
 * [Increased outdoor spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3242.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Mental Health Mitigation Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_3.md)
+

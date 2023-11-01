@@ -27,6 +27,10 @@
 
 * [Data sharing technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3211.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Real-time Epidemiological Data Collection and Analysis to Mitigate Virus Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_28.md)
+
 ## Property: has_MitigationPrinciple
 
 Sharing data on the spread of the virus helps authorities take timely measures to protect communities

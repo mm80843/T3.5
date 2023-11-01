@@ -32,6 +32,10 @@
 * [Molecular technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3738.md)
 * [Supercomputing facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3739.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Vaccination Strategies and Awareness Campaigns](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_11.md)
+
 ## Property: has_MitigationPrinciple
 
 Expediting the development and production of vaccines to prevent the spread of the disease

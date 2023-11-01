@@ -32,3 +32,7 @@
 
 * [Overcrowding](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_571.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Occupancy Controls and Physical Distancing](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_13.md)
+

@@ -28,3 +28,14 @@ Implementing social distancing measures in commercial properties can increase th
 
 * [Property owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_177.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing Acoustic Design and Soundproofing Measures to Mitigate Noise Pollution Risks](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_2.md)
+* [Implementing Contagious Disease Control](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_7.md)
+* [Implementing Contagious Disease Control: Stakeholders, Strategies, and Technologies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_9.md)
+* [Implementing Digital Tracing and Proactive Infection Control Measures](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_10.md)
+* [Implementing Effective Measures to Combat Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_16.md)
+* [Implementing Filtration and Protective Measures to Minimize Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_32.md)
+* [Implementing Indoor Air Quality Monitoring and Maintenance Protocols for Contagion Control](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_35.md)
+* [Implementing Social Distancing and Surveillance](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_40.md)
+

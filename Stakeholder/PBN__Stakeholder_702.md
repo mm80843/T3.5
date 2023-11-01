@@ -36,6 +36,10 @@
 * [Sharing systems in apartments](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1662.md)
 * [Technical expertise](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1660.md)
 
+## These stakeholders can be supported by the following general blueprint
+
+* [Implementing UVGI Systems to Combat Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_46.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_128.md)

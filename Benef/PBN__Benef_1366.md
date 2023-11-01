@@ -26,3 +26,8 @@ Maintaining physical distance between individuals to minimize close contact
 
 * [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing Contagious Disease Control through Social Distancing and Digital Engagement](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_2.md)
+* [Implementing Effective Measures to Combat Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_6.md)
+

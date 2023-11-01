@@ -50,6 +50,13 @@
 * [Transport-related greenhouse gas emissions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_232.md)
 * [Uneven distribution of green infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_482.md)
 
+## These stakeholders can be supported by the following general blueprint
+
+* [Implementing Contagious Disease Control through Social Distancing and Digital Engagement](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_6.md)
+* [Implementing Digital Tracing and Proactive Infection Control Measures](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_7.md)
+* [Implementing Disease Containment Strategies: Managing Contagious Risks with Social Distancing and Enhanced Sanitation Measures](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_8.md)
+* [Implementing Social Distancing and Surveillance](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_32.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Vulnerable population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_547.md)

@@ -2,7 +2,7 @@
 
 # __The assortment of hazards, dangers, exposures, vulnerabilities, and uncertainties that stem from different domains of life.__
 
-## Category contains the blueprint
+## Category links to the following 'general blueprint'
 
 * [Implementing Early-Warning Systems and Safety Protocols Against COVID-19 Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_5.md)
 

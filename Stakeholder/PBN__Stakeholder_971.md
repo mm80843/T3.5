@@ -27,6 +27,10 @@
 * [Monitoring of confirmed cases and close contacts](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2117.md)
 * [Spread of sars-cov-2](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1502.md)
 
+## These stakeholders can be supported by the following general blueprint
+
+* [Implementing Regular Cleaning, WBE and Quarantine Measures for Infectious Diseases Mitigation](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_0.md)
+
 ## Type of the stakeholder
 
 * [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)

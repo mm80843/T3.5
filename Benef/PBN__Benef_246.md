@@ -41,3 +41,7 @@ Energy-efficient appliances decrease energy consumption and lower utility costs
 * [Residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_116.md)
 * [Society](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_478.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing Infectious Disease Prevention](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_26.md)
+

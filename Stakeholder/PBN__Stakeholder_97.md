@@ -2,6 +2,11 @@
 
 # __Building occupants__
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Implementing Indoor Air Quality Monitoring and Maintenance Protocols for Contagion Control](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_15.md)
+* [Implementing Ventilation and Filtration Strategies to Mitigate Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_40.md)
+
 ## Category to which it belongs
 
 * [Individuals within the built environment, including building designers, architects, construction workers, and building occupants and managers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_258.md)
@@ -246,6 +251,25 @@
 * [Workers in the built environment](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2026.md)
 * [Workers in workplaces with air recirculation systems](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2074.md)
 * [Workers in workplaces with inadequate air filtration](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2043.md)
+
+## These stakeholders can be supported by the following general blueprint
+
+* [Implementing Advanced Tech and Anti-Microbial Materials to Mitigate Contagious Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_3.md)
+* [Implementing Biohazard Mitigation Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_8.md)
+* [Implementing Contagious Disease Control](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_9.md)
+* [Implementing Disease Containment Approaches](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_14.md)
+* [Implementing Disease Containment Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_15.md)
+* [Implementing Disease Containment Strategies: Managing Contagious Risks with Social Distancing and Enhanced Sanitation Measures](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_26.md)
+* [Implementing Enhanced Sanitation and Hygiene Practices](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_27.md)
+* [Implementing Filtration and Protective Measures to Minimize Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_35.md)
+* [Implementing Indoor Air Quality Monitoring and Maintenance Protocols for Contagion Control](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_39.md)
+* [Implementing Infectious Disease Prevention](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_40.md)
+* [Implementing Innovative Waste Management Strategies to Curtail Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_43.md)
+* [Implementing Mental Health Mitigation Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_44.md)
+* [Implementing Surface Disinfection Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_45.md)
+* [Implementing UV Based Technologies and Ventilation Improvements to Control Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_46.md)
+* [Implementing UVGI Systems to Combat Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_47.md)
+* [Implementing Ventilation and Filtration Strategies to Mitigate Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_48.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

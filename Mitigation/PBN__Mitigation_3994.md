@@ -29,6 +29,10 @@
 * [Physical barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2971.md)
 * [Restrictive measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_367.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Disease Control Strategies: Mitigating Contagion Risks through Hygiene Measures and Rapid Isolation](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_41.md)
+
 ## Property: has_MitigationPrinciple
 
 Imposing area-specific restrictions and limiting movement to contain the spread

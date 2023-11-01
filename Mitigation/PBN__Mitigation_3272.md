@@ -31,6 +31,10 @@
 * [Webinars](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2437.md)
 * [Workshops](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2310.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Contagion Prevention Practices and Infrastructure](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_12.md)
+
 ## Property: has_MitigationPrinciple
 
 Provide education and training programs for building professionals to increase awareness and knowledge about healthy buildings.

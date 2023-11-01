@@ -2,6 +2,10 @@
 
 # __Businesses__
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Implementing Disease Surveillance and Resilience Measures](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_49.md)
+
 ## Category to which it belongs
 
 * [Various establishments, including small businesses, private businesses, local businesses, retail businesses, and online businesses coexist with governments and are represented by business owners and associations.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_275.md)
@@ -77,6 +81,11 @@
 * [Lack of redundancy in supply chains](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_455.md)
 * [Overcrowding](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1819.md)
 * [Reduced consumer spending](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2130.md)
+
+## These stakeholders can be supported by the following general blueprint
+
+* [Implementing Disease Surveillance and Resilience Measures](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_20.md)
+* [Implementing Proactive Measures to Control Disease Spread and Economic Disruptions](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_49.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

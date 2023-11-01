@@ -48,3 +48,7 @@
 * [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_22.md)
 * [Physical interventions to interrupt or reduce the spread of respiratory viruses: systematic review](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_264.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Drainage System Improvements and PCR Protocol Standardization to Mitigate Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_18.md)
+

@@ -76,3 +76,7 @@ Improved respiratory health and reduced risk of COVID-19 transmission due to cle
 * [Visitors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_332.md)
 * [Vulnerable groups](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_491.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing Drainage System Improvements and PCR Protocol Standardization to Mitigate Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_18.md)
+

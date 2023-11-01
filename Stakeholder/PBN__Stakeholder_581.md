@@ -25,6 +25,10 @@
 * [Lack of occupant interest in energy conservation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_908.md)
 * [Unconscious occupant behavior](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1061.md)
 
+## These stakeholders can be supported by the following general blueprint
+
+* [Implementing Disease Containment Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_14.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)

@@ -28,3 +28,7 @@
 * [Energy consumption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_345.md)
 * [Inefficient energy usage and high energy consumption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_745.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Infectious Disease Prevention](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_26.md)
+

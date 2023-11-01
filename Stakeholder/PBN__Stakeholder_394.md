@@ -2,6 +2,11 @@
 
 # __Health authorities__
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Implementing Innovative Techniques to Thwart Contagious Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_0.md)
+* [Implementing Regular Cleaning, WBE and Quarantine Measures for Infectious Diseases Mitigation](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_37.md)
+
 ## Category to which it belongs
 
 * [A diverse collection of organizations and individuals with specific areas of expertise and jurisdiction.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_239.md)

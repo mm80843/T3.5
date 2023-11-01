@@ -23,3 +23,7 @@
 
 * [Lack of healthcare information in property management](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2022.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Collaborative Measures to Combat Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_4.md)
+

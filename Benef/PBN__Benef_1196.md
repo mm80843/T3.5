@@ -27,3 +27,7 @@ Enable rights claims in the context of social or environmental injustice and pub
 * [Citizens](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_54.md)
 * [Civil society organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_232.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing Real-time Epidemiological Data Collection and Analysis to Mitigate Virus Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_28.md)
+

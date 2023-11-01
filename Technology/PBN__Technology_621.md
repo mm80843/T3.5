@@ -49,3 +49,7 @@
 * [The Socio-Spatial Determinants of COVID-19 Diffusion: The Impact of Globalisation, Settlement Characteristics and Population](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_93.md)
 * [Treating two pandemics for the price of one: Chronic and infectious disease impacts of the built and natural environment](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_174.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Infectious Disease Control Measures within Sustainable Urban Developments](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_22.md)
+

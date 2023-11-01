@@ -2,7 +2,7 @@
 
 # __The challenges of urbanization and population density manifest in overcrowding, limited transport infrastructure, and disrupted mobility patterns.__
 
-## Category contains the blueprint
+## Category links to the following 'general blueprint'
 
 * [Implementing Occupancy Controls and Physical Distancing](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_13.md)
 

@@ -2,6 +2,10 @@
 
 # __Regulatory authorities__
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Implementing Drainage System Improvements and PCR Protocol Standardization to Mitigate Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_18.md)
+
 ## Category to which it belongs
 
 * [A diverse collection of organizations and individuals with specific areas of expertise and jurisdiction.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_239.md)

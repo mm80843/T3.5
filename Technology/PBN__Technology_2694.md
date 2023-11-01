@@ -25,3 +25,7 @@
 * [Real-world evidence research](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3595.md)
 * [Timely and high-quality evidence](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3596.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Real-time Epidemiological Data Collection and Analysis to Mitigate Virus Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_28.md)
+

@@ -41,3 +41,7 @@
 
 * [Persistence of coronaviruses on inanimate surfaces and their inactivation with biocidal agents](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_233.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Surface Disinfection Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_39.md)
+

@@ -2,7 +2,7 @@
 
 # __Fragmented global governance, disconnect from nature, limited stakeholder collaboration, rise of authoritarianism, and exclusion from support characterize the challenges at hand.__
 
-## Category contains the blueprint
+## Category links to the following 'general blueprint'
 
 * [Implementing Disease Control Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_24.md)
 

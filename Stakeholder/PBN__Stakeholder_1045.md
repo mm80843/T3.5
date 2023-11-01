@@ -23,6 +23,10 @@
 
 * [Spread of sars-cov-2 in wastewater](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1611.md)
 
+## These stakeholders can be supported by the following general blueprint
+
+* [Implementing Wastewater Monitoring and Enhanced Sanitation Measures to Mitigate SARS-CoV-2 Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_1.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Environmental entities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2582.md)

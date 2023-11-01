@@ -32,6 +32,10 @@
 
 * [Social media users](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_82.md)
 
+## These stakeholders can be supported by the following general blueprint
+
+* [Implementing Contagious Disease Prevention](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_34.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Community stakeholders](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2396.md)

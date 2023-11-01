@@ -2,6 +2,10 @@
 
 # __Hospital administration__
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Implementing Infrastructure Modifications and Community Engagement Strategies to Counter Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_23.md)
+
 ## Category to which it belongs
 
 * [Variety of personnel involved in different roles, such as contractors, staff, administrators, technicians, and professionals in specific fields.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_260.md)

@@ -2,6 +2,10 @@
 
 # __Saudi government__
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Implementing Infrastructure Modifications and Community Engagement Strategies to Counter Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_23.md)
+
 ## Category to which it belongs
 
 * [Public and governmental entities at various levels, including policy makers, governments, and citizens.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_242.md)

@@ -36,6 +36,10 @@
 ## This Mitigation is enabled by the following technologies
 
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Contagious Disease Prevention](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_34.md)
+
 ## Property: has_MitigationPrinciple
 
 KT platforms can serve as a credible hub that provides trustworthy evidence to inform policy-makers, stakeholders, and citizens during a crisis.

@@ -27,6 +27,10 @@
 
 * [Antimicrobial materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2830.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Surface Disinfection Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_39.md)
+
 ## Property: has_MitigationPrinciple
 
 Select materials that have antimicrobial properties and are easily cleanable to minimize the risk of surface contamination and transmission of contagious diseases

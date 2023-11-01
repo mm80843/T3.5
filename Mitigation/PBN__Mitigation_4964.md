@@ -31,6 +31,10 @@
 
 * [Waste management measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3626.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Innovative Waste Management Strategies to Curtail Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_48.md)
+
 ## Property: has_MitigationPrinciple
 
 Implement waste management measures to handle increased waste during a pandemic

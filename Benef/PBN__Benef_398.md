@@ -31,3 +31,7 @@ UV radiation can effectively eliminate germs and microorganisms on surfaces, red
 * [Occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_187.md)
 * [Public transportation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_188.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing UVGI Systems to Combat Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_46.md)
+

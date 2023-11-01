@@ -32,3 +32,7 @@ Increased tree canopy has a protective effect, reducing the mortality risk of CO
 
 * [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing Collaborative Measures to Combat Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_4.md)
+

@@ -38,6 +38,10 @@
 * [Vents](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2383.md)
 * [Windows](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3429.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Filtration and Protective Measures to Minimize Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_9.md)
+
 ## Property: has_MitigationPrinciple
 
 Adequate natural ventilation helps dilute and remove viral particles from indoor spaces, reducing transmission risk.

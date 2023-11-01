@@ -28,6 +28,10 @@
 * [Cctv cameras](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2799.md)
 * [Data analytics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1067.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Contagious Disease Control and Privacy Protection](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_30.md)
+
 ## Property: has_MitigationPrinciple
 
 Utilizing surveillance data and data analytics to identify and take action against individuals engaged in anti-social activities such as hoarding during a crisis.

@@ -2,7 +2,7 @@
 
 # __Challenges in connectivity, resources, funding, expertise, data, and infrastructure result in limited access and inequalities in various areas.__
 
-## Category contains the blueprint
+## Category links to the following 'general blueprint'
 
 * [Implementing Data-Driven Measures to Control Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_31.md)
 

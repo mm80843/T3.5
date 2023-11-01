@@ -48,3 +48,7 @@ Access to green spaces has been shown to enhance wellbeing and improve mental he
 * [Urban dwellers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_26.md)
 * [Urban residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_472.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing Disease Mitigation Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_19.md)
+

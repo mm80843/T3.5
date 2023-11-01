@@ -23,3 +23,7 @@
 
 * [Improper disposal of infectious hospital wastes and wastewater](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2287.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Biohazard Mitigation Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_45.md)
+

@@ -28,6 +28,10 @@
 * [Cleaning supplies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_148.md)
 * [Disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_411.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Surface Disinfection Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_39.md)
+
 ## Property: has_MitigationPrinciple
 
 Eliminate pathogens on frequently touched items and surfaces

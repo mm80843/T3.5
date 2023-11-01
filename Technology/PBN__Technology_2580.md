@@ -38,3 +38,7 @@
 * [Run hvac system longer hours](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4263.md)
 * [Temperature control](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4652.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Infectious Disease Prevention](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_26.md)
+

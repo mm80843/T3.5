@@ -2,6 +2,10 @@
 
 # __Suppliers__
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Implementing Disease Containment Scenarios and Supply Chain Adaptations](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_17.md)
+
 ## Category to which it belongs
 
 * [Various individuals and entities involved in the supply chain, from suppliers to consumers and everyone in between.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_261.md)
@@ -39,6 +43,10 @@
 * [Shortage of construction materials](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1756.md)
 * [Supply chain complexity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1490.md)
 * [Supply chain disruptions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1755.md)
+
+## These stakeholders can be supported by the following general blueprint
+
+* [Implementing Disease Containment Scenarios and Supply Chain Adaptations](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_17.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

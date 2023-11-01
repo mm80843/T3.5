@@ -2,7 +2,7 @@
 
 # __The challenges of urban inequality, parameter identification, noise pollution, waste, and delayed decision making have resulted in increased inequalities and exclusion, posing numerous issues for governance and scalability.__
 
-## Category contains the blueprint
+## Category links to the following 'general blueprint'
 
 * [Implementing Acoustic Design and Soundproofing Measures to Mitigate Noise Pollution Risks](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_16.md)
 

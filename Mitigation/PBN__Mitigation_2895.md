@@ -23,3 +23,7 @@
 
 * [Waste management](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_613.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Innovative Waste Management Strategies to Curtail Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_48.md)
+

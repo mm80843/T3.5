@@ -24,3 +24,7 @@
 * [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3575.md)
 * [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_415.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Innovative Techniques to Thwart Contagious Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_37.md)
+

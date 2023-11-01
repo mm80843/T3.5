@@ -23,3 +23,9 @@
 
 * [Wastewater-based epidemiology wbe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_988.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Contagious Disease Control and Privacy Protection](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_29.md)
+* [Implementing Contagious Disease Prevention](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_30.md)
+* [Implementing Pooled-Sample Analysis and Contact Tracing Systems](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_34.md)
+

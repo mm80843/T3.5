@@ -2,7 +2,7 @@
 
 # __The wide-ranging impacts of the covid-19 pandemic, from its spread in urban areas to its economic, social, and psychological consequences, call for urgent and effective crisis management.__
 
-## Category contains the blueprint
+## Category links to the following 'general blueprint'
 
 * [Implementing Social Distancing and Surveillance](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_32.md)
 

@@ -26,6 +26,10 @@
 ## This Mitigation is enabled by the following technologies
 
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Disease Containment Strategies: Managing Contagious Risks with Social Distancing and Enhanced Sanitation Measures](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_8.md)
+
 ## Property: has_MitigationPrinciple
 
 Assume everyone has a communicable disease and take necessary precautions to minimize the risk of transmission

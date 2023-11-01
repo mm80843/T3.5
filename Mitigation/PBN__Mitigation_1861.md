@@ -23,3 +23,7 @@
 
 * [Under-notification of cases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1360.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Disease Surveillance and Resilience Measures](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_49.md)
+

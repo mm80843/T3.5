@@ -23,3 +23,7 @@
 
 * [Lack of historical data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1097.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Real-time Epidemiological Data Collection and Analysis to Mitigate Virus Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_28.md)
+

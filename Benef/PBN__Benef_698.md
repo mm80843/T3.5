@@ -26,3 +26,7 @@ Building redundancies in supply chains reduces the risk of shortages during cris
 
 * [Businesses](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_147.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing Disease Containment Scenarios and Supply Chain Adaptations](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_17.md)
+

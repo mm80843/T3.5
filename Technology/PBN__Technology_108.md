@@ -53,3 +53,7 @@
 * [Pandemic stricken cities on lockdown. Where are our planning and design professionals [now, then and into the future]?](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_197.md)
 * [The impact of COVID-19 and strategies for mitigation and suppression in low- and middle-income countries](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_91.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Infectious Disease Control Measures within Sustainable Urban Developments](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_22.md)
+

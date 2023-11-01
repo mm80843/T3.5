@@ -23,3 +23,7 @@
 
 * [Park quality improvement](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4035.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Disease Mitigation Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_19.md)
+

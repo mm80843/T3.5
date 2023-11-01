@@ -35,3 +35,7 @@ Better mental well-being and reduced risk of mental health disorders
 * [Individuals with mental health issues](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_267.md)
 * [Particularly those with low income or low education](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_341.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing Mental Health Mitigation Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_3.md)
+

@@ -61,6 +61,10 @@
 * [Smartphones](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3372.md)
 * [Surveillance technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3495.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Contagious Disease Control and Privacy Protection](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_30.md)
+
 ## Property: has_MitigationPrinciple
 
 Contact tracing identifies individuals who have been in close contact with infected individuals, enabling early identification and interruption of transmission chains.

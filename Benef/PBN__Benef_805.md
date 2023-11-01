@@ -26,3 +26,7 @@ Implementing innovative waste management strategies, such as digital monitoring 
 
 * [All occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_328.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing Innovative Waste Management Strategies to Curtail Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_48.md)
+

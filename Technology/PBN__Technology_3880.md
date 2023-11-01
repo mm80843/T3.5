@@ -23,3 +23,7 @@
 
 * [Enhanced cleaning practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5267.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Enhanced Sanitation and Hygiene Practices](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_44.md)
+

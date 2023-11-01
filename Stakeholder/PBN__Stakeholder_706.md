@@ -2,6 +2,10 @@
 
 # __Regulatory bodies__
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Implementing Contagious Disease Control and Privacy Protection](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_30.md)
+
 ## Category to which it belongs
 
 * [The financial ecosystem involves a diverse range of entities such as investors, regulatory bodies, stakeholders, banks, and professional associations.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_280.md)

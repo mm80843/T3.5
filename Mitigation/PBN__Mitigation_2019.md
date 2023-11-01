@@ -28,3 +28,7 @@
 
 * [Crowded spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1487.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Disease Containment Approaches](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_27.md)
+

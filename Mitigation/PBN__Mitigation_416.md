@@ -56,6 +56,10 @@
 * [Physical barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2818.md)
 * [Signage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_358.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Social Distancing and Surveillance](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_32.md)
+
 ## Property: has_MitigationPrinciple
 
 Implementing physical distance between individuals to reduce the transmission of contagious diseases.

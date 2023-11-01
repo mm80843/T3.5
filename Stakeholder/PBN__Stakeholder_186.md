@@ -2,6 +2,10 @@
 
 # __Organizations__
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Implementing Filtration and Protective Measures to Minimize Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_9.md)
+
 ## Category to which it belongs
 
 * [A collection of diverse entities devoted to various causes, including mental and physical health, business, research, conservation, and social welfare.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_250.md)
@@ -37,6 +41,10 @@
 * [Person-to-person transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2346.md)
 * [Reduction of socialization](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2350.md)
 * [Remote operation and telecommuting](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_253.md)
+
+## These stakeholders can be supported by the following general blueprint
+
+* [Implementing Proactive Measures to Control Disease Spread and Economic Disruptions](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_20.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

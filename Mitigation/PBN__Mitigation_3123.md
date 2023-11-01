@@ -43,6 +43,10 @@
 * [Isolation facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
 * [Quarantine facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2935.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Contagious Disease Control: Stakeholders, Strategies, and Technologies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_10.md)
+
 ## Property: has_MitigationPrinciple
 
 Isolate and restrict the movement of individuals who have been in contact with infected individuals or are infected

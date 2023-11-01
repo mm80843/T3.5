@@ -88,3 +88,8 @@
 * [The Socio-Spatial Determinants of COVID-19 Diffusion: The Impact of Globalisation, Settlement Characteristics and Population](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_195.md)
 * [Wearable technology and COVID-19](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_27.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Acoustic Design and Soundproofing Measures to Mitigate Noise Pollution Risks](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_16.md)
+* [Implementing Cybersecurity and Transparency Strategies to Mitigate Contagious Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_36.md)
+

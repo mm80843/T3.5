@@ -2,6 +2,11 @@
 
 # __Scientists__
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Implementing Innovative Techniques to Thwart Contagious Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_0.md)
+* [Implementing Regular Cleaning, WBE and Quarantine Measures for Infectious Diseases Mitigation](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_37.md)
+
 ## Category to which it belongs
 
 * [A diverse range of individuals and groups involved in various fields, research, projects, media, teams, and organizations.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_241.md)
@@ -67,6 +72,11 @@
 * [Unclear origin of sars-cov-2](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1143.md)
 * [Uv dosage levels required under different conditions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1126.md)
 * [Uv susceptibility of viral aerosols](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1127.md)
+
+## These stakeholders can be supported by the following general blueprint
+
+* [Implementing Cybersecurity and Transparency Strategies to Mitigate Contagious Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_28.md)
+* [Implementing Real-time Epidemiological Data Collection and Analysis to Mitigate Virus Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_36.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

@@ -68,3 +68,10 @@ Decreases the risk of contracting and spreading the virus
 * [Teachers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_162.md)
 * [Workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_497.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing Disease Containment Strategies: Managing Contagious Risks with Social Distancing and Enhanced Sanitation Measures](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_8.md)
+* [Implementing Disease Control Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_13.md)
+* [Implementing Occupancy Controls and Physical Distancing](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_24.md)
+* [Implementing Social Distancing and Surveillance](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_32.md)
+

@@ -2,7 +2,7 @@
 
 # __The spread of infectious diseases and lack of understanding of transmission mechanisms contribute to the propagation of contagions, posing a global threat.__
 
-## Category contains the blueprint
+## Category links to the following 'general blueprint'
 
 * [Implementing Digital Tracing and Proactive Infection Control Measures](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_7.md)
 

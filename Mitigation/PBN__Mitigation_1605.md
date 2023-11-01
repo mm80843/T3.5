@@ -23,3 +23,7 @@
 
 * [Limited accuracy and specificity of biomarker measurements](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1149.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Innovative Techniques to Thwart Contagious Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_37.md)
+

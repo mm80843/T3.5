@@ -29,3 +29,7 @@ Innovating and utilizing multiple channels such as social media, interviews, and
 * [Policy-makers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_234.md)
 * [Public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_52.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing Contagion Prevention Practices and Infrastructure](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_12.md)
+

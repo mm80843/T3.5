@@ -2,6 +2,13 @@
 
 # __Architects__
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Implementing Disease Containment Approaches](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_14.md)
+* [Implementing Disease Containment Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_27.md)
+* [Implementing Indoor Air Quality Monitoring and Maintenance Protocols for Contagion Control](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_40.md)
+* [Implementing UV Based Technologies and Ventilation Improvements to Control Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_43.md)
+
 ## Category to which it belongs
 
 * [Individuals within the built environment, including building designers, architects, construction workers, and building occupants and managers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_258.md)

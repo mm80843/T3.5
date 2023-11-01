@@ -23,3 +23,7 @@
 
 * [Spread of sars-cov-2](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_642.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Regular Cleaning, WBE and Quarantine Measures for Infectious Diseases Mitigation](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_0.md)
+

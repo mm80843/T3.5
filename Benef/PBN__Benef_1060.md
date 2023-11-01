@@ -28,3 +28,7 @@ Systemic change addresses inherent vulnerabilities and promotes sustainable prac
 * [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_85.md)
 * [Local communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_428.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing Cybersecurity and Transparency Strategies to Mitigate Contagious Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_36.md)
+

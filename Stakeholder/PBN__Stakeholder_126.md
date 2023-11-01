@@ -2,6 +2,11 @@
 
 # __Policymakers__
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Implementing Infectious Disease Prevention](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_13.md)
+* [Implementing Occupancy Controls and Physical Distancing](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_26.md)
+
 ## Category to which it belongs
 
 * [Public and governmental entities at various levels, including policy makers, governments, and citizens.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_242.md)
@@ -114,6 +119,12 @@
 * [Urban density and crowding](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2245.md)
 * [Urban inequality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2162.md)
 * [Urban mobility and commute patterns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2238.md)
+
+## These stakeholders can be supported by the following general blueprint
+
+* [Implementing Cybersecurity and Transparency Strategies to Mitigate Contagious Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_28.md)
+* [Implementing Innovative Techniques to Thwart Contagious Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_36.md)
+* [Implementing Real-time Epidemiological Data Collection and Analysis to Mitigate Virus Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_37.md)
 
 ## This Stakeholder can get these Benefits from mitigation measures
 

@@ -26,3 +26,7 @@ Green spaces provide habitat, shelter, and food for urban wildlife, contributing
 
 * [Non-domestic animal species](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_312.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing Disease Mitigation Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_19.md)
+

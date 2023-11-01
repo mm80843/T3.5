@@ -27,6 +27,10 @@
 
 * [Hvac maintenance and cleaning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3432.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Indoor Air Quality Monitoring and Maintenance Protocols for Contagion Control](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_40.md)
+
 ## Property: has_MitigationPrinciple
 
 Regularly maintain and clean HVAC (heating, ventilation, and air conditioning) systems in buildings to ensure optimal performance and prevent the circulation of pollutants in indoor air.

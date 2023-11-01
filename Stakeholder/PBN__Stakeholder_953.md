@@ -2,6 +2,10 @@
 
 # __Organizations and building managers__
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Implementing Contagious Disease Control: Stakeholders, Strategies, and Technologies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_10.md)
+
 ## Category to which it belongs
 
 * [Managers responsible for overseeing various aspects of facilities and operations, including supply chain, construction projects, healthcare, property, and crisis.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_255.md)

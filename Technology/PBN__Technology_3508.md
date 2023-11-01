@@ -23,3 +23,7 @@
 
 * [Wastewater-based epidemiology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_202.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Biohazard Mitigation Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_45.md)
+

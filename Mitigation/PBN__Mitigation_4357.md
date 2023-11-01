@@ -39,6 +39,10 @@
 * [Sensor devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3426.md)
 * [Sensor networks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3249.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Indoor Air Quality Monitoring and Maintenance Protocols for Contagion Control](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_40.md)
+
 ## Property: has_MitigationPrinciple
 
 Monitoring indoor air quality can help identify areas of concern and ensure that ventilation systems are effectively maintaining good indoor air quality

@@ -41,6 +41,10 @@
 * [Environmental surveillance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3509.md)
 * [Pcr techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3510.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Contagious Disease Control: Stakeholders, Strategies, and Technologies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_10.md)
+
 ## Property: has_MitigationPrinciple
 
 Monitoring wastewater for the presence of viral RNA to estimate viral circulation in the population and detect ongoing outbreaks in the community.

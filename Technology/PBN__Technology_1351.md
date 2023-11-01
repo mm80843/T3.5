@@ -39,3 +39,7 @@
 
 * [The Impact of the COVID-19 Pandemic on the Space Pattern Changes in Buildings](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_94.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Wastewater Monitoring and Enhanced Sanitation Measures to Mitigate SARS-CoV-2 Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_1.md)
+

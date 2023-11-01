@@ -27,3 +27,7 @@
 
 * [Health risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_83.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Early-Warning Systems and Safety Protocols Against COVID-19 Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_5.md)
+

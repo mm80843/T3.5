@@ -26,3 +26,7 @@ Improved ventilation systems to maintain fresh air in the building, which can he
 
 * [Residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_59.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing Advanced Tech and Anti-Microbial Materials to Mitigate Contagious Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_47.md)
+

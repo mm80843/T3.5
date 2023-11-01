@@ -23,3 +23,7 @@
 
 * [Strengthening enforcement of labour standards](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5071.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Disease Containment Strategies and Technological Solutions](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_38.md)
+

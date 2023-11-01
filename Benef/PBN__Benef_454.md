@@ -31,3 +31,7 @@ Rapid and efficient exchange of information, organization of service provision, 
 * [Healthcare staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_220.md)
 * [Teams](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_363.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing Strategic Measures to Counteract Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_33.md)
+

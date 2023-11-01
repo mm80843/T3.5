@@ -23,3 +23,7 @@
 
 * [Preparation and maintenance of specific green areas](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5025.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Disease Containment Approaches](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_27.md)
+

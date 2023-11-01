@@ -32,3 +32,7 @@
 
 * [Covid-19 and community mitigation strategies in a pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_112.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Infrastructure Modifications and Community Engagement Strategies to Counter Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_23.md)
+

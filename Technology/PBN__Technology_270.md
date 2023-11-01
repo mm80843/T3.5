@@ -55,3 +55,8 @@
 * [Study of COVID-19 pandemic in London (UK) from urban context](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_240.md)
 * [Ventilation use in nonmedical settings during COVID-19: Cleaning protocol, maintenance, and recommendations](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_104.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Indoor Air Quality Monitoring and Maintenance Protocols for Contagion Control](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_40.md)
+* [Implementing UV Based Technologies and Ventilation Improvements to Control Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_43.md)
+

@@ -41,3 +41,7 @@
 
 * [Biophilic Design to Enhance Residence Comfort in Covid Era](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_179.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Disease Mitigation Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_19.md)
+

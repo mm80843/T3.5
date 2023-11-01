@@ -28,3 +28,7 @@ Environmental surveillance can provide early warning for the reemergence of COVI
 * [Private sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_58.md)
 * [Public health](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_57.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing Collaborative Measures to Combat Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_4.md)
+

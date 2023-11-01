@@ -2,6 +2,10 @@
 
 # __Energy managers__
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Implementing Infectious Disease Prevention](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_26.md)
+
 ## Category to which it belongs
 
 * [Managers responsible for overseeing various aspects of facilities and operations, including supply chain, construction projects, healthcare, property, and crisis.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_255.md)
@@ -27,6 +31,10 @@
 
 * [Energy consumption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_745.md)
 * [Increased energy consumption in buildings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2270.md)
+
+## These stakeholders can be supported by the following general blueprint
+
+* [Implementing Infectious Disease Prevention](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_26.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

@@ -34,3 +34,7 @@ Remote healthcare services, including delivery of care, diagnosis, and treatment
 * [Patients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_31.md)
 * [Population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_81.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing Infectious Disease Control Measures within Sustainable Urban Developments](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_22.md)
+

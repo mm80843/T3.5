@@ -27,6 +27,10 @@
 
 * [Hvac system](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2580.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Infectious Disease Prevention](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_26.md)
+
 ## Property: has_MitigationPrinciple
 
 Increases air changes per hour, removing particulates and minimizing concentration of airborne pathogens.

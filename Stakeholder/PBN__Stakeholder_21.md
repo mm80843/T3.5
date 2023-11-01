@@ -35,6 +35,10 @@
 * [Societal and socio-economic gaps](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2225.md)
 * [Urban inequality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1212.md)
 
+## These stakeholders can be supported by the following general blueprint
+
+* [Implementing Contagious Disease Control through Social Distancing and Digital Engagement](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_6.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Vulnerable population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_547.md)

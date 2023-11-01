@@ -24,6 +24,10 @@
 * [Inadequate vaccine efficacy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1888.md)
 * [Missing vaccination data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1889.md)
 
+## These stakeholders can be supported by the following general blueprint
+
+* [Implementing Vaccination Strategies and Awareness Campaigns](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_11.md)
+
 ## Type of the stakeholder
 
 * [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)

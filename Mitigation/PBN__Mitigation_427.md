@@ -39,6 +39,10 @@
 ## This Mitigation is enabled by the following technologies
 
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Social Distancing and Surveillance](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_32.md)
+
 ## Property: has_MitigationPrinciple
 
 Restrict movement and interaction within a defined geographic area to limit the spread of the virus

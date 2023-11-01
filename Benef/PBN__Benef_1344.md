@@ -27,3 +27,7 @@ Immigrants are more likely to be retained in their jobs and avoid unemployment
 * [Employers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_180.md)
 * [Immigrants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_487.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing Disease Containment Strategies and Technological Solutions](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_38.md)
+

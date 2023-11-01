@@ -25,3 +25,7 @@
 * [Teleworking and remote learning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_706.md)
 * [Working from home](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3987.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Infrastructure Modifications and Community Engagement Strategies to Counter Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_23.md)
+

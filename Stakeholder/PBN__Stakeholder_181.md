@@ -2,6 +2,12 @@
 
 # __Construction companies__
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Implementing Disease Containment Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_14.md)
+* [Implementing Disease Containment Strategies and Technological Solutions](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_20.md)
+* [Implementing Proactive Measures to Control Disease Spread and Economic Disruptions](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_38.md)
+
 ## Category to which it belongs
 
 * [A comprehensive array of various organizations and governing bodies related to diverse industries and sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_279.md)
@@ -87,6 +93,11 @@
 * [Transportation challenges for construction workers](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1490.md)
 * [Uncertainty in construction market](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1195.md)
 * [Workforce distancing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1299.md)
+
+## These stakeholders can be supported by the following general blueprint
+
+* [Implementing Disease Containment Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_14.md)
+* [Implementing Proactive Measures to Control Disease Spread and Economic Disruptions](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_20.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

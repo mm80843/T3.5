@@ -41,3 +41,7 @@ By bringing nature back into living spaces, occupants can experience improved me
 * [Residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_92.md)
 * [Wildlife](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_117.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing Mental Health Mitigation Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_3.md)
+

@@ -24,3 +24,10 @@
 * [Combined use of wbe and clinical testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_988.md)
 * [Wastewater-based epidemiology wbe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3764.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Contagious Disease Control and Privacy Protection](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_0.md)
+* [Implementing Contagious Disease Prevention](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_29.md)
+* [Implementing Pooled-Sample Analysis and Contact Tracing Systems](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_30.md)
+* [Implementing Regular Cleaning, WBE and Quarantine Measures for Infectious Diseases Mitigation](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_34.md)
+

@@ -69,3 +69,9 @@ Increased ventilation rates result in reduced respiratory symptoms and sick leav
 * [Staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_92.md)
 * [Workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_165.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing Disease Containment Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_14.md)
+* [Implementing Indoor Air Quality Monitoring and Maintenance Protocols for Contagion Control](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_32.md)
+* [Implementing Social Distancing and Surveillance](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_40.md)
+

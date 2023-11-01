@@ -2,6 +2,10 @@
 
 # __Regulatory agencies__
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Implementing Wastewater Monitoring and Enhanced Sanitation Measures to Mitigate SARS-CoV-2 Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_1.md)
+
 ## Category to which it belongs
 
 * [A diverse collection of organizations responsible for various aspects of governance, health, environment, safety, and communication.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_249.md)

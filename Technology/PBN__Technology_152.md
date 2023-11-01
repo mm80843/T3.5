@@ -60,3 +60,7 @@
 * [Leveraging Digital Transformation Technologies to Tackle COVID-19: Proposing a Privacy-First Holistic Framework](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_164.md)
 * [Smart cities and a data-driven response to COVID-19](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_188.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Biosecurity Measures and Technological Solutions to Counter Infectious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_25.md)
+

@@ -52,6 +52,10 @@
 * [Ppe](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2691.md)
 * [Protective clothing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3164.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Filtration and Protective Measures to Minimize Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_9.md)
+
 ## Property: has_MitigationPrinciple
 
 Integral part of the control strategy, workers in all risk groups should use appropriate PPE based on their job tasks and risk levels, proper selection, inspection, maintenance, and use of PPE for adequate protection.

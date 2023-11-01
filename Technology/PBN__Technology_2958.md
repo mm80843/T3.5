@@ -24,3 +24,7 @@
 * [Central control of medical countermeasures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3972.md)
 * [Creation of resceu stockpile of medical equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3974.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Collaborative Measures to Combat Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_4.md)
+

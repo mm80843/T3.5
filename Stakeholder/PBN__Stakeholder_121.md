@@ -2,6 +2,12 @@
 
 # __Healthcare providers__
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Implementing Infectious Disease Control Measures within Sustainable Urban Developments](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_3.md)
+* [Implementing Mental Health Mitigation Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_11.md)
+* [Implementing Vaccination Strategies and Awareness Campaigns](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_22.md)
+
 ## Category to which it belongs
 
 * [The various individuals and entities involved in the provision and administration of healthcare services and systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_240.md)
@@ -135,6 +141,12 @@
 ## Stakeholders in this stakeholder subgroup
 
 * [Health care providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_344.md)
+
+## These stakeholders can be supported by the following general blueprint
+
+* [Implementing Biosecurity Measures and Technological Solutions to Counter Infectious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_22.md)
+* [Implementing Contagious Disease Control and Privacy Protection](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_25.md)
+* [Implementing Infectious Disease Control Measures within Sustainable Urban Developments](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_30.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

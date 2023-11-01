@@ -2,6 +2,10 @@
 
 # __Waste management agencies__
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Implementing Innovative Waste Management Strategies to Curtail Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_48.md)
+
 ## Category to which it belongs
 
 * [Entities involved in managing occupants, waste, water, and cleaning services within facilities and communities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_287.md)
@@ -26,6 +30,10 @@
 ## Risks that can be mitigated by this stakeholder
 
 * [Waste management](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_613.md)
+
+## These stakeholders can be supported by the following general blueprint
+
+* [Implementing Innovative Waste Management Strategies to Curtail Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_48.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

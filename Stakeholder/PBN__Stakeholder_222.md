@@ -2,6 +2,14 @@
 
 # __Public health agencies__
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Implementing Digital Tracing and Proactive Infection Control Measures](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_7.md)
+* [Implementing Disease Control Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_21.md)
+* [Implementing Disease Mitigation Strategies: Addressing Wildlife Trade, Vector Control, and Environmental Hygiene](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_24.md)
+* [Implementing Enhanced Sanitation and Hygiene Practices](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_33.md)
+* [Implementing Strategic Measures to Counteract Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_44.md)
+
 ## Category to which it belongs
 
 * [A diverse collection of organizations responsible for various aspects of governance, health, environment, safety, and communication.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_249.md)
@@ -113,6 +121,11 @@
 * [Public health agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1837.md)
 * [Public-health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1841.md)
 * [Public-health agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_572.md)
+
+## These stakeholders can be supported by the following general blueprint
+
+* [Implementing Collaborative Measures to Combat Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_4.md)
+* [Implementing Drainage System Improvements and PCR Protocol Standardization to Mitigate Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_18.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

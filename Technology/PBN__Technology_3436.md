@@ -23,3 +23,7 @@
 
 * [Elimination of indoor pollutants](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4665.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Ventilation and Filtration Strategies to Mitigate Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_15.md)
+

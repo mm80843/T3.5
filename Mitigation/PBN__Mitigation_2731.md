@@ -23,3 +23,7 @@
 
 * [Lack of interoperability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_901.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Biosecurity Measures and Technological Solutions to Counter Infectious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_25.md)
+

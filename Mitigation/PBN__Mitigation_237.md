@@ -34,6 +34,10 @@
 * [Disinfection of waste before contact with people](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2222.md)
 * [Waste management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3625.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Innovative Waste Management Strategies to Curtail Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_48.md)
+
 ## Property: has_MitigationPrinciple
 
 Proper disinfection of household waste to prevent virus propagation

@@ -23,3 +23,7 @@
 
 * [Supply chain disruptions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Disease Containment Scenarios and Supply Chain Adaptations](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_17.md)
+

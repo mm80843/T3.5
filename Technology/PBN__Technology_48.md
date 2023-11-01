@@ -51,3 +51,7 @@
 * [The role of green roofs in post COVID-19 confinement: An analysis of willingness to pay](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_41.md)
 * [Urban form: Realising the value of green space: a planners’ perspective on the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_262.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Disease Mitigation Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_19.md)
+

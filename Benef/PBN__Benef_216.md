@@ -26,3 +26,7 @@ Provides comprehensive and real-time data on the presence of pathogens in a comm
 
 * [Public health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_0.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing Biohazard Mitigation Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_45.md)
+

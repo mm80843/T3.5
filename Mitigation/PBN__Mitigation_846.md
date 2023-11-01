@@ -27,3 +27,7 @@
 
 * [Airborne transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_252.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Filtration and Protective Measures to Minimize Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_9.md)
+

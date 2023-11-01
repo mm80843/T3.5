@@ -23,3 +23,7 @@
 
 * [Noise pollution](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_150.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Acoustic Design and Soundproofing Measures to Mitigate Noise Pollution Risks](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_16.md)
+

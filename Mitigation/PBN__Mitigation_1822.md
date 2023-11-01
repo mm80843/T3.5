@@ -23,3 +23,7 @@
 
 * [Contamination of surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1324.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Surface Disinfection Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_39.md)
+

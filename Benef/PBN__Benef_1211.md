@@ -30,3 +30,7 @@ Improved indoor qualities such as natural lighting, acoustic comfort, and privac
 
 * [Individuals living in apartments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_472.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing Infrastructure Modifications and Community Engagement Strategies to Counter Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_23.md)
+

@@ -27,3 +27,7 @@ Video conferencing and digital monitoring enable remote healthcare delivery, red
 * [Healthcare institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_269.md)
 * [Patients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_31.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing Cybersecurity and Transparency Strategies to Mitigate Contagious Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_36.md)
+

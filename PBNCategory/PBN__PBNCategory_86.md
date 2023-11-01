@@ -2,7 +2,7 @@
 
 # __Limited access to safe water, sanitation, and hygiene facilities, leading to insufficient cleanliness and inadequate cleaning practices in unhygienic environments.__
 
-## Category contains the blueprint
+## Category links to the following 'general blueprint'
 
 * [Implementing Enhanced Sanitation and Hygiene Practices](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_44.md)
 

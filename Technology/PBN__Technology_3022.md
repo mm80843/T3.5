@@ -27,3 +27,8 @@
 * [Public health campaigns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4389.md)
 * [Public health education and awareness](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4614.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Contagious Disease Prevention](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_21.md)
+* [Implementing Disease Mitigation Strategies: Addressing Wildlife Trade, Vector Control, and Environmental Hygiene](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_34.md)
+

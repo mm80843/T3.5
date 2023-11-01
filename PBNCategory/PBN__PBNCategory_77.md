@@ -2,7 +2,7 @@
 
 # __The risks of unauthorized access, misuse, corruption, and breaches in data security and privacy are widespread.__
 
-## Category contains the blueprint
+## Category links to the following 'general blueprint'
 
 * [Implementing Cybersecurity and Transparency Strategies to Mitigate Contagious Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_36.md)
 

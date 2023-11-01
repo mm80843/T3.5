@@ -27,3 +27,7 @@
 
 * [Labour impact and job loss](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_596.md)
 
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Disease Containment Strategies and Technological Solutions](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_38.md)
+

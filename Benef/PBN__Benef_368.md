@@ -42,3 +42,10 @@ Removal of non-value added processes, improved resource optimization, enhanced c
 * [Private investors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_49.md)
 * [Project stakeholders](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_89.md)
 
+## This benefit is realized in the following general blueprint(s)
+
+* [Implementing Biosecurity Measures and Technological Solutions to Counter Infectious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_6.md)
+* [Implementing Contagious Disease Control through Social Distancing and Digital Engagement](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_14.md)
+* [Implementing Disease Containment Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_25.md)
+* [Implementing Disease Containment Strategies and Technological Solutions](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_38.md)
+

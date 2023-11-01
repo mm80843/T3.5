@@ -27,3 +27,7 @@
 * [Hand washing prevention](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4600.md)
 * [Handwashing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4394.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Contagion Prevention Practices and Infrastructure](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_12.md)
+

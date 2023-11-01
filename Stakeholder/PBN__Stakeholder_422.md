@@ -2,6 +2,10 @@
 
 # __Health organizations__
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Implementing Data-Driven Measures to Control Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_31.md)
+
 ## Category to which it belongs
 
 * [A collection of diverse entities devoted to various causes, including mental and physical health, business, research, conservation, and social welfare.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_250.md)

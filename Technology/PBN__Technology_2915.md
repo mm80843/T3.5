@@ -24,3 +24,7 @@
 * [Collaboration and knowledge sharing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3889.md)
 * [Enhanced coordination and cooperation among institutions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4044.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Disease Control Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_24.md)
+

@@ -23,3 +23,7 @@
 
 * [Access to common building spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_222.md)
 
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Mental Health Mitigation Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_3.md)
+
