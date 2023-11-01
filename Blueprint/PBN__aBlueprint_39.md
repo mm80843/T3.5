@@ -42,6 +42,14 @@
 * [Use of hygienic materials](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1822.md)
 * [Use of robot-controlled noncontact uv surface disinfection for fast and effective disinfection.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3777.md)
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
+* [Cleaning staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
+* [Facility management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_653.md)
+* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_92.md)
+* [Occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_654.md)
+
 ## 6. Blueprint links to these benefits
 
 * [Prevention of viral transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1120.md)
@@ -59,12 +67,4 @@
 * [Protective clothing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3125.md)
 * [Sanitizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2727.md)
 * [Uv-c devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_485.md)
-
-## This stakeholders can act on the following general blueprint(s)
-
-* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
-* [Cleaning staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
-* [Facility management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_653.md)
-* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_92.md)
-* [Occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_654.md)
 

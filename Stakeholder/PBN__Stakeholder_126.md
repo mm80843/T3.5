@@ -2,11 +2,6 @@
 
 # __Policymakers__
 
-## 5. Blueprint mitigation can be owned by these stakeholders
-
-* [Implementing Infectious Disease Prevention](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_13.md)
-* [Implementing Occupancy Controls and Physical Distancing](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_26.md)
-
 ## Category to which it belongs
 
 * [Public and governmental entities at various levels, including policy makers, governments, and citizens.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_242.md)
@@ -149,6 +144,11 @@
 * [Real-time feedback on policy intervention](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1012.md)
 * [Real-time sentiment analysis](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1013.md)
 * [Semantic representation of data](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1130.md)
+
+## This stakeholders can act on the following general blueprint(s)
+
+* [Implementing Infectious Disease Prevention](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_13.md)
+* [Implementing Occupancy Controls and Physical Distancing](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_26.md)
 
 ## Type of the stakeholder
 

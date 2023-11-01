@@ -2,10 +2,6 @@
 
 # __Engineers__
 
-## 5. Blueprint mitigation can be owned by these stakeholders
-
-* [Implementing UV Based Technologies and Ventilation Improvements to Control Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_43.md)
-
 ## Category to which it belongs
 
 * [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_262.md)
@@ -49,6 +45,10 @@
 * [Understanding the effect of rh on uv susceptibility of bacterial aerosols](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_433.md)
 * [Understanding the effect of rh on uv susceptibility of pathogenic viral aerosols](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_435.md)
 * [Understanding uv susceptibility of viral aerosols](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_434.md)
+
+## This stakeholders can act on the following general blueprint(s)
+
+* [Implementing UV Based Technologies and Ventilation Improvements to Control Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_43.md)
 
 ## Type of the stakeholder
 

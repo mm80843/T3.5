@@ -2,12 +2,6 @@
 
 # __Construction companies__
 
-## 5. Blueprint mitigation can be owned by these stakeholders
-
-* [Implementing Disease Containment Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_14.md)
-* [Implementing Disease Containment Strategies and Technological Solutions](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_20.md)
-* [Implementing Proactive Measures to Control Disease Spread and Economic Disruptions](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_38.md)
-
 ## Category to which it belongs
 
 * [A comprehensive array of various organizations and governing bodies related to diverse industries and sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_279.md)
@@ -119,6 +113,12 @@
 * [Increased project efficiency](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_382.md)
 * [Minimize damage from crises](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_383.md)
 * [Mitigating financial risks](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_835.md)
+
+## This stakeholders can act on the following general blueprint(s)
+
+* [Implementing Disease Containment Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_14.md)
+* [Implementing Disease Containment Strategies and Technological Solutions](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_20.md)
+* [Implementing Proactive Measures to Control Disease Spread and Economic Disruptions](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_38.md)
 
 ## Type of the stakeholder
 

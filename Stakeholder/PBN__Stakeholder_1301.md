@@ -2,10 +2,6 @@
 
 # __Ontology developers__
 
-## 5. Blueprint mitigation can be owned by these stakeholders
-
-* [Implementing Biosecurity Measures and Technological Solutions to Counter Infectious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_25.md)
-
 ## Category to which it belongs
 
 * [Creators of digital solutions for various purposes, from software and app development to blockchain and ai.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_276.md)
@@ -35,6 +31,10 @@
 * [Lack of interoperability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_900.md)
 * [Logical inconsistencies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1917.md)
 * [Poor ontological coverage](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1918.md)
+
+## This stakeholders can act on the following general blueprint(s)
+
+* [Implementing Biosecurity Measures and Technological Solutions to Counter Infectious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_25.md)
 
 ## Type of the stakeholder
 

@@ -2,13 +2,6 @@
 
 # __Employers__
 
-## 5. Blueprint mitigation can be owned by these stakeholders
-
-* [Implementing Contagious Disease Control through Social Distancing and Digital Engagement](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_6.md)
-* [Implementing Disease Containment Strategies and Technological Solutions](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_15.md)
-* [Implementing Disease Control Strategies: Mitigating Contagion Risks through Hygiene Measures and Rapid Isolation](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_38.md)
-* [Implementing Ventilation and Filtration Strategies to Mitigate Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_41.md)
-
 ## Category to which it belongs
 
 * [All individuals engaged in various forms of work, including employees, freelancers, laborers, and professionals.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_244.md)
@@ -120,6 +113,13 @@
 * [Reduction of airborne virus transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_943.md)
 * [Swift contact tracing and case isolation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_944.md)
 * [Workers’ safety and health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1345.md)
+
+## This stakeholders can act on the following general blueprint(s)
+
+* [Implementing Contagious Disease Control through Social Distancing and Digital Engagement](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_6.md)
+* [Implementing Disease Containment Strategies and Technological Solutions](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_15.md)
+* [Implementing Disease Control Strategies: Mitigating Contagion Risks through Hygiene Measures and Rapid Isolation](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_38.md)
+* [Implementing Ventilation and Filtration Strategies to Mitigate Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_41.md)
 
 ## Type of the stakeholder
 

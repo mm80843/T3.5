@@ -2,10 +2,6 @@
 
 # __Private entities__
 
-## 5. Blueprint mitigation can be owned by these stakeholders
-
-* [Implementing Contagion Prevention Practices and Infrastructure](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_12.md)
-
 ## Category to which it belongs
 
 * [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_262.md)
@@ -43,6 +39,10 @@
 * [Control and governance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_71.md)
 * [Proper data management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_74.md)
 * [System protection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_73.md)
+
+## This stakeholders can act on the following general blueprint(s)
+
+* [Implementing Contagion Prevention Practices and Infrastructure](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_12.md)
 
 ## Type of the stakeholder
 

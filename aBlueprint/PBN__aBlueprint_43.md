@@ -42,6 +42,14 @@
 * [Increase ventilation rates and airflow, consider filtration and air purification systems, and ensure proper maintenance of hvac systems.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2550.md)
 * [Uv-based technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3310.md)
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Architects](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_20.md)
+* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
+* [Engineers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_431.md)
+* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
+* [Individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_202.md)
+
 ## 6. Blueprint links to these benefits
 
 * [Fresh air supply](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1065.md)
@@ -59,12 +67,4 @@
 * [Recognized cleaning practices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3247.md)
 * [Trained cleaning personnel](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3248.md)
 * [Ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2462.md)
-
-## This stakeholders can act on the following general blueprint(s)
-
-* [Architects](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_20.md)
-* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
-* [Engineers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_431.md)
-* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
-* [Individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_202.md)
 

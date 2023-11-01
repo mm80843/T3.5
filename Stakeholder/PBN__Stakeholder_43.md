@@ -2,10 +2,6 @@
 
 # __Educators__
 
-## 5. Blueprint mitigation can be owned by these stakeholders
-
-* [Implementing Strategic Measures to Counteract Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_33.md)
-
 ## Category to which it belongs
 
 * [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_262.md)
@@ -42,6 +38,10 @@
 * [Continued access to education](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_50.md)
 * [Live video feed and interactive format](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_287.md)
 * [Online learning and virtual classes](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1157.md)
+
+## This stakeholders can act on the following general blueprint(s)
+
+* [Implementing Strategic Measures to Counteract Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_33.md)
 
 ## Type of the stakeholder
 

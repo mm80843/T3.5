@@ -2,10 +2,6 @@
 
 # __Support organizations__
 
-## 5. Blueprint mitigation can be owned by these stakeholders
-
-* [Implementing Mental Health Mitigation Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_3.md)
-
 ## Category to which it belongs
 
 * [A collection of diverse entities devoted to various causes, including mental and physical health, business, research, conservation, and social welfare.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_250.md)
@@ -38,6 +34,10 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Community support networks/services](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2407.md)
+
+## This stakeholders can act on the following general blueprint(s)
+
+* [Implementing Mental Health Mitigation Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_3.md)
 
 ## Type of the stakeholder
 

@@ -2,10 +2,6 @@
 
 # __Pharmaceutical companies__
 
-## 5. Blueprint mitigation can be owned by these stakeholders
-
-* [Implementing Vaccination Strategies and Awareness Campaigns](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_11.md)
-
 ## Category to which it belongs
 
 * [A comprehensive array of various organizations and governing bodies related to diverse industries and sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_279.md)
@@ -57,6 +53,10 @@
 * [Faster vaccine development](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_912.md)
 * [Strengthened supply chain](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_661.md)
 * [Tracking antimicrobial usage](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_682.md)
+
+## This stakeholders can act on the following general blueprint(s)
+
+* [Implementing Vaccination Strategies and Awareness Campaigns](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_11.md)
 
 ## Type of the stakeholder
 

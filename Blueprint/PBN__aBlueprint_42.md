@@ -42,6 +42,14 @@
 * [Increase production and distribution of ppe, implement reuse and recycling strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2719.md)
 * [Stocking up on ppe supplies, establishing protocols for ppe usage and disposal.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2024.md)
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Facility management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
+* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_216.md)
+* [Healthcare organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_653.md)
+* [Manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_34.md)
+* [Staff trainers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_966.md)
+
 ## 6. Blueprint links to these benefits
 
 * [Enhanced functionality and reliability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_575.md)
@@ -59,12 +67,4 @@
 * [Ppe](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3164.md)
 * [Surveillance systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3112.md)
 * [Video and audio surveillance solutions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3015.md)
-
-## This stakeholders can act on the following general blueprint(s)
-
-* [Facility management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
-* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_216.md)
-* [Healthcare organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_653.md)
-* [Manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_34.md)
-* [Staff trainers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_966.md)
 

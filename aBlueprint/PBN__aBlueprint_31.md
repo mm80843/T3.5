@@ -42,6 +42,14 @@
 * [Invest in infrastructure for walking and cycling, create safe routes, implement traffic calming measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3069.md)
 * [Promote transparency, standardization, and collaboration for data sharing across geographies.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1006.md)
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Data analysts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
+* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_55.md)
+* [Government agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_422.md)
+* [Health organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1569.md)
+* [Software developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_477.md)
+
 ## 6. Blueprint links to these benefits
 
 * [Expanded 5g coverage and connectivity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_41.md)
@@ -59,12 +67,4 @@
 * [Telecommunication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2323.md)
 * [Video conferencing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1233.md)
 * [Wearable technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_837.md)
-
-## This stakeholders can act on the following general blueprint(s)
-
-* [Data analysts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
-* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_55.md)
-* [Government agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_422.md)
-* [Health organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1569.md)
-* [Software developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_477.md)
 

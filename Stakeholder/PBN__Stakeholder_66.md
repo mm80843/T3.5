@@ -2,10 +2,6 @@
 
 # __Educational institutions__
 
-## 5. Blueprint mitigation can be owned by these stakeholders
-
-* [Implementing Disease Control Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_24.md)
-
 ## Category to which it belongs
 
 * [Various organizations and individuals involved in the field of education, research, healthcare, finance, and government.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_274.md)
@@ -58,6 +54,10 @@
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Remote healthcare and work](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_105.md)
+
+## This stakeholders can act on the following general blueprint(s)
+
+* [Implementing Disease Control Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_24.md)
 
 ## Type of the stakeholder
 

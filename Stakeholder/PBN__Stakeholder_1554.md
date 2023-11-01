@@ -2,10 +2,6 @@
 
 # __Preprint servers__
 
-## 5. Blueprint mitigation can be owned by these stakeholders
-
-* [Implementing Cybersecurity and Transparency Strategies to Mitigate Contagious Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_36.md)
-
 ## Category to which it belongs
 
 * [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_262.md)
@@ -26,6 +22,10 @@
 ## Risks that can be mitigated by this stakeholder
 
 * [Spread of fraudulent studies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_615.md)
+
+## This stakeholders can act on the following general blueprint(s)
+
+* [Implementing Cybersecurity and Transparency Strategies to Mitigate Contagious Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_36.md)
 
 ## Type of the stakeholder
 

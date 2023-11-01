@@ -2,11 +2,6 @@
 
 # __Media organizations__
 
-## 5. Blueprint mitigation can be owned by these stakeholders
-
-* [Implementing Contagion Prevention Practices and Infrastructure](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_12.md)
-* [Implementing Contagious Disease Prevention](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_34.md)
-
 ## Category to which it belongs
 
 * [A collection of diverse entities devoted to various causes, including mental and physical health, business, research, conservation, and social welfare.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_250.md)
@@ -59,6 +54,11 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Media and news entities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1803.md)
+
+## This stakeholders can act on the following general blueprint(s)
+
+* [Implementing Contagion Prevention Practices and Infrastructure](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_12.md)
+* [Implementing Contagious Disease Prevention](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_34.md)
 
 ## Type of the stakeholder
 

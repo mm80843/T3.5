@@ -43,6 +43,14 @@
 * [Providing alternative means to ensure continuity of basic functions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2054.md)
 * [Rethinking global trade and supply chains](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5070.md)
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Customers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
+* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_983.md)
+* [Manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_283.md)
+* [Suppliers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_221.md)
+* [Supply chain managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_34.md)
+
 ## 6. Blueprint links to these benefits
 
 * [Improved supply chain efficiency](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_711.md)
@@ -60,12 +68,4 @@
 * [Iot](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3674.md)
 * [Localization](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3637.md)
 * [Redundant infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3679.md)
-
-## This stakeholders can act on the following general blueprint(s)
-
-* [Customers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
-* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_983.md)
-* [Manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_283.md)
-* [Suppliers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_221.md)
-* [Supply chain managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_34.md)
 

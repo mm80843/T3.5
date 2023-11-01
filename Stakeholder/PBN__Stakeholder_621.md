@@ -2,10 +2,6 @@
 
 # __Hvac specialists__
 
-## 5. Blueprint mitigation can be owned by these stakeholders
-
-* [Implementing Indoor Air Quality Monitoring and Maintenance Protocols for Contagion Control](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_40.md)
-
 ## Category to which it belongs
 
 * [Variety of personnel involved in different roles, such as contractors, staff, administrators, technicians, and professionals in specific fields.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_260.md)
@@ -34,6 +30,10 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Specific roles and job titles](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1654.md)
+
+## This stakeholders can act on the following general blueprint(s)
+
+* [Implementing Indoor Air Quality Monitoring and Maintenance Protocols for Contagion Control](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_40.md)
 
 ## Type of the stakeholder
 

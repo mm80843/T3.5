@@ -2,10 +2,6 @@
 
 # __Regulatory authorities__
 
-## 5. Blueprint mitigation can be owned by these stakeholders
-
-* [Implementing Drainage System Improvements and PCR Protocol Standardization to Mitigate Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_18.md)
-
 ## Category to which it belongs
 
 * [A diverse collection of organizations and individuals with specific areas of expertise and jurisdiction.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_239.md)
@@ -47,6 +43,10 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Regulatory bodies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_706.md)
+
+## This stakeholders can act on the following general blueprint(s)
+
+* [Implementing Drainage System Improvements and PCR Protocol Standardization to Mitigate Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_18.md)
 
 ## Type of the stakeholder
 

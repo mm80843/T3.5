@@ -2,10 +2,6 @@
 
 # __Suppliers__
 
-## 5. Blueprint mitigation can be owned by these stakeholders
-
-* [Implementing Disease Containment Scenarios and Supply Chain Adaptations](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_17.md)
-
 ## Category to which it belongs
 
 * [Various individuals and entities involved in the supply chain, from suppliers to consumers and everyone in between.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_261.md)
@@ -58,6 +54,10 @@
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Business continuity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_677.md)
+
+## This stakeholders can act on the following general blueprint(s)
+
+* [Implementing Disease Containment Scenarios and Supply Chain Adaptations](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_17.md)
 
 ## Type of the stakeholder
 

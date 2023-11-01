@@ -2,11 +2,6 @@
 
 # __Building occupants__
 
-## 5. Blueprint mitigation can be owned by these stakeholders
-
-* [Implementing Indoor Air Quality Monitoring and Maintenance Protocols for Contagion Control](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_15.md)
-* [Implementing Ventilation and Filtration Strategies to Mitigate Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_40.md)
-
 ## Category to which it belongs
 
 * [Individuals within the built environment, including building designers, architects, construction workers, and building occupants and managers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_258.md)
@@ -363,6 +358,11 @@
 * [Reduction of pathogen transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_890.md)
 * [Reduction of surface contamination](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1287.md)
 * [Sanitation and cleanliness](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1281.md)
+
+## This stakeholders can act on the following general blueprint(s)
+
+* [Implementing Indoor Air Quality Monitoring and Maintenance Protocols for Contagion Control](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_15.md)
+* [Implementing Ventilation and Filtration Strategies to Mitigate Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_40.md)
 
 ## Type of the stakeholder
 

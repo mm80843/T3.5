@@ -42,6 +42,14 @@ Implementing the mitigation measures laid out in this blueprint offers key benef
 * [Improvement of assay sensitivity through the development and implementation of more sensitive and specific assays for sars-cov-2 detection in sewage samples.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2165.md)
 * [Regular monitoring and testing of wastewater samples for sars-cov-2 can provide early detection and enable prompt control measures to prevent further spread.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2164.md)
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Health departments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_0.md)
+* [Public health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_413.md)
+* [Regulatory agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_401.md)
+* [Research institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_572.md)
+* [Wastewater treatment plant operators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1046.md)
+
 ## 6. Blueprint links to these benefits
 
 * [Early detection of covid-19](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_988.md)
@@ -60,12 +68,4 @@ Implementing the mitigation measures laid out in this blueprint offers key benef
 * [Wastewater analysis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3067.md)
 * [Wastewater testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3129.md)
 * [Wastewater treatment plants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3130.md)
-
-## This stakeholders can act on the following general blueprint(s)
-
-* [Health departments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_0.md)
-* [Public health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_413.md)
-* [Regulatory agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_401.md)
-* [Research institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_572.md)
-* [Wastewater treatment plant operators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1046.md)
 

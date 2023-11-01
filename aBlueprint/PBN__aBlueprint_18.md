@@ -43,6 +43,14 @@
 * [Reduction in traffic volumes](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_814.md)
 * [Standardization of pcr platforms and protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1934.md)
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
+* [Laboratory personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_688.md)
+* [Regulatory authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1293.md)
+* [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
+* [Water utilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_329.md)
+
 ## 6. Blueprint links to these benefits
 
 * [Improved air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_360.md)
@@ -60,12 +68,4 @@
 * [Safe management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_833.md)
 * [Wastewater analysis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3624.md)
 * [Wastewater testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3173.md)
-
-## This stakeholders can act on the following general blueprint(s)
-
-* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
-* [Laboratory personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_688.md)
-* [Regulatory authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1293.md)
-* [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
-* [Water utilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_329.md)
 

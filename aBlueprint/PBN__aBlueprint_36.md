@@ -42,6 +42,14 @@
 * [Store donation process in blockchain for transparency and verification, reducing corruption and improving social trust](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_853.md)
 * [Strengthen cybersecurity measures, establish good communication channels, and combat disinformation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3027.md)
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
+* [Journal editors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
+* [Preprint servers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_717.md)
+* [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1555.md)
+* [Technology companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1554.md)
+
 ## 6. Blueprint links to these benefits
 
 * [Enhanced privacy protection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_39.md)
@@ -60,12 +68,4 @@
 * [Mobile app](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3372.md)
 * [Smartphone app](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3253.md)
 * [Surveillance technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_344.md)
-
-## This stakeholders can act on the following general blueprint(s)
-
-* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
-* [Journal editors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
-* [Preprint servers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_717.md)
-* [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1555.md)
-* [Technology companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1554.md)
 

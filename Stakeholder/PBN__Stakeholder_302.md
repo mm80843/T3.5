@@ -2,12 +2,6 @@
 
 # __Government authorities__
 
-## 5. Blueprint mitigation can be owned by these stakeholders
-
-* [Implementing Contagious Disease Control](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_13.md)
-* [Implementing Occupancy Controls and Physical Distancing](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_29.md)
-* [Implementing Pooled-Sample Analysis and Contact Tracing Systems](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_35.md)
-
 ## Category to which it belongs
 
 * [A diverse collection of organizations and individuals with specific areas of expertise and jurisdiction.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_239.md)
@@ -71,6 +65,12 @@
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Monitoring of agglomerations through geolocation data](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_730.md)
+
+## This stakeholders can act on the following general blueprint(s)
+
+* [Implementing Contagious Disease Control](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_13.md)
+* [Implementing Occupancy Controls and Physical Distancing](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_29.md)
+* [Implementing Pooled-Sample Analysis and Contact Tracing Systems](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_35.md)
 
 ## Type of the stakeholder
 

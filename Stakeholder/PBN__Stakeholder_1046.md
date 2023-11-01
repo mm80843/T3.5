@@ -2,10 +2,6 @@
 
 # __Wastewater treatment plant operators__
 
-## 5. Blueprint mitigation can be owned by these stakeholders
-
-* [Implementing Wastewater Monitoring and Enhanced Sanitation Measures to Mitigate SARS-CoV-2 Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_1.md)
-
 ## Category to which it belongs
 
 * [Entities involved in managing occupants, waste, water, and cleaning services within facilities and communities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_287.md)
@@ -37,6 +33,10 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Waste and wastewater management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2584.md)
+
+## This stakeholders can act on the following general blueprint(s)
+
+* [Implementing Wastewater Monitoring and Enhanced Sanitation Measures to Mitigate SARS-CoV-2 Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_1.md)
 
 ## Type of the stakeholder
 

@@ -2,10 +2,6 @@
 
 # __Office managers__
 
-## 5. Blueprint mitigation can be owned by these stakeholders
-
-* [Implementing Filtration and Protective Measures to Minimize Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_9.md)
-
 ## Category to which it belongs
 
 * [Managers responsible for overseeing various aspects of facilities and operations, including supply chain, construction projects, healthcare, property, and crisis.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_255.md)
@@ -38,6 +34,10 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Specific roles and job titles](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1654.md)
+
+## This stakeholders can act on the following general blueprint(s)
+
+* [Implementing Filtration and Protective Measures to Minimize Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_9.md)
 
 ## Type of the stakeholder
 

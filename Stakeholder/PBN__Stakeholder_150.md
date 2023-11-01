@@ -2,11 +2,6 @@
 
 # __Community organizations__
 
-## 5. Blueprint mitigation can be owned by these stakeholders
-
-* [Implementing Contagious Disease Control through Social Distancing and Digital Engagement](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_6.md)
-* [Implementing Disease Mitigation Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_19.md)
-
 ## Category to which it belongs
 
 * [A collective of individuals and groups who contribute to and support the well-being of a community.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_270.md)
@@ -109,6 +104,11 @@
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Stronger communities and better public health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_301.md)
+
+## This stakeholders can act on the following general blueprint(s)
+
+* [Implementing Contagious Disease Control through Social Distancing and Digital Engagement](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_6.md)
+* [Implementing Disease Mitigation Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_19.md)
 
 ## Type of the stakeholder
 

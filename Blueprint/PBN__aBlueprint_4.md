@@ -42,6 +42,14 @@
 * [Implement innovative demand and supply-side initiatives to build resilient food systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1069.md)
 * [Public health education and awareness campaigns, communication of guidelines and protocols through various channels, enforcement of regulations, and penalties for non-compliance.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1490.md)
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1357.md)
+* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
+* [Healthcare organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
+* [Ngos](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_216.md)
+* [Public health professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_234.md)
+
 ## 6. Blueprint links to these benefits
 
 * [Early detection of outbreaks](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_166.md)
@@ -59,12 +67,4 @@
 * [Uv lamps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_84.md)
 * [Wastewater analysis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2583.md)
 * [Wastewater testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2958.md)
-
-## This stakeholders can act on the following general blueprint(s)
-
-* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1357.md)
-* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
-* [Healthcare organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
-* [Ngos](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_216.md)
-* [Public health professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_234.md)
 

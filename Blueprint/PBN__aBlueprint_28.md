@@ -42,6 +42,14 @@
 * [Ncov2019 package](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4323.md)
 * [Real-time data sharing through dashboards](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1051.md)
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Data analysts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
+* [Data scientists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
+* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_216.md)
+* [Healthcare organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_625.md)
+* [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_477.md)
+
 ## 6. Blueprint links to these benefits
 
 * [Better crisis management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_995.md)
@@ -59,12 +67,4 @@
 * [Machine learning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_200.md)
 * [Sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3759.md)
 * [Uv lamps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2694.md)
-
-## This stakeholders can act on the following general blueprint(s)
-
-* [Data analysts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
-* [Data scientists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
-* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_216.md)
-* [Healthcare organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_625.md)
-* [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_477.md)
 

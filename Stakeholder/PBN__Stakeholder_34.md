@@ -2,12 +2,6 @@
 
 # __Manufacturers__
 
-## 5. Blueprint mitigation can be owned by these stakeholders
-
-* [Implementing Biosecurity Measures and Technological Solutions to Counter Infectious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_17.md)
-* [Implementing Contagious Disease Containment Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_25.md)
-* [Implementing Disease Containment Scenarios and Supply Chain Adaptations](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_42.md)
-
 ## Category to which it belongs
 
 * [The industry of creating and supplying various devices, equipment, and platforms for different sectors and users.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_264.md)
@@ -78,6 +72,12 @@
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Improved supply chain efficiency](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_37.md)
+
+## This stakeholders can act on the following general blueprint(s)
+
+* [Implementing Biosecurity Measures and Technological Solutions to Counter Infectious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_17.md)
+* [Implementing Contagious Disease Containment Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_25.md)
+* [Implementing Disease Containment Scenarios and Supply Chain Adaptations](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_42.md)
 
 ## Type of the stakeholder
 

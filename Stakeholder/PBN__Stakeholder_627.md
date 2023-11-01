@@ -2,10 +2,6 @@
 
 # __None__
 
-## 5. Blueprint mitigation can be owned by these stakeholders
-
-* [Implementing Effective Measures to Combat Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_2.md)
-
 ## Category to which it belongs
 
 * [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_262.md)
@@ -67,6 +63,10 @@
 * [Shift in public priorities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1591.md)
 * [Variability and specificity of pcr assays](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1596.md)
 * [Vulnerable populations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2313.md)
+
+## This stakeholders can act on the following general blueprint(s)
+
+* [Implementing Effective Measures to Combat Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_2.md)
 
 ## Type of the stakeholder
 

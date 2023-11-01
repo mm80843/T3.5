@@ -42,6 +42,14 @@
 * [Implementing safety protocols, providing personal protective equipment, promoting good hygiene practices.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2344.md)
 * [Utilize wbe for early-warning ability, establish baselines for incidence of covid-19 before re-opening](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2452.md)
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
+* [Hospitality industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1075.md)
+* [Malaria elimination programs](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_244.md)
+* [Tourism destinations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_196.md)
+* [Tourism industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_182.md)
+
 ## 6. Blueprint links to these benefits
 
 * [Reduced disease spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_549.md)
@@ -59,12 +67,4 @@
 * [Travel policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3413.md)
 * [Travel regulations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3414.md)
 * [Travel tracking and monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3415.md)
-
-## This stakeholders can act on the following general blueprint(s)
-
-* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
-* [Hospitality industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1075.md)
-* [Malaria elimination programs](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_244.md)
-* [Tourism destinations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_196.md)
-* [Tourism industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_182.md)
 

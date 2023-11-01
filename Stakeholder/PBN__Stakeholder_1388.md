@@ -2,10 +2,6 @@
 
 # __Diagnostic test manufacturers__
 
-## 5. Blueprint mitigation can be owned by these stakeholders
-
-* [Implementing Pooled-Sample Analysis and Contact Tracing Systems](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_29.md)
-
 ## Category to which it belongs
 
 * [The industry of creating and supplying various devices, equipment, and platforms for different sectors and users.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_264.md)
@@ -26,6 +22,10 @@
 ## Risks that can be mitigated by this stakeholder
 
 * [Insufficient testing capacity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_740.md)
+
+## This stakeholders can act on the following general blueprint(s)
+
+* [Implementing Pooled-Sample Analysis and Contact Tracing Systems](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_29.md)
 
 ## Type of the stakeholder
 

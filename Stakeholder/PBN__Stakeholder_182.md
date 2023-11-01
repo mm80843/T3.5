@@ -2,10 +2,6 @@
 
 # __Malaria elimination programs__
 
-## 5. Blueprint mitigation can be owned by these stakeholders
-
-* [Implementing Early-Warning Systems and Safety Protocols Against COVID-19 Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_5.md)
-
 ## Category to which it belongs
 
 * [People at risk or affected by infectious diseases, including covid-19, and those involved in containment and response measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_245.md)
@@ -46,6 +42,10 @@
 * [Identifying high-risk areas](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_388.md)
 * [Improved understanding of movement](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_384.md)
 * [Prioritization of high-risk areas](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_387.md)
+
+## This stakeholders can act on the following general blueprint(s)
+
+* [Implementing Early-Warning Systems and Safety Protocols Against COVID-19 Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_5.md)
 
 ## Type of the stakeholder
 

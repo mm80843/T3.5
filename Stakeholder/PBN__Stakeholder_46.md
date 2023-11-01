@@ -2,11 +2,6 @@
 
 # __Scientists__
 
-## 5. Blueprint mitigation can be owned by these stakeholders
-
-* [Implementing Innovative Techniques to Thwart Contagious Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_0.md)
-* [Implementing Regular Cleaning, WBE and Quarantine Measures for Infectious Diseases Mitigation](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_37.md)
-
 ## Category to which it belongs
 
 * [A diverse range of individuals and groups involved in various fields, research, projects, media, teams, and organizations.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_241.md)
@@ -97,6 +92,11 @@
 * [Standardized knowledge representation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1018.md)
 * [Thorough study of anti-coronavirus drugs](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1016.md)
 * [Vaccine design and analysis](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1046.md)
+
+## This stakeholders can act on the following general blueprint(s)
+
+* [Implementing Innovative Techniques to Thwart Contagious Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_0.md)
+* [Implementing Regular Cleaning, WBE and Quarantine Measures for Infectious Diseases Mitigation](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_37.md)
 
 ## Type of the stakeholder
 

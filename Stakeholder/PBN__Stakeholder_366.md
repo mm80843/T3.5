@@ -2,10 +2,6 @@
 
 # __Schools__
 
-## 5. Blueprint mitigation can be owned by these stakeholders
-
-* [Implementing Strategic Measures to Counteract Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_33.md)
-
 ## Category to which it belongs
 
 * [Various organizations and individuals involved in the field of education, research, healthcare, finance, and government.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_274.md)
@@ -54,6 +50,10 @@
 * [Reduction in virus transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_917.md)
 * [Safer and more effective disinfection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_916.md)
 * [Secure environment for online education](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1053.md)
+
+## This stakeholders can act on the following general blueprint(s)
+
+* [Implementing Strategic Measures to Counteract Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_33.md)
 
 ## Type of the stakeholder
 

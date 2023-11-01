@@ -2,11 +2,6 @@
 
 # __City governments__
 
-## 5. Blueprint mitigation can be owned by these stakeholders
-
-* [Implementing Disease Mitigation Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_19.md)
-* [Implementing Disease Mitigation Strategies: Addressing Wildlife Trade, Vector Control, and Environmental Hygiene](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_21.md)
-
 ## Category to which it belongs
 
 * [Public and governmental entities at various levels, including policy makers, governments, and citizens.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_242.md)
@@ -63,6 +58,11 @@
 
 * [Integrated planning and delivery](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_873.md)
 * [Resilient and sustainable cities](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_874.md)
+
+## This stakeholders can act on the following general blueprint(s)
+
+* [Implementing Disease Mitigation Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_19.md)
+* [Implementing Disease Mitigation Strategies: Addressing Wildlife Trade, Vector Control, and Environmental Hygiene](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_21.md)
 
 ## Type of the stakeholder
 

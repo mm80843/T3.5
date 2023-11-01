@@ -2,10 +2,6 @@
 
 # __Health departments__
 
-## 5. Blueprint mitigation can be owned by these stakeholders
-
-* [Implementing Wastewater Monitoring and Enhanced Sanitation Measures to Mitigate SARS-CoV-2 Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_1.md)
-
 ## Category to which it belongs
 
 * [The various individuals and entities involved in the provision and administration of healthcare services and systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_240.md)
@@ -43,6 +39,10 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Public health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_222.md)
+
+## This stakeholders can act on the following general blueprint(s)
+
+* [Implementing Wastewater Monitoring and Enhanced Sanitation Measures to Mitigate SARS-CoV-2 Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_1.md)
 
 ## Type of the stakeholder
 

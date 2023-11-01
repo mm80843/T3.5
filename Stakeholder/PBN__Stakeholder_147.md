@@ -2,10 +2,6 @@
 
 # __Businesses__
 
-## 5. Blueprint mitigation can be owned by these stakeholders
-
-* [Implementing Disease Surveillance and Resilience Measures](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_49.md)
-
 ## Category to which it belongs
 
 * [Various establishments, including small businesses, private businesses, local businesses, retail businesses, and online businesses coexist with governments and are represented by business owners and associations.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_275.md)
@@ -127,6 +123,10 @@
 * [Resilient and sustainable supply chains](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1054.md)
 * [Streamlined operational processes](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_698.md)
 * [Timely shutdown and reopening of specific areas](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_778.md)
+
+## This stakeholders can act on the following general blueprint(s)
+
+* [Implementing Disease Surveillance and Resilience Measures](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_49.md)
 
 ## Type of the stakeholder
 

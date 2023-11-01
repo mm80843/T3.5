@@ -2,10 +2,6 @@
 
 # __Environmental agencies__
 
-## 5. Blueprint mitigation can be owned by these stakeholders
-
-* [Implementing Biohazard Mitigation Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_45.md)
-
 ## Category to which it belongs
 
 * [A diverse collection of organizations responsible for various aspects of governance, health, environment, safety, and communication.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_249.md)
@@ -54,6 +50,10 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Environmental management and research](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2586.md)
+
+## This stakeholders can act on the following general blueprint(s)
+
+* [Implementing Biohazard Mitigation Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_45.md)
 
 ## Type of the stakeholder
 

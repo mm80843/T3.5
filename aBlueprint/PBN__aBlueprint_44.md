@@ -42,6 +42,14 @@
 * [Regular cleaning, hand hygiene, disinfection protocols.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2235.md)
 * [Regularly educate and remind individuals about proper hygiene practices, provide access to hand sanitizers and cleaning supplies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2257.md)
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_222.md)
+* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
+* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
+* [Local governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
+* [Public health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_566.md)
+
 ## 6. Blueprint links to these benefits
 
 * [Access to cleaner and more efficient fuel](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_161.md)
@@ -59,12 +67,4 @@
 * [Disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_850.md)
 * [Etc](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1400.md)
 * [Sodium hypochlorite](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3359.md)
-
-## This stakeholders can act on the following general blueprint(s)
-
-* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_222.md)
-* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
-* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
-* [Local governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
-* [Public health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_566.md)
 

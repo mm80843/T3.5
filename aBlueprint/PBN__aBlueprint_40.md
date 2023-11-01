@@ -43,6 +43,14 @@
 * [Natural ventilation and thermal comfort at home](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4357.md)
 * [Regular hvac maintenance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4656.md)
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Architects](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
+* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_431.md)
+* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
+* [Hvac specialists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_621.md)
+
 ## 6. Blueprint links to these benefits
 
 * [Improved asset value](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_29.md)
@@ -60,12 +68,4 @@
 * [Physical barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2818.md)
 * [Signage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_358.md)
 * [Ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_270.md)
-
-## This stakeholders can act on the following general blueprint(s)
-
-* [Architects](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
-* [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
-* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_431.md)
-* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
-* [Hvac specialists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_621.md)
 

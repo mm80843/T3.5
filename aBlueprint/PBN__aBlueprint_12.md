@@ -42,6 +42,14 @@
 * [Promote proper hand hygiene practices through education and awareness campaigns, provide hand sanitization stations, and enforce hand hygiene protocols.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2553.md)
 * [Public awareness campaigns, availability of hand sanitizer and handwashing facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3107.md)
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_0.md)
+* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
+* [Media organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
+* [Private entities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_56.md)
+* [Public health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_545.md)
+
 ## 6. Blueprint links to these benefits
 
 * [Disseminating evidence through various mediums](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1120.md)
@@ -59,12 +67,4 @@
 * [Soap and water](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2940.md)
 * [Water](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2941.md)
 * [Webinars](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3120.md)
-
-## This stakeholders can act on the following general blueprint(s)
-
-* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_0.md)
-* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
-* [Media organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
-* [Private entities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_56.md)
-* [Public health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_545.md)
 

@@ -42,6 +42,14 @@
 * [Implementing remote work arrangements, implementing safety protocols, ensuring proper communication and coordination](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1898.md)
 * [Remote work](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2416.md)
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Architects](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_973.md)
+* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
+* [Construction companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_431.md)
+* [Government bodies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_181.md)
+* [Project managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_903.md)
+
 ## 6. Blueprint links to these benefits
 
 * [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_368.md)
@@ -59,12 +67,4 @@
 * [Occupancy sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3671.md)
 * [Remote communication technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3096.md)
 * [Technology for telecommuting](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_647.md)
-
-## This stakeholders can act on the following general blueprint(s)
-
-* [Architects](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_973.md)
-* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
-* [Construction companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_431.md)
-* [Government bodies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_181.md)
-* [Project managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_903.md)
 

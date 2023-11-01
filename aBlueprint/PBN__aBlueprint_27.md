@@ -39,6 +39,14 @@
 * [Limiting occupancy levels, implementing crowd control measures, staggering schedules](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3829.md)
 * [Provide access to public parks and green spaces, encourage the development of outdoor spaces in residential areas.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1522.md)
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Architects](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_125.md)
+* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
+* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_431.md)
+* [Local governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
+* [Urban planners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_566.md)
+
 ## 6. Blueprint links to these benefits
 
 * [Enhanced access to nature and recreation for residents](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_738.md)
@@ -56,12 +64,4 @@
 * [Locks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3686.md)
 * [Park/garden maintenance equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3694.md)
 * [Skylights](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3695.md)
-
-## This stakeholders can act on the following general blueprint(s)
-
-* [Architects](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_125.md)
-* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
-* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_431.md)
-* [Local governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
-* [Urban planners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_566.md)
 

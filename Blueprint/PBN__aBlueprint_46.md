@@ -42,6 +42,14 @@
 * [Research on relationship between rh and uv susceptibility](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2988.md)
 * [Use additional methods for disinfection and protection of living cells.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2986.md)
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
+* [Designers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_737.md)
+* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
+* [Government regulators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_74.md)
+* [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
+
 ## 6. Blueprint links to these benefits
 
 * [Disinfection of surfaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_318.md)
@@ -52,12 +60,4 @@
 
 * [Access to natural light](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
 * [Uv lamps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2583.md)
-
-## This stakeholders can act on the following general blueprint(s)
-
-* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
-* [Designers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_737.md)
-* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
-* [Government regulators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_74.md)
-* [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
 

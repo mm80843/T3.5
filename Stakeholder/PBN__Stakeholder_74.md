@@ -2,10 +2,6 @@
 
 # __Designers__
 
-## 5. Blueprint mitigation can be owned by these stakeholders
-
-* [Implementing UVGI Systems to Combat Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_46.md)
-
 ## Category to which it belongs
 
 * [A diverse range of individuals and groups involved in various fields, research, projects, media, teams, and organizations.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_241.md)
@@ -73,6 +69,10 @@
 * [Improved design quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1072.md)
 * [Improved understanding and analysis of public spaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1071.md)
 * [Visualizing virus transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1241.md)
+
+## This stakeholders can act on the following general blueprint(s)
+
+* [Implementing UVGI Systems to Combat Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_46.md)
 
 ## Type of the stakeholder
 

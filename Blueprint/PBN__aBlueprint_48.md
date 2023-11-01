@@ -42,6 +42,14 @@
 * [Management of an increased amount of waste](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2937.md)
 * [Proper segregation of medical waste](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4964.md)
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
+* [Facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
+* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1483.md)
+* [Waste management agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1487.md)
+* [Waste management authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_590.md)
+
 ## 6. Blueprint links to these benefits
 
 * [Clean water supply](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_249.md)
@@ -60,12 +68,4 @@
 * [Waste management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1764.md)
 * [Water filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3624.md)
 * [Water treatment systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3625.md)
-
-## This stakeholders can act on the following general blueprint(s)
-
-* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
-* [Facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
-* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1483.md)
-* [Waste management agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1487.md)
-* [Waste management authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_590.md)
 

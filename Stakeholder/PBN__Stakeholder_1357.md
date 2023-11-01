@@ -2,10 +2,6 @@
 
 # __Public health professionals__
 
-## 5. Blueprint mitigation can be owned by these stakeholders
-
-* [Implementing Collaborative Measures to Combat Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_4.md)
-
 ## Category to which it belongs
 
 * [The various individuals and entities involved in the provision and administration of healthcare services and systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_240.md)
@@ -26,6 +22,10 @@
 ## Risks that can be mitigated by this stakeholder
 
 * [Limited learning from public health crises](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_647.md)
+
+## This stakeholders can act on the following general blueprint(s)
+
+* [Implementing Collaborative Measures to Combat Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_4.md)
 
 ## Type of the stakeholder
 

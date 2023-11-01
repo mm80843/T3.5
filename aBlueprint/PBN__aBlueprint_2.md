@@ -42,6 +42,14 @@
 * [Maintain transparency and objectivity in evidence generation and communication, actively combat misinformation, and build trust through consistent and reliable delivery of evidence](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2490.md)
 * [Provide support and resources for victims of domestic violence, ensure safety measures are in place for online gaming](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2399.md)
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
+* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
+* [Law enforcement agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_234.md)
+* [Ngos](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_627.md)
+* [None](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_601.md)
+
 ## 6. Blueprint links to these benefits
 
 * [Decrease in virus transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_631.md)
@@ -59,12 +67,4 @@
 * [Public awareness and education campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2579.md)
 * [Technology-enabled monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2770.md)
 * [Wearable devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3444.md)
-
-## This stakeholders can act on the following general blueprint(s)
-
-* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
-* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
-* [Law enforcement agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_234.md)
-* [Ngos](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_627.md)
-* [None](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_601.md)
 

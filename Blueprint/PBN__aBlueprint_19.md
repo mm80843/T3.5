@@ -42,6 +42,14 @@
 * [Increase public awareness and knowledge about the benefits and implementation of green roofs through education and outreach programs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2073.md)
 * [Provide incentives and subsidies to promote the installation of green roofs, and develop cost-effective maintenance strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2243.md)
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [City governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_125.md)
+* [Community organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_354.md)
+* [Developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_150.md)
+* [Local governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_566.md)
+* [Urban planners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_635.md)
+
 ## 6. Blueprint links to these benefits
 
 * [Health benefits](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_441.md)
@@ -59,12 +67,4 @@
 * [Nature-based solutions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1008.md)
 * [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2995.md)
 * [Urban microclimatic control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2651.md)
-
-## This stakeholders can act on the following general blueprint(s)
-
-* [City governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_125.md)
-* [Community organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_354.md)
-* [Developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_150.md)
-* [Local governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_566.md)
-* [Urban planners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_635.md)
 

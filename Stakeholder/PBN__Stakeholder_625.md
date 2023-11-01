@@ -2,11 +2,6 @@
 
 # __Data scientists__
 
-## 5. Blueprint mitigation can be owned by these stakeholders
-
-* [Implementing Contagious Disease Control and Privacy Protection](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_28.md)
-* [Implementing Real-time Epidemiological Data Collection and Analysis to Mitigate Virus Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_30.md)
-
 ## Category to which it belongs
 
 * [A diverse group of specialists and professionals with expertise in risk assessment, data analysis, technology, communication, legal matters, and various domains.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_259.md)
@@ -61,6 +56,11 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Data management and security](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2531.md)
+
+## This stakeholders can act on the following general blueprint(s)
+
+* [Implementing Contagious Disease Control and Privacy Protection](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_28.md)
+* [Implementing Real-time Epidemiological Data Collection and Analysis to Mitigate Virus Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_30.md)
 
 ## Type of the stakeholder
 

@@ -41,6 +41,14 @@
 * [Promoting accurate information from reliable sources, fact-checking, and public education campaigns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_553.md)
 * [Promoting trust and countering misinformation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1038.md)
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_0.md)
+* [Individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
+* [Media organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_20.md)
+* [Public health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_554.md)
+* [Social media platforms](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_545.md)
+
 ## 6. Blueprint links to these benefits
 
 * [Early detection of covid-19](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_988.md)
@@ -58,12 +66,4 @@
 * [Sequencing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_47.md)
 * [Social media platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3401.md)
 * [Wastewater sampling](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3022.md)
-
-## This stakeholders can act on the following general blueprint(s)
-
-* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_0.md)
-* [Individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
-* [Media organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_20.md)
-* [Public health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_554.md)
-* [Social media platforms](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_545.md)
 

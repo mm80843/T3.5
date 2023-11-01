@@ -42,6 +42,14 @@
 * [Providing financial support for affected workers, exploring alternative job opportunities, implementing safety protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_833.md)
 * [Workforce reduction](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1790.md)
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Construction companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
+* [Employers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
+* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_180.md)
+* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_181.md)
+* [Labor unions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_904.md)
+
 ## 6. Blueprint links to these benefits
 
 * [Increased productivity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_368.md)
@@ -59,12 +67,4 @@
 * [Technology for telecommuting](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3745.md)
 * [Teleconferencing tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3408.md)
 * [Wage subsidies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3744.md)
-
-## This stakeholders can act on the following general blueprint(s)
-
-* [Construction companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
-* [Employers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
-* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_180.md)
-* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_181.md)
-* [Labor unions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_904.md)
 

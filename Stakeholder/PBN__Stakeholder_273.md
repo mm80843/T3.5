@@ -2,10 +2,6 @@
 
 # __Critical infrastructure operators__
 
-## 5. Blueprint mitigation can be owned by these stakeholders
-
-* [Implementing Disease Surveillance and Resilience Measures](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_49.md)
-
 ## Category to which it belongs
 
 * [The wide-ranging sectors and industries, from the private sector to energy and manufacturing, that drive global economies and the interconnectedness of businesses and industries worldwide.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_256.md)
@@ -50,6 +46,10 @@
 * [Improved crisis response and coordination](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_648.md)
 * [Improved risk management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_647.md)
 * [Increased supply chain resilience](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_646.md)
+
+## This stakeholders can act on the following general blueprint(s)
+
+* [Implementing Disease Surveillance and Resilience Measures](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_49.md)
 
 ## Type of the stakeholder
 

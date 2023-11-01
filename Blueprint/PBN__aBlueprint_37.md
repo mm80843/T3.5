@@ -42,6 +42,14 @@
 * [Optimization and validation of biomarker measurement methods for wastewater analysis, including elisa and mass spectrometry.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3001.md)
 * [Standardization and verification of pcr methods and protocols used by different laboratories.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1877.md)
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
+* [Laboratory personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_394.md)
+* [Research institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_46.md)
+* [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_413.md)
+* [Scientists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_688.md)
+
 ## 6. Blueprint links to these benefits
 
 * [Improved worker safety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_411.md)
@@ -59,12 +67,4 @@
 * [Ppe](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_485.md)
 * [Protective clothing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2728.md)
 * [Reverse transcriptase quantitative polymerase chain reaction rt-qpcr](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_484.md)
-
-## This stakeholders can act on the following general blueprint(s)
-
-* [Health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
-* [Laboratory personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_394.md)
-* [Research institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_46.md)
-* [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_413.md)
-* [Scientists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_688.md)
 

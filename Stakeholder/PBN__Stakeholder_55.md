@@ -2,12 +2,6 @@
 
 # __Government agencies__
 
-## 5. Blueprint mitigation can be owned by these stakeholders
-
-* [Implementing Data-Driven Measures to Control Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_20.md)
-* [Implementing Disease Surveillance and Resilience Measures](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_31.md)
-* [Implementing Proactive Measures to Control Disease Spread and Economic Disruptions](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_49.md)
-
 ## Category to which it belongs
 
 * [A diverse collection of organizations responsible for various aspects of governance, health, environment, safety, and communication.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_249.md)
@@ -140,6 +134,12 @@
 * [Streamlined crisis management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1200.md)
 * [System protection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1049.md)
 * [Verifiable and secure data](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1078.md)
+
+## This stakeholders can act on the following general blueprint(s)
+
+* [Implementing Data-Driven Measures to Control Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_20.md)
+* [Implementing Disease Surveillance and Resilience Measures](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_31.md)
+* [Implementing Proactive Measures to Control Disease Spread and Economic Disruptions](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_49.md)
 
 ## Type of the stakeholder
 

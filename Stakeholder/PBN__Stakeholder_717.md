@@ -2,10 +2,6 @@
 
 # __Technology companies__
 
-## 5. Blueprint mitigation can be owned by these stakeholders
-
-* [Implementing Cybersecurity and Transparency Strategies to Mitigate Contagious Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_36.md)
-
 ## Category to which it belongs
 
 * [A comprehensive array of various organizations and governing bodies related to diverse industries and sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_279.md)
@@ -49,6 +45,10 @@
 
 * [Ai and technology](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1857.md)
 * [Technology and innovation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1873.md)
+
+## This stakeholders can act on the following general blueprint(s)
+
+* [Implementing Cybersecurity and Transparency Strategies to Mitigate Contagious Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_36.md)
 
 ## Type of the stakeholder
 

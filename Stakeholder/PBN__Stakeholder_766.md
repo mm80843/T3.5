@@ -2,10 +2,6 @@
 
 # __Public place owners__
 
-## 5. Blueprint mitigation can be owned by these stakeholders
-
-* [Implementing Pooled-Sample Analysis and Contact Tracing Systems](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_29.md)
-
 ## Category to which it belongs
 
 * [Individuals with ownership, control, or responsibility over various properties, businesses, data, or belongings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_263.md)
@@ -34,6 +30,10 @@
 * [Public places as informative nodes in the city](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_269.md)
 * [Restrictions on shared facilities in public places](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_272.md)
 * [Temporary regulations to monitor and restrict certain activities in public places](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_265.md)
+
+## This stakeholders can act on the following general blueprint(s)
+
+* [Implementing Pooled-Sample Analysis and Contact Tracing Systems](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_29.md)
 
 ## Type of the stakeholder
 

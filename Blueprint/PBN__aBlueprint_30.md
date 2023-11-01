@@ -42,6 +42,14 @@
 * [Name-and-shame or prosecute anti-social activities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1680.md)
 * [Strong data encryption, secure data storage, consent-based data sharing.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5163.md)
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Data handlers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
+* [Data scientists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_706.md)
+* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_742.md)
+* [Regulatory bodies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_625.md)
+* [Wearable device manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1427.md)
+
 ## 6. Blueprint links to these benefits
 
 * [Early detection of covid-19](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_988.md)
@@ -59,12 +67,4 @@
 * [Reverse transcriptase quantitative polymerase chain reaction rt-qpcr](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_277.md)
 * [Sequencing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2398.md)
 * [Sewage monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3517.md)
-
-## This stakeholders can act on the following general blueprint(s)
-
-* [Data handlers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
-* [Data scientists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_706.md)
-* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_742.md)
-* [Regulatory bodies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_625.md)
-* [Wearable device manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1427.md)
 

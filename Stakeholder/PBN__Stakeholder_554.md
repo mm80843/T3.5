@@ -2,10 +2,6 @@
 
 # __Social media platforms__
 
-## 5. Blueprint mitigation can be owned by these stakeholders
-
-* [Implementing Contagious Disease Prevention](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_34.md)
-
 ## Category to which it belongs
 
 * [A diverse range of individuals and groups involved in various fields, research, projects, media, teams, and organizations.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_241.md)
@@ -47,6 +43,10 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Social media](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1807.md)
+
+## This stakeholders can act on the following general blueprint(s)
+
+* [Implementing Contagious Disease Prevention](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_34.md)
 
 ## Type of the stakeholder
 

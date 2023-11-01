@@ -2,10 +2,6 @@
 
 # __Government regulators__
 
-## 5. Blueprint mitigation can be owned by these stakeholders
-
-* [Implementing UVGI Systems to Combat Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_46.md)
-
 ## Category to which it belongs
 
 * [Public and governmental entities at various levels, including policy makers, governments, and citizens.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_242.md)
@@ -37,6 +33,10 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Government and authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1614.md)
+
+## This stakeholders can act on the following general blueprint(s)
+
+* [Implementing UVGI Systems to Combat Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_46.md)
 
 ## Type of the stakeholder
 

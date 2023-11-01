@@ -42,6 +42,14 @@
 * [Pooled-sample analysis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2036.md)
 * [Prioritize essential research and monitoring activities, develop remote monitoring techniques, enhance capacity-building efforts](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1021.md)
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Diagnostic test manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
+* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_216.md)
+* [Government authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_302.md)
+* [Healthcare organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_766.md)
+* [Public place owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1388.md)
+
 ## 6. Blueprint links to these benefits
 
 * [Early detection of covid-19](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_988.md)
@@ -60,12 +68,4 @@
 * [Wastewater analysis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3129.md)
 * [Wastewater sampling](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3130.md)
 * [Wastewater testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_277.md)
-
-## This stakeholders can act on the following general blueprint(s)
-
-* [Diagnostic test manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
-* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_216.md)
-* [Government authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_302.md)
-* [Healthcare organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_766.md)
-* [Public place owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1388.md)
 

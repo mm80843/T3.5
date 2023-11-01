@@ -2,10 +2,6 @@
 
 # __Mental health organizations__
 
-## 5. Blueprint mitigation can be owned by these stakeholders
-
-* [Implementing Mental Health Mitigation Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_3.md)
-
 ## Category to which it belongs
 
 * [A collection of diverse entities devoted to various causes, including mental and physical health, business, research, conservation, and social welfare.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_250.md)
@@ -45,6 +41,10 @@
 * [Psychological risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1558.md)
 * [Restriction in delivery capability for pfa interventions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2219.md)
 * [Risk of mental health issues during and after a pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2220.md)
+
+## This stakeholders can act on the following general blueprint(s)
+
+* [Implementing Mental Health Mitigation Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_3.md)
 
 ## Type of the stakeholder
 

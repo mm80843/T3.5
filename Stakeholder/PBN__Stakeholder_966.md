@@ -2,10 +2,6 @@
 
 # __Staff trainers__
 
-## 5. Blueprint mitigation can be owned by these stakeholders
-
-* [Implementing Contagious Disease Containment Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_42.md)
-
 ## Category to which it belongs
 
 * [Variety of personnel involved in different roles, such as contractors, staff, administrators, technicians, and professionals in specific fields.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_260.md)
@@ -26,6 +22,10 @@
 ## Risks that can be mitigated by this stakeholder
 
 * [Lack of personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1490.md)
+
+## This stakeholders can act on the following general blueprint(s)
+
+* [Implementing Contagious Disease Containment Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_42.md)
 
 ## Type of the stakeholder
 

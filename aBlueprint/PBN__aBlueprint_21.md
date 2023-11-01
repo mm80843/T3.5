@@ -42,6 +42,14 @@
 * [Strengthen wildlife trade regulations, enhance law enforcement efforts, raise public awareness on wildlife conservation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2221.md)
 * [Water circulation and aeration, mosquito control measures, public education on mosquito prevention](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2192.md)
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [City governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_0.md)
+* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_222.md)
+* [Public health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
+* [Public health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_354.md)
+* [Vector control agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1064.md)
+
 ## 6. Blueprint links to these benefits
 
 * [Increase in public knowledge](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_79.md)
@@ -59,12 +67,4 @@
 * [Information dissemination](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2486.md)
 * [Insecticide-treated screens](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2760.md)
 * [Media](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2762.md)
-
-## This stakeholders can act on the following general blueprint(s)
-
-* [City governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_0.md)
-* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_222.md)
-* [Public health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
-* [Public health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_354.md)
-* [Vector control agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1064.md)
 

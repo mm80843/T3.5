@@ -2,12 +2,6 @@
 
 # __Healthcare providers__
 
-## 5. Blueprint mitigation can be owned by these stakeholders
-
-* [Implementing Infectious Disease Control Measures within Sustainable Urban Developments](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_3.md)
-* [Implementing Mental Health Mitigation Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_11.md)
-* [Implementing Vaccination Strategies and Awareness Campaigns](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_22.md)
-
 ## Category to which it belongs
 
 * [The various individuals and entities involved in the provision and administration of healthcare services and systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_240.md)
@@ -198,6 +192,12 @@
 * [Secure data sharing and transparency](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_956.md)
 * [Support for life-saving equipment](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1169.md)
 * [Tracking antimicrobial usage](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1226.md)
+
+## This stakeholders can act on the following general blueprint(s)
+
+* [Implementing Infectious Disease Control Measures within Sustainable Urban Developments](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_3.md)
+* [Implementing Mental Health Mitigation Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_11.md)
+* [Implementing Vaccination Strategies and Awareness Campaigns](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_22.md)
 
 ## Type of the stakeholder
 

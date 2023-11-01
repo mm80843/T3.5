@@ -42,6 +42,14 @@
 * [Provide mental health support services, promote self-care practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2315.md)
 * [Provision of mental health support services, promoting social connections, and addressing stigma around mental health.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1610.md)
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_121.md)
+* [Healthcare providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
+* [Mental health organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_789.md)
+* [Mental health professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_368.md)
+* [Support organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_603.md)
+
 ## 6. Blueprint links to these benefits
 
 * [Improved health and well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_11.md)
@@ -59,12 +67,4 @@
 * [Parks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2388.md)
 * [Social distancing rule](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3615.md)
 * [Water features](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3616.md)
-
-## This stakeholders can act on the following general blueprint(s)
-
-* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_121.md)
-* [Healthcare providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
-* [Mental health organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_789.md)
-* [Mental health professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_368.md)
-* [Support organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_603.md)
 

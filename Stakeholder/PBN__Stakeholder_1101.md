@@ -2,10 +2,6 @@
 
 # __Building management__
 
-## 5. Blueprint mitigation can be owned by these stakeholders
-
-* [Implementing Advanced Tech and Anti-Microbial Materials to Mitigate Contagious Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_47.md)
-
 ## Category to which it belongs
 
 * [Managers responsible for overseeing various aspects of facilities and operations, including supply chain, construction projects, healthcare, property, and crisis.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_255.md)
@@ -71,6 +67,10 @@
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 
+
+## This stakeholders can act on the following general blueprint(s)
+
+* [Implementing Advanced Tech and Anti-Microbial Materials to Mitigate Contagious Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_47.md)
 
 ## Type of the stakeholder
 

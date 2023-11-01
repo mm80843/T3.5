@@ -2,10 +2,6 @@
 
 # __Nan__
 
-## 5. Blueprint mitigation can be owned by these stakeholders
-
-* [Implementing Acoustic Design and Soundproofing Measures to Mitigate Noise Pollution Risks](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_16.md)
-
 ## Category to which it belongs
 
 * [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_262.md)
@@ -675,6 +671,10 @@
 * [In indoor air](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1324.md)
 * [On contact surfaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1193.md)
 * [Reasoning](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1235.md)
+
+## This stakeholders can act on the following general blueprint(s)
+
+* [Implementing Acoustic Design and Soundproofing Measures to Mitigate Noise Pollution Risks](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_16.md)
 
 ## Type of the stakeholder
 

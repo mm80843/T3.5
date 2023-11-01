@@ -42,6 +42,14 @@
 * [Install devices to control sliding doors and prevent unintended door opening in aiirs, especially for patients with mental illness or delirium](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2176.md)
 * [Provide financial support to affected individuals and businesses, maintain access to essential services.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2187.md)
 
+## 5. Blueprint mitigation can be owned by these stakeholders
+
+* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
+* [Hospital administration](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_566.md)
+* [Local governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1273.md)
+* [Ministry of commerce](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1279.md)
+* [Saudi government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_797.md)
+
 ## 6. Blueprint links to these benefits
 
 * [Energy efficiency improvement](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1020.md)
@@ -56,12 +64,4 @@
 * [Remote working technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2965.md)
 * [Technology devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3395.md)
 * [Telecommunication technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_548.md)
-
-## This stakeholders can act on the following general blueprint(s)
-
-* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
-* [Hospital administration](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_566.md)
-* [Local governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1273.md)
-* [Ministry of commerce](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1279.md)
-* [Saudi government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_797.md)
 
