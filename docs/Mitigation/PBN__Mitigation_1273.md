@@ -1,0 +1,29 @@
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1273 
+
+# __Proper disposal of ppe__
+
+## Category to which it belongs
+
+* [Enhancing water and waste management through surveillance, treatment, and improved infrastructure to ensure environmental hygiene and public health.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_50.md)
+
+## Closest similar item
+
+* [Ppe usage and disposal protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3131.md)
+* [Stocking up on ppe supplies, establishing protocols for ppe usage and disposal.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2562.md)
+* [Providing appropriate ppe, training individuals on correct usage and disposal](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1761.md)
+* [Ppe usage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4888.md)
+* [Increase production and distribution of ppe, implement reuse and recycling strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3108.md)
+* [Educate healthcare workers on proper use and disposal of ppe, provide guidelines and resources.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2439.md)
+* [Increase production and distribution of ppe, implement reuse and recycling programs.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2015.md)
+* [Practical ppe rules](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4478.md)
+* [Provide appropriate ppe and ensure proper usage and maintenance.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1811.md)
+* [Use of personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_376.md)
+
+## Benefits linked to a risk
+
+* [Prevention of cross-contamination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1255.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Environmental contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_923.md)
+

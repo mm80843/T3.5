@@ -1,0 +1,72 @@
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1355 
+
+# __Inadequate tb infection control measures__
+
+## Category to which it belongs
+
+* [The spread of infectious diseases and lack of understanding of transmission mechanisms contribute to the propagation of contagions, posing a global threat.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_5.md)
+
+## Closest similar item
+
+* [Poor infection control practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3397.md)
+* [Insufficient evidence on uvgi as an engineering control for preventing healthcare-associated tuberculosis transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1739.md)
+* [Infection control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2382.md)
+* [Delay in diagnosis and poor infection control practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2355.md)
+* [Low testing frequency in previously infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_864.md)
+* [Infection prevention](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2461.md)
+* [Airborne tb transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_378.md)
+* [Inadequate vaccine efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1888.md)
+* [Lack of knowledge of infection status](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2761.md)
+* [Inadequate vaccination coverage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3186.md)
+
+## Description of the risk
+
+Lack of effective measures to prevent the transmission of TB in healthcare facilities
+
+## Type of the risk
+
+* [Physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Is the risk affecting GBN scales
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/ISO/PBN__ISO_Scale_1.md)
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/ISO/PBN__ISO_Purpose_0.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/ISO/PBN__ISO_Impact_2.md)
+
+## Mitigations of this risk
+
+* [Implement administrative control measures, environmental control measures, and personal respiratory protection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1856.md)
+
+## Name of the risk
+
+Increased risk of TB transmission, leading to outbreaks and increased disease burden
+
+## Stakeholders who can mitigate this risk
+
+* [Government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+* [Healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
+* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
+
+## Articles mentionning the risk
+
+* [Upper-Room Ultraviolet Light and Negative Air Ionization to Prevent Tuberculosis Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_105.md)
+
+## People affected by this risk
+
+* [Healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
+* [Patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
+* [Visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_118.md)
+
+## Technologies linked to the risk
+
+
+## Property: has_RiskType
+
+* [Health](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_4.md)
+

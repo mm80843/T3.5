@@ -1,0 +1,33 @@
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1197 
+
+# __Uvgi systems for air disinfection__
+
+## Category to which it belongs
+
+* [Implementation of comprehensive and rigorous cleaning, disinfection, and sanitation practices to ensure effective and efficient pathogen eradication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_70.md)
+
+## Closest similar item
+
+* [Uvgi disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5263.md)
+* [Uv air disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_448.md)
+* [Implement air disinfection technologies such as uvgi, bipolar ionization, or photocatalytic oxidation. regularly clean and disinfect surfaces.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2308.md)
+* [Use uvgi systems in air ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1641.md)
+* [Germicidal uv air disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4319.md)
+* [Uv disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4023.md)
+* [Consider alternative infection control technologies, such as laminar airflow, before using uvgi systems in operating rooms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2325.md)
+* [Air disinfection strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_993.md)
+* [Use computational fluid dynamics cfd to assess the limitations of the upper-room uvgi system in disinfecting larger aerosol particles](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1624.md)
+* [Uv light disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3589.md)
+
+## Blueprints with this mitigation
+
+* [Installing uv in ductwork](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_10.md)
+
+## Benefits linked to a risk
+
+* [Reduced airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_994.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Possible pathways of sars-cov-2 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_875.md)
+

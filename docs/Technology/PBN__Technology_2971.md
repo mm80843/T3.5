@@ -1,0 +1,25 @@
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2971 
+
+# __Restrictive measures__
+
+## Category to which it belongs
+
+* [Enforcement, regulation, and policy measures are implemented to ensure compliance, ethical standards, and effective governance.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_137.md)
+
+## Closest similar item
+
+* [Policy measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2974.md)
+* [Regulatory measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2596.md)
+* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_231.md)
+* [Access control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_327.md)
+* [Enforcement and regulation measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2219.md)
+* [Enforcement of mitigation measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1148.md)
+* [Accessibility measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3481.md)
+* [Compliance measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1644.md)
+* [Inclusive policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1804.md)
+* [Neighborhood control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3507.md)
+
+## This Technology enables the following mitigations
+
+* [Cordon sanitaire](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3994.md)
+

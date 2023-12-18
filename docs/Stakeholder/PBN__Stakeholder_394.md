@@ -1,0 +1,143 @@
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_394 
+
+# __Health authorities__
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Early detection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_0.md)
+
+## Category to which it belongs
+
+* [A diverse collection of organizations and individuals with specific areas of expertise and jurisdiction.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_189.md)
+
+## Closest similar item
+
+* [Healthcare authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_452.md)
+* [Public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
+* [Local health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1372.md)
+* [Health authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1823.md)
+* [Local health authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1828.md)
+* [Regional health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1.md)
+* [Health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1245.md)
+* [Healthcare authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1844.md)
+* [Government health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_880.md)
+* [Health department](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1447.md)
+
+## Stakeholders in this stakeholder group
+
+* [Healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
+* [Health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_394.md)
+* [Public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_222.md)
+* [Public-health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_513.md)
+* [Public-health agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1842.md)
+* [Public health agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1843.md)
+* [Local health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1372.md)
+* [Healthcare authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_452.md)
+* [Local health authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1828.md)
+* [Health authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1823.md)
+* [National public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1837.md)
+* [Healthcare researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1164.md)
+* [Scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_46.md)
+* [Healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_193.md)
+* [Clinical laboratories](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1380.md)
+* [Clinical laboratory](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1824.md)
+* [Clinicians](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_274.md)
+* [Clinician](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1845.md)
+* [Health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_422.md)
+* [Healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
+* [Healthcare institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_269.md)
+* [Hospital patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1057.md)
+* [Hospital patient](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1853.md)
+* [Healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
+* [Healthcare professional](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1850.md)
+* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
+* [Healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_192.md)
+* [Healthcare facility](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1250.md)
+* [Hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_64.md)
+* [Healthcare institution](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1835.md)
+* [Healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_70.md)
+* [Healthcare researcher](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1854.md)
+* [Scientist](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1840.md)
+* [Scientific community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_348.md)
+* [Hospital](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1469.md)
+* [Hospital administration](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_797.md)
+* [Hospital workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_432.md)
+* [Healthcare worker](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1833.md)
+* [Healthcare staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_139.md)
+* [Healthcare organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1849.md)
+* [Healthcare authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1844.md)
+* [Hospital staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_369.md)
+* [Health care providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_344.md)
+* [Health care provider](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1851.md)
+* [Healthcare agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_541.md)
+* [Healthcare agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1855.md)
+* [Research institutions and public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1838.md)
+* [Research institution and public health authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1827.md)
+* [Hospital management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_239.md)
+* [Health organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1848.md)
+* [Research institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_413.md)
+* [Healthcare managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1193.md)
+* [Healthcare manager](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1826.md)
+* [Hospital administrator](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1846.md)
+* [Hospital administrators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_252.md)
+* [National public health agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1841.md)
+* [Health department](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1447.md)
+* [Research institution](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1832.md)
+* [Health departments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_572.md)
+* [Hospital worker](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1839.md)
+* [Occupational health and safety agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1255.md)
+* [Occupational health and safety agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1852.md)
+* [Social service agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1340.md)
+* [Social service agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1836.md)
+* [Social welfare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_830.md)
+* [Social welfare organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1818.md)
+* [Contact tracing teams](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_757.md)
+* [Contact tracing team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1830.md)
+* [Contact tracing personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1149.md)
+* [Contact tracing agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1821.md)
+* [Contact tracing agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1150.md)
+* [Scientific journals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_968.md)
+* [Scientific journal](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1856.md)
+* [Telepsychiatry platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1499.md)
+* [Telepsychiatry platform](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1829.md)
+* [Social protection agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1565.md)
+* [Social protection agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1847.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Spread of sars-cov-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_642.md)
+* [Importance of social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1152.md)
+* [Covid-19 outbreak impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1425.md)
+* [Challenges with quarantining](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1343.md)
+* [Safety concerns and anxiety among public transport users](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1909.md)
+* [High uncertainty in estimates and predictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1388.md)
+* [Insufficient healthcare preparation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2159.md)
+* [Spread of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_396.md)
+* [Insufficient mass testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1030.md)
+* [Inadequate information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2035.md)
+* [Misinterpretation of preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1810.md)
+* [Risk of contagion in public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1907.md)
+* [Overreliance on data from countries with advanced epidemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1387.md)
+* [Uncertainty in estimating reproduction number](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1386.md)
+* [Inefficient disease identification](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1779.md)
+* [Under-ascertainment of infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1383.md)
+* [Risk of high fatality rate in vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1370.md)
+* [Risk of asymptomatic transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1369.md)
+* [Aspecific and uncontrolled fears related to infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2030.md)
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2037.md)
+* [Guidelines for funerals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1344.md)
+* [Lag between infection and death](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1384.md)
+* [False sense of security from preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1812.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_394.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_222.md)
+
+## Risk affecting this stakeholder
+
+* [Insufficient healthcare preparation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2159.md)
+

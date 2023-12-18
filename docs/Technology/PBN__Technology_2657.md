@@ -1,0 +1,25 @@
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2657 
+
+# __Suitable materials__
+
+## Category to which it belongs
+
+* [Innovative, green, and biodegradable materials used in construction, soundproofing, insulation, and education promote sustainability and safety.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_125.md)
+
+## Closest similar item
+
+* [Better materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2014.md)
+* [Advanced materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_180.md)
+* [Natural materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3390.md)
+* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2255.md)
+* [Lightweight materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3671.md)
+* [Eco-friendly materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2012.md)
+* [Sustainable materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3440.md)
+* [Living materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3887.md)
+* [Building material technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1107.md)
+* [Advanced building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2261.md)
+
+## This Technology enables the following mitigations
+
+* [Re-appropriation of the basic principles and archetypes of sustainable architecture, thermal comfort and indoor air quality iaq](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_801.md)
+

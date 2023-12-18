@@ -1,0 +1,71 @@
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1681 
+
+# __Inefficient ventilation__
+
+## Category to which it belongs
+
+* [Insufficient air flow and ventilation pose risks to respiratory health in various settings, leading to challenges and concerns.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_43.md)
+
+## Closest similar item
+
+* [Inefficient ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1726.md)
+* [Inadequate ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_713.md)
+* [Inadequate natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_275.md)
+* [Poor ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1418.md)
+* [Inadequate ventilation and airflow management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2023.md)
+* [Poor ventilation and air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2693.md)
+* [Inadequate ventilation systems in workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_438.md)
+* [Inadequate ventilation in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1431.md)
+* [Lack of proper ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1563.md)
+* [Inadequate ventilation in public buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1758.md)
+
+## Description of the risk
+
+Insufficient or ineffective ventilation systems can increase the risk of airborne transmission of diseases.
+
+## Type of the risk
+
+* [Physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Is the risk affecting GBN scales
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/ISO/PBN__ISO_Scale_0.md)
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/ISO/PBN__ISO_Purpose_0.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/ISO/PBN__ISO_Impact_1.md)
+
+## Mitigations of this risk
+
+* [Install proper ventilation systems and increase ventilation rates.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2250.md)
+
+## Name of the risk
+
+Increased risk of infection transmission and compromised patient safety.
+
+## Stakeholders who can mitigate this risk
+
+* [Hospital administrators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_252.md)
+
+## Articles mentionning the risk
+
+* [Emergency Healthcare Facilities: Managing Design in a Post Covid-19 World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_122.md)
+
+## People affected by this risk
+
+* [Patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
+* [Healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
+
+## Technologies linked to the risk
+
+* [Use of air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1043.md)
+* [Upgrading ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1042.md)
+
+## Property: has_RiskType
+
+* [Health](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_4.md)
+

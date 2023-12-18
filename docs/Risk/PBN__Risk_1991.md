@@ -1,0 +1,74 @@
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1991 
+
+# __Social unrest__
+
+## Category to which it belongs
+
+* [The consequences of social distancing include inconsistent recommendations, environmental degradation, prolonged isolation, and social inequalities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_4.md)
+
+## Closest similar item
+
+* [Social issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_708.md)
+* [Economic and social disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1510.md)
+* [Crises](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3223.md)
+* [Economic crisis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_231.md)
+* [Social inequities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2855.md)
+* [Economic instability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2002.md)
+* [Social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2454.md)
+* [Social inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_858.md)
+* [Psychological tensions and social conflicts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_526.md)
+* [Psychological impacts and social tensions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1074.md)
+
+## Description of the risk
+
+Rising inequality, job displacement, and prolonged economic downturns can lead to social unrest and civil unrest.
+
+## Type of the risk
+
+* [Social](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_4.md)
+
+## Is the risk affecting GBN scales
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/ISO/PBN__ISO_Scale_0.md)
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/ISO/PBN__ISO_Purpose_0.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/ISO/PBN__ISO_Impact_1.md)
+
+## Mitigations of this risk
+
+* [Address underlying socioeconomic disparities, promote inclusive economic growth, strengthen social safety nets, and engage in dialogue and reconciliation processes.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2630.md)
+
+## Name of the risk
+
+Political instability, social polarization, and potential breakdown of social order.
+
+## Stakeholders who can mitigate this risk
+
+* [Government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+* [Civil society organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_232.md)
+* [Community leaders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_604.md)
+
+## Articles mentionning the risk
+
+* [Pandemics and Automation: Will the Lost Jobs Come Back?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_98.md)
+
+## People affected by this risk
+
+* [Marginalized communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_22.md)
+* [Disadvantaged populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1343.md)
+
+## Technologies linked to the risk
+
+* [Inclusive economic policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1475.md)
+* [Social safety nets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_527.md)
+* [Dialogue and reconciliation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1476.md)
+
+## Property: has_RiskType
+
+* [Political](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_1.md)
+

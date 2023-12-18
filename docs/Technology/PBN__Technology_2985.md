@@ -1,0 +1,25 @@
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2985 
+
+# __National and local policies__
+
+## Category to which it belongs
+
+* [Efforts to inform and engage the public, promote awareness, influence policies, and foster community involvement.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_124.md)
+
+## Closest similar item
+
+* [Government policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1851.md)
+* [Government policies and guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3698.md)
+* [Policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_480.md)
+* [Policy measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2974.md)
+* [Community policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2394.md)
+* [Policy and regulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2980.md)
+* [Inclusive policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1804.md)
+* [Economic policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_804.md)
+* [City governments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_338.md)
+* [Policy changes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_443.md)
+
+## This Technology enables the following mitigations
+
+* [Multi-scalar governance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_61.md)
+
