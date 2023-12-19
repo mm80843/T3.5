@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1046 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1046 
 
 # __Scalability and performance limitations of model-based solutions for pandemic data__
 
@@ -29,7 +29,7 @@ Inability to handle large-scale and real-time data for accurate modeling and ana
 
 ## Is the risk affecting GBN scales
 
-* [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_0.md)
 
 ## Mitigations of this risk
 
@@ -42,25 +42,25 @@ Inaccurate and delayed insights into pandemic spread and management
 ## People affected by this risk
 
 * [Healthcare professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
-* [Policymakers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_32.md)
-* [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_126.md)
+* [Policymakers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_126.md)
+* [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_32.md)
 
 ## Stakeholders who can mitigate this risk
 
 * [Healthcare professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
-* [Policymakers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_32.md)
-* [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_126.md)
+* [Policymakers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_126.md)
+* [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_32.md)
 
 ## Technologies linked to the risk
 
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_8.md)
+* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_8.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_4.md)
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_4.md)
 
 ## Type of the risk
 

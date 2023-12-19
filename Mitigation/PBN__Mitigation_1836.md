@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1836 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1836 
 
 # __Strengthen governance structures, promote transparency and accountability, and invest in strong leadership__
 

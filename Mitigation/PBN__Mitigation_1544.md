@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1544 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1544 
 
 # __Invest in training and education programs, promote interdisciplinary collaboration.__
 

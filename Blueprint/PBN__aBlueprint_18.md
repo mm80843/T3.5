@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__aBlueprint_18 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/pages/docs/Blueprint/index.md) >> Individual ID:PBN__aBlueprint_18 
 
 # __Implementing Drainage System Improvements and PCR Protocol Standardization to Mitigate Disease Spread__
 
@@ -29,40 +29,40 @@
 
 ## 3. Blueprint impacts these stakeholders
 
-* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_222.md)
-* [Laboratory personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
-* [Public health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_688.md)
-* [Researchers in wastewater analysis](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_329.md)
+* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
+* [Laboratory personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_222.md)
+* [Public health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_329.md)
+* [Researchers in wastewater analysis](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_688.md)
 * [Water utilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_689.md)
 
 ## 4. Blueprint links to these mitigations
 
-* [Develop a systematic procedure and checklist for site selection to avoid areas with open water bodies.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_877.md)
-* [Implement proper drainage systems and regular maintenance of water systems to prevent the formation of stagnant water pools.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2418.md)
-* [Improve the level of central air filters, at least to the grade of merv-13, and seal the edges of the filter to limit bypass.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2415.md)
-* [Reduction in traffic volumes](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_814.md)
+* [Develop a systematic procedure and checklist for site selection to avoid areas with open water bodies.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2418.md)
+* [Implement proper drainage systems and regular maintenance of water systems to prevent the formation of stagnant water pools.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2415.md)
+* [Improve the level of central air filters, at least to the grade of merv-13, and seal the edges of the filter to limit bypass.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_814.md)
+* [Reduction in traffic volumes](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_877.md)
 * [Standardization of pcr platforms and protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1934.md)
 
 ## 5. Blueprint mitigation can be owned by these stakeholders
 
 * [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
-* [Laboratory personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_688.md)
+* [Laboratory personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
 * [Regulatory authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1293.md)
-* [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
-* [Water utilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_329.md)
+* [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_329.md)
+* [Water utilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_688.md)
 
 ## 6. Blueprint links to these benefits
 
-* [Improved air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_360.md)
-* [Indication of virus circulation in the human population](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_192.md)
-* [Removal of particles](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_314.md)
+* [Improved air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_192.md)
+* [Indication of virus circulation in the human population](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_314.md)
+* [Removal of particles](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_360.md)
 
 ## 7. Blueprint links to these technology
 
-* [Air filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3066.md)
-* [Disinfection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3067.md)
-* [Filters merv 7 and merv 14](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3129.md)
-* [Hepa filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3130.md)
+* [Air filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
+* [Disinfection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3066.md)
+* [Filters merv 7 and merv 14](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3067.md)
+* [Hepa filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3129.md)
 * [Quantitative rt-pcr methodology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_672.md)
 * [Rt-qpcr assay](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1109.md)
 * [Safe management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_833.md)

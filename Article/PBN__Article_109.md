@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_109 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_109 
 
 # __COVID-19 and the UN Sustainable Development Goals: Threat to Solidarity or an Opportunity?__
 
@@ -51,23 +51,23 @@ The COVID-19 pandemic has had a big impact on the world. Many countries are stru
 
 ## This article points to following mitigation
 
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4056.md)
-* [Crowd control measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_865.md)
-* [Disinfection of surfaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
-* [Economic support and aid](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4053.md)
-* [Enhanced ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3123.md)
-* [Face masks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_564.md)
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4060.md)
-* [Health system strengthening](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3329.md)
-* [International collaboration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
-* [Ppe distribution](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4051.md)
-* [Public health campaigns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3332.md)
-* [Quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_607.md)
-* [Remote work and online education](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4052.md)
-* [Research and development](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4057.md)
-* [Resilient supply chains](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4059.md)
-* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_987.md)
-* [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3247.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Crowd control measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3329.md)
+* [Disinfection of surfaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3123.md)
+* [Economic support and aid](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_564.md)
+* [Enhanced ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3247.md)
+* [Face masks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3332.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4056.md)
+* [Health system strengthening](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_865.md)
+* [International collaboration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4053.md)
+* [Ppe distribution](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4060.md)
+* [Public health campaigns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
+* [Quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4051.md)
+* [Remote work and online education](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_607.md)
+* [Research and development](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4052.md)
+* [Resilient supply chains](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4057.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4059.md)
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_987.md)
 * [Testing and early detection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4058.md)
 * [Travel restrictions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4054.md)
 * [Vaccination](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4055.md)

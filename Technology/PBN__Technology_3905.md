@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3905 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_3905 
 
 # __Design & construction software bim__
 
@@ -21,9 +21,9 @@
 
 ## Link between Blueprint and General ontology
 
-* [Design & Construction software (BIM)](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_27.md)
+* [Design & Construction software (BIM)](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_27.md)
 
 ## This is also an enabler
 
-* [Design & Construction software (BIM)](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_27.md)
+* [Design & Construction software (BIM)](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_27.md)
 

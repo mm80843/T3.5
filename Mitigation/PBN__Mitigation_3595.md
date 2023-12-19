@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3595 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3595 
 
 # __Timely and high-quality evidence__
 
@@ -25,8 +25,8 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Clinical trial data](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2423.md)
-* [Data mining](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2694.md)
+* [Clinical trial data](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2694.md)
+* [Data mining](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2423.md)
 * [Ehrs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2695.md)
 * [Observational datasets](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2696.md)
 * [Public epidemiological data](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2697.md)

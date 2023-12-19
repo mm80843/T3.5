@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_877 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_877 
 
 # __Surveillance and privacy concerns__
 
@@ -33,7 +33,7 @@ Increased use of surveillance technologies in the smart city may infringe upon i
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Mitigations of this risk
 
@@ -52,8 +52,8 @@ Loss of privacy, potential misuse of personal data, erosion of civil liberties
 ## Stakeholders who can mitigate this risk
 
 * [Civil society organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_973.md)
-* [Government bodies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_232.md)
-* [Technology companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_717.md)
+* [Government bodies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_717.md)
+* [Technology companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_232.md)
 
 ## Technologies linked to the risk
 
@@ -62,11 +62,11 @@ Loss of privacy, potential misuse of personal data, erosion of civil liberties
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Community infrastructures](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_9.md)
+* [Community infrastructures](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_9.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Mobility](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_14.md)
+* [Mobility](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_14.md)
 
 ## Type of the risk
 

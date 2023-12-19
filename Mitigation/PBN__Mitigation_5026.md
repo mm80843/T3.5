@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_5026 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_5026 
 
 # __Promoting awareness and education__
 
@@ -25,8 +25,8 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Educational materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_493.md)
-* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
+* [Educational materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
+* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_493.md)
 
 ## Property: has_MitigationPrinciple
 

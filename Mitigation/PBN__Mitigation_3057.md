@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3057 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3057 
 
 # __Conduct comprehensive phylogenetic analysis to identify the original host animal of sars-cov-2.__
 

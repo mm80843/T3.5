@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_2130 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_2130 
 
 # __Lack of redundancy in supply chains__
 
@@ -29,7 +29,7 @@ Overdependence on specialized supply chains leads to shortages of critical healt
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Mitigations of this risk
 
@@ -56,11 +56,11 @@ Inadequate response to shocks and increased vulnerability
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Community infrastructures](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_9.md)
+* [Community infrastructures](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_9.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_4.md)
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_4.md)
 
 ## Type of the risk
 

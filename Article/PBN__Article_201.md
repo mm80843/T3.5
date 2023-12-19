@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_201 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_201 
 
 # __COVID19-Routes: A Safe Pedestrian Navigation Service__
 
@@ -54,8 +54,8 @@ COVID19-routes is a safe navigation service for pedestrians in cities that helps
 
 ## This article points to following mitigation
 
-* [Capacity limitations, lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3420.md)
-* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3123.md)
+* [Capacity limitations, lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3123.md)
+* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3420.md)
 * [Crowdsourced smartphone data](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3417.md)
 * [Curfews](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3159.md)
 * [Field hospitals](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3284.md)

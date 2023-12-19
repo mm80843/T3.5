@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [RiskHealth](https://github.com/mm80843/T3.5/tree/main/docs/RiskHealth/index.md) >> Individual ID:PBN__RiskHealth_2 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [RiskHealth](https://github.com/mm80843/T3.5/tree/pages/docs/RiskHealth/index.md) >> Individual ID:PBN__RiskHealth_2 
 
 # __Other__
 
@@ -234,11 +234,11 @@
 * [Unclear origin of sars-cov-2](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1865.md)
 * [Under-notification of cases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1205.md)
 * [Undetected sars-cov-2 in wastewater](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1260.md)
-* [Unemployment and underemployment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2245.md)
-* [Unequal impact on the educational outcomes of children of immigrants](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1710.md)
-* [Unknown effects of policies on infection rates](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1712.md)
+* [Unemployment and underemployment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1710.md)
+* [Unequal impact on the educational outcomes of children of immigrants](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1712.md)
+* [Unknown effects of policies on infection rates](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2253.md)
 * [Visible costs of policies versus unseen health benefits](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1980.md)
-* [Weaknesses in smart city governance models](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2253.md)
-* [Workplace productivity decrease](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2370.md)
-* [Zoonotic infections](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2238.md)
+* [Weaknesses in smart city governance models](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2238.md)
+* [Workplace productivity decrease](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2245.md)
+* [Zoonotic infections](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2370.md)
 

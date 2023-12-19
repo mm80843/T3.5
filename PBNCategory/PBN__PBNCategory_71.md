@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_71 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/pages/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_71 
 
 # __The fragmented and non-interoperable nature of data and knowledge, along with the lack of bioinformatics tools and data integration, hinder effective data management and sharing, leading to limitations in analysis, communication, and decision-making.__
 

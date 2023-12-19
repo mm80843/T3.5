@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3761 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3761 
 
 # __Personal protective measures__
 
@@ -25,8 +25,8 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Hand sanitizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1051.md)
-* [Masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_410.md)
+* [Hand sanitizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_410.md)
+* [Masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1051.md)
 * [Personal protective equipment masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2404.md)
 
 ## Property: has_MitigationPrinciple

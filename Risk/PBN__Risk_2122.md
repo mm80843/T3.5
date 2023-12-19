@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_2122 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_2122 
 
 # __Inadequate social distancing__
 
@@ -29,7 +29,7 @@ Difficulty maintaining social distancing with multiple students in a classroom
 
 ## Is the risk affecting GBN scales
 
-* [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_0.md)
 
 ## Mitigations of this risk
 
@@ -41,9 +41,9 @@ Increased risk of disease transmission and outbreaks
 
 ## People affected by this risk
 
-* [Faculty](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_101.md)
-* [Staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_134.md)
-* [Students](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_103.md)
+* [Faculty](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_103.md)
+* [Staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_101.md)
+* [Students](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_134.md)
 
 ## Stakeholders who can mitigate this risk
 
@@ -56,11 +56,11 @@ Increased risk of disease transmission and outbreaks
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Safety and security](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_5.md)
+* [Safety and security](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_5.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_3.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_3.md)
 
 ## Type of the risk
 

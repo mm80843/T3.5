@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1466 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1466 
 
 # __Decreased collaboration and social interaction__
 
@@ -29,7 +29,7 @@ Reduction in collaboration and social interaction within the workplace and commu
 
 ## Is the risk affecting GBN scales
 
-* [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_0.md)
 
 ## Mitigations of this risk
 
@@ -41,8 +41,8 @@ Lowered team morale, reduced creativity and innovation, decreased employee satis
 
 ## People affected by this risk
 
-* [Communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_4.md)
-* [Employees](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_220.md)
+* [Communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_220.md)
+* [Employees](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_4.md)
 * [Teams](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_363.md)
 
 ## Stakeholders who can mitigate this risk
@@ -57,11 +57,11 @@ Lowered team morale, reduced creativity and innovation, decreased employee satis
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_0.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_1.md)
+* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_1.md)
 
 ## Type of the risk
 

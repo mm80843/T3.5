@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1819 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1819 
 
 # __Concentration of suppliers__
 
@@ -29,7 +29,7 @@ High concentration of suppliers in GVCs can lead to disruptions in the supply ch
 
 ## Is the risk affecting GBN scales
 
-* [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_0.md)
 
 ## Mitigations of this risk
 
@@ -41,15 +41,15 @@ Increased risk of supply chain disruptions and limited flexibility in switching 
 
 ## People affected by this risk
 
-* [Businesses](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_389.md)
-* [Countries heavily reliant on specific suppliers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_147.md)
+* [Businesses](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_147.md)
+* [Countries heavily reliant on specific suppliers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_389.md)
 * [Industries](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1239.md)
 
 ## Stakeholders who can mitigate this risk
 
 * [Businesses](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
-* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_389.md)
-* [Industries](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_147.md)
+* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_147.md)
+* [Industries](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_389.md)
 
 ## Technologies linked to the risk
 
@@ -57,11 +57,11 @@ Increased risk of supply chain disruptions and limited flexibility in switching 
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_4.md)
+* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_4.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
+* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_2.md)
 
 ## Type of the risk
 

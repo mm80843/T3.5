@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__aBlueprint_16 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/pages/docs/Blueprint/index.md) >> Individual ID:PBN__aBlueprint_16 
 
 # __Implementing Acoustic Design and Soundproofing Measures to Mitigate Noise Pollution Risks__
 
@@ -28,41 +28,41 @@
 
 ## 3. Blueprint impacts these stakeholders
 
-* [Employees](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_83.md)
-* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
+* [Employees](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
+* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_118.md)
 * [Occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_92.md)
-* [Visitors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_118.md)
+* [Visitors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_83.md)
 
 ## 4. Blueprint links to these mitigations
 
-* [Acoustic design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1304.md)
-* [Implement noise reduction measures, regulate noise levels in urban areas, promote soundproofing measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2476.md)
-* [Reduced noise levels](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1565.md)
-* [Sound insulation, use of acoustic materials, noise control measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_185.md)
-* [Soundproofing, noise barriers, acoustic design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2456.md)
+* [Acoustic design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1565.md)
+* [Implement noise reduction measures, regulate noise levels in urban areas, promote soundproofing measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2456.md)
+* [Reduced noise levels](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_185.md)
+* [Sound insulation, use of acoustic materials, noise control measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2476.md)
+* [Soundproofing, noise barriers, acoustic design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1304.md)
 
 ## 5. Blueprint mitigation can be owned by these stakeholders
 
-* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_83.md)
-* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
-* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
-* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
+* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
+* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
+* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
+* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
 
 ## 6. Blueprint links to these benefits
 
-* [Improved asset value](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_29.md)
-* [Prevention of viral transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_631.md)
+* [Improved asset value](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_631.md)
+* [Prevention of viral transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_29.md)
 * [Reduced infection risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1120.md)
 
 ## 7. Blueprint links to these technology
 
-* [Ai](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_340.md)
-* [Blockchain technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_341.md)
-* [Disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_278.md)
-* [Face masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
-* [Floor markings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_211.md)
-* [Hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_277.md)
-* [Internet](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2454.md)
-* [Iot](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_185.md)
-* [Physical barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_411.md)
+* [Ai](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
+* [Blockchain technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_358.md)
+* [Disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_185.md)
+* [Face masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_341.md)
+* [Floor markings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_277.md)
+* [Hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2454.md)
+* [Internet](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_211.md)
+* [Iot](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_411.md)
+* [Physical barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_340.md)
 

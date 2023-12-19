@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2123 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_2123 
 
 # __Lighting solutions__
 
@@ -21,8 +21,8 @@
 
 ## This Technology belongs to this TechnologySubgroup
 
-* [Adjustable lighting controls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_140.md)
-* [Light tubes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_141.md)
+* [Adjustable lighting controls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_141.md)
+* [Light tubes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_140.md)
 * [Skylights](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_197.md)
 * [Windows](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_142.md)
 * [Windows with views](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1009.md)

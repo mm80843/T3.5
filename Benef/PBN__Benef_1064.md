@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1064 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/pages/docs/Benef/index.md) >> Individual ID:PBN__Benef_1064 
 
 # __Improved access to clean water and sanitation__
 
@@ -24,6 +24,6 @@ Reduced risk of infectious diseases and improved health
 
 ## Stakeholders benefitting from this Benefit
 
-* [Communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_4.md)
-* [Vulnerable populations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_127.md)
+* [Communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_127.md)
+* [Vulnerable populations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_4.md)
 

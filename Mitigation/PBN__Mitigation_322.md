@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_322 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_322 
 
 # __One-way mobility circulation__
 
@@ -30,8 +30,8 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Physical barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_341.md)
-* [Signage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_230.md)
+* [Physical barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_230.md)
+* [Signage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_341.md)
 
 ## Property: has_MitigationPrinciple
 

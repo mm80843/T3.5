@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_751 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_751 
 
 # __Digital divide and information gap__
 
@@ -29,12 +29,12 @@ Limited internet access, spread of misinformation, lack of critical thinking
 
 ## Is the risk affecting GBN scales
 
-* [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_0.md)
 
 ## Mitigations of this risk
 
-* [Bridge the digital divide](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1037.md)
-* [Improve internet access, education on critical thinking, combat misinformation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1038.md)
+* [Bridge the digital divide](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1038.md)
+* [Improve internet access, education on critical thinking, combat misinformation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1037.md)
 * [Promote media literacy and critical thinking](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2159.md)
 
 ## Name of the risk
@@ -48,8 +48,8 @@ Difficulty in curbing disease spread, acceptance of falsehoods
 ## Stakeholders who can mitigate this risk
 
 * [Educational institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
-* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_66.md)
-* [Media organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_545.md)
+* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_545.md)
+* [Media organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_66.md)
 
 ## Technologies linked to the risk
 
@@ -58,11 +58,11 @@ Difficulty in curbing disease spread, acceptance of falsehoods
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Governance, empowerment and engagement](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_6.md)
+* [Governance, empowerment and engagement](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_6.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
+* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_2.md)
 
 ## Type of the risk
 

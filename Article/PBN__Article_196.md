@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_196 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_196 
 
 # __Toilets dominate environmental detection of SARS-CoV-2 virus in a hospital__
 
@@ -34,10 +34,10 @@ A study was conducted in a hospital in China to understand how the coronavirus s
 
 ## This article mentions these technologies
 
-* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
-* [Biocidal products](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_185.md)
-* [Hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_185.md)
+* [Biocidal products](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
+* [Hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
 * [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_204.md)
 * [Proper training on ppe usage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_505.md)
 * [Regular cleaning and disinfection of toilets](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_506.md)
@@ -48,11 +48,11 @@ A study was conducted in a hospital in China to understand how the coronavirus s
 
 ## This article points to following mitigation
 
-* [Environmental cleaning and disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
-* [Faecal management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3593.md)
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_627.md)
-* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3594.md)
-* [Personal space](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3575.md)
+* [Environmental cleaning and disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3575.md)
+* [Faecal management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3593.md)
+* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_627.md)
+* [Personal space](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3594.md)
 * [Surface cleaning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3592.md)
 * [Ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_242.md)
 

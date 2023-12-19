@@ -1,11 +1,11 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_42 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/pages/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_42 
 
 # __Enhanced connectivity and collaboration fostered by flexible customization and enriched knowledge, communication, coordination, and cooperation.__
 
 ## Items covered in this category
 
-* [Containment of pandemics](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1058.md)
-* [Convenience and communication](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_454.md)
+* [Containment of pandemics](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_454.md)
+* [Convenience and communication](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1058.md)
 * [Data sharing and collaboration](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1231.md)
 * [Empowerment and collaboration](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1230.md)
 * [Enhanced ability to enact coordinated community-level vector control efforts](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1233.md)

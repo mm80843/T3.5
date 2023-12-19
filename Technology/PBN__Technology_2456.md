@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2456 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_2456 
 
 # __Telecommunication technology__
 
@@ -21,9 +21,9 @@
 
 ## This Technology enables the following mitigations
 
-* [Ability to work from home](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3247.md)
-* [Digital transformation and telecommuting](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4467.md)
-* [Home monitoring with wearables](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_832.md)
+* [Ability to work from home](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_832.md)
+* [Digital transformation and telecommuting](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3247.md)
+* [Home monitoring with wearables](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4467.md)
 * [Remote work](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_706.md)
 * [Remote work/telecommuting](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4246.md)
 * [Teleconsultations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4235.md)

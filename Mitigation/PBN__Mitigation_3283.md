@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3283 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3283 
 
 # __Disinfection__
 
@@ -21,7 +21,7 @@
 
 ## Link between Blueprint and General ontology
 
-* [Disinfection of air](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_6.md)
+* [Disinfection of air](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_6.md)
 
 ## Risks possibly mitigated by this Mitigation
 
@@ -32,9 +32,9 @@
 ## This Mitigation is enabled by the following technologies
 
 * [Cleaning agents](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
-* [Cleaning and disinfecting agents](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_204.md)
-* [Disinfectant products](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_411.md)
-* [Disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2682.md)
+* [Cleaning and disinfecting agents](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_411.md)
+* [Disinfectant products](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2682.md)
+* [Disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2451.md)
 * [Uv disinfection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2458.md)
 * [Uv light](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3712.md)
 

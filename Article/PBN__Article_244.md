@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_244 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_244 
 
 # __Home garden use during COVID-19: Associations with physical and mental wellbeing in older adults__
 
@@ -39,8 +39,8 @@ During the COVID-19 pandemic, many people had to stay at home and couldn't go to
 
 ## This article mentions these technologies
 
-* [Air purifiers and ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_421.md)
-* [Drones for monitoring overcrowding](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_426.md)
+* [Air purifiers and ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_426.md)
+* [Drones for monitoring overcrowding](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_421.md)
 * [Financial aid apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_424.md)
 * [Helplines and hotlines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_420.md)
 * [Job search platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_425.md)
@@ -59,10 +59,10 @@ During the COVID-19 pandemic, many people had to stay at home and couldn't go to
 
 ## This article points to following mitigation
 
-* [Access to green space](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3525.md)
-* [Domestic gardens](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3161.md)
-* [Exposure to sunlight](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3529.md)
-* [Interaction with nature](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Access to green space](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Domestic gardens](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3525.md)
+* [Exposure to sunlight](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3161.md)
+* [Interaction with nature](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3529.md)
 * [Lockdown measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_863.md)
 * [Physical exercise](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3526.md)
 * [Public green spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3528.md)

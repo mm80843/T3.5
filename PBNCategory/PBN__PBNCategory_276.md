@@ -1,25 +1,25 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_276 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/pages/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_276 
 
 # __Creators of digital solutions for various purposes, from software and app development to blockchain and ai.__
 
 ## Items covered in this category
 
-* [Ai developer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_223.md)
-* [Ai developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_902.md)
-* [App developer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_635.md)
-* [App developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1546.md)
-* [App user](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1137.md)
-* [App users](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1138.md)
-* [Application developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_786.md)
-* [Blockchain developer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2551.md)
-* [Blockchain developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1569.md)
-* [Community developer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_761.md)
-* [Community developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1553.md)
-* [Developer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1867.md)
-* [Developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1399.md)
-* [Developing countries](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2553.md)
-* [Drug developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1759.md)
-* [Energy modeling software developer and research institution](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1301.md)
+* [Ai developer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_635.md)
+* [Ai developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1301.md)
+* [App developer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1569.md)
+* [App developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_223.md)
+* [App user](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_902.md)
+* [App users](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1546.md)
+* [Application developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1137.md)
+* [Blockchain developer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1138.md)
+* [Blockchain developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_786.md)
+* [Community developer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2551.md)
+* [Community developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_761.md)
+* [Developer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1553.md)
+* [Developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1867.md)
+* [Developing countries](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1399.md)
+* [Drug developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2553.md)
+* [Energy modeling software developer and research institution](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1759.md)
 * [Energy modeling software developers and research institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1920.md)
 * [Mobile app developer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1895.md)
 * [Mobile app developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_878.md)

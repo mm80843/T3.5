@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2191 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_2191 
 
 # __Data privacy__
 
@@ -21,25 +21,25 @@
 
 ## Technology in the TechnologyGroup
 
-* [Access control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
-* [Access control mechanisms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_94.md)
-* [Anonymity](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
-* [Anonymization techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1546.md)
-* [Anonymous data collection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2191.md)
-* [Audit and enforcement mechanisms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_96.md)
-* [Authentication protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_152.md)
-* [Backup systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_100.md)
-* [Biometric identification](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_182.md)
-* [Biometrics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1068.md)
-* [Blockchain](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1069.md)
-* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_820.md)
-* [Cybersecurity protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_95.md)
-* [Cybersecurity training programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1577.md)
-* [Data anonymization](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_315.md)
-* [Data encryption](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_97.md)
-* [Data encryption technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_98.md)
-* [Data governance agreements](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_99.md)
-* [Data governance policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_344.md)
+* [Access control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
+* [Access control mechanisms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_152.md)
+* [Anonymity](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_344.md)
+* [Anonymization techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
+* [Anonymous data collection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_94.md)
+* [Audit and enforcement mechanisms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1546.md)
+* [Authentication protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2191.md)
+* [Backup systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_96.md)
+* [Biometric identification](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_100.md)
+* [Biometrics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_182.md)
+* [Blockchain](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1068.md)
+* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1069.md)
+* [Cybersecurity protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_820.md)
+* [Cybersecurity training programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_95.md)
+* [Data anonymization](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1577.md)
+* [Data encryption](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_315.md)
+* [Data encryption technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_97.md)
+* [Data governance agreements](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_98.md)
+* [Data governance policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_99.md)
 * [Data integration platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_345.md)
 * [Data management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1380.md)
 * [Data privacy](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1576.md)

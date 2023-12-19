@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_22 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_22 
 
 # __Physical interventions to interrupt or reduce the spread of respiratory viruses: systematic review__
 
@@ -32,16 +32,16 @@ Respiratory viruses can cause a lot of sickness and sometimes even lead to death
 
 ## This article mentions these technologies
 
-* [Animal surveillance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_5.md)
-* [Antiviral drug research](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_826.md)
-* [Antivirals](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_835.md)
+* [Animal surveillance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_826.md)
+* [Antiviral drug research](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_833.md)
+* [Antivirals](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_831.md)
 * [Barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_837.md)
-* [Communication technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_827.md)
-* [Disinfection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_828.md)
-* [Distancing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_829.md)
-* [Educational programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_830.md)
-* [Handwashing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_831.md)
-* [Personal hygiene](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_833.md)
+* [Communication technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_5.md)
+* [Disinfection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_835.md)
+* [Distancing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_827.md)
+* [Educational programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_828.md)
+* [Handwashing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_829.md)
+* [Personal hygiene](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_830.md)
 * [Quarantine protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_832.md)
 * [Reporting guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_838.md)
 * [Research methodology improvement](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_839.md)

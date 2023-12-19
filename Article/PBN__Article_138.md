@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_138 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_138 
 
 # __El Rol De Las Redes Sociales En La Pandemia Del Covid-19__
 
@@ -39,11 +39,11 @@ Summary: This study aimed to understand how social networks, like Facebook and I
 
 ## This article points to following mitigation
 
-* [Effective communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4406.md)
-* [Facilitating remote work](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5090.md)
-* [Monitoring social media content](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5089.md)
-* [Promoting online shopping and delivery services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5088.md)
-* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3389.md)
+* [Effective communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3389.md)
+* [Facilitating remote work](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4406.md)
+* [Monitoring social media content](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5090.md)
+* [Promoting online shopping and delivery services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5089.md)
+* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5088.md)
 
 ## Title of the article
 

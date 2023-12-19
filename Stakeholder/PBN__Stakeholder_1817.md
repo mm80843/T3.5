@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1817 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1817 
 
 # __Scientific research__
 
@@ -22,8 +22,8 @@
 ## Stakeholders in this stakeholder subgroup
 
 * [Research institution](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_46.md)
-* [Research institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1840.md)
-* [Scientific community](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_413.md)
+* [Research institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_413.md)
+* [Scientific community](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1840.md)
 * [Scientific journals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_348.md)
 * [Scientist](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1832.md)
 * [Scientists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_968.md)

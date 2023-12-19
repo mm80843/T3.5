@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1095 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1095 
 
 # __Data acquisition and integration__
 
@@ -29,7 +29,7 @@ Heterogeneous data sources transmit data in different forms, making it challengi
 
 ## Is the risk affecting GBN scales
 
-* [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_0.md)
 
 ## Mitigations of this risk
 
@@ -41,15 +41,15 @@ Slower development of AI models, less accurate predictions and diagnoses.
 
 ## People affected by this risk
 
-* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
-* [Healthcare professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
+* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
+* [Healthcare professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
 * [Hospitals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_32.md)
 * [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_64.md)
 
 ## Stakeholders who can mitigate this risk
 
-* [Data scientists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_626.md)
-* [It professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_625.md)
+* [Data scientists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_625.md)
+* [It professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_626.md)
 
 ## Technologies linked to the risk
 
@@ -58,11 +58,11 @@ Slower development of AI models, less accurate predictions and diagnoses.
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Governance, empowerment and engagement](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_6.md)
+* [Governance, empowerment and engagement](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_6.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
+* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_2.md)
 
 ## Type of the risk
 

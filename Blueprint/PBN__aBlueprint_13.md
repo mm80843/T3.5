@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__aBlueprint_13 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/pages/docs/Blueprint/index.md) >> Individual ID:PBN__aBlueprint_13 
 
 # __Implementing Occupancy Controls and Physical Distancing__
 
@@ -29,42 +29,42 @@
 ## 3. Blueprint impacts these stakeholders
 
 * [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
-* [Residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_128.md)
-* [Staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_59.md)
-* [Visitors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_103.md)
-* [Workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_118.md)
+* [Residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_59.md)
+* [Staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_118.md)
+* [Visitors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_128.md)
+* [Workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_103.md)
 
 ## 4. Blueprint links to these mitigations
 
-* [Establish occupancy limits for spaces, provide adequate space and amenities for occupants, promote social distancing measures.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2023.md)
+* [Establish occupancy limits for spaces, provide adequate space and amenities for occupants, promote social distancing measures.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1774.md)
 * [Implement measures to control occupancy and enforce physical distancing rules in the facility](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1784.md)
-* [Provide adequate housing with sufficient space](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1774.md)
-* [Reassess housing unit size to avoid overcrowding and facilitate social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1966.md)
-* [Reduce occupancy rates, enforce physical distancing measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1551.md)
+* [Provide adequate housing with sufficient space](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1966.md)
+* [Reassess housing unit size to avoid overcrowding and facilitate social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1551.md)
+* [Reduce occupancy rates, enforce physical distancing measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2023.md)
 
 ## 5. Blueprint mitigation can be owned by these stakeholders
 
 * [Developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
 * [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_125.md)
-* [Government authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_126.md)
-* [Policymakers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_302.md)
-* [Urban planners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_635.md)
+* [Government authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_635.md)
+* [Policymakers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_126.md)
+* [Urban planners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_302.md)
 
 ## 6. Blueprint links to these benefits
 
-* [Infection prevention](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_262.md)
-* [Reduced infection risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_29.md)
+* [Infection prevention](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_29.md)
+* [Reduced infection risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_262.md)
 * [Reduction in transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_594.md)
 
 ## 7. Blueprint links to these technology
 
-* [Floor markings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_341.md)
-* [Internet-based communication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
-* [Iot](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_277.md)
-* [Physical barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_358.md)
-* [Physical distance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2311.md)
-* [Physical space](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2482.md)
-* [Public awareness and education campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2579.md)
-* [Technology-enabled monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2770.md)
-* [Wearable devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3444.md)
+* [Floor markings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
+* [Internet-based communication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_358.md)
+* [Iot](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_341.md)
+* [Physical barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2579.md)
+* [Physical distance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2482.md)
+* [Physical space](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_277.md)
+* [Public awareness and education campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2770.md)
+* [Technology-enabled monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3444.md)
+* [Wearable devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2311.md)
 

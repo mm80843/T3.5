@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_731 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_731 
 
 # __Contractual problems__
 
@@ -29,12 +29,12 @@ Force majeure, contractual disputes, and delayed projects.
 
 ## Is the risk affecting GBN scales
 
-* [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_0.md)
 
 ## Mitigations of this risk
 
-* [Address force majeure provisions, revise contracts, establish clear communication channels.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1014.md)
-* [Industry-specific working procedures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1790.md)
+* [Address force majeure provisions, revise contracts, establish clear communication channels.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1790.md)
+* [Industry-specific working procedures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1014.md)
 
 ## Name of the risk
 
@@ -59,11 +59,11 @@ Legal disputes, termination of contracts, financial losses.
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_8.md)
+* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_8.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
+* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_2.md)
 
 ## Type of the risk
 

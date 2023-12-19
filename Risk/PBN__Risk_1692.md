@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1692 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1692 
 
 # __Relationship between ah, rh, and temperature__
 
@@ -29,7 +29,7 @@ The relationship between AH, RH, and temperature is complex and interdependent.
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Mitigations of this risk
 
@@ -41,8 +41,8 @@ Lack of understanding of this relationship can lead to improper regulation of AH
 
 ## People affected by this risk
 
-* [Public health authorities are at risk of misinterpreting the relationship between ah](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
-* [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_46.md)
+* [Public health authorities are at risk of misinterpreting the relationship between ah](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_46.md)
+* [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
 * [Rh](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1127.md)
 * [Scientists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1125.md)
 * [Temperature](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1126.md)
@@ -59,11 +59,11 @@ Lack of understanding of this relationship can lead to improper regulation of AH
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Living and working environment](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_1.md)
+* [Living and working environment](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_1.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_6.md)
+* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_6.md)
 
 ## Type of the risk
 

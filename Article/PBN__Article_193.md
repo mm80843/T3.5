@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_193 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_193 
 
 # __A study on office workplace modification during the COVID-19 pandemic in The Netherlands__
 
@@ -49,15 +49,15 @@ During the COVID-19 pandemic, many businesses had to stop working to prevent the
 
 ## This article points to following mitigation
 
-* [Education and training](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_84.md)
-* [Enhanced cleaning and disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Education and training](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Enhanced cleaning and disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3575.md)
 * [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3272.md)
 * [Occupancy limitations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_832.md)
-* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3810.md)
-* [Rapid testing and contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3722.md)
-* [Regular hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3808.md)
-* [Remote work](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3807.md)
-* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3575.md)
+* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_84.md)
+* [Rapid testing and contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3810.md)
+* [Regular hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3722.md)
+* [Remote work](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3808.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3807.md)
 * [Staggered schedules](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3809.md)
 
 ## Title of the article

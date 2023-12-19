@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4747 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4747 
 
 # __Tracing and tracking of infected individuals__
 
@@ -25,15 +25,15 @@
 
 ## Link between Blueprint and General ontology
 
-* [Infection tracking / monitoring](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_29.md)
+* [Infection tracking / monitoring](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_29.md)
 
 ## Risks possibly mitigated by this Mitigation
 
 
 ## This Mitigation is enabled by the following technologies
 
-* [Ai](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_278.md)
-* [Blockchain](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_277.md)
+* [Ai](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_277.md)
+* [Blockchain](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_278.md)
 * [Iot](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_94.md)
 * [Mobile technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2300.md)
 

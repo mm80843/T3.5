@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_61 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/pages/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_61 
 
 # __The effects of lockdown measures: exacerbated social inequalities, limited accessibility to green spaces, shifts in energy demands, work delays, adversity for startups, and mental health issues.__
 

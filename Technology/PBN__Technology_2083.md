@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2083 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_2083 
 
 # __Health education and community outreach__
 
@@ -21,9 +21,9 @@
 
 ## This Technology belongs to this TechnologySubgroup
 
-* [Community health centers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_224.md)
-* [Community outreach](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_251.md)
-* [Educational campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1487.md)
+* [Community health centers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1487.md)
+* [Community outreach](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_224.md)
+* [Educational campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_251.md)
 * [Health education platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_221.md)
 * [Online resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_473.md)
 

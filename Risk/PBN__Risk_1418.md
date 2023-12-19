@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1418 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1418 
 
 # __Poor ventilation__
 
@@ -30,7 +30,7 @@ Inadequate ventilation in indoor spaces leads to increased transmission of respi
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Mitigations of this risk
 
@@ -53,8 +53,8 @@ Increased risk of airborne transmission and higher infection rates in indoor spa
 ## Stakeholders who can mitigate this risk
 
 * [Architects](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
-* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_431.md)
-* [Engineers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
+* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
+* [Engineers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_431.md)
 * [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_202.md)
 * [Hvac engineers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_921.md)
 
@@ -67,11 +67,11 @@ Increased risk of airborne transmission and higher infection rates in indoor spa
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_0.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_6.md)
+* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_6.md)
 
 ## Type of the risk
 

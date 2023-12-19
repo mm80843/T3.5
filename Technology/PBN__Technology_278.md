@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_278 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_278 
 
 # __Ai__
 
@@ -21,8 +21,8 @@
 
 ## Link between Blueprint and General ontology
 
-* [AI/ML](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_8.md)
-* [Robots](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_14.md)
+* [AI/ML](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_8.md)
+* [Robots](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_14.md)
 
 ## Risks linked to this technology
 
@@ -40,12 +40,12 @@
 
 ## This Technology enables the following mitigations
 
-* [Accelerating transition towards digitalization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4539.md)
-* [Adoption of emerging technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3254.md)
-* [Ai algorithms for pattern discovery](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4744.md)
-* [Ai-powered diagnosis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4750.md)
-* [Alternative means for continuity of basic functions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4538.md)
-* [Automated face recognition](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3247.md)
+* [Accelerating transition towards digitalization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3247.md)
+* [Adoption of emerging technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4539.md)
+* [Ai algorithms for pattern discovery](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3254.md)
+* [Ai-powered diagnosis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4744.md)
+* [Alternative means for continuity of basic functions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4750.md)
+* [Automated face recognition](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4538.md)
 * [Digital transformation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4751.md)
 * [Forecasting and prediction](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_28.md)
 * [Integrated healthcare environment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3489.md)

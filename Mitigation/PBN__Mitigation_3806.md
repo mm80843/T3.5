@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3806 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3806 
 
 # __Support at individual level__
 
@@ -24,8 +24,8 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Collaboration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2850.md)
-* [Communication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_151.md)
+* [Collaboration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_151.md)
+* [Communication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2850.md)
 * [Material support](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2851.md)
 
 ## Property: has_MitigationPrinciple

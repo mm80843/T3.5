@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_301 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/pages/docs/Benef/index.md) >> Individual ID:PBN__Benef_301 
 
 # __Stronger communities and better public health__
 
@@ -24,6 +24,6 @@ Community-level planning and design strategies promote social cohesion, active l
 
 ## Stakeholders benefitting from this Benefit
 
-* [Community organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_125.md)
-* [Urban planners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_150.md)
+* [Community organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_150.md)
+* [Urban planners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_125.md)
 

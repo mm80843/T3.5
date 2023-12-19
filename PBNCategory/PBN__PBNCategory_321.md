@@ -1,11 +1,11 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_321 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/pages/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_321 
 
 # __Environmental conditions.__
 
 ## Items covered in this category
 
-* [Air quality](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Theme_1.md)
-* [Water quality](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Theme_0.md)
+* [Air quality](https://github.com/mm80843/T3.5/blob/pages/BP_Theme/PBN__BP_Theme_1.md)
+* [Water quality](https://github.com/mm80843/T3.5/blob/pages/BP_Theme/PBN__BP_Theme_0.md)
 
 ## Title of the category
 

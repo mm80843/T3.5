@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_5071 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_5071 
 
 # __Strengthening enforcement of labour standards__
 
@@ -25,8 +25,8 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Enhanced regulatory frameworks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3745.md)
-* [Monitoring mechanisms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3744.md)
+* [Enhanced regulatory frameworks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3744.md)
+* [Monitoring mechanisms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3745.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -1,16 +1,16 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_261 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_261 
 
 # __The Impact of COVID-19 on Public Space: A Review of the Emerging Questions__
 
 ## Benefits listed in this article
 
-* [Enhanced access to nature and recreation for residents](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1238.md)
-* [Improved accessibility and safety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_689.md)
-* [Improved public health outcomes](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1245.md)
-* [Improved understanding and analysis of public spaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1240.md)
-* [Increased economic opportunities and social inclusion](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1242.md)
-* [Increased inclusivity and accessibility](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1246.md)
-* [Increased livability and sustainability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1239.md)
+* [Enhanced access to nature and recreation for residents](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1239.md)
+* [Improved accessibility and safety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1238.md)
+* [Improved public health outcomes](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_689.md)
+* [Improved understanding and analysis of public spaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1245.md)
+* [Increased economic opportunities and social inclusion](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1240.md)
+* [Increased inclusivity and accessibility](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1242.md)
+* [Increased livability and sustainability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1246.md)
 * [Increased resilience and flexibility](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1241.md)
 * [Increased safety and confidence in using public transit](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1243.md)
 * [Increased safety and confidence in using shared mobility](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1244.md)

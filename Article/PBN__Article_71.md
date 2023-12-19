@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_71 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_71 
 
 # __Characterization and performance evaluation of a full-scale activated carbon-based dynamic botanical air filtration system for improving indoor air quality__
 
@@ -31,9 +31,9 @@ Indoor air quality (IAQ) is very important because it can affect our health and 
 ## This article mentions these technologies
 
 * [Activated carbon](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
-* [Air filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_201.md)
-* [Biological methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1891.md)
-* [Energy-efficient systems and technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1109.md)
+* [Air filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1109.md)
+* [Biological methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_201.md)
+* [Energy-efficient systems and technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1891.md)
 * [Maintenance protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1889.md)
 * [Monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1890.md)
 * [Ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1888.md)

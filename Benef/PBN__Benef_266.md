@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_266 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/pages/docs/Benef/index.md) >> Individual ID:PBN__Benef_266 
 
 # __Supportive community environment__
 
@@ -24,7 +24,7 @@ Reduces stress levels and improves well-being
 
 ## Stakeholders benefitting from this Benefit
 
-* [Faculty](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_101.md)
-* [Staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_134.md)
-* [Students](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_103.md)
+* [Faculty](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_103.md)
+* [Staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_101.md)
+* [Students](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_134.md)
 

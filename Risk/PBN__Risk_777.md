@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_777 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_777 
 
 # __Food insecurity and poor-quality diets__
 
@@ -29,12 +29,12 @@ Limited access to fresh produce may lead to increased consumption of processed a
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Mitigations of this risk
 
-* [Building resilient food systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1069.md)
-* [Implement innovative demand and supply-side initiatives to build resilient food systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1490.md)
+* [Building resilient food systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1490.md)
+* [Implement innovative demand and supply-side initiatives to build resilient food systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1069.md)
 
 ## Name of the risk
 
@@ -48,8 +48,8 @@ Increased risk of undernutrition and related health issues
 ## Stakeholders who can mitigate this risk
 
 * [Communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
-* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_4.md)
-* [Ngos](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_234.md)
+* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_234.md)
+* [Ngos](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_4.md)
 
 ## Technologies linked to the risk
 
@@ -58,11 +58,11 @@ Increased risk of undernutrition and related health issues
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Community infrastructures](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_9.md)
+* [Community infrastructures](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_9.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_4.md)
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_4.md)
 
 ## Type of the risk
 

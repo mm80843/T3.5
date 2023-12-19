@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [BenefReturn](https://github.com/mm80843/T3.5/tree/main/docs/BenefReturn/index.md) >> Individual ID:PBN__BenefReturn_652 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [BenefReturn](https://github.com/mm80843/T3.5/tree/pages/docs/BenefReturn/index.md) >> Individual ID:PBN__BenefReturn_652 
 
 # __Private investors can benefit from investing in workplace regulations and directives as it can help maintain open and safe workplaces, reducing the risk of outbreaks and disruptions to business operations, leading to improved productivity and financial stability for companies.__
 

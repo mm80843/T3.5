@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1845 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1845 
 
 # __Building closures and restrictions__
 
@@ -29,7 +29,7 @@ Lockdowns and border closures can lead to the closure of buildings and restricti
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Mitigations of this risk
 
@@ -41,8 +41,8 @@ Economic losses, delays in construction projects, job losses.
 
 ## People affected by this risk
 
-* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
-* [Businesses](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_197.md)
+* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_197.md)
+* [Businesses](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
 * [Construction workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_147.md)
 
 ## Stakeholders who can mitigate this risk
@@ -59,11 +59,11 @@ Economic losses, delays in construction projects, job losses.
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_0.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Social cohesion](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_5.md)
+* [Social cohesion](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_5.md)
 
 ## Type of the risk
 

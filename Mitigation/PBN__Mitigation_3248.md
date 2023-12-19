@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3248 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3248 
 
 # __Digital contact tracing__
 
@@ -26,8 +26,8 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Bluetooth](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_277.md)
-* [Gps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2579.md)
+* [Bluetooth](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2579.md)
+* [Gps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_277.md)
 * [Iot](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2398.md)
 * [Mobile computing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2396.md)
 * [Wearable devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2397.md)

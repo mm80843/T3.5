@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_382 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_382 
 
 # __Crisis management__
 
@@ -33,8 +33,8 @@
 ## This Mitigation is enabled by the following technologies
 
 * [Communication systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
-* [Communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1055.md)
-* [Crisis management strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_168.md)
+* [Communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_168.md)
+* [Crisis management strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1055.md)
 
 ## Property: has_MitigationPrinciple
 

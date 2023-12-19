@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_575 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/pages/docs/Benef/index.md) >> Individual ID:PBN__Benef_575 
 
 # __Enhanced protection for healthcare workers__
 
@@ -24,8 +24,8 @@ Reduced risk of infection for healthcare workers
 
 ## Stakeholders benefitting from this Benefit
 
-* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_68.md)
-* [Healthcare workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
+* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
+* [Healthcare workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_68.md)
 
 ## This benefit is realized in the following general blueprint(s)
 

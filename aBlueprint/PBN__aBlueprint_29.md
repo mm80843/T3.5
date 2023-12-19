@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [aBlueprint](https://github.com/mm80843/T3.5/tree/main/docs/aBlueprint/index.md) >> Individual ID:PBN__aBlueprint_29 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [aBlueprint](https://github.com/mm80843/T3.5/tree/pages/docs/aBlueprint/index.md) >> Individual ID:PBN__aBlueprint_29 
 
 # __Implementing Pooled-Sample Analysis and Contact Tracing Systems__
 
@@ -28,19 +28,19 @@
 
 ## 3. Blueprint impacts these stakeholders
 
-* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
-* [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
+* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
+* [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
 * [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_29.md)
 * [Healthcare organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_216.md)
 * [Visitors to public places](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_765.md)
 
 ## 4. Blueprint links to these mitigations
 
-* [Implement regular and widespread symptom monitoring and testing, both symptomatic and asymptomatic](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2722.md)
+* [Implement regular and widespread symptom monitoring and testing, both symptomatic and asymptomatic](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1021.md)
 * [Improve contact tracing systems, increase testing capacity, utilize digital tools for contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2842.md)
-* [Increase testing capacity, develop rapid and accurate test kits, promote widespread testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2720.md)
+* [Increase testing capacity, develop rapid and accurate test kits, promote widespread testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2722.md)
 * [Pooled-sample analysis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2036.md)
-* [Prioritize essential research and monitoring activities, develop remote monitoring techniques, enhance capacity-building efforts](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1021.md)
+* [Prioritize essential research and monitoring activities, develop remote monitoring techniques, enhance capacity-building efforts](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2720.md)
 
 ## 5. Blueprint mitigation can be owned by these stakeholders
 
@@ -52,20 +52,20 @@
 
 ## 6. Blueprint links to these benefits
 
-* [Early detection of covid-19](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_988.md)
-* [Early warning of disease outbreaks](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_5.md)
-* [Population-wide surveillance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1206.md)
+* [Early detection of covid-19](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_5.md)
+* [Early warning of disease outbreaks](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1206.md)
+* [Population-wide surveillance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_988.md)
 
 ## 7. Blueprint links to these technology
 
 * [Analytical chemistry](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2468.md)
-* [Iot](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2669.md)
-* [Pcr assay](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2670.md)
-* [Qrt pcr testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2821.md)
-* [Quantitative rt-pcr methodology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2822.md)
-* [Rt-qpcr assay](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3066.md)
-* [Sewage monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3067.md)
-* [Wastewater analysis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3129.md)
-* [Wastewater sampling](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3130.md)
-* [Wastewater testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_277.md)
+* [Iot](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2822.md)
+* [Pcr assay](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3066.md)
+* [Qrt pcr testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3067.md)
+* [Quantitative rt-pcr methodology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3129.md)
+* [Rt-qpcr assay](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3130.md)
+* [Sewage monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2669.md)
+* [Wastewater analysis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_277.md)
+* [Wastewater sampling](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2821.md)
+* [Wastewater testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2670.md)
 

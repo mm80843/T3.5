@@ -1,13 +1,13 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_243 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/pages/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_243 
 
 # __A collective group, including marginalized and vulnerable, local and global communities, individuals, and communication entities, particularly in underserved areas.__
 
 ## Items covered in this category
 
-* [Affected communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_348.md)
-* [Climate change communicators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_774.md)
-* [Coastal communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2440.md)
-* [Communication entities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_4.md)
+* [Affected communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_4.md)
+* [Climate change communicators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_348.md)
+* [Coastal communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_774.md)
+* [Communication entities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2440.md)
 * [Communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_85.md)
 * [Community](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_313.md)
 * [Digital health communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_106.md)

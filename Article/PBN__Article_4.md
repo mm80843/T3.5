@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_4 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_4 
 
 # __Mapping research in logistics and supply chain management during COVID-19 pandemic__
 
@@ -53,8 +53,8 @@ In this article, the authors discuss how the COVID-19 pandemic has affected supp
 
 ## This article points to following mitigation
 
-* [Collaborative networks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4289.md)
-* [Data-driven decision-making](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4291.md)
+* [Collaborative networks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4291.md)
+* [Data-driven decision-making](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4289.md)
 * [Demand management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4292.md)
 * [Flexible manufacturing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4294.md)
 * [Inventory optimization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4290.md)

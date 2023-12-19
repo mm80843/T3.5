@@ -1,14 +1,14 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_281 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_281 
 
 # __A comprehensive review on indoor air quality monitoring systems for enhanced public health__
 
 ## Benefits listed in this article
 
 * [Access to cleaner and more efficient fuel](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_169.md)
-* [Enhanced indoor environmental quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1321.md)
-* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1322.md)
-* [Reduced exposure to harmful pollutants](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1319.md)
-* [Reduced exposure to vocs](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1320.md)
+* [Enhanced indoor environmental quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1320.md)
+* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1321.md)
+* [Reduced exposure to harmful pollutants](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1322.md)
+* [Reduced exposure to vocs](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1319.md)
 
 ## DOI of the article
 
@@ -32,8 +32,8 @@ Researchers have been studying the quality of the air we breathe, especially ind
 
 ## This article mentions these technologies
 
-* [Access to modern energy sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
-* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+* [Access to modern energy sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
 * [Clean cooking technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_249.md)
 * [Clean cookstoves](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1011.md)
 * [Data monitoring and analysis systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1481.md)
@@ -47,20 +47,20 @@ Researchers have been studying the quality of the air we breathe, especially ind
 
 ## This article points to following mitigation
 
-* [Access to clean cooking fuels](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4658.md)
-* [Active smoke-free policies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4668.md)
-* [Adequate air exchange](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4664.md)
-* [Advanced ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4655.md)
-* [Control of moisture and humidity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4657.md)
-* [Efficient cooking practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4670.md)
-* [Elimination of indoor pollutants](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4667.md)
-* [Energy-efficient heating/cooling](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4672.md)
-* [Filtering indoor air](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3237.md)
-* [Improved building insulation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4666.md)
-* [Improved cooking stoves](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4661.md)
-* [Indoor air quality monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4659.md)
-* [Natural ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4357.md)
-* [Products](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4656.md)
+* [Access to clean cooking fuels](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3237.md)
+* [Active smoke-free policies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4357.md)
+* [Adequate air exchange](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4661.md)
+* [Advanced ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4656.md)
+* [Control of moisture and humidity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4658.md)
+* [Efficient cooking practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4668.md)
+* [Elimination of indoor pollutants](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4664.md)
+* [Energy-efficient heating/cooling](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4655.md)
+* [Filtering indoor air](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4657.md)
+* [Improved building insulation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4670.md)
+* [Improved cooking stoves](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4667.md)
+* [Indoor air quality monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4672.md)
+* [Natural ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4666.md)
+* [Products](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4659.md)
 * [Proper building ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4665.md)
 * [Public awareness and education](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4669.md)
 * [Regular cleaning and maintenance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4663.md)

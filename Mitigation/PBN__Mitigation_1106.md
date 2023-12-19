@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1106 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1106 
 
 # __Facilitating transparent communication and preventing spread of fake news__
 
@@ -25,8 +25,8 @@
 
 ## Link between Blueprint and General ontology
 
-* [Facilitate transparent communication](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_36.md)
-* [Prevent fake news](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_37.md)
+* [Facilitate transparent communication](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_36.md)
+* [Prevent fake news](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_37.md)
 
 ## Risks possibly mitigated by this Mitigation
 

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4196 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4196 
 
 # __Gis tools for mapping and tracking__
 
@@ -25,8 +25,8 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Big data](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_276.md)
-* [Gis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2398.md)
+* [Big data](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2398.md)
+* [Gis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_276.md)
 * [Gps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3143.md)
 
 ## Property: has_MitigationPrinciple

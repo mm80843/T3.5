@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_762 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_762 
 
 # __Lack of real-time data__
 
@@ -30,15 +30,15 @@ Inability to access and monitor real-time data on COVID-19 cases and severity gl
 
 ## Is the risk affecting GBN scales
 
-* [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_0.md)
 
 ## Mitigations of this risk
 
-* [Develop platforms for real-time data collection and analysis.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2850.md)
-* [Develop tools and platforms to provide direct access to real-time epidemiological data](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3065.md)
+* [Develop platforms for real-time data collection and analysis.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3065.md)
+* [Develop tools and platforms to provide direct access to real-time epidemiological data](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1051.md)
 * [Ncov2019 package](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4323.md)
-* [Real-time data sharing through dashboards](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1051.md)
+* [Real-time data sharing through dashboards](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2850.md)
 
 ## Name of the risk
 
@@ -46,20 +46,20 @@ Delayed response and inability to make accurate predictions and decisions.
 
 ## People affected by this risk
 
-* [Healthcare providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_310.md)
-* [Policymakers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_513.md)
-* [Public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_46.md)
-* [Public health officials](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_121.md)
-* [Public-health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_126.md)
-* [Scientists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_52.md)
+* [Healthcare providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_46.md)
+* [Policymakers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_121.md)
+* [Public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_310.md)
+* [Public health officials](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_126.md)
+* [Public-health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_52.md)
+* [Scientists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_513.md)
 
 ## Stakeholders who can mitigate this risk
 
-* [Data analysts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
-* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_513.md)
-* [Public-health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
+* [Data analysts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
+* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
+* [Public-health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_477.md)
 * [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1569.md)
-* [Software developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_477.md)
+* [Software developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_513.md)
 
 ## Technologies linked to the risk
 
@@ -69,11 +69,11 @@ Delayed response and inability to make accurate predictions and decisions.
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Safety and security](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_5.md)
+* [Safety and security](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_5.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_4.md)
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_4.md)
 
 ## Type of the risk
 

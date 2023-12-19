@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_133 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_133 
 
 # __Respiratory pandemics, urban planning and design: A multidisciplinary rapid review of the literature__
 
@@ -39,14 +39,14 @@ Cities and urban living are important in the spread of respiratory pandemics lik
 
 ## This article mentions these technologies
 
-* [Air filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_488.md)
-* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_469.md)
-* [Crowd monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_52.md)
-* [Educational campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_203.md)
-* [Handwashing stations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
-* [Improved hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_47.md)
-* [Natural ventilation design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_251.md)
-* [Public health messaging systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_700.md)
+* [Air filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_700.md)
+* [Crowd monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_47.md)
+* [Educational campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_488.md)
+* [Handwashing stations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_469.md)
+* [Improved hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_52.md)
+* [Natural ventilation design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_203.md)
+* [Public health messaging systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_251.md)
 * [Sanitation infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_660.md)
 * [Smart city technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_665.md)
 * [Social media platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_701.md)

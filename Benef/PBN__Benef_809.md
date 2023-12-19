@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_809 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/pages/docs/Benef/index.md) >> Individual ID:PBN__Benef_809 
 
 # __Optimization of water management__
 
@@ -24,7 +24,7 @@ Advanced technologies can optimize water management, reduce costs
 
 ## Stakeholders benefitting from this Benefit
 
-* [Consumers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_146.md)
-* [Operators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_329.md)
+* [Consumers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_329.md)
+* [Operators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_146.md)
 * [Water utilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_330.md)
 

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_606 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/pages/docs/Benef/index.md) >> Individual ID:PBN__Benef_606 
 
 # __Minimize airborne transmission of covid-19 in workplaces__
 
@@ -24,6 +24,6 @@ Improving ventilation systems can minimize the airborne transmission of COVID-19
 
 ## Stakeholders benefitting from this Benefit
 
-* [Employers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_128.md)
-* [Workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_180.md)
+* [Employers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_180.md)
+* [Workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_128.md)
 

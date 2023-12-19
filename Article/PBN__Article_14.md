@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_14 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_14 
 
 # __Covid-19 and the politics of sustainable energy transitions__
 
@@ -32,10 +32,10 @@ The Covid-19 pandemic has had a big impact on the world. Many people have gotten
 
 ## This article mentions these technologies
 
-* [3d printing for component manufacturing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_927.md)
-* [Advanced supply chain management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_928.md)
-* [Energy trading platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
-* [Energy-efficient appliances](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_47.md)
+* [3d printing for component manufacturing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
+* [Advanced supply chain management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_47.md)
+* [Energy trading platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_927.md)
+* [Energy-efficient appliances](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_928.md)
 * [Financial instruments for price hedging](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_924.md)
 * [Microgrids](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_79.md)
 * [Off-grid solar systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_929.md)

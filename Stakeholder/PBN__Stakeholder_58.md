@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_58 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_58 
 
 # __Public health__
 
@@ -21,29 +21,29 @@
 
 ## This Stakeholder can get these Benefits from mitigation measures
 
-* [Automated generation of non-intrusive alerts](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_166.md)
-* [Decreased risk of west nile infection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_167.md)
-* [Decreased vector-human contact](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_168.md)
-* [Dilution effect](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_839.md)
-* [Dilution of contaminants](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_79.md)
-* [Disease prevention and control](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_80.md)
-* [Early detection of outbreaks](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_81.md)
-* [Estimation of virus spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_192.md)
-* [Improved accuracy of infection risk estimation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_840.md)
-* [Improved air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1123.md)
-* [Improved health and well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_581.md)
-* [Increased accessibility and reduced transportation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_582.md)
-* [Increased vaccination coverage](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_583.md)
-* [Public health monitoring](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_584.md)
-* [Real-time detection of social distancing violations](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_585.md)
-* [Real-time video data analysis](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_83.md)
-* [Reduced disease transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_82.md)
-* [Reduced epidemic risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1194.md)
-* [Reduced importation of cases](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_89.md)
-* [Reduced infection risk, fewer infected people](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_90.md)
-* [Reduced number of infected people](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_92.md)
-* [Reduced rat populations](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_91.md)
-* [Reduced risk of tick-borne diseases](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_436.md)
+* [Automated generation of non-intrusive alerts](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_436.md)
+* [Decreased risk of west nile infection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_166.md)
+* [Decreased vector-human contact](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1194.md)
+* [Dilution effect](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_582.md)
+* [Dilution of contaminants](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_192.md)
+* [Disease prevention and control](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_79.md)
+* [Early detection of outbreaks](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_167.md)
+* [Estimation of virus spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_168.md)
+* [Improved accuracy of infection risk estimation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_839.md)
+* [Improved air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_80.md)
+* [Improved health and well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_81.md)
+* [Increased accessibility and reduced transportation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_840.md)
+* [Increased vaccination coverage](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1123.md)
+* [Public health monitoring](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_581.md)
+* [Real-time detection of social distancing violations](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_583.md)
+* [Real-time video data analysis](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_584.md)
+* [Reduced disease transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_585.md)
+* [Reduced epidemic risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_83.md)
+* [Reduced importation of cases](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_82.md)
+* [Reduced infection risk, fewer infected people](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_89.md)
+* [Reduced number of infected people](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_90.md)
+* [Reduced rat populations](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_92.md)
+* [Reduced risk of tick-borne diseases](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_91.md)
 * [Reduced transmission risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_207.md)
 * [Reduction in covid-19 spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_837.md)
 * [Reduction in mosquito breeding](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1343.md)
@@ -53,5 +53,5 @@
 
 ## Type of the stakeholder
 
-* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_0.md)
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_0.md)
 

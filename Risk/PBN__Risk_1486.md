@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1486 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1486 
 
 # __Lack of hygiene practices__
 
@@ -31,13 +31,13 @@ Failure to follow proper hygiene practices such as handwashing and respiratory e
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Mitigations of this risk
 
-* [Education and awareness campaigns, providing access to hand hygiene facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2017.md)
+* [Education and awareness campaigns, providing access to hand hygiene facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2257.md)
 * [Regular cleaning, hand hygiene, disinfection protocols.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2235.md)
-* [Regularly educate and remind individuals about proper hygiene practices, provide access to hand sanitizers and cleaning supplies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2257.md)
+* [Regularly educate and remind individuals about proper hygiene practices, provide access to hand sanitizers and cleaning supplies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2017.md)
 
 ## Name of the risk
 
@@ -53,10 +53,10 @@ Increased risk of disease transmission
 
 ## Stakeholders who can mitigate this risk
 
-* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_222.md)
-* [Building owners and operators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
-* [Businesses](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_20.md)
-* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
+* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
+* [Building owners and operators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_222.md)
+* [Businesses](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
+* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_20.md)
 * [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
 * [Individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_147.md)
 * [Public health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_523.md)
@@ -64,17 +64,17 @@ Increased risk of disease transmission
 ## Technologies linked to the risk
 
 * [Cleaning supplies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
-* [Hand sanitizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_148.md)
-* [Handwashing stations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_410.md)
+* [Hand sanitizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_410.md)
+* [Handwashing stations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_768.md)
 * [Sanitizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_665.md)
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_4.md)
+* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_4.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_10.md)
+* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_10.md)
 
 ## Type of the risk
 

@@ -1,12 +1,12 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_175 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_175 
 
 # __The Socio-Spatial Determinants of COVID-19 Diffusion: The Impact of Globalisation, Settlement Characteristics and Population__
 
 ## Benefits listed in this article
 
-* [Control and prevention of future outbreaks](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_862.md)
-* [Early detection and containment of cases](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_865.md)
-* [Increased public awareness and compliance with preventive measures](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_864.md)
+* [Control and prevention of future outbreaks](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_864.md)
+* [Early detection and containment of cases](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_862.md)
+* [Increased public awareness and compliance with preventive measures](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_865.md)
 * [Reduction in international spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_861.md)
 * [Reduction in intra-urban spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_863.md)
 
@@ -33,18 +33,18 @@ The text explains that COVID-19, the disease caused by the coronavirus, spread q
 
 ## This article mentions these technologies
 
-* [Biometric identification](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
-* [Blockchain technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_211.md)
-* [Border control technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_19.md)
-* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_73.md)
-* [Digital platforms for trade monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1550.md)
-* [Disinfection technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_547.md)
-* [Healthcare resource optimization tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1546.md)
-* [Mobile health apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1547.md)
-* [Personalized medicine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_469.md)
-* [Remote healthcare services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1548.md)
-* [Remote patient monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_348.md)
-* [Risk assessment tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_621.md)
+* [Biometric identification](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_211.md)
+* [Blockchain technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_621.md)
+* [Border control technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
+* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_19.md)
+* [Digital platforms for trade monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_73.md)
+* [Disinfection technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1550.md)
+* [Healthcare resource optimization tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_547.md)
+* [Mobile health apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1546.md)
+* [Personalized medicine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1547.md)
+* [Remote healthcare services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_469.md)
+* [Remote patient monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1548.md)
+* [Risk assessment tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_348.md)
 * [Smart city technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_12.md)
 * [Telehealth services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1455.md)
 * [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1502.md)
@@ -55,15 +55,15 @@ The text explains that COVID-19, the disease caused by the coronavirus, spread q
 ## This article points to following mitigation
 
 * [Building sanitization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
-* [Disinfection and sanitization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_564.md)
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_863.md)
-* [Lockdown measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4788.md)
-* [Neighborhood isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
-* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4786.md)
-* [Quarantine measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3347.md)
-* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3515.md)
-* [Testing and contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4785.md)
-* [Travel restrictions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3575.md)
+* [Disinfection and sanitization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3575.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_564.md)
+* [Lockdown measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4785.md)
+* [Neighborhood isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_863.md)
+* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4788.md)
+* [Quarantine measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4786.md)
+* [Testing and contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3347.md)
+* [Travel restrictions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3515.md)
 * [Ventilation improvements](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4787.md)
 
 ## Title of the article

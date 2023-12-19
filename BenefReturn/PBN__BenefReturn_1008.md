@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [BenefReturn](https://github.com/mm80843/T3.5/tree/main/docs/BenefReturn/index.md) >> Individual ID:PBN__BenefReturn_1008 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [BenefReturn](https://github.com/mm80843/T3.5/tree/pages/docs/BenefReturn/index.md) >> Individual ID:PBN__BenefReturn_1008 
 
 # __Private investors can benefit from the increased demand for and sales of graphene-based coatings as a safer and more effective alternative to traditional disinfection methods.__
 

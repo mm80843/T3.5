@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1748 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1748 
 
 # __Fact-checking, promoting reliable sources, educating the public__
 
@@ -21,7 +21,7 @@
 
 ## Link between Blueprint and General ontology
 
-* [Prevent fake news](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_36.md)
+* [Prevent fake news](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_36.md)
 
 ## Risks possibly mitigated by this Mitigation
 

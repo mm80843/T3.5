@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_68 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_68 
 
 # __Implications of COVID-19 control measures for diet and physical activity, and lessons for addressing other pandemics facing rapidly urbanising countries__
 
@@ -31,8 +31,8 @@ The COVID-19 pandemic has had many effects on people's lives, especially in coun
 
 ## This article mentions these technologies
 
-* [Data-driven food supply management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_19.md)
-* [Employment opportunities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3.md)
+* [Data-driven food supply management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3.md)
+* [Employment opportunities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_19.md)
 * [Exercise programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_892.md)
 * [Financial assistance programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_630.md)
 * [Food delivery apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1222.md)

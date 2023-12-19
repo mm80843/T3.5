@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1229 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1229 
 
 # __Sensor failure__
 
@@ -29,7 +29,7 @@ Malfunction or failure of smart IEQ sensor nodes
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Mitigations of this risk
 
@@ -56,11 +56,11 @@ Inaccuracy or loss of monitoring data
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Safety and security](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_5.md)
+* [Safety and security](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_5.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_4.md)
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_4.md)
 
 ## Type of the risk
 

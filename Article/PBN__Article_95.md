@@ -1,11 +1,11 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_95 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_95 
 
 # __Challenges to Mitigating the Urban Health Burden of Mosquito-Borne Diseases in the Face of Climate Change__
 
 ## Benefits listed in this article
 
-* [Cooling effect](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_471.md)
-* [Heat reduction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_416.md)
+* [Cooling effect](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_416.md)
+* [Heat reduction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_471.md)
 * [Heat stress reduction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_469.md)
 * [Temperature reduction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_470.md)
 
@@ -31,9 +31,9 @@ Global warming is causing the Earth to get hotter, and it's making a lot of bad 
 
 ## This article mentions these technologies
 
-* [Auto-dissemination of insecticides](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
-* [Collaborative planning and decision-making processes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_49.md)
-* [Cool roofs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_48.md)
+* [Auto-dissemination of insecticides](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_48.md)
+* [Collaborative planning and decision-making processes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
+* [Cool roofs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_49.md)
 * [Green corridors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_976.md)
 * [Green infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_977.md)
 * [Improved water management and sanitation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_973.md)

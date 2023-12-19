@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__aBlueprint_4 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/pages/docs/Blueprint/index.md) >> Individual ID:PBN__aBlueprint_4 
 
 # __Implementing Collaborative Measures to Combat Contagious Diseases__
 
@@ -28,43 +28,43 @@
 
 ## 3. Blueprint impacts these stakeholders
 
-* [Community organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_222.md)
-* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
-* [Medical staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_31.md)
-* [Patients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_93.md)
-* [Public health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_150.md)
+* [Community organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
+* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_31.md)
+* [Medical staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_222.md)
+* [Patients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_150.md)
+* [Public health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_93.md)
 
 ## 4. Blueprint links to these mitigations
 
-* [Building resilient food systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2273.md)
+* [Building resilient food systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2674.md)
 * [Collaborating with healthcare professionals and authorities to develop and disseminate clear guidelines and protocols for property and facilities management.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2230.md)
-* [Ensure healthcare accessibility and affordability, address social determinants of health, provide targeted support to vulnerable populations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2674.md)
+* [Ensure healthcare accessibility and affordability, address social determinants of health, provide targeted support to vulnerable populations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1490.md)
 * [Implement innovative demand and supply-side initiatives to build resilient food systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1069.md)
-* [Public health education and awareness campaigns, communication of guidelines and protocols through various channels, enforcement of regulations, and penalties for non-compliance.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1490.md)
+* [Public health education and awareness campaigns, communication of guidelines and protocols through various channels, enforcement of regulations, and penalties for non-compliance.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2273.md)
 
 ## 5. Blueprint mitigation can be owned by these stakeholders
 
-* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1357.md)
-* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
-* [Healthcare organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
-* [Ngos](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_216.md)
-* [Public health professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_234.md)
+* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
+* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
+* [Healthcare organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_234.md)
+* [Ngos](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1357.md)
+* [Public health professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_216.md)
 
 ## 6. Blueprint links to these benefits
 
-* [Early detection of outbreaks](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_166.md)
-* [Lower covid-19 mortality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_860.md)
+* [Early detection of outbreaks](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_860.md)
+* [Lower covid-19 mortality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_166.md)
 * [Reduction of airborne pathogens](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1022.md)
 
 ## 7. Blueprint links to these technology
 
-* [Green spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3066.md)
-* [Inspections](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3067.md)
-* [Parks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3130.md)
-* [Procurement](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
+* [Green spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
+* [Inspections](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3066.md)
+* [Parks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3129.md)
+* [Procurement](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3130.md)
 * [Quantitative rt-pcr methodology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_146.md)
 * [Rt-qpcr assay](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1738.md)
 * [Uv lamps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_84.md)
-* [Wastewater analysis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2583.md)
-* [Wastewater testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2958.md)
+* [Wastewater analysis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2958.md)
+* [Wastewater testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2583.md)
 

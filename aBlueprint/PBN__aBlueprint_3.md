@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [aBlueprint](https://github.com/mm80843/T3.5/tree/main/docs/aBlueprint/index.md) >> Individual ID:PBN__aBlueprint_3 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [aBlueprint](https://github.com/mm80843/T3.5/tree/pages/docs/aBlueprint/index.md) >> Individual ID:PBN__aBlueprint_3 
 
 # __Implementing Mental Health Mitigation Strategies__
 
@@ -31,40 +31,40 @@
 * [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_68.md)
 * [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
 * [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_29.md)
-* [Healthcare workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_59.md)
-* [Residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
+* [Healthcare workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
+* [Residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_59.md)
 
 ## 4. Blueprint links to these mitigations
 
 * [Address mental health concerns, provide support through social and mental health experts](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2128.md)
-* [Mental health support services, community connections](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2774.md)
-* [Provide mental health support services, promote healthy coping mechanisms, and ensure access to healthcare resources.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1520.md)
-* [Provide mental health support services, promote self-care practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2315.md)
+* [Mental health support services, community connections](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2315.md)
+* [Provide mental health support services, promote healthy coping mechanisms, and ensure access to healthcare resources.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2774.md)
+* [Provide mental health support services, promote self-care practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1520.md)
 * [Provision of mental health support services, promoting social connections, and addressing stigma around mental health.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1610.md)
 
 ## 5. Blueprint mitigation can be owned by these stakeholders
 
-* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_121.md)
-* [Healthcare providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
-* [Mental health organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_789.md)
-* [Mental health professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_368.md)
-* [Support organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_603.md)
+* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
+* [Healthcare providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_121.md)
+* [Mental health organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_368.md)
+* [Mental health professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_603.md)
+* [Support organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_789.md)
 
 ## 6. Blueprint links to these benefits
 
-* [Improved health and well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_11.md)
+* [Improved health and well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_436.md)
 * [Improved mental health outcomes](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_153.md)
-* [Improved well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_436.md)
+* [Improved well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_11.md)
 
 ## 7. Blueprint links to these technology
 
 * [Access to outdoor spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
-* [Gardens](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2809.md)
-* [Green spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_146.md)
-* [Intermediate spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1738.md)
-* [Internet](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2454.md)
-* [Open spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2431.md)
-* [Parks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2388.md)
-* [Social distancing rule](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3615.md)
-* [Water features](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3616.md)
+* [Gardens](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_146.md)
+* [Green spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2809.md)
+* [Intermediate spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3615.md)
+* [Internet](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3616.md)
+* [Open spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1738.md)
+* [Parks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1734.md)
+* [Social distancing rule](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2431.md)
+* [Water features](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2454.md)
 

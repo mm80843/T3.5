@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4112 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4112 
 
 # __Access to green areas__
 
@@ -25,8 +25,8 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Balcony](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3084.md)
-* [Vertical gardens](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3083.md)
+* [Balcony](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3083.md)
+* [Vertical gardens](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3084.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -1,24 +1,24 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_134 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/pages/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_134 
 
 # __Advancing technology, connectivity, and digital solutions are being embraced to overcome barriers and promote equal access and transformation in various industries.__
 
 ## Items covered in this category
 
 * [5g deployment and limited connectivity challenges](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_877.md)
-* [Adoption of emerging technologies , virtual reality](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4583.md)
-* [Boost in revenue for video-gaming industry](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3391.md)
-* [Bridge the digital divide](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_397.md)
-* [Bridge the digital divide, ensure equal access and affordability, promote digital literacy.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4040.md)
-* [Broadband access](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5047.md)
-* [Cloud computing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4967.md)
-* [Cloud, edge, and fog computing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_916.md)
-* [Cloud-based solution](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_292.md)
-* [Computer simulations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2149.md)
-* [Computer-based solutions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2909.md)
-* [Conduct virtual interviews, utilize digital recruitment tools](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2782.md)
-* [Develop strategies to manage and filter information, promote digital literacy skills](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4370.md)
-* [Digital care processes](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1862.md)
-* [Digital change](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2661.md)
+* [Adoption of emerging technologies , virtual reality](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2661.md)
+* [Boost in revenue for video-gaming industry](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4583.md)
+* [Bridge the digital divide](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3391.md)
+* [Bridge the digital divide, ensure equal access and affordability, promote digital literacy.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_397.md)
+* [Broadband access](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4040.md)
+* [Cloud computing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5047.md)
+* [Cloud, edge, and fog computing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4967.md)
+* [Cloud-based solution](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_916.md)
+* [Computer simulations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_292.md)
+* [Computer-based solutions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2149.md)
+* [Conduct virtual interviews, utilize digital recruitment tools](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2909.md)
+* [Develop strategies to manage and filter information, promote digital literacy skills](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2782.md)
+* [Digital care processes](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4370.md)
+* [Digital change](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1862.md)
 * [Digital communication platforms](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_473.md)
 * [Digital contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2573.md)
 * [Digital educational initiatives](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4762.md)

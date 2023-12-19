@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_20 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/pages/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_20 
 
 # __Infection tracking__
 
@@ -20,27 +20,27 @@ During the outbreak of COVID -19 this method was frequently used and proved to b
 
 ## Enablers of the blueprint
 
-* [BigData](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_17.md)
-* [Data Analytics](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_32.md)
-* [Disease Diagnostic Test Kits](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_9.md)
-* [Robots, Drones & Automated Vehicules](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_13.md)
-* [Telemedecine](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_2.md)
+* [BigData](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_17.md)
+* [Data Analytics](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_32.md)
+* [Disease Diagnostic Test Kits](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_9.md)
+* [Robots, Drones & Automated Vehicules](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_13.md)
+* [Telemedecine](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_2.md)
 
 ## GBN Phase of the blueprint
 
-* [Design](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Phase_0.md)
-* [Operational](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Phase_1.md)
+* [Design](https://github.com/mm80843/T3.5/blob/pages/BP_Phase/PBN__BP_Phase_0.md)
+* [Operational](https://github.com/mm80843/T3.5/blob/pages/BP_Phase/PBN__BP_Phase_1.md)
 
 ## Interventions of the blueprint
 
-* [Early detection](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_36.md)
-* [Infection tracking / monitoring](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_39.md)
-* [Prevent fake news](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_29.md)
-* [Promote verified information](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_31.md)
+* [Early detection](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_36.md)
+* [Infection tracking / monitoring](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_39.md)
+* [Prevent fake news](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_29.md)
+* [Promote verified information](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_31.md)
 
 ## Mode of transmission covered by the blueprint
 
-* [All](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_4.md)
+* [All](https://github.com/mm80843/T3.5/blob/pages/BP_Transmission/PBN__BP_Transmission_4.md)
 
 ## Possible mitigations of the BP
 
@@ -86,7 +86,7 @@ The restrictions and limitations of this proposal primarily concern data collect
 
 ## Scale of the of the blueprint
 
-* [Both](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Scale_1.md)
+* [Both](https://github.com/mm80843/T3.5/blob/pages/BP_Scale/PBN__BP_Scale_1.md)
 
 ## Title of the blueprint
 
@@ -94,12 +94,12 @@ PBN:BP_21
 
 ## Type of deployment of the blueprint
 
-* [Permanent & temporary](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Permanent_2.md)
+* [Permanent & temporary](https://github.com/mm80843/T3.5/blob/pages/BP_Permanent/PBN__BP_Permanent_2.md)
 
 ## Type of the blueprint
 
-* [Behavioural](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Type_0.md)
-* [Technical](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Type_1.md)
+* [Behavioural](https://github.com/mm80843/T3.5/blob/pages/BP_Type/PBN__BP_Type_0.md)
+* [Technical](https://github.com/mm80843/T3.5/blob/pages/BP_Type/PBN__BP_Type_1.md)
 
 ## Value proposition of the blueprint
 

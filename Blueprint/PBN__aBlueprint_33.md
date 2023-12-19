@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__aBlueprint_33 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/pages/docs/Blueprint/index.md) >> Individual ID:PBN__aBlueprint_33 
 
 # __Implementing Strategic Measures to Counteract Contagious Diseases__
 
@@ -31,40 +31,40 @@
 * [Children](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
 * [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_29.md)
 * [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_101.md)
-* [Students](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_264.md)
-* [Young people](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_62.md)
+* [Students](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_62.md)
+* [Young people](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_264.md)
 
 ## 4. Blueprint links to these mitigations
 
 * [Implement distance learning solutions, provide technology and internet access to students.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1590.md)
-* [Implementing distance learning solutions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_283.md)
-* [Mandate the wearing of masks at all times on construction sites and enforce strict penalties for non-compliance.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2661.md)
-* [Promote awareness and education about preventive measures, enforce guidelines and restrictions, and encourage responsible behavior and adherence to protocols.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2420.md)
-* [Promote diversification of suppliers and reduce dependence on a few key suppliers.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1651.md)
+* [Implementing distance learning solutions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2420.md)
+* [Mandate the wearing of masks at all times on construction sites and enforce strict penalties for non-compliance.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_283.md)
+* [Promote awareness and education about preventive measures, enforce guidelines and restrictions, and encourage responsible behavior and adherence to protocols.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1651.md)
+* [Promote diversification of suppliers and reduce dependence on a few key suppliers.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2661.md)
 
 ## 5. Blueprint mitigation can be owned by these stakeholders
 
-* [Educators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_222.md)
-* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
-* [Ngos](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_234.md)
-* [Public health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_43.md)
-* [Schools](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_366.md)
+* [Educators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
+* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_234.md)
+* [Ngos](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_222.md)
+* [Public health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_366.md)
+* [Schools](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_43.md)
 
 ## 6. Blueprint links to these benefits
 
-* [Improved communication](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_232.md)
-* [Reduced financial losses](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_632.md)
+* [Improved communication](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_632.md)
+* [Reduced financial losses](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_232.md)
 * [Reduced transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_454.md)
 
 ## 7. Blueprint links to these technology
 
-* [Floor markings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_341.md)
-* [Internet-based communication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
-* [Iot](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_277.md)
-* [Physical barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_358.md)
-* [Physical distance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2311.md)
-* [Physical space](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2482.md)
-* [Public awareness and education campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2579.md)
-* [Technology-enabled monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2770.md)
-* [Wearable devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3444.md)
+* [Floor markings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
+* [Internet-based communication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_358.md)
+* [Iot](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_341.md)
+* [Physical barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2579.md)
+* [Physical distance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2482.md)
+* [Physical space](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_277.md)
+* [Public awareness and education campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2770.md)
+* [Technology-enabled monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3444.md)
+* [Wearable devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2311.md)
 

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_262 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_262 
 
 # __The role of green roofs in post COVID-19 confinement: An analysis of willingness to pay__
 
@@ -36,12 +36,12 @@ This study looked at how people feel about having green spaces, like gardens or 
 
 ## This article mentions these technologies
 
-* [Educational materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_493.md)
-* [Financial incentives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_49.md)
-* [Green infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_920.md)
-* [Green infrastructure design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1028.md)
-* [Green roof maintenance technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1029.md)
-* [Information campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_48.md)
+* [Educational materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_48.md)
+* [Financial incentives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_493.md)
+* [Green infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_49.md)
+* [Green infrastructure design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_920.md)
+* [Green roof maintenance technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1028.md)
+* [Information campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1029.md)
 * [Public health measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_53.md)
 * [Technology for disease surveillance and contact tracing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_435.md)
 * [Urban planning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1031.md)

@@ -1,20 +1,20 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_185 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/pages/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_185 
 
 # __Advancements in remote healthcare, antibiotic stewardship programs, medical robots, and international organizations contribute to improved healthcare infrastructure and access to healthcare services.__
 
 ## Items covered in this category
 
-* [Access to healthcare technologies and facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1202.md)
-* [Antibiotic stewardship programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3.md)
-* [Appointment systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3746.md)
-* [Biomedical literature](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1651.md)
-* [Cloud-based ai-assisted ct service](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_953.md)
-* [Community care centers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1929.md)
-* [Community organizations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_602.md)
-* [Digital platforms for accessing and sharing healthcare information](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_108.md)
-* [Drones for medical supply delivery](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1334.md)
-* [Electronic health records ehr interoperability solutions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_298.md)
-* [Environment and healthcare management tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2770.md)
+* [Access to healthcare technologies and facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2770.md)
+* [Antibiotic stewardship programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_108.md)
+* [Appointment systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3.md)
+* [Biomedical literature](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1202.md)
+* [Cloud-based ai-assisted ct service](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3746.md)
+* [Community care centers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1651.md)
+* [Community organizations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_953.md)
+* [Digital platforms for accessing and sharing healthcare information](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1929.md)
+* [Drones for medical supply delivery](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_602.md)
+* [Electronic health records ehr interoperability solutions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1334.md)
+* [Environment and healthcare management tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_298.md)
 * [Equip healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_109.md)
 * [Equitable healthcare systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2774.md)
 * [Expanded medicaid](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_12.md)

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1010 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/pages/docs/Benef/index.md) >> Individual ID:PBN__Benef_1010 
 
 # __Contractual stability__
 
@@ -24,6 +24,6 @@ Developing industry-specific working procedures can help mitigate contractual pr
 
 ## Stakeholders benefitting from this Benefit
 
-* [Construction industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_149.md)
-* [Contractors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_179.md)
+* [Construction industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_179.md)
+* [Contractors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_149.md)
 

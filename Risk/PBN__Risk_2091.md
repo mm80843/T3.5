@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_2091 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_2091 
 
 # __Lack of indoor green features__
 
@@ -29,7 +29,7 @@ Absence of indoor plants, natural sunlight, and green views may negatively impac
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Mitigations of this risk
 
@@ -53,8 +53,8 @@ Decreased mental well-being, increased negative emotions.
 
 ## Technologies linked to the risk
 
-* [Indoor plants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1610.md)
-* [Natural light solutions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_141.md)
+* [Indoor plants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_141.md)
+* [Natural light solutions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1610.md)
 * [Skylights](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1611.md)
 * [Sun tubes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1612.md)
 * [Window views of green spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1613.md)
@@ -64,7 +64,7 @@ Decreased mental well-being, increased negative emotions.
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_4.md)
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_4.md)
 
 ## Type of the risk
 

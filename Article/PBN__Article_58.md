@@ -1,12 +1,12 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_58 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_58 
 
 # __COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS__
 
 ## Benefits listed in this article
 
-* [Clean water and sanitation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_294.md)
-* [Continued access to education](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_285.md)
-* [Food and nutrition security](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_35.md)
+* [Clean water and sanitation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_35.md)
+* [Continued access to education](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_294.md)
+* [Food and nutrition security](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_285.md)
 * [Gender equality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_291.md)
 * [Improved access to healthcare](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_286.md)
 * [Job creation and economic growth](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_287.md)
@@ -43,8 +43,8 @@ The covid-19 pandemic has caused a lot of problems all over the world. It has af
 ## This article mentions these technologies
 
 * [Agricultural technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
-* [Ai in healthcare](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_73.md)
-* [Climate mitigation strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3.md)
+* [Ai in healthcare](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3.md)
+* [Climate mitigation strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_73.md)
 * [Distance learning technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_533.md)
 * [Healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1506.md)
 * [Income support measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1507.md)

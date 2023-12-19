@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2057 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_2057 
 
 # __Disinfection and cleaning techniques__
 
@@ -21,18 +21,18 @@
 
 ## This Technology belongs to this TechnologySubgroup
 
-* [Alcohol-based hand rubs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1553.md)
-* [Alcohols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_204.md)
-* [Antimicrobial coatings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2055.md)
-* [Biocidal agents such as hydrogen peroxide](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2279.md)
-* [Biocidal products](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_348.md)
-* [Cleaning equipment and tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_411.md)
-* [Cleaning protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_787.md)
-* [Cleaning solutions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_760.md)
-* [Cold-spray technique to deposit copper coatings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_505.md)
-* [Disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_506.md)
-* [Disinfection protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_850.md)
-* [Disinfection technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_851.md)
+* [Alcohol-based hand rubs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_411.md)
+* [Alcohols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_851.md)
+* [Antimicrobial coatings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_850.md)
+* [Biocidal agents such as hydrogen peroxide](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1553.md)
+* [Biocidal products](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_204.md)
+* [Cleaning equipment and tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2055.md)
+* [Cleaning protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2279.md)
+* [Cleaning solutions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_348.md)
+* [Cold-spray technique to deposit copper coatings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_787.md)
+* [Disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_760.md)
+* [Disinfection protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_505.md)
+* [Disinfection technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_506.md)
 * [Enhanced cleaning technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_855.md)
 * [Ethanol](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_434.md)
 * [Glutardialdehyde](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_848.md)

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_148 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_148 
 
 # __Cleaning supplies__
 
@@ -36,12 +36,12 @@
 
 ## This Technology enables the following mitigations
 
-* [Decontamination](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3516.md)
-* [Disinfecting shared tools and equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4900.md)
-* [Disinfection and sanitization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1061.md)
-* [Enhanced cleaning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3699.md)
-* [Enhanced cleaning and sanitation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3760.md)
-* [Enhanced cleaning and sanitization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4785.md)
+* [Decontamination](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4785.md)
+* [Disinfecting shared tools and equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3516.md)
+* [Disinfection and sanitization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4900.md)
+* [Enhanced cleaning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1061.md)
+* [Enhanced cleaning and sanitation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3699.md)
+* [Enhanced cleaning and sanitization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3760.md)
 * [Environmental hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4076.md)
 * [Mandatory sanitation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4227.md)
 * [Sanitization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4285.md)

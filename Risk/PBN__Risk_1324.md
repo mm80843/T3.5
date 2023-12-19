@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1324 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1324 
 
 # __Contamination of surfaces__
 
@@ -30,15 +30,15 @@ Covid-19 virus detected on various surfaces in the hospital.
 
 ## Is the risk affecting GBN scales
 
-* [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_0.md)
 
 ## Mitigations of this risk
 
-* [Regular and thorough cleaning and disinfection of surfaces.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3079.md)
-* [Surface disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1130.md)
-* [Use of hygienic materials](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1822.md)
-* [Use of robot-controlled noncontact uv surface disinfection for fast and effective disinfection.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3777.md)
+* [Regular and thorough cleaning and disinfection of surfaces.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1130.md)
+* [Surface disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3777.md)
+* [Use of hygienic materials](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3079.md)
+* [Use of robot-controlled noncontact uv surface disinfection for fast and effective disinfection.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1822.md)
 
 ## Name of the risk
 
@@ -53,9 +53,9 @@ Increased risk of transmission and infection.
 
 ## Stakeholders who can mitigate this risk
 
-* [Cleaning personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_653.md)
-* [Cleaning staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_369.md)
-* [Facility management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_654.md)
+* [Cleaning personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_654.md)
+* [Cleaning staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_653.md)
+* [Facility management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_369.md)
 * [Hospital staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1574.md)
 
 ## Technologies linked to the risk
@@ -67,11 +67,11 @@ Increased risk of transmission and infection.
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_4.md)
+* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_4.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_4.md)
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_4.md)
 
 ## Type of the risk
 

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_276 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/pages/docs/Benef/index.md) >> Individual ID:PBN__Benef_276 
 
 # __Reduction of indirect contact transmission__
 
@@ -24,6 +24,6 @@ Effective disinfection measures decrease the presence of the virus on objects, r
 
 ## Stakeholders benefitting from this Benefit
 
-* [Healthcare staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_139.md)
-* [Patients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_31.md)
+* [Healthcare staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_31.md)
+* [Patients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_139.md)
 

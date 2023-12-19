@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_2040 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_2040 
 
 # __Spread of misinformation and fake news__
 
@@ -29,7 +29,7 @@ Spread of misinformation and fake news about the pandemic leading to confusion a
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Mitigations of this risk
 
@@ -54,11 +54,11 @@ Misinterpretation of guidelines and recommendations; panic and fear among the po
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Innovation, creativity and research](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_2.md)
+* [Innovation, creativity and research](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_2.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
+* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_2.md)
 
 ## Type of the risk
 

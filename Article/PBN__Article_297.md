@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_297 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_297 
 
 # __Leveraging Digital Transformation Technologies to Tackle COVID-19: Proposing a Privacy-First Holistic Framework__
 
@@ -45,17 +45,17 @@ The COVID-19 pandemic is a disease caused by a virus that attacks people's respi
 
 ## This article mentions these technologies
 
-* [Access control mechanisms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_149.md)
-* [Ai algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
-* [Collaboration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_155.md)
-* [Collaboration platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_151.md)
-* [Cost optimization strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_82.md)
-* [Data integration platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_152.md)
-* [Data management techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_97.md)
-* [Data sharing platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_114.md)
-* [Encryption](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_157.md)
-* [Funding](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_153.md)
-* [Incentives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_154.md)
+* [Access control mechanisms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_151.md)
+* [Ai algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_155.md)
+* [Collaboration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_152.md)
+* [Collaboration platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_154.md)
+* [Cost optimization strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_149.md)
+* [Data integration platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
+* [Data management techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_82.md)
+* [Data sharing platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_97.md)
+* [Encryption](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_114.md)
+* [Funding](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_157.md)
+* [Incentives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_153.md)
 * [Interdisciplinary teams](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_150.md)
 * [Legal advocacy](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_103.md)
 * [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_159.md)
@@ -68,10 +68,10 @@ The COVID-19 pandemic is a disease caused by a virus that attacks people's respi
 
 ## This article points to following mitigation
 
-* [Ai-powered diagnosis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3254.md)
-* [Blockchain for data privacy](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3249.md)
-* [Data-driven solutions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3252.md)
-* [Digital contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3247.md)
+* [Ai-powered diagnosis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3247.md)
+* [Blockchain for data privacy](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3254.md)
+* [Data-driven solutions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3249.md)
+* [Digital contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3252.md)
 * [Integrated healthcare environment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3248.md)
 * [Lockdown and quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3253.md)
 * [Prevention applications](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_404.md)

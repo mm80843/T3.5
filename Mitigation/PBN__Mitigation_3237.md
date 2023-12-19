@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3237 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3237 
 
 # __Natural ventilation__
 
@@ -21,7 +21,7 @@
 
 ## Link between Blueprint and General ontology
 
-* [Natural ventilation increase](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_5.md)
+* [Natural ventilation increase](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_5.md)
 
 ## Risks possibly mitigated by this Mitigation
 
@@ -32,11 +32,11 @@
 ## This Mitigation is enabled by the following technologies
 
 * [Air extractors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
-* [Building design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2584.md)
-* [Openable windows](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_140.md)
-* [Ventilation system](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1746.md)
-* [Vents](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2383.md)
-* [Windows](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3429.md)
+* [Building design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3429.md)
+* [Openable windows](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3644.md)
+* [Ventilation system](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_140.md)
+* [Vents](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1746.md)
+* [Windows](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2383.md)
 
 ## This mitigation is used in the following general blueprint(s)
 

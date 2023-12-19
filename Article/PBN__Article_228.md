@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_228 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_228 
 
 # __Effects of temperature and humidity on the spread of COVID-19: A systematic review__
 
@@ -31,31 +31,31 @@ The coronavirus, called SARS-CoV-2 or COVID-19, is a new virus that causes a res
 
 ## This article mentions these technologies
 
-* [Climate control technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
-* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1097.md)
-* [Quarantine protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
+* [Climate control technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
+* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
+* [Quarantine protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1097.md)
 * [Remote healthcare technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_36.md)
 * [Travel restrictions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1098.md)
 * [Ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_834.md)
 
 ## This article points to following mitigation
 
-* [Air filtration and purification](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4210.md)
-* [Climate control in indoor environments](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4214.md)
-* [Combining medical history with diagnosis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4230.md)
-* [Community awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4218.md)
-* [Controlling population density](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4211.md)
-* [Design for physical distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4228.md)
-* [Enhanced cleaning and sanitation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4215.md)
-* [Enhanced isolation of suspected cases](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4220.md)
-* [Hand hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4229.md)
-* [Identification and isolation of cases](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4212.md)
-* [Improved health care facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4226.md)
-* [Improved health information system](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3729.md)
-* [Improved social distancing measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4227.md)
-* [Improved travel limitations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4224.md)
-* [Improved ventilation in indoor spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4219.md)
-* [Increased personal hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_415.md)
+* [Air filtration and purification](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_415.md)
+* [Climate control in indoor environments](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4210.md)
+* [Combining medical history with diagnosis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4214.md)
+* [Community awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4230.md)
+* [Controlling population density](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4218.md)
+* [Design for physical distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4211.md)
+* [Enhanced cleaning and sanitation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4228.md)
+* [Enhanced isolation of suspected cases](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4215.md)
+* [Hand hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4220.md)
+* [Identification and isolation of cases](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4229.md)
+* [Improved health care facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4212.md)
+* [Improved health information system](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4226.md)
+* [Improved social distancing measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3729.md)
+* [Improved travel limitations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4227.md)
+* [Improved ventilation in indoor spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4224.md)
+* [Increased personal hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4219.md)
 * [Isolation measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4222.md)
 * [Migration control programs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4216.md)
 * [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4221.md)

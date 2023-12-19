@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2063 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_2063 
 
 # __Apps and mobile technologies__
 
@@ -21,9 +21,9 @@
 
 ## This Technology belongs to this TechnologySubgroup
 
-* [Apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
-* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1144.md)
-* [Contact-tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1088.md)
+* [Apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1088.md)
+* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
+* [Contact-tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1144.md)
 * [Mental health apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_117.md)
 * [Mobile applications](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_951.md)
 

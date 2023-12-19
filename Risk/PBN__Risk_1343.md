@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1343 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1343 
 
 # __Challenges with quarantining__
 
@@ -29,7 +29,7 @@ Institutional quarantining overburdens the healthcare system, leading to more in
 
 ## Is the risk affecting GBN scales
 
-* [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_0.md)
 
 ## Mitigations of this risk
 
@@ -46,8 +46,8 @@ Strained healthcare system, higher risk of transmission
 
 ## Stakeholders who can mitigate this risk
 
-* [Health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_394.md)
-* [Healthcare institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_269.md)
+* [Health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_269.md)
+* [Healthcare institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_394.md)
 
 ## Technologies linked to the risk
 
@@ -56,11 +56,11 @@ Strained healthcare system, higher risk of transmission
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Mobility](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_14.md)
+* [Mobility](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_14.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
+* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_2.md)
 
 ## Type of the risk
 

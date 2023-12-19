@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1315 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1315 
 
 # __Ineffective administrative controls__
 
@@ -29,7 +29,7 @@ Inadequate implementation of policies and procedures to limit exposure.
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Mitigations of this risk
 
@@ -45,23 +45,23 @@ Increased risk of exposure to SARS-CoV-2 in the workplace.
 
 ## Stakeholders who can mitigate this risk
 
-* [Employers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_832.md)
-* [Health and safety professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_180.md)
+* [Employers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_180.md)
+* [Health and safety professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_832.md)
 * [Human resources](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_839.md)
 
 ## Technologies linked to the risk
 
-* [Employee training](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_480.md)
-* [Policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_154.md)
+* [Employee training](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_154.md)
+* [Policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_480.md)
 * [Protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_481.md)
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Living and working environment](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_1.md)
+* [Living and working environment](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_1.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_1.md)
+* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_1.md)
 
 ## Type of the risk
 

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_253 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_253 
 
 # __Droplet transmission__
 
@@ -30,16 +30,16 @@ Transmission of the virus through respiratory droplets produced by infected indi
 
 ## Is the risk affecting GBN scales
 
-* [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_0.md)
 
 ## Mitigations of this risk
 
-* [Dilution](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2290.md)
-* [Encourage the use of face masks, maintain physical distancing, and implement good respiratory hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_314.md)
-* [Filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3284.md)
-* [Occupancy density and social distancing management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_847.md)
-* [Physical barriers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_312.md)
+* [Dilution](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_312.md)
+* [Encourage the use of face masks, maintain physical distancing, and implement good respiratory hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2290.md)
+* [Filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_314.md)
+* [Occupancy density and social distancing management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3284.md)
+* [Physical barriers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_847.md)
 * [Physical distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2255.md)
 * [Purification](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3574.md)
 * [Social distancing, wearing masks, hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_313.md)
@@ -57,25 +57,25 @@ Increased risk of infection in close proximity to infected individuals
 ## Stakeholders who can mitigate this risk
 
 * [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
-* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_20.md)
-* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_186.md)
-* [Individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
-* [Organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
+* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
+* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_20.md)
+* [Individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
+* [Organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_186.md)
 
 ## Technologies linked to the risk
 
-* [Face masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_340.md)
-* [Masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_341.md)
-* [Physical barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
+* [Face masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_341.md)
+* [Masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
+* [Physical barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_340.md)
 * [Ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1051.md)
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_0.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Safety and security](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_0.md)
+* [Safety and security](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_0.md)
 
 ## Type of the risk
 

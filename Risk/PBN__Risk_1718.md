@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1718 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1718 
 
 # __Transmission via respiratory droplets__
 
@@ -30,8 +30,8 @@ Spread of the virus through coughing, sneezing, or exhaling
 
 ## Is the risk affecting GBN scales
 
-* [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_0.md)
 
 ## Mitigations of this risk
 
@@ -52,24 +52,24 @@ Rapid spread of the disease to others in close proximity
 ## Stakeholders who can mitigate this risk
 
 * [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
-* [Healthcare facility](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_20.md)
-* [Healthcare organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_216.md)
+* [Healthcare facility](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_216.md)
+* [Healthcare organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_20.md)
 * [Individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1250.md)
 
 ## Technologies linked to the risk
 
-* [Disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_340.md)
-* [Face masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_136.md)
-* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_411.md)
+* [Disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_411.md)
+* [Face masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_340.md)
+* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_136.md)
 * [Social distancing measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1099.md)
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_4.md)
+* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_4.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_3.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_3.md)
 
 ## Type of the risk
 

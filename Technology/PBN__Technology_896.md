@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_896 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_896 
 
 # __Social media__
 
@@ -21,7 +21,7 @@
 
 ## Link between Blueprint and General ontology
 
-* [Social Networks](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_20.md)
+* [Social Networks](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_20.md)
 
 ## Risks linked to this technology
 
@@ -31,26 +31,26 @@
 
 ## Technology in the TechnologyGroup
 
-* [Advocacy campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
-* [Apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_67.md)
-* [Collaborations with social media platforms to combat misinformation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1144.md)
+* [Advocacy campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
+* [Apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_426.md)
+* [Collaborations with social media platforms to combat misinformation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_47.md)
 * [Communication campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1088.md)
-* [Communication channels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_75.md)
-* [Communication technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_44.md)
-* [Community engagement strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_117.md)
-* [Community support groups](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1427.md)
-* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_124.md)
-* [Contact-tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1155.md)
-* [Customer feedback systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1661.md)
-* [Destination marketing campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_24.md)
-* [Digital communication tools for cross-regional collaboration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_5.md)
-* [Digital inclusion initiatives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_445.md)
-* [Digital marketing techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
-* [Dissemination of accurate information through various channels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_426.md)
-* [Education and awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_896.md)
-* [Education on media literacy](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_951.md)
-* [Educational campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_46.md)
-* [Educational websites](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_47.md)
+* [Communication channels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
+* [Communication technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_67.md)
+* [Community engagement strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1144.md)
+* [Community support groups](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_75.md)
+* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_44.md)
+* [Contact-tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_117.md)
+* [Customer feedback systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1427.md)
+* [Destination marketing campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_124.md)
+* [Digital communication tools for cross-regional collaboration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1155.md)
+* [Digital inclusion initiatives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1661.md)
+* [Digital marketing techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_24.md)
+* [Dissemination of accurate information through various channels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_5.md)
+* [Education and awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_445.md)
+* [Education on media literacy](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_896.md)
+* [Educational campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_951.md)
+* [Educational websites](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_46.md)
 * [Email](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_891.md)
 * [Equal opportunity initiatives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1425.md)
 * [Fact-checking mechanisms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1092.md)

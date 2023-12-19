@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_187 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/pages/docs/Benef/index.md) >> Individual ID:PBN__Benef_187 
 
 # __Increased accessibility to green space__
 
@@ -24,7 +24,7 @@ Proximity to green space is important for physical and mental health, particular
 
 ## Stakeholders benefitting from this Benefit
 
-* [And people with disabilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_107.md)
-* [Children](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_62.md)
+* [And people with disabilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_62.md)
+* [Children](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_107.md)
 * [Older people](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_108.md)
 

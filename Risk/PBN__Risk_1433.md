@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1433 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1433 
 
 # __Lack of public awareness and education__
 
@@ -32,7 +32,7 @@ Insufficient knowledge about disease prevention and transmission among the publi
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Mitigations of this risk
 
@@ -47,28 +47,28 @@ People engage in risky behaviors, lower compliance with preventive measures
 
 ## People affected by this risk
 
-* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_222.md)
-* [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
-* [Public health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_29.md)
+* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
+* [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_29.md)
+* [Public health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_222.md)
 * [Vulnerable groups](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_127.md)
 * [Vulnerable populations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_115.md)
 
 ## Stakeholders who can mitigate this risk
 
-* [Educational institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_222.md)
-* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
-* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
+* [Educational institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
+* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
+* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_234.md)
 * [Healthcare organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_216.md)
-* [Media organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_234.md)
-* [Ngos](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_66.md)
-* [Public health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_545.md)
+* [Media organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_222.md)
+* [Ngos](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_545.md)
+* [Public health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_66.md)
 
 ## Technologies linked to the risk
 
-* [Community engagement platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_895.md)
-* [Digital communication platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_493.md)
-* [Educational campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_896.md)
-* [Educational materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_47.md)
+* [Community engagement platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_493.md)
+* [Digital communication platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_47.md)
+* [Educational campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_895.md)
+* [Educational materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_896.md)
 * [Health promotion campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_251.md)
 * [Public education programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1545.md)
 * [Public health messaging systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_878.md)
@@ -78,11 +78,11 @@ People engage in risky behaviors, lower compliance with preventive measures
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Education and capacity building](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_7.md)
+* [Education and capacity building](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_7.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_6.md)
+* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_6.md)
 
 ## Type of the risk
 

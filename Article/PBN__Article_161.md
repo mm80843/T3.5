@@ -1,14 +1,14 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_161 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_161 
 
 # __COVID-19 and Living space challenge. Well-being and Public Health recommendations for a healthy, safe, and sustainable housing.__
 
 ## Benefits listed in this article
 
-* [Efficient waste collection and management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_804.md)
-* [Health benefits](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_756.md)
-* [Improved functionality and safety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_803.md)
-* [Improved indoor environment quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_802.md)
-* [Safe water supply and waste management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_805.md)
+* [Efficient waste collection and management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_802.md)
+* [Health benefits](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_803.md)
+* [Improved functionality and safety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_805.md)
+* [Improved indoor environment quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_804.md)
+* [Safe water supply and waste management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_756.md)
 
 ## DOI of the article
 

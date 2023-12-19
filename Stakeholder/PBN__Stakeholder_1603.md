@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1603 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1603 
 
 # __Governmental entities__
 
@@ -22,13 +22,13 @@
 ## Stakeholders in this stakeholder subgroup
 
 * [City administrators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
-* [City council](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_333.md)
-* [City councils](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_302.md)
-* [City government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_724.md)
-* [City governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1613.md)
-* [City officials](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1186.md)
-* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_354.md)
-* [Government authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1273.md)
+* [City council](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_302.md)
+* [City councils](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_354.md)
+* [City government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1273.md)
+* [City governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_333.md)
+* [City officials](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_724.md)
+* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1613.md)
+* [Government authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1186.md)
 * [Government authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_718.md)
 * [Government officials](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1110.md)
 * [Saudi government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_798.md)

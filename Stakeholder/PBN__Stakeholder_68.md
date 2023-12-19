@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_68 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_68 
 
 # __Healthcare workers__
 
@@ -190,10 +190,10 @@
 
 ## Stakeholders in this stakeholder subgroup
 
-* [Healthcare manager](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_432.md)
-* [Healthcare managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1833.md)
-* [Healthcare professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_139.md)
-* [Healthcare staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_32.md)
+* [Healthcare manager](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_32.md)
+* [Healthcare managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_432.md)
+* [Healthcare professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1833.md)
+* [Healthcare staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_139.md)
 * [Healthcare worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1839.md)
 * [Hospital worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1826.md)
 * [Hospital workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1193.md)
@@ -229,13 +229,13 @@
 
 ## This Stakeholder can get these Benefits from mitigation measures
 
-* [Contactless delivery and disinfection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_0.md)
+* [Contactless delivery and disinfection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_679.md)
 * [Disease prevention](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_192.md)
-* [Early detection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_750.md)
+* [Early detection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1121.md)
 * [Early detection and monitoring](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_575.md)
-* [Early detection and monitoring of pathogens](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_912.md)
-* [Efficient contact tracing](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_679.md)
-* [Efficient tracking of high-risk patients](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1121.md)
+* [Early detection and monitoring of pathogens](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_0.md)
+* [Efficient contact tracing](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_750.md)
+* [Efficient tracking of high-risk patients](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_912.md)
 * [Efficient transportation and monitoring](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1263.md)
 * [Enhanced protection for healthcare workers](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_112.md)
 * [Faster identification](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1264.md)
@@ -259,7 +259,7 @@
 
 ## Type of the stakeholder
 
-* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_0.md)
-* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
-* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_0.md)
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_2.md)
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_1.md)
 

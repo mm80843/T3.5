@@ -1,11 +1,11 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_172 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_172 
 
 # __How to Make Green Building Certification \& Rating Systems More Pandemic-Sustainable?__
 
 ## Benefits listed in this article
 
-* [Bacterial activity prevention](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_229.md)
-* [Disease transmission reduction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_153.md)
+* [Bacterial activity prevention](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_153.md)
+* [Disease transmission reduction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_229.md)
 * [Energy demand management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_849.md)
 * [Ensured access to necessities](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_850.md)
 * [Improved mental well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_851.md)
@@ -52,24 +52,24 @@ The construction industry pollutes the environment a lot. So, it's important for
 
 ## This article points to following mitigation
 
-* [Access to alternative water sources](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4970.md)
-* [Adjustable indoor spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5040.md)
-* [Backup energy sources](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_218.md)
-* [Common building spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_223.md)
-* [Disinfection of household waste](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5042.md)
-* [Greeneries or gardens](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5047.md)
-* [Greywater separation technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5041.md)
-* [Household-level activity/sports spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5048.md)
-* [Ict infrastructure access](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5055.md)
-* [Improved waste management strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_238.md)
-* [Natural light](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5050.md)
-* [Noise insulation and acoustics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_345.md)
-* [Outdoor spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5052.md)
-* [Safe drinking water](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5053.md)
-* [Sealing of pipes](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5054.md)
-* [Segregation of medical waste](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5049.md)
-* [Self-dependent services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5043.md)
-* [Separate toilets for infected](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_237.md)
+* [Access to alternative water sources](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_345.md)
+* [Adjustable indoor spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_237.md)
+* [Backup energy sources](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4970.md)
+* [Common building spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5040.md)
+* [Disinfection of household waste](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_218.md)
+* [Greeneries or gardens](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_223.md)
+* [Greywater separation technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5042.md)
+* [Household-level activity/sports spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5047.md)
+* [Ict infrastructure access](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5041.md)
+* [Improved waste management strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5048.md)
+* [Natural light](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5055.md)
+* [Noise insulation and acoustics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_238.md)
+* [Outdoor spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5050.md)
+* [Safe drinking water](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5052.md)
+* [Sealing of pipes](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5053.md)
+* [Segregation of medical waste](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5054.md)
+* [Self-dependent services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5049.md)
+* [Separate toilets for infected](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5043.md)
 * [Smart air quality control](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5046.md)
 * [Touchless technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5044.md)
 * [Wastewater management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5051.md)

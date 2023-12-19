@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_2787 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_2787 
 
 # __None__
 
@@ -21,9 +21,9 @@
 
 ## Mitigations of this risk
 
-* [3d-printed isolation wards](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_416.md)
-* [3d-printed ppe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_84.md)
-* [Designing with nature](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [3d-printed isolation wards](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [3d-printed ppe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_416.md)
+* [Designing with nature](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_84.md)
 * [Enhanced cleaning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
 * [Face masks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4051.md)
 * [Green ppe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4552.md)

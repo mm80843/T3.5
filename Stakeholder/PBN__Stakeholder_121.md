@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_121 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_121 
 
 # __Healthcare providers__
 
@@ -152,8 +152,8 @@
 
 ## This Stakeholder can get these Benefits from mitigation measures
 
-* [Adaptability of building to meet shifting demands](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_385.md)
-* [Broader healthcare applications](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_35.md)
+* [Adaptability of building to meet shifting demands](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_35.md)
+* [Broader healthcare applications](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_385.md)
 * [Decreased workload for healthcare staff](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_217.md)
 * [Early detection and response](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_218.md)
 * [Early detection of infection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1386.md)
@@ -201,7 +201,7 @@
 
 ## Type of the stakeholder
 
-* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_0.md)
-* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
-* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_0.md)
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_2.md)
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_1.md)
 

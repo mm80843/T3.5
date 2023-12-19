@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__aBlueprint_30 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/pages/docs/Blueprint/index.md) >> Individual ID:PBN__aBlueprint_30 
 
 # __Implementing Contagious Disease Control and Privacy Protection__
 
@@ -37,34 +37,34 @@
 ## 4. Blueprint links to these mitigations
 
 * [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3332.md)
-* [Implement data protection and privacy regulations, ensure transparency and consent in data collection and usage](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2776.md)
-* [Implement strong data protection measures, obtain consent, and ensure data anonymity.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2059.md)
-* [Name-and-shame or prosecute anti-social activities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1680.md)
-* [Strong data encryption, secure data storage, consent-based data sharing.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5163.md)
+* [Implement data protection and privacy regulations, ensure transparency and consent in data collection and usage](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5163.md)
+* [Implement strong data protection measures, obtain consent, and ensure data anonymity.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2776.md)
+* [Name-and-shame or prosecute anti-social activities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2059.md)
+* [Strong data encryption, secure data storage, consent-based data sharing.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1680.md)
 
 ## 5. Blueprint mitigation can be owned by these stakeholders
 
 * [Data handlers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
-* [Data scientists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_706.md)
-* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_742.md)
-* [Regulatory bodies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_625.md)
+* [Data scientists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_625.md)
+* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_706.md)
+* [Regulatory bodies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_742.md)
 * [Wearable device manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1427.md)
 
 ## 6. Blueprint links to these benefits
 
-* [Early detection of covid-19](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_988.md)
-* [Early warning of disease outbreaks](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_5.md)
-* [Population-wide surveillance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1206.md)
+* [Early detection of covid-19](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_5.md)
+* [Early warning of disease outbreaks](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1206.md)
+* [Population-wide surveillance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_988.md)
 
 ## 7. Blueprint links to these technology
 
-* [Analytical chemistry](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2341.md)
-* [Connectivity](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2342.md)
-* [Gps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2468.md)
-* [Iot](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2669.md)
-* [Pcr assay](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2822.md)
-* [Qrt pcr testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
-* [Reverse transcriptase quantitative polymerase chain reaction rt-qpcr](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_277.md)
-* [Sequencing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2398.md)
-* [Sewage monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3517.md)
+* [Analytical chemistry](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
+* [Connectivity](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2468.md)
+* [Gps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2822.md)
+* [Iot](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2342.md)
+* [Pcr assay](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_277.md)
+* [Qrt pcr testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2670.md)
+* [Reverse transcriptase quantitative polymerase chain reaction rt-qpcr](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2398.md)
+* [Sequencing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3517.md)
+* [Sewage monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2341.md)
 

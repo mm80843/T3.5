@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_263 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_263 
 
 # __Aerosol and Surface Distribution of Severe Acute Respiratory Syndrome Coronavirus 2 in Hospital Wards, Wuhan, China, 2020__
 
@@ -35,12 +35,12 @@ A study found that the coronavirus (SARS-CoV-2) can be found on the floor, objec
 ## This article mentions these technologies
 
 * [Air filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
-* [Automated cleaning systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_136.md)
-* [Disinfectant sprays](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_203.md)
-* [Disinfectant wipes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_204.md)
-* [Hepa filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_671.md)
-* [Isolation protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_670.md)
-* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_672.md)
+* [Automated cleaning systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_672.md)
+* [Disinfectant sprays](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_671.md)
+* [Disinfectant wipes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_136.md)
+* [Hepa filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_203.md)
+* [Isolation protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_204.md)
+* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_205.md)
 * [Uv disinfection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_673.md)
 
 ## This article points to following mitigation

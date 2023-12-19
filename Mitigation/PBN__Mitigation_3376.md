@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3376 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3376 
 
 # __Safety wearables and carry-ons__
 
@@ -29,8 +29,8 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Gloves](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2536.md)
-* [Ppe masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_485.md)
+* [Gloves](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_485.md)
+* [Ppe masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2536.md)
 * [Sanitizer](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2535.md)
 
 ## Property: has_MitigationPrinciple

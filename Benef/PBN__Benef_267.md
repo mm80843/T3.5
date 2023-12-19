@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_267 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/pages/docs/Benef/index.md) >> Individual ID:PBN__Benef_267 
 
 # __Enhanced sense of safety__
 
@@ -24,6 +24,6 @@ Increases trust and comfort on campus
 
 ## Stakeholders benefitting from this Benefit
 
-* [Students](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_101.md)
-* [Visitors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_118.md)
+* [Students](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_118.md)
+* [Visitors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_101.md)
 

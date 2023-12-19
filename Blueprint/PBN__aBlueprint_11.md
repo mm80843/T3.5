@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__aBlueprint_11 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/pages/docs/Blueprint/index.md) >> Individual ID:PBN__aBlueprint_11 
 
 # __Implementing Vaccination Strategies and Awareness Campaigns__
 
@@ -29,42 +29,42 @@
 ## 3. Blueprint impacts these stakeholders
 
 * [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_68.md)
-* [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_310.md)
-* [Healthcare workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
-* [Public health officials](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_29.md)
+* [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
+* [Healthcare workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_29.md)
+* [Public health officials](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_310.md)
 * [Vaccinated individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1289.md)
 
 ## 4. Blueprint links to these mitigations
 
-* [Continue research and development of vaccines against sars-cov-2.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3062.md)
-* [Implement effective communication and education campaigns to address vaccine hesitancy, provide accurate information, and address concerns and misconceptions. engage with local communities and healthcare providers.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3329.md)
-* [Public education and awareness campaigns about vaccine safety and importance, strengthen immunization programs.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_598.md)
-* [Vaccination](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2507.md)
-* [Vaccine development](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2725.md)
+* [Continue research and development of vaccines against sars-cov-2.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3329.md)
+* [Implement effective communication and education campaigns to address vaccine hesitancy, provide accurate information, and address concerns and misconceptions. engage with local communities and healthcare providers.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2507.md)
+* [Public education and awareness campaigns about vaccine safety and importance, strengthen immunization programs.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2725.md)
+* [Vaccination](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3062.md)
+* [Vaccine development](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_598.md)
 
 ## 5. Blueprint mitigation can be owned by these stakeholders
 
-* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
-* [Healthcare organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_121.md)
-* [Healthcare providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
+* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
+* [Healthcare organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
+* [Healthcare providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_121.md)
 * [Pharmaceutical companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_216.md)
 * [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_124.md)
 
 ## 6. Blueprint links to these benefits
 
 * [Early detection of waning efficacy](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_595.md)
-* [Long-term protection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1184.md)
-* [Reduced risk of reinfection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1183.md)
+* [Long-term protection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1183.md)
+* [Reduced risk of reinfection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1184.md)
 
 ## 7. Blueprint links to these technology
 
 * [Collaboration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
-* [Community outreach](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_151.md)
-* [Financial resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2478.md)
-* [Local vaccine manufacturing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_826.md)
-* [Vaccination campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3019.md)
-* [Vaccination clinics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1487.md)
-* [Vaccine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1602.md)
-* [Vaccine development and distribution](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3005.md)
-* [Vaccines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3006.md)
+* [Community outreach](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3271.md)
+* [Financial resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_826.md)
+* [Local vaccine manufacturing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1487.md)
+* [Vaccination campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1602.md)
+* [Vaccination clinics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2478.md)
+* [Vaccine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3005.md)
+* [Vaccine development and distribution](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3006.md)
+* [Vaccines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3019.md)
 

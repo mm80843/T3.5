@@ -1,13 +1,13 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_207 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_207 
 
 # __When the fourth water and digital revolution encountered COVID-19__
 
 ## Benefits listed in this article
 
-* [Additional revenue](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_659.md)
-* [Early detection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1002.md)
-* [Enhanced treatment](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1000.md)
-* [Improved decision-making](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1003.md)
+* [Additional revenue](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_0.md)
+* [Early detection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_659.md)
+* [Enhanced treatment](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1002.md)
+* [Improved decision-making](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1000.md)
 * [Optimized operations](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1001.md)
 * [Prevention of clogs](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_999.md)
 * [Reduction in leaks](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_998.md)

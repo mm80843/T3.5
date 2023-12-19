@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_139 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_139 
 
 # __Ventilation systems__
 
@@ -59,8 +59,8 @@
 
 ## This Technology belongs to this TechSubgroup
 
-* [Air quality and filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
-* [Building systems and design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
+* [Air quality and filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
+* [Building systems and design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
 * [Hvac and air quality systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2120.md)
 * [Hvac and ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2116.md)
 * [Indoor environment and ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2117.md)
@@ -70,12 +70,12 @@
 
 ## This Technology belongs to this TechnologySubgroup
 
-* [Air filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
-* [Environmental control systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_203.md)
-* [Hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1829.md)
-* [Hvac systems with humidity control capabilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_185.md)
-* [Hvac systems with improved ventilation and air filtration capabilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1011.md)
-* [Hvac technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_270.md)
+* [Air filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_185.md)
+* [Environmental control systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1829.md)
+* [Hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
+* [Hvac systems with humidity control capabilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_270.md)
+* [Hvac systems with improved ventilation and air filtration capabilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_203.md)
+* [Hvac technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1011.md)
 * [Mechanical and natural ventilation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1012.md)
 * [Mechanical ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1112.md)
 * [Natural ventilation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2263.md)
@@ -89,26 +89,26 @@
 
 ## This Technology enables the following mitigations
 
-* [Adequate ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5227.md)
-* [Air ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3240.md)
-* [Control of moisture and humidity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_606.md)
-* [Designing ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_476.md)
-* [Enhanced hvac systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3572.md)
-* [Good air flow](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_372.md)
-* [Healthy building design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3578.md)
-* [Higher ventilation rates](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_627.md)
-* [Improve ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3532.md)
-* [Improved ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1193.md)
-* [Improved ventilation and sunlight exposure in buildings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4015.md)
-* [Improved ventilation in indoor spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1381.md)
-* [Improvement of ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4725.md)
-* [Improving indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5216.md)
-* [Increased ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5031.md)
-* [Maintaining optimum ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4585.md)
-* [Natural ventilation and thermal comfort at home](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3923.md)
-* [Personal cleanliness, sanitization, and ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5112.md)
-* [Proper building ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4659.md)
-* [State-of-the-art ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4506.md)
+* [Adequate ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4506.md)
+* [Air ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5227.md)
+* [Control of moisture and humidity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3240.md)
+* [Designing ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_606.md)
+* [Enhanced hvac systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_476.md)
+* [Good air flow](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3572.md)
+* [Healthy building design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_372.md)
+* [Higher ventilation rates](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3578.md)
+* [Improve ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_627.md)
+* [Improved ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3532.md)
+* [Improved ventilation and sunlight exposure in buildings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1193.md)
+* [Improved ventilation in indoor spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4015.md)
+* [Improvement of ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1381.md)
+* [Improving indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4725.md)
+* [Increased ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5216.md)
+* [Maintaining optimum ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5031.md)
+* [Natural ventilation and thermal comfort at home](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4585.md)
+* [Personal cleanliness, sanitization, and ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3923.md)
+* [Proper building ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5112.md)
+* [State-of-the-art ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4659.md)
 * [Upgrading site facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4669.md)
 * [Ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4641.md)
 * [Ventilation and air filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4223.md)

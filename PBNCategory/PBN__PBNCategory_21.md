@@ -1,22 +1,22 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_21 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/pages/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_21 
 
 # __Efficient and seamless remote access to healthcare, education, work, and professional connections.__
 
 ## Items covered in this category
 
 * [Access to education](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_36.md)
-* [Automation of healthcare services, telemedicine](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_351.md)
-* [Client satisfaction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_982.md)
-* [Continued access to education](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1154.md)
-* [Enhanced healthcare delivery](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_400.md)
-* [Fast and reliable internet for remote work and study](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_105.md)
-* [Improved remote work capabilities](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_712.md)
-* [Online tax assistance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_455.md)
-* [Professional networking](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_725.md)
-* [Remote consultation solutions](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_731.md)
-* [Remote consultations and guidance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1307.md)
-* [Remote counseling services](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_159.md)
-* [Remote healthcare and work](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_640.md)
+* [Automation of healthcare services, telemedicine](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_640.md)
+* [Client satisfaction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_351.md)
+* [Continued access to education](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_982.md)
+* [Enhanced healthcare delivery](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1154.md)
+* [Fast and reliable internet for remote work and study](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_400.md)
+* [Improved remote work capabilities](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_105.md)
+* [Online tax assistance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_712.md)
+* [Professional networking](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_455.md)
+* [Remote consultation solutions](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_725.md)
+* [Remote consultations and guidance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_731.md)
+* [Remote counseling services](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1307.md)
+* [Remote healthcare and work](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_159.md)
 * [Remote healthcare delivery](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_287.md)
 * [Remote healthcare support](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1360.md)
 * [Remote multidisciplinary team meetings](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_459.md)

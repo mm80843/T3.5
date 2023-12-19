@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3596 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3596 
 
 # __Real-world evidence__
 
@@ -25,8 +25,8 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Claims and billing activities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2700.md)
-* [Disease registries](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2694.md)
+* [Claims and billing activities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2694.md)
+* [Disease registries](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2700.md)
 * [Ehrs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2698.md)
 * [Mobile-health disease-monitoring data](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2699.md)
 

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1219 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1219 
 
 # __Limited penetration of far-uvc light__
 
@@ -29,7 +29,7 @@ Far-UVC light cannot penetrate living cells in human skin or eyes, limiting its 
 
 ## Is the risk affecting GBN scales
 
-* [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_0.md)
 
 ## Mitigations of this risk
 
@@ -46,8 +46,8 @@ Limited effectiveness in killing pathogens in living cells in the skin and eyes.
 
 ## Stakeholders who can mitigate this risk
 
-* [Building managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_173.md)
-* [Government regulators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_737.md)
+* [Building managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_737.md)
+* [Government regulators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_173.md)
 * [Public health organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_10.md)
 
 ## Technologies linked to the risk
@@ -58,7 +58,7 @@ Limited effectiveness in killing pathogens in living cells in the skin and eyes.
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_4.md)
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_4.md)
 
 ## Type of the risk
 

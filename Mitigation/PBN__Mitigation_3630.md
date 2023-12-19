@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3630 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3630 
 
 # __Public health education and awareness__
 
@@ -27,8 +27,8 @@
 ## This Mitigation is enabled by the following technologies
 
 * [Internet](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2454.md)
-* [Media](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2729.md)
-* [Public communication channels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3022.md)
+* [Media](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3022.md)
+* [Public communication channels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2729.md)
 
 ## Property: has_MitigationPrinciple
 

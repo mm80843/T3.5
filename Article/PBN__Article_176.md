@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_176 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_176 
 
 # __Knowledge, attitudes, and practices of Indonesian residents regarding COVID-19: A national cross-sectional survey__
 
@@ -32,8 +32,8 @@ In summary, this study looked at what Indonesian residents know about COVID-19, 
 
 ## This article mentions these technologies
 
-* [Access to testing facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_24.md)
-* [Dissemination of accurate information through various channels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
+* [Access to testing facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
+* [Dissemination of accurate information through various channels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_24.md)
 * [Empathy-building programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1998.md)
 * [Enforcement of guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1993.md)
 * [Fact-checking tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_581.md)

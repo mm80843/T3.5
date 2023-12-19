@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2103 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_2103 
 
 # __Hygiene and sanitation practices and protocols__
 
@@ -21,22 +21,22 @@
 
 ## This Technology belongs to this TechnologySubgroup
 
-* [Adherence to biosafety guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_740.md)
-* [Cleaning and disinfection products](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1662.md)
-* [Cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_718.md)
-* [Cleaning products and equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2226.md)
-* [Cleaning protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_227.md)
-* [Cleaning services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_766.md)
-* [Clear cleaning protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1416.md)
-* [Disinfection protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_410.md)
-* [Distancing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_828.md)
-* [Enhanced cleaning and disinfecting protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_829.md)
-* [Enhanced cleaning and hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_830.md)
-* [Enhanced cleaning and safety protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_858.md)
-* [Enhanced cleaning and sanitization protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1495.md)
-* [Enhanced sanitization measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_525.md)
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1822.md)
-* [Hand hygiene guidance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_768.md)
+* [Adherence to biosafety guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_410.md)
+* [Cleaning and disinfection products](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_768.md)
+* [Cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_740.md)
+* [Cleaning products and equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1662.md)
+* [Cleaning protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_718.md)
+* [Cleaning services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2226.md)
+* [Clear cleaning protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_227.md)
+* [Disinfection protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_766.md)
+* [Distancing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1416.md)
+* [Enhanced cleaning and disinfecting protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_828.md)
+* [Enhanced cleaning and hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_829.md)
+* [Enhanced cleaning and safety protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_830.md)
+* [Enhanced cleaning and sanitization protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_858.md)
+* [Enhanced sanitization measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1495.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_525.md)
+* [Hand hygiene guidance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1822.md)
 * [Hand sanitizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_143.md)
 * [Handwashing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1238.md)
 * [Hygiene protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_949.md)

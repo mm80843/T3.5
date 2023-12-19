@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_90 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_90 
 
 # __Effects of the COVID-19 pandemic on the use and perceptions of urban green space: An international exploratory study__
 
@@ -31,8 +31,8 @@ During the COVID-19 pandemic, people were not able to go outside and visit parks
 
 ## This article mentions these technologies
 
-* [Community engagement](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_67.md)
-* [Community outreach programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_404.md)
+* [Community engagement](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_404.md)
+* [Community outreach programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_67.md)
 * [Contactless technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1839.md)
 * [Crowd-monitoring technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1835.md)
 * [Enhanced cleaning protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_51.md)
@@ -48,16 +48,16 @@ During the COVID-19 pandemic, people were not able to go outside and visit parks
 
 ## This article points to following mitigation
 
-* [Contact tracing and testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5039.md)
-* [Disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_432.md)
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Contact tracing and testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_415.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3329.md)
 * [Isolation and quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_564.md)
-* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3329.md)
-* [Public health education](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
-* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5038.md)
-* [Travel restrictions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_627.md)
-* [Vaccination](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3283.md)
-* [Ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_415.md)
+* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5039.md)
+* [Public health education](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_432.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
+* [Travel restrictions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5038.md)
+* [Vaccination](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_627.md)
+* [Ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3283.md)
 
 ## Title of the article
 

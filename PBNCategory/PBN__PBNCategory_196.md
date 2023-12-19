@@ -1,23 +1,23 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_196 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/pages/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_196 
 
 # __Innovations and applications in chemistry, materials, and technology for purification, disinfection, and environmental protection.__
 
 ## Items covered in this category
 
-* [3d printing for component manufacturing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2670.md)
-* [62-71% ethanol solution](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3847.md)
-* [75% 2-propanol](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2343.md)
-* [Activated carbon](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_928.md)
-* [Additive manufacturing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3509.md)
-* [Adsorption-elution](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3364.md)
-* [Advanced mass spectrometry](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2858.md)
-* [Alcohol-based hand rubs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_212.md)
-* [Alcohol-based hand rubs 80% ethanol](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_760.md)
-* [Alloys copper](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_506.md)
-* [Aluminum hydroxide adsorption-precipitation protocol](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2940.md)
-* [Analytical chemistry](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2941.md)
-* [Atomized silver nanoparticles](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_850.md)
-* [Benzalkonium chloride](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_851.md)
+* [3d printing for component manufacturing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2940.md)
+* [62-71% ethanol solution](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2941.md)
+* [75% 2-propanol](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2670.md)
+* [Activated carbon](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3847.md)
+* [Additive manufacturing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_851.md)
+* [Adsorption-elution](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_850.md)
+* [Advanced mass spectrometry](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3509.md)
+* [Alcohol-based hand rubs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2343.md)
+* [Alcohol-based hand rubs 80% ethanol](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_928.md)
+* [Alloys copper](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3364.md)
+* [Aluminum hydroxide adsorption-precipitation protocol](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2858.md)
+* [Analytical chemistry](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_212.md)
+* [Atomized silver nanoparticles](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_760.md)
+* [Benzalkonium chloride](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_506.md)
 * [Biocidal agents such as hydrogen peroxide](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2939.md)
 * [Biological and chemical methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1236.md)
 * [Bipolar ionization devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2430.md)

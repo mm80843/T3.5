@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4187 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4187 
 
 # __Mobile apps for information and contact tracing__
 
@@ -25,8 +25,8 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Bluetooth](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2542.md)
-* [Gps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2398.md)
+* [Bluetooth](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2398.md)
+* [Gps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2542.md)
 * [Mobile app technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2397.md)
 
 ## Property: has_MitigationPrinciple

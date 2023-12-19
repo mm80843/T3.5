@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_974 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_974 
 
 # __Transmission__
 
@@ -31,39 +31,39 @@ Risk of COVID-19 transmission in the built environment
 
 ## Is the risk affecting GBN scales
 
-* [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_2.md)
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_0.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_2.md)
 
 ## Mitigations of this risk
 
-* [Capacity limitations, lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3822.md)
-* [Cloud-based tracing and tracking](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1364.md)
-* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3119.md)
-* [Crowdsourced smartphone data](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3420.md)
-* [Curfew](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
-* [Curfew part one](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3123.md)
-* [Curfew part two](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_564.md)
-* [Curfews](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
-* [Environmental sanitation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4051.md)
-* [Face masks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_832.md)
-* [Face recognition and thermal screening](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_427.md)
-* [Free testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3417.md)
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1882.md)
-* [Hand washing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3159.md)
-* [Hygiene and sanitation measures, promotion of nan social distancing and nan nan vaccination programs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3284.md)
-* [Implement measures such as wearing masks, social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1965.md)
-* [Implement social distancing measures, case isolation, and home quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3426.md)
-* [Infrared thermal cameras](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3689.md)
-* [Isolate and test with school closure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3425.md)
-* [Lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3126.md)
-* [Mandatory mask usage](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_425.md)
-* [Mass testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3424.md)
-* [Mobile healthcare](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3120.md)
-* [Mobility restrictions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3258.md)
-* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4496.md)
-* [Phase i relaxation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3416.md)
-* [Phase ii relaxation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1363.md)
-* [Phase iii relaxation - part 1](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_415.md)
+* [Capacity limitations, lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Cloud-based tracing and tracking](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_415.md)
+* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3123.md)
+* [Crowdsourced smartphone data](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_832.md)
+* [Curfew](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_564.md)
+* [Curfew part one](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_427.md)
+* [Curfew part two](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3822.md)
+* [Curfews](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1364.md)
+* [Environmental sanitation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3119.md)
+* [Face masks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3420.md)
+* [Face recognition and thermal screening](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
+* [Free testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4051.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3417.md)
+* [Hand washing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1882.md)
+* [Hygiene and sanitation measures, promotion of nan social distancing and nan nan vaccination programs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3159.md)
+* [Implement measures such as wearing masks, social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3284.md)
+* [Implement social distancing measures, case isolation, and home quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1965.md)
+* [Infrared thermal cameras](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3426.md)
+* [Isolate and test with school closure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3689.md)
+* [Lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3425.md)
+* [Mandatory mask usage](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3126.md)
+* [Mass testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_425.md)
+* [Mobile healthcare](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3424.md)
+* [Mobility restrictions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3120.md)
+* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3258.md)
+* [Phase i relaxation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4496.md)
+* [Phase ii relaxation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3416.md)
+* [Phase iii relaxation - part 1](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1363.md)
 * [Phase iii relaxation - part 2](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3128.md)
 * [Physical distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3422.md)
 * [Ppe usage and disposal protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3418.md)
@@ -98,10 +98,10 @@ High number of infections and potential overload of health systems
 
 ## Stakeholders who can mitigate this risk
 
-* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_452.md)
-* [Healthcare authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_173.md)
-* [Individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
-* [Public health organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_20.md)
+* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
+* [Healthcare authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_20.md)
+* [Individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_452.md)
+* [Public health organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_173.md)
 * [Systems](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1518.md)
 
 ## Technologies linked to the risk
@@ -114,11 +114,11 @@ High number of infections and potential overload of health systems
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_0.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Safety and security](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_0.md)
+* [Safety and security](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_0.md)
 
 ## Type of the risk
 

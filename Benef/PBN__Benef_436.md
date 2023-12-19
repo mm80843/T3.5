@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_436 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/pages/docs/Benef/index.md) >> Individual ID:PBN__Benef_436 
 
 # __Improved health and well-being__
 
@@ -30,8 +30,8 @@ Improved air quality reduces the risk of respiratory diseases and improves overa
 
 ## Stakeholders benefitting from this Benefit
 
-* [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_58.md)
-* [Household members](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
+* [Household members](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_58.md)
 * [Public health](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_162.md)
 
 ## This benefit is realized in the following general blueprint(s)

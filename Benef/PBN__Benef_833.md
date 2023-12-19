@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_833 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/pages/docs/Benef/index.md) >> Individual ID:PBN__Benef_833 
 
 # __Cost savings__
 
@@ -22,12 +22,12 @@ Workforce reduction can lead to cost savings in terms of labor expenses.
 
 ## Risks which can benefit from this action
 
-* [Combined use of wbe followed by clinical testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1204.md)
-* [Workforce reduction](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_833.md)
+* [Combined use of wbe followed by clinical testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_833.md)
+* [Workforce reduction](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1204.md)
 
 ## Stakeholders benefitting from this Benefit
 
 * [Construction companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
-* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_193.md)
-* [Healthcare systems](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_181.md)
+* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_181.md)
+* [Healthcare systems](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_193.md)
 

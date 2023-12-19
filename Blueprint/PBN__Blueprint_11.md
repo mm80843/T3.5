@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_11 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/pages/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_11 
 
 # __Installing high-efficiency air filters__
 
@@ -20,25 +20,25 @@ Addenbrooke’s Hospital (Cambridge, UK)
 
 ## Enablers of the blueprint
 
-* [Air Sensors](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_24.md)
-* [Automation](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_25.md)
-* [HEPA Filters](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_6.md)
-* [Smart HVAC](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_16.md)
+* [Air Sensors](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_24.md)
+* [Automation](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_25.md)
+* [HEPA Filters](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_6.md)
+* [Smart HVAC](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_16.md)
 
 ## GBN Phase of the blueprint
 
-* [Construction](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Phase_1.md)
-* [Design](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Phase_2.md)
+* [Construction](https://github.com/mm80843/T3.5/blob/pages/BP_Phase/PBN__BP_Phase_1.md)
+* [Design](https://github.com/mm80843/T3.5/blob/pages/BP_Phase/PBN__BP_Phase_2.md)
 
 ## Interventions of the blueprint
 
-* [Air filtration](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_0.md)
-* [Monitor and control indoor air quality](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_2.md)
-* [Use of smart/innovative air quality controls technology](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_3.md)
+* [Air filtration](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_0.md)
+* [Monitor and control indoor air quality](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_2.md)
+* [Use of smart/innovative air quality controls technology](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_3.md)
 
 ## Mode of transmission covered by the blueprint
 
-* [Airborne](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_0.md)
+* [Airborne](https://github.com/mm80843/T3.5/blob/pages/BP_Transmission/PBN__BP_Transmission_0.md)
 
 ## Possible mitigations of the BP
 
@@ -80,7 +80,7 @@ The limitations of this proposal include that the filter loses efficiency due to
 
 ## Scale of the of the blueprint
 
-* [Building](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Scale_0.md)
+* [Building](https://github.com/mm80843/T3.5/blob/pages/BP_Scale/PBN__BP_Scale_0.md)
 
 ## Title of the blueprint
 
@@ -88,11 +88,11 @@ PBN:BP_12
 
 ## Type of deployment of the blueprint
 
-* [Permanent](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Permanent_1.md)
+* [Permanent](https://github.com/mm80843/T3.5/blob/pages/BP_Permanent/PBN__BP_Permanent_1.md)
 
 ## Type of the blueprint
 
-* [Technical](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Type_1.md)
+* [Technical](https://github.com/mm80843/T3.5/blob/pages/BP_Type/PBN__BP_Type_1.md)
 
 ## Value proposition of the blueprint
 

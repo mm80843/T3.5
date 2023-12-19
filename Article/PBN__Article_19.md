@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_19 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_19 
 
 # __Effectiveness of non-pharmaceutical public health interventions against COVID-19: A systematic review and meta-analysis__
 
@@ -36,8 +36,8 @@ The COVID-19 pandemic has been a big problem all around the world for over a yea
 
 ## This article mentions these technologies
 
-* [Behavioral change interventions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_0.md)
-* [Data management tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
+* [Behavioral change interventions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
+* [Data management tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_0.md)
 * [Early warning systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_783.md)
 * [Mobile testing units](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_779.md)
 * [Open-access databases](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_551.md)
@@ -52,10 +52,10 @@ The COVID-19 pandemic has been a big problem all around the world for over a yea
 
 * [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
 * [Contact-reducing strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3123.md)
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
-* [Lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3332.md)
-* [Mass gathering containment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3833.md)
-* [Patient isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_427.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3332.md)
+* [Lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_427.md)
+* [Mass gathering containment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
+* [Patient isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3833.md)
 * [Quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3834.md)
 * [School closing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3832.md)
 * [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3835.md)

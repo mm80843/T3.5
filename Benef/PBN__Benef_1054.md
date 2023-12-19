@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1054 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/pages/docs/Benef/index.md) >> Individual ID:PBN__Benef_1054 
 
 # __Reliability in supply chain__
 
@@ -24,6 +24,6 @@ Blockchain technology ensures reliability in the supply chain, reducing losses i
 
 ## Stakeholders benefitting from this Benefit
 
-* [Businesses](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_423.md)
-* [Healthcare industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_147.md)
+* [Businesses](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_147.md)
+* [Healthcare industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_423.md)
 

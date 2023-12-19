@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_341 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/pages/docs/Benef/index.md) >> Individual ID:PBN__Benef_341 
 
 # __Reduction in airborne transmission__
 
@@ -32,7 +32,7 @@ Upper room GUV disinfects large volumes of air, reducing the concentration of in
 
 ## Stakeholders benefitting from this Benefit
 
-* [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_215.md)
-* [Healthcare workers and patients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
+* [Healthcare workers and patients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_215.md)
 * [Occupants in the room](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_164.md)
 

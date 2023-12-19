@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_73 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_73 
 
 # __The hierarchy of preventive measures to protect workers against the COVID-19 pandemic: A review__
 
@@ -42,13 +42,13 @@ COVID-19 is a disease caused by a virus called SARS-CoV-2. It has spread all ove
 
 * [Employee training](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_341.md)
 * [Face shields](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
-* [Facemasks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
-* [Gloves](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_480.md)
+* [Facemasks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_484.md)
+* [Gloves](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_485.md)
 * [Gowns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_154.md)
-* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_481.md)
-* [Physical barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_483.md)
-* [Plexiglass](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_485.md)
-* [Policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_484.md)
+* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
+* [Physical barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_480.md)
+* [Plexiglass](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_481.md)
+* [Policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_483.md)
 * [Polycarbonate](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_235.md)
 * [Protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_486.md)
 * [Respirators](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_482.md)
@@ -58,10 +58,10 @@ COVID-19 is a disease caused by a virus called SARS-CoV-2. It has spread all ove
 
 ## This article points to following mitigation
 
-* [Administrative controls](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3572.md)
-* [Improvement of ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3573.md)
-* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_375.md)
-* [Physical barriers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3575.md)
+* [Administrative controls](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3575.md)
+* [Improvement of ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3572.md)
+* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3573.md)
+* [Physical barriers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_375.md)
 * [Portable air cleaner](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_373.md)
 * [Use of high-efficiency air filters](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3574.md)
 

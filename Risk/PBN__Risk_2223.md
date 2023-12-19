@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_2223 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_2223 
 
 # __Impact of lockdowns on access to green areas__
 
@@ -33,7 +33,7 @@ Lockdown measures during the COVID-19 pandemic have restricted access and use of
 
 ## Is the risk affecting GBN scales
 
-* [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_0.md)
 
 ## Mitigations of this risk
 
@@ -61,11 +61,11 @@ Limited access to the physical and mental health benefits provided by green area
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_0.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_1.md)
+* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_1.md)
 
 ## Type of the risk
 

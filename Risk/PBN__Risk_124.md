@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_124 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_124 
 
 # __Economic impact__
 
@@ -31,16 +31,16 @@ Outbreaks can have significant economic consequences, including losses in touris
 
 ## Is the risk affecting GBN scales
 
-* [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_0.md)
 
 ## Mitigations of this risk
 
-* [Develop cost-effective solutions, provide financial incentives, and promote collaboration.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_149.md)
-* [Financial interventions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_564.md)
-* [Implement proactive measures to control outbreak spread and minimize economic disruptions.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1013.md)
+* [Develop cost-effective solutions, provide financial incentives, and promote collaboration.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1789.md)
+* [Financial interventions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1013.md)
+* [Implement proactive measures to control outbreak spread and minimize economic disruptions.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_149.md)
 * [Improve cashflow management, seek financial assistance and government support, renegotiate contracts.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1508.md)
-* [Travel restrictions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1789.md)
+* [Travel restrictions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_564.md)
 * [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2781.md)
 
 ## Name of the risk
@@ -50,22 +50,22 @@ Decreased economic activity, job losses, disruption of industries.
 ## People affected by this risk
 
 * [Clients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_20.md)
-* [Construction companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_193.md)
-* [Contractors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_186.md)
-* [Healthcare systems](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_181.md)
-* [Individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_179.md)
-* [Industries reliant on tourism and travel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_297.md)
+* [Construction companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_186.md)
+* [Contractors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_181.md)
+* [Healthcare systems](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_179.md)
+* [Individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_297.md)
+* [Industries reliant on tourism and travel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_193.md)
 * [Organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_595.md)
 
 ## Stakeholders who can mitigate this risk
 
 * [Business organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
 * [Clients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
-* [Construction companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_55.md)
-* [Financial institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_181.md)
-* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_596.md)
+* [Construction companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_181.md)
+* [Financial institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_405.md)
+* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_55.md)
 * [Government agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_297.md)
-* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_405.md)
+* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_596.md)
 
 ## Technologies linked to the risk
 
@@ -76,11 +76,11 @@ Decreased economic activity, job losses, disruption of industries.
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_8.md)
+* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_8.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_4.md)
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_4.md)
 
 ## Type of the risk
 

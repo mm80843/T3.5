@@ -1,12 +1,12 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_38 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_38 
 
 # __Ten questions concerning occupant health in buildings during normal operations and extreme events including the COVID-19 pandemic__
 
 ## Benefits listed in this article
 
-* [Enhanced occupant experience](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_176.md)
-* [Enhanced occupant safety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_177.md)
-* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_169.md)
+* [Enhanced occupant experience](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_169.md)
+* [Enhanced occupant safety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_176.md)
+* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_177.md)
 * [Improved mood and productivity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_174.md)
 * [Improved occupant productivity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_173.md)
 * [Improved physical health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_175.md)
@@ -44,10 +44,10 @@ Buildings can have a big impact on our health. They can affect our physical, men
 
 ## This article mentions these technologies
 
-* [Acoustic panels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_201.md)
-* [Adaptive hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
-* [Adjustable lighting controls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_192.md)
-* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_200.md)
+* [Acoustic panels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+* [Adaptive hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_200.md)
+* [Adjustable lighting controls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_201.md)
+* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_192.md)
 * [Building automation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_193.md)
 * [Filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_194.md)
 * [Glare-reducing fixtures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_195.md)

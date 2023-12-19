@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_763 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/pages/docs/Benef/index.md) >> Individual ID:PBN__Benef_763 
 
 # __Prevention of disease spread__
 
@@ -27,7 +27,7 @@ Limits the transmission of contagious diseases by isolating infected individuals
 
 ## Stakeholders benefitting from this Benefit
 
-* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
-* [Healthcare institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_269.md)
+* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_269.md)
+* [Healthcare institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
 * [Public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_52.md)
 

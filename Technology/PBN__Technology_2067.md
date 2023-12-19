@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2067 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_2067 
 
 # __Telemedicine and telehealth services__
 
@@ -21,24 +21,24 @@
 
 ## Link between Blueprint and General ontology
 
-* [Telemedecine](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_17.md)
+* [Telemedecine](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_17.md)
 
 ## This Technology belongs to this TechnologySubgroup
 
-* [Healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1097.md)
-* [Remote healthcare services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_19.md)
-* [Remote healthcare technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1447.md)
-* [Remote monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1170.md)
-* [Remote patient monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1650.md)
-* [Secure telepsychiatry platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_73.md)
-* [Telehealth](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_219.md)
-* [Telehealth platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_952.md)
-* [Telehealth platforms and software for virtual therapy and counseling](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1516.md)
-* [Telehealth platforms for virtual therapy and counseling](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_607.md)
-* [Telehealth services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3.md)
-* [Telehealth solutions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_207.md)
-* [Telehealth technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_752.md)
-* [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_621.md)
+* [Healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3.md)
+* [Remote healthcare services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_621.md)
+* [Remote healthcare technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1097.md)
+* [Remote monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_19.md)
+* [Remote patient monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1447.md)
+* [Secure telepsychiatry platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1170.md)
+* [Telehealth](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1650.md)
+* [Telehealth platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_73.md)
+* [Telehealth platforms and software for virtual therapy and counseling](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_219.md)
+* [Telehealth platforms for virtual therapy and counseling](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_952.md)
+* [Telehealth services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1516.md)
+* [Telehealth solutions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_607.md)
+* [Telehealth technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_207.md)
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_752.md)
 * [Telemedicine and mobile health clinics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_12.md)
 * [Telemedicine for mental health support](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1502.md)
 * [Telemedicine for remote healthcare](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1432.md)

@@ -1,17 +1,17 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_9 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_9 
 
 # __The role of 5G for digital healthcare against COVID-19 pandemic: Opportunities and challenges__
 
 ## Benefits listed in this article
 
-* [Enhanced healthcare delivery](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_35.md)
+* [Enhanced healthcare delivery](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_37.md)
 * [Enhanced privacy protection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_36.md)
-* [Expanded 5g coverage and connectivity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_37.md)
-* [Improved access to healthcare](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_38.md)
-* [Improved cybersecurity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_39.md)
-* [Improved monitoring and contact tracing](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_40.md)
-* [Improved network scalability and quality of service](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_41.md)
-* [Improved supply chain efficiency](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_42.md)
+* [Expanded 5g coverage and connectivity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_35.md)
+* [Improved access to healthcare](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_40.md)
+* [Improved cybersecurity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_42.md)
+* [Improved monitoring and contact tracing](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_41.md)
+* [Improved network scalability and quality of service](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_39.md)
+* [Improved supply chain efficiency](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_38.md)
 
 ## DOI of the article
 
@@ -41,8 +41,8 @@ The Coronavirus Disease (COVID-19) has caused a lot of changes in our lives. One
 ## This article mentions these technologies
 
 * [Access control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_278.md)
-* [Ai](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_94.md)
-* [Blockchain](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
+* [Ai](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
+* [Blockchain](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_94.md)
 * [Encryption](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1582.md)
 * [Full beamforming](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1584.md)
 * [L5go networks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1581.md)

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1352 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1352 
 
 # __Lack of trust in evidence__
 
@@ -29,7 +29,7 @@ Trust in evidence is undermined by the spread of misinformation and lack of tran
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Mitigations of this risk
 
@@ -47,8 +47,8 @@ Decision-makers, stakeholders, and the public may be hesitant to rely on evidenc
 
 ## Stakeholders who can mitigate this risk
 
-* [Knowledge translation platforms](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_348.md)
-* [Media organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_545.md)
+* [Knowledge translation platforms](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_545.md)
+* [Media organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_348.md)
 * [Scientific community](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_875.md)
 
 ## Technologies linked to the risk
@@ -58,11 +58,11 @@ Decision-makers, stakeholders, and the public may be hesitant to rely on evidenc
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Social cohesion](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_15.md)
+* [Social cohesion](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_15.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_4.md)
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_4.md)
 
 ## Type of the risk
 

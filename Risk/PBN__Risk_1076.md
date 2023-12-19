@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1076 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1076 
 
 # __Impact on mental health__
 
@@ -32,19 +32,19 @@ Lockdown measures and quarantine during the COVID-19 pandemic can lead to negati
 
 ## Is the risk affecting GBN scales
 
-* [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_0.md)
 
 ## Link between Blueprint and General ontology
 
-* [Mental health](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Theme_5.md)
+* [Mental health](https://github.com/mm80843/T3.5/blob/pages/BP_Theme/PBN__BP_Theme_5.md)
 
 ## Mitigations of this risk
 
 * [Mental health support services, community connections](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2128.md)
-* [Provide mental health support services, promote healthy coping mechanisms, and ensure access to healthcare resources.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2774.md)
-* [Provide mental health support services, promote self-care practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1520.md)
-* [Provision of mental health support services, promoting social connections, and addressing stigma around mental health.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2315.md)
+* [Provide mental health support services, promote healthy coping mechanisms, and ensure access to healthcare resources.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2315.md)
+* [Provide mental health support services, promote self-care practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2774.md)
+* [Provision of mental health support services, promoting social connections, and addressing stigma around mental health.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1520.md)
 
 ## Name of the risk
 
@@ -61,11 +61,11 @@ Decreased quality of life, increased psychological distress, and potential long-
 
 ## Stakeholders who can mitigate this risk
 
-* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_0.md)
-* [Healthcare providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_121.md)
-* [Mental health professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
-* [Mental health services](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_789.md)
-* [Public health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_368.md)
+* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
+* [Healthcare providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_0.md)
+* [Mental health professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_121.md)
+* [Mental health services](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_368.md)
+* [Public health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_789.md)
 * [Support organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1029.md)
 
 ## Technologies linked to the risk
@@ -81,11 +81,11 @@ Decreased quality of life, increased psychological distress, and potential long-
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_0.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_1.md)
+* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_1.md)
 
 ## Type of the risk
 

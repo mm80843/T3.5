@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4939 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4939 
 
 # __Strengthen local partnerships__
 
@@ -25,8 +25,8 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Collaborative platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1130.md)
-* [Communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_168.md)
+* [Collaborative platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_168.md)
+* [Communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1130.md)
 
 ## Property: has_MitigationPrinciple
 

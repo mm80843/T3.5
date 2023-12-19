@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_54 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_54 
 
 # __Mechanistic insights into the effect of humidity on airborne influenza virus survival, transmission and incidence__
 
@@ -46,12 +46,12 @@ Humidity, which is the amount of water vapor in the air, can affect the transmis
 ## This article points to following mitigation
 
 * [Air filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
-* [Humidity control](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_476.md)
-* [Improved ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3629.md)
-* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1130.md)
-* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3439.md)
-* [Surface disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_415.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_415.md)
+* [Humidity control](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1130.md)
+* [Improved ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
+* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_476.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3629.md)
+* [Surface disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3439.md)
 * [Temperature control](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4180.md)
 * [Vaccination campaigns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3440.md)
 

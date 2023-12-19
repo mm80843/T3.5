@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2121 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_2121 
 
 # __Lighting and hvac systems__
 
@@ -21,8 +21,8 @@
 
 ## This Technology belongs to this TechnologySubgroup
 
-* [Daylighting systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
-* [Efficient lighting fixtures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_185.md)
+* [Daylighting systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_185.md)
+* [Efficient lighting fixtures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
 * [Glare control devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_187.md)
 * [Hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_188.md)
 * [Hvac systems with hepa filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_189.md)

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1007 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/pages/docs/Benef/index.md) >> Individual ID:PBN__Benef_1007 
 
 # __Enhanced data comparability__
 
@@ -24,6 +24,6 @@ Consistent and standardized data terminologies, facilitating data sharing and in
 
 ## Stakeholders benefitting from this Benefit
 
-* [Regulatory agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_172.md)
-* [Research groups](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_401.md)
+* [Regulatory agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_401.md)
+* [Research groups](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_172.md)
 

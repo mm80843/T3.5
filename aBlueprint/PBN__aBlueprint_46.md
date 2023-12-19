@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [aBlueprint](https://github.com/mm80843/T3.5/tree/main/docs/aBlueprint/index.md) >> Individual ID:PBN__aBlueprint_46 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [aBlueprint](https://github.com/mm80843/T3.5/tree/pages/docs/aBlueprint/index.md) >> Individual ID:PBN__aBlueprint_46 
 
 # __Implementing UVGI Systems to Combat Contagious Diseases__
 
@@ -36,19 +36,19 @@
 
 ## 4. Blueprint links to these mitigations
 
-* [Accurate dose-response relationships and optimization of uvgi systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2327.md)
-* [Conduct further research and studies to determine the effectiveness of uvgi systems in preventing healthcare-associated infections](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1674.md)
-* [Ensure proper use and maintenance of uvgi systems, provide training and protective equipment for occupants and service personnel](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2328.md)
-* [Research on relationship between rh and uv susceptibility](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2988.md)
+* [Accurate dose-response relationships and optimization of uvgi systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2988.md)
+* [Conduct further research and studies to determine the effectiveness of uvgi systems in preventing healthcare-associated infections](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2327.md)
+* [Ensure proper use and maintenance of uvgi systems, provide training and protective equipment for occupants and service personnel](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1674.md)
+* [Research on relationship between rh and uv susceptibility](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2328.md)
 * [Use additional methods for disinfection and protection of living cells.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2986.md)
 
 ## 5. Blueprint mitigation can be owned by these stakeholders
 
 * [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
-* [Designers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_737.md)
-* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
+* [Designers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
+* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
 * [Government regulators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_74.md)
-* [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
+* [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_737.md)
 
 ## 6. Blueprint links to these benefits
 
@@ -59,5 +59,5 @@
 ## 7. Blueprint links to these technology
 
 * [Access to natural light](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
-* [Uv lamps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2583.md)
+* [Uv lamps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2829.md)
 

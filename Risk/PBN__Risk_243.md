@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_243 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_243 
 
 # __Push for information-based construction management methods__
 
@@ -29,11 +29,11 @@ Increased use of digital techniques and technologies for construction management
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Link between Blueprint and General ontology
 
-* [Information management](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Theme_9.md)
+* [Information management](https://github.com/mm80843/T3.5/blob/pages/BP_Theme/PBN__BP_Theme_9.md)
 
 ## Mitigations of this risk
 
@@ -46,8 +46,8 @@ Improved efficiency and accuracy in construction management, better collaboratio
 
 ## People affected by this risk
 
-* [Construction project managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_772.md)
-* [Contractors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_179.md)
+* [Construction project managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_179.md)
+* [Contractors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_772.md)
 
 ## Stakeholders who can mitigate this risk
 
@@ -60,11 +60,11 @@ Improved efficiency and accuracy in construction management, better collaboratio
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Innovation, creativity and research](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_2.md)
+* [Innovation, creativity and research](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_2.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
+* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_2.md)
 
 ## Type of the risk
 

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1823 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1823 
 
 # __Trade-offs between efficiency and stability__
 
@@ -29,7 +29,7 @@ Localizing GVCs may lead to stability gains but at the cost of economic efficien
 
 ## Is the risk affecting GBN scales
 
-* [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_0.md)
 
 ## Mitigations of this risk
 
@@ -53,11 +53,11 @@ Potential improvements in stability may be outweighed by significant decreases i
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Community infrastructures](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_9.md)
+* [Community infrastructures](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_9.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Social cohesion](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_5.md)
+* [Social cohesion](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_5.md)
 
 ## Type of the risk
 

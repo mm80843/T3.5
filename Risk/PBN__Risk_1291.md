@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1291 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1291 
 
 # __Inadequate cleaning and disinfection__
 
@@ -30,11 +30,11 @@ Insufficient or improper cleaning and disinfection practices can contribute to t
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Link between Blueprint and General ontology
 
-* [Sanitizing](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Theme_2.md)
+* [Sanitizing](https://github.com/mm80843/T3.5/blob/pages/BP_Theme/PBN__BP_Theme_2.md)
 
 ## Mitigations of this risk
 
@@ -61,18 +61,18 @@ Increased risk of disease transmission, decreased overall health and safety for 
 ## Technologies linked to the risk
 
 * [Cleaning equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_411.md)
-* [Cleaning equipment and tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_881.md)
-* [Cleaning products](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_361.md)
+* [Cleaning equipment and tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_361.md)
+* [Cleaning products](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_881.md)
 * [Cleaning solutions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_438.md)
 * [Disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_437.md)
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Culture and collective identity](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_13.md)
+* [Culture and collective identity](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_13.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_1.md)
+* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_1.md)
 
 ## Type of the risk
 

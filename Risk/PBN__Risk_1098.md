@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1098 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1098 
 
 # __Governance__
 
@@ -29,7 +29,7 @@ Lack of standards, protocols, and agreements for integrating fragmented digital 
 
 ## Is the risk affecting GBN scales
 
-* [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_0.md)
 
 ## Mitigations of this risk
 
@@ -52,8 +52,8 @@ Difficulty in coordination and interoperability between different systems and te
 ## Technologies linked to the risk
 
 * [Collaboration platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_155.md)
-* [Protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_153.md)
-* [Standards](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_154.md)
+* [Protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_154.md)
+* [Standards](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_153.md)
 
 ## Type of impact of the risk (according to ISO37100)
 

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_84 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_84 
 
 # __Effect of non-pharmaceutical interventions in the early phase of the COVID-19 epidemic in Saudi Arabia__
 
@@ -45,8 +45,8 @@ In Saudi Arabia, the COVID-19 virus started spreading in March 2020, and by Octo
 
 ## This article points to following mitigation
 
-* [Curfew](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4497.md)
-* [Curfew part one](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_427.md)
+* [Curfew](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_427.md)
+* [Curfew part one](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4497.md)
 * [Curfew part two](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3689.md)
 * [Domestic travel ban](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_425.md)
 * [International travel ban](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4496.md)

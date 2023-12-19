@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1086 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1086 
 
 # __Transmission risk__
 
@@ -30,15 +30,15 @@ Spread of COVID-19 within built environment
 
 ## Is the risk affecting GBN scales
 
-* [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_0.md)
 
 ## Mitigations of this risk
 
 * [Adherence to safety measures such as wearing masks and practicing social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1530.md)
 * [Cordon sanitaire](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3992.md)
-* [Maintain social distancing, hygiene practices, and proper ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1690.md)
-* [Rapid isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3994.md)
+* [Maintain social distancing, hygiene practices, and proper ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3994.md)
+* [Rapid isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1690.md)
 
 ## Name of the risk
 
@@ -52,25 +52,25 @@ Rapid transmission of the disease
 
 ## Stakeholders who can mitigate this risk
 
-* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_0.md)
+* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_269.md)
 * [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
 * [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
-* [Healthcare institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_269.md)
-* [Individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_20.md)
-* [Public health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
+* [Healthcare institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_0.md)
+* [Individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
+* [Public health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_20.md)
 
 ## Technologies linked to the risk
 
-* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
+* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
 * [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_136.md)
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Safety and security](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_5.md)
+* [Safety and security](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_5.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_3.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_3.md)
 
 ## Type of the risk
 

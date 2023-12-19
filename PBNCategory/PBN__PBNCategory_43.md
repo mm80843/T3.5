@@ -1,11 +1,11 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_43 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/pages/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_43 
 
 # __Enhanced accuracy and control over information dissemination, minimizing bias, misinformation, and false spread.__
 
 ## Items covered in this category
 
-* [Combating misinformation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_862.md)
-* [Decreased spread of fake news](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_958.md)
+* [Combating misinformation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_958.md)
+* [Decreased spread of fake news](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_862.md)
 * [Improved communication and dissemination of accurate information](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_138.md)
 * [Improved understanding and analysis of public spaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_144.md)
 * [Ineffective policy](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_254.md)

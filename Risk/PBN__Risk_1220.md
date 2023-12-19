@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1220 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1220 
 
 # __Contagious transmission of pathogens in public settings__
 
@@ -29,7 +29,7 @@ Person-to-person transmission of pathogens like coronaviruses can occur in indoo
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Mitigations of this risk
 
@@ -46,8 +46,8 @@ Increased risk of infection and spread of contagious diseases
 
 ## Stakeholders who can mitigate this risk
 
-* [Building managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_173.md)
-* [Government regulators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_737.md)
+* [Building managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_737.md)
+* [Government regulators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_173.md)
 * [Public health organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_10.md)
 
 ## Technologies linked to the risk
@@ -57,11 +57,11 @@ Increased risk of infection and spread of contagious diseases
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_0.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_3.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_3.md)
 
 ## Type of the risk
 

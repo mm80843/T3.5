@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2036 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_2036 
 
 # __Communication and data sharing__
 
@@ -21,9 +21,9 @@
 
 ## This Technology belongs to this TechnologySubgroup
 
-* [Cloud computing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_73.md)
-* [Collaboration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_5.md)
-* [Communication platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_151.md)
+* [Cloud computing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_151.md)
+* [Collaboration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_73.md)
+* [Communication platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_5.md)
 * [Communication technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1230.md)
 * [Digital platforms for resource allocation and distribution](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1540.md)
 * [Diversified communication channels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_135.md)

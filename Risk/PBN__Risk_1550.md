@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1550 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1550 
 
 # __Environmental impacts of construction during pandemic__
 
@@ -33,7 +33,7 @@ Construction projects have both positive and negative impacts on the environment
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Mitigations of this risk
 
@@ -45,13 +45,13 @@ Reduction in carbon emissions from reduced travel, but increase in medical and p
 
 ## People affected by this risk
 
-* [Construction companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_973.md)
-* [Government bodies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_181.md)
+* [Construction companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_181.md)
+* [Government bodies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_973.md)
 
 ## Stakeholders who can mitigate this risk
 
-* [Construction companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_973.md)
-* [Government bodies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_181.md)
+* [Construction companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_181.md)
+* [Government bodies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_973.md)
 
 ## Technologies linked to the risk
 
@@ -60,11 +60,11 @@ Reduction in carbon emissions from reduced travel, but increase in medical and p
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_8.md)
+* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_8.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
+* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_2.md)
 
 ## Type of the risk
 

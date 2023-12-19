@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_682 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/pages/docs/Benef/index.md) >> Individual ID:PBN__Benef_682 
 
 # __Strengthened supply chain__
 
@@ -24,6 +24,6 @@ Improves resilience and sustainability of the supply chain, reduces dependency o
 
 ## Stakeholders benefitting from this Benefit
 
-* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_33.md)
-* [Pharmaceutical companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_124.md)
+* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_124.md)
+* [Pharmaceutical companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_33.md)
 

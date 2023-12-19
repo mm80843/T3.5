@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_260 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_260 
 
 # __Occupants’ behavior and activity patterns influencing the energy consumption in the Kuwaiti residences__
 
@@ -30,14 +30,14 @@ In Kuwait, people use a lot of electricity. This is because they have big houses
 
 ## This article mentions these technologies
 
-* [Education campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_82.md)
-* [Energy-efficient appliances](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_79.md)
-* [Energy-efficient design software and technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_88.md)
-* [Energy-efficient technologies such as smart thermostats](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_53.md)
-* [Energy-saving tips](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_85.md)
-* [Financial incentives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_80.md)
-* [Incentives for energy conservation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_83.md)
-* [Inspections](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_84.md)
+* [Education campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_84.md)
+* [Energy-efficient appliances](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_82.md)
+* [Energy-efficient design software and technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_79.md)
+* [Energy-efficient technologies such as smart thermostats](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_88.md)
+* [Energy-saving tips](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_53.md)
+* [Financial incentives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_85.md)
+* [Incentives for energy conservation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_80.md)
+* [Inspections](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_83.md)
 * [Insulation materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_86.md)
 * [Quality control measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_87.md)
 * [Tariff reforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_81.md)

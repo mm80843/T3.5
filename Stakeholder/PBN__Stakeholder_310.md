@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_310 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_310 
 
 # __Public health officials__
 
@@ -57,13 +57,13 @@
 
 ## This Stakeholder can get these Benefits from mitigation measures
 
-* [Access to real-time data](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1201.md)
-* [Confirming presence and identity of sars-cov-2 in wastewater](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1202.md)
-* [Early detection of covid-19](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1203.md)
-* [Early detection of outbreak](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1205.md)
-* [Early detection of potential outbreaks](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1100.md)
-* [Early detection of re-emergence](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_988.md)
-* [Early detection of virus circulation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_5.md)
+* [Access to real-time data](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_5.md)
+* [Confirming presence and identity of sars-cov-2 in wastewater](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_988.md)
+* [Early detection of covid-19](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1201.md)
+* [Early detection of outbreak](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1202.md)
+* [Early detection of potential outbreaks](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1203.md)
+* [Early detection of re-emergence](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1205.md)
+* [Early detection of virus circulation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1100.md)
 * [Early hotspot detection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_358.md)
 * [Early warning of disease outbreaks](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1272.md)
 * [Efficacy of interventions](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_992.md)
@@ -78,7 +78,7 @@
 
 ## Type of the stakeholder
 
-* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_0.md)
-* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
-* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_0.md)
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_2.md)
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_1.md)
 

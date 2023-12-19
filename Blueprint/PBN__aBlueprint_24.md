@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__aBlueprint_24 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/pages/docs/Blueprint/index.md) >> Individual ID:PBN__aBlueprint_24 
 
 # __Implementing Disease Control Strategies__
 
@@ -30,41 +30,41 @@
 
 * [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_68.md)
 * [Healthcare workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
-* [Occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_128.md)
-* [Visitors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_92.md)
-* [Workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_118.md)
+* [Occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_118.md)
+* [Visitors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_128.md)
+* [Workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_92.md)
 
 ## 4. Blueprint links to these mitigations
 
-* [Conducting public health campaigns, providing educational materials and resources, promoting accurate information.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2804.md)
-* [Promote public awareness campaigns, provide accurate information about diseases and preventive measures, invest in health education programs.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1897.md)
-* [Provide clear and concise information about preventive measures, communicate regularly with occupants and visitors.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1614.md)
-* [Provide education and training on contagious diseases, preventive measures, and hygiene practices.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2181.md)
-* [Raise awareness through education campaigns, provide accurate and accessible information](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2105.md)
+* [Conducting public health campaigns, providing educational materials and resources, promoting accurate information.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1897.md)
+* [Promote public awareness campaigns, provide accurate information about diseases and preventive measures, invest in health education programs.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1614.md)
+* [Provide clear and concise information about preventive measures, communicate regularly with occupants and visitors.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2105.md)
+* [Provide education and training on contagious diseases, preventive measures, and hygiene practices.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2804.md)
+* [Raise awareness through education campaigns, provide accurate and accessible information](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2181.md)
 
 ## 5. Blueprint mitigation can be owned by these stakeholders
 
-* [Educational institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_222.md)
-* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
-* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
+* [Educational institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
+* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
+* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_222.md)
 * [Local governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_566.md)
 * [Public health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_66.md)
 
 ## 6. Blueprint links to these benefits
 
-* [Improved health and well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_262.md)
+* [Improved health and well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_436.md)
 * [Reduced transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_232.md)
-* [Reduction in transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_436.md)
+* [Reduction in transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_262.md)
 
 ## 7. Blueprint links to these technology
 
-* [Collaboration platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_341.md)
-* [Communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
-* [Cross-sector collaboration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_155.md)
-* [Crowd control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_168.md)
-* [Floor markings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2915.md)
+* [Collaboration platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
+* [Communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_358.md)
+* [Cross-sector collaboration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_230.md)
+* [Crowd control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_341.md)
+* [Floor markings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2818.md)
 * [Internet](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2454.md)
-* [Physical barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2818.md)
-* [Signage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_358.md)
-* [Social media platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_47.md)
+* [Physical barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_47.md)
+* [Signage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_155.md)
+* [Social media platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2915.md)
 

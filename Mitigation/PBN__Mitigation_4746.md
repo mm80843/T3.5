@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4746 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4746 
 
 # __Preventive measures__
 
@@ -24,8 +24,8 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Ai](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_278.md)
-* [Drones](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_277.md)
+* [Ai](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_277.md)
+* [Drones](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_278.md)
 * [Iot](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2041.md)
 * [Machine learning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_862.md)
 

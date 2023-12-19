@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__aBlueprint_48 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/pages/docs/Blueprint/index.md) >> Individual ID:PBN__aBlueprint_48 
 
 # __Implementing Innovative Waste Management Strategies to Curtail Disease Spread__
 
@@ -28,10 +28,10 @@
 
 ## 3. Blueprint impacts these stakeholders
 
-* [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_59.md)
-* [Cleaning staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
-* [Occupants of residential buildings](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1485.md)
-* [Residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_654.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
+* [Cleaning staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_59.md)
+* [Occupants of residential buildings](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_654.md)
+* [Residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1485.md)
 * [Waste management agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1487.md)
 
 ## 4. Blueprint links to these mitigations
@@ -47,8 +47,8 @@
 * [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
 * [Facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
 * [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1483.md)
-* [Waste management agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1487.md)
-* [Waste management authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_590.md)
+* [Waste management agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_590.md)
+* [Waste management authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1487.md)
 
 ## 6. Blueprint links to these benefits
 
@@ -58,14 +58,14 @@
 
 ## 7. Blueprint links to these technology
 
-* [Disinfection of waste before contact with people](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_154.md)
-* [Protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3627.md)
-* [Rainwater collection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3628.md)
-* [Rainwater storage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3735.md)
-* [Safe management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3736.md)
-* [Separate collection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3626.md)
-* [Waste management measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2222.md)
-* [Waste management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1764.md)
-* [Water filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3624.md)
-* [Water treatment systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3625.md)
+* [Disinfection of waste before contact with people](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3624.md)
+* [Protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2222.md)
+* [Rainwater collection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1764.md)
+* [Rainwater storage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_154.md)
+* [Safe management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3625.md)
+* [Separate collection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3736.md)
+* [Waste management measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3735.md)
+* [Waste management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3628.md)
+* [Water filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3627.md)
+* [Water treatment systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3626.md)
 

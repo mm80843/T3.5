@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_146 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_146 
 
 # __Association between indoor-outdoor green features and psychological health during the COVID-19 lockdown in Italy: A cross-sectional nationwide study__
 
@@ -35,13 +35,13 @@ During the COVID-19 pandemic, when people had to stay at home, researchers wante
 
 ## This article mentions these technologies
 
-* [Community initiatives for using nearby green spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1617.md)
-* [Development of green spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1618.md)
-* [Gender-sensitive interventions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1231.md)
-* [Gender-specific research studies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1610.md)
-* [Guidelines for accessing private green spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1615.md)
-* [Indoor plants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1616.md)
-* [Mobile apps for green space access](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_141.md)
+* [Community initiatives for using nearby green spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_141.md)
+* [Development of green spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1617.md)
+* [Gender-sensitive interventions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1618.md)
+* [Gender-specific research studies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1231.md)
+* [Guidelines for accessing private green spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1610.md)
+* [Indoor plants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1615.md)
+* [Mobile apps for green space access](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1616.md)
 * [Natural light solutions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1614.md)
 * [Online nature experiences](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1619.md)
 * [Skylights](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1620.md)

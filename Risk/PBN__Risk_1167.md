@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1167 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1167 
 
 # __Limited effectiveness of upper-room uvgi if room air is not well mixed__
 
@@ -33,7 +33,7 @@ The effectiveness of upper-room UVGI in disinfecting the air is dependent on goo
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Mitigations of this risk
 
@@ -45,8 +45,8 @@ Inadequate air mixing can lead to areas in the room where larger aerosol particl
 
 ## People affected by this risk
 
-* [Maintenance staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_701.md)
-* [Room occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_702.md)
+* [Maintenance staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_702.md)
+* [Room occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_701.md)
 
 ## Stakeholders who can mitigate this risk
 
@@ -60,11 +60,11 @@ Inadequate air mixing can lead to areas in the room where larger aerosol particl
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_0.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_1.md)
+* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_1.md)
 
 ## Type of the risk
 

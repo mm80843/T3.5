@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_270 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_270 
 
 # __An environmental and health perspective for COVID-19 outbreak: Meteorology and air quality influence, sewage epidemiology indicator, hospitals disinfection, drug therapies and recommendations__
 
@@ -36,8 +36,8 @@ In December 2019, a new type of pneumonia started in China called COVID-19. It s
 
 ## This article mentions these technologies
 
-* [Air pollution monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
-* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+* [Air pollution monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
 * [Anti-inflammatory drugs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_232.md)
 * [Anti-malaria drugs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_233.md)
 * [Antiviral drugs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_235.md)

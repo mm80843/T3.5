@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1271 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1271 
 
 # __Increased prevalence of mental health symptoms during quarantine__
 
@@ -29,7 +29,7 @@ Anxiety, depression, and stress due to uncertainty and isolation
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Mitigations of this risk
 
@@ -46,8 +46,8 @@ Impaired mental health, decreased quality of life
 
 ## Stakeholders who can mitigate this risk
 
-* [Mental health professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_789.md)
-* [Support organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_368.md)
+* [Mental health professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_368.md)
+* [Support organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_789.md)
 
 ## Technologies linked to the risk
 
@@ -56,11 +56,11 @@ Impaired mental health, decreased quality of life
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_12.md)
+* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_12.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_1.md)
+* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_1.md)
 
 ## Type of the risk
 

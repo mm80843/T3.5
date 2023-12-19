@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_162 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_162 
 
 # __Water and wastewater digital surveillance for monitoring and early detection of the COVID-19 hotspot: industry 4.0__
 
@@ -45,8 +45,8 @@ The COVID-19 pandemic is a global health crisis caused by a virus called SARS-Co
 
 ## This article mentions these technologies
 
-* [Community organizations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_612.md)
-* [Contact tracing software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1067.md)
+* [Community organizations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1067.md)
+* [Contact tracing software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_612.md)
 * [Data analytics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_201.md)
 * [Data anonymization](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1066.md)
 * [Encryption technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1068.md)
@@ -62,10 +62,10 @@ The COVID-19 pandemic is a global health crisis caused by a virus called SARS-Co
 ## This article points to following mitigation
 
 * [Artificial intelligence in predictive analytics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_149.md)
-* [Biosensors for diagnostics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4183.md)
-* [Building information modelling bim](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3119.md)
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4188.md)
-* [Digital revolution in water management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3332.md)
+* [Biosensors for diagnostics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3332.md)
+* [Building information modelling bim](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4183.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3119.md)
+* [Digital revolution in water management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4188.md)
 * [Disinfection of water](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4184.md)
 * [Geospatial analysis of covid-19](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4187.md)
 * [Mass testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4182.md)

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_2287 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_2287 
 
 # __Improper disposal of infectious hospital wastes and wastewater__
 
@@ -29,7 +29,7 @@ Improper disposal of infectious hospital wastes and wastewater could cause serio
 
 ## Is the risk affecting GBN scales
 
-* [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_0.md)
 
 ## Mitigations of this risk
 
@@ -41,16 +41,16 @@ Increased risk of infection and environmental contamination.
 
 ## People affected by this risk
 
-* [Environmental agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_432.md)
-* [Hospital workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_93.md)
-* [Medical staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_683.md)
-* [Public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_52.md)
+* [Environmental agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_93.md)
+* [Hospital workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_683.md)
+* [Medical staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_52.md)
+* [Public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_432.md)
 
 ## Stakeholders who can mitigate this risk
 
 * [Environmental agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
-* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_683.md)
-* [Hospital management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_239.md)
+* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_239.md)
+* [Hospital management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_683.md)
 
 ## Technologies linked to the risk
 
@@ -62,11 +62,11 @@ Increased risk of infection and environmental contamination.
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_0.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Attractiveness](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_9.md)
+* [Attractiveness](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_9.md)
 
 ## Type of the risk
 

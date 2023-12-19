@@ -1,13 +1,13 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_275 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/pages/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_275 
 
 # __Various establishments, including small businesses, private businesses, local businesses, retail businesses, and online businesses coexist with governments and are represented by business owners and associations.__
 
 ## Items covered in this category
 
-* [Busine](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1244.md)
-* [Busine association](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2376.md)
-* [Busine owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_291.md)
-* [Busines](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_147.md)
+* [Busine](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_147.md)
+* [Busine association](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1244.md)
+* [Busine owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2376.md)
+* [Busines](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_291.md)
 * [Busines association](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_418.md)
 * [Busines owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2052.md)
 * [Business](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_412.md)

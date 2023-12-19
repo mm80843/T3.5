@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_171 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_171 
 
 # __A review of facilities management interventions to mitigate respiratory infections in existing buildings__
 
@@ -46,12 +46,12 @@ This article is about how facilities management (FM) can help prevent the spread
 
 ## This article mentions these technologies
 
-* [Cleaning products and equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_341.md)
-* [Cleaning protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
-* [Disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
-* [Educational resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_572.md)
-* [Hand sanitizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_411.md)
-* [Handwashing stations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_410.md)
+* [Cleaning products and equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
+* [Cleaning protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_341.md)
+* [Disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_410.md)
+* [Educational resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_411.md)
+* [Hand sanitizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
+* [Handwashing stations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_572.md)
 * [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2007.md)
 * [Physical barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1100.md)
 * [Real-time occupancy monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2008.md)

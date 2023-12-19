@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [aBlueprint](https://github.com/mm80843/T3.5/tree/main/docs/aBlueprint/index.md) >> Individual ID:PBN__aBlueprint_39 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [aBlueprint](https://github.com/mm80843/T3.5/tree/pages/docs/aBlueprint/index.md) >> Individual ID:PBN__aBlueprint_39 
 
 # __Implementing Surface Disinfection Strategies__
 
@@ -30,25 +30,25 @@
 
 * [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_68.md)
 * [Employees](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
-* [Healthcare workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_220.md)
-* [Occupants of buildings with contaminated surfaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_118.md)
+* [Healthcare workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_118.md)
+* [Occupants of buildings with contaminated surfaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_220.md)
 * [Visitors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1199.md)
 
 ## 4. Blueprint links to these mitigations
 
-* [Disinfection and sanitization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3079.md)
-* [Regular and thorough cleaning and disinfection of surfaces.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1130.md)
-* [Surface disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4785.md)
+* [Disinfection and sanitization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1130.md)
+* [Regular and thorough cleaning and disinfection of surfaces.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3777.md)
+* [Surface disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3079.md)
 * [Use of hygienic materials](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1822.md)
-* [Use of robot-controlled noncontact uv surface disinfection for fast and effective disinfection.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3777.md)
+* [Use of robot-controlled noncontact uv surface disinfection for fast and effective disinfection.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4785.md)
 
 ## 5. Blueprint mitigation can be owned by these stakeholders
 
 * [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
 * [Cleaning staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
-* [Facility management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_653.md)
-* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_92.md)
-* [Occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_654.md)
+* [Facility management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_92.md)
+* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_654.md)
+* [Occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_653.md)
 
 ## 6. Blueprint links to these benefits
 
@@ -59,12 +59,12 @@
 ## 7. Blueprint links to these technology
 
 * [Cleaning agents](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
-* [Disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1051.md)
-* [Ethanol](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_411.md)
-* [Gloves](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2682.md)
-* [Liquid disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_851.md)
-* [Masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_768.md)
+* [Disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_411.md)
+* [Ethanol](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1051.md)
+* [Gloves](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2727.md)
+* [Liquid disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_485.md)
+* [Masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2682.md)
 * [Protective clothing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3125.md)
-* [Sanitizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2727.md)
-* [Uv-c devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_485.md)
+* [Sanitizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_851.md)
+* [Uv-c devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2868.md)
 

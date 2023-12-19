@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_547 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/pages/docs/Benef/index.md) >> Individual ID:PBN__Benef_547 
 
 # __Disseminating evidence through various mediums__
 
@@ -24,10 +24,10 @@ Innovating and utilizing multiple channels such as social media, interviews, and
 
 ## Stakeholders benefitting from this Benefit
 
-* [Healthcare professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_32.md)
-* [Ngos](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_229.md)
-* [Policy-makers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_234.md)
-* [Public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_52.md)
+* [Healthcare professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_234.md)
+* [Ngos](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_32.md)
+* [Policy-makers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_52.md)
+* [Public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_229.md)
 
 ## This benefit is realized in the following general blueprint(s)
 

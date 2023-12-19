@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_713 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_713 
 
 # __Inadequate ventilation__
 
@@ -43,29 +43,29 @@ Poor air circulation and ventilation in indoor spaces can facilitate the spread 
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Mitigations of this risk
 
 * [Air disinfection strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_994.md)
-* [Ensure proper ventilation systems are in place and regularly maintained.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_996.md)
-* [Establish and maintain proper ventilation systems, increase airflow and air exchange rate](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1463.md)
-* [Good air flow](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1814.md)
-* [Improve natural ventilation, use control systems for windows and air vents, increase air circulation.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1588.md)
-* [Improve ventilation systems, increase airflow rates, use outdoor air ventilation, and consider the installation of air purifiers or filtration systems.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2503.md)
-* [Improve ventilation systems, increase outdoor air intake, and use air purifiers to enhance indoor air quality.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2474.md)
-* [Improve ventilation systems, increase outdoor air intake, use air quality sensors](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1077.md)
-* [Improve ventilation systems, increase outdoor air supply.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2384.md)
-* [Improve ventilation systems, open windows and doors](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2926.md)
-* [Improve ventilation systems, use air purifiers, increase fresh air intake](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_993.md)
-* [Improved ventilation rates](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1805.md)
-* [Improving ventilation systems, increasing airflow, using air purifiers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2631.md)
-* [Improving ventilation systems, increasing fresh air intake, using air purifiers and filters](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3103.md)
-* [Increase ventilation rates](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2550.md)
-* [Increase ventilation rates and airflow, consider filtration and air purification systems, and ensure proper maintenance of hvac systems.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1967.md)
-* [Increasing ventilation rates, using natural ventilation, regularly maintaining and cleaning ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2018.md)
-* [Passive design strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3776.md)
-* [Regular maintenance and inspection of ventilation systems, use of natural ventilation when possible](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3310.md)
+* [Ensure proper ventilation systems are in place and regularly maintained.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3103.md)
+* [Establish and maintain proper ventilation systems, increase airflow and air exchange rate](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3310.md)
+* [Good air flow](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2631.md)
+* [Improve natural ventilation, use control systems for windows and air vents, increase air circulation.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2550.md)
+* [Improve ventilation systems, increase airflow rates, use outdoor air ventilation, and consider the installation of air purifiers or filtration systems.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_996.md)
+* [Improve ventilation systems, increase outdoor air intake, and use air purifiers to enhance indoor air quality.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1463.md)
+* [Improve ventilation systems, increase outdoor air intake, use air quality sensors](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1814.md)
+* [Improve ventilation systems, increase outdoor air supply.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1588.md)
+* [Improve ventilation systems, open windows and doors](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2503.md)
+* [Improve ventilation systems, use air purifiers, increase fresh air intake](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2474.md)
+* [Improved ventilation rates](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1077.md)
+* [Improving ventilation systems, increasing airflow, using air purifiers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2384.md)
+* [Improving ventilation systems, increasing fresh air intake, using air purifiers and filters](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2926.md)
+* [Increase ventilation rates](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_993.md)
+* [Increase ventilation rates and airflow, consider filtration and air purification systems, and ensure proper maintenance of hvac systems.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1805.md)
+* [Increasing ventilation rates, using natural ventilation, regularly maintaining and cleaning ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1967.md)
+* [Passive design strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2018.md)
+* [Regular maintenance and inspection of ventilation systems, use of natural ventilation when possible](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3776.md)
 * [Uv-based technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1562.md)
 
 ## Name of the risk
@@ -75,20 +75,20 @@ Increased transmission of pathogens, higher infection rates
 ## People affected by this risk
 
 * [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
-* [Commercial buildings](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_128.md)
-* [Customers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
-* [Employees](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_939.md)
-* [Especially in enclosed spaces with limited fresh air exchange](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_101.md)
-* [Especially in indoor environments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_220.md)
-* [Especially those in enclosed spaces with limited air flow](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_92.md)
-* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_118.md)
-* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_221.md)
-* [Individuals in poorly ventilated indoor environments such as offices](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_843.md)
-* [Individuals in poorly ventilated spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_33.md)
-* [Indoor spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_188.md)
-* [Occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1288.md)
-* [Occupants of indoor spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_940.md)
-* [Public transportation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_366.md)
+* [Commercial buildings](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
+* [Customers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_118.md)
+* [Employees](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_128.md)
+* [Especially in enclosed spaces with limited fresh air exchange](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_220.md)
+* [Especially in indoor environments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_92.md)
+* [Especially those in enclosed spaces with limited air flow](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_221.md)
+* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_101.md)
+* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_366.md)
+* [Individuals in poorly ventilated indoor environments such as offices](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_33.md)
+* [Individuals in poorly ventilated spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_939.md)
+* [Indoor spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_843.md)
+* [Occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_188.md)
+* [Occupants of indoor spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1288.md)
+* [Public transportation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_940.md)
 * [Public venues](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1586.md)
 * [Schools](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_670.md)
 * [Students](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1203.md)
@@ -99,34 +99,34 @@ Increased transmission of pathogens, higher infection rates
 
 ## Stakeholders who can mitigate this risk
 
-* [Architects](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_20.md)
+* [Architects](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_180.md)
 * [Building managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
-* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_180.md)
-* [Building owners and operators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_431.md)
-* [Employers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
-* [Engineers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_10.md)
-* [Facilities management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_844.md)
-* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_656.md)
-* [Facility owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_671.md)
-* [Healthcare administrators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_177.md)
-* [Hvac professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_523.md)
-* [Hvac technicians](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_557.md)
-* [Individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1285.md)
-* [Individuals responsible for building design and operation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_202.md)
+* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_20.md)
+* [Building owners and operators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
+* [Employers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1285.md)
+* [Engineers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_431.md)
+* [Facilities management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_202.md)
+* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_10.md)
+* [Facility owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_844.md)
+* [Healthcare administrators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_656.md)
+* [Hvac professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_671.md)
+* [Hvac technicians](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_177.md)
+* [Individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_523.md)
+* [Individuals responsible for building design and operation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_557.md)
 * [Office managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_641.md)
 * [Property owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1160.md)
 
 ## Technologies linked to the risk
 
-* [Air circulation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
-* [Air purification systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
-* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1829.md)
-* [Air quality monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
-* [Air quality sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1011.md)
-* [Automated windows](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_244.md)
-* [Hvac technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_489.md)
-* [Hvac technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_660.md)
-* [Improved hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_270.md)
+* [Air circulation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+* [Air purification systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1829.md)
+* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
+* [Air quality monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_270.md)
+* [Air quality sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
+* [Automated windows](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1011.md)
+* [Hvac technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_244.md)
+* [Hvac technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_489.md)
+* [Improved hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_660.md)
 * [Mechanical ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_208.md)
 * [Natural ventilation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_430.md)
 * [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1290.md)
@@ -135,11 +135,11 @@ Increased transmission of pathogens, higher infection rates
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Living and working environment](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_1.md)
+* [Living and working environment](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_1.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_1.md)
+* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_1.md)
 
 ## Type of the risk
 

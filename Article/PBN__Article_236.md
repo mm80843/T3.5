@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_236 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_236 
 
 # __COVID-19: The forgotten priorities of the pandemic__
 
@@ -36,14 +36,14 @@ The COVID-19 pandemic is a serious disease that has affected many people around 
 
 ## This article mentions these technologies
 
-* [Collaboration platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
-* [Communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_222.md)
-* [Community outreach programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_75.md)
-* [Community support groups](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_73.md)
-* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1126.md)
-* [Fact-checking tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_117.md)
-* [Hotlines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_155.md)
-* [Mental health apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_168.md)
+* [Collaboration platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_168.md)
+* [Communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_155.md)
+* [Community outreach programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
+* [Community support groups](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_222.md)
+* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_75.md)
+* [Fact-checking tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_73.md)
+* [Hotlines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1126.md)
+* [Mental health apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_117.md)
 * [Mobile healthcare units](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_608.md)
 * [Online counseling](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_12.md)
 * [Reliable news sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1125.md)

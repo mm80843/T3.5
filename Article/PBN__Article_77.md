@@ -1,13 +1,13 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_77 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_77 
 
 # __Rapid expansion of temporary, reliable airborne-infection isolation rooms with negative air machines for critical COVID-19 patients__
 
 ## Benefits listed in this article
 
-* [Expanded workforce](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_106.md)
-* [Improved access to patients](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_390.md)
-* [Increased capacity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_389.md)
-* [Infection control](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_391.md)
+* [Expanded workforce](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_391.md)
+* [Improved access to patients](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_106.md)
+* [Increased capacity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_390.md)
+* [Infection control](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_389.md)
 * [Maintaining pressure differentials](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_392.md)
 
 ## DOI of the article

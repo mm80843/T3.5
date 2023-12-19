@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1803 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1803 
 
 # __Media and news entities__
 
@@ -21,9 +21,9 @@
 
 ## Stakeholders in this stakeholder subgroup
 
-* [Media](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_231.md)
-* [Media organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_545.md)
-* [Media outlets](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_455.md)
+* [Media](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_545.md)
+* [Media organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_455.md)
+* [Media outlets](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_231.md)
 * [Medium](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1809.md)
 * [Medium organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1812.md)
 * [Medium outlet](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1804.md)

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_328 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_328 
 
 # __All occupants__
 
@@ -21,12 +21,12 @@
 
 ## This Stakeholder can get these Benefits from mitigation measures
 
-* [Efficient waste collection and management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_804.md)
-* [Improved functionality and safety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_756.md)
-* [Improved indoor environment quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_803.md)
-* [Safe water supply and waste management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_805.md)
+* [Efficient waste collection and management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_803.md)
+* [Improved functionality and safety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_805.md)
+* [Improved indoor environment quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_804.md)
+* [Safe water supply and waste management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_756.md)
 
 ## Type of the stakeholder
 
-* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_0.md)
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_0.md)
 

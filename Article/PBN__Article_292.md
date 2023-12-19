@@ -1,11 +1,11 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_292 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_292 
 
 # __COVID-19 and regional solutions for mitigating the risk of SME finance in selected ASEAN member states__
 
 ## Benefits listed in this article
 
-* [Benefit title](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1358.md)
-* [Increased funding](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_678.md)
+* [Benefit title](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_145.md)
+* [Increased funding](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1358.md)
 * [Risk mitigation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1359.md)
 
 ## DOI of the article

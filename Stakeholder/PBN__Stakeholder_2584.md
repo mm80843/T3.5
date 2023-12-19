@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2584 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2584 
 
 # __Waste and wastewater management__
 
@@ -21,8 +21,8 @@
 
 ## Stakeholders in this stakeholder subgroup
 
-* [Waste management industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1045.md)
-* [Waste management staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1046.md)
+* [Waste management industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1046.md)
+* [Waste management staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1045.md)
 * [Waste management system](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1082.md)
 * [Waste management systems](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1439.md)
 * [Waste management worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_573.md)

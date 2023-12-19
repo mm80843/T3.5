@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_85 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_85 
 
 # __Local communities__
 
@@ -45,21 +45,21 @@
 
 ## This Stakeholder can get these Benefits from mitigation measures
 
-* [Effective response](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1058.md)
-* [Enhanced financial resilience](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1059.md)
-* [Enhanced local engagement and ownership](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1056.md)
-* [Enhanced understanding of risks and impacts](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1040.md)
-* [Improved collaboration and cooperation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_903.md)
-* [Increased citizen cooperation and trust](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_150.md)
-* [Increased funding](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_147.md)
-* [Rethinking social and economic models](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_148.md)
-* [Revitalization of commercial and artisanal spaces, enhanced public spaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_667.md)
-* [Sustainable funding](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1057.md)
-* [Sustainable livelihoods](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1060.md)
+* [Effective response](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1060.md)
+* [Enhanced financial resilience](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1058.md)
+* [Enhanced local engagement and ownership](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1059.md)
+* [Enhanced understanding of risks and impacts](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1056.md)
+* [Improved collaboration and cooperation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1040.md)
+* [Increased citizen cooperation and trust](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_903.md)
+* [Increased funding](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_150.md)
+* [Rethinking social and economic models](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_147.md)
+* [Revitalization of commercial and artisanal spaces, enhanced public spaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_148.md)
+* [Sustainable funding](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_667.md)
+* [Sustainable livelihoods](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1057.md)
 
 ## Type of the stakeholder
 
-* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_0.md)
-* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
-* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_0.md)
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_2.md)
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_1.md)
 

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_25 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_25 
 
 # __Privacy and security concerns__
 
@@ -30,12 +30,12 @@ The collection and sharing of health data raises issues of privacy, data protect
 
 ## Is the risk affecting GBN scales
 
-* [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_0.md)
 
 ## Link between Blueprint and General ontology
 
-* [User behavior](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Theme_4.md)
+* [User behavior](https://github.com/mm80843/T3.5/blob/pages/BP_Theme/PBN__BP_Theme_4.md)
 
 ## Mitigations of this risk
 
@@ -53,9 +53,9 @@ Breach of privacy, compromised data security, limited data sharing.
 
 ## People affected by this risk
 
-* [Health professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_20.md)
-* [Individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_593.md)
-* [None](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_627.md)
+* [Health professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_627.md)
+* [Individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_20.md)
+* [None](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_593.md)
 
 ## Stakeholders who can mitigate this risk
 
@@ -73,11 +73,11 @@ Breach of privacy, compromised data security, limited data sharing.
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Community infrastructures](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_9.md)
+* [Community infrastructures](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_9.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_4.md)
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_4.md)
 
 ## Type of the risk
 

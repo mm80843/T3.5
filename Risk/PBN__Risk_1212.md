@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1212 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1212 
 
 # __Lack of access to private car__
 
@@ -29,7 +29,7 @@ Limited availability or affordability of private cars, restricting mobility opti
 
 ## Is the risk affecting GBN scales
 
-* [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_0.md)
 
 ## Mitigations of this risk
 
@@ -57,11 +57,11 @@ Limited mobility and access to essential services, increased reliance on public 
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_4.md)
+* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_4.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Attractiveness](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_9.md)
+* [Attractiveness](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_9.md)
 
 ## Type of the risk
 

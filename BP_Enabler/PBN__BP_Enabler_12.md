@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [BP_Enabler](https://github.com/mm80843/T3.5/tree/main/docs/BP_Enabler/index.md) >> Individual ID:PBN__BP_Enabler_12 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [BP_Enabler](https://github.com/mm80843/T3.5/tree/pages/docs/BP_Enabler/index.md) >> Individual ID:PBN__BP_Enabler_12 
 
 # __Image acquisition & CCTV__
 
@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [5G](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_22.md)
-* [Augmented / Virtual Reality](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_31.md)
-* [Automation](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_15.md)
-* [Digital signage](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_28.md)
-* [DigitalPlatform](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_1.md)
-* [Face and voice recognition](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_23.md)
-* [New delivery systems](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_16.md)
-* [Robots, Drones & Automated Vehicules](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_13.md)
-* [Teleworking](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_21.md)
-* [UV/UVGI/Irradation](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_0.md)
+* [5G](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_22.md)
+* [Augmented / Virtual Reality](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_31.md)
+* [Automation](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_15.md)
+* [Digital signage](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_28.md)
+* [DigitalPlatform](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_1.md)
+* [Face and voice recognition](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_23.md)
+* [New delivery systems](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_16.md)
+* [Robots, Drones & Automated Vehicules](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_13.md)
+* [Teleworking](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_21.md)
+* [UV/UVGI/Irradation](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_0.md)
 
 ## Technology equivalent to this enabler
 

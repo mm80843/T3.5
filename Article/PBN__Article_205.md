@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_205 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_205 
 
 # __First confirmed detection of SARS-CoV-2 in untreated wastewater in Australia: A proof of concept for the wastewater surveillance of COVID-19 in the community__
 
@@ -41,9 +41,9 @@ Scientists in Australia have found evidence of the coronavirus in wastewater. Th
 ## This article points to following mitigation
 
 * [Ethical guidelines and approvals](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_988.md)
-* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3172.md)
-* [Robust rt-qpcr assays](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3173.md)
-* [Virus concentration methods](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_415.md)
+* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_415.md)
+* [Robust rt-qpcr assays](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3172.md)
+* [Virus concentration methods](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3173.md)
 * [Wastewater-based epidemiology wbe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3174.md)
 
 ## Title of the article

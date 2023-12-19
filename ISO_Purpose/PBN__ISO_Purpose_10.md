@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [ISO_Purpose](https://github.com/mm80843/T3.5/tree/main/docs/ISO_Purpose/index.md) >> Individual ID:PBN__ISO_Purpose_10 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [ISO_Purpose](https://github.com/mm80843/T3.5/tree/pages/docs/ISO_Purpose/index.md) >> Individual ID:PBN__ISO_Purpose_10 
 
 # __Living together, interdependence and mutuality__
 

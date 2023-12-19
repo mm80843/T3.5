@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [BenefReturn](https://github.com/mm80843/T3.5/tree/main/docs/BenefReturn/index.md) >> Individual ID:PBN__BenefReturn_1470 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [BenefReturn](https://github.com/mm80843/T3.5/tree/pages/docs/BenefReturn/index.md) >> Individual ID:PBN__BenefReturn_1470 
 
 # __Positive environmental externalities can lead to improved quality of life, increased property values, and enhanced reputation for private investors in the area.__
 

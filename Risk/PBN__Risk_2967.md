@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_2967 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_2967 
 
 # __Cross-infection__
 
@@ -22,7 +22,7 @@
 ## Mitigations of this risk
 
 * [Disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
-* [Filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3123.md)
-* [Quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3283.md)
-* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_312.md)
+* [Filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_312.md)
+* [Quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3123.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3283.md)
 

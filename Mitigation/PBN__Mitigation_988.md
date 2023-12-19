@@ -1,12 +1,12 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_988 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_988 
 
 # __Wastewater-based epidemiology wbe__
 
 ## Benefits linked to a risk
 
-* [Early detection of covid-19](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_988.md)
-* [Early warning of disease outbreaks](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_5.md)
-* [Population-wide surveillance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1206.md)
+* [Early detection of covid-19](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_5.md)
+* [Early warning of disease outbreaks](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1206.md)
+* [Population-wide surveillance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_988.md)
 
 ## Category to which it belongs
 
@@ -36,13 +36,13 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Analytical chemistry](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2341.md)
-* [Pcr assay](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2342.md)
-* [Qrt pcr testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2468.md)
+* [Analytical chemistry](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2468.md)
+* [Pcr assay](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2822.md)
+* [Qrt pcr testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2342.md)
 * [Reverse transcriptase quantitative polymerase chain reaction rt-qpcr](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2669.md)
-* [Sequencing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2670.md)
-* [Sewage monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2821.md)
-* [Wastewater sampling](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2822.md)
+* [Sequencing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2821.md)
+* [Sewage monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2670.md)
+* [Wastewater sampling](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2341.md)
 
 ## This mitigation is used in the following general blueprint(s)
 

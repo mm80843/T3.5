@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3532 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3532 
 
 # __Improving indoor air quality__
 
@@ -21,7 +21,7 @@
 
 ## Link between Blueprint and General ontology
 
-* [Monitor and control indoor air quality](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_3.md)
+* [Monitor and control indoor air quality](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_3.md)
 
 ## Risks possibly mitigated by this Mitigation
 
@@ -29,9 +29,9 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
-* [Hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_185.md)
-* [Ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_185.md)
+* [Hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+* [Ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
 
 ## Property: has_MitigationPrinciple
 

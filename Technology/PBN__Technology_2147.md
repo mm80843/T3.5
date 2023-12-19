@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2147 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_2147 
 
 # __Mobile and healthcare infrastructure__
 
@@ -21,9 +21,9 @@
 
 ## This Technology belongs to this TechnologySubgroup
 
-* [Healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1202.md)
+* [Healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_108.md)
 * [Healthcare technologies and facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3.md)
-* [Improved healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_108.md)
+* [Improved healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1202.md)
 * [Medical equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1205.md)
 * [Mobile clinics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_20.md)
 * [Mobile vaccination clinics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1944.md)

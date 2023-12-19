@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_5 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/pages/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_5 
 
 # __Antimicrobial surfaces__
 
@@ -22,22 +22,22 @@ Kansai airport (Japan)
 
 ## Enablers of the blueprint
 
-* [Antimicrobial coating](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_26.md)
-* [BigData](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_9.md)
-* [Data Analytics](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_2.md)
+* [Antimicrobial coating](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_26.md)
+* [BigData](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_9.md)
+* [Data Analytics](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_2.md)
 
 ## GBN Phase of the blueprint
 
-* [Construction](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Phase_2.md)
+* [Construction](https://github.com/mm80843/T3.5/blob/pages/BP_Phase/PBN__BP_Phase_2.md)
 
 ## Interventions of the blueprint
 
-* [Selection of materials](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_14.md)
-* [Wall and floors treatment](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_15.md)
+* [Selection of materials](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_14.md)
+* [Wall and floors treatment](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_15.md)
 
 ## Mode of transmission covered by the blueprint
 
-* [Fomite](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_3.md)
+* [Fomite](https://github.com/mm80843/T3.5/blob/pages/BP_Transmission/PBN__BP_Transmission_3.md)
 
 ## Possible mitigations of the BP
 
@@ -81,7 +81,7 @@ The effectiveness of these coatings is still questioned by both scientist and us
 
 ## Scale of the of the blueprint
 
-* [Building](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Scale_0.md)
+* [Building](https://github.com/mm80843/T3.5/blob/pages/BP_Scale/PBN__BP_Scale_0.md)
 
 ## Title of the blueprint
 
@@ -89,11 +89,11 @@ PBN:BP_6
 
 ## Type of deployment of the blueprint
 
-* [Permanent](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Permanent_1.md)
+* [Permanent](https://github.com/mm80843/T3.5/blob/pages/BP_Permanent/PBN__BP_Permanent_1.md)
 
 ## Type of the blueprint
 
-* [Technical](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Type_1.md)
+* [Technical](https://github.com/mm80843/T3.5/blob/pages/BP_Type/PBN__BP_Type_1.md)
 
 ## Value proposition of the blueprint
 

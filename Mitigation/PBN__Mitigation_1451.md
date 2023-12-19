@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1451 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1451 
 
 # __Implement policies to address inequalities in access to resources, provide support to vulnerable populations__
 
@@ -21,7 +21,7 @@
 
 ## Link between Blueprint and General ontology
 
-* [Absorb resource shortages](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_34.md)
+* [Absorb resource shortages](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_34.md)
 
 ## Risks possibly mitigated by this Mitigation
 

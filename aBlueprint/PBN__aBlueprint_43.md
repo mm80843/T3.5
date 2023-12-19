@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [aBlueprint](https://github.com/mm80843/T3.5/tree/main/docs/aBlueprint/index.md) >> Individual ID:PBN__aBlueprint_43 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [aBlueprint](https://github.com/mm80843/T3.5/tree/pages/docs/aBlueprint/index.md) >> Individual ID:PBN__aBlueprint_43 
 
 # __Implementing UV Based Technologies and Ventilation Improvements to Control Disease Spread__
 
@@ -30,41 +30,41 @@
 
 * [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
 * [Employees](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
-* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_220.md)
-* [Occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_92.md)
-* [Visitors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_118.md)
+* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_118.md)
+* [Occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_220.md)
+* [Visitors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_92.md)
 
 ## 4. Blueprint links to these mitigations
 
 * [Ensure proper ventilation systems are in place and regularly maintained.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_994.md)
-* [Improve natural ventilation, use control systems for windows and air vents, increase air circulation.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2631.md)
-* [Improved ventilation rates](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3103.md)
-* [Increase ventilation rates and airflow, consider filtration and air purification systems, and ensure proper maintenance of hvac systems.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2550.md)
-* [Uv-based technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3310.md)
+* [Improve natural ventilation, use control systems for windows and air vents, increase air circulation.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3103.md)
+* [Improved ventilation rates](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3310.md)
+* [Increase ventilation rates and airflow, consider filtration and air purification systems, and ensure proper maintenance of hvac systems.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2631.md)
+* [Uv-based technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2550.md)
 
 ## 5. Blueprint mitigation can be owned by these stakeholders
 
-* [Architects](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_20.md)
-* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
-* [Engineers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_431.md)
-* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
+* [Architects](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
+* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_20.md)
+* [Engineers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
+* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_431.md)
 * [Individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_202.md)
 
 ## 6. Blueprint links to these benefits
 
-* [Fresh air supply](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1065.md)
-* [Improved indoor climate](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_238.md)
-* [Reduction of airborne pathogens](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1022.md)
+* [Fresh air supply](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1022.md)
+* [Improved indoor climate](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1065.md)
+* [Reduction of airborne pathogens](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_238.md)
 
 ## 7. Blueprint links to these technology
 
-* [Access to windows](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_340.md)
-* [Building design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
-* [Efficient network](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
-* [Face masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_185.md)
-* [Hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3111.md)
-* [Natural ventilation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3429.md)
-* [Recognized cleaning practices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3247.md)
+* [Access to windows](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
+* [Building design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_185.md)
+* [Efficient network](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
+* [Face masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_340.md)
+* [Hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_270.md)
+* [Natural ventilation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3111.md)
+* [Recognized cleaning practices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3429.md)
 * [Trained cleaning personnel](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3248.md)
-* [Ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2462.md)
+* [Ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3247.md)
 

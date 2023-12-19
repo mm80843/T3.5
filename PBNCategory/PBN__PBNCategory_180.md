@@ -1,19 +1,19 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_180 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/pages/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_180 
 
 # __Promotion and implementation of clean and safe practices, including the use of sanitizers, soap, proper hygiene supplies, and improved sanitation protocols.__
 
 ## Items covered in this category
 
-* [Alcohol-based hand sanitizer](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2226.md)
-* [Automatic hand sanitizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1526.md)
-* [Designated toilet facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2179.md)
-* [Education and training on hand hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_766.md)
-* [Hand hygiene guidance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1164.md)
-* [Hand hygiene products and facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2459.md)
-* [Hand hygiene protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_410.md)
-* [Hand hygiene stations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2479.md)
-* [Hand sanitizer](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2648.md)
-* [Hand sanitizer dispensers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3120.md)
+* [Alcohol-based hand sanitizer](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_410.md)
+* [Automatic hand sanitizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2648.md)
+* [Designated toilet facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2479.md)
+* [Education and training on hand hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3120.md)
+* [Hand hygiene guidance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2459.md)
+* [Hand hygiene products and facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2226.md)
+* [Hand hygiene protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1526.md)
+* [Hand hygiene stations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2179.md)
+* [Hand sanitizer](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_766.md)
+* [Hand sanitizer dispensers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1164.md)
 * [Hand sanitizer solutions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2894.md)
 * [Hand sanitizer technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_828.md)
 * [Hand sanitizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_858.md)

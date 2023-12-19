@@ -1,16 +1,16 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_14 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/pages/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_14 
 
 # __Enhanced healthcare accessibility, quality, outcomes, and efficiency, along with reduced burden and inequalities, leading to improved public health.__
 
 ## Items covered in this category
 
-* [Accelerated recovery and improved patient satisfaction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1204.md)
-* [Addressing nursing staff shortage](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_474.md)
-* [Broader healthcare applications](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_476.md)
-* [Cost savings in healthcare](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_24.md)
-* [Decreased workload for healthcare staff](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_35.md)
-* [Digital tools of support to hospitals/health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_733.md)
-* [Efficient patient triage](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_47.md)
+* [Accelerated recovery and improved patient satisfaction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_47.md)
+* [Addressing nursing staff shortage](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_35.md)
+* [Broader healthcare applications](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1204.md)
+* [Cost savings in healthcare](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_474.md)
+* [Decreased workload for healthcare staff](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_476.md)
+* [Digital tools of support to hospitals/health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_24.md)
+* [Efficient patient triage](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_733.md)
 * [Efficient relief and rehabilitation efforts](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1128.md)
 * [Enhanced access to healthcare for all](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_761.md)
 * [Enhanced community health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_680.md)

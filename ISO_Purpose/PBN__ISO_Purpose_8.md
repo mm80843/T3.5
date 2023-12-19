@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [ISO_Purpose](https://github.com/mm80843/T3.5/tree/main/docs/ISO_Purpose/index.md) >> Individual ID:PBN__ISO_Purpose_8 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [ISO_Purpose](https://github.com/mm80843/T3.5/tree/pages/docs/ISO_Purpose/index.md) >> Individual ID:PBN__ISO_Purpose_8 
 
 # __Economy and sustainable production and consumption__
 
@@ -128,8 +128,8 @@
 * [Uncertainty in estimating reproduction number](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2372.md)
 * [Unemployment and underemployment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1460.md)
 * [Unequal distribution of street open spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1249.md)
-* [Urban activities and points of interests pois](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2245.md)
-* [Variability and specificity of pcr assays](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1650.md)
-* [Wastewater collection and treatment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1755.md)
-* [Workplace productivity decrease](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1833.md)
+* [Urban activities and points of interests pois](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1650.md)
+* [Variability and specificity of pcr assays](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1755.md)
+* [Wastewater collection and treatment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1833.md)
+* [Workplace productivity decrease](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2245.md)
 

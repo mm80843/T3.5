@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_565 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_565 
 
 # __Collaboration tools__
 
@@ -25,10 +25,10 @@
 
 ## This Technology enables the following mitigations
 
-* [Collaborative networks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3364.md)
-* [Collaborative networks and partnerships](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4286.md)
-* [Enhance cross-sectoral engagement](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5089.md)
-* [Facilitating remote work](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_832.md)
+* [Collaborative networks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_832.md)
+* [Collaborative networks and partnerships](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3364.md)
+* [Enhance cross-sectoral engagement](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4286.md)
+* [Facilitating remote work](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5089.md)
 * [Remote work](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4937.md)
 
 ## This technology is mentioned by

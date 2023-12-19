@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_832 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_832 
 
 # __Remote work__
 
@@ -25,7 +25,7 @@
 
 ## Link between Blueprint and General ontology
 
-* [Support recovery of sectors via remote work](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_33.md)
+* [Support recovery of sectors via remote work](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_33.md)
 
 ## Risks possibly mitigated by this Mitigation
 
@@ -39,16 +39,16 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Collaboration tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_544.md)
-* [Communication technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_717.md)
+* [Collaboration tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2454.md)
+* [Communication technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_168.md)
 * [Communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_565.md)
-* [Digital communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_168.md)
-* [Internet](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2454.md)
-* [Internet access](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2456.md)
-* [Remote communication technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1209.md)
-* [Technology for telecommuting](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3254.md)
-* [Telecommunication technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2852.md)
-* [Telecommunication technology laptops](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3408.md)
+* [Digital communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_544.md)
+* [Internet](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3408.md)
+* [Internet access](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3254.md)
+* [Remote communication technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2456.md)
+* [Technology for telecommuting](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_717.md)
+* [Telecommunication technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1209.md)
+* [Telecommunication technology laptops](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2852.md)
 
 ## This mitigation is used in the following general blueprint(s)
 

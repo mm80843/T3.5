@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1316 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1316 
 
 # __Inadequate use of personal protective equipment__
 
@@ -29,7 +29,7 @@ Insufficient use or improper use of PPE can increase the risk of exposure.
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Mitigations of this risk
 
@@ -45,24 +45,24 @@ Increased risk of contracting COVID-19 due to inadequate protection.
 
 ## Stakeholders who can mitigate this risk
 
-* [Employers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_832.md)
-* [Health and safety professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_180.md)
+* [Employers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_180.md)
+* [Health and safety professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_832.md)
 
 ## Technologies linked to the risk
 
-* [Face shields](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_483.md)
+* [Face shields](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_484.md)
 * [Facemasks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_485.md)
-* [Gloves](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_484.md)
+* [Gloves](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_483.md)
 * [Gowns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_486.md)
 * [Respirators](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_482.md)
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Safety and security](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_5.md)
+* [Safety and security](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_5.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_4.md)
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_4.md)
 
 ## Type of the risk
 

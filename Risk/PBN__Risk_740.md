@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_740 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_740 
 
 # __Insufficient testing capacity__
 
@@ -29,12 +29,12 @@ Inadequate capacity to test individuals for contagious diseases
 
 ## Is the risk affecting GBN scales
 
-* [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_0.md)
 
 ## Mitigations of this risk
 
-* [Increase testing capacity, develop rapid and accurate test kits, promote widespread testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2720.md)
-* [Pooled-sample analysis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1021.md)
+* [Increase testing capacity, develop rapid and accurate test kits, promote widespread testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1021.md)
+* [Pooled-sample analysis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2720.md)
 
 ## Name of the risk
 
@@ -42,8 +42,8 @@ Difficulty in identifying and isolating infected individuals, increased risk of 
 
 ## People affected by this risk
 
-* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
-* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
+* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
+* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
 * [Healthcare organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_216.md)
 
 ## Stakeholders who can mitigate this risk
@@ -59,11 +59,11 @@ Difficulty in identifying and isolating infected individuals, increased risk of 
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Living and working environment](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_1.md)
+* [Living and working environment](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_1.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
+* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_2.md)
 
 ## Type of the risk
 

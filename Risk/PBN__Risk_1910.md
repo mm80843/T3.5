@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1910 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1910 
 
 # __Lack of financial support for public transport operators__
 
@@ -29,7 +29,7 @@ Financial difficulties faced by public transport operators due to reduced riders
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Mitigations of this risk
 
@@ -57,11 +57,11 @@ Service cuts, reduced frequency and capacity, potential closure of routes or sys
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_8.md)
+* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_8.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Attractiveness](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_9.md)
+* [Attractiveness](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_9.md)
 
 ## Type of the risk
 

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_5089 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_5089 
 
 # __Facilitating remote work__
 
@@ -21,7 +21,7 @@
 
 ## Link between Blueprint and General ontology
 
-* [Support recovery of sectors via remote work](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_33.md)
+* [Support recovery of sectors via remote work](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_33.md)
 
 ## Risks possibly mitigated by this Mitigation
 
@@ -29,9 +29,9 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Collaboration tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_5.md)
-* [Communication technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_565.md)
-* [Video conferencing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_404.md)
+* [Collaboration tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_565.md)
+* [Communication technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_404.md)
+* [Video conferencing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_5.md)
 
 ## Property: has_MitigationPrinciple
 

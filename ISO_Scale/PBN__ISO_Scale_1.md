@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [ISO_Scale](https://github.com/mm80843/T3.5/tree/main/docs/ISO_Scale/index.md) >> Individual ID:PBN__ISO_Scale_1 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [ISO_Scale](https://github.com/mm80843/T3.5/tree/pages/docs/ISO_Scale/index.md) >> Individual ID:PBN__ISO_Scale_1 
 
 # __Yes__
 
@@ -936,11 +936,11 @@
 * [Wm1](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1732.md)
 * [Wm2](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1755.md)
 * [Wm3](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1797.md)
-* [Workforce protection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1980.md)
-* [Workforce reduction](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1833.md)
-* [Workplace safety](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1835.md)
-* [Wq1](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2265.md)
-* [Wq2](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1954.md)
+* [Workforce protection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1833.md)
+* [Workforce reduction](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1835.md)
+* [Workplace safety](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2265.md)
+* [Wq1](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1954.md)
+* [Wq2](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1980.md)
 * [Wwm1](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2022.md)
 * [Wwm2](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2138.md)
 * [Wwm3](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2162.md)

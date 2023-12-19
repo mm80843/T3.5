@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_817 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_817 
 
 # __Personal protective equipment ppe__
 
@@ -34,12 +34,12 @@
 ## This Technology belongs to this TechnologySubgroup
 
 * [Adherence to biosafety guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_340.md)
-* [Face masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_136.md)
-* [Face shields](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1051.md)
-* [Facemasks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_483.md)
-* [Gloves](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_949.md)
-* [Gowns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_485.md)
-* [Masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_484.md)
+* [Face masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1051.md)
+* [Face shields](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_484.md)
+* [Facemasks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_485.md)
+* [Gloves](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_136.md)
+* [Gowns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_483.md)
+* [Masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_949.md)
 * [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_486.md)
 * [Ppe equipment and supplies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_482.md)
 * [Respirators](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2240.md)

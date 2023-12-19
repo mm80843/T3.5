@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [BenefReturn](https://github.com/mm80843/T3.5/tree/main/docs/BenefReturn/index.md) >> Individual ID:PBN__BenefReturn_1441 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [BenefReturn](https://github.com/mm80843/T3.5/tree/pages/docs/BenefReturn/index.md) >> Individual ID:PBN__BenefReturn_1441 
 
 # __Private investors can benefit from investing in the development of drug therapies as it can contribute to the improvement of patient outcomes, reducing the economic and healthcare burden of the disease and improving the value of pharmaceutical companies.__
 

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2062 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_2062 
 
 # __Surveillance and tracking systems__
 
@@ -21,16 +21,16 @@
 
 ## This Technology belongs to this TechnologySubgroup
 
-* [Access control systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
-* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_165.md)
-* [Crowd management strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_432.md)
-* [Keycard swiping](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_164.md)
-* [Motion sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1879.md)
-* [Occupancy tracking systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_773.md)
-* [Pressure sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_25.md)
-* [Security systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1720.md)
-* [Social distancing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1721.md)
-* [Surveillance cameras](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1722.md)
-* [Temperature screening](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1723.md)
+* [Access control systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1722.md)
+* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1723.md)
+* [Crowd management strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
+* [Keycard swiping](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_165.md)
+* [Motion sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_432.md)
+* [Occupancy tracking systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_164.md)
+* [Pressure sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1879.md)
+* [Security systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_773.md)
+* [Social distancing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_25.md)
+* [Surveillance cameras](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1720.md)
+* [Temperature screening](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1721.md)
 * [Tracking technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1095.md)
 

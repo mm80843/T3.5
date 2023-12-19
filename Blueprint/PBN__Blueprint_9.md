@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_9 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/pages/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_9 
 
 # __Tender support at building stage__
 
@@ -22,32 +22,32 @@ N/A
 
 ## Enablers of the blueprint
 
-* [Automation](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_27.md)
-* [BigData](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_9.md)
-* [Design & Construction software (BIM)](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_19.md)
-* [New delivery systems](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_21.md)
-* [SmartPhones](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_16.md)
-* [Visualization](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_3.md)
+* [Automation](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_27.md)
+* [BigData](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_9.md)
+* [Design & Construction software (BIM)](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_19.md)
+* [New delivery systems](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_21.md)
+* [SmartPhones](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_16.md)
+* [Visualization](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_3.md)
 
 ## GBN Phase of the blueprint
 
-* [Construction](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Phase_1.md)
-* [Design](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Phase_2.md)
+* [Construction](https://github.com/mm80843/T3.5/blob/pages/BP_Phase/PBN__BP_Phase_1.md)
+* [Design](https://github.com/mm80843/T3.5/blob/pages/BP_Phase/PBN__BP_Phase_2.md)
 
 ## Interventions of the blueprint
 
-* [Promote verified information](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_38.md)
-* [Raising awareness](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_15.md)
-* [Selection of materials](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_39.md)
+* [Promote verified information](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_38.md)
+* [Raising awareness](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_15.md)
+* [Selection of materials](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_39.md)
 
 ## Mode of transmission covered by the blueprint
 
-* [All](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_4.md)
+* [All](https://github.com/mm80843/T3.5/blob/pages/BP_Transmission/PBN__BP_Transmission_4.md)
 
 ## Possible mitigations of the BP
 
-* [Deploy viral testing for healthcare staff, ensure availability of protective equipment and medical supplies, increase investment in disease prevention infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2393.md)
-* [Develop international strategies that integrate the built environment in pandemic response plans](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1574.md)
+* [Deploy viral testing for healthcare staff, ensure availability of protective equipment and medical supplies, increase investment in disease prevention infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1574.md)
+* [Develop international strategies that integrate the built environment in pandemic response plans](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2393.md)
 * [Develop pandemic-resilient office building requirements](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2016.md)
 * [Establish cold chain management systems, including proper storage and transport facilities, temperature monitoring, and staff training. prioritize high-risk populations for vaccination.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1944.md)
 * [Implement health and safety measures, adapt project plans to pandemic restrictions, provide support to affected workers.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2506.md)
@@ -85,7 +85,7 @@ Budgetary issues are the main obstacle. In the absence of a mandatory standard, 
 
 ## Scale of the of the blueprint
 
-* [Gbn](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Scale_2.md)
+* [Gbn](https://github.com/mm80843/T3.5/blob/pages/BP_Scale/PBN__BP_Scale_2.md)
 
 ## Title of the blueprint
 
@@ -93,11 +93,11 @@ PBN:BP_10
 
 ## Type of deployment of the blueprint
 
-* [Permanent](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Permanent_1.md)
+* [Permanent](https://github.com/mm80843/T3.5/blob/pages/BP_Permanent/PBN__BP_Permanent_1.md)
 
 ## Type of the blueprint
 
-* [Technical](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Type_1.md)
+* [Technical](https://github.com/mm80843/T3.5/blob/pages/BP_Type/PBN__BP_Type_1.md)
 
 ## Value proposition of the blueprint
 

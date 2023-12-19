@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_145 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/pages/docs/Benef/index.md) >> Individual ID:PBN__Benef_145 
 
 # __Nan__
 
@@ -40,8 +40,8 @@ nan
 
 ## Risks which can benefit from this action
 
-* [And bio-ontologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_965.md)
-* [And distressing content](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_123.md)
+* [And bio-ontologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_123.md)
+* [And distressing content](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_965.md)
 * [And models](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_762.md)
 * [Capacity limitations,](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_975.md)
 * [Coating with cationic polymer films polyallylamine or poly diallyldimethylammonium chloride](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_976.md)

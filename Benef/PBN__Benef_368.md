@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_368 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/pages/docs/Benef/index.md) >> Individual ID:PBN__Benef_368 
 
 # __Increased productivity__
 
@@ -26,16 +26,16 @@ Removal of non-value added processes, improved resource optimization, enhanced c
 
 ## Risks which can benefit from this action
 
-* [Offsite construction](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_369.md)
-* [Remote work](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_832.md)
+* [Offsite construction](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_832.md)
+* [Remote work](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_369.md)
 * [Telecommuting](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_534.md)
 * [Value engineering with lean construction](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1012.md)
 
 ## Stakeholders benefitting from this Benefit
 
-* [Companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_149.md)
+* [Companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_220.md)
 * [Construction industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_179.md)
-* [Construction industry stakeholders](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_220.md)
+* [Construction industry stakeholders](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_149.md)
 * [Contractors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_178.md)
 * [Employees](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_345.md)
 * [Investors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_67.md)

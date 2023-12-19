@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_274 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_274 
 
 # __Resilient Built Environment: Critical Review of the Strategies Released by the Sustainability Rating Systems in Response to the COVID-19 Pandemic__
 
@@ -47,23 +47,23 @@ In this text, we learn about different types of coronaviruses, including the one
 
 ## This article mentions these technologies
 
-* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_340.md)
+* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_230.md)
 * [Cleaning supplies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_341.md)
-* [Communication systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
-* [Communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
-* [Compliance checks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1055.md)
-* [Disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_168.md)
-* [Emergency response plans](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_965.md)
-* [Face masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_201.md)
-* [Face shields](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
-* [Gloves](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_230.md)
-* [Hand sanitizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1051.md)
-* [Information campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_148.md)
-* [Masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_411.md)
-* [Monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_435.md)
-* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_410.md)
-* [Occupancy limits](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_485.md)
-* [Physical barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_484.md)
+* [Communication systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+* [Communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_410.md)
+* [Compliance checks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_168.md)
+* [Disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1055.md)
+* [Emergency response plans](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
+* [Face masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_411.md)
+* [Face shields](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_340.md)
+* [Gloves](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1051.md)
+* [Hand sanitizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_484.md)
+* [Information campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_485.md)
+* [Masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
+* [Monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_965.md)
+* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_201.md)
+* [Occupancy limits](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_148.md)
+* [Physical barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_435.md)
 * [Signage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1054.md)
 * [Space planning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1052.md)
 * [Ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1053.md)
@@ -71,9 +71,9 @@ In this text, we learn about different types of coronaviruses, including the one
 ## This article points to following mitigation
 
 * [Enhanced air filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
-* [Enhanced cleaning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3760.md)
-* [Increased ventilation rates](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3575.md)
+* [Enhanced cleaning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3575.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
+* [Increased ventilation rates](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3760.md)
 * [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4179.md)
 * [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4178.md)
 

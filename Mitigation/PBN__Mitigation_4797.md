@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4797 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4797 
 
 # __Real-time health data capture__
 
@@ -26,8 +26,8 @@
 ## This Mitigation is enabled by the following technologies
 
 * [Connectivity](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_277.md)
-* [Iot](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3517.md)
-* [Sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_200.md)
+* [Iot](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_200.md)
+* [Sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3517.md)
 
 ## Property: has_MitigationPrinciple
 

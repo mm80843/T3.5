@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_72 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/pages/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_72 
 
 # __Interoperability challenges, high costs, limited communication, and lack of resources impact various sectors globally.__
 
@@ -203,10 +203,10 @@
 * [Time constraints](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2539.md)
 * [Trade-offs between efficiency and stability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1344.md)
 * [Uncertainty of maintaining intensive policies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1561.md)
-* [Underutilized smart solutions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2245.md)
+* [Underutilized smart solutions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1918.md)
 * [Unpreparedness for future pandemics](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1980.md)
-* [Value-based decision-making and policy support](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1918.md)
-* [Varied content and quality of available video libraries](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2220.md)
+* [Value-based decision-making and policy support](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2220.md)
+* [Varied content and quality of available video libraries](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2245.md)
 * [Varying legal frameworks, sociopolitical barriers](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3127.md)
 
 ## Title of the category

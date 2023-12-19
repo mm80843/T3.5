@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__aBlueprint_45 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/pages/docs/Blueprint/index.md) >> Individual ID:PBN__aBlueprint_45 
 
 # __Implementing Biohazard Mitigation Strategies__
 
@@ -28,16 +28,16 @@
 
 ## 3. Blueprint impacts these stakeholders
 
-* [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_683.md)
-* [Cleaning staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_52.md)
-* [Environmental agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
-* [Public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_654.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
+* [Cleaning staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_654.md)
+* [Environmental agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_683.md)
+* [Public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_52.md)
 * [Water authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_492.md)
 
 ## 4. Blueprint links to these mitigations
 
-* [Appropriate disposal and disinfection of hospital wastes and wastewater before transportation or discharge.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2104.md)
-* [Develop and implement proper cleaning and disinfection protocols, provide training and resources for cleaning staff, conduct regular inspections and audits.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3003.md)
+* [Appropriate disposal and disinfection of hospital wastes and wastewater before transportation or discharge.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3003.md)
+* [Develop and implement proper cleaning and disinfection protocols, provide training and resources for cleaning staff, conduct regular inspections and audits.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2104.md)
 * [Develop and implement regular cleaning and disinfection protocols, provide proper training and resources.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1777.md)
 * [Implement a regular cleaning and disinfection schedule for commonly touched surfaces, tools, and equipment on construction sites.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1654.md)
 * [Proper disposal methods for pharmaceutical wastes, including incineration and hazardous waste treatment.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3005.md)
@@ -45,27 +45,27 @@
 ## 5. Blueprint mitigation can be owned by these stakeholders
 
 * [Cleaning staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
-* [Environmental agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_683.md)
-* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
-* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_654.md)
-* [Hospital management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_239.md)
+* [Environmental agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
+* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_654.md)
+* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_239.md)
+* [Hospital management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_683.md)
 
 ## 6. Blueprint links to these benefits
 
 * [Real-time disease monitoring](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_29.md)
-* [Reduced infection risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_216.md)
-* [Sanitized areas without human contact](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_344.md)
+* [Reduced infection risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_344.md)
+* [Sanitized areas without human contact](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_216.md)
 
 ## 7. Blueprint links to these technology
 
-* [254 nm uv lamps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3014.md)
-* [Advanced mass spectrometry](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3508.md)
-* [Biomarker extraction techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3509.md)
-* [Environmental surveillance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3510.md)
-* [Pcr techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2451.md)
-* [Spraying-down disinfection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3604.md)
+* [254 nm uv lamps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2583.md)
+* [Advanced mass spectrometry](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3759.md)
+* [Biomarker extraction techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3510.md)
+* [Environmental surveillance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3014.md)
+* [Pcr techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3508.md)
+* [Spraying-down disinfection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3509.md)
 * [Surface classification](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2360.md)
-* [Uv lamps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3640.md)
-* [Uv light](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2583.md)
-* [Waste management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3759.md)
+* [Uv lamps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2451.md)
+* [Uv light](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3640.md)
+* [Waste management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3604.md)
 

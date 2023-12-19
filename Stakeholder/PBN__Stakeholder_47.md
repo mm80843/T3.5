@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_47 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_47 
 
 # __Governments__
 
@@ -225,29 +225,29 @@
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Confidentiality of personal health information](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_5.md)
-* [Early detection and response](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_294.md)
-* [Early detection of covid-19](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_496.md)
-* [Economic recovery](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_218.md)
-* [Efficient resource allocation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_515.md)
-* [Enhanced accuracy of predictive models](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_66.md)
-* [Enhanced credibility and reputation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1086.md)
-* [Enhanced data availability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1017.md)
-* [Enhanced risk management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1018.md)
-* [Enhanced risk management and cooperation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1395.md)
-* [Flexibility in supply chains](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1016.md)
-* [Flexible responses to disruptions](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1394.md)
-* [Improved coordination and response](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_303.md)
-* [Improved information systems and risk management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_304.md)
-* [Improved resilience to supply shocks](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_306.md)
-* [Improved strategic management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_307.md)
-* [Increased competition and diversification](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_308.md)
-* [Increased substitution between suppliers](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_309.md)
-* [Knowledge sharing and research development](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_310.md)
-* [Peace, justice, and strong institutions](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_311.md)
-* [Prediction of infection rates](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_312.md)
-* [Prevention of economic shrinkage](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_513.md)
-* [Priority access to essential goods](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_514.md)
-* [Rethinking social and economic models](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1060.md)
+* [Early detection and response](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1060.md)
+* [Early detection of covid-19](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_294.md)
+* [Economic recovery](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_496.md)
+* [Efficient resource allocation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_218.md)
+* [Enhanced accuracy of predictive models](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_515.md)
+* [Enhanced credibility and reputation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_66.md)
+* [Enhanced data availability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1086.md)
+* [Enhanced risk management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1017.md)
+* [Enhanced risk management and cooperation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1018.md)
+* [Flexibility in supply chains](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1395.md)
+* [Flexible responses to disruptions](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1016.md)
+* [Improved coordination and response](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1394.md)
+* [Improved information systems and risk management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_303.md)
+* [Improved resilience to supply shocks](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_304.md)
+* [Improved strategic management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_306.md)
+* [Increased competition and diversification](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_307.md)
+* [Increased substitution between suppliers](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_308.md)
+* [Knowledge sharing and research development](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_309.md)
+* [Peace, justice, and strong institutions](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_310.md)
+* [Prediction of infection rates](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_311.md)
+* [Prevention of economic shrinkage](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_312.md)
+* [Priority access to essential goods](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_513.md)
+* [Rethinking social and economic models](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_514.md)
 * [Timely shutdown and reopening of specific areas](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_776.md)
 * [Transparency in donation process](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1048.md)
 
@@ -275,7 +275,7 @@
 
 ## Type of the stakeholder
 
-* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_0.md)
-* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
-* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_0.md)
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_2.md)
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_1.md)
 

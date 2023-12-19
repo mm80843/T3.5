@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4781 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4781 
 
 # __Smart city solutions__
 
@@ -24,8 +24,8 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Actuators](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_96.md)
-* [Iot devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_200.md)
+* [Actuators](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_200.md)
+* [Iot devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_96.md)
 * [Ip surveillance cameras](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3501.md)
 * [Sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2362.md)
 * [Thermal cameras](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3502.md)

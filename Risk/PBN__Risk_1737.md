@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1737 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1737 
 
 # __Data quality__
 
@@ -29,7 +29,7 @@ Growing amount of data and poor-quality data aggregation
 
 ## Is the risk affecting GBN scales
 
-* [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_0.md)
 
 ## Mitigations of this risk
 
@@ -41,14 +41,14 @@ Development of inaccurate predictive models and hindered decision-making
 
 ## People affected by this risk
 
-* [Data scientists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1164.md)
-* [Healthcare researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_625.md)
+* [Data scientists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_625.md)
+* [Healthcare researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1164.md)
 
 ## Stakeholders who can mitigate this risk
 
 * [Data scientists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
-* [Healthcare administrators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_557.md)
-* [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_625.md)
+* [Healthcare administrators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_625.md)
+* [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_557.md)
 
 ## Technologies linked to the risk
 
@@ -56,11 +56,11 @@ Development of inaccurate predictive models and hindered decision-making
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Safety and security](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_5.md)
+* [Safety and security](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_5.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
+* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_2.md)
 
 ## Type of the risk
 

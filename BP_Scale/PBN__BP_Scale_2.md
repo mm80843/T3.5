@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [BP_Scale](https://github.com/mm80843/T3.5/tree/main/docs/BP_Scale/index.md) >> Individual ID:PBN__BP_Scale_2 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [BP_Scale](https://github.com/mm80843/T3.5/tree/pages/docs/BP_Scale/index.md) >> Individual ID:PBN__BP_Scale_2 
 
 # __Gbn__
 

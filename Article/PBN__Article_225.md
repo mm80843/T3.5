@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_225 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_225 
 
 # __COVID-19 and its Modes of Transmission__
 
@@ -44,11 +44,11 @@ The coronavirus disease, known as COVID-19, is a sickness caused by a virus call
 ## This article points to following mitigation
 
 * [Disinfection of objects](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
-* [Negative pressure isolation rooms](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_698.md)
-* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3576.md)
-* [Proper coughing and sneezing techniques](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3920.md)
-* [Proper hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3921.md)
-* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3575.md)
+* [Negative pressure isolation rooms](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3575.md)
+* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_698.md)
+* [Proper coughing and sneezing techniques](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3576.md)
+* [Proper hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3920.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3921.md)
 * [Use of face masks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3922.md)
 
 ## Title of the article

@@ -1,14 +1,14 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_129 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/pages/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_129 
 
 # __Ensuring the provision and accessibility of essential services through innovation, self-reliance, and virtualization.__
 
 ## Items covered in this category
 
-* [Access to shops and services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_436.md)
-* [Activate rapid response services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5090.md)
-* [Ai-assisted ct service](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_244.md)
-* [Availability of self-dependent services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_556.md)
-* [Composite space service facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2482.md)
+* [Access to shops and services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2482.md)
+* [Activate rapid response services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_436.md)
+* [Ai-assisted ct service](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5090.md)
+* [Availability of self-dependent services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_244.md)
+* [Composite space service facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_556.md)
 * [Conduct comprehensive community needs assessment to determine appropriate allocation of services.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5142.md)
 * [Configuration of community service facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3644.md)
 * [Continuity of essential services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4240.md)

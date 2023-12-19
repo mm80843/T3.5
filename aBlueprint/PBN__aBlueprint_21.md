@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [aBlueprint](https://github.com/mm80843/T3.5/tree/main/docs/aBlueprint/index.md) >> Individual ID:PBN__aBlueprint_21 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [aBlueprint](https://github.com/mm80843/T3.5/tree/pages/docs/aBlueprint/index.md) >> Individual ID:PBN__aBlueprint_21 
 
 # __Implementing Disease Mitigation Strategies: Addressing Wildlife Trade, Vector Control, and Environmental Hygiene__
 
@@ -30,41 +30,41 @@
 
 * [Especially those living in areas with high mosquito populations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
 * [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_209.md)
-* [Outdoor workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1095.md)
-* [Park visitors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1094.md)
+* [Outdoor workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1094.md)
+* [Park visitors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1095.md)
 * [Urban residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1065.md)
 
 ## 4. Blueprint links to these mitigations
 
 * [Develop innovative control methods, improve environmental hygiene, enhance urban planning strategies.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2844.md)
 * [Implement ecosystem-based approaches to control vectors, such as maintaining natural habitats and reducing breeding sites.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2430.md)
-* [Implement measures to mitigate climate change and reduce mosquito breeding sites.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2621.md)
+* [Implement measures to mitigate climate change and reduce mosquito breeding sites.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2192.md)
 * [Strengthen wildlife trade regulations, enhance law enforcement efforts, raise public awareness on wildlife conservation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2221.md)
-* [Water circulation and aeration, mosquito control measures, public education on mosquito prevention](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2192.md)
+* [Water circulation and aeration, mosquito control measures, public education on mosquito prevention](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2621.md)
 
 ## 5. Blueprint mitigation can be owned by these stakeholders
 
-* [City governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_0.md)
-* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_222.md)
-* [Public health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
+* [City governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
+* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_0.md)
+* [Public health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_222.md)
 * [Public health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_354.md)
 * [Vector control agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1064.md)
 
 ## 6. Blueprint links to these benefits
 
-* [Increase in public knowledge](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_79.md)
-* [Increased public awareness and compliance with preventive measures](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_864.md)
-* [Reduced disease transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1042.md)
+* [Increase in public knowledge](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_864.md)
+* [Increased public awareness and compliance with preventive measures](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1042.md)
+* [Reduced disease transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_79.md)
 
 ## 7. Blueprint links to these technology
 
 * [Advertising](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
-* [Educational materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_493.md)
-* [Geographic information systems gis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_539.md)
-* [Green roofs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1390.md)
-* [Green space design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3022.md)
-* [Green space management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3023.md)
-* [Information dissemination](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2486.md)
-* [Insecticide-treated screens](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2760.md)
-* [Media](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2762.md)
+* [Educational materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1390.md)
+* [Geographic information systems gis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2760.md)
+* [Green roofs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2486.md)
+* [Green space design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2762.md)
+* [Green space management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3022.md)
+* [Information dissemination](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3023.md)
+* [Insecticide-treated screens](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_493.md)
+* [Media](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3049.md)
 

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_202 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_202 
 
 # __Wastewater-based epidemiology__
 
@@ -36,10 +36,10 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Advanced mass spectrometry](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3014.md)
-* [Biomarker extraction techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3508.md)
-* [Environmental surveillance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3509.md)
-* [Pcr techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3510.md)
+* [Advanced mass spectrometry](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3510.md)
+* [Biomarker extraction techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3014.md)
+* [Environmental surveillance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3508.md)
+* [Pcr techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3509.md)
 
 ## This mitigation is used in the following general blueprint(s)
 

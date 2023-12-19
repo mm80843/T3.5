@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_2097 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_2097 
 
 # __Risk of mental health issues during and after a pandemic__
 
@@ -29,7 +29,7 @@ The pandemic and associated measures, such as stay-at-home orders, can lead to i
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Mitigations of this risk
 
@@ -41,14 +41,14 @@ Increased mental health conditions, interpersonal conflicts, strain on support s
 
 ## People affected by this risk
 
-* [Individuals with pre-existing mental health conditions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_658.md)
-* [Vulnerable populations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_127.md)
+* [Individuals with pre-existing mental health conditions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_127.md)
+* [Vulnerable populations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_658.md)
 
 ## Stakeholders who can mitigate this risk
 
 * [Community support services](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_121.md)
-* [Healthcare providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1421.md)
-* [Mental health organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_603.md)
+* [Healthcare providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_603.md)
+* [Mental health organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1421.md)
 
 ## Technologies linked to the risk
 
@@ -57,11 +57,11 @@ Increased mental health conditions, interpersonal conflicts, strain on support s
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_0.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_1.md)
+* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_1.md)
 
 ## Type of the risk
 

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_197 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_197 
 
 # __Construction workers__
 
@@ -63,13 +63,13 @@
 
 ## This Stakeholder can get these Benefits from mitigation measures
 
-* [Early detection and prevention](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_413.md)
-* [Enhanced hygiene](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_248.md)
-* [Improved knowledge and compliance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1011.md)
-* [Improved productivity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_782.md)
-* [Improved worker safety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_785.md)
-* [Improved worker well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1270.md)
-* [Opportunity for unique projects](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_411.md)
+* [Early detection and prevention](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_411.md)
+* [Enhanced hygiene](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_413.md)
+* [Improved knowledge and compliance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_248.md)
+* [Improved productivity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1011.md)
+* [Improved worker safety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_782.md)
+* [Improved worker well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_785.md)
+* [Opportunity for unique projects](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1270.md)
 * [Positive environmental impacts](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_412.md)
 * [Reduced virus spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_414.md)
 * [Worker safety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_676.md)
@@ -77,6 +77,6 @@
 
 ## Type of the stakeholder
 
-* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_0.md)
-* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_0.md)
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_1.md)
 

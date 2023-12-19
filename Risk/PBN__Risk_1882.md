@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1882 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1882 
 
 # __Surface transmission__
 
@@ -29,12 +29,12 @@ COVID-19 can spread through contaminated surfaces, leading to potential infectio
 
 ## Is the risk affecting GBN scales
 
-* [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_0.md)
 
 ## Mitigations of this risk
 
-* [Enhanced cleaning and sanitation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1130.md)
+* [Enhanced cleaning and sanitation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1130.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
 * [Increased cleaning protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4227.md)
 * [Regular cleaning and disinfection of frequently touched surfaces, promoting hand hygiene, and providing hand sanitizers.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4224.md)
 * [Regular disinfection of surfaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2501.md)
@@ -59,17 +59,17 @@ Increased risk of infection transmission through surface contact.
 
 ## Technologies linked to the risk
 
-* [Hand sanitizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1288.md)
-* [Regular cleaning and disinfection technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1289.md)
-* [Touch-free technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_410.md)
+* [Hand sanitizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_410.md)
+* [Regular cleaning and disinfection technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1288.md)
+* [Touch-free technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1289.md)
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_0.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Safety and security](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_0.md)
+* [Safety and security](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_0.md)
 
 ## Type of the risk
 

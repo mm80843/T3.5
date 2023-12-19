@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_237 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_237 
 
 # __Risk Diagnosis and Mitigation System of COVID-19 Using Expert System and Web Scraping__
 
@@ -32,8 +32,8 @@ This text is about a mobile application that helps people detect early symptoms 
 
 ## This article mentions these technologies
 
-* [Authentication protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1144.md)
-* [Communication platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_47.md)
+* [Authentication protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_47.md)
+* [Communication platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1144.md)
 * [Educational campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_315.md)
 * [Educational websites](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_135.md)
 * [Encryption algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1143.md)

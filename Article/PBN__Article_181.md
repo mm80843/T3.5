@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_181 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_181 
 
 # __Staying Physically Active During the Quarantine and Self-Isolation Period for Controlling and Mitigating the COVID-19 Pandemic: A Systematic Overview of the Literature__
 
@@ -31,12 +31,12 @@ During the COVID-19 pandemic, people have to stay at home and can't go out and p
 
 ## This article mentions these technologies
 
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_401.md)
-* [Fitness tracking devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_402.md)
-* [Fitness tracking devices for children](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_403.md)
-* [Mental health apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_219.md)
-* [Online fitness platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_117.md)
-* [Parental supervision](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_404.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_404.md)
+* [Fitness tracking devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_401.md)
+* [Fitness tracking devices for children](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_402.md)
+* [Mental health apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_403.md)
+* [Online fitness platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_219.md)
+* [Parental supervision](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_117.md)
 * [Remote monitoring technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_405.md)
 * [Telehealth platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_406.md)
 * [Testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_407.md)

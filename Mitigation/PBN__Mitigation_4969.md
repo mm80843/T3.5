@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4969 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4969 
 
 # __Incorporating green spaces__
 
@@ -25,8 +25,8 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Gardens](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1390.md)
-* [Green roofs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1734.md)
+* [Gardens](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1734.md)
+* [Green roofs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1390.md)
 
 ## Property: has_MitigationPrinciple
 

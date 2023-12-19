@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2141 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_2141 
 
 # __Digital communication and collaboration tools__
 
@@ -21,8 +21,8 @@
 
 ## This Technology belongs to this TechnologySubgroup
 
-* [Collaborative networks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_717.md)
-* [Data sharing platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_152.md)
+* [Collaborative networks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_152.md)
+* [Data sharing platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_717.md)
 * [Digital communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1081.md)
 * [Monitoring technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1844.md)
 * [Remote working](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_716.md)

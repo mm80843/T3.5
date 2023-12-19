@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_1012 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_1012 
 
 # __Natural ventilation strategies__
 
@@ -31,7 +31,7 @@
 
 ## This Technology belongs to this TechSubgroup
 
-* [Ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
+* [Ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
 
 ## This technology is mentioned by
 

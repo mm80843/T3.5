@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [BenefReturn](https://github.com/mm80843/T3.5/tree/main/docs/BenefReturn/index.md) >> Individual ID:PBN__BenefReturn_1485 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [BenefReturn](https://github.com/mm80843/T3.5/tree/pages/docs/BenefReturn/index.md) >> Individual ID:PBN__BenefReturn_1485 
 
 # __Increased resident satisfaction and productivity, potentially leading to higher tenant retention and increased property value.__
 

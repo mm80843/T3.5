@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4748 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4748 
 
 # __Transparent communication and prevention of fake news__
 
@@ -25,8 +25,8 @@
 ## This Mitigation is enabled by the following technologies
 
 * [Ai](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_278.md)
-* [Big data analytics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2336.md)
-* [Social media platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_47.md)
+* [Big data analytics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_47.md)
+* [Social media platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2336.md)
 
 ## Property: has_MitigationPrinciple
 

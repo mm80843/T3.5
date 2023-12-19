@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1925 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1925 
 
 # __Regular disinfection of floor surfaces, disinfection of shoe soles__
 
@@ -21,7 +21,7 @@
 
 ## Link between Blueprint and General ontology
 
-* [Wall and floors treatment](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_14.md)
+* [Wall and floors treatment](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_14.md)
 
 ## Risks possibly mitigated by this Mitigation
 

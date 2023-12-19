@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1838 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1838 
 
 # __Limited access to physical activity environments__
 
@@ -33,11 +33,11 @@ Stay-at-home measures and curfews may limit opportunities for physical activity 
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Link between Blueprint and General ontology
 
-* [Activities continuity](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Theme_8.md)
+* [Activities continuity](https://github.com/mm80843/T3.5/blob/pages/BP_Theme/PBN__BP_Theme_8.md)
 
 ## Mitigations of this risk
 
@@ -55,8 +55,8 @@ Reduced physical activity levels, increased risk of chronic conditions such as o
 ## Stakeholders who can mitigate this risk
 
 * [Community organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
-* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_125.md)
-* [Urban planners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_150.md)
+* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_150.md)
+* [Urban planners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_125.md)
 
 ## Technologies linked to the risk
 
@@ -66,11 +66,11 @@ Reduced physical activity levels, increased risk of chronic conditions such as o
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_0.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
+* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_2.md)
 
 ## Type of the risk
 

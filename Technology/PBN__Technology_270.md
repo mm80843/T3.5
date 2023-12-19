@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_270 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_270 
 
 # __Natural ventilation__
 
@@ -41,11 +41,11 @@
 
 ## This Technology enables the following mitigations
 
-* [Dilution and dispersion](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_476.md)
-* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1028.md)
-* [Improved ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_520.md)
-* [Improved ventilation rates](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4350.md)
-* [Increased outdoor air ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3310.md)
+* [Dilution and dispersion](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3310.md)
+* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_476.md)
+* [Improved ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1028.md)
+* [Improved ventilation rates](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_520.md)
+* [Increased outdoor air ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4350.md)
 * [Regular air changes](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4342.md)
 
 ## This technology is mentioned by

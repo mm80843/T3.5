@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_5025 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_5025 
 
 # __Preparation and maintenance of specific green areas__
 
@@ -25,8 +25,8 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Landscaping materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3694.md)
-* [Park/garden maintenance equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3695.md)
+* [Landscaping materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3695.md)
+* [Park/garden maintenance equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3694.md)
 
 ## Property: has_MitigationPrinciple
 

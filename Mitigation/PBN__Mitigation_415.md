@@ -1,13 +1,13 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_415 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_415 
 
 # __Personal protective equipment ppe__
 
 ## Benefits linked to a risk
 
 * [Improved worker safety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_411.md)
-* [Protection against virus transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_491.md)
-* [Protection for workers](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_502.md)
-* [Protection of individuals](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1337.md)
+* [Protection against virus transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_502.md)
+* [Protection for workers](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1337.md)
+* [Protection of individuals](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_491.md)
 
 ## Category to which it belongs
 
@@ -43,14 +43,14 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Etc.](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_340.md)
-* [Face masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
-* [Face shields](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2635.md)
-* [Gloves](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1051.md)
-* [Goggles](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1461.md)
-* [Masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2727.md)
-* [Ppe](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2728.md)
-* [Protective clothing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_484.md)
+* [Etc.](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
+* [Face masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_340.md)
+* [Face shields](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1051.md)
+* [Gloves](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2635.md)
+* [Goggles](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2727.md)
+* [Masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2728.md)
+* [Ppe](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1461.md)
+* [Protective clothing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_485.md)
 
 ## This mitigation is used in the following general blueprint(s)
 

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_65 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_65 
 
 # __The impact of COVID-19 and strategies for mitigation and suppression in low- and middle-income countries__
 
@@ -33,10 +33,10 @@ The effectiveness of these strategies also depends on how people respond to them
 
 ## This article mentions these technologies
 
-* [Business assistance programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_402.md)
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_73.md)
-* [Disease surveillance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1885.md)
-* [Financial relief](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_108.md)
+* [Business assistance programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_108.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_402.md)
+* [Disease surveillance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_73.md)
+* [Financial relief](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1885.md)
 * [Infrastructure development](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_76.md)
 * [Medical equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1883.md)
 * [Online mental health resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1887.md)

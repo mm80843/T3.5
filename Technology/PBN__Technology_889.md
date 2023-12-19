@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_889 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_889 
 
 # __Public education and awareness campaigns__
 
@@ -33,8 +33,8 @@
 
 ## This Technology belongs to this TechnologySubgroup
 
-* [Community engagement strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_24.md)
-* [Education and awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
+* [Community engagement strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
+* [Education and awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_24.md)
 * [Education on media literacy](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_746.md)
 * [Educational campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_889.md)
 * [Information campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_251.md)

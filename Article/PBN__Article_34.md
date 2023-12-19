@@ -1,11 +1,11 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_34 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_34 
 
 # __How Architecture Fails in Conditions of Crisis: a Discussion on the Value of Interior Design over the COVID-19 Outbreak__
 
 ## Benefits listed in this article
 
-* [Energy efficiency](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_47.md)
-* [Improved health outcomes](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_153.md)
+* [Energy efficiency](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_153.md)
+* [Improved health outcomes](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_47.md)
 * [Improved public health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_154.md)
 * [Improved well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_155.md)
 * [Sense of belonging and security](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_156.md)
@@ -45,8 +45,8 @@ Architects have been designing buildings for people to live in for a long time. 
 
 ## This article points to following mitigation
 
-* [Active design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4117.md)
-* [Biophilic design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3237.md)
+* [Active design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3237.md)
+* [Biophilic design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4117.md)
 * [Natural lighting](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4590.md)
 * [Natural ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1017.md)
 * [Urban farming](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1303.md)

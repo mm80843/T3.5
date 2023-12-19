@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__aBlueprint_35 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/pages/docs/Blueprint/index.md) >> Individual ID:PBN__aBlueprint_35 
 
 # __Implementing Contagious Disease Control__
 
@@ -30,41 +30,41 @@
 
 * [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_68.md)
 * [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
-* [Healthcare workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_59.md)
-* [Occupants of residential buildings](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
+* [Healthcare workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
+* [Occupants of residential buildings](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_59.md)
 * [Residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1485.md)
 
 ## 4. Blueprint links to these mitigations
 
-* [Control and regulate humidity levels to reduce virus viability and survival. implement proper ventilation and air filtration systems.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_345.md)
+* [Control and regulate humidity levels to reduce virus viability and survival. implement proper ventilation and air filtration systems.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2264.md)
 * [Implement touchless technologies, promote natural light, and establish self-cleaning spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_215.md)
-* [Regulate and control ah and rh levels in the built environment to reduce virus survival and transmission.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2935.md)
-* [Touchless technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2264.md)
-* [Use of touchless technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2267.md)
+* [Regulate and control ah and rh levels in the built environment to reduce virus survival and transmission.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2267.md)
+* [Touchless technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_345.md)
+* [Use of touchless technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2935.md)
 
 ## 5. Blueprint mitigation can be owned by these stakeholders
 
 * [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_269.md)
-* [Cleaning staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_302.md)
-* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
-* [Government authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
+* [Cleaning staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
+* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
+* [Government authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_302.md)
 * [Healthcare institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_654.md)
 
 ## 6. Blueprint links to these benefits
 
-* [Improved asset value](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_29.md)
-* [Prevention of viral transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_631.md)
+* [Improved asset value](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_631.md)
+* [Prevention of viral transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_29.md)
 * [Reduced infection risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1120.md)
 
 ## 7. Blueprint links to these technology
 
-* [Floor markings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_341.md)
-* [Internet-based communication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
-* [Iot](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_277.md)
-* [Physical barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_358.md)
-* [Physical distance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2311.md)
-* [Physical space](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2482.md)
-* [Public awareness and education campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2579.md)
-* [Technology-enabled monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2770.md)
-* [Wearable devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3444.md)
+* [Floor markings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
+* [Internet-based communication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_358.md)
+* [Iot](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_341.md)
+* [Physical barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2579.md)
+* [Physical distance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2482.md)
+* [Physical space](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_277.md)
+* [Public awareness and education campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2770.md)
+* [Technology-enabled monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3444.md)
+* [Wearable devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2311.md)
 

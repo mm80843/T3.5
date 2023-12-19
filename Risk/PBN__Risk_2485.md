@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_2485 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_2485 
 
 # __Lack of information__
 
@@ -21,9 +21,9 @@
 
 ## Mitigations of this risk
 
-* [Better communication channels](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3367.md)
-* [Communication and awareness](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4218.md)
-* [Digital communication strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_472.md)
-* [Effective communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3389.md)
+* [Better communication channels](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3389.md)
+* [Communication and awareness](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3367.md)
+* [Digital communication strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4218.md)
+* [Effective communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_472.md)
 * [Improved health information system](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3551.md)
 

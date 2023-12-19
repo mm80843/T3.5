@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1136 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1136 
 
 # __Insufficient behavior and adherence to guidelines__
 
@@ -29,11 +29,11 @@ Failure to follow public health guidelines, such as physical distancing, mask-we
 
 ## Is the risk affecting GBN scales
 
-* [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_0.md)
 
 ## Link between Blueprint and General ontology
 
-* [User behavior](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Theme_4.md)
+* [User behavior](https://github.com/mm80843/T3.5/blob/pages/BP_Theme/PBN__BP_Theme_4.md)
 
 ## Mitigations of this risk
 
@@ -53,24 +53,24 @@ Higher likelihood of close contact, aerosol and droplet transmission, and contam
 ## Stakeholders who can mitigate this risk
 
 * [Community leaders](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_222.md)
-* [Employers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_302.md)
-* [Government authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_180.md)
+* [Employers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_180.md)
+* [Government authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_302.md)
 * [Public health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_604.md)
 
 ## Technologies linked to the risk
 
-* [Enforcement measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_82.md)
-* [Public health campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_230.md)
+* [Enforcement measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_230.md)
+* [Public health campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_82.md)
 * [Signage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_231.md)
 * [Training programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_167.md)
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_0.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_1.md)
+* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_1.md)
 
 ## Type of the risk
 

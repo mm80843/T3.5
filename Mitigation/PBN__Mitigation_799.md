@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_799 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_799 
 
 # __Visible and accessible green elements and spaces__
 
@@ -30,8 +30,8 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Green roofs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1390.md)
-* [Green walls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1008.md)
+* [Green roofs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1008.md)
+* [Green walls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1390.md)
 * [Urban microclimatic control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2651.md)
 
 ## Property: has_MitigationPrinciple

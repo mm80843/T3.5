@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_485 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_485 
 
 # __Gloves__
 
@@ -34,10 +34,10 @@
 
 ## This Technology enables the following mitigations
 
-* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3575.md)
-* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1095.md)
-* [Personal protective equipment ppe use](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3933.md)
-* [Safety wearables and carry-ons](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_415.md)
+* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_415.md)
+* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3575.md)
+* [Personal protective equipment ppe use](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1095.md)
+* [Safety wearables and carry-ons](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3933.md)
 * [Use of personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_376.md)
 * [Use of personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3376.md)
 * [Wearing gloves](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3909.md)

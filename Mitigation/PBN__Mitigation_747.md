@@ -1,11 +1,11 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_747 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_747 
 
 # __Access to green spaces__
 
 ## Benefits linked to a risk
 
-* [Improved mental health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_441.md)
-* [Lower covid-19 mortality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_860.md)
+* [Improved mental health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_860.md)
+* [Lower covid-19 mortality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_441.md)
 
 ## Blueprints with this mitigation
 

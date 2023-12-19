@@ -1,19 +1,19 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_48 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/pages/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_48 
 
 # __Promotion of security and well-being through measures to minimize harm, enhance protection, and ensure long-term safety.__
 
 ## Items covered in this category
 
-* [Enhanced feeling of safety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_176.md)
-* [Enhanced occupant safety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_523.md)
-* [Enhanced safety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1238.md)
-* [Enhanced safety and comfort](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_595.md)
-* [Enhanced sense of safety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1351.md)
-* [Health and safety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_804.md)
-* [Improved accessibility and safety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_553.md)
-* [Improved environmental safety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_911.md)
-* [Improved functionality and safety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_201.md)
-* [Improved protection against potential issues](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_803.md)
+* [Enhanced feeling of safety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_595.md)
+* [Enhanced occupant safety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_803.md)
+* [Enhanced safety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_176.md)
+* [Enhanced safety and comfort](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_523.md)
+* [Enhanced sense of safety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1238.md)
+* [Health and safety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1351.md)
+* [Improved accessibility and safety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_804.md)
+* [Improved environmental safety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_553.md)
+* [Improved functionality and safety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_911.md)
+* [Improved protection against potential issues](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_201.md)
 * [Improved safety and sustainability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_240.md)
 * [Increased member safety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_247.md)
 * [Increased safety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_267.md)

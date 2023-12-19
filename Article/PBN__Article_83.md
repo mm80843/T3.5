@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_83 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_83 
 
 # __Urban Green Infrastructure and Green Open Spaces: An Issue of Social Fairness in Times of COVID-19 Crisis__
 
@@ -35,11 +35,11 @@ The coronavirus pandemic has changed life all around the world. The virus spread
 
 ## This article mentions these technologies
 
-* [Community engagement](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_920.md)
-* [Green facades](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1388.md)
-* [Green roofs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_377.md)
-* [Housing developers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_51.md)
-* [Property developers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1390.md)
+* [Community engagement](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1390.md)
+* [Green facades](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_920.md)
+* [Green roofs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1388.md)
+* [Housing developers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_377.md)
+* [Property developers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_51.md)
 * [Traffic management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1391.md)
 * [Tree planting](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1394.md)
 * [Urban planners](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1392.md)
@@ -48,8 +48,8 @@ The coronavirus pandemic has changed life all around the world. The virus spread
 
 ## This article points to following mitigation
 
-* [Barrier-free accessibility](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4601.md)
-* [Disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Barrier-free accessibility](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4601.md)
 * [Face masks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4051.md)
 * [Frequent hand washing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4603.md)
 * [Green open spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4602.md)

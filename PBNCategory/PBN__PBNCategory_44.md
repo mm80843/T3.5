@@ -1,18 +1,18 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_44 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/pages/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_44 
 
 # __Enhanced holistic welfare and prospered quality of life, consisting of enhanced physical and mental health, increased productivity, and improved safety.__
 
 ## Items covered in this category
 
-* [Enhanced comfort and well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_568.md)
-* [Enhanced quality of life](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_762.md)
-* [Enhanced safety and well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_229.md)
-* [Enhanced well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_985.md)
-* [Improved health and well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_782.md)
-* [Improved health and wellbeing](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_785.md)
-* [Improved liquidity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_143.md)
-* [Improved mental well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_153.md)
-* [Improved mood and well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_436.md)
+* [Enhanced comfort and well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_436.md)
+* [Enhanced quality of life](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_153.md)
+* [Enhanced safety and well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_568.md)
+* [Enhanced well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_762.md)
+* [Improved health and well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_229.md)
+* [Improved health and wellbeing](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_985.md)
+* [Improved liquidity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_782.md)
+* [Improved mental well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_785.md)
+* [Improved mood and well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_143.md)
 * [Improved occupant productivity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_170.md)
 * [Improved overall health and well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1283.md)
 * [Improved overall wellbeing](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_228.md)

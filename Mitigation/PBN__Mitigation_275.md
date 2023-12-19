@@ -1,19 +1,19 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_275 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_275 
 
 # __Social distancing__
 
 ## Benefits linked to a risk
 
-* [Decrease in virus transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_262.md)
-* [Improved asset value](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_29.md)
-* [Improved communication](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_232.md)
-* [Infection prevention](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_581.md)
-* [Reduced financial losses](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_582.md)
-* [Reduced infection risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_594.md)
-* [Reduced transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_631.md)
-* [Reduction in peak number of cases](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_632.md)
+* [Decrease in virus transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1366.md)
+* [Improved asset value](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_632.md)
+* [Improved communication](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_631.md)
+* [Infection prevention](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_232.md)
+* [Reduced financial losses](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_29.md)
+* [Reduced infection risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_582.md)
+* [Reduced transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_262.md)
+* [Reduction in peak number of cases](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_594.md)
 * [Reduction in total number of cases](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_454.md)
-* [Reduction in transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1366.md)
+* [Reduction in transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_581.md)
 
 ## Category to which it belongs
 
@@ -74,15 +74,15 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Floor markings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_341.md)
-* [Internet-based communication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
-* [Iot](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_277.md)
-* [Physical barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_358.md)
-* [Physical distance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2311.md)
-* [Physical space](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2482.md)
-* [Public awareness and education campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2579.md)
-* [Technology-enabled monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2770.md)
-* [Wearable devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3444.md)
+* [Floor markings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
+* [Internet-based communication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_358.md)
+* [Iot](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_341.md)
+* [Physical barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2579.md)
+* [Physical distance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2482.md)
+* [Physical space](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_277.md)
+* [Public awareness and education campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2770.md)
+* [Technology-enabled monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3444.md)
+* [Wearable devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2311.md)
 
 ## This mitigation is used in the following general blueprint(s)
 

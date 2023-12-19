@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1391 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1391 
 
 # __Inadequate sanitation__
 
@@ -31,14 +31,14 @@ Poor sanitation facilities and practices in densely populated areas or low-incom
 
 ## Is the risk affecting GBN scales
 
-* [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_0.md)
 
 ## Mitigations of this risk
 
-* [Ensure access to clean drinking water, improve wastewater treatment and management systems.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2549.md)
+* [Ensure access to clean drinking water, improve wastewater treatment and management systems.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2525.md)
 * [Improve sanitation infrastructure, promote hygiene education and practices, increase access to clean water sources.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1896.md)
-* [Increase cleaning frequency, provide adequate supplies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2525.md)
+* [Increase cleaning frequency, provide adequate supplies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2549.md)
 
 ## Name of the risk
 
@@ -46,9 +46,9 @@ Higher risk of disease transmission, increased rates of waterborne diseases, dec
 
 ## People affected by this risk
 
-* [Areas with inadequate sanitation facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_27.md)
+* [Areas with inadequate sanitation facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
 * [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_59.md)
-* [Densely populated areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
+* [Densely populated areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_27.md)
 * [Low-income communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_898.md)
 * [Public housing residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_217.md)
 * [Residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_899.md)
@@ -73,11 +73,11 @@ Higher risk of disease transmission, increased rates of waterborne diseases, dec
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Living and working environment](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_1.md)
+* [Living and working environment](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_1.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
+* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_2.md)
 
 ## Type of the risk
 

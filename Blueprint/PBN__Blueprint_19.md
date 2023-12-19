@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_19 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/pages/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_19 
 
 # __Tracking and enforcing use of personal protective equipment__
 
@@ -26,24 +26,24 @@ DOI:10.31234/osf.io/qymu3
 
 ## Enablers of the blueprint
 
-* [3D printing](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_11.md)
-* [Data Analytics](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_12.md)
-* [Image acquisition & CCTV](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_2.md)
-* [Wearables](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_18.md)
+* [3D printing](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_11.md)
+* [Data Analytics](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_12.md)
+* [Image acquisition & CCTV](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_2.md)
+* [Wearables](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_18.md)
 
 ## GBN Phase of the blueprint
 
-* [Operational](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Phase_0.md)
+* [Operational](https://github.com/mm80843/T3.5/blob/pages/BP_Phase/PBN__BP_Phase_0.md)
 
 ## Interventions of the blueprint
 
-* [Early detection](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_30.md)
-* [Ensure use of personal protection equipment](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_23.md)
-* [Quarantine support](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_31.md)
+* [Early detection](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_30.md)
+* [Ensure use of personal protection equipment](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_23.md)
+* [Quarantine support](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_31.md)
 
 ## Mode of transmission covered by the blueprint
 
-* [All](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_4.md)
+* [All](https://github.com/mm80843/T3.5/blob/pages/BP_Transmission/PBN__BP_Transmission_4.md)
 
 ## Possible mitigations of the BP
 
@@ -86,7 +86,7 @@ Moreover, it is important to note that the use of technology to monitor PPE usag
 
 ## Scale of the of the blueprint
 
-* [Both](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Scale_1.md)
+* [Both](https://github.com/mm80843/T3.5/blob/pages/BP_Scale/PBN__BP_Scale_1.md)
 
 ## Title of the blueprint
 
@@ -94,11 +94,11 @@ PBN:BP_20
 
 ## Type of deployment of the blueprint
 
-* [Permanent & temporary](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Permanent_2.md)
+* [Permanent & temporary](https://github.com/mm80843/T3.5/blob/pages/BP_Permanent/PBN__BP_Permanent_2.md)
 
 ## Type of the blueprint
 
-* [Technical](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Type_1.md)
+* [Technical](https://github.com/mm80843/T3.5/blob/pages/BP_Type/PBN__BP_Type_1.md)
 
 ## Value proposition of the blueprint
 

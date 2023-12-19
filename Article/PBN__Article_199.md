@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_199 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_199 
 
 # __A Surface Coating that Rapidly Inactivates SARS-CoV-2__
 
@@ -45,16 +45,16 @@ Scientists have developed a special coating made of a substance called cuprous o
 
 ## This article points to following mitigation
 
-* [Anti-sars-cov-2 coating](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3348.md)
-* [Disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3329.md)
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
-* [Improved ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3284.md)
-* [Physical distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_476.md)
-* [Public health campaigns/education](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3347.md)
-* [Quarantine/isolation measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3346.md)
-* [Surface disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3306.md)
-* [Testing and contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3283.md)
-* [Vaccination](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1130.md)
+* [Anti-sars-cov-2 coating](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3329.md)
+* [Disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1130.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3348.md)
+* [Improved ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
+* [Physical distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3284.md)
+* [Public health campaigns/education](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_476.md)
+* [Quarantine/isolation measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3347.md)
+* [Surface disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3346.md)
+* [Testing and contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3306.md)
+* [Vaccination](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3283.md)
 * [Wearing masks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3345.md)
 
 ## Title of the article

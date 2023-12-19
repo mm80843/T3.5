@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_2090 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_2090 
 
 # __Limited access to natural spaces__
 
@@ -29,7 +29,7 @@ Prohibiting outdoor activities and contact with green/open spaces affects psycho
 
 ## Is the risk affecting GBN scales
 
-* [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_0.md)
 
 ## Mitigations of this risk
 
@@ -41,15 +41,15 @@ Poor mental well-being, increased anxiety and sleep disturbances.
 
 ## People affected by this risk
 
-* [Children](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1413.md)
-* [Elderly](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_336.md)
-* [Individuals with mental health conditions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_62.md)
+* [Children](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_62.md)
+* [Elderly](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1413.md)
+* [Individuals with mental health conditions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_336.md)
 
 ## Stakeholders who can mitigate this risk
 
-* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_222.md)
-* [Mental health organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
-* [Public health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_603.md)
+* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
+* [Mental health organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_603.md)
+* [Public health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_222.md)
 
 ## Technologies linked to the risk
 
@@ -59,11 +59,11 @@ Poor mental well-being, increased anxiety and sleep disturbances.
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_4.md)
+* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_4.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_6.md)
+* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_6.md)
 
 ## Type of the risk
 

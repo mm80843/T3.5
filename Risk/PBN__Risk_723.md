@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_723 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_723 
 
 # __Limited access to data__
 
@@ -30,13 +30,13 @@ Some cities and stakeholders may restrict access to health data due to national 
 
 ## Is the risk affecting GBN scales
 
-* [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_0.md)
 
 ## Mitigations of this risk
 
-* [Data mining for insights](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1507.md)
+* [Data mining for insights](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1006.md)
 * [Develop tools and platforms for easy access to data from multiple sources](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3069.md)
-* [Promote transparency, standardization, and collaboration for data sharing across geographies.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1006.md)
+* [Promote transparency, standardization, and collaboration for data sharing across geographies.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1507.md)
 
 ## Name of the risk
 
@@ -53,9 +53,9 @@ Inadequate information for decision-making, hindered efforts to contain the outb
 
 * [Data analysts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
 * [Government agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_55.md)
-* [Health organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_422.md)
-* [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1569.md)
-* [Software developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_477.md)
+* [Health organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_477.md)
+* [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_422.md)
+* [Software developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1569.md)
 
 ## Technologies linked to the risk
 
@@ -63,11 +63,11 @@ Inadequate information for decision-making, hindered efforts to contain the outb
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_0.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
+* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_2.md)
 
 ## Type of the risk
 

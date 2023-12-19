@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3272 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3272 
 
 # __Education and training__
 
@@ -26,9 +26,9 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Courses](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2435.md)
-* [Information and communication technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2436.md)
-* [Webinars](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2437.md)
+* [Courses](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2437.md)
+* [Information and communication technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2435.md)
+* [Webinars](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2436.md)
 * [Workshops](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2310.md)
 
 ## This mitigation is used in the following general blueprint(s)

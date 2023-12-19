@@ -1,11 +1,11 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_108 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_108 
 
 # __El impacto del teletrabajo en tiempos del COVID-19__
 
 ## Benefits listed in this article
 
-* [Early detection and containment](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_473.md)
-* [Environmental benefits](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_368.md)
+* [Early detection and containment](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_368.md)
+* [Environmental benefits](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_473.md)
 * [Health and safety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_520.md)
 * [Improved work-life balance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_521.md)
 * [Increased productivity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_522.md)
@@ -35,11 +35,11 @@ Since the COVID-19 pandemic started, many people have been working from home usi
 
 ## This article mentions these technologies
 
-* [Adjustable desks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
-* [Communication guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_426.md)
-* [Communication platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1402.md)
-* [Ergonomic chairs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_135.md)
-* [Ergonomic furniture](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1400.md)
+* [Adjustable desks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_426.md)
+* [Communication guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1400.md)
+* [Communication platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
+* [Ergonomic chairs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1402.md)
+* [Ergonomic furniture](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_135.md)
 * [Etc](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1401.md)
 * [Flexible scheduling](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1396.md)
 * [Monitor risers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_631.md)
@@ -55,10 +55,10 @@ Since the COVID-19 pandemic started, many people have been working from home usi
 ## This article points to following mitigation
 
 * [Air filtration and ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3519.md)
-* [Isolation rooms](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
-* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1130.md)
-* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3575.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3575.md)
+* [Isolation rooms](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1130.md)
+* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3519.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
 * [Surface disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3517.md)
 
 ## Title of the article

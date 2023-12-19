@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_10 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_10 
 
 # __Supply chain disruptions__
 
@@ -31,22 +31,22 @@ Disruptions in the supply chain for construction materials
 
 ## Is the risk affecting GBN scales
 
-* [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_0.md)
 
 ## Mitigations of this risk
 
-* [Develop supply chain resilience, establish proactive response strategies, diversify supply chains, build collaborative relationships with suppliers and customers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_10.md)
-* [Developing collaborative partnerships](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_11.md)
-* [Implement alternative delivery methods, adapt supply chains](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_12.md)
-* [Implement blockchain for transparent and efficient supply chain management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_13.md)
-* [Implementing data-driven decision-making processes](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_14.md)
-* [Implementing scenario planning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_622.md)
-* [Investing in infrastructure and training](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1108.md)
-* [Localised manufacturing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2054.md)
-* [Promoting awareness and knowledge sharing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2340.md)
-* [Providing alternative means to ensure continuity of basic functions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2701.md)
-* [Rethinking global trade and supply chains](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5070.md)
+* [Develop supply chain resilience, establish proactive response strategies, diversify supply chains, build collaborative relationships with suppliers and customers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_12.md)
+* [Developing collaborative partnerships](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2054.md)
+* [Implement alternative delivery methods, adapt supply chains](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_622.md)
+* [Implement blockchain for transparent and efficient supply chain management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5070.md)
+* [Implementing data-driven decision-making processes](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1108.md)
+* [Implementing scenario planning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_10.md)
+* [Investing in infrastructure and training](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_11.md)
+* [Localised manufacturing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_13.md)
+* [Promoting awareness and knowledge sharing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_14.md)
+* [Providing alternative means to ensure continuity of basic functions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2340.md)
+* [Rethinking global trade and supply chains](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2701.md)
 
 ## Name of the risk
 
@@ -58,19 +58,19 @@ Delay in project progress, increased costs
 * [Customers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_216.md)
 * [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_179.md)
 * [Healthcare organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_983.md)
-* [Manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_283.md)
-* [Project teams](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_976.md)
+* [Manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_34.md)
+* [Project teams](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_283.md)
 * [Suppliers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_221.md)
-* [Supply chain managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_34.md)
+* [Supply chain managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_976.md)
 
 ## Stakeholders who can mitigate this risk
 
 * [Customers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
 * [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_983.md)
-* [Manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_283.md)
-* [Procurement](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_984.md)
+* [Manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_34.md)
+* [Procurement](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_283.md)
 * [Suppliers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_221.md)
-* [Supply chain managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_34.md)
+* [Supply chain managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_984.md)
 
 ## Technologies linked to the risk
 
@@ -84,11 +84,11 @@ Delay in project progress, increased costs
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_8.md)
+* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_8.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
+* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_2.md)
 
 ## Type of the risk
 

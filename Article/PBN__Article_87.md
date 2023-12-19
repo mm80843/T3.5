@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_87 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_87 
 
 # __Housing Experience in Gated Communities in the Time of Pandemics: Lessons Learned from COVID-19__
 
@@ -35,8 +35,8 @@ The study investigated the impact of architectural and urban design on the exper
 
 ## This article mentions these technologies
 
-* [Access control systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_165.md)
-* [Communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_168.md)
+* [Access control systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_168.md)
+* [Communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_165.md)
 * [Community amenities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_52.md)
 * [Community events](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_164.md)
 * [Design guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_171.md)

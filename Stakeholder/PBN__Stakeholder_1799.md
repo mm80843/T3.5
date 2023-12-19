@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1799 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1799 
 
 # __Journalism and reporting__
 
@@ -21,9 +21,9 @@
 
 ## Stakeholders in this stakeholder subgroup
 
-* [Journal editor](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1806.md)
-* [Journal editors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1798.md)
-* [Journalist](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1810.md)
-* [Journalists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1555.md)
+* [Journal editor](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1555.md)
+* [Journal editors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1806.md)
+* [Journalist](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1798.md)
+* [Journalists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1810.md)
 * [Reporter](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1808.md)
 

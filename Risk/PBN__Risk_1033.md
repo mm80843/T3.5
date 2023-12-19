@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1033 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1033 
 
 # __Misinformation__
 
@@ -33,21 +33,21 @@ Spread of false or misleading information about contagious diseases can lead to 
 
 ## Is the risk affecting GBN scales
 
-* [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_0.md)
 
 ## Mitigations of this risk
 
-* [Develop interventions to reduce the spread of misinformation, educate the public on how to verify information sources](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_123.md)
-* [Effective communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3639.md)
-* [Individual responsibility](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3333.md)
+* [Develop interventions to reduce the spread of misinformation, educate the public on how to verify information sources](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3389.md)
+* [Effective communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_553.md)
+* [Individual responsibility](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_123.md)
 * [Promote media literacy and critical thinking](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1461.md)
-* [Promoting accurate information from reliable sources, fact-checking, and public education campaigns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2147.md)
-* [Promoting trust and countering misinformation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_553.md)
-* [Provide accurate and evidence-based information through trusted sources](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2330.md)
-* [Providing accurate information through reliable sources, fact-checking, education campaigns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2368.md)
-* [Public health education and communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4465.md)
-* [Reinforcement of information](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1038.md)
+* [Promoting accurate information from reliable sources, fact-checking, and public education campaigns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3639.md)
+* [Promoting trust and countering misinformation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3333.md)
+* [Provide accurate and evidence-based information through trusted sources](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2147.md)
+* [Providing accurate information through reliable sources, fact-checking, education campaigns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2330.md)
+* [Public health education and communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2368.md)
+* [Reinforcement of information](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4465.md)
 
 ## Name of the risk
 
@@ -58,21 +58,21 @@ Increased confusion and fear, decreased compliance with safety measures
 * [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
 * [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_29.md)
 * [Media outlets](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1190.md)
-* [Professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_82.md)
-* [Social media platforms](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_554.md)
+* [Professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_554.md)
+* [Social media platforms](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_82.md)
 * [Social media users](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_455.md)
 
 ## Stakeholders who can mitigate this risk
 
-* [Educational institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_0.md)
-* [Government authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
+* [Educational institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
+* [Government authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_0.md)
 * [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_20.md)
-* [Individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_302.md)
-* [Media organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1035.md)
-* [Public health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_554.md)
-* [Social media companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_555.md)
-* [Social media platforms](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_66.md)
-* [World health organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_545.md)
+* [Individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_545.md)
+* [Media organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_302.md)
+* [Public health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_66.md)
+* [Social media companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_554.md)
+* [Social media platforms](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1035.md)
+* [World health organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_555.md)
 
 ## Technologies linked to the risk
 
@@ -88,11 +88,11 @@ Increased confusion and fear, decreased compliance with safety measures
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Governance, empowerment and engagement](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_6.md)
+* [Governance, empowerment and engagement](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_6.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
+* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_2.md)
 
 ## Type of the risk
 

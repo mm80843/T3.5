@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_219 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_219 
 
 # __Low-income households__
 
@@ -39,11 +39,11 @@
 
 ## This Stakeholder can get these Benefits from mitigation measures
 
-* [Access to cleaner and more efficient fuel](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_519.md)
-* [Improved supply and affordability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1320.md)
+* [Access to cleaner and more efficient fuel](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1320.md)
+* [Improved supply and affordability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_519.md)
 
 ## Type of the stakeholder
 
-* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_0.md)
-* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_0.md)
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_1.md)
 

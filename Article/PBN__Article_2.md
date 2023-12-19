@@ -1,11 +1,11 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_2 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_2 
 
 # __Dangerous liaisons? Applying the social harm perspective to the social inequality, housing and health trifecta during the Covid-19 pandemic__
 
 ## Benefits listed in this article
 
-* [Improved mental health outcomes](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_10.md)
-* [Increased reporting of domestic violence](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_11.md)
+* [Improved mental health outcomes](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_11.md)
+* [Increased reporting of domestic violence](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_10.md)
 * [Reduction in health harming behaviours](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_12.md)
 
 ## DOI of the article

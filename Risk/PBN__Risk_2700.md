@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_2700 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_2700 
 
 # __Overburdened healthcare systems__
 
@@ -21,7 +21,7 @@
 
 ## Mitigations of this risk
 
-* [Health system strengthening](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3786.md)
-* [Implementation of home treatments](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3247.md)
+* [Health system strengthening](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3247.md)
+* [Implementation of home treatments](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3786.md)
 * [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4058.md)
 

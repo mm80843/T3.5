@@ -1,16 +1,16 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_3 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/pages/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_3 
 
 # __A comprehensive and efficient system for generating, disseminating, and utilizing reliable and actionable knowledge.__
 
 ## Items covered in this category
 
-* [Access to expert knowledge without the need for direct consultation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_4.md)
-* [Access to relevant, reliable evidence syntheses](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1106.md)
-* [Accurate and reliable information dissemination](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_492.md)
-* [Accurate information](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1018.md)
-* [Addressing context-specific knowledge gaps and needs](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_386.md)
-* [Coordinating and integrating research, data, and expertise](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1347.md)
-* [Delivering relevant and high-quality evidence in short periods](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_547.md)
+* [Access to expert knowledge without the need for direct consultation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_547.md)
+* [Access to relevant, reliable evidence syntheses](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_4.md)
+* [Accurate and reliable information dissemination](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1106.md)
+* [Accurate information](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_492.md)
+* [Addressing context-specific knowledge gaps and needs](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1018.md)
+* [Coordinating and integrating research, data, and expertise](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_386.md)
+* [Delivering relevant and high-quality evidence in short periods](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1347.md)
 * [Discovery of unknown correlations and more accurate predictions](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1335.md)
 * [Disseminating evidence through various mediums](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_544.md)
 * [Enhanced quality control of scientific research](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_537.md)

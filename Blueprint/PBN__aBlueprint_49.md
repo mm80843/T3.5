@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__aBlueprint_49 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/pages/docs/Blueprint/index.md) >> Individual ID:PBN__aBlueprint_49 
 
 # __Implementing Disease Surveillance and Resilience Measures__
 
@@ -36,10 +36,10 @@
 
 ## 4. Blueprint links to these mitigations
 
-* [Enhance system resilience, diversify dependencies, and establish backup systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2298.md)
-* [Identifying dependencies and interdependencies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2898.md)
-* [Implement comprehensive testing and reporting strategies, improve data collection and analysis systems, and strengthen communication channels between healthcare providers and public health authorities.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1861.md)
-* [Increase testing capacity and use alternative surveillance methods such as sewage surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2830.md)
+* [Enhance system resilience, diversify dependencies, and establish backup systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1861.md)
+* [Identifying dependencies and interdependencies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2830.md)
+* [Implement comprehensive testing and reporting strategies, improve data collection and analysis systems, and strengthen communication channels between healthcare providers and public health authorities.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2298.md)
+* [Increase testing capacity and use alternative surveillance methods such as sewage surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2898.md)
 * [Strengthen surveillance systems to actively detect and treat asymptomatic and unreported cases](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_645.md)
 
 ## 5. Blueprint mitigation can be owned by these stakeholders
@@ -52,19 +52,19 @@
 
 ## 6. Blueprint links to these benefits
 
-* [Reduced disease spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_549.md)
-* [Reduced importation of cases](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_958.md)
-* [Reduced spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1194.md)
+* [Reduced disease spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_958.md)
+* [Reduced importation of cases](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1194.md)
+* [Reduced spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_549.md)
 
 ## 7. Blueprint links to these technology
 
 * [Border control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
-* [Border control measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3488.md)
-* [Border controls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2297.md)
-* [Travel bans](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2485.md)
-* [Travel management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2969.md)
+* [Border control measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2969.md)
+* [Border controls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3415.md)
+* [Travel bans](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3413.md)
+* [Travel management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3414.md)
 * [Travel monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3024.md)
-* [Travel policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3413.md)
-* [Travel regulations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3414.md)
-* [Travel tracking and monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3415.md)
+* [Travel policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3488.md)
+* [Travel regulations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2297.md)
+* [Travel tracking and monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_700.md)
 

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_59 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_59 
 
 # __Residents__
 
@@ -88,9 +88,9 @@
 
 ## Stakeholders in this stakeholder subgroup
 
-* [Gated community resident](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_994.md)
+* [Gated community resident](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_59.md)
 * [Gated community residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_209.md)
-* [Homeowners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_59.md)
+* [Homeowners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_994.md)
 * [Non-gated community resident](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_198.md)
 * [Non-gated community residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2413.md)
 * [Resident](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_998.md)
@@ -142,9 +142,9 @@
 
 ## This Stakeholder belongs to this StakeholderGroup
 
-* [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_20.md)
-* [Community stakeholders](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2396.md)
-* [Individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
+* [Community stakeholders](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_20.md)
+* [Individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2396.md)
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 
@@ -153,35 +153,35 @@
 
 ## This Stakeholder can get these Benefits from mitigation measures
 
-* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_241.md)
-* [Better air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_29.md)
-* [Clean water supply](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_192.md)
-* [Constant water supply](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_248.md)
-* [Decreased contact](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_232.md)
-* [Efficacy against coronavirus](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_246.md)
-* [Efficient waste management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_90.md)
-* [Enhanced cleanliness and hygiene](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_92.md)
-* [Enhanced indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_91.md)
-* [Enhanced ventilation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_249.md)
-* [Fresh air supply](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_127.md)
-* [Improved access to outdoor environments](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_321.md)
-* [Improved air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_255.md)
-* [Improved energy efficiency](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_153.md)
-* [Improved mental state](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1192.md)
-* [Improved well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_239.md)
-* [Limit virus spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_184.md)
-* [Limited virus spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_235.md)
-* [Local food production](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_245.md)
-* [Local food supply](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_236.md)
-* [Noise reduction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_254.md)
-* [Personalization](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_231.md)
-* [Prevent virus spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_230.md)
-* [Privacy](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_252.md)
-* [Reduced energy consumption](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_233.md)
-* [Reduced infection risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1299.md)
-* [Reduced neighbour noise](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_234.md)
-* [Reduced pathogen risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_237.md)
-* [Reduced rat populations](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_238.md)
+* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_153.md)
+* [Better air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_232.md)
+* [Clean water supply](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_29.md)
+* [Constant water supply](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_192.md)
+* [Decreased contact](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_246.md)
+* [Efficacy against coronavirus](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_238.md)
+* [Efficient waste management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_230.md)
+* [Enhanced cleanliness and hygiene](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_249.md)
+* [Enhanced indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_239.md)
+* [Enhanced ventilation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_241.md)
+* [Fresh air supply](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_248.md)
+* [Improved access to outdoor environments](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_90.md)
+* [Improved air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_92.md)
+* [Improved energy efficiency](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_91.md)
+* [Improved mental state](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_127.md)
+* [Improved well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_321.md)
+* [Limit virus spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_255.md)
+* [Limited virus spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1192.md)
+* [Local food production](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_184.md)
+* [Local food supply](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_235.md)
+* [Noise reduction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_245.md)
+* [Personalization](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_236.md)
+* [Prevent virus spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_254.md)
+* [Privacy](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_231.md)
+* [Reduced energy consumption](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_252.md)
+* [Reduced infection risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_233.md)
+* [Reduced neighbour noise](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1299.md)
+* [Reduced pathogen risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_234.md)
+* [Reduced rat populations](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_237.md)
 * [Reduced transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_240.md)
 * [Reduced virus spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_242.md)
 * [Reduced water consumption](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_243.md)
@@ -197,7 +197,7 @@
 
 ## Type of the stakeholder
 
-* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_0.md)
-* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
-* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_0.md)
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_2.md)
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_1.md)
 

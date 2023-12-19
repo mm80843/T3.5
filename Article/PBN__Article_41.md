@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_41 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_41 
 
 # __Urban form: Realising the value of green space: a planners’ perspective on the COVID-19 pandemic__
 
@@ -32,11 +32,11 @@ During the last few decades, cities have been growing really fast and more peopl
 
 ## This article mentions these technologies
 
-* [Community engagement](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_49.md)
-* [Financial incentives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_55.md)
-* [Green infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_52.md)
-* [Green infrastructure management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_51.md)
-* [Public-private partnerships](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_48.md)
+* [Community engagement](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_48.md)
+* [Financial incentives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_49.md)
+* [Green infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_55.md)
+* [Green infrastructure management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_52.md)
+* [Public-private partnerships](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_51.md)
 * [Sustainable financing models](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_50.md)
 * [Urban planning regulations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_53.md)
 * [Urban planning strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_54.md)

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_2484 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_2484 
 
 # __Spread of virus__
 
@@ -22,12 +22,12 @@
 ## Mitigations of this risk
 
 * [Border closures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
-* [Contactless payment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_476.md)
-* [Controlling access points](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3612.md)
-* [Enhanced cleaning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4466.md)
-* [Improved ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4468.md)
-* [National lockdowns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3760.md)
-* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3698.md)
-* [Restricted gatherings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3575.md)
+* [Contactless payment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3575.md)
+* [Controlling access points](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_476.md)
+* [Enhanced cleaning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3612.md)
+* [Improved ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4466.md)
+* [National lockdowns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4468.md)
+* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3760.md)
+* [Restricted gatherings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3698.md)
 * [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3366.md)
 

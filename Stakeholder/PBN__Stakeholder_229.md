@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_229 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_229 
 
 # __Policy-makers__
 
@@ -21,10 +21,10 @@
 
 ## This Stakeholder can get these Benefits from mitigation measures
 
-* [Disseminating evidence through various mediums](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_539.md)
-* [Enhanced research practices](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1348.md)
-* [Enhanced validity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1347.md)
-* [Establishing trust as a reference center](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_547.md)
+* [Disseminating evidence through various mediums](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_547.md)
+* [Enhanced research practices](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_539.md)
+* [Enhanced validity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1348.md)
+* [Establishing trust as a reference center](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1347.md)
 * [Facilitating coordination and multidisciplinary approach](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_540.md)
 * [Improved research design](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_543.md)
 * [Longitudinal insights](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1350.md)
@@ -32,5 +32,5 @@
 
 ## Type of the stakeholder
 
-* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_0.md)
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_0.md)
 

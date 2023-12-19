@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_965 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_965 
 
 # __Poor indoor environmental quality__
 
@@ -31,14 +31,14 @@ Multiple factors such as air quality, thermal comfort, lighting, acoustics, and 
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Mitigations of this risk
 
-* [Comprehensive building design and maintenance strategies to ensure optimal indoor environmental quality.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1570.md)
-* [Improve indoor air quality, ensure proper humidity levels, address issues of poor lighting and acoustics.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3077.md)
+* [Comprehensive building design and maintenance strategies to ensure optimal indoor environmental quality.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3077.md)
+* [Improve indoor air quality, ensure proper humidity levels, address issues of poor lighting and acoustics.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2548.md)
 * [Improvement of indoor heating and cooling systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1346.md)
-* [Proper ventilation, air filtration, natural daylighting, indoor plantings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2548.md)
+* [Proper ventilation, air filtration, natural daylighting, indoor plantings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1570.md)
 
 ## Name of the risk
 
@@ -47,23 +47,23 @@ Various health issues, including respiratory symptoms, allergies, fatigue, reduc
 ## People affected by this risk
 
 * [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
-* [Building occupants in all types of buildings](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_101.md)
+* [Building occupants in all types of buildings](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_118.md)
 * [Employees](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_220.md)
-* [Students](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_118.md)
+* [Students](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_101.md)
 * [Visitors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_652.md)
 
 ## Stakeholders who can mitigate this risk
 
-* [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
 * [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_180.md)
-* [Employers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
+* [Employers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
 * [Facility ma](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
 * [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1573.md)
 
 ## Technologies linked to the risk
 
-* [Acoustic treatments](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_201.md)
-* [Air quality monitors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_200.md)
+* [Acoustic treatments](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_200.md)
+* [Air quality monitors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_201.md)
 * [Air quality sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1979.md)
 * [Building automation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_430.md)
 * [Lighting control systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1980.md)
@@ -73,11 +73,11 @@ Various health issues, including respiratory symptoms, allergies, fatigue, reduc
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_0.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_1.md)
+* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_1.md)
 
 ## Type of the risk
 

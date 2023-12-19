@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_49 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_49 
 
 # __Impacts of COVID-19 on Health and Safety of Workforce in Construction Industry__
 
@@ -39,12 +39,12 @@ The COVID-19 pandemic has caused a lot of problems all over the world, including
 
 ## This article points to following mitigation
 
-* [Caution in receiving deliveries](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_208.md)
-* [Effective communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4483.md)
-* [Employee training](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4482.md)
-* [Flexible work schedules](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4473.md)
-* [Increased use of technology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4480.md)
-* [Longer project timelines](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3389.md)
+* [Caution in receiving deliveries](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3389.md)
+* [Effective communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_208.md)
+* [Employee training](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4483.md)
+* [Flexible work schedules](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4482.md)
+* [Increased use of technology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4473.md)
+* [Longer project timelines](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4480.md)
 * [Maintaining physical distance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4474.md)
 * [Marking 6’ distances and one-way traffic](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4475.md)
 * [Practical ppe rules](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4476.md)

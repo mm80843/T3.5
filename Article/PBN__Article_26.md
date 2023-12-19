@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_26 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_26 
 
 # __Designing a Multi-Agent Occupant Simulation System to Support Facility Planning and Analysis for COVID-19__
 
@@ -32,15 +32,15 @@ OccSim is a computer program that helps designers and building managers evaluate
 
 ## This article mentions these technologies
 
-* [Cleaning products](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
-* [Communication channels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_965.md)
-* [Crowd management strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_966.md)
-* [Disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_432.md)
-* [Hand sanitizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_230.md)
-* [Handwashing stations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_566.md)
-* [Information pamphlets](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_411.md)
-* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_967.md)
-* [Occupancy limits](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_410.md)
+* [Cleaning products](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_230.md)
+* [Communication channels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_410.md)
+* [Crowd management strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_411.md)
+* [Disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
+* [Hand sanitizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_965.md)
+* [Handwashing stations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_966.md)
+* [Information pamphlets](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_432.md)
+* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_566.md)
+* [Occupancy limits](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_967.md)
 * [Physical distancing markers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_881.md)
 * [Signage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_665.md)
 

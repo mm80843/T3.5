@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_211 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_211 
 
 # __Blockchain technology__
 
@@ -21,7 +21,7 @@
 
 ## Link between Blueprint and General ontology
 
-* [Blockchain](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_4.md)
+* [Blockchain](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_4.md)
 
 ## Risks linked to this technology
 
@@ -52,8 +52,8 @@
 
 ## This Technology enables the following mitigations
 
-* [Automated surveillance and contactless delivery](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4758.md)
-* [Better healthcare protection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3332.md)
+* [Automated surveillance and contactless delivery](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3332.md)
+* [Better healthcare protection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4758.md)
 * [Blockchain for data security](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4760.md)
 * [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4762.md)
 * [Donation tracking](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4752.md)

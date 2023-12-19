@@ -1,14 +1,14 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_416 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_416 
 
 # __Social distancing measures__
 
 ## Benefits linked to a risk
 
-* [Clean beaches](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_262.md)
-* [Improved public health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_248.md)
+* [Clean beaches](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_232.md)
+* [Improved public health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_262.md)
 * [Reduced transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_748.md)
 * [Reduced virus spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_47.md)
-* [Reduction in disease burden](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_232.md)
+* [Reduction in disease burden](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_248.md)
 * [Reduction in noise levels](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1128.md)
 * [Reduction in pollutant concentrations](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1140.md)
 * [Reduction in transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1141.md)
@@ -33,7 +33,7 @@
 
 ## Link between Blueprint and General ontology
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_20.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_20.md)
 
 ## Risks possibly mitigated by this Mitigation
 
@@ -51,10 +51,10 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Crowd control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_341.md)
-* [Floor markings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
-* [Physical barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2818.md)
-* [Signage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_358.md)
+* [Crowd control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
+* [Floor markings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_358.md)
+* [Physical barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_341.md)
+* [Signage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2818.md)
 
 ## This mitigation is used in the following general blueprint(s)
 

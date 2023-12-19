@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1630 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1630 
 
 # __Education__
 
@@ -21,26 +21,26 @@
 
 ## Stakeholders in this stakeholder group
 
-* [Academic](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_101.md)
-* [Academic institution](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_134.md)
-* [Academic institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1453.md)
-* [Academics](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1650.md)
-* [Education](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1649.md)
-* [Education authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1635.md)
-* [Education authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_43.md)
-* [Education department](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1638.md)
-* [Education departments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1331.md)
-* [Education institution](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1359.md)
-* [Education institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_366.md)
-* [Education ministries](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_102.md)
-* [Education ministry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1053.md)
-* [Educational institution](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1630.md)
-* [Educational institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1648.md)
-* [Educational organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1494.md)
-* [Educational organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1278.md)
-* [Educator](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1642.md)
-* [Educators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1037.md)
-* [Faculty](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_66.md)
+* [Academic](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_66.md)
+* [Academic institution](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_101.md)
+* [Academic institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_366.md)
+* [Academics](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_43.md)
+* [Education](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_134.md)
+* [Education authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1453.md)
+* [Education authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1650.md)
+* [Education department](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1649.md)
+* [Education departments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1635.md)
+* [Education institution](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1638.md)
+* [Education institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1331.md)
+* [Education ministries](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1359.md)
+* [Education ministry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_102.md)
+* [Educational institution](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1053.md)
+* [Educational institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1630.md)
+* [Educational organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1648.md)
+* [Educational organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1494.md)
+* [Educator](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1278.md)
+* [Educators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1642.md)
+* [Faculty](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1037.md)
 * [Kindergarten](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1644.md)
 * [Kindergartens](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1633.md)
 * [School](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1018.md)

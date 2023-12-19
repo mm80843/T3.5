@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_810 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/pages/docs/Benef/index.md) >> Individual ID:PBN__Benef_810 
 
 # __Simulation and prediction__
 
@@ -24,7 +24,7 @@ Digital twins can simulate water systems, optimize operations
 
 ## Stakeholders benefitting from this Benefit
 
-* [Engineers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_202.md)
-* [Operators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_329.md)
+* [Engineers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_329.md)
+* [Operators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_202.md)
 * [Water utilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_330.md)
 

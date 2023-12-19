@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_8 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/pages/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_8 
 
 # __Public places as information points__
 
@@ -22,35 +22,35 @@ During the COVID-19 outbreak, drugstores or townhalls turned into information po
 
 ## Enablers of the blueprint
 
-* [5G](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_0.md)
-* [Digital signage](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_31.md)
-* [DigitalPlatform](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_19.md)
-* [SmartPhones](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_1.md)
+* [5G](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_0.md)
+* [Digital signage](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_31.md)
+* [DigitalPlatform](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_19.md)
+* [SmartPhones](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_1.md)
 
 ## GBN Phase of the blueprint
 
-* [Design](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Phase_1.md)
+* [Design](https://github.com/mm80843/T3.5/blob/pages/BP_Phase/PBN__BP_Phase_1.md)
 
 ## Interventions of the blueprint
 
-* [Facilitate transparent communication](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_38.md)
-* [Prevent fake news](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_37.md)
-* [Promote verified information](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_36.md)
-* [Raising awareness](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_39.md)
+* [Facilitate transparent communication](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_38.md)
+* [Prevent fake news](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_37.md)
+* [Promote verified information](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_36.md)
+* [Raising awareness](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_39.md)
 
 ## Mode of transmission covered by the blueprint
 
-* [All](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_4.md)
+* [All](https://github.com/mm80843/T3.5/blob/pages/BP_Transmission/PBN__BP_Transmission_4.md)
 
 ## Possible mitigations of the BP
 
-* [Bim building information modelling](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5047.md)
-* [Develop pandemic-resilient office building requirements](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4967.md)
-* [Emphasis on ict infrastructure access](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_325.md)
-* [Ict infrastructure access](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3718.md)
-* [Information dissemination through public places](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_240.md)
-* [Monitoring mobility metrics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3900.md)
-* [Proper management of ict infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2181.md)
+* [Bim building information modelling](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2181.md)
+* [Develop pandemic-resilient office building requirements](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5047.md)
+* [Emphasis on ict infrastructure access](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4967.md)
+* [Ict infrastructure access](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_325.md)
+* [Information dissemination through public places](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3718.md)
+* [Monitoring mobility metrics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_240.md)
+* [Proper management of ict infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3900.md)
 * [Provide clear and concise information about preventive measures, communicate regularly with occupants and visitors.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2425.md)
 * [Spatiotemporal ieq monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_605.md)
 * [Targeted communication strategies, improving housing conditions, and enhancing public transport safety measures.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3756.md)
@@ -85,7 +85,7 @@ Development of potential bottlenecks at the information points
 
 ## Scale of the of the blueprint
 
-* [Gbn](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Scale_2.md)
+* [Gbn](https://github.com/mm80843/T3.5/blob/pages/BP_Scale/PBN__BP_Scale_2.md)
 
 ## Title of the blueprint
 
@@ -93,12 +93,12 @@ PBN:BP_9
 
 ## Type of deployment of the blueprint
 
-* [Temporary](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Permanent_0.md)
+* [Temporary](https://github.com/mm80843/T3.5/blob/pages/BP_Permanent/PBN__BP_Permanent_0.md)
 
 ## Type of the blueprint
 
-* [Behavioural](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Type_0.md)
-* [Technical](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Type_1.md)
+* [Behavioural](https://github.com/mm80843/T3.5/blob/pages/BP_Type/PBN__BP_Type_0.md)
+* [Technical](https://github.com/mm80843/T3.5/blob/pages/BP_Type/PBN__BP_Type_1.md)
 
 ## Value proposition of the blueprint
 

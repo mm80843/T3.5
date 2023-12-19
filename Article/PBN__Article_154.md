@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_154 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_154 
 
 # __Mitigation strategies and compliance in the COVID-19 fight; how much compliance is enough?__
 
@@ -44,8 +44,8 @@ This study looked at why the COVID-19 pandemic has affected the United States mo
 
 ## This article points to following mitigation
 
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3873.md)
-* [Isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3332.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3332.md)
+* [Isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3873.md)
 * [Nursing home visiting](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4311.md)
 * [Physical distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3284.md)
 * [Restricted travel](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4212.md)

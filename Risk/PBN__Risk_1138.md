@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1138 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1138 
 
 # __High air pollution levels__
 
@@ -29,11 +29,11 @@ High association of COVID-19 infections with air pollution exceeding the limits 
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Link between Blueprint and General ontology
 
-* [Air quality](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Theme_0.md)
+* [Air quality](https://github.com/mm80843/T3.5/blob/pages/BP_Theme/PBN__BP_Theme_0.md)
 
 ## Mitigations of this risk
 
@@ -60,11 +60,11 @@ Increased probability of COVID-19 infections
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_4.md)
+* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_4.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_6.md)
+* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_6.md)
 
 ## Type of the risk
 

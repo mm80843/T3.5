@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [ISO_Purpose](https://github.com/mm80843/T3.5/tree/main/docs/ISO_Purpose/index.md) >> Individual ID:PBN__ISO_Purpose_6 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [ISO_Purpose](https://github.com/mm80843/T3.5/tree/pages/docs/ISO_Purpose/index.md) >> Individual ID:PBN__ISO_Purpose_6 
 
 # __Governance, empowerment and engagement__
 
@@ -46,8 +46,8 @@
 * [Public places as informative nodes in the city](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1490.md)
 * [Publication bias](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1496.md)
 * [Regulatory frameworks for data protection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1921.md)
-* [Restriction in delivery capability for pfa interventions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1980.md)
-* [Rural-urban disparities in access to gynecologic oncologist treatment for ovarian cancer](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1821.md)
-* [Temporary regulations to monitor and restrict certain activities in public places](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1947.md)
+* [Restriction in delivery capability for pfa interventions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1821.md)
+* [Rural-urban disparities in access to gynecologic oncologist treatment for ovarian cancer](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1947.md)
+* [Temporary regulations to monitor and restrict certain activities in public places](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1980.md)
 * [Time overrun](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2220.md)
 

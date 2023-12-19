@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1347 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1347 
 
 # __Monitoring and control of indoor air quality__
 
@@ -29,7 +29,7 @@
 
 ## Link between Blueprint and General ontology
 
-* [Use of smart/innovative air quality controls technology](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_0.md)
+* [Use of smart/innovative air quality controls technology](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_0.md)
 
 ## Risks possibly mitigated by this Mitigation
 

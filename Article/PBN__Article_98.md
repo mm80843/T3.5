@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_98 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_98 
 
 # __Pandemics and Automation: Will the Lost Jobs Come Back?__
 
@@ -32,11 +32,11 @@ The paper talks about how the COVID-19 pandemic could make robots replace more j
 
 ## This article mentions these technologies
 
-* [Artificial intelligence](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1474.md)
-* [Automation technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_136.md)
-* [Countercyclical fiscal and monetary policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3.md)
-* [Dialogue and reconciliation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_638.md)
-* [Digital platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_356.md)
+* [Artificial intelligence](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3.md)
+* [Automation technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_356.md)
+* [Countercyclical fiscal and monetary policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1474.md)
+* [Dialogue and reconciliation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_136.md)
+* [Digital platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_638.md)
 * [Healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1471.md)
 * [Inclusive economic policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_527.md)
 * [Investments in education and training](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1469.md)
@@ -48,8 +48,8 @@ The paper talks about how the COVID-19 pandemic could make robots replace more j
 
 ## This article points to following mitigation
 
-* [Automation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3247.md)
-* [Enhanced hvac systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_832.md)
+* [Automation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_832.md)
+* [Enhanced hvac systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3247.md)
 * [Increased cleaning protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4642.md)
 * [Remote work](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4640.md)
 * [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4641.md)

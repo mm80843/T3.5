@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_129 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_129 
 
 # __Preparing critical infrastructure for the future: Lessons learnt from the Covid-19 pandemic__
 
@@ -42,12 +42,12 @@ Critical infrastructure is important because it provides essential services that
 
 ## This article points to following mitigation
 
-* [Effective communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4995.md)
-* [Engagement of society](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4994.md)
-* [Exercises and trainings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5000.md)
-* [Government coordination](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_644.md)
-* [Intelligence services integration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4996.md)
-* [Interdependencies mapping](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3389.md)
+* [Effective communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3389.md)
+* [Engagement of society](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4995.md)
+* [Exercises and trainings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4994.md)
+* [Government coordination](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5000.md)
+* [Intelligence services integration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_644.md)
+* [Interdependencies mapping](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4996.md)
 * [Prevention of disruptions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5001.md)
 * [Rapidity of critical infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4999.md)
 * [Redundancy of critical infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5002.md)

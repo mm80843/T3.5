@@ -1,11 +1,11 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_111 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_111 
 
 # __Amplifying the role of knowledge translation platforms in the COVID-19 pandemic response__
 
 ## Benefits listed in this article
 
-* [Access to relevant, reliable evidence syntheses](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_539.md)
-* [Addressing context-specific knowledge gaps and needs](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_547.md)
+* [Access to relevant, reliable evidence syntheses](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_547.md)
+* [Addressing context-specific knowledge gaps and needs](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_539.md)
 * [Assessing effectiveness and impact of measures](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_536.md)
 * [Broadening search for relevant evidence](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_544.md)
 * [Context-specific and actionable evidence](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_537.md)
@@ -52,11 +52,11 @@ During the COVID-19 pandemic, it has been really important for decision-makers t
 
 ## This article points to following mitigation
 
-* [Activate rapid response services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3631.md)
-* [Contextualising and disseminating evidence](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_556.md)
-* [Engaging decision-makers in setting priorities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_555.md)
-* [Leverage complementary evidence networks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3632.md)
-* [Leverage multiple dissemination channels](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_553.md)
+* [Activate rapid response services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_553.md)
+* [Contextualising and disseminating evidence](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3631.md)
+* [Engaging decision-makers in setting priorities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_556.md)
+* [Leverage complementary evidence networks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_555.md)
+* [Leverage multiple dissemination channels](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3632.md)
 * [Monitoring and evaluating policy response](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3634.md)
 * [Position the kt platform as a credible source](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_551.md)
 * [Promoting trust and countering misinformation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_561.md)

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1374 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1374 
 
 # __Lack of wildlife support in green spaces__
 
@@ -29,7 +29,7 @@ Insufficient provision of habitat, shelter, and food for urban wildlife in green
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Mitigations of this risk
 
@@ -46,8 +46,8 @@ Decline in urban wildlife populations, loss of biodiversity
 ## Stakeholders who can mitigate this risk
 
 * [City governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_125.md)
-* [Developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_354.md)
-* [Urban planners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_635.md)
+* [Developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_635.md)
+* [Urban planners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_354.md)
 
 ## Technologies linked to the risk
 
@@ -56,11 +56,11 @@ Decline in urban wildlife populations, loss of biodiversity
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_8.md)
+* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_8.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Attractiveness](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_9.md)
+* [Attractiveness](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_9.md)
 
 ## Type of the risk
 

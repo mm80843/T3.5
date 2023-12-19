@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [ISO_Impact](https://github.com/mm80843/T3.5/tree/main/docs/ISO_Impact/index.md) >> Individual ID:PBN__ISO_Impact_2 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [ISO_Impact](https://github.com/mm80843/T3.5/tree/pages/docs/ISO_Impact/index.md) >> Individual ID:PBN__ISO_Impact_2 
 
 # __Resilience__
 
@@ -417,15 +417,15 @@
 * [Urban heat islands uhis](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2213.md)
 * [Urban inequality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1344.md)
 * [Urbanization](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1437.md)
-* [Uv dosage levels required under different conditions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2245.md)
-* [Vaccine access disparities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1595.md)
-* [Vaccine hesitancy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1628.md)
-* [Variability of virus stability on different surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1980.md)
-* [Vulnerability to covid-19 in lmics](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1821.md)
-* [Vulnerability to natural hazards](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1833.md)
-* [Water quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1918.md)
-* [Water use patterns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2370.md)
-* [Wc1](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1966.md)
-* [Wq1](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2162.md)
-* [Wq2](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2238.md)
+* [Uv dosage levels required under different conditions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1595.md)
+* [Vaccine access disparities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1628.md)
+* [Vaccine hesitancy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1821.md)
+* [Variability of virus stability on different surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1833.md)
+* [Vulnerability to covid-19 in lmics](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1918.md)
+* [Vulnerability to natural hazards](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1966.md)
+* [Water quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1980.md)
+* [Water use patterns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2162.md)
+* [Wc1](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2238.md)
+* [Wq1](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2245.md)
+* [Wq2](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2370.md)
 

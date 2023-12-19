@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1455 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1455 
 
 # __Inequities and exclusions__
 
@@ -29,7 +29,7 @@ Impact of the pandemic on vulnerable groups and informal street workers in publi
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Mitigations of this risk
 
@@ -42,9 +42,9 @@ Widening inequalities, exclusion, and marginalization of vulnerable populations
 ## People affected by this risk
 
 * [Children](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_23.md)
-* [Elderly](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_336.md)
-* [Homeless](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_486.md)
-* [Immigrants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_62.md)
+* [Elderly](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_62.md)
+* [Homeless](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_336.md)
+* [Immigrants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_486.md)
 * [Low-income residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_488.md)
 * [Racial minorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_468.md)
 * [Women](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_487.md)
@@ -61,11 +61,11 @@ Widening inequalities, exclusion, and marginalization of vulnerable populations
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_0.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_1.md)
+* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_1.md)
 
 ## Type of the risk
 

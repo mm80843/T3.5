@@ -1,13 +1,13 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_265 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/pages/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_265 
 
 # __People from diverse backgrounds and circumstances, including marginalized individuals, with different abilities, and in various environments.__
 
 ## Items covered in this category
 
-* [All individual relying on mobile application notification](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_754.md)
-* [All individual using mobile application](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2167.md)
-* [All individuals relying on mobile application notifications](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_796.md)
-* [All individuals using mobile applications](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_23.md)
+* [All individual relying on mobile application notification](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_23.md)
+* [All individual using mobile application](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_754.md)
+* [All individuals relying on mobile application notifications](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2167.md)
+* [All individuals using mobile applications](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_796.md)
 * [And people with disabilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2097.md)
 * [Human](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_17.md)
 * [Human resource](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2098.md)

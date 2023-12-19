@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_376 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_376 
 
 # __Covid-19 exposure in offshore workplaces__
 
@@ -21,10 +21,10 @@
 
 ## Mitigations of this risk
 
-* [Administrative controls online meetings, shift arrangements](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_512.md)
-* [Close contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_513.md)
-* [Engineering controls physical barriers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_511.md)
-* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_415.md)
+* [Administrative controls online meetings, shift arrangements](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_415.md)
+* [Close contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_512.md)
+* [Engineering controls physical barriers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_513.md)
+* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_511.md)
 * [Pre-employment and periodic medical check-ups mcus](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_510.md)
 * [Protocols for managing confirmed covid-19 cases](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_514.md)
 * [Self-health evaluation before onboard](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_515.md)

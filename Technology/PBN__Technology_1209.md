@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_1209 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_1209 
 
 # __Internet access__
 
@@ -26,8 +26,8 @@
 
 ## This Technology enables the following mitigations
 
-* [Censorship of fake news](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4040.md)
-* [Creation of online content for psychological support](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_832.md)
+* [Censorship of fake news](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_832.md)
+* [Creation of online content for psychological support](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4040.md)
 * [Data collection through online survey](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4123.md)
 * [Enhanced education access and equity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3531.md)
 * [Increased access to teleworking](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4420.md)

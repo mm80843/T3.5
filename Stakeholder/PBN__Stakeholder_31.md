@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_31 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_31 
 
 # __Patients__
 
@@ -111,33 +111,33 @@
 
 ## This Stakeholder can get these Benefits from mitigation measures
 
-* [Accelerated recovery and improved patient satisfaction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_35.md)
-* [Automated detection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_192.md)
-* [Automation of healthcare services, telemedicine](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_177.md)
-* [Continuity of clinical care](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_750.md)
-* [Digital tools of support to hospitals/health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1271.md)
-* [Disease prevention](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_36.md)
-* [Early detection and personalized treatment](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_680.md)
-* [Early detection of carriers](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1386.md)
-* [Early detection of infection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1305.md)
-* [Early identification of virus presence](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_722.md)
-* [Early symptom recognition and referral](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_912.md)
-* [Efficient hospital resource allocation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_276.md)
-* [Enhanced communication and surveillance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_618.md)
-* [Enhanced data privacy and autonomy](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1121.md)
-* [Enhanced data security](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1085.md)
-* [Enhanced disinfection in hospitals](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1263.md)
-* [Enhanced healthcare delivery](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_955.md)
-* [Enhanced psychological treatment effectiveness](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_106.md)
-* [Enhanced treatment options](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_619.md)
-* [Expanded workforce](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_636.md)
-* [Faster identification](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1097.md)
-* [Faster results](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1383.md)
-* [Improved access to healthcare](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_484.md)
-* [Improved admission logistics](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1307.md)
-* [Improved air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_446.md)
-* [Improved environmental safety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_207.md)
-* [Improved healthcare delivery](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_640.md)
+* [Accelerated recovery and improved patient satisfaction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_192.md)
+* [Automated detection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_36.md)
+* [Automation of healthcare services, telemedicine](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_35.md)
+* [Continuity of clinical care](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_640.md)
+* [Digital tools of support to hospitals/health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1121.md)
+* [Disease prevention](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_177.md)
+* [Early detection and personalized treatment](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_750.md)
+* [Early detection of carriers](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1271.md)
+* [Early detection of infection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_680.md)
+* [Early identification of virus presence](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1386.md)
+* [Early symptom recognition and referral](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1305.md)
+* [Efficient hospital resource allocation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_722.md)
+* [Enhanced communication and surveillance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_912.md)
+* [Enhanced data privacy and autonomy](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_276.md)
+* [Enhanced data security](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_618.md)
+* [Enhanced disinfection in hospitals](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1085.md)
+* [Enhanced healthcare delivery](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1263.md)
+* [Enhanced psychological treatment effectiveness](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_955.md)
+* [Enhanced treatment options](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_106.md)
+* [Expanded workforce](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_619.md)
+* [Faster identification](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_636.md)
+* [Faster results](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1097.md)
+* [Improved access to healthcare](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1383.md)
+* [Improved admission logistics](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_484.md)
+* [Improved air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1307.md)
+* [Improved environmental safety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_446.md)
+* [Improved healthcare delivery](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_207.md)
 * [Improved healthcare services](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1256.md)
 * [Improved infection control](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1261.md)
 * [Improved patient care](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_773.md)
@@ -188,6 +188,6 @@
 
 ## Type of the stakeholder
 
-* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_0.md)
-* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_0.md)
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_1.md)
 

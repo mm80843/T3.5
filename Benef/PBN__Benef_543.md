@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_543 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/pages/docs/Benef/index.md) >> Individual ID:PBN__Benef_543 
 
 # __Establishing trust as a reference center__
 
@@ -24,8 +24,8 @@ Demonstrating value, being responsive to needs, and remaining objective and tran
 
 ## Stakeholders benefitting from this Benefit
 
-* [Citizens](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_229.md)
-* [Media](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_54.md)
+* [Citizens](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_54.md)
+* [Media](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_229.md)
 * [Policy-makers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_230.md)
 * [Stakeholders](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_231.md)
 

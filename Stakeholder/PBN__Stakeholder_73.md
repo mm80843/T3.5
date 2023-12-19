@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_73 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_73 
 
 # __Government__
 
@@ -275,10 +275,10 @@
 * [Transmission through respiratory droplets](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1921.md)
 * [Transmission via respiratory droplets](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1248.md)
 * [Underreporting of covid-19 cases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2213.md)
-* [Underreporting of data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2245.md)
-* [Unhealthy household environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1595.md)
-* [Vaccine hesitancy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1797.md)
-* [Vulnerability to natural hazards](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2238.md)
+* [Underreporting of data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1595.md)
+* [Unhealthy household environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1797.md)
+* [Vaccine hesitancy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2238.md)
+* [Vulnerability to natural hazards](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2245.md)
 
 ## These stakeholders can be supported by the following general blueprint(s)
 
@@ -296,16 +296,16 @@
 
 ## This Stakeholder can get these Benefits from mitigation measures
 
-* [Communication between public and government](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1201.md)
-* [Contact tracing and notification](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1202.md)
-* [Cost savings](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1205.md)
-* [Early detection and response](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1024.md)
-* [Economic growth and sustainable development](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1025.md)
-* [Effective pandemic response](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1029.md)
-* [Efficacy of interventions](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_218.md)
-* [Efficient relief and rehabilitation efforts](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_585.md)
-* [Efficient screening of population](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_576.md)
-* [Enhanced early detection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_575.md)
+* [Communication between public and government](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_575.md)
+* [Contact tracing and notification](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1201.md)
+* [Cost savings](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1202.md)
+* [Early detection and response](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1205.md)
+* [Economic growth and sustainable development](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1024.md)
+* [Effective pandemic response](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1025.md)
+* [Efficacy of interventions](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1029.md)
+* [Efficient relief and rehabilitation efforts](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_218.md)
+* [Efficient screening of population](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_585.md)
+* [Enhanced early detection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_576.md)
 * [Enhanced innovation and technological capacity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_691.md)
 * [Enhanced monitoring and surveillance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_110.md)
 * [Enhanced protection for healthcare workers](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_689.md)
@@ -379,7 +379,7 @@
 
 ## Type of the stakeholder
 
-* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_0.md)
-* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
-* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_0.md)
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_2.md)
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_1.md)
 

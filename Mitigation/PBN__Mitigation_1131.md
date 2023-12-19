@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1131 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1131 
 
 # __Hand hygiene__
 
@@ -26,7 +26,7 @@
 
 ## Link between Blueprint and General ontology
 
-* [Personal hygiene (eg handwashing)](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_21.md)
+* [Personal hygiene (eg handwashing)](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_21.md)
 
 ## Risks possibly mitigated by this Mitigation
 
@@ -52,13 +52,13 @@
 ## This Mitigation is enabled by the following technologies
 
 * [75% 2-propanol](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
-* [Alcohol-based hand rubs 80% ethanol](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2459.md)
-* [Hand sanitizer](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_410.md)
+* [Alcohol-based hand rubs 80% ethanol](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_410.md)
+* [Hand sanitizer](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2648.md)
 * [Hand sanitizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2479.md)
-* [Hand washing stations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2480.md)
-* [Soap](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2940.md)
-* [Soap and water](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2941.md)
-* [Water](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3120.md)
+* [Hand washing stations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2940.md)
+* [Soap](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2480.md)
+* [Soap and water](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2459.md)
+* [Water](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2941.md)
 
 ## Property: has_MitigationPrinciple
 

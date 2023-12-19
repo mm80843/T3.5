@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2682 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_2682 
 
 # __Cleaning agents__
 
@@ -21,11 +21,11 @@
 
 ## This Technology enables the following mitigations
 
-* [Disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3722.md)
-* [Enhanced cleaning and disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3579.md)
-* [Environmental cleaning and disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3593.md)
-* [Regular cleaning and disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3283.md)
-* [Surface cleaning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1130.md)
+* [Disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1130.md)
+* [Enhanced cleaning and disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3722.md)
+* [Environmental cleaning and disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3579.md)
+* [Regular cleaning and disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3593.md)
+* [Surface cleaning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3283.md)
 * [Surface disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3592.md)
 
 ## This technology is used in the following general blueprint(s)

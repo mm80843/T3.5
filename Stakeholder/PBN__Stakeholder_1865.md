@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1865 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1865 
 
 # __Business and financial services__
 
@@ -21,21 +21,21 @@
 
 ## Stakeholders in this stakeholder subgroup
 
-* [Asset management companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_848.md)
-* [Asset management company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_827.md)
-* [Bank](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1951.md)
-* [Banks](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1883.md)
-* [Busines](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_974.md)
-* [Busines association](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2049.md)
-* [Busines organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_596.md)
-* [Busines owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2048.md)
-* [Business](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1243.md)
-* [Business and industry with localized supply chain](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1386.md)
-* [Business associations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_147.md)
-* [Business organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2052.md)
-* [Business owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_726.md)
-* [Businesses](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_852.md)
-* [Businesses and industries with localized supply chains](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_405.md)
+* [Asset management companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_405.md)
+* [Asset management company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_147.md)
+* [Bank](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_848.md)
+* [Banks](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_827.md)
+* [Busines](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1951.md)
+* [Busines association](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1883.md)
+* [Busines organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_974.md)
+* [Busines owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2049.md)
+* [Business](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_596.md)
+* [Business and industry with localized supply chain](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2048.md)
+* [Business associations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1243.md)
+* [Business organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1386.md)
+* [Business owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2052.md)
+* [Businesses](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_726.md)
+* [Businesses and industries with localized supply chains](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_852.md)
 * [Economic organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2033.md)
 * [Economic organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_526.md)
 * [Financial advisor](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_929.md)

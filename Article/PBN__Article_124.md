@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_124 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_124 
 
 # __The COVID-19 pandemic: Lessons on building more equal and sustainable societies__
 
@@ -25,8 +25,8 @@
 * [Exclusion and vulnerability of migrants and gig workers](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2239.md)
 * [Fragmentation of employment services and training](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_450.md)
 * [Impact on developing countries](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2243.md)
-* [Inadequate public health systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2245.md)
-* [Neoliberalism](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2238.md)
+* [Inadequate public health systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2238.md)
+* [Neoliberalism](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2245.md)
 
 ## Short summary of the article
 

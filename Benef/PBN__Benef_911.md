@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_911 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/pages/docs/Benef/index.md) >> Individual ID:PBN__Benef_911 
 
 # __Enhanced safety__
 
@@ -29,6 +29,6 @@ Minimized risk of infection by reducing physical interactions and ensuring prope
 
 * [Customers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_29.md)
 * [Employees](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_220.md)
-* [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_430.md)
-* [Users](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_221.md)
+* [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_221.md)
+* [Users](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_430.md)
 

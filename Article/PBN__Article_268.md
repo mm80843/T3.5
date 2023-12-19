@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_268 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_268 
 
 # __Strategies to Mitigate COVID-19 Pandemic Impacts on Health and Safety of Workers in Construction Projects__
 
@@ -37,11 +37,11 @@ The coronavirus disease, also known as COVID-19, is a sickness caused by a virus
 
 ## This article mentions these technologies
 
-* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
-* [Drones](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
-* [Increased government funding](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_55.md)
-* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_125.md)
-* [Project management software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_864.md)
+* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_864.md)
+* [Drones](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
+* [Increased government funding](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
+* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_55.md)
+* [Project management software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_125.md)
 * [Public-private partnerships](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_130.md)
 * [Remote collaboration tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_862.md)
 * [Remote inspections](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_859.md)
@@ -52,8 +52,8 @@ The coronavirus disease, also known as COVID-19, is a sickness caused by a virus
 
 ## This article points to following mitigation
 
-* [Adequate planning of infrastructural facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3929.md)
-* [Devising mitigation measures in construction projects](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Adequate planning of infrastructural facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Devising mitigation measures in construction projects](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3929.md)
 * [Medical technological development](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3926.md)
 * [Personal cleanliness, sanitization, and ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3925.md)
 * [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3930.md)

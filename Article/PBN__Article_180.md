@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_180 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_180 
 
 # __Assessing the health and hygiene performance of apartment buildings__
 
@@ -43,9 +43,9 @@ A summary is a short version of a longer piece of writing. It's like when you te
 * [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
 * [Enhanced cleaning protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_564.md)
 * [Handwashing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3332.md)
-* [Mask wearing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3331.md)
-* [Proper ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3817.md)
-* [Quarantine/isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1130.md)
+* [Mask wearing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1130.md)
+* [Proper ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3331.md)
+* [Quarantine/isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3817.md)
 * [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3819.md)
 * [Surface disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3818.md)
 * [Travel restrictions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_86.md)

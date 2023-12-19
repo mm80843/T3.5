@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__aBlueprint_25 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/pages/docs/Blueprint/index.md) >> Individual ID:PBN__aBlueprint_25 
 
 # __Implementing Biosecurity Measures and Technological Solutions to Counter Infectious Diseases__
 
@@ -28,43 +28,43 @@
 
 ## 3. Blueprint impacts these stakeholders
 
-* [Data scientists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
-* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_121.md)
-* [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
-* [Healthcare providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_29.md)
+* [Data scientists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
+* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_29.md)
+* [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
+* [Healthcare providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_121.md)
 * [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_625.md)
 
 ## 4. Blueprint links to these mitigations
 
-* [Adopt common data models and ontology interoperability guidelines.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1864.md)
-* [Adopt common protocols and nan standards](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2731.md)
-* [Build an obo ontology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1240.md)
-* [Clearly defining force majeure clauses, renegotiating contracts, alternative dispute resolution methods.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2541.md)
-* [Develop backup systems and contingency plans, enhance cybersecurity measures, diversify communication channels and platforms.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2451.md)
+* [Adopt common data models and ontology interoperability guidelines.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2731.md)
+* [Adopt common protocols and nan standards](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1240.md)
+* [Build an obo ontology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2541.md)
+* [Clearly defining force majeure clauses, renegotiating contracts, alternative dispute resolution methods.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2451.md)
+* [Develop backup systems and contingency plans, enhance cybersecurity measures, diversify communication channels and platforms.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1864.md)
 
 ## 5. Blueprint mitigation can be owned by these stakeholders
 
-* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
-* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
-* [Manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
+* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
+* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
+* [Manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
 * [Ontology developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_34.md)
 * [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1301.md)
 
 ## 6. Blueprint links to these benefits
 
-* [Increased productivity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_368.md)
+* [Increased productivity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_958.md)
 * [Reduced disease spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_549.md)
-* [Reduced spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_958.md)
+* [Reduced spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_368.md)
 
 ## 7. Blueprint links to these technology
 
 * [Border control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
-* [Border controls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_168.md)
-* [Communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3488.md)
-* [Data sharing platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_152.md)
-* [Travel management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2485.md)
-* [Travel monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2969.md)
-* [Travel policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3413.md)
-* [Travel regulations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3414.md)
-* [Travel tracking and monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3415.md)
+* [Border controls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2969.md)
+* [Communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3415.md)
+* [Data sharing platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2485.md)
+* [Travel management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3414.md)
+* [Travel monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3488.md)
+* [Travel policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2297.md)
+* [Travel regulations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_168.md)
+* [Travel tracking and monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_152.md)
 

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_228 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_228 
 
 # __Antimicrobial surfaces__
 
@@ -21,7 +21,7 @@
 
 ## Link between Blueprint and General ontology
 
-* [Antimicrobial coating](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_26.md)
+* [Antimicrobial coating](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_26.md)
 
 ## Risks linked to this technology
 

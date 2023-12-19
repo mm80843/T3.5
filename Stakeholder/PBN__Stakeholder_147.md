@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_147 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_147 
 
 # __Businesses__
 
@@ -93,35 +93,35 @@
 
 ## This Stakeholder can get these Benefits from mitigation measures
 
-* [Avoidance of strict lockdown measures](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_626.md)
-* [Data-driven decision making](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1095.md)
-* [Economic stability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_740.md)
-* [Economic stability and recovery](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_732.md)
-* [Enhanced business continuity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_720.md)
-* [Enhanced coordination and communication](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_717.md)
-* [Enhanced digital change](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1017.md)
-* [Enhanced economic support and stability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_741.md)
-* [Enhanced risk management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1034.md)
-* [Enhanced risk management and cooperation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_506.md)
-* [Flexibility in supply chains](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_292.md)
-* [Flexible responses to disruptions](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1394.md)
-* [Greater gender equity in employment](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_303.md)
-* [Identification of impacted sectors](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_304.md)
-* [Improved information systems and risk management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_305.md)
-* [Improved resilience to supply shocks](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_306.md)
-* [Improved supply chain management and delivery systems](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_307.md)
-* [Increased competition and diversification](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_308.md)
-* [Increased substitution between suppliers](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_309.md)
-* [Job creation and economic growth](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_310.md)
-* [Prevention of economic shrinkage](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_311.md)
-* [Priority access to essential goods](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_312.md)
-* [Reduced risk of aerosol transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_718.md)
-* [Reduced risk of surface contamination](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_808.md)
-* [Reduction in surface contamination](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_562.md)
-* [Redundancy in supply chains](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_424.md)
-* [Reliability in supply chain](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_628.md)
-* [Resilient and sustainable supply chains](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1054.md)
-* [Streamlined operational processes](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_698.md)
+* [Avoidance of strict lockdown measures](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_698.md)
+* [Data-driven decision making](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_626.md)
+* [Economic stability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1095.md)
+* [Economic stability and recovery](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_740.md)
+* [Enhanced business continuity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_732.md)
+* [Enhanced coordination and communication](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_720.md)
+* [Enhanced digital change](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_717.md)
+* [Enhanced economic support and stability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1017.md)
+* [Enhanced risk management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_741.md)
+* [Enhanced risk management and cooperation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1034.md)
+* [Flexibility in supply chains](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_506.md)
+* [Flexible responses to disruptions](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_292.md)
+* [Greater gender equity in employment](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1394.md)
+* [Identification of impacted sectors](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_303.md)
+* [Improved information systems and risk management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_304.md)
+* [Improved resilience to supply shocks](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_305.md)
+* [Improved supply chain management and delivery systems](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_306.md)
+* [Increased competition and diversification](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_307.md)
+* [Increased substitution between suppliers](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_308.md)
+* [Job creation and economic growth](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_309.md)
+* [Prevention of economic shrinkage](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_310.md)
+* [Priority access to essential goods](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_311.md)
+* [Reduced risk of aerosol transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_312.md)
+* [Reduced risk of surface contamination](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_718.md)
+* [Reduction in surface contamination](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_808.md)
+* [Redundancy in supply chains](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_562.md)
+* [Reliability in supply chain](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_424.md)
+* [Resilient and sustainable supply chains](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_628.md)
+* [Streamlined operational processes](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1054.md)
 * [Timely shutdown and reopening of specific areas](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_778.md)
 
 ## This stakeholders can act on the following general blueprint(s)
@@ -130,7 +130,7 @@
 
 ## Type of the stakeholder
 
-* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_0.md)
-* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
-* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_0.md)
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_2.md)
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_1.md)
 

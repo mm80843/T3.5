@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_341 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_341 
 
 # __Physical barriers__
 
@@ -46,17 +46,17 @@
 
 ## This Technology enables the following mitigations
 
-* [Barrier measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_416.md)
-* [Clear screens between seats](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
-* [Cordon sanitaire](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4518.md)
-* [Distancing and building layout](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4086.md)
-* [Engineering controls](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_322.md)
-* [Implementing social distancing measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3911.md)
-* [One-way mobility circulation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3370.md)
-* [Physical barriers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3574.md)
-* [Physical barriers , plexiglass](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4623.md)
-* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3387.md)
-* [Social distancing measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3994.md)
+* [Barrier measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Clear screens between seats](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_416.md)
+* [Cordon sanitaire](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3994.md)
+* [Distancing and building layout](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4518.md)
+* [Engineering controls](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4086.md)
+* [Implementing social distancing measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_322.md)
+* [One-way mobility circulation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3911.md)
+* [Physical barriers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3370.md)
+* [Physical barriers , plexiglass](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3574.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4623.md)
+* [Social distancing measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3387.md)
 
 ## This technology is mentioned by
 

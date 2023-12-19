@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_455 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_455 
 
 # __Cascading disruptions__
 
@@ -29,13 +29,13 @@ A disruption in one system leads to disruptions in other interconnected systems
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Mitigations of this risk
 
 * [Enhance system resilience, diversify dependencies, and establish backup systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2898.md)
-* [Identifying dependencies and interdependencies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4997.md)
-* [Interdependencies mapping](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_645.md)
+* [Identifying dependencies and interdependencies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_645.md)
+* [Interdependencies mapping](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4997.md)
 
 ## Name of the risk
 
@@ -57,11 +57,11 @@ Widespread disruptions in critical infrastructure
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_8.md)
+* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_8.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_4.md)
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_4.md)
 
 ## Type of the risk
 

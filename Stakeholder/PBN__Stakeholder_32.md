@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_32 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_32 
 
 # __Healthcare professionals__
 
@@ -78,25 +78,25 @@
 
 ## This Stakeholder can get these Benefits from mitigation measures
 
-* [Accelerated recovery and improved patient satisfaction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_36.md)
-* [Access to up-to-date information](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_739.md)
-* [Digital tools of support to hospitals/health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_38.md)
-* [Disseminating evidence through various mediums](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1131.md)
-* [Early detection and personalized treatment](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_722.md)
-* [Early detection of carriers](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_129.md)
-* [Early detection of infections](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_130.md)
-* [Early detection of reinfections](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_131.md)
-* [Efficient access to knowledge](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_636.md)
-* [Efficient management of covid-19 crisis](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_132.md)
-* [Enhanced healthcare delivery](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_133.md)
-* [Enhanced risk monitoring](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_445.md)
-* [Enhanced surveillance and control of covid-19](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_446.md)
-* [Enhanced tracking and prediction of covid-19 cases](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_160.md)
-* [Enriched and interconnected knowledge graph](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_482.md)
-* [Improved cross-disciplinary protocols](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_485.md)
-* [Improved early detection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1317.md)
-* [Improved monitoring and contact tracing](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1314.md)
-* [Improved patient satisfaction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_547.md)
+* [Accelerated recovery and improved patient satisfaction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_547.md)
+* [Access to up-to-date information](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_36.md)
+* [Digital tools of support to hospitals/health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_739.md)
+* [Disseminating evidence through various mediums](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_38.md)
+* [Early detection and personalized treatment](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1131.md)
+* [Early detection of carriers](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_722.md)
+* [Early detection of infections](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_129.md)
+* [Early detection of reinfections](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_130.md)
+* [Efficient access to knowledge](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_131.md)
+* [Efficient management of covid-19 crisis](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_636.md)
+* [Enhanced healthcare delivery](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_132.md)
+* [Enhanced risk monitoring](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_133.md)
+* [Enhanced surveillance and control of covid-19](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_445.md)
+* [Enhanced tracking and prediction of covid-19 cases](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_446.md)
+* [Enriched and interconnected knowledge graph](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_160.md)
+* [Improved cross-disciplinary protocols](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_482.md)
+* [Improved early detection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_485.md)
+* [Improved monitoring and contact tracing](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1317.md)
+* [Improved patient satisfaction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1314.md)
 * [Improved remote monitoring and diagnosis of covid-19](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1393.md)
 * [Improved training and education of healthcare professionals](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1397.md)
 * [Improved working conditions](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_447.md)
@@ -114,7 +114,7 @@
 
 ## Type of the stakeholder
 
-* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_0.md)
-* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
-* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_0.md)
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_2.md)
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_1.md)
 

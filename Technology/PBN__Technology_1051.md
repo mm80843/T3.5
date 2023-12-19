@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_1051 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_1051 
 
 # __Masks__
 
@@ -34,13 +34,13 @@
 
 ## This Technology enables the following mitigations
 
-* [Mask wearing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4888.md)
-* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3761.md)
-* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3306.md)
-* [Personal protective measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3817.md)
-* [Ppe usage](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3575.md)
-* [Use of personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1095.md)
-* [Use of personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_415.md)
+* [Mask wearing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_415.md)
+* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3575.md)
+* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4888.md)
+* [Personal protective measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3761.md)
+* [Ppe usage](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3306.md)
+* [Use of personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3817.md)
+* [Use of personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1095.md)
 * [Wearing masks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_376.md)
 
 ## This technology is mentioned by

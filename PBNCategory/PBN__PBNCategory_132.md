@@ -1,14 +1,14 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_132 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/pages/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_132 
 
 # __Implementing a comprehensive framework to ensure safety, security, and protection for individuals and communities.__
 
 ## Items covered in this category
 
-* [Adoption of safety measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3255.md)
-* [Advanced security measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4005.md)
-* [Barrier measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4001.md)
-* [Building resilience measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3745.md)
-* [Case-based measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_100.md)
+* [Adoption of safety measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_100.md)
+* [Advanced security measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3255.md)
+* [Barrier measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4005.md)
+* [Building resilience measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4001.md)
+* [Case-based measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3745.md)
 * [Collaborative and proactive measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3142.md)
 * [Combined measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4053.md)
 * [Containment measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_569.md)

@@ -1,16 +1,16 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_124 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/pages/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_124 
 
 # __Efficient implementation of containment strategies, home quarantine, monitoring, and isolation measures to combat the spread of infectious diseases.__
 
 ## Items covered in this category
 
-* [Augmented surveillance, prompt voluntary reporting, and provision of separate spaces for isolation and quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_893.md)
-* [Compliance of quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1753.md)
-* [Effective quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_432.md)
-* [Efficient public health response, quarantine measures, widespread testing and contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3580.md)
-* [Encourage voluntary home quarantine, expand telehealth services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3773.md)
-* [Establish protocols for monitoring confirmed cases and close contacts, ensure compliance with quarantine and isolation measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4889.md)
-* [Establish temporary isolation and quarantine rooms with necessary equipment and supplies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3123.md)
+* [Augmented surveillance, prompt voluntary reporting, and provision of separate spaces for isolation and quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1753.md)
+* [Compliance of quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3123.md)
+* [Effective quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_893.md)
+* [Efficient public health response, quarantine measures, widespread testing and contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_432.md)
+* [Encourage voluntary home quarantine, expand telehealth services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3580.md)
+* [Establish protocols for monitoring confirmed cases and close contacts, ensure compliance with quarantine and isolation measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3773.md)
+* [Establish temporary isolation and quarantine rooms with necessary equipment and supplies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4889.md)
 * [Home isolation and quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_758.md)
 * [Home quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5058.md)
 * [Home quarantine of household members](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4808.md)

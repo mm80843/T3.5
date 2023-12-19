@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_114 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_114 
 
 # __Exploring the Non-Medical impacts of Covid-19 using Natural Language Processing__
 
@@ -34,8 +34,8 @@ Natural Language Processing (NLP) is a way for computers to understand and analy
 
 ## This article mentions these technologies
 
-* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
-* [Emergency response systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_0.md)
+* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_0.md)
+* [Emergency response systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
 * [Fact-checking tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
 * [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_8.md)
 * [Preparedness strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_36.md)
@@ -50,12 +50,12 @@ Natural Language Processing (NLP) is a way for computers to understand and analy
 
 ## This article points to following mitigation
 
-* [Applying antimicrobial coatings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3153.md)
-* [Digital contact tracing application](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3154.md)
-* [Screening masses](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3151.md)
-* [Spraying disinfectants](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3152.md)
-* [Strict social distancing protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3155.md)
-* [Telehealth](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3156.md)
+* [Applying antimicrobial coatings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3154.md)
+* [Digital contact tracing application](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3156.md)
+* [Screening masses](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3155.md)
+* [Spraying disinfectants](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3153.md)
+* [Strict social distancing protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3151.md)
+* [Telehealth](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3152.md)
 
 ## Title of the article
 

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [BP_Enabler](https://github.com/mm80843/T3.5/tree/main/docs/BP_Enabler/index.md) >> Individual ID:PBN__BP_Enabler_0 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [BP_Enabler](https://github.com/mm80843/T3.5/tree/pages/docs/BP_Enabler/index.md) >> Individual ID:PBN__BP_Enabler_0 
 
 # __5G__
 
@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [BigData](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_19.md)
-* [DigitalPlatform](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_5.md)
-* [GPS](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_10.md)
-* [Image acquisition & CCTV](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_23.md)
-* [IoT](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_9.md)
-* [New delivery systems](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_1.md)
-* [SmartPhones](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_21.md)
-* [Social Networks](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_17.md)
-* [Telemedecine](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_12.md)
-* [Teleworking](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_20.md)
+* [BigData](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_19.md)
+* [DigitalPlatform](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_5.md)
+* [GPS](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_10.md)
+* [Image acquisition & CCTV](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_23.md)
+* [IoT](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_9.md)
+* [New delivery systems](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_1.md)
+* [SmartPhones](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_21.md)
+* [Social Networks](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_17.md)
+* [Telemedecine](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_12.md)
+* [Teleworking](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_20.md)
 
 ## Technology equivalent to this enabler
 

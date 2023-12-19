@@ -1,23 +1,23 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_259 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/pages/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_259 
 
 # __A diverse group of specialists and professionals with expertise in risk assessment, data analysis, technology, communication, legal matters, and various domains.__
 
 ## Items covered in this category
 
-* [Ai and machine learning](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1010.md)
-* [Ai and technology](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1404.md)
-* [Analysts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1073.md)
-* [Communication expert](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_167.md)
-* [Communication experts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1190.md)
-* [Cybersecurity expert](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_12.md)
-* [Cybersecurity experts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_365.md)
-* [Data analysts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_538.md)
-* [Data scientists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1785.md)
-* [Data security professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_626.md)
-* [Datum analyst](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1857.md)
-* [Design professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1873.md)
-* [Domain expert](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_625.md)
-* [Domain experts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_477.md)
+* [Ai and machine learning](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1190.md)
+* [Ai and technology](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_625.md)
+* [Analysts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_477.md)
+* [Communication expert](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1010.md)
+* [Communication experts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1404.md)
+* [Cybersecurity expert](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1073.md)
+* [Cybersecurity experts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_167.md)
+* [Data analysts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_12.md)
+* [Data scientists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_365.md)
+* [Data security professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_538.md)
+* [Datum analyst](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1785.md)
+* [Design professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_626.md)
+* [Domain expert](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1857.md)
+* [Domain experts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1873.md)
 * [Energy analysts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_938.md)
 * [Experts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_630.md)
 * [Iaq expert](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_347.md)

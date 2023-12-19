@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_5 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_5 
 
 # __Communication technologies__
 
@@ -46,9 +46,9 @@
 
 ## This Technology enables the following mitigations
 
-* [Effective communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5047.md)
-* [Facilitating remote work](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5089.md)
-* [Ict infrastructure access](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3389.md)
+* [Effective communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3389.md)
+* [Facilitating remote work](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5047.md)
+* [Ict infrastructure access](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5089.md)
 
 ## This technology is mentioned by
 

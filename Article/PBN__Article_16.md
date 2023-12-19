@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_16 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_16 
 
 # __Sars-CoV-2 (COVID-19) inactivation capability of copper-coated touch surface fabricated by cold-spray technology__
 
@@ -49,9 +49,9 @@ Researchers have found that coating stainless steel surfaces with copper can hel
 
 ## This article points to following mitigation
 
-* [Copper coating](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3822.md)
-* [Lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
-* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_427.md)
+* [Copper coating](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_427.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3822.md)
 * [Stainless steel replacement with copper](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3823.md)
 * [Virus-inactivating solutions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3824.md)
 

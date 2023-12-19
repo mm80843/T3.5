@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_562 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_562 
 
 # __Clear communication__
 
@@ -25,7 +25,7 @@
 
 ## Link between Blueprint and General ontology
 
-* [Facilitate transparent communication](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_37.md)
+* [Facilitate transparent communication](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_37.md)
 
 ## Risks possibly mitigated by this Mitigation
 
@@ -35,8 +35,8 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Communication technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_544.md)
-* [Communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_168.md)
+* [Communication technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_168.md)
+* [Communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_544.md)
 
 ## Property: has_MitigationPrinciple
 

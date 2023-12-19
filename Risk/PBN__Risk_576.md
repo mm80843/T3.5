@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_576 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_576 
 
 # __Spread of covid-19 through wastewater__
 
@@ -33,12 +33,12 @@ Contaminated wastewater can contribute to the spread of the virus and increase t
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Mitigations of this risk
 
-* [Improve wastewater treatment and disinfection processes, monitor wastewater for viral fragments](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_492.md)
-* [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_149.md)
+* [Improve wastewater treatment and disinfection processes, monitor wastewater for viral fragments](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_149.md)
+* [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_492.md)
 * [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2270.md)
 
 ## Name of the risk
@@ -53,8 +53,8 @@ Increased transmission of the virus, potential for outbreaks in communities
 
 ## Stakeholders who can mitigate this risk
 
-* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_222.md)
-* [Public health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
+* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
+* [Public health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_222.md)
 * [Wastewater treatment authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1136.md)
 
 ## Technologies linked to the risk
@@ -64,11 +64,11 @@ Increased transmission of the virus, potential for outbreaks in communities
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_4.md)
+* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_4.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_4.md)
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_4.md)
 
 ## Type of the risk
 

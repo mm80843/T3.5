@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_677 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/pages/docs/Benef/index.md) >> Individual ID:PBN__Benef_677 
 
 # __Business continuity__
 
@@ -24,7 +24,7 @@ Efficient supply chain management ensures a secure and uninterrupted flow of mat
 
 ## Stakeholders benefitting from this Benefit
 
-* [Construction firms](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_282.md)
-* [Contractors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_179.md)
-* [Suppliers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_283.md)
+* [Construction firms](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_179.md)
+* [Contractors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_283.md)
+* [Suppliers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_282.md)
 

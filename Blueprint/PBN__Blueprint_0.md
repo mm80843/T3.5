@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_0 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/pages/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_0 
 
 # __Rotating shift schedule__
 
@@ -23,35 +23,35 @@ https://doi.org/10.1371/journal.pcbi.1009264
 
 ## Enablers of the blueprint
 
-* [Automation](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_4.md)
-* [Blockchain](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_5.md)
-* [Data Analytics](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_23.md)
-* [Disease Diagnostic Test Kits](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_32.md)
-* [IoT](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_19.md)
-* [SmartPhones](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_2.md)
-* [Teleworking](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_16.md)
+* [Automation](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_4.md)
+* [Blockchain](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_5.md)
+* [Data Analytics](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_23.md)
+* [Disease Diagnostic Test Kits](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_32.md)
+* [IoT](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_19.md)
+* [SmartPhones](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_2.md)
+* [Teleworking](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_16.md)
 
 ## GBN Phase of the blueprint
 
-* [Operational](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Phase_0.md)
+* [Operational](https://github.com/mm80843/T3.5/blob/pages/BP_Phase/PBN__BP_Phase_0.md)
 
 ## Interventions of the blueprint
 
-* [Absorb resource shortages](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_34.md)
-* [Early detection](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_18.md)
-* [Occupancy control (eg separating at/risk contaminated population)](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_19.md)
-* [Shift controls (occupancy control of total users)](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_31.md)
+* [Absorb resource shortages](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_34.md)
+* [Early detection](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_18.md)
+* [Occupancy control (eg separating at/risk contaminated population)](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_19.md)
+* [Shift controls (occupancy control of total users)](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_31.md)
 
 ## Mode of transmission covered by the blueprint
 
-* [Airborne](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_0.md)
-* [Direct contact](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_1.md)
-* [Respiratory](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_2.md)
+* [Airborne](https://github.com/mm80843/T3.5/blob/pages/BP_Transmission/PBN__BP_Transmission_0.md)
+* [Direct contact](https://github.com/mm80843/T3.5/blob/pages/BP_Transmission/PBN__BP_Transmission_1.md)
+* [Respiratory](https://github.com/mm80843/T3.5/blob/pages/BP_Transmission/PBN__BP_Transmission_2.md)
 
 ## Possible mitigations of the BP
 
-* [Flexible work schedules](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4483.md)
-* [Implement crowd management strategies, such as appointment systems, queue management, and social distancing measures. increase the number of vaccination sites and healthcare personnel.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1652.md)
+* [Flexible work schedules](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1652.md)
+* [Implement crowd management strategies, such as appointment systems, queue management, and social distancing measures. increase the number of vaccination sites and healthcare personnel.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4483.md)
 * [Implement online meetings and shift arrangements, provide training and company policies, enforce health protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4887.md)
 * [Implement shift and break schedules](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2561.md)
 * [Implement strict social distancing protocols, including spacing out workstations, staggering breaks, and limiting the number of workers in confined spaces.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2799.md)
@@ -95,7 +95,7 @@ A number of limitations and constraints were identified for this specific measur
 
 ## Scale of the of the blueprint
 
-* [Building](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Scale_0.md)
+* [Building](https://github.com/mm80843/T3.5/blob/pages/BP_Scale/PBN__BP_Scale_0.md)
 
 ## Title of the blueprint
 
@@ -103,11 +103,11 @@ PBN:BP_1
 
 ## Type of deployment of the blueprint
 
-* [Temporary](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Permanent_0.md)
+* [Temporary](https://github.com/mm80843/T3.5/blob/pages/BP_Permanent/PBN__BP_Permanent_0.md)
 
 ## Type of the blueprint
 
-* [Behavioural](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Type_0.md)
+* [Behavioural](https://github.com/mm80843/T3.5/blob/pages/BP_Type/PBN__BP_Type_0.md)
 
 ## Value proposition of the blueprint
 

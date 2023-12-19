@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_234 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_234 
 
 # __Education disruption__
 
@@ -29,7 +29,7 @@ Closure of schools and universities leading to interrupted education for student
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Mitigations of this risk
 
@@ -43,14 +43,14 @@ Impedes access to quality education, widens educational inequalities.
 ## People affected by this risk
 
 * [Children](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_101.md)
-* [Students](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_264.md)
-* [Young people](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_62.md)
+* [Students](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_62.md)
+* [Young people](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_264.md)
 
 ## Stakeholders who can mitigate this risk
 
 * [Education ministries](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_234.md)
-* [Ngos](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1359.md)
-* [Schools](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_366.md)
+* [Ngos](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_366.md)
+* [Schools](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1359.md)
 
 ## Technologies linked to the risk
 
@@ -59,11 +59,11 @@ Impedes access to quality education, widens educational inequalities.
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_0.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_1.md)
+* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_1.md)
 
 ## Type of the risk
 

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1363 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1363 
 
 # __Reliance on digital platforms__
 
@@ -29,7 +29,7 @@ Over-reliance on digital platforms for essential services and communication, lea
 
 ## Is the risk affecting GBN scales
 
-* [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_0.md)
 
 ## Mitigations of this risk
 
@@ -48,8 +48,8 @@ Disruption of services, communication breakdown, potential for data loss or corr
 ## Stakeholders who can mitigate this risk
 
 * [Government agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_55.md)
-* [Service providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_474.md)
-* [Technology companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_717.md)
+* [Service providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_717.md)
+* [Technology companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_474.md)
 
 ## Technologies linked to the risk
 
@@ -59,11 +59,11 @@ Disruption of services, communication breakdown, potential for data loss or corr
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_8.md)
+* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_8.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_4.md)
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_4.md)
 
 ## Type of the risk
 

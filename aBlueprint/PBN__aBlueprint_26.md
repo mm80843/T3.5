@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [aBlueprint](https://github.com/mm80843/T3.5/tree/main/docs/aBlueprint/index.md) >> Individual ID:PBN__aBlueprint_26 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [aBlueprint](https://github.com/mm80843/T3.5/tree/pages/docs/aBlueprint/index.md) >> Individual ID:PBN__aBlueprint_26 
 
 # __Implementing Infectious Disease Prevention__
 
@@ -28,43 +28,43 @@
 
 ## 3. Blueprint impacts these stakeholders
 
-* [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
-* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
+* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
 * [Energy managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
-* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_53.md)
-* [Society](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1526.md)
+* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1526.md)
+* [Society](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_53.md)
 
 ## 4. Blueprint links to these mitigations
 
-* [High ventilation rates](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4966.md)
-* [Implement energy-saving measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_456.md)
-* [Promotion of sustainable and alternative energy sources](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4263.md)
-* [Smart power strip](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4972.md)
-* [Solar chargers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4975.md)
+* [High ventilation rates](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_456.md)
+* [Implement energy-saving measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4263.md)
+* [Promotion of sustainable and alternative energy sources](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4975.md)
+* [Smart power strip](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4966.md)
+* [Solar chargers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4972.md)
 
 ## 5. Blueprint mitigation can be owned by these stakeholders
 
-* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_20.md)
-* [Energy managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_126.md)
-* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
-* [Individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
+* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
+* [Energy managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_20.md)
+* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
+* [Individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_126.md)
 * [Policymakers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1526.md)
 
 ## 6. Blueprint links to these benefits
 
 * [Reduced energy consumption](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_232.md)
-* [Reduced transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_416.md)
-* [Temperature reduction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_246.md)
+* [Reduced transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_246.md)
+* [Temperature reduction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_416.md)
 
 ## 7. Blueprint links to these technology
 
-* [Hvac system](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
-* [Hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
-* [International collaboration platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_185.md)
-* [Mopso](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_864.md)
-* [Occupancy sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2580.md)
-* [Optimization algorithms nsga-ii](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3182.md)
+* [Hvac system](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
+* [Hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_185.md)
+* [International collaboration platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_647.md)
+* [Mopso](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
+* [Occupancy sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3182.md)
+* [Optimization algorithms nsga-ii](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2771.md)
 * [Renewable energy sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3183.md)
 * [Spea2](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3184.md)
-* [Ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_647.md)
+* [Ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_864.md)
 

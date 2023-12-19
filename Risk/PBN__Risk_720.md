@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_720 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_720 
 
 # __Workforce management__
 
@@ -21,7 +21,7 @@
 
 ## Link between Blueprint and General ontology
 
-* [Information management](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Theme_9.md)
+* [Information management](https://github.com/mm80843/T3.5/blob/pages/BP_Theme/PBN__BP_Theme_9.md)
 
 ## Mitigations of this risk
 

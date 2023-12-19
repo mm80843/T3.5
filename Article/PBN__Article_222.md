@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_222 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_222 
 
 # __COVID-19 pandemic and mitigation strategies: implications for maternal and child health and nutrition__
 
@@ -45,11 +45,11 @@ The coronavirus disease 2019 (COVID-19) pandemic has had a big impact on people'
 
 ## This article points to following mitigation
 
-* [Building resilient food systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3188.md)
-* [Effective community health extension system](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3191.md)
-* [Financial-incentive based models](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3189.md)
-* [Mobilizing informal institutions for education](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3190.md)
-* [Safe water access and hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1069.md)
+* [Building resilient food systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1069.md)
+* [Effective community health extension system](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3188.md)
+* [Financial-incentive based models](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3191.md)
+* [Mobilizing informal institutions for education](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3189.md)
+* [Safe water access and hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3190.md)
 
 ## Title of the article
 

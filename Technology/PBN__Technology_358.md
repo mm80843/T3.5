@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_358 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_358 
 
 # __Floor markings__
 
@@ -25,8 +25,8 @@
 
 ## This Technology enables the following mitigations
 
-* [Implementing physical distancing procedures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_416.md)
-* [Marking 6’ distances and one-way traffic](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Implementing physical distancing procedures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Marking 6’ distances and one-way traffic](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_416.md)
 * [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1062.md)
 * [Social distancing measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4477.md)
 

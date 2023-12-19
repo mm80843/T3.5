@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3300 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3300 
 
 # __Cognitive behavioral therapy cbt , acceptance and commitment-based therapy act , mindfulness-based stress reduction interventions__
 
@@ -25,8 +25,8 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Internet](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_67.md)
-* [Online platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2454.md)
+* [Internet](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2454.md)
+* [Online platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_67.md)
 * [Telephone](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2453.md)
 
 ## Property: has_MitigationPrinciple

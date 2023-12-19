@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_110 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_110 
 
 # __Reflecting on Impacts of COVID19 on Sustainable Buildings and Cities__
 
@@ -36,9 +36,9 @@ The COVID19 pandemic has affected many parts of our lives, including buildings a
 
 ## This article mentions these technologies
 
-* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
-* [Energy-efficient appliances](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_667.md)
-* [Equitable distribution of resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+* [Energy-efficient appliances](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
+* [Equitable distribution of resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_667.md)
 * [Improved hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_79.md)
 * [Improved infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_660.md)
 * [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_666.md)

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_286 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_286 
 
 # __Addressing the impact of COVID-19 lockdown on energy use in municipal buildings: A case study in Florianópolis, Brazil__
 
@@ -39,12 +39,12 @@ During the COVID-19 pandemic, many buildings were not being used but still used 
 
 ## This article mentions these technologies
 
-* [Behavior change programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_322.md)
-* [Building automation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_655.md)
-* [Efficient lighting fixtures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_350.md)
-* [Energy feedback systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_202.md)
-* [Energy management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_652.md)
-* [Energy monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_647.md)
+* [Behavior change programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_647.md)
+* [Building automation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_322.md)
+* [Efficient lighting fixtures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_655.md)
+* [Energy feedback systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_350.md)
+* [Energy management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_202.md)
+* [Energy monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_652.md)
 * [Energy-efficient systems and equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_654.md)
 * [Lighting control systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_656.md)
 * [Occupancy sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_653.md)

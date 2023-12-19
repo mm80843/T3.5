@@ -1,18 +1,18 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_33 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/pages/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_33 
 
 # __Limits virus persistence on various surfaces through antimicrobial treatment and reduced human interaction with contaminated objects, aiding in disinfection and identification efforts.__
 
 ## Items covered in this category
 
-* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1214.md)
-* [Disinfection of surfaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_75.md)
-* [Identification of coronavirus-positive environmental surfaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_94.md)
-* [On contact surfaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_127.md)
-* [Reduced contact with surfaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1121.md)
-* [Reduced viral load on surfaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1326.md)
-* [Reduced virus lifespan on surfaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_210.md)
-* [Reduction in virus viability on surfaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_345.md)
-* [Reduction of virus survival on surfaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_398.md)
+* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1121.md)
+* [Disinfection of surfaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_398.md)
+* [Identification of coronavirus-positive environmental surfaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1214.md)
+* [On contact surfaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_75.md)
+* [Reduced contact with surfaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_94.md)
+* [Reduced viral load on surfaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_127.md)
+* [Reduced virus lifespan on surfaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1326.md)
+* [Reduction in virus viability on surfaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_210.md)
+* [Reduction of virus survival on surfaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_345.md)
 
 ## Title of the category
 

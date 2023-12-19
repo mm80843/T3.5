@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1133 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1133 
 
 # __Contagious transmission in buildings__
 
@@ -29,7 +29,7 @@ SARS-CoV-2 can spread easily in a confined, crowded, and poorly ventilated indoo
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Mitigations of this risk
 
@@ -41,8 +41,8 @@ Rapid spread of COVID-19 and increased risk of transmission in indoor environmen
 
 ## People affected by this risk
 
-* [Gyms](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_661.md)
-* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_33.md)
+* [Gyms](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_33.md)
+* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_661.md)
 * [Individuals in crowded](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_662.md)
 * [Poorly ventilated indoor environments such as offices](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_243.md)
 * [Restaurants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_663.md)
@@ -55,18 +55,18 @@ Rapid spread of COVID-19 and increased risk of transmission in indoor environmen
 
 ## Technologies linked to the risk
 
-* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
-* [Proper cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+* [Proper cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
 * [Uv germicidal irradiation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_225.md)
 * [Ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_226.md)
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_4.md)
+* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_4.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
+* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_2.md)
 
 ## Type of the risk
 

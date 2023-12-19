@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_2199 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_2199 
 
 # __Domestic violence threat__
 
@@ -29,7 +29,7 @@ Lockdowns increase domestic violence frequency and most residential buildings la
 
 ## Is the risk affecting GBN scales
 
-* [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_0.md)
 
 ## Mitigations of this risk
 
@@ -53,11 +53,11 @@ Increase in domestic violence cases and harm to victims
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_12.md)
+* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_12.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Social cohesion](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_5.md)
+* [Social cohesion](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_5.md)
 
 ## Type of the risk
 

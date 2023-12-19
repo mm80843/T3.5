@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1107 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1107 
 
 # __Providing support to overstretched staff__
 
@@ -25,7 +25,7 @@
 
 ## Link between Blueprint and General ontology
 
-* [Staff training / upskilling](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_22.md)
+* [Staff training / upskilling](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_22.md)
 
 ## Risks possibly mitigated by this Mitigation
 

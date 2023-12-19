@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_610 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_610 
 
 # __Preventing virus propagation__
 
@@ -29,17 +29,17 @@ Lack of indicators to prevent the spread of viruses in residential buildings
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Link between Blueprint and General ontology
 
-* [Propagation monitoring](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Theme_7.md)
+* [Propagation monitoring](https://github.com/mm80843/T3.5/blob/pages/BP_Theme/PBN__BP_Theme_7.md)
 
 ## Mitigations of this risk
 
 * [Implement touchless technologies, promote natural light, and establish self-cleaning spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_215.md)
-* [Minimal natural light](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_848.md)
-* [Use of touchless technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2935.md)
+* [Minimal natural light](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2935.md)
+* [Use of touchless technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_848.md)
 
 ## Name of the risk
 
@@ -47,15 +47,15 @@ Increased risk of viral transmission and outbreaks
 
 ## People affected by this risk
 
-* [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_59.md)
-* [Residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
+* [Residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_59.md)
 
 ## Stakeholders who can mitigate this risk
 
 * [Architects](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
-* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_431.md)
-* [Designers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_74.md)
-* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
+* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
+* [Designers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_431.md)
+* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_74.md)
 
 ## Technologies linked to the risk
 
@@ -64,11 +64,11 @@ Increased risk of viral transmission and outbreaks
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_0.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_6.md)
+* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_6.md)
 
 ## Type of the risk
 

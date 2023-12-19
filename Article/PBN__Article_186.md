@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_186 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_186 
 
 # __Social distancing enhanced automated optimal design of physical spaces in the wake of the COVID-19 pandemic__
 
@@ -37,10 +37,10 @@ In this article, the authors propose a way to design or reconfigure physical spa
 
 ## This article mentions these technologies
 
-* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
-* [Crowd management technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_201.md)
-* [Energy-efficient lighting](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1829.md)
-* [Hvac technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+* [Crowd management technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1829.md)
+* [Energy-efficient lighting](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
+* [Hvac technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_201.md)
 * [Monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_986.md)
 * [Noise-cancelling devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_118.md)
 * [Optimization algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1830.md)

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [BP_Enabler](https://github.com/mm80843/T3.5/tree/main/docs/BP_Enabler/index.md) >> Individual ID:PBN__BP_Enabler_18 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [BP_Enabler](https://github.com/mm80843/T3.5/tree/pages/docs/BP_Enabler/index.md) >> Individual ID:PBN__BP_Enabler_18 
 
 # __3D printing__
 
@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Augmented / Virtual Reality](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_22.md)
-* [Automation](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_3.md)
-* [Design & Construction software (BIM)](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_1.md)
-* [Digital signage](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_31.md)
-* [DigitalPlatform](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_14.md)
-* [Face and voice recognition](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_27.md)
-* [New delivery systems](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_21.md)
-* [Robots](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_16.md)
-* [Visualization](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_11.md)
-* [Wearables](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_28.md)
+* [Augmented / Virtual Reality](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_22.md)
+* [Automation](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_3.md)
+* [Design & Construction software (BIM)](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_1.md)
+* [Digital signage](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_31.md)
+* [DigitalPlatform](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_14.md)
+* [Face and voice recognition](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_27.md)
+* [New delivery systems](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_21.md)
+* [Robots](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_16.md)
+* [Visualization](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_11.md)
+* [Wearables](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_28.md)
 
 ## Technology equivalent to this enabler
 

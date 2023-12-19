@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_845 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_845 
 
 # __Airborne pathogen__
 
@@ -21,8 +21,8 @@
 
 ## Mitigations of this risk
 
-* [Filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_315.md)
-* [Personalized ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_312.md)
+* [Filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_312.md)
+* [Personalized ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_315.md)
 * [Photocatalytic oxidation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1166.md)
 * [Total volume air distribution](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1168.md)
 * [Uvgi](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1167.md)

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4381 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4381 
 
 # __Increased support for domestic violence services__
 
@@ -25,8 +25,8 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Coordination](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3257.md)
-* [Financial resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3019.md)
+* [Coordination](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3019.md)
+* [Financial resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3257.md)
 
 ## Property: has_MitigationPrinciple
 

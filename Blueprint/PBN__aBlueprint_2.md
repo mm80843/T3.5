@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__aBlueprint_2 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/pages/docs/Blueprint/index.md) >> Individual ID:PBN__aBlueprint_2 
 
 # __Implementing Effective Measures to Combat Contagious Diseases__
 
@@ -28,43 +28,43 @@
 
 ## 3. Blueprint impacts these stakeholders
 
-* [Decision-makers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_227.md)
-* [Victims of domestic violence](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_7.md)
+* [Decision-makers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_7.md)
+* [Victims of domestic violence](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_562.md)
 * [Victims of domestic violence and intimate partner violence](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_928.md)
-* [Women](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_562.md)
+* [Women](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_227.md)
 * [Women experiencing intimate partner violence](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_23.md)
 
 ## 4. Blueprint links to these mitigations
 
-* [Anticipate how the pandemic may affect variables of interest, measure and test these additional variables to assess their impact on study results.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2467.md)
-* [Design buildings with passive design strategies and multiple bathrooms for emergencies.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1878.md)
-* [Enhance support services for victims, raise awareness, and strengthen legal and policy frameworks.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1853.md)
-* [Maintain transparency and objectivity in evidence generation and communication, actively combat misinformation, and build trust through consistent and reliable delivery of evidence](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2490.md)
-* [Provide support and resources for victims of domestic violence, ensure safety measures are in place for online gaming](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2399.md)
+* [Anticipate how the pandemic may affect variables of interest, measure and test these additional variables to assess their impact on study results.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1853.md)
+* [Design buildings with passive design strategies and multiple bathrooms for emergencies.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2467.md)
+* [Enhance support services for victims, raise awareness, and strengthen legal and policy frameworks.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2399.md)
+* [Maintain transparency and objectivity in evidence generation and communication, actively combat misinformation, and build trust through consistent and reliable delivery of evidence](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1878.md)
+* [Provide support and resources for victims of domestic violence, ensure safety measures are in place for online gaming](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2490.md)
 
 ## 5. Blueprint mitigation can be owned by these stakeholders
 
 * [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
 * [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
-* [Law enforcement agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_234.md)
-* [Ngos](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_627.md)
+* [Law enforcement agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_627.md)
+* [Ngos](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_234.md)
 * [None](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_601.md)
 
 ## 6. Blueprint links to these benefits
 
-* [Decrease in virus transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_631.md)
+* [Decrease in virus transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1366.md)
 * [Improved asset value](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_632.md)
-* [Reduced financial losses](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1366.md)
+* [Reduced financial losses](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_631.md)
 
 ## 7. Blueprint links to these technology
 
-* [Floor markings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_341.md)
-* [Internet-based communication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
-* [Iot](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_277.md)
-* [Physical barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_358.md)
-* [Physical distance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2311.md)
-* [Physical space](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2482.md)
-* [Public awareness and education campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2579.md)
-* [Technology-enabled monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2770.md)
-* [Wearable devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3444.md)
+* [Floor markings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
+* [Internet-based communication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_358.md)
+* [Iot](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_341.md)
+* [Physical barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2579.md)
+* [Physical distance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2482.md)
+* [Physical space](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_277.md)
+* [Public awareness and education campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2770.md)
+* [Technology-enabled monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3444.md)
+* [Wearable devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2311.md)
 

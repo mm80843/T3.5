@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_47 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_47 
 
 # __Digital Twin of COVID-19 Mass Vaccination Centers__
 
@@ -57,8 +57,8 @@ The world has been dealing with a pandemic called COVID-19 since 2020. To fight 
 
 ## This article points to following mitigation
 
-* [Cold chain logistics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3119.md)
-* [Digital twin](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3329.md)
+* [Cold chain logistics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3329.md)
+* [Digital twin](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3119.md)
 * [Industry 4.0 technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4525.md)
 * [Local lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4527.md)
 * [Mass testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4526.md)

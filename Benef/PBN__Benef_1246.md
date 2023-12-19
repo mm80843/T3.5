@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1246 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/pages/docs/Benef/index.md) >> Individual ID:PBN__Benef_1246 
 
 # __Increased inclusivity and accessibility__
 
@@ -25,10 +25,10 @@ Improved access to public space, reduced disparities, enhanced social inclusion
 ## Stakeholders benefitting from this Benefit
 
 * [Children](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_23.md)
-* [Elderly](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_336.md)
-* [Homeless](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_486.md)
-* [Immigrants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_489.md)
-* [Low-income residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_62.md)
+* [Elderly](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_62.md)
+* [Homeless](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_336.md)
+* [Immigrants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_486.md)
+* [Low-income residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_489.md)
 * [Racial minorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_488.md)
 * [Women](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_468.md)
 * [Youth](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_487.md)

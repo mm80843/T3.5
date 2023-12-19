@@ -1,19 +1,19 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_17 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/pages/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_17 
 
 # __Minimized transmission and spread risk while ensuring effective infection control, prevention, and containment measures against diseases like coronavirus.__
 
 ## Items covered in this category
 
-* [Bacterial activity prevention](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_80.md)
+* [Bacterial activity prevention](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_549.md)
 * [Containment of epidemic](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_29.md)
-* [Containment of infection spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_840.md)
-* [Control of infection spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_763.md)
-* [Control of the epidemic](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1123.md)
-* [Conversion to infection and isolation wards](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_594.md)
-* [Disease control](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_576.md)
-* [Disease prevention](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_912.md)
-* [Disease prevention and control](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1174.md)
-* [Disease transmission prevention](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_549.md)
+* [Containment of infection spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_594.md)
+* [Control of infection spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_80.md)
+* [Control of the epidemic](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_840.md)
+* [Conversion to infection and isolation wards](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_763.md)
+* [Disease control](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1123.md)
+* [Disease prevention](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_576.md)
+* [Disease prevention and control](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_912.md)
+* [Disease transmission prevention](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1174.md)
 * [Effective pandemic response](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_959.md)
 * [Effective prevention of disease spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_670.md)
 * [Efficacy against coronavirus](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_173.md)

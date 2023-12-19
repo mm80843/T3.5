@@ -1,12 +1,12 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_240 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_240 
 
 # __Methods for air cleaning and protection of building occupants from airborne pathogens__
 
 ## Benefits listed in this article
 
 * [Air purification](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_192.md)
-* [Dilution of contaminants](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_430.md)
-* [Improved air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_995.md)
+* [Dilution of contaminants](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_995.md)
+* [Improved air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_430.md)
 * [Pathogen inactivation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1165.md)
 * [Reduced risk of infection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1164.md)
 
@@ -39,16 +39,16 @@ People live and work in crowded places where they can be exposed to many germs. 
 ## This article mentions these technologies
 
 * [Displacement ventilation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
-* [High-efficiency filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
-* [Mechanical ventilation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_271.md)
+* [High-efficiency filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_270.md)
+* [Mechanical ventilation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
 * [Natural ventilation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_272.md)
 * [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_273.md)
 * [Personalized ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_274.md)
 
 ## This article points to following mitigation
 
-* [Advanced air distribution](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3354.md)
-* [Desiccant rotor](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_312.md)
+* [Advanced air distribution](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_312.md)
+* [Desiccant rotor](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3354.md)
 * [Dilution](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3304.md)
 * [Essential oils](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3356.md)
 * [Filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3355.md)

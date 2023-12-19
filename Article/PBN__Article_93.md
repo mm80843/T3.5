@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_93 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_93 
 
 # __COVID-19: A new digital dawn?__
 
@@ -41,16 +41,16 @@ During the COVID-19 pandemic, healthcare systems all over the world have had to 
 
 ## This article mentions these technologies
 
-* [Data sharing systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_223.md)
-* [Discussion forums](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_44.md)
-* [Distribution strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_73.md)
-* [Electronic health records](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_117.md)
-* [Ethical guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1427.md)
-* [Financial support programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_136.md)
-* [Flexible scheduling](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1420.md)
-* [Government funding](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_404.md)
-* [Increase ppe production](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_47.md)
-* [Legal frameworks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_621.md)
+* [Data sharing systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_621.md)
+* [Discussion forums](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_47.md)
+* [Distribution strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_404.md)
+* [Electronic health records](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_223.md)
+* [Ethical guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_44.md)
+* [Financial support programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_73.md)
+* [Flexible scheduling](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_117.md)
+* [Government funding](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1427.md)
+* [Increase ppe production](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_136.md)
+* [Legal frameworks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1420.md)
 * [Mental health apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1425.md)
 * [Messaging tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_608.md)
 * [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1424.md)

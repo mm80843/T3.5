@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__aBlueprint_23 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/pages/docs/Blueprint/index.md) >> Individual ID:PBN__aBlueprint_23 
 
 # __Implementing Infrastructure Modifications and Community Engagement Strategies to Counter Contagious Diseases__
 
@@ -29,39 +29,39 @@
 ## 3. Blueprint impacts these stakeholders
 
 * [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
-* [Individuals living in close proximity to neighbours during lockdown](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1059.md)
-* [Individuals living in flats during lockdown](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1056.md)
-* [Individuals staying at home during lockdown](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1055.md)
-* [Patients in aiirs](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1054.md)
+* [Individuals living in close proximity to neighbours during lockdown](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1054.md)
+* [Individuals living in flats during lockdown](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1055.md)
+* [Individuals staying at home during lockdown](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1056.md)
+* [Patients in aiirs](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1059.md)
 
 ## 4. Blueprint links to these mitigations
 
-* [Enhance sound insulation guidelines for buildings and encourage respectful neighbor behavior during lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2482.md)
-* [Implement noise reduction measures such as sound barriers or regulations on construction noise during lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2172.md)
+* [Enhance sound insulation guidelines for buildings and encourage respectful neighbor behavior during lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2187.md)
+* [Implement noise reduction measures such as sound barriers or regulations on construction noise during lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2482.md)
 * [Improve sound insulation in flats and promote respectful neighbor behavior through community engagement during lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2173.md)
 * [Install devices to control sliding doors and prevent unintended door opening in aiirs, especially for patients with mental illness or delirium](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2176.md)
-* [Provide financial support to affected individuals and businesses, maintain access to essential services.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2187.md)
+* [Provide financial support to affected individuals and businesses, maintain access to essential services.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2172.md)
 
 ## 5. Blueprint mitigation can be owned by these stakeholders
 
 * [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
 * [Hospital administration](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_566.md)
-* [Local governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1273.md)
-* [Ministry of commerce](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1279.md)
+* [Local governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1279.md)
+* [Ministry of commerce](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1273.md)
 * [Saudi government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_797.md)
 
 ## 6. Blueprint links to these benefits
 
-* [Energy efficiency improvement](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1020.md)
+* [Energy efficiency improvement](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_707.md)
 * [Flexibility](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1211.md)
-* [Reduced depressive symptoms](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_707.md)
+* [Reduced depressive symptoms](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1020.md)
 
 ## 7. Blueprint links to these technology
 
 * [Government policies and guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
 * [Internet](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2454.md)
 * [Internet connection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2456.md)
-* [Remote working technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2965.md)
-* [Technology devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3395.md)
+* [Remote working technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3395.md)
+* [Technology devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3698.md)
 * [Telecommunication technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_548.md)
 

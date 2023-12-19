@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1158 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1158 
 
 # __Lack of awareness and education__
 
@@ -33,16 +33,16 @@ Lack of awareness and education about contagious diseases and preventive measure
 
 ## Is the risk affecting GBN scales
 
-* [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_0.md)
 
 ## Mitigations of this risk
 
-* [Conducting public health campaigns, providing educational materials and resources, promoting accurate information.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2804.md)
-* [Promote public awareness campaigns, provide accurate information about diseases and preventive measures, invest in health education programs.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1897.md)
-* [Provide clear and concise information about preventive measures, communicate regularly with occupants and visitors.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1614.md)
-* [Provide education and training on contagious diseases, preventive measures, and hygiene practices.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2181.md)
-* [Raise awareness through education campaigns, provide accurate and accessible information](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2105.md)
+* [Conducting public health campaigns, providing educational materials and resources, promoting accurate information.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1897.md)
+* [Promote public awareness campaigns, provide accurate information about diseases and preventive measures, invest in health education programs.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1614.md)
+* [Provide clear and concise information about preventive measures, communicate regularly with occupants and visitors.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2105.md)
+* [Provide education and training on contagious diseases, preventive measures, and hygiene practices.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2804.md)
+* [Raise awareness through education campaigns, provide accurate and accessible information](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2181.md)
 
 ## Name of the risk
 
@@ -52,37 +52,37 @@ Misunderstanding of risks, poor compliance with preventive measures, increased i
 
 * [Especially those with limited access to healthcare and education](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_68.md)
 * [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
-* [Healthcare workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1012.md)
+* [Healthcare workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_118.md)
 * [Inhabitants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_128.md)
-* [Occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_900.md)
-* [Specific at-risk groups](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_696.md)
-* [Visitors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_92.md)
-* [Workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_118.md)
+* [Occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_92.md)
+* [Specific at-risk groups](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1012.md)
+* [Visitors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_900.md)
+* [Workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_696.md)
 
 ## Stakeholders who can mitigate this risk
 
-* [Building facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_0.md)
-* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_222.md)
-* [Communication team](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_121.md)
-* [Educational institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
-* [Employers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
-* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
-* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_180.md)
-* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_422.md)
-* [Health organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
-* [Healthcare providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_75.md)
-* [Local governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_566.md)
-* [Media](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_66.md)
+* [Building facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
+* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
+* [Communication team](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_0.md)
+* [Educational institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_121.md)
+* [Employers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_222.md)
+* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_180.md)
+* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
+* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
+* [Health organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_566.md)
+* [Healthcare providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_66.md)
+* [Local governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_422.md)
+* [Media](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_75.md)
 * [Public health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_231.md)
 * [Public health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_967.md)
 
 ## Technologies linked to the risk
 
-* [Communication channels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_253.md)
+* [Communication channels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_230.md)
 * [Educational campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_493.md)
-* [Educational materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_82.md)
-* [Information and communication technologies icts](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_230.md)
-* [Information brochures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_47.md)
+* [Educational materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_47.md)
+* [Information and communication technologies icts](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_253.md)
+* [Information brochures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_82.md)
 * [Information campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_566.md)
 * [Information pamphlets](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_251.md)
 * [Online educational resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_435.md)
@@ -93,11 +93,11 @@ Misunderstanding of risks, poor compliance with preventive measures, increased i
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_0.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_1.md)
+* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_1.md)
 
 ## Type of the risk
 

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_116 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_116 
 
 # __Environment__
 
@@ -32,8 +32,8 @@
 
 ## This Stakeholder can get these Benefits from mitigation measures
 
-* [Climate recovery](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_522.md)
-* [Environmental benefits](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_246.md)
+* [Climate recovery](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_246.md)
+* [Environmental benefits](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_522.md)
 * [Environmental sustainability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_364.md)
 * [Fecal coliform and pathogen destruction in wastewater](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_200.md)
 * [Increased accessibility and reduced transportation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_933.md)
@@ -44,6 +44,6 @@
 
 ## Type of the stakeholder
 
-* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_0.md)
-* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_0.md)
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_1.md)
 

@@ -1,13 +1,13 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_247 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/pages/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_247 
 
 # __Diverse demographics.__
 
 ## Items covered in this category
 
 * [At-risk populations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
-* [Disadvantaged populations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_994.md)
-* [Elderly population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_547.md)
-* [Especially the younger population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_127.md)
+* [Disadvantaged populations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_127.md)
+* [Elderly population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_994.md)
+* [Especially the younger population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_547.md)
 * [General populace](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2489.md)
 * [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_81.md)
 * [Global population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_515.md)

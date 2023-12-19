@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_283 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_283 
 
 # __COVID-19 misinformation: Accuracy of articles about coronavirus prevention mostly shared on social media__
 
@@ -30,10 +30,10 @@ In this study, researchers looked at articles about preventing the coronavirus t
 
 ## This article mentions these technologies
 
-* [Anti-stigma campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1188.md)
-* [Cultural competence training](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_67.md)
-* [Educational campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_493.md)
-* [Educational materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
+* [Anti-stigma campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
+* [Cultural competence training](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_493.md)
+* [Educational campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1188.md)
+* [Educational materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_67.md)
 * [Fact-checking tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1186.md)
 * [Government websites](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_251.md)
 * [Helplines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_7.md)
@@ -45,8 +45,8 @@ In this study, researchers looked at articles about preventing the coronavirus t
 
 ## This article points to following mitigation
 
-* [General prevention](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4397.md)
-* [Hand washing prevention](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_123.md)
+* [General prevention](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_123.md)
+* [Hand washing prevention](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4397.md)
 * [Isolation prevention](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4396.md)
 * [Mask prevention](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4395.md)
 * [Medication prevention](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4393.md)

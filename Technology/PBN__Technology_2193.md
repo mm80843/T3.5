@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2193 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_2193 
 
 # __Encryption and security algorithms__
 
@@ -21,9 +21,9 @@
 
 ## This Technology belongs to this TechnologySubgroup
 
-* [Data encryption](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_182.md)
-* [Data encryption technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1068.md)
-* [Encryption](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_315.md)
-* [Encryption algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_97.md)
-* [Encryption technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_344.md)
+* [Data encryption](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_344.md)
+* [Data encryption technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_182.md)
+* [Encryption](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1068.md)
+* [Encryption algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_315.md)
+* [Encryption technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_97.md)
 

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_808 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_808 
 
 # __Communication and collaboration tools__
 
@@ -25,8 +25,8 @@
 
 ## This Technology belongs to this TechnologySubgroup
 
-* [Collaboration platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_155.md)
-* [Communication platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_168.md)
+* [Collaboration platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_168.md)
+* [Communication platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_155.md)
 * [Communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_389.md)
 * [Screen recording](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_390.md)
 * [Teleconferencing software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_135.md)

@@ -1,11 +1,11 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_117 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_117 
 
 # __Towards the sustainable development of smart cities through mass video surveillance: A response to the COVID-19 pandemic__
 
 ## Benefits listed in this article
 
-* [Automated generation of non-intrusive alerts](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_581.md)
-* [Real-time detection of social distancing violations](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_582.md)
+* [Automated generation of non-intrusive alerts](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_582.md)
+* [Real-time detection of social distancing violations](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_581.md)
 * [Real-time video data analysis](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_583.md)
 * [Reduction in peak number of cases](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_584.md)
 * [Reduction in total number of cases](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_585.md)
@@ -36,12 +36,12 @@ The COVID-19 pandemic is a global health crisis caused by a virus called coronav
 
 ## This article mentions these technologies
 
-* [Ai algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_165.md)
-* [Anonymization techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_149.md)
-* [Better laboratory equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_608.md)
-* [Data encryption](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_344.md)
-* [Public education programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1380.md)
-* [Sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_200.md)
+* [Ai algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_200.md)
+* [Anonymization techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_344.md)
+* [Better laboratory equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_165.md)
+* [Data encryption](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_149.md)
+* [Public education programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_608.md)
+* [Sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1380.md)
 * [Social media campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1545.md)
 * [Surveillance cameras](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_878.md)
 * [Testing kits](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1544.md)

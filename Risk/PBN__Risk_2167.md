@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_2167 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_2167 
 
 # __Pvp2__
 
@@ -29,7 +29,7 @@ Use of touchless technologies
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Mitigations of this risk
 
@@ -41,28 +41,28 @@ Decrease contact with infected surfaces
 
 ## People affected by this risk
 
-* [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_59.md)
-* [Residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
+* [Residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_59.md)
 
 ## Stakeholders who can mitigate this risk
 
-* [Building management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1101.md)
-* [Facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1483.md)
+* [Building management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1483.md)
+* [Facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1101.md)
 
 ## Technologies linked to the risk
 
-* [Keycard swiping](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1724.md)
-* [Motion sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1721.md)
-* [Pressure sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1722.md)
-* [Touchless household technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1723.md)
+* [Keycard swiping](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1722.md)
+* [Motion sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1723.md)
+* [Pressure sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1724.md)
+* [Touchless household technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1721.md)
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_0.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_6.md)
+* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_6.md)
 
 ## Type of the risk
 

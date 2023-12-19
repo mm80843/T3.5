@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_203 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_203 
 
 # __The impact of the COVID-19 pandemic on the importance of urban green spaces to the public__
 
@@ -55,8 +55,8 @@ During the COVID-19 pandemic, a new form of coronavirus, called SARS-CoV-2, emer
 
 ## This article points to following mitigation
 
-* [Closure of public spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4391.md)
-* [Lockdowns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Closure of public spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Lockdowns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4391.md)
 * [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3531.md)
 * [Teleworking](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3820.md)
 * [Use of outdoor spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4392.md)

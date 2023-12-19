@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_1 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_1 
 
 # __Presence of SARS-Coronavirus-2 RNA in Sewage and Correlation with Reported COVID-19 Prevalence in the Early Stage of the Epidemic in The Netherlands__
 
@@ -38,8 +38,8 @@ In December 2019, a new respiratory disease called COVID-19 began in Wuhan, Chin
 
 ## This article mentions these technologies
 
-* [Cleaning protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_136.md)
-* [Control samples](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_411.md)
+* [Cleaning protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_411.md)
+* [Control samples](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_136.md)
 * [Disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_973.md)
 * [Disinfection protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_434.md)
 * [Increased testing capacity](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1101.md)
@@ -52,9 +52,9 @@ In December 2019, a new respiratory disease called COVID-19 began in Wuhan, Chin
 ## This article points to following mitigation
 
 * [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
-* [Improved ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
-* [Respiratory hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_476.md)
-* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1130.md)
+* [Improved ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1130.md)
+* [Respiratory hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_476.md)
 * [Surface disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4231.md)
 
 ## Title of the article

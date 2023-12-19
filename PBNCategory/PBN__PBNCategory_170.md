@@ -1,15 +1,15 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_170 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/pages/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_170 
 
 # __Advanced audiovisual technology is revolutionizing communication, surveillance, and media dissemination in our society.__
 
 ## Items covered in this category
 
-* [Camera](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2799.md)
-* [Cameras](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2526.md)
-* [Cctv](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2357.md)
-* [Cctv cameras](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1682.md)
-* [Cctv footage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_426.md)
-* [Cnn](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_404.md)
+* [Camera](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_426.md)
+* [Cameras](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_404.md)
+* [Cctv](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2799.md)
+* [Cctv cameras](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2526.md)
+* [Cctv footage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2357.md)
+* [Cnn](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1682.md)
 * [High-quality surgical videos](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2614.md)
 * [Image acquisition & cctv](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1928.md)
 * [Image processing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2452.md)

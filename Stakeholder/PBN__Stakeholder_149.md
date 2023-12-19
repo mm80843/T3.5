@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_149 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_149 
 
 # __Construction industry__
 
@@ -34,10 +34,10 @@
 
 ## This Stakeholder can get these Benefits from mitigation measures
 
-* [Business support](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_659.md)
-* [Contractual stability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_368.md)
-* [Enhanced building performance and comfort](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1011.md)
-* [Faster construction and reduced disruption](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_678.md)
+* [Business support](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_368.md)
+* [Contractual stability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_678.md)
+* [Enhanced building performance and comfort](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_659.md)
+* [Faster construction and reduced disruption](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1011.md)
 * [Improved decision-making](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1009.md)
 * [Improved indoor air quality and health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_302.md)
 * [Improved project management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_295.md)
@@ -47,6 +47,6 @@
 
 ## Type of the stakeholder
 
-* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_0.md)
-* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_0.md)
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_2.md)
 

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1857 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1857 
 
 # __Ai and technology__
 
@@ -21,12 +21,12 @@
 
 ## Stakeholders in this stakeholder subgroup
 
-* [Ai developer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1872.md)
-* [Ai developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1431.md)
-* [App developer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1882.md)
-* [App developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_742.md)
-* [App user](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1960.md)
-* [App users](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_717.md)
+* [Ai developer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_742.md)
+* [Ai developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_717.md)
+* [App developer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1872.md)
+* [App developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1431.md)
+* [App user](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1882.md)
+* [App users](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1960.md)
 * [Device manufacturer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_628.md)
 * [Device manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1137.md)
 * [Energy modeling software developer and research institution](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1138.md)

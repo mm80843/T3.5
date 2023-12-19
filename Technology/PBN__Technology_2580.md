@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2580 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_2580 
 
 # __Hvac system__
 
@@ -21,21 +21,21 @@
 
 ## Link between Blueprint and General ontology
 
-* [Smart HVAC](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_24.md)
+* [Smart HVAC](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_24.md)
 
 ## This Technology enables the following mitigations
 
-* [Adequate ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_476.md)
-* [Balancing of ventilation system](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3735.md)
-* [Control of indoor temperatures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1193.md)
-* [Cooling systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1381.md)
-* [High ventilation rates](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3439.md)
-* [Improve air filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4644.md)
-* [Improved ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3736.md)
-* [Increase outdoor air](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4649.md)
-* [Increased ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4650.md)
-* [Integration of ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3737.md)
-* [Run hvac system longer hours](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4263.md)
+* [Adequate ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4263.md)
+* [Balancing of ventilation system](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_476.md)
+* [Control of indoor temperatures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3735.md)
+* [Cooling systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1193.md)
+* [High ventilation rates](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1381.md)
+* [Improve air filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3439.md)
+* [Improved ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4644.md)
+* [Increase outdoor air](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3736.md)
+* [Increased ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4649.md)
+* [Integration of ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4650.md)
+* [Run hvac system longer hours](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3737.md)
 * [Temperature control](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4652.md)
 
 ## This technology is used in the following general blueprint(s)

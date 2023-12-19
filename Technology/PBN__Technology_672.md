@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_672 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_672 
 
 # __Hepa filters__
 
@@ -21,7 +21,7 @@
 
 ## Link between Blueprint and General ontology
 
-* [HEPA Filters](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_25.md)
+* [HEPA Filters](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_25.md)
 
 ## Risks linked to this technology
 
@@ -44,21 +44,21 @@
 
 ## This Technology enables the following mitigations
 
-* [Efficiency of air filtration systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3648.md)
-* [Enhanced air filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4015.md)
-* [Enhanced ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4857.md)
-* [Filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_224.md)
-* [Filtration systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4179.md)
-* [Hepa filters](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3815.md)
-* [High-efficiency particulate air hepa filters](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5262.md)
-* [Mechanical filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_312.md)
+* [Efficiency of air filtration systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_312.md)
+* [Enhanced air filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3648.md)
+* [Enhanced ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4015.md)
+* [Filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4857.md)
+* [Filtration systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_224.md)
+* [Hepa filters](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4179.md)
+* [High-efficiency particulate air hepa filters](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3815.md)
+* [Mechanical filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5262.md)
 * [Mechanical ventilation and filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4621.md)
 * [Ventilation control](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4340.md)
 * [Ventilation design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3584.md)
 
 ## This is also an enabler
 
-* [HEPA Filters](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_25.md)
+* [HEPA Filters](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_25.md)
 
 ## This technology is mentioned by
 

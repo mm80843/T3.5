@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4142 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4142 
 
 # __Green roofs__
 
@@ -25,8 +25,8 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Layers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3095.md)
-* [Maintenance needs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3096.md)
+* [Layers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3096.md)
+* [Maintenance needs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3095.md)
 * [Substrate](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3097.md)
 * [Vegetation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3098.md)
 

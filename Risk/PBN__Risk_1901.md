@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1901 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1901 
 
 # __Climate change adaptation__
 
@@ -29,7 +29,7 @@ Climate change effects on the water cycle require rethinking water infrastructur
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Mitigations of this risk
 
@@ -41,9 +41,9 @@ Inadequate water infrastructure and management to address climate change impacts
 
 ## People affected by this risk
 
-* [Policy makers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_3.md)
-* [Regulatory authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1293.md)
-* [Water utilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_329.md)
+* [Policy makers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1293.md)
+* [Regulatory authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_329.md)
+* [Water utilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_3.md)
 
 ## Stakeholders who can mitigate this risk
 
@@ -56,11 +56,11 @@ Inadequate water infrastructure and management to address climate change impacts
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Living and working environment](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_1.md)
+* [Living and working environment](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_1.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
+* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_2.md)
 
 ## Type of the risk
 

@@ -1,11 +1,11 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_627 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_627 
 
 # __Ventilation__
 
 ## Benefits linked to a risk
 
-* [Improved asset value](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_29.md)
-* [Reduced infection risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_631.md)
+* [Improved asset value](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_631.md)
+* [Reduced infection risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_29.md)
 
 ## Category to which it belongs
 
@@ -39,12 +39,12 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Adequate airflow](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
-* [Adequate ventilation rate](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_185.md)
-* [Air filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
-* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2584.md)
-* [Air-conditioning system](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1011.md)
-* [Fans](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1109.md)
+* [Adequate airflow](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_185.md)
+* [Adequate ventilation rate](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+* [Air filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
+* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1109.md)
+* [Air-conditioning system](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2584.md)
+* [Fans](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1011.md)
 * [Hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_140.md)
 * [Mechanical ventilation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_271.md)
 * [Mechanical ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3576.md)

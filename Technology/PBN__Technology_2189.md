@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2189 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_2189 
 
 # __Physical barriers and signage__
 
@@ -21,14 +21,14 @@
 
 ## Link between Blueprint and General ontology
 
-* [Digital signage](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_31.md)
+* [Digital signage](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_31.md)
 
 ## This Technology belongs to this TechnologySubgroup
 
-* [Barricades](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_341.md)
-* [Barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_230.md)
-* [Closure signs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_366.md)
-* [Designated zones](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_831.md)
+* [Barricades](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_230.md)
+* [Barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_341.md)
+* [Closure signs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_831.md)
+* [Designated zones](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_366.md)
 * [Physical barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_368.md)
 * [Signage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_367.md)
 

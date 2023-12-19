@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_724 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_724 
 
 # __City officials__
 
@@ -31,32 +31,32 @@
 ## Stakeholders in this stakeholder group
 
 * [City administrator](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
-* [City administrators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_125.md)
-* [City authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1615.md)
-* [City authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_516.md)
-* [City council](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_750.md)
-* [City councils](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1293.md)
-* [City dweller](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_333.md)
-* [City dwellers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_302.md)
-* [City government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_706.md)
-* [City governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1608.md)
-* [City official](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_724.md)
-* [City officials](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1610.md)
-* [City planner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_401.md)
-* [City planners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1629.md)
-* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1598.md)
-* [Government authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1619.md)
-* [Government authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1613.md)
-* [Government official](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1186.md)
-* [Government officials](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_354.md)
-* [Public space](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1628.md)
-* [Public spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_680.md)
-* [Public transport authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1618.md)
-* [Public transport authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_944.md)
-* [Railway authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1068.md)
-* [Railway authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_829.md)
-* [Regulatory agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_770.md)
-* [Regulatory agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1273.md)
+* [City administrators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_401.md)
+* [City authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_125.md)
+* [City authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_302.md)
+* [City council](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1293.md)
+* [City councils](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_354.md)
+* [City dweller](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1273.md)
+* [City dwellers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_706.md)
+* [City government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_333.md)
+* [City governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1615.md)
+* [City official](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_516.md)
+* [City officials](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_750.md)
+* [City planner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1608.md)
+* [City planners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_724.md)
+* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1610.md)
+* [Government authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1629.md)
+* [Government authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1598.md)
+* [Government official](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1619.md)
+* [Government officials](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1613.md)
+* [Public space](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1186.md)
+* [Public spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1628.md)
+* [Public transport authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_680.md)
+* [Public transport authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1618.md)
+* [Railway authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_944.md)
+* [Railway authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1068.md)
+* [Regulatory agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_829.md)
+* [Regulatory agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_770.md)
 * [Regulatory authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1606.md)
 * [Regulatory authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_550.md)
 * [Regulatory bodies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1607.md)
@@ -101,5 +101,5 @@
 
 ## Type of the stakeholder
 
-* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_2.md)
 

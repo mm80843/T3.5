@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_25 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_25 
 
 # __Seeing the invisible hand: Underlying effects of COVID-19 on tourists’ behavioral patterns__
 
@@ -34,11 +34,11 @@ The COVID-19 pandemic has had a major impact on the tourism industry. Many count
 
 ## This article mentions these technologies
 
-* [Customer feedback systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_220.md)
-* [Destination marketing campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_117.md)
-* [Increased use of sanitization and sterilization technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_990.md)
-* [Mental health apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
-* [Online booking platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_47.md)
+* [Customer feedback systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
+* [Destination marketing campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_47.md)
+* [Increased use of sanitization and sterilization technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_220.md)
+* [Mental health apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_117.md)
+* [Online booking platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_990.md)
 * [Online counseling platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_991.md)
 * [Online travel platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_992.md)
 * [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_994.md)
@@ -48,8 +48,8 @@ The COVID-19 pandemic has had a major impact on the tourism industry. Many count
 ## This article points to following mitigation
 
 * [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
-* [Enhanced cleaning and disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_564.md)
-* [Healthcare capacity expansion](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3329.md)
+* [Enhanced cleaning and disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3329.md)
+* [Healthcare capacity expansion](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_564.md)
 * [Increased ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3332.md)
 * [Public education and communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4095.md)
 * [Quarantine measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4094.md)

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_150 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_150 
 
 # __Noise pollution__
 
@@ -31,15 +31,15 @@ Excessive noise levels from indoor and outdoor sources
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Mitigations of this risk
 
-* [Acoustic design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1304.md)
-* [Implement noise reduction measures, regulate noise levels in urban areas, promote soundproofing measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2476.md)
-* [Reduced noise levels](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1565.md)
-* [Sound insulation, use of acoustic materials, noise control measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_185.md)
-* [Soundproofing, noise barriers, acoustic design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2456.md)
+* [Acoustic design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1565.md)
+* [Implement noise reduction measures, regulate noise levels in urban areas, promote soundproofing measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2456.md)
+* [Reduced noise levels](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_185.md)
+* [Sound insulation, use of acoustic materials, noise control measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2476.md)
+* [Soundproofing, noise barriers, acoustic design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1304.md)
 
 ## Name of the risk
 
@@ -50,9 +50,9 @@ Hearing loss, stress, sleep disturbances, reduced focus and concentration
 * [Employees](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
 * [Especially those in noisy environments such as offices](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_220.md)
 * [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_92.md)
-* [Hospitals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1271.md)
-* [Individuals living in noisy areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_64.md)
-* [Nearby residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_366.md)
+* [Hospitals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_366.md)
+* [Individuals living in noisy areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1271.md)
+* [Nearby residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_64.md)
 * [Occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_646.md)
 * [Schools](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1257.md)
 
@@ -74,11 +74,11 @@ Hearing loss, stress, sleep disturbances, reduced focus and concentration
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_0.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_6.md)
+* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_6.md)
 
 ## Type of the risk
 

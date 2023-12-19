@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [aBlueprint](https://github.com/mm80843/T3.5/tree/main/docs/aBlueprint/index.md) >> Individual ID:PBN__aBlueprint_22 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [aBlueprint](https://github.com/mm80843/T3.5/tree/pages/docs/aBlueprint/index.md) >> Individual ID:PBN__aBlueprint_22 
 
 # __Implementing Infectious Disease Control Measures within Sustainable Urban Developments__
 
@@ -29,42 +29,42 @@
 ## 3. Blueprint impacts these stakeholders
 
 * [Communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_68.md)
-* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_121.md)
-* [Healthcare providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
-* [Healthcare workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_31.md)
+* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
+* [Healthcare providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_31.md)
+* [Healthcare workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_121.md)
 * [Patients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_4.md)
 
 ## 4. Blueprint links to these mitigations
 
-* [Increase healthcare capacity, establish additional temporary facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5072.md)
-* [Increase investment in healthcare infrastructure, establish temporary medical facilities during outbreaks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1574.md)
-* [Investing in public healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2717.md)
+* [Increase healthcare capacity, establish additional temporary facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2717.md)
+* [Increase investment in healthcare infrastructure, establish temporary medical facilities during outbreaks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5072.md)
+* [Investing in public healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1574.md)
 * [Strengthening healthcare infrastructure, increasing hospital capacity, and ensuring adequate medical supplies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3247.md)
 * [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2990.md)
 
 ## 5. Blueprint mitigation can be owned by these stakeholders
 
-* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_121.md)
+* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_269.md)
 * [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
 * [Healthcare institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
-* [Healthcare organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_269.md)
+* [Healthcare organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_121.md)
 * [Healthcare providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_216.md)
 
 ## 6. Blueprint links to these benefits
 
-* [Enhanced healthcare delivery](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_35.md)
-* [Improved access to healthcare](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_36.md)
+* [Enhanced healthcare delivery](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_36.md)
+* [Improved access to healthcare](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_35.md)
 * [Improved cybersecurity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_40.md)
 
 ## 7. Blueprint links to these technology
 
-* [Ai](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_278.md)
-* [Data analytics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
-* [Healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_277.md)
-* [Iot](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3.md)
-* [Medical equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1067.md)
-* [Resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_426.md)
-* [Telecommunication technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2456.md)
-* [Telemedicine platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_621.md)
+* [Ai](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
+* [Data analytics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_277.md)
+* [Healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_278.md)
+* [Iot](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1067.md)
+* [Medical equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_108.md)
+* [Resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3.md)
+* [Telecommunication technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_621.md)
+* [Telemedicine platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2456.md)
 * [Video conferencing tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3025.md)
 

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_194 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_194 
 
 # __COVID19: Small and medium enterprises challenges and responses with creativity, innovation, and entrepreneurship__
 
@@ -51,9 +51,9 @@ The COVID-19 pandemic has caused a lot of chaos around the world. To stop the sp
 ## This article points to following mitigation
 
 * [Face masks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
-* [Lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4051.md)
-* [Remote work](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_832.md)
-* [Sanitization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_427.md)
+* [Lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_832.md)
+* [Remote work](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_427.md)
+* [Sanitization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4051.md)
 * [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4935.md)
 * [Testing and tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3699.md)
 

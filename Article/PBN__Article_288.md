@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_288 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_288 
 
 # __2019 Novel Coronavirus (COVID-19) Pandemic: Built Environment Considerations To Reduce Transmission__
 
@@ -54,8 +54,8 @@ There have been several outbreaks of diseases caused by coronaviruses in the pas
 
 ## This article points to following mitigation
 
-* [Chemical deactivation of viral particles on surfaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3583.md)
-* [Increased outside air fraction](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Chemical deactivation of viral particles on surfaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Increased outside air fraction](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3583.md)
 * [Maintaining indoor relative humidity between 40% and 60%](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3588.md)
 * [Mechanical ventilation and filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_862.md)
 * [Opening windows for increased ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3590.md)

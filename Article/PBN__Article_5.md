@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_5 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_5 
 
 # __Building up an ecologically sustainable and socially desirable post-COVID-19 future__
 
@@ -57,14 +57,14 @@ The COVID-19 pandemic has caused a lot of problems for people all over the world
 
 ## This article points to following mitigation
 
-* [Border closures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3615.md)
-* [Carbon pricing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
-* [Deforestation reduction](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3123.md)
-* [Lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3614.md)
-* [Quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3613.md)
-* [Remote work](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3617.md)
-* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_832.md)
-* [Sustainable farming](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_427.md)
+* [Border closures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Carbon pricing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3123.md)
+* [Deforestation reduction](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_832.md)
+* [Lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_427.md)
+* [Quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3615.md)
+* [Remote work](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3614.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3613.md)
+* [Sustainable farming](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3617.md)
 * [Universal healthcare](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3612.md)
 * [Wildlife trade ban](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3616.md)
 

@@ -1,10 +1,10 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_224 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/pages/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_224 
 
 # __Open-air environments.__
 
 ## Items covered in this category
 
-* [Outdoor spaces](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_25.md)
+* [Outdoor spaces](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_25.md)
 
 ## Title of the category
 

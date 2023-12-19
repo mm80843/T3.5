@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1040 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1040 
 
 # __Lack of access to green space__
 
@@ -29,7 +29,7 @@ People living in areas with limited or no access to green space
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Mitigations of this risk
 
@@ -41,9 +41,9 @@ Reduced physical activity, poorer mental health, increased risk of lifestyle dis
 
 ## People affected by this risk
 
-* [Children](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_564.md)
-* [Older people](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_107.md)
-* [People living in densely populated areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_62.md)
+* [Children](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_62.md)
+* [Older people](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_564.md)
+* [People living in densely populated areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_107.md)
 * [People with disabilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_565.md)
 
 ## Stakeholders who can mitigate this risk
@@ -53,16 +53,16 @@ Reduced physical activity, poorer mental health, increased risk of lifestyle dis
 
 ## Technologies linked to the risk
 
-* [Green infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_49.md)
-* [Urban planning strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_48.md)
+* [Green infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_48.md)
+* [Urban planning strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_49.md)
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_4.md)
+* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_4.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_6.md)
+* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_6.md)
 
 ## Type of the risk
 

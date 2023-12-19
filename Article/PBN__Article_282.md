@@ -1,21 +1,21 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_282 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_282 
 
 # __Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings__
 
 ## Benefits listed in this article
 
 * [Buildings](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_169.md)
-* [Disinfection of surfaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_145.md)
-* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1324.md)
-* [In indoor air](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1326.md)
-* [Killing or inhibition of germs](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1331.md)
-* [On contact surfaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1332.md)
-* [Rapid construction of emergency](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1329.md)
-* [Reduction of airborne viruses](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1333.md)
-* [Reduction of contact points](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1325.md)
-* [Reduction of indoor air pollutants](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1330.md)
-* [Reduction of pathogen spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1327.md)
-* [Reduction of pathogens in the air](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_398.md)
+* [Disinfection of surfaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_398.md)
+* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_145.md)
+* [In indoor air](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1324.md)
+* [Killing or inhibition of germs](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1326.md)
+* [On contact surfaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1328.md)
+* [Rapid construction of emergency](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1332.md)
+* [Reduction of airborne viruses](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1329.md)
+* [Reduction of contact points](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1333.md)
+* [Reduction of indoor air pollutants](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1325.md)
+* [Reduction of pathogen spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1330.md)
+* [Reduction of pathogens in the air](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1327.md)
 * [Reduction of virus concentration](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1323.md)
 
 ## DOI of the article
@@ -52,14 +52,14 @@ During the COVID-19 pandemic, buildings have had to make changes to keep people 
 
 ## This article mentions these technologies
 
-* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
-* [Cleaning and disinfection products](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
-* [Hand hygiene protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
-* [Hepa filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_227.md)
-* [Humidity control systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1164.md)
-* [Light pipes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_672.md)
-* [Light shelves](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_140.md)
-* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_141.md)
+* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+* [Cleaning and disinfection products](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
+* [Hand hygiene protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_672.md)
+* [Hepa filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_141.md)
+* [Humidity control systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
+* [Light pipes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_227.md)
+* [Light shelves](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1164.md)
+* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_140.md)
 * [Outdoor air circulation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1165.md)
 * [Skylights](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1166.md)
 * [Ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1163.md)
@@ -67,12 +67,12 @@ During the COVID-19 pandemic, buildings have had to make changes to keep people 
 
 ## This article points to following mitigation
 
-* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1350.md)
-* [Bipolar ionization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1352.md)
-* [Disinfectant fogging systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4338.md)
-* [Indoor plants](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4337.md)
-* [Mechanical filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4339.md)
-* [Modular construction](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3237.md)
+* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3237.md)
+* [Bipolar ionization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1350.md)
+* [Disinfectant fogging systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1352.md)
+* [Indoor plants](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4338.md)
+* [Mechanical filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4337.md)
+* [Modular construction](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4339.md)
 * [Natural ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4340.md)
 * [Roof uv filter glass](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1356.md)
 * [Smart building materials](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4250.md)

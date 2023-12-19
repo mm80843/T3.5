@@ -1,11 +1,11 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_79 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_79 
 
 # __Recently employed engineering techniques to reduce the spread of COVID-19 (corona virus disease 2019): a review study__
 
 ## Benefits listed in this article
 
-* [Contactless identification](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_400.md)
-* [Disinfection of surfaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_398.md)
+* [Contactless identification](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_398.md)
+* [Disinfection of surfaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_400.md)
 * [Fever detection and screening](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_399.md)
 * [Remote patient care and disinfection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_401.md)
 
@@ -31,11 +31,11 @@ There is a type of virus called coronaviruses that can make people sick, and the
 
 ## This article mentions these technologies
 
-* [Ai algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
-* [Automated face recognition systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1447.md)
-* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_149.md)
-* [Drones with thermal cameras](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
-* [Infrared thermal imaging cameras](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
+* [Ai algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
+* [Automated face recognition systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
+* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1447.md)
+* [Drones with thermal cameras](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_149.md)
+* [Infrared thermal imaging cameras](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
 * [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1504.md)
 * [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1502.md)
 * [Remote patient monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1500.md)

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [BP_Enabler](https://github.com/mm80843/T3.5/tree/main/docs/BP_Enabler/index.md) >> Individual ID:PBN__BP_Enabler_32 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [BP_Enabler](https://github.com/mm80843/T3.5/tree/pages/docs/BP_Enabler/index.md) >> Individual ID:PBN__BP_Enabler_32 
 
 # __Disease Diagnostic Test Kits__
 
@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Air Sensors](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_16.md)
-* [Automation](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_12.md)
-* [DigitalPlatform](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_21.md)
-* [HEPA Filters](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_7.md)
-* [Image acquisition & CCTV](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_25.md)
-* [New delivery systems](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_6.md)
-* [Smart HVAC](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_11.md)
-* [Telemedecine](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_1.md)
-* [Water sensors](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_17.md)
-* [Wearables](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_24.md)
+* [Air Sensors](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_16.md)
+* [Automation](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_12.md)
+* [DigitalPlatform](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_21.md)
+* [HEPA Filters](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_7.md)
+* [Image acquisition & CCTV](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_25.md)
+* [New delivery systems](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_6.md)
+* [Smart HVAC](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_11.md)
+* [Telemedecine](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_1.md)
+* [Water sensors](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_17.md)
+* [Wearables](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_24.md)
 
 ## Link between Blueprint and General ontology
 

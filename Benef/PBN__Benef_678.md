@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_678 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/pages/docs/Benef/index.md) >> Individual ID:PBN__Benef_678 
 
 # __Risk mitigation__
 
@@ -38,10 +38,10 @@ Robust contract and claims management minimizes the risk of disputes and legal i
 ## Stakeholders benefitting from this Benefit
 
 * [Banks](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_20.md)
-* [Companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_149.md)
-* [Construction firms](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_282.md)
-* [Construction industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_179.md)
-* [Contractors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_220.md)
+* [Companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_220.md)
+* [Construction firms](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_179.md)
+* [Construction industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_149.md)
+* [Contractors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_282.md)
 * [Employees](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_67.md)
 * [Individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_526.md)
 

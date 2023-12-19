@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2414 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2414 
 
 # __Community groups/organizations__
 
@@ -21,9 +21,9 @@
 
 ## Stakeholders in this stakeholder subgroup
 
-* [Community group](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1312.md)
-* [Community groups](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2438.md)
-* [Community organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2450.md)
-* [Community organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_150.md)
+* [Community group](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_150.md)
+* [Community groups](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1312.md)
+* [Community organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2438.md)
+* [Community organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2450.md)
 * [Local organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1459.md)
 

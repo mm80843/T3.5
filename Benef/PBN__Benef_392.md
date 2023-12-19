@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_392 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/pages/docs/Benef/index.md) >> Individual ID:PBN__Benef_392 
 
 # __Expanded workforce__
 
@@ -24,6 +24,6 @@ Relocating experienced healthcare personnel to AIIRs can improve patient care, a
 
 ## Stakeholders benefitting from this Benefit
 
-* [Healthcare personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_185.md)
-* [Patients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_31.md)
+* [Healthcare personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_31.md)
+* [Patients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_185.md)
 

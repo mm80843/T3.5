@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_86 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_86 
 
 # __Overview of the mitigation strategies for COVID-19 pandemic__
 
@@ -43,8 +43,8 @@ There is a disease called a pandemic that can spread all over the world. In the 
 
 ## This article points to following mitigation
 
-* [Global containment strategy](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3119.md)
-* [Herd immunity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Global containment strategy](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Herd immunity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3119.md)
 * [Mass testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3149.md)
 * [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3150.md)
 

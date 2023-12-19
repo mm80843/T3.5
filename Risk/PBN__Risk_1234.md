@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1234 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1234 
 
 # __Corruption in donation process__
 
@@ -29,7 +29,7 @@ Lack of transparency and accountability in the donation process can lead to corr
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Mitigations of this risk
 
@@ -41,15 +41,15 @@ Misallocation of donations, mistrust, limited aid to those in need
 
 ## People affected by this risk
 
-* [Aid recipients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_453.md)
-* [Charitable organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_753.md)
+* [Aid recipients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_753.md)
+* [Charitable organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_453.md)
 * [Donors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_752.md)
 
 ## Stakeholders who can mitigate this risk
 
 * [Charitable organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
-* [Donors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_453.md)
-* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_753.md)
+* [Donors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_753.md)
+* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_453.md)
 
 ## Technologies linked to the risk
 
@@ -57,11 +57,11 @@ Misallocation of donations, mistrust, limited aid to those in need
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_8.md)
+* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_8.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_4.md)
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_4.md)
 
 ## Type of the risk
 

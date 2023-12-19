@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2134 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_2134 
 
 # __Purification and disinfection__
 
@@ -21,18 +21,18 @@
 
 ## Link between Blueprint and General ontology
 
-* [Biophilic desing](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_30.md)
+* [Biophilic desing](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_30.md)
 
 ## This Technology belongs to this TechnologySubgroup
 
-* [Air filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_203.md)
-* [Air purification systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
-* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1625.md)
-* [Disinfection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1251.md)
-* [Filtration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2267.md)
-* [Negative pressure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_244.md)
-* [Photocatalytic oxidation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_857.md)
-* [Portable air cleaners](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_833.md)
+* [Air filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+* [Air purification systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_833.md)
+* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_203.md)
+* [Disinfection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1625.md)
+* [Filtration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1251.md)
+* [Negative pressure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2267.md)
+* [Photocatalytic oxidation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_244.md)
+* [Portable air cleaners](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_857.md)
 * [Use of air purifiers or ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1750.md)
 * [Uv air purification systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_225.md)
 * [Uv germicidal irradiation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1742.md)

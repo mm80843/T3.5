@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_155 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_155 
 
 # __Real-world data show that filters clean COVID-causing virus from air__
 
@@ -33,13 +33,13 @@ A study at a hospital found that air filters can help remove the virus that caus
 
 ## This article mentions these technologies
 
-* [High-efficiency particulate air hepa filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1690.md)
+* [High-efficiency particulate air hepa filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
 
 ## This article points to following mitigation
 
-* [Isolation facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4934.md)
-* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4933.md)
-* [Portable air filters](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3575.md)
+* [Isolation facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3575.md)
+* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4934.md)
+* [Portable air filters](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4933.md)
 
 ## Title of the article
 

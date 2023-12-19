@@ -1,14 +1,14 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_141 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_141 
 
 # __The impact of COVID-19 outbreak on United Kingdom infrastructure sector__
 
 ## Benefits listed in this article
 
 * [Client satisfaction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_711.md)
-* [Employee safety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_565.md)
-* [Enhanced communication](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_712.md)
-* [Financial stability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_708.md)
-* [Flexibility](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_707.md)
+* [Employee safety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_707.md)
+* [Enhanced communication](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_565.md)
+* [Financial stability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_712.md)
+* [Flexibility](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_708.md)
 * [New staff onboarding](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_714.md)
 * [Regulatory compliance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_716.md)
 * [Skill development](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_709.md)
@@ -47,9 +47,9 @@ The COVID-19 pandemic has had a big impact on the infrastructure sector. Many pe
 
 ## This article mentions these technologies
 
-* [Access control measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_814.md)
-* [Communication and collaboration tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_815.md)
-* [Digital communication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_426.md)
+* [Access control measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_426.md)
+* [Communication and collaboration tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_814.md)
+* [Digital communication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_815.md)
 * [Financial management software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_128.md)
 * [Forecasting tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_809.md)
 * [Online induction platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_327.md)

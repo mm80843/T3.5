@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1865 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1865 
 
 # __Curfew__
 
@@ -29,7 +29,7 @@ Imposition of curfews restricting movement during specific hours of the day.
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Mitigations of this risk
 
@@ -46,8 +46,8 @@ Restriction of movement and economic activities, potential increase in non-compl
 
 ## Stakeholders who can mitigate this risk
 
-* [Law enforcement agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1273.md)
-* [Saudi government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_601.md)
+* [Law enforcement agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_601.md)
+* [Saudi government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1273.md)
 
 ## Technologies linked to the risk
 
@@ -56,11 +56,11 @@ Restriction of movement and economic activities, potential increase in non-compl
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_0.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Safety and security](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_0.md)
+* [Safety and security](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_0.md)
 
 ## Type of the risk
 

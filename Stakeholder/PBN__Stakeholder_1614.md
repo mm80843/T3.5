@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1614 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1614 
 
 # __Government and authorities__
 
@@ -23,11 +23,11 @@
 
 * [Authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
 * [Authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
-* [Federal government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_333.md)
-* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_302.md)
-* [Government agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2356.md)
-* [Government agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_55.md)
-* [Government and busine](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_737.md)
+* [Federal government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_302.md)
+* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_55.md)
+* [Government agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_333.md)
+* [Government agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_737.md)
+* [Government and busine](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2356.md)
 * [Government and business](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_277.md)
 * [Government authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1619.md)
 * [Government authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1613.md)

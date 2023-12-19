@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_4 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/pages/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_4 
 
 # __Managing user flows in building and infrastructure__
 
@@ -21,36 +21,36 @@ Sonae’s Campus (Porto)
 
 ## Enablers of the blueprint
 
-* [5G](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_8.md)
-* [AI/ML](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_5.md)
-* [Automation](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_0.md)
-* [Data Analytics](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_19.md)
-* [IoT](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_2.md)
-* [SmartPhones](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_16.md)
+* [5G](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_8.md)
+* [AI/ML](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_5.md)
+* [Automation](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_0.md)
+* [Data Analytics](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_19.md)
+* [IoT](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_2.md)
+* [SmartPhones](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_16.md)
 
 ## GBN Phase of the blueprint
 
-* [Operational](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Phase_0.md)
+* [Operational](https://github.com/mm80843/T3.5/blob/pages/BP_Phase/PBN__BP_Phase_0.md)
 
 ## Interventions of the blueprint
 
-* [Occupancy control (eg separating at/risk contaminated population)](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_20.md)
-* [Optimize users flows to prevent contamination](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_18.md)
-* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_17.md)
+* [Occupancy control (eg separating at/risk contaminated population)](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_20.md)
+* [Optimize users flows to prevent contamination](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_18.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_17.md)
 
 ## Mode of transmission covered by the blueprint
 
-* [Airborne](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_0.md)
-* [Direct contact](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_1.md)
-* [Respiratory](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_2.md)
+* [Airborne](https://github.com/mm80843/T3.5/blob/pages/BP_Transmission/PBN__BP_Transmission_0.md)
+* [Direct contact](https://github.com/mm80843/T3.5/blob/pages/BP_Transmission/PBN__BP_Transmission_1.md)
+* [Respiratory](https://github.com/mm80843/T3.5/blob/pages/BP_Transmission/PBN__BP_Transmission_2.md)
 
 ## Possible mitigations of the BP
 
-* [Crowd control on public transport](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2470.md)
-* [Implement crowd control measures, promote physical distancing, limit occupancy in congested areas.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2179.md)
-* [Implement crowd control measures, promote social distancing in crowded areas](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2240.md)
-* [Implement measures to control the spread of infectious diseases, such as social distancing, improved hygiene practices, and vaccination programs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4118.md)
-* [Implement public health measures, reduce indoor gatherings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2181.md)
+* [Crowd control on public transport](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2181.md)
+* [Implement crowd control measures, promote physical distancing, limit occupancy in congested areas.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2470.md)
+* [Implement crowd control measures, promote social distancing in crowded areas](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2179.md)
+* [Implement measures to control the spread of infectious diseases, such as social distancing, improved hygiene practices, and vaccination programs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2240.md)
+* [Implement public health measures, reduce indoor gatherings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4118.md)
 * [Implement travel restrictions, quarantine measures, and health screenings for individuals moving between cities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1800.md)
 * [Implementing crowd control measures such as capacity limits, timed entry systems, one-way circulation, and designated waiting areas.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5165.md)
 * [Incorporating disease prevention principles in urban design, improving ventilation and sanitation, promoting active transportation.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2196.md)
@@ -92,7 +92,7 @@ A number of limitations and constraints were identified for this specific measur
 
 ## Scale of the of the blueprint
 
-* [Both](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Scale_1.md)
+* [Both](https://github.com/mm80843/T3.5/blob/pages/BP_Scale/PBN__BP_Scale_1.md)
 
 ## Title of the blueprint
 
@@ -100,11 +100,11 @@ PBN:BP_5
 
 ## Type of deployment of the blueprint
 
-* [Temporary](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Permanent_0.md)
+* [Temporary](https://github.com/mm80843/T3.5/blob/pages/BP_Permanent/PBN__BP_Permanent_0.md)
 
 ## Type of the blueprint
 
-* [Behavioural](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Type_0.md)
+* [Behavioural](https://github.com/mm80843/T3.5/blob/pages/BP_Type/PBN__BP_Type_0.md)
 
 ## Value proposition of the blueprint
 

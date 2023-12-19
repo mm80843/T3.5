@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_476 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_476 
 
 # __Improved ventilation__
 
@@ -37,15 +37,15 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
-* [Hvac system](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_185.md)
-* [Hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
-* [Mechanical ventilation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1011.md)
-* [Mechanical ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2580.md)
-* [Natural ventilation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_140.md)
-* [Open windows](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3124.md)
-* [Ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_271.md)
-* [Windows](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_270.md)
+* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_185.md)
+* [Hvac system](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+* [Hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
+* [Mechanical ventilation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2580.md)
+* [Mechanical ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_270.md)
+* [Natural ventilation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1011.md)
+* [Open windows](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_140.md)
+* [Ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3124.md)
+* [Windows](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_271.md)
 
 ## Property: has_MitigationPrinciple
 

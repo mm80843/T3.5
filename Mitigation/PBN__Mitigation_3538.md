@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3538 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3538 
 
 # __Encouraging proper sanitation and hygiene practices__
 
@@ -25,8 +25,8 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Disinfectant wipes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_671.md)
-* [Hand sanitizer](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2648.md)
+* [Disinfectant wipes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2648.md)
+* [Hand sanitizer](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_671.md)
 
 ## Property: has_MitigationPrinciple
 

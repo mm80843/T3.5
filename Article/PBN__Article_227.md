@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_227 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_227 
 
 # __Contributions of Smart City Solutions and Technologies to Resilience against the COVID-19 Pandemic: A Literature Review__
 
@@ -51,11 +51,11 @@ During the COVID-19 pandemic, smart technologies have been used to help cities r
 ## This article mentions these technologies
 
 * [Blockchain](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_277.md)
-* [Communication platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_73.md)
-* [Data analytics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_219.md)
-* [Encryption technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
-* [Iot](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_94.md)
-* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1067.md)
+* [Communication platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1067.md)
+* [Data analytics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_73.md)
+* [Encryption technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_219.md)
+* [Iot](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
+* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_94.md)
 * [Telehealth platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1540.md)
 * [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_135.md)
 

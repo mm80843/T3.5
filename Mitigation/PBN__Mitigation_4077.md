@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4077 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4077 
 
 # __Urban housing improvement__
 
@@ -21,7 +21,7 @@
 
 ## Link between Blueprint and General ontology
 
-* [Wall and floors treatment](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_14.md)
+* [Wall and floors treatment](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_14.md)
 
 ## Risks possibly mitigated by this Mitigation
 
@@ -29,9 +29,9 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Air conditioning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3048.md)
-* [Housing quality](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3047.md)
-* [Insecticide-treated screens](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3049.md)
+* [Air conditioning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3049.md)
+* [Housing quality](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3048.md)
+* [Insecticide-treated screens](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3047.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_345 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_345 
 
 # __Urban green spaces management during the \textlessspan style="font-variant:small-caps;"\textgreaterCOVID\textless/span\textgreater ‐19 pandemic: Experiences from Kraków, Poland__
 

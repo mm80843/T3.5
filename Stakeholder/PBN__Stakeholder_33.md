@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_33 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_33 
 
 # __Healthcare facilities__
 
@@ -76,13 +76,13 @@
 
 ## This Stakeholder can get these Benefits from mitigation measures
 
-* [Contact tracing and notification](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1271.md)
-* [Contact tracing and proximity detection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_218.md)
-* [Data gathering and analysis](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_680.md)
-* [Data sharing and collaboration](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_37.md)
-* [Early detection and response](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_40.md)
-* [Effective disinfection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_41.md)
-* [Efficacy against coronavirus](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_42.md)
+* [Contact tracing and notification](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_37.md)
+* [Contact tracing and proximity detection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_40.md)
+* [Data gathering and analysis](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_42.md)
+* [Data sharing and collaboration](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_41.md)
+* [Early detection and response](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1271.md)
+* [Effective disinfection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_218.md)
+* [Efficacy against coronavirus](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_680.md)
 * [Efficient screening of population](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1154.md)
 * [Enhanced treatment options](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_101.md)
 * [Expanded 5g coverage and connectivity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_103.md)
@@ -113,7 +113,7 @@
 
 ## Type of the stakeholder
 
-* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_0.md)
-* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
-* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_0.md)
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_2.md)
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_1.md)
 

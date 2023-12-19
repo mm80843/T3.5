@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_181 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_181 
 
 # __Construction companies__
 
@@ -103,10 +103,10 @@
 
 ## This Stakeholder can get these Benefits from mitigation measures
 
-* [Cost savings](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_834.md)
-* [Enhanced supply chain resilience](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_833.md)
-* [Enhanced worker safety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_836.md)
-* [Faster project completion](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_379.md)
+* [Cost savings](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_379.md)
+* [Enhanced supply chain resilience](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_834.md)
+* [Enhanced worker safety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_833.md)
+* [Faster project completion](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_836.md)
 * [Improved financial performance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_781.md)
 * [Improved liquidity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_380.md)
 * [Improved protection against potential issues](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_381.md)
@@ -122,7 +122,7 @@
 
 ## Type of the stakeholder
 
-* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_0.md)
-* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
-* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_0.md)
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_2.md)
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_1.md)
 

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_262 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/pages/docs/Benef/index.md) >> Individual ID:PBN__Benef_262 
 
 # __Reduction in transmission__
 
@@ -40,10 +40,10 @@ Decreases the risk of contracting and spreading the virus
 
 ## Risks which can benefit from this action
 
-* [Case isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_416.md)
-* [Clear urban policy](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1110.md)
-* [Home quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1112.md)
-* [Implementation of public health policies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Case isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Clear urban policy](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_416.md)
+* [Home quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1110.md)
+* [Implementation of public health policies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1112.md)
 * [Implementing public health interventions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_276.md)
 * [Improved building environment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_278.md)
 * [Increased green space](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_277.md)
@@ -57,12 +57,12 @@ Decreases the risk of contracting and spreading the virus
 ## Stakeholders benefitting from this Benefit
 
 * [Building owners and occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
-* [Faculty](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_161.md)
-* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_128.md)
-* [Household members](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_81.md)
-* [Infected individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_101.md)
-* [Passengers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_134.md)
-* [Population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_103.md)
+* [Faculty](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_128.md)
+* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_103.md)
+* [Household members](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_101.md)
+* [Infected individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_161.md)
+* [Passengers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_81.md)
+* [Population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_134.md)
 * [Staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_143.md)
 * [Students](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_102.md)
 * [Teachers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_162.md)

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_91 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_91 
 
 # __A critical review of emerging technologies for tackling COVID ‐19 pandemic__
 
@@ -33,10 +33,10 @@ Emerging technologies like artificial intelligence (AI), blockchain, and the Int
 
 ## This article mentions these technologies
 
-* [Collaborative networks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
-* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
-* [Data encryption technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_108.md)
-* [Data quality assessment tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_152.md)
+* [Collaborative networks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
+* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_108.md)
+* [Data encryption technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_152.md)
+* [Data quality assessment tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
 * [Data sharing platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_182.md)
 * [Data standardization tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1081.md)
 * [Healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1086.md)

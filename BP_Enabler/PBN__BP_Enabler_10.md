@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [BP_Enabler](https://github.com/mm80843/T3.5/tree/main/docs/BP_Enabler/index.md) >> Individual ID:PBN__BP_Enabler_10 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [BP_Enabler](https://github.com/mm80843/T3.5/tree/pages/docs/BP_Enabler/index.md) >> Individual ID:PBN__BP_Enabler_10 
 
 # __GPS__
 
@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [5G](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_19.md)
-* [Augmented / Virtual Reality](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_0.md)
-* [Data Analytics](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_17.md)
-* [IoT](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_2.md)
-* [Robots, Drones & Automated Vehicules](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_11.md)
-* [SmartPhones](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_5.md)
-* [Social Networks](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_23.md)
-* [Telemedecine](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_20.md)
-* [Teleworking](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_22.md)
-* [Wearables](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_13.md)
+* [5G](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_19.md)
+* [Augmented / Virtual Reality](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_0.md)
+* [Data Analytics](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_17.md)
+* [IoT](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_2.md)
+* [Robots, Drones & Automated Vehicules](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_11.md)
+* [SmartPhones](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_5.md)
+* [Social Networks](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_23.md)
+* [Telemedecine](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_20.md)
+* [Teleworking](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_22.md)
+* [Wearables](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_13.md)
 
 ## Technology equivalent to this enabler
 

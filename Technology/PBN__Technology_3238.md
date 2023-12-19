@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3238 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_3238 
 
 # __Facial recognition__
 
@@ -21,7 +21,7 @@
 
 ## Link between Blueprint and General ontology
 
-* [Face and voice recognition](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_28.md)
+* [Face and voice recognition](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_28.md)
 
 ## This Technology enables the following mitigations
 

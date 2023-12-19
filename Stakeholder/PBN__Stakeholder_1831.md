@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1831 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1831 
 
 # __Workers/professionals__
 
@@ -21,9 +21,9 @@
 
 ## Stakeholders in this stakeholder subgroup
 
-* [Client](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1047.md)
-* [Client and healthcare provider in telepsychiatry consultation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2466.md)
-* [Client of telepsychiatry consultation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_297.md)
+* [Client](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_297.md)
+* [Client and healthcare provider in telepsychiatry consultation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1047.md)
+* [Client of telepsychiatry consultation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2466.md)
 * [Clients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_963.md)
 * [Clients and healthcare providers in telepsychiatry consultations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2498.md)
 * [Clients of telepsychiatry consultations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1514.md)

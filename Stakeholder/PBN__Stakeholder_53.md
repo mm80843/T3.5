@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_53 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_53 
 
 # __Society__
 
@@ -49,14 +49,14 @@
 
 ## This Stakeholder can get these Benefits from mitigation measures
 
-* [Accelerated sustainability transitions](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_624.md)
-* [Early detection and containment](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_645.md)
-* [Economic growth and sustainable development](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_522.md)
-* [Enhanced energy infrastructure](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_525.md)
-* [Enhanced public health infrastructure](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_47.md)
-* [Environmental benefits](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_648.md)
-* [Environmental consciousness](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_69.md)
-* [Environmental sustainability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_246.md)
+* [Accelerated sustainability transitions](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_47.md)
+* [Early detection and containment](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_246.md)
+* [Economic growth and sustainable development](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_624.md)
+* [Enhanced energy infrastructure](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_645.md)
+* [Enhanced public health infrastructure](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_522.md)
+* [Environmental benefits](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_525.md)
+* [Environmental consciousness](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_648.md)
+* [Environmental sustainability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_69.md)
 * [Improved continuity of essential services](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_625.md)
 * [Improved crisis response and coordination](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_623.md)
 * [Improved public health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_675.md)
@@ -68,7 +68,7 @@
 
 ## Type of the stakeholder
 
-* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_0.md)
-* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
-* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_0.md)
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_2.md)
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_1.md)
 

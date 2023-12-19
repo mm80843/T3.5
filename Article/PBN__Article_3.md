@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_3 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_3 
 
 # __EXPOSED: An occupant exposure model for confined spaces to retrofit crowd models during a pandemic__
 
@@ -32,10 +32,10 @@ This paper is about a model called EXPOSED that helps us understand how people c
 
 ## This article mentions these technologies
 
-* [Agent-based modeling](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
-* [Data analytics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_717.md)
-* [Data collection tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_756.md)
-* [Digital communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1067.md)
+* [Agent-based modeling](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1067.md)
+* [Data analytics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
+* [Data collection tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_717.md)
+* [Digital communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_756.md)
 * [Microscopic crowd models](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1001.md)
 * [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1464.md)
 * [Simulation tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1463.md)

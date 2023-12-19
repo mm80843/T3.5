@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_204 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_204 
 
 # __An Overview of Biomedical Ontologies for Pandemics and Infectious Diseases Representation__
 
@@ -36,9 +36,9 @@ The text talks about something called ontologies, which are like special vocabul
 
 ## This article mentions these technologies
 
-* [Air purification systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_253.md)
+* [Air purification systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_108.md)
 * [Educational campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_0.md)
-* [Hand hygiene stations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_108.md)
+* [Hand hygiene stations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_253.md)
 * [Improved healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_248.md)
 * [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_206.md)
 * [Information brochures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_249.md)
@@ -54,15 +54,15 @@ The text talks about something called ontologies, which are like special vocabul
 ## This article points to following mitigation
 
 * [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_564.md)
-* [Mask-wearing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3329.md)
-* [Public health education and communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
-* [Quarantine/isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3332.md)
-* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_372.md)
-* [Surface disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3331.md)
-* [Travel restrictions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3333.md)
-* [Vaccination](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3330.md)
-* [Ventilation improvement](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1130.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3329.md)
+* [Mask-wearing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_564.md)
+* [Public health education and communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3332.md)
+* [Quarantine/isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1130.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
+* [Surface disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_372.md)
+* [Travel restrictions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3331.md)
+* [Vaccination](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3333.md)
+* [Ventilation improvement](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3330.md)
 
 ## Title of the article
 

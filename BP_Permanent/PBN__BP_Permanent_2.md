@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [BP_Permanent](https://github.com/mm80843/T3.5/tree/main/docs/BP_Permanent/index.md) >> Individual ID:PBN__BP_Permanent_2 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [BP_Permanent](https://github.com/mm80843/T3.5/tree/pages/docs/BP_Permanent/index.md) >> Individual ID:PBN__BP_Permanent_2 
 
 # __Permanent & temporary__
 

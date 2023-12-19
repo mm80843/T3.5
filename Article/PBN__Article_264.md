@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_264 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_264 
 
 # __Air, Surface Environmental, and Personal Protective Equipment Contamination by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) From a Symptomatic Patient__
 
@@ -32,11 +32,11 @@ People who have a virus called SARS-CoV-2 can spread it to others through the ai
 
 ## This article mentions these technologies
 
-* [Cleaning protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_340.md)
-* [Disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
-* [Disinfection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
-* [Face masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_411.md)
-* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_833.md)
+* [Cleaning protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
+* [Disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_411.md)
+* [Disinfection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_340.md)
+* [Face masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_833.md)
+* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1216.md)
 * [Sanitation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1100.md)
 
 ## This article points to following mitigation

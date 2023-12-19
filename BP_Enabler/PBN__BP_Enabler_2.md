@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [BP_Enabler](https://github.com/mm80843/T3.5/tree/main/docs/BP_Enabler/index.md) >> Individual ID:PBN__BP_Enabler_2 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [BP_Enabler](https://github.com/mm80843/T3.5/tree/pages/docs/BP_Enabler/index.md) >> Individual ID:PBN__BP_Enabler_2 
 
 # __Data Analytics__
 
@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [AI/ML](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_3.md)
-* [Automation](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_20.md)
-* [BigData](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_16.md)
-* [Energy Management](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_9.md)
-* [GPS](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_8.md)
-* [IoT](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_10.md)
-* [Robots](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_5.md)
-* [SmartPhones](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_14.md)
-* [Social Networks](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_29.md)
-* [Visualization](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_19.md)
+* [AI/ML](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_3.md)
+* [Automation](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_20.md)
+* [BigData](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_16.md)
+* [Energy Management](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_9.md)
+* [GPS](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_8.md)
+* [IoT](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_10.md)
+* [Robots](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_5.md)
+* [SmartPhones](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_14.md)
+* [Social Networks](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_29.md)
+* [Visualization](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_19.md)
 
 ## Technology equivalent to this enabler
 

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2104 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2104 
 
 # __Socioeconomic defined individuals__
 
@@ -21,8 +21,8 @@
 
 ## Stakeholders in this stakeholder subgroup
 
-* [Low-income communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_27.md)
-* [Low-income household](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_21.md)
+* [Low-income communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_21.md)
+* [Low-income household](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_27.md)
 * [Low-income individual](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2178.md)
 * [Low-income individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2125.md)
 

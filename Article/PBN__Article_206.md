@@ -1,12 +1,12 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_206 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_206 
 
 # __Indoor Air Quality: Rethinking rules of building design strategies in post-pandemic architecture__
 
 ## Benefits listed in this article
 
-* [Improved iaq](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_993.md)
-* [Improved iaq and air filtration](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_997.md)
-* [Natural ventilation and air distribution](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_995.md)
+* [Improved iaq](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_995.md)
+* [Improved iaq and air filtration](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_993.md)
+* [Natural ventilation and air distribution](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_997.md)
 * [Pathogen inactivation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_996.md)
 * [Reduced airborne transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_994.md)
 
@@ -46,12 +46,12 @@ The article discusses how the design of buildings can help prevent the spread of
 
 ## This article mentions these technologies
 
-* [Air filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
-* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
-* [Airflow](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_904.md)
-* [Building design strategies focused on ventilation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
-* [Electrostatic filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_672.md)
-* [Hepa filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1109.md)
+* [Air filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
+* [Airflow](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_672.md)
+* [Building design strategies focused on ventilation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1109.md)
+* [Electrostatic filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
+* [Hepa filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_904.md)
 * [High-efficiency air filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1112.md)
 * [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1111.md)
 * [Other air cleaning technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1110.md)
@@ -62,19 +62,19 @@ The article discusses how the design of buildings can help prevent the spread of
 
 ## This article points to following mitigation
 
-* [Biofiltration technology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4249.md)
-* [Bipolar ionization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_994.md)
-* [Disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
-* [Filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3123.md)
-* [Improved ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_996.md)
-* [Maintenance and monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_476.md)
-* [Monitoring and sensing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1352.md)
-* [Nanotechnology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4252.md)
-* [Passive design strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3283.md)
-* [Performance-based modeling](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4253.md)
-* [Photocatalytic oxidation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4251.md)
-* [Quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_995.md)
-* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_312.md)
+* [Biofiltration technology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Bipolar ionization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_312.md)
+* [Disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3123.md)
+* [Filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_994.md)
+* [Improved ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4249.md)
+* [Maintenance and monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_996.md)
+* [Monitoring and sensing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_476.md)
+* [Nanotechnology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1352.md)
+* [Passive design strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4252.md)
+* [Performance-based modeling](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3283.md)
+* [Photocatalytic oxidation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4253.md)
+* [Quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4251.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_995.md)
 * [Touchless technology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4250.md)
 * [Uv-based technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1168.md)
 

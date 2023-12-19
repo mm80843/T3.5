@@ -1,11 +1,11 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_123 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_123 
 
 # __Contextualizing the Covid-19 pandemic for a carbon-constrained world: Insights for sustainability transitions, energy justice, and research methodology__
 
 ## Benefits listed in this article
 
-* [Accelerated sustainability transitions](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_624.md)
-* [Energy affordability and security](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_246.md)
+* [Accelerated sustainability transitions](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_246.md)
+* [Energy affordability and security](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_624.md)
 * [Enhanced energy infrastructure](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_623.md)
 * [Job creation and economic recovery](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_621.md)
 * [Reduced energy consumption](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_622.md)
@@ -39,23 +39,23 @@ The Covid-19 pandemic has greatly affected the world. It has caused a lot of sic
 
 ## This article mentions these technologies
 
-* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
-* [Financial incentives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1606.md)
-* [Healthcare capacity planning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_53.md)
-* [Local manufacturing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1601.md)
-* [Policy support](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_28.md)
-* [Rapid testing kits](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1607.md)
-* [Renewable energy development](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1602.md)
+* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1602.md)
+* [Financial incentives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
+* [Healthcare capacity planning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1606.md)
+* [Local manufacturing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_53.md)
+* [Policy support](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1601.md)
+* [Rapid testing kits](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_28.md)
+* [Renewable energy development](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1607.md)
 * [Thermal scanners](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1605.md)
 * [Vaccine development and distribution](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1603.md)
 * [Vaccine distribution](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1604.md)
 
 ## This article points to following mitigation
 
-* [Bans on disconnections](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4833.md)
-* [Creation of funds and other support measures to suppliers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
-* [Deployment of low-carbon technologies and infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3123.md)
-* [Deployment of microgrids](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_564.md)
+* [Bans on disconnections](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Creation of funds and other support measures to suppliers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3123.md)
+* [Deployment of low-carbon technologies and infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_564.md)
+* [Deployment of microgrids](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4833.md)
 * [Development pathways synchronized to the ndcs of the paris accord or the findings of the ipcc](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4832.md)
 * [Direct energy assistance programs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4849.md)
 * [Disconnection bans](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4847.md)

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1683 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1683 
 
 # __Energy__
 
@@ -21,12 +21,12 @@
 
 ## Stakeholders in this stakeholder subgroup
 
-* [Energy assistance program](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1003.md)
-* [Energy assistance programs](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1989.md)
-* [Energy companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1210.md)
-* [Energy company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_744.md)
-* [Energy industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2000.md)
-* [Energy manager](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1526.md)
+* [Energy assistance program](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1526.md)
+* [Energy assistance programs](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1003.md)
+* [Energy companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1989.md)
+* [Energy company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1210.md)
+* [Energy industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_744.md)
+* [Energy manager](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2000.md)
 * [Energy managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1209.md)
 * [Energy modeler](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1581.md)
 * [Energy modelers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1937.md)

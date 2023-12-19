@@ -1,12 +1,12 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_112 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_112 
 
 # __Covid-19 and community mitigation strategies in a pandemic__
 
 ## Benefits listed in this article
 
-* [Decreased transmission risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_232.md)
-* [Delayed outbreaks](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_43.md)
-* [Reduced disease spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_549.md)
+* [Decreased transmission risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_549.md)
+* [Delayed outbreaks](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_232.md)
+* [Reduced disease spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_43.md)
 * [Reduced stress on healthcare system](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_548.md)
 * [Reduced transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_551.md)
 * [Verified information](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_550.md)
@@ -35,12 +35,12 @@ During a pandemic when there are no specific drugs or vaccines available, we nee
 
 ## This article mentions these technologies
 
-* [Communication technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_219.md)
-* [Crowd management technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_544.md)
-* [Cultural sensitivity training](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_547.md)
-* [Data analysis tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_549.md)
-* [Early warning systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_435.md)
-* [Event planning guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_548.md)
+* [Communication technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_544.md)
+* [Crowd management technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_548.md)
+* [Cultural sensitivity training](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_219.md)
+* [Data analysis tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_547.md)
+* [Early warning systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_549.md)
+* [Event planning guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_435.md)
 * [Information campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_31.md)
 * [Remote monitoring devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_552.md)
 * [Remote working technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_551.md)

@@ -1,11 +1,11 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_88 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_88 
 
 # __Effect of Ultraviolet Germicidal Irradiation on Viral Aerosols__
 
 ## Benefits listed in this article
 
-* [Inactivation of infectious microorganisms](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_431.md)
-* [Inactivation of respiratory animal viral aerosols](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_432.md)
+* [Inactivation of infectious microorganisms](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_432.md)
+* [Inactivation of respiratory animal viral aerosols](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_431.md)
 * [Understanding the effect of rh on uv susceptibility of bacterial aerosols](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_433.md)
 * [Understanding the effect of rh on uv susceptibility of pathogenic viral aerosols](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_435.md)
 * [Understanding uv susceptibility of viral aerosols](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_434.md)

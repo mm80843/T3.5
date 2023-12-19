@@ -1,15 +1,15 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_127 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_127 
 
 # __Applications of digital technology in COVID-19 pandemic planning and response__
 
 ## Benefits listed in this article
 
-* [Early detection and response](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_218.md)
-* [Identification of infected individuals and their contacts](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_636.md)
-* [Rapid identification of infected individuals](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_637.md)
-* [Real-time monitoring](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_638.md)
-* [Remote healthcare delivery](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_639.md)
-* [Targeted quarantine and movement control](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_640.md)
+* [Early detection and response](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_640.md)
+* [Identification of infected individuals and their contacts](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_218.md)
+* [Rapid identification of infected individuals](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_636.md)
+* [Real-time monitoring](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_637.md)
+* [Remote healthcare delivery](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_638.md)
+* [Targeted quarantine and movement control](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_639.md)
 
 ## DOI of the article
 

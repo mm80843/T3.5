@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1666 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1666 
 
 # __Inadequate ventilation in indoor spaces__
 
@@ -33,7 +33,7 @@ Poor ventilation in indoor spaces can facilitate the spread of respiratory dropl
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Mitigations of this risk
 
@@ -45,15 +45,15 @@ Higher transmission rates within indoor spaces, potential for superspreader even
 
 ## People affected by this risk
 
-* [Etc](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1103.md)
-* [Hospitals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_64.md)
-* [Occupants of indoor spaces such as offices](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_366.md)
+* [Etc](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_366.md)
+* [Hospitals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1103.md)
+* [Occupants of indoor spaces such as offices](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_64.md)
 * [Schools](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1104.md)
 
 ## Stakeholders who can mitigate this risk
 
-* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
-* [Employers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_180.md)
+* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_180.md)
+* [Employers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
 * [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
 
 ## Technologies linked to the risk
@@ -64,11 +64,11 @@ Higher transmission rates within indoor spaces, potential for superspreader even
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Safety and security](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_5.md)
+* [Safety and security](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_5.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Safety and security](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_0.md)
+* [Safety and security](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_0.md)
 
 ## Type of the risk
 

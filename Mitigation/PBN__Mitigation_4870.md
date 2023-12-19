@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4870 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4870 
 
 # __Airflow direction__
 
@@ -21,8 +21,8 @@
 
 ## Link between Blueprint and General ontology
 
-* [Control airflows in spaces & Avoid air recirculation](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_4.md)
-* [Control of airflows (airtight / negative pressure)](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_7.md)
+* [Control airflows in spaces & Avoid air recirculation](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_4.md)
+* [Control of airflows (airtight / negative pressure)](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_7.md)
 
 ## Risks possibly mitigated by this Mitigation
 

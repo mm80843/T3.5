@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1122 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1122 
 
 # __Inadequate healthcare infrastructure__
 
@@ -30,13 +30,13 @@ Insufficient medical facilities and resources in built environments
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Mitigations of this risk
 
-* [Increase investment in healthcare infrastructure, establish temporary medical facilities during outbreaks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5072.md)
-* [Investing in public healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1574.md)
-* [Strengthening healthcare infrastructure, increasing hospital capacity, and ensuring adequate medical supplies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2717.md)
+* [Increase investment in healthcare infrastructure, establish temporary medical facilities during outbreaks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2717.md)
+* [Investing in public healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5072.md)
+* [Strengthening healthcare infrastructure, increasing hospital capacity, and ensuring adequate medical supplies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1574.md)
 
 ## Name of the risk
 
@@ -44,34 +44,34 @@ Limited access to healthcare services and higher mortality rates
 
 ## People affected by this risk
 
-* [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_121.md)
-* [Communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_31.md)
-* [Healthcare providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_4.md)
-* [Local communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_85.md)
-* [Patients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_31.md)
+* [Communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_121.md)
+* [Healthcare providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
+* [Local communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_4.md)
+* [Patients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_85.md)
 
 ## Stakeholders who can mitigate this risk
 
-* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
-* [Healthcare institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_269.md)
+* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_269.md)
+* [Healthcare institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
 * [Healthcare organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_216.md)
 * [Local government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_307.md)
 
 ## Technologies linked to the risk
 
-* [Healthcare resource optimization tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_73.md)
-* [Mobile healthcare units](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_621.md)
+* [Healthcare resource optimization tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_621.md)
+* [Mobile healthcare units](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_73.md)
 * [Remote patient monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1502.md)
 * [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_209.md)
 * [Telemedicine platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1552.md)
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_0.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_3.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_3.md)
 
 ## Type of the risk
 

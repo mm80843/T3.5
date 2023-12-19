@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_498 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_498 
 
 # __Wearable technology__
 
@@ -31,10 +31,10 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Fitness tracker](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2041.md)
-* [Gps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2579.md)
-* [Machine learning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2398.md)
-* [Sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_200.md)
+* [Fitness tracker](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2579.md)
+* [Gps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2041.md)
+* [Machine learning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_200.md)
+* [Sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2398.md)
 * [Smartwatch](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2551.md)
 * [Wearable device](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2552.md)
 * [Wearable devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2553.md)

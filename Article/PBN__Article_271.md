@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_271 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_271 
 
 # __Covid-19 and asset management in EU: a preliminary assessment of performance and investment styles__
 
@@ -30,8 +30,8 @@ A new virus called Covid-19 has spread around the world and it has had a big imp
 
 ## This article mentions these technologies
 
-* [Advanced laboratory testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1241.md)
-* [Algorithmic trading](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1067.md)
+* [Advanced laboratory testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1067.md)
+* [Algorithmic trading](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1241.md)
 * [Automated treasury management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_835.md)
 * [Credit risk assessment technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1407.md)
 * [Credit scoring algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1410.md)
@@ -45,9 +45,9 @@ A new virus called Covid-19 has spread around the world and it has had a big imp
 
 ## This article points to following mitigation
 
-* [Enhanced cleaning and sanitization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3630.md)
-* [Increased hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
-* [Lockdowns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3123.md)
+* [Enhanced cleaning and sanitization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Increased hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3123.md)
+* [Lockdowns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3630.md)
 * [Movement restrictions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4605.md)
 * [Public health education and awareness](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4604.md)
 * [Quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3820.md)

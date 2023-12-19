@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4507 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4507 
 
 # __Connection to nature__
 
@@ -25,8 +25,8 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Balconies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1846.md)
-* [Biophilic design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1007.md)
+* [Balconies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1007.md)
+* [Biophilic design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1846.md)
 * [Outdoor spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3314.md)
 
 ## Property: has_MitigationPrinciple

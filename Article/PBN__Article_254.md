@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_254 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_254 
 
 # __COVID-19 Lockdown: Housing Built Environment’s Effects on Mental Health__
 
@@ -35,12 +35,12 @@ During the COVID-19 lockdown, people had to stay at home to stay safe from the v
 
 ## This article mentions these technologies
 
-* [Community gardens](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_19.md)
-* [Energy-efficient lighting](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_116.md)
-* [Ergonomic office furniture](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_117.md)
-* [Flexible work policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_124.md)
-* [Green spaces in residential areas](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_49.md)
-* [Landscape architecture](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_47.md)
+* [Community gardens](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_47.md)
+* [Energy-efficient lighting](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_19.md)
+* [Ergonomic office furniture](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_116.md)
+* [Flexible work policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_117.md)
+* [Green spaces in residential areas](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_124.md)
+* [Landscape architecture](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_49.md)
 * [Mental health apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_125.md)
 * [Online support groups](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_123.md)
 * [Online therapy platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_126.md)

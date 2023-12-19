@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_612 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_612 
 
 # __Water quality and availability__
 
@@ -33,11 +33,11 @@ Lack of criteria to ensure safe and accessible water in residential buildings
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Link between Blueprint and General ontology
 
-* [Water quality](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Theme_1.md)
+* [Water quality](https://github.com/mm80843/T3.5/blob/pages/BP_Theme/PBN__BP_Theme_1.md)
 
 ## Mitigations of this risk
 
@@ -50,8 +50,8 @@ Risk of contaminated or insufficient water supply
 
 ## People affected by this risk
 
-* [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_59.md)
-* [Residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
+* [Residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_59.md)
 
 ## Stakeholders who can mitigate this risk
 
@@ -65,11 +65,11 @@ Risk of contaminated or insufficient water supply
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Living together, interdependence and mutuality](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_10.md)
+* [Living together, interdependence and mutuality](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_10.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Attractiveness](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_9.md)
+* [Attractiveness](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_9.md)
 
 ## Type of the risk
 

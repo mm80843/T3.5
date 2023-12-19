@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__aBlueprint_38 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/pages/docs/Blueprint/index.md) >> Individual ID:PBN__aBlueprint_38 
 
 # __Implementing Disease Containment Strategies and Technological Solutions__
 
@@ -30,17 +30,17 @@
 
 * [Clients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_197.md)
 * [Construction workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_220.md)
-* [Employees](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_297.md)
-* [Low-skilled workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_212.md)
-* [Subcontractors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_901.md)
+* [Employees](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_901.md)
+* [Low-skilled workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_297.md)
+* [Subcontractors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_212.md)
 
 ## 4. Blueprint links to these mitigations
 
-* [Address force majeure provisions, revise contracts, establish clear communication channels.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1014.md)
-* [Implement measures to support employment, provide income support, and promote economic recovery.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2664.md)
-* [Industry-specific working procedures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1899.md)
-* [Providing financial support for affected workers, exploring alternative job opportunities, implementing safety protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_833.md)
-* [Workforce reduction](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1790.md)
+* [Address force majeure provisions, revise contracts, establish clear communication channels.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2664.md)
+* [Implement measures to support employment, provide income support, and promote economic recovery.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_833.md)
+* [Industry-specific working procedures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1790.md)
+* [Providing financial support for affected workers, exploring alternative job opportunities, implementing safety protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1899.md)
+* [Workforce reduction](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1014.md)
 
 ## 5. Blueprint mitigation can be owned by these stakeholders
 
@@ -59,12 +59,12 @@
 ## 7. Blueprint links to these technology
 
 * [Artificial intelligence](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
-* [Enhanced regulatory frameworks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_356.md)
-* [Internet](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2454.md)
-* [Monitoring mechanisms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3398.md)
-* [Robotics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3747.md)
-* [Social security payments](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3748.md)
-* [Technology for telecommuting](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3745.md)
-* [Teleconferencing tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3408.md)
-* [Wage subsidies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3744.md)
+* [Enhanced regulatory frameworks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2454.md)
+* [Internet](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3408.md)
+* [Monitoring mechanisms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1171.md)
+* [Robotics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3398.md)
+* [Social security payments](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_356.md)
+* [Technology for telecommuting](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3744.md)
+* [Teleconferencing tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3745.md)
+* [Wage subsidies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3747.md)
 

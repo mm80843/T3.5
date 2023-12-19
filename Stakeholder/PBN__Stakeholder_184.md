@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_184 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_184 
 
 # __Medical personnel__
 
@@ -34,15 +34,15 @@
 
 ## This Stakeholder can get these Benefits from mitigation measures
 
-* [Efficient resource management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_106.md)
-* [Improved access to patients](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1374.md)
-* [Increased capacity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_390.md)
-* [Infection control](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_389.md)
-* [Maintaining pressure differentials](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_391.md)
+* [Efficient resource management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_391.md)
+* [Improved access to patients](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_106.md)
+* [Increased capacity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1374.md)
+* [Infection control](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_390.md)
+* [Maintaining pressure differentials](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_389.md)
 
 ## Type of the stakeholder
 
-* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_0.md)
-* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
-* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_0.md)
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_2.md)
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_1.md)
 

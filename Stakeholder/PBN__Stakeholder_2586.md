@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2586 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2586 
 
 # __Environmental management and research__
 
@@ -21,13 +21,13 @@
 
 ## Stakeholders in this stakeholder subgroup
 
-* [Environmental agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2590.md)
-* [Environmental agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2591.md)
-* [Environmental ecosystem](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2585.md)
-* [Environmental ecosystems](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2582.md)
-* [Environmental engineer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2593.md)
-* [Environmental engineers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_676.md)
-* [Environmental entities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_683.md)
+* [Environmental agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_683.md)
+* [Environmental agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2590.md)
+* [Environmental ecosystem](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2591.md)
+* [Environmental ecosystems](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2585.md)
+* [Environmental engineer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2582.md)
+* [Environmental engineers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2593.md)
+* [Environmental entities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_676.md)
 * [Environmental entity](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_705.md)
 * [Environmental organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2624.md)
 * [Environmental organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2610.md)

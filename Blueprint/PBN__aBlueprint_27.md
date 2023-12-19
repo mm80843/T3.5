@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__aBlueprint_27 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/pages/docs/Blueprint/index.md) >> Individual ID:PBN__aBlueprint_27 
 
 # __Implementing Disease Containment Approaches__
 
@@ -26,25 +26,25 @@
 ## 3. Blueprint impacts these stakeholders
 
 * [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
-* [Employees](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_209.md)
-* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
-* [Students](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_101.md)
-* [Urban residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_220.md)
+* [Employees](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
+* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_220.md)
+* [Students](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_209.md)
+* [Urban residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_101.md)
 
 ## 4. Blueprint links to these mitigations
 
-* [Incorporate outdoor spaces in building design and provide access to communal gardens](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1787.md)
+* [Incorporate outdoor spaces in building design and provide access to communal gardens](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2547.md)
 * [Limit occupancy in buildings, enforce physical distancing measures, stagger work and class schedules.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2019.md)
-* [Limited occupancy](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2547.md)
-* [Limiting occupancy levels, implementing crowd control measures, staggering schedules](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3829.md)
-* [Provide access to public parks and green spaces, encourage the development of outdoor spaces in residential areas.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1522.md)
+* [Limited occupancy](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3829.md)
+* [Limiting occupancy levels, implementing crowd control measures, staggering schedules](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1522.md)
+* [Provide access to public parks and green spaces, encourage the development of outdoor spaces in residential areas.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1787.md)
 
 ## 5. Blueprint mitigation can be owned by these stakeholders
 
-* [Architects](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_125.md)
-* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
-* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_431.md)
-* [Local governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
+* [Architects](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
+* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
+* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_125.md)
+* [Local governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_431.md)
 * [Urban planners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_566.md)
 
 ## 6. Blueprint links to these benefits
@@ -56,12 +56,12 @@
 ## 7. Blueprint links to these technology
 
 * [Barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
-* [Cleaning equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3118.md)
-* [Cleaning staff](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_411.md)
-* [Disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_831.md)
-* [Disinfection products](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_141.md)
-* [Landscaping materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_361.md)
-* [Locks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3686.md)
-* [Park/garden maintenance equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3694.md)
-* [Skylights](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3695.md)
+* [Cleaning equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_411.md)
+* [Cleaning staff](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_141.md)
+* [Disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3118.md)
+* [Disinfection products](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_831.md)
+* [Landscaping materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3695.md)
+* [Locks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3694.md)
+* [Park/garden maintenance equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_361.md)
+* [Skylights](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3302.md)
 

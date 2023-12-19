@@ -1,11 +1,11 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_296 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_296 
 
 # __Wearable devices for the detection of COVID-19__
 
 ## Benefits listed in this article
 
-* [Discovery of unknown correlations and more accurate predictions](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1390.md)
-* [Early detection of asymptomatic and pre-symptomatic cases](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1389.md)
+* [Discovery of unknown correlations and more accurate predictions](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1389.md)
+* [Early detection of asymptomatic and pre-symptomatic cases](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1390.md)
 * [Enhanced functionality and reliability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1391.md)
 * [Improved diagnostic performance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1387.md)
 * [Improved individualized decision-making](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1388.md)

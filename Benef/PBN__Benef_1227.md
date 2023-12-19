@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1227 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/pages/docs/Benef/index.md) >> Individual ID:PBN__Benef_1227 
 
 # __Improved confidentiality and risk management__
 
@@ -24,6 +24,6 @@ Implementation of protocols ensures confidentiality and reduces the risk of brea
 
 ## Stakeholders benefitting from this Benefit
 
-* [Clients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_474.md)
-* [Service providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_297.md)
+* [Clients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_297.md)
+* [Service providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_474.md)
 

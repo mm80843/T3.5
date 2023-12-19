@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1990 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1990 
 
 # __Health risks__
 
@@ -29,7 +29,7 @@ Pandemics, such as COVID-19, pose significant health risks to individuals and co
 
 ## Is the risk affecting GBN scales
 
-* [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_0.md)
 
 ## Mitigations of this risk
 
@@ -51,17 +51,17 @@ Increased morbidity and mortality rates, overwhelmed healthcare systems, and lon
 
 ## Technologies linked to the risk
 
-* [Healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1474.md)
-* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_136.md)
-* [Social distancing technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3.md)
+* [Healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3.md)
+* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1474.md)
+* [Social distancing technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_136.md)
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Impact](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_11.md)
+* [Impact](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_11.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Topic](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_12.md)
+* [Topic](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_12.md)
 
 ## Type of the risk
 

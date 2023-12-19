@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_659 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/pages/docs/Benef/index.md) >> Individual ID:PBN__Benef_659 
 
 # __Improved decision-making__
 
@@ -34,10 +34,10 @@ AI-based tools can assist in decision-making for patient treatment, resource all
 ## Stakeholders benefitting from this Benefit
 
 * [Construction industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_29.md)
-* [Contractors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_126.md)
-* [Decision-makers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_227.md)
-* [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_193.md)
-* [Healthcare systems](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_149.md)
-* [Policymakers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_179.md)
+* [Contractors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_227.md)
+* [Decision-makers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_126.md)
+* [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_179.md)
+* [Healthcare systems](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_193.md)
+* [Policymakers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_149.md)
 * [Water utilities/policy makers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_400.md)
 

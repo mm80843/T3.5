@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_275 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_275 
 
 # __Access and Use of Green Areas during the COVID-19 Pandemic: Green Infrastructure Management in the “New Normal”__
 
@@ -37,8 +37,8 @@ During the COVID-19 pandemic, access to green areas like parks and gardens has c
 
 ## This article mentions these technologies
 
-* [Affordable transportation services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1825.md)
-* [Capacity limits](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_837.md)
+* [Affordable transportation services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_837.md)
+* [Capacity limits](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1825.md)
 * [Educational programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1822.md)
 * [Electronic surveys](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1204.md)
 * [Improved public transportation services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1819.md)
@@ -53,8 +53,8 @@ During the COVID-19 pandemic, access to green areas like parks and gardens has c
 
 ## This article points to following mitigation
 
-* [Chi-square and t-test analysis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5022.md)
-* [Citizen participation in green area management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Chi-square and t-test analysis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Citizen participation in green area management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5022.md)
 * [Collaboration with national and international partners](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5027.md)
 * [Enhancing accessibility for low-income residents](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5026.md)
 * [Flexibility in lockdown measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5018.md)

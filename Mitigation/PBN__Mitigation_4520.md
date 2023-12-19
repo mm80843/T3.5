@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4520 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4520 
 
 # __Water and sanitary system safety__
 
@@ -25,8 +25,8 @@
 
 ## Link between Blueprint and General ontology
 
-* [Managing drinking water safety measures](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_8.md)
-* [Separate water facilities (toilets/bathrooms for contaminated)](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_10.md)
+* [Managing drinking water safety measures](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_8.md)
+* [Separate water facilities (toilets/bathrooms for contaminated)](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_10.md)
 
 ## Risks possibly mitigated by this Mitigation
 

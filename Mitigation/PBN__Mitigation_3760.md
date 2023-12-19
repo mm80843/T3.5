@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3760 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3760 
 
 # __Enhanced cleaning__
 
@@ -21,7 +21,7 @@
 
 ## Link between Blueprint and General ontology
 
-* [Cleaning technologies (robots)](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_12.md)
+* [Cleaning technologies (robots)](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_12.md)
 
 ## Risks possibly mitigated by this Mitigation
 
@@ -33,13 +33,13 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Cleaning equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3118.md)
-* [Cleaning staff](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_148.md)
-* [Cleaning supplies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_411.md)
-* [Cleaning supplies and protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_361.md)
-* [Cleaning tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3119.md)
-* [Disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2817.md)
-* [Disinfection products](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3302.md)
+* [Cleaning equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_411.md)
+* [Cleaning staff](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3118.md)
+* [Cleaning supplies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_361.md)
+* [Cleaning supplies and protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3302.md)
+* [Cleaning tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_148.md)
+* [Disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3119.md)
+* [Disinfection products](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2817.md)
 
 ## Property: has_MitigationPrinciple
 

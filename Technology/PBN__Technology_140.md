@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_140 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_140 
 
 # __Windows__
 
@@ -36,11 +36,11 @@
 
 ## This Technology enables the following mitigations
 
-* [Daylighting](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3238.md)
-* [Improved ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4108.md)
-* [Natural ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_476.md)
-* [Natural ventilation through window openings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_627.md)
-* [Opening presence for air circulation and sun exposure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3237.md)
+* [Daylighting](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3237.md)
+* [Improved ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3238.md)
+* [Natural ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4108.md)
+* [Natural ventilation through window openings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_476.md)
+* [Opening presence for air circulation and sun exposure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_627.md)
 * [Opening windows for increased ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4502.md)
 * [Ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4109.md)
 * [Window views, spatial variety and privacy](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3587.md)

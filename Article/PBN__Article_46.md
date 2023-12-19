@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_46 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_46 
 
 # __A Platform for Citizen Cooperation during the COVID-19 Pandemic in RN, Brazil__
 
@@ -32,13 +32,13 @@ This text is a jumble of letters and symbols that forms a code. It seems to be t
 
 ## This article mentions these technologies
 
-* [Air filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
-* [Air purification systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_488.md)
-* [Build new hospitals](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_493.md)
-* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_203.md)
-* [Contactless interfaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_244.md)
-* [Crowd monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_47.md)
-* [Develop emergency response plans](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_410.md)
+* [Air filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_410.md)
+* [Air purification systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_493.md)
+* [Build new hospitals](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_47.md)
+* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
+* [Contactless interfaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_488.md)
+* [Crowd monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_203.md)
+* [Develop emergency response plans](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_244.md)
 * [Educational materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_489.md)
 * [Equip healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_167.md)
 * [Hand sanitizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_487.md)
@@ -48,9 +48,9 @@ This text is a jumble of letters and symbols that forms a code. It seems to be t
 
 ## This article points to following mitigation
 
-* [Contact tracing and surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3580.md)
+* [Contact tracing and surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3329.md)
 * [Physical distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_564.md)
-* [Proper hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3329.md)
+* [Proper hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3580.md)
 * [Quarantine and isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3579.md)
 * [Regular cleaning and disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3284.md)
 * [Respiratory etiquette](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3581.md)

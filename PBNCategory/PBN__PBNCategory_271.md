@@ -1,25 +1,25 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_271 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/pages/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_271 
 
 # __The populace that inhabits a specific area, including public housing, gated communities, urban areas, and apartment complexes.__
 
 ## Items covered in this category
 
-* [All residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_209.md)
-* [Apartment resident](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_525.md)
-* [Apartment residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_481.md)
-* [Bipoc residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2441.md)
-* [City residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_59.md)
-* [Community resident](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_510.md)
-* [Community residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_467.md)
-* [Future residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_511.md)
-* [Gated and non-gated community residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1271.md)
-* [Gated community resident](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_332.md)
-* [Gated community residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2423.md)
-* [Including residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1043.md)
-* [Indonesian residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_217.md)
-* [Local residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2144.md)
-* [Nearby residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_218.md)
-* [Non-gated community resident](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_356.md)
+* [All residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_59.md)
+* [Apartment resident](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_356.md)
+* [Apartment residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_209.md)
+* [Bipoc residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_525.md)
+* [City residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_481.md)
+* [Community resident](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2441.md)
+* [Community residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_510.md)
+* [Future residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_467.md)
+* [Gated and non-gated community residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_511.md)
+* [Gated community resident](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1271.md)
+* [Gated community residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_332.md)
+* [Including residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2423.md)
+* [Indonesian residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1043.md)
+* [Local residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_217.md)
+* [Nearby residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2144.md)
+* [Non-gated community resident](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_218.md)
 * [Non-gated community residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2402.md)
 * [Other residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_201.md)
 * [Public and social housing residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2443.md)

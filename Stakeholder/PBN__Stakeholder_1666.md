@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1666 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1666 
 
 # __Occupational and workers__
 
@@ -21,9 +21,9 @@
 
 ## Stakeholders in this stakeholder subgroup
 
-* [Employer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1707.md)
+* [Employer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_180.md)
 * [Employer and building manager](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_128.md)
-* [Employer and manager](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_180.md)
+* [Employer and manager](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1707.md)
 * [Employers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_955.md)
 * [Employers and building managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1963.md)
 * [Employers and managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_954.md)

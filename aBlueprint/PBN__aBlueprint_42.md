@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [aBlueprint](https://github.com/mm80843/T3.5/tree/main/docs/aBlueprint/index.md) >> Individual ID:PBN__aBlueprint_42 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [aBlueprint](https://github.com/mm80843/T3.5/tree/pages/docs/aBlueprint/index.md) >> Individual ID:PBN__aBlueprint_42 
 
 # __Implementing Contagious Disease Containment Strategies__
 
@@ -36,18 +36,18 @@
 
 ## 4. Blueprint links to these mitigations
 
-* [Facilitate the availability and use of ppe such as masks, gloves, and hand sanitizers for all individuals in the facility](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3108.md)
-* [Implement efficient lighting systems with timers or sensors, reduce unnecessary lighting, and optimize vital load usage.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2562.md)
+* [Facilitate the availability and use of ppe such as masks, gloves, and hand sanitizers for all individuals in the facility](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2562.md)
+* [Implement efficient lighting systems with timers or sensors, reduce unnecessary lighting, and optimize vital load usage.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2024.md)
 * [Increase production and distribution of personal protective equipment, stockpile reserves for emergencies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1915.md)
 * [Increase production and distribution of ppe, implement reuse and recycling strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2719.md)
-* [Stocking up on ppe supplies, establishing protocols for ppe usage and disposal.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2024.md)
+* [Stocking up on ppe supplies, establishing protocols for ppe usage and disposal.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3108.md)
 
 ## 5. Blueprint mitigation can be owned by these stakeholders
 
 * [Facility management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
 * [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_216.md)
-* [Healthcare organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_653.md)
-* [Manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_34.md)
+* [Healthcare organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_34.md)
+* [Manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_653.md)
 * [Staff trainers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_966.md)
 
 ## 6. Blueprint links to these benefits
@@ -59,12 +59,12 @@
 ## 7. Blueprint links to these technology
 
 * [Attenuated/inactivated virus](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
-* [Education and communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_0.md)
-* [Eye protection gear](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3163.md)
-* [Gloves](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3838.md)
-* [Heat treatment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1461.md)
+* [Education and communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1461.md)
+* [Eye protection gear](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_485.md)
+* [Gloves](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_0.md)
+* [Heat treatment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3838.md)
 * [N95 masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2867.md)
-* [Ppe](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3164.md)
-* [Surveillance systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3112.md)
-* [Video and audio surveillance solutions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3015.md)
+* [Ppe](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3112.md)
+* [Surveillance systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3163.md)
+* [Video and audio surveillance solutions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3164.md)
 

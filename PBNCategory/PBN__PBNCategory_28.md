@@ -1,17 +1,17 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_28 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/pages/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_28 
 
 # __Enhanced mental well-being through alleviating fear, stress, anxiety, and depression, and relieving burden and physical pain.__
 
 ## Items covered in this category
 
-* [Decreased panic and anxiety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_56.md)
-* [Improved stress management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1131.md)
-* [Reduced anxiety and stress](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_891.md)
-* [Reduced burden](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1282.md)
-* [Reduced depressive symptoms](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_172.md)
-* [Reduced musculoskeletal pain](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_222.md)
-* [Reduced stress](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_830.md)
-* [Reduced stress and improved mental health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1211.md)
+* [Decreased panic and anxiety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1211.md)
+* [Improved stress management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_56.md)
+* [Reduced anxiety and stress](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1131.md)
+* [Reduced burden](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_891.md)
+* [Reduced depressive symptoms](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1282.md)
+* [Reduced musculoskeletal pain](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_172.md)
+* [Reduced stress](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_222.md)
+* [Reduced stress and improved mental health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_830.md)
 * [Reduced stress and overwhelm](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_767.md)
 * [Reduced stress and satisfaction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_550.md)
 * [Reduced stress levels](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1129.md)

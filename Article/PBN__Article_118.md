@@ -1,12 +1,12 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_118 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_118 
 
 # __Current knowledge of COVID-19: Advances, challenges and future perspectives__
 
 ## Benefits listed in this article
 
-* [Antiviral targets](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_0.md)
-* [Early detection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_594.md)
-* [Effective treatment](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_595.md)
+* [Antiviral targets](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_594.md)
+* [Early detection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_595.md)
+* [Effective treatment](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_0.md)
 * [Identification](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_586.md)
 * [Infection prevention](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_587.md)
 * [Long-term protection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_588.md)

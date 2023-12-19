@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_273 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_273 
 
 # __Occupant health in buildings: Impact of the COVID-19 pandemic on the opinions of building professionals and implications on research__
 
@@ -36,9 +36,9 @@ The text is about the importance of designing and constructing buildings that su
 
 ## This article mentions these technologies
 
-* [Acoustic panels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
-* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_185.md)
-* [Daylighting systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+* [Acoustic panels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_185.md)
+* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+* [Daylighting systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
 * [Glare control devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_186.md)
 * [Hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_187.md)
 * [Led lighting](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_188.md)

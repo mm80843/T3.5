@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_642 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_642 
 
 # __Spread of sars-cov-2__
 
@@ -30,17 +30,17 @@ Global transmission of novel coronavirus
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Mitigations of this risk
 
 * [Adjusting for wastewater temperature in wbe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_988.md)
-* [Combined use of wbe followed by clinical testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1205.md)
-* [Implementation of quarantine measures, social distancing, and isolation of confirmed cases](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_893.md)
-* [Integration of latrine sampling in wbe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1204.md)
-* [Quarantine and social distancing measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1206.md)
-* [Social distancing, wearing masks, hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1207.md)
-* [Use of wbe for tracking covid-19 prevalence](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1753.md)
+* [Combined use of wbe followed by clinical testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1753.md)
+* [Implementation of quarantine measures, social distancing, and isolation of confirmed cases](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1207.md)
+* [Integration of latrine sampling in wbe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1206.md)
+* [Quarantine and social distancing measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1205.md)
+* [Social distancing, wearing masks, hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_893.md)
+* [Use of wbe for tracking covid-19 prevalence](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1204.md)
 * [Wastewater-based epidemiology wbe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2290.md)
 
 ## Name of the risk
@@ -55,11 +55,11 @@ High number of infections, severe illness, and mortality
 
 ## Stakeholders who can mitigate this risk
 
-* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_394.md)
+* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_269.md)
 * [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_46.md)
 * [Health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
 * [Healthcare institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
-* [Scientists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_269.md)
+* [Scientists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_394.md)
 
 ## Technologies linked to the risk
 
@@ -71,11 +71,11 @@ High number of infections, severe illness, and mortality
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_0.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_3.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_3.md)
 
 ## Type of the risk
 

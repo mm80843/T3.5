@@ -1,10 +1,10 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_245 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_245 
 
 # __Contributions to the mitigation of the COVID-19 pandemic__
 
 ## Benefits listed in this article
 
-* [Early detection of waning efficacy](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_145.md)
+* [Early detection of waning efficacy](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1183.md)
 * [Enhanced surveillance and detection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1184.md)
 * [Reduced risk of reinfection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1186.md)
 * [Tailored protection for symptomatic and asymptomatic patients](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1185.md)

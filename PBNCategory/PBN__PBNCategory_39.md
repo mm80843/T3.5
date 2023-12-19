@@ -1,23 +1,23 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_39 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/pages/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_39 
 
 # __Enhanced cleanliness, safety, and disinfection promote improved hygiene practices and increased access to clean water and sanitation.__
 
 ## Items covered in this category
 
-* [Clean water and sanitation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_328.md)
-* [Effective disinfection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1402.md)
-* [Efficacy of uv light](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_555.md)
-* [Enhanced cleanliness and hygiene](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_101.md)
-* [Enhanced cleanliness and reduced risk of transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_261.md)
-* [Enhanced disinfection in hospitals](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_318.md)
-* [Enhanced hygiene](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_263.md)
-* [Enhanced hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_412.md)
-* [Enhancement of microbial diversity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_344.md)
-* [Fecal coliform and pathogen destruction in wastewater](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_291.md)
-* [Improved access to clean water and sanitation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1285.md)
-* [Improved cleanliness](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_280.md)
-* [Improved hand hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_281.md)
-* [Improved hygiene](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_343.md)
+* [Clean water and sanitation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_281.md)
+* [Effective disinfection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_344.md)
+* [Efficacy of uv light](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_318.md)
+* [Enhanced cleanliness and hygiene](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_343.md)
+* [Enhanced cleanliness and reduced risk of transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_328.md)
+* [Enhanced disinfection in hospitals](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1402.md)
+* [Enhanced hygiene](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_555.md)
+* [Enhanced hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_101.md)
+* [Enhancement of microbial diversity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_261.md)
+* [Fecal coliform and pathogen destruction in wastewater](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_263.md)
+* [Improved access to clean water and sanitation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_412.md)
+* [Improved cleanliness](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_291.md)
+* [Improved hand hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1285.md)
+* [Improved hygiene](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_280.md)
 * [Improved hygiene and cleanliness](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1298.md)
 * [Improved hygiene and safety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1001.md)
 * [Improved hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_467.md)

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1135 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1135 
 
 # __Lack of proper environmental controls__
 
@@ -29,7 +29,7 @@ Inadequate control of environmental factors such as temperature, humidity, and a
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Mitigations of this risk
 
@@ -41,17 +41,17 @@ Increased infectivity retention and faster spread of the virus, leading to a hig
 
 ## People affected by this risk
 
-* [Individuals in indoor environments with poor environmental controls](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_672.md)
-* [Nursing homes](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_675.md)
-* [Schools](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_673.md)
-* [Such as hospitals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_366.md)
+* [Individuals in indoor environments with poor environmental controls](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_366.md)
+* [Nursing homes](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_672.md)
+* [Schools](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_675.md)
+* [Such as hospitals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_673.md)
 * [Workplaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_674.md)
 
 ## Stakeholders who can mitigate this risk
 
-* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_676.md)
-* [Environmental engineers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
-* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
+* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
+* [Environmental engineers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
+* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_676.md)
 * [Individuals responsible for indoor environmental quality](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_677.md)
 
 ## Technologies linked to the risk
@@ -60,11 +60,11 @@ Increased infectivity retention and faster spread of the virus, leading to a hig
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_0.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Safety and security](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_0.md)
+* [Safety and security](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_0.md)
 
 ## Type of the risk
 

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2238 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_2238 
 
 # __Indoor air technologies__
 
@@ -21,31 +21,31 @@
 
 ## Link between Blueprint and General ontology
 
-* [Air Sensors](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_6.md)
+* [Air Sensors](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_6.md)
 
 ## Technology in the TechnologyGroup
 
-* [Adaptive hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
-* [Air filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_203.md)
+* [Adaptive hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_185.md)
+* [Air filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
 * [Air filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1829.md)
-* [Air filtration technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_185.md)
-* [Air purification systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
-* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2238.md)
-* [Air quality monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_308.md)
-* [Air quality monitors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1882.md)
-* [Air quality sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1251.md)
-* [Biophilic design strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2267.md)
-* [Bipolar ionization devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_249.md)
-* [Compact design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1011.md)
-* [Disinfection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_244.md)
-* [Disinfection methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_672.md)
-* [Electrostatic filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_660.md)
-* [Environmental control systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_857.md)
-* [Filtration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1109.md)
-* [Filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1012.md)
-* [Hepa filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1112.md)
-* [High-efficiency air filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2263.md)
-* [High-efficiency particulate air filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_833.md)
+* [Air filtration technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
+* [Air purification systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_672.md)
+* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1109.md)
+* [Air quality monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_833.md)
+* [Air quality monitors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_203.md)
+* [Air quality sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2238.md)
+* [Biophilic design strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_308.md)
+* [Bipolar ionization devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1882.md)
+* [Compact design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1251.md)
+* [Disinfection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2267.md)
+* [Disinfection methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_249.md)
+* [Electrostatic filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1011.md)
+* [Environmental control systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_244.md)
+* [Filtration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_660.md)
+* [Filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_857.md)
+* [Hepa filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1012.md)
+* [High-efficiency air filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1112.md)
+* [High-efficiency particulate air filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2263.md)
 * [Humidifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1908.md)
 * [Humidity control systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1371.md)
 * [Hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1372.md)

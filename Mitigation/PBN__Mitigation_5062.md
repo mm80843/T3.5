@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_5062 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_5062 
 
 # __Industry 4.0__
 
@@ -24,8 +24,8 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Additive manufacturing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_94.md)
-* [Artificial intelligence](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_356.md)
+* [Additive manufacturing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_356.md)
+* [Artificial intelligence](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_94.md)
 * [Blockchain](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1230.md)
 * [Cloud computing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2317.md)
 * [Internet of things](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2010.md)

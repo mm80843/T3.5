@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_147 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_147 
 
 # __Pandemic stricken cities on lockdown. Where are our planning and design professionals [now, then and into the future]?__
 
@@ -36,12 +36,12 @@ The coronavirus (COVID-19) has spread all over the world and has caused a lot of
 
 ## This article mentions these technologies
 
-* [Alternative transportation methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_113.md)
-* [Counseling services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_24.md)
-* [Data integration platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_110.md)
-* [Enforcement of regulations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_111.md)
-* [Increased healthcare funding](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
-* [Medical equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_108.md)
+* [Alternative transportation methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
+* [Counseling services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_108.md)
+* [Data integration platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_113.md)
+* [Enforcement of regulations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_24.md)
+* [Increased healthcare funding](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_110.md)
+* [Medical equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_111.md)
 * [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_112.md)
 * [Public education campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_109.md)
 * [Standardized protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_114.md)

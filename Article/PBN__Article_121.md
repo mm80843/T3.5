@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_121 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_121 
 
 # __How can airborne transmission of COVID-19 indoors be minimised?__
 
@@ -50,22 +50,22 @@ Ventilation is really important in buildings and hospitals because it helps to r
 
 ## This article mentions these technologies
 
-* [Air cleaning devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
-* [Filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
-* [Germicidal ultraviolet](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1141.md)
-* [Natural ventilation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1140.md)
-* [Uv disinfection systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_270.md)
+* [Air cleaning devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
+* [Filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
+* [Germicidal ultraviolet](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_270.md)
+* [Natural ventilation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_192.md)
+* [Uv disinfection systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1140.md)
 * [Ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1142.md)
 
 ## This article points to following mitigation
 
-* [Air cleaning devices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_607.md)
-* [Avoid air recirculation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4297.md)
-* [Enhanced ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4296.md)
-* [Increase outdoor air flow](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_608.md)
-* [Increase ventilation rates](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1077.md)
-* [Minimize number of people](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4295.md)
-* [Natural ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3237.md)
+* [Air cleaning devices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3237.md)
+* [Avoid air recirculation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_607.md)
+* [Enhanced ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4297.md)
+* [Increase outdoor air flow](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4296.md)
+* [Increase ventilation rates](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_608.md)
+* [Minimize number of people](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1077.md)
+* [Natural ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4295.md)
 * [Negative pressure isolation ward](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4299.md)
 * [Portable air cleaners](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4298.md)
 * [Ventilation distribution](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4300.md)

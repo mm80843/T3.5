@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_200 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_200 
 
 # __Sensors__
 
@@ -21,8 +21,8 @@
 
 ## Link between Blueprint and General ontology
 
-* [Air Sensors](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_6.md)
-* [Water sensors](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_7.md)
+* [Air Sensors](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_6.md)
+* [Water sensors](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_7.md)
 
 ## Risks linked to this technology
 

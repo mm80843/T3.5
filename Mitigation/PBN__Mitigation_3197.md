@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3197 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3197 
 
 # __Improved water storage and sanitation__
 
@@ -21,9 +21,9 @@
 
 ## Link between Blueprint and General ontology
 
-* [Greywater management](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_9.md)
-* [Maintenance / decontamination of building water sytems](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_10.md)
-* [Separate water facilities (toilets/bathrooms for contaminated)](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_11.md)
+* [Greywater management](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_9.md)
+* [Maintenance / decontamination of building water sytems](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_10.md)
+* [Separate water facilities (toilets/bathrooms for contaminated)](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_11.md)
 
 ## Risks possibly mitigated by this Mitigation
 

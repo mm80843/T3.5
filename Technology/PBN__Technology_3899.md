@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3899 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_3899 
 
 # __Robots, drones & automated vehicules__
 
@@ -21,9 +21,9 @@
 
 ## Link between Blueprint and General ontology
 
-* [Robots, Drones & Automated Vehicules](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_13.md)
+* [Robots, Drones & Automated Vehicules](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_13.md)
 
 ## This is also an enabler
 
-* [Robots, Drones & Automated Vehicules](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_13.md)
+* [Robots, Drones & Automated Vehicules](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_13.md)
 

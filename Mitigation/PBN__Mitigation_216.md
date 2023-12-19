@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_216 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_216 
 
 # __Self-cleaning spaces__
 
@@ -26,7 +26,7 @@
 
 ## Link between Blueprint and General ontology
 
-* [Cleaning technologies (robots)](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_12.md)
+* [Cleaning technologies (robots)](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_12.md)
 
 ## Risks possibly mitigated by this Mitigation
 
@@ -37,12 +37,12 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Cleaning frequency](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2451.md)
-* [Control systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3604.md)
-* [Spraying-down disinfection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3605.md)
-* [Surface classification](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3606.md)
-* [Uv light](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2360.md)
-* [Waste management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3640.md)
+* [Cleaning frequency](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2360.md)
+* [Control systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2451.md)
+* [Spraying-down disinfection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3640.md)
+* [Surface classification](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3604.md)
+* [Uv light](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3605.md)
+* [Waste management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3606.md)
 
 ## Property: has_MitigationPrinciple
 

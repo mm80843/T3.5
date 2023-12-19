@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3531 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3531 
 
 # __Teleworking__
 
@@ -26,8 +26,8 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Communication technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_544.md)
-* [Digital devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2454.md)
+* [Communication technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2454.md)
+* [Digital devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_544.md)
 * [Internet](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2456.md)
 * [Internet access](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1209.md)
 * [Telecommunication technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_571.md)

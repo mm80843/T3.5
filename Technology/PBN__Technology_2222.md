@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2222 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_2222 
 
 # __Waste management systems__
 
@@ -25,9 +25,9 @@
 
 ## This Technology enables the following mitigations
 
-* [Disinfection of household waste](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3774.md)
-* [Improved waste disposal](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5055.md)
-* [Improved waste management strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_237.md)
+* [Disinfection of household waste](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_237.md)
+* [Improved waste disposal](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3774.md)
+* [Improved waste management strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5055.md)
 * [Segregation of medical waste](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5045.md)
 
 ## This technology is used in the following general blueprint(s)

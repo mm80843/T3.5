@@ -1,12 +1,12 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_284 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_284 
 
 # __COVID-19 Pandemic: Prevention and Protection Measures to Be Adopted at the Workplace__
 
 ## Benefits listed in this article
 
-* [Protection of individuals](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1336.md)
+* [Protection of individuals](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1337.md)
 * [Reduction of transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_678.md)
-* [Risk mitigation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1337.md)
+* [Risk mitigation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1336.md)
 
 ## DOI of the article
 
@@ -36,23 +36,23 @@ Coronaviruses are a type of respiratory virus that can make people sick. There a
 
 ## This article mentions these technologies
 
-* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_340.md)
-* [Disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
-* [Face masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
-* [Hand sanitizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_249.md)
-* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_409.md)
-* [Physical distancing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_410.md)
+* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
+* [Disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+* [Face masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_410.md)
+* [Hand sanitizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_411.md)
+* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_340.md)
+* [Physical distancing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_409.md)
 
 ## This article points to following mitigation
 
 * [Air filtration and ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
-* [Enhanced cleaning and sanitization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3519.md)
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
-* [Isolation rooms](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_832.md)
-* [Limited visitor access](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3515.md)
-* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3516.md)
-* [Quarantine measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3518.md)
-* [Remote work](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_415.md)
+* [Enhanced cleaning and sanitization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_415.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_832.md)
+* [Isolation rooms](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3519.md)
+* [Limited visitor access](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
+* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3515.md)
+* [Quarantine measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3516.md)
+* [Remote work](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3518.md)
 * [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3514.md)
 * [Temperature screening](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3517.md)
 

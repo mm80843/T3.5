@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_279 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_279 
 
 # __How our homes impact our health: using a COVID-19 informed approach to examine urban apartment housing__
 
@@ -55,8 +55,8 @@ In this article, the authors discuss how the design of high-rise apartment build
 
 ## This article points to following mitigation
 
-* [Appropriate unit sizes and layouts that support physical distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4507.md)
-* [Circadian regulation: bedrooms designed for sleep](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4506.md)
+* [Appropriate unit sizes and layouts that support physical distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4506.md)
+* [Circadian regulation: bedrooms designed for sleep](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4507.md)
 * [Connection to nature](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4508.md)
 * [Designing variety in visual and thermal comfort](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4503.md)
 * [Natural ventilation and thermal comfort at home](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4505.md)

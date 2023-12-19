@@ -1,21 +1,21 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_22 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/pages/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_22 
 
 # __Enhanced safeguarding of personal information, privacy, rights, and security with inclusive access to reliable and secure data.__
 
 ## Items covered in this category
 
 * [Access to updated and comprehensive mitigation information](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_39.md)
-* [Avoidance of strict lockdown measures](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_515.md)
-* [Balancing privacy with value of data analytics](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_71.md)
-* [Confidentiality of personal health information](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1198.md)
-* [Data protection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_70.md)
-* [Data security and privacy](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_128.md)
-* [Enhanced data privacy and autonomy](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1088.md)
-* [Enhanced privacy protection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1090.md)
-* [Ensured privacy and data protection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1109.md)
-* [Future-proofing and versatility](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1136.md)
-* [Improved confidentiality and risk management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_539.md)
-* [Improved pseudonymization process](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1337.md)
+* [Avoidance of strict lockdown measures](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1337.md)
+* [Balancing privacy with value of data analytics](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_515.md)
+* [Confidentiality of personal health information](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_71.md)
+* [Data protection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1198.md)
+* [Data security and privacy](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_70.md)
+* [Enhanced data privacy and autonomy](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_128.md)
+* [Enhanced privacy protection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1088.md)
+* [Ensured privacy and data protection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1090.md)
+* [Future-proofing and versatility](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1109.md)
+* [Improved confidentiality and risk management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1136.md)
+* [Improved pseudonymization process](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_539.md)
 * [Increased acceptability of evidence](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_506.md)
 * [Increased safety and confidence in using shared mobility](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_220.md)
 * [Protection of civil rights](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1300.md)

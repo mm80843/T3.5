@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_5070 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_5070 
 
 # __Rethinking global trade and supply chains__
 
@@ -25,8 +25,8 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [3d printing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3742.md)
-* [Diversification](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3743.md)
+* [3d printing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3743.md)
+* [Diversification](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3742.md)
 * [Localization](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_133.md)
 
 ## This mitigation is used in the following general blueprint(s)

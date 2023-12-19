@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_13 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/pages/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_13 
 
 # __Building adaptation for flexible use__
 
@@ -20,28 +20,28 @@ The biggest challenge with this solution is its implementation. How is a buildin
 
 ## Enablers of the blueprint
 
-* [5G](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_5.md)
-* [Automation](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_0.md)
-* [BigData](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_27.md)
-* [Design & Construction software (BIM)](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_9.md)
-* [IoT](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_21.md)
-* [New delivery systems](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_16.md)
+* [5G](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_5.md)
+* [Automation](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_0.md)
+* [BigData](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_27.md)
+* [Design & Construction software (BIM)](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_9.md)
+* [IoT](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_21.md)
+* [New delivery systems](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_16.md)
 
 ## GBN Phase of the blueprint
 
-* [Design](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Phase_1.md)
-* [Dismantling](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Phase_3.md)
+* [Design](https://github.com/mm80843/T3.5/blob/pages/BP_Phase/PBN__BP_Phase_1.md)
+* [Dismantling](https://github.com/mm80843/T3.5/blob/pages/BP_Phase/PBN__BP_Phase_3.md)
 
 ## Interventions of the blueprint
 
-* [Introduce "multi-use" / modular designs](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_20.md)
-* [Minimize supply chain disruptions](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_32.md)
-* [Selection of materials](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_15.md)
-* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_28.md)
+* [Introduce "multi-use" / modular designs](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_20.md)
+* [Minimize supply chain disruptions](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_32.md)
+* [Selection of materials](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_15.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_28.md)
 
 ## Mode of transmission covered by the blueprint
 
-* [All](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_4.md)
+* [All](https://github.com/mm80843/T3.5/blob/pages/BP_Transmission/PBN__BP_Transmission_4.md)
 
 ## Possible mitigations of the BP
 
@@ -83,7 +83,7 @@ The limitations and restrictions of this solution also stem from its innovative 
 
 ## Scale of the of the blueprint
 
-* [Building](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Scale_0.md)
+* [Building](https://github.com/mm80843/T3.5/blob/pages/BP_Scale/PBN__BP_Scale_0.md)
 
 ## Title of the blueprint
 
@@ -91,11 +91,11 @@ PBN:BP_14
 
 ## Type of deployment of the blueprint
 
-* [Only to used when needed](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Permanent_3.md)
+* [Only to used when needed](https://github.com/mm80843/T3.5/blob/pages/BP_Permanent/PBN__BP_Permanent_3.md)
 
 ## Type of the blueprint
 
-* [Technical](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Type_1.md)
+* [Technical](https://github.com/mm80843/T3.5/blob/pages/BP_Type/PBN__BP_Type_1.md)
 
 ## Value proposition of the blueprint
 

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_1230 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_1230 
 
 # __Cloud computing__
 
@@ -37,8 +37,8 @@
 
 ## This Technology enables the following mitigations
 
-* [Cloud computing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3254.md)
-* [Cloud-based solution](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3247.md)
+* [Cloud computing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3247.md)
+* [Cloud-based solution](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3254.md)
 * [Cloud-based tracing and tracking](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3876.md)
 * [Industry 4.0](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1101.md)
 * [Integrated healthcare environment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3435.md)

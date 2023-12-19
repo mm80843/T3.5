@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_2579 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_2579 
 
 # __Surface contamination__
 
@@ -21,8 +21,8 @@
 
 ## Mitigations of this risk
 
-* [Enhanced cleaning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3579.md)
-* [Enhanced cleaning protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1130.md)
+* [Enhanced cleaning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1130.md)
+* [Enhanced cleaning protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3579.md)
 * [Regular cleaning and disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3819.md)
 * [Sanitization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3699.md)
 * [Surface disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3760.md)

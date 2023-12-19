@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_748 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_748 
 
 # __Vulnerable individuals__
 
@@ -34,9 +34,9 @@
 
 ## Stakeholders in this stakeholder subgroup
 
-* [High-risk groups](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_547.md)
+* [High-risk groups](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_127.md)
 * [Socially and economically disadvantaged group](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_748.md)
-* [Socially and economically disadvantaged groups](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_127.md)
+* [Socially and economically disadvantaged groups](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_547.md)
 * [Socially disadvantaged group](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2130.md)
 * [Socially disadvantaged groups](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_28.md)
 * [Vulnerable communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2155.md)
@@ -64,5 +64,5 @@
 
 ## Type of the stakeholder
 
-* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_1.md)
 

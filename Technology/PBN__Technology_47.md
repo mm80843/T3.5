@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_47 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_47 
 
 # __Social media platforms__
 
@@ -45,16 +45,16 @@
 
 ## This Technology enables the following mitigations
 
-* [Creation of online content for psychological support](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4406.md)
-* [Effective communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3934.md)
-* [Government activity on social media](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4955.md)
-* [Increased emphasis on hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3946.md)
-* [Increased knowledge translation on social media](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3948.md)
-* [Increased sharing of recovery stories and information](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3936.md)
-* [Increased sharing of scientific data by healthcare professionals](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4607.md)
-* [Integrated and well-planned communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3947.md)
-* [Posting caps with real data related to covid-19](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3937.md)
-* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3389.md)
+* [Creation of online content for psychological support](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3389.md)
+* [Effective communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4406.md)
+* [Government activity on social media](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3934.md)
+* [Increased emphasis on hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4955.md)
+* [Increased knowledge translation on social media](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3946.md)
+* [Increased sharing of recovery stories and information](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3948.md)
+* [Increased sharing of scientific data by healthcare professionals](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3936.md)
+* [Integrated and well-planned communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4607.md)
+* [Posting caps with real data related to covid-19](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3947.md)
+* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3937.md)
 * [Public health education through social media](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3944.md)
 * [Social media](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3943.md)
 * [Transparent communication and prevention of fake news](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3950.md)

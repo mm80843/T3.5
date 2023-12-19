@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_153 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_153 
 
 # __COVID-19 media fatigue: predictors of decreasing interest and avoidance of COVID-19–related news__
 
@@ -36,10 +36,10 @@ The COVID-19 pandemic is a global health crisis that started in China and has sp
 ## This article points to following mitigation
 
 * [Content analysis of news](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
-* [Effective communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3391.md)
-* [Information source selection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3306.md)
-* [Media content regulation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3390.md)
-* [Optimizing communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3389.md)
+* [Effective communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3389.md)
+* [Information source selection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3391.md)
+* [Media content regulation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3306.md)
+* [Optimizing communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3390.md)
 * [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3393.md)
 * [Wearing masks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3392.md)
 

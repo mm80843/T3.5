@@ -1,14 +1,14 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_214 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_214 
 
 # __Adaptation of HVAC Systems to Reduce the Spread of COVID-19 in Buildings__
 
 ## Benefits listed in this article
 
-* [Emissions reduction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1020.md)
-* [Energy efficiency improvement](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1023.md)
-* [Reduction of airborne pathogens](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1021.md)
-* [Reduction of pathogen transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1019.md)
-* [System longevity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1022.md)
+* [Emissions reduction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1022.md)
+* [Energy efficiency improvement](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1020.md)
+* [Reduction of airborne pathogens](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1023.md)
+* [Reduction of pathogen transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1021.md)
+* [System longevity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1019.md)
 
 ## DOI of the article
 
@@ -38,17 +38,17 @@ Summary: By installing germicidal sources in ventilation ducts, we can disinfect
 ## This article mentions these technologies
 
 * [Air filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
-* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_136.md)
-* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
-* [Safety barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1109.md)
+* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1109.md)
+* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_136.md)
+* [Safety barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
 * [Uv germicidal irradiation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1877.md)
 * [Ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1878.md)
 
 ## This article points to following mitigation
 
-* [Clean and functional hvac systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_627.md)
-* [Forced ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5101.md)
-* [Mechanical filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3237.md)
+* [Clean and functional hvac systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3237.md)
+* [Forced ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_627.md)
+* [Mechanical filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5101.md)
 * [Natural ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4340.md)
 * [Optimization of fresh air supply](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4345.md)
 * [Shut off air circulation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5099.md)

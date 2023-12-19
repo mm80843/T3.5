@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4888 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4888 
 
 # __Ppe usage__
 
@@ -26,8 +26,8 @@
 ## This Mitigation is enabled by the following technologies
 
 * [Face shields](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1051.md)
-* [Masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_483.md)
-* [Respirators](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_484.md)
+* [Masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_484.md)
+* [Respirators](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_483.md)
 
 ## Property: has_MitigationPrinciple
 

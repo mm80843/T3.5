@@ -1,15 +1,15 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_137 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_137 
 
 # __Learning from pandemics: Applying resilience thinking to identify priorities for planning urban settlements__
 
 ## Benefits listed in this article
 
-* [Biodiversity as disease reservoir](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_699.md)
-* [Lower vulnerability to disease](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_694.md)
-* [Reducing environmental contamination](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_697.md)
-* [Reducing zoonotic disease transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_696.md)
-* [Redundancy in supply chains](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_695.md)
-* [Social cohesion and network formation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_698.md)
+* [Biodiversity as disease reservoir](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_698.md)
+* [Lower vulnerability to disease](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_699.md)
+* [Reducing environmental contamination](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_694.md)
+* [Reducing zoonotic disease transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_697.md)
+* [Redundancy in supply chains](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_696.md)
+* [Social cohesion and network formation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_695.md)
 
 ## DOI of the article
 

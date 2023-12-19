@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_210 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/pages/docs/Benef/index.md) >> Individual ID:PBN__Benef_210 
 
 # __Reduced contact with surfaces__
 
@@ -22,13 +22,13 @@ Minimized contact with high-touch surfaces, limiting the spread of pathogens.
 
 ## Risks which can benefit from this action
 
-* [Implementation of touchless technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_196.md)
-* [Touchless technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_345.md)
+* [Implementation of touchless technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_345.md)
+* [Touchless technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_196.md)
 
 ## Stakeholders benefitting from this Benefit
 
 * [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
-* [Occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_103.md)
-* [Staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_92.md)
-* [Visitors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_118.md)
+* [Occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_118.md)
+* [Staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_103.md)
+* [Visitors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_92.md)
 

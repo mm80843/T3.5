@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1151 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1151 
 
 # __Lack of access to pharmaceutical interventions__
 
@@ -29,7 +29,7 @@ Developing countries may not have timely access to antiviral medicines and vacci
 
 ## Is the risk affecting GBN scales
 
-* [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_0.md)
 
 ## Mitigations of this risk
 
@@ -46,19 +46,19 @@ Higher morbidity and mortality rates in affected populations
 ## Stakeholders who can mitigate this risk
 
 * [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
-* [International organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_242.md)
-* [Pharmaceutical companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_124.md)
+* [International organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_124.md)
+* [Pharmaceutical companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_242.md)
 
 ## Technologies linked to the risk
 
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_4.md)
+* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_4.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Attractiveness](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_9.md)
+* [Attractiveness](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_9.md)
 
 ## Type of the risk
 

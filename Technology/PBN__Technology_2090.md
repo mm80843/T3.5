@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2090 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_2090 
 
 # __Public health measures and education__
 
@@ -21,9 +21,9 @@
 
 ## This Technology belongs to this TechnologySubgroup
 
-* [Communication campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1155.md)
-* [Communication channels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_370.md)
-* [Health education programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_230.md)
+* [Communication campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_230.md)
+* [Communication channels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1155.md)
+* [Health education programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_370.md)
 * [Information pamphlets](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1028.md)
 * [Public announcements](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_566.md)
 * [Public awareness programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1300.md)

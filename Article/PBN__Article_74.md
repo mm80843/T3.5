@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_74 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_74 
 
 # __The impacts of knowledge, risk perception, emotion and information on citizens’ protective behaviors during the outbreak of COVID-19: a cross-sectional study in China__
 
@@ -35,12 +35,12 @@ This text is about how people in China are responding to the COVID-19 pandemic. 
 
 ## This article mentions these technologies
 
-* [Counseling services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_113.md)
-* [Educational programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1175.md)
-* [Mental health resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
-* [Official websites](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_896.md)
-* [Press releases](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_874.md)
-* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_837.md)
+* [Counseling services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
+* [Educational programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_837.md)
+* [Mental health resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_113.md)
+* [Official websites](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1175.md)
+* [Press releases](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_896.md)
+* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_874.md)
 * [Public health campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_167.md)
 * [Regulations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1174.md)
 * [Risk communication strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1172.md)
@@ -48,10 +48,10 @@ This text is about how people in China are responding to the COVID-19 pandemic. 
 
 ## This article points to following mitigation
 
-* [Avoidance of crowds](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4385.md)
-* [Building lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3873.md)
-* [Good indoor airflow](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_564.md)
+* [Avoidance of crowds](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Building lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_564.md)
+* [Good indoor airflow](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4385.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3873.md)
 * [Home isolation and quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
 * [Infection control](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4388.md)
 * [Information communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4212.md)

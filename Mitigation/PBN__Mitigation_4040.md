@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4040 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4040 
 
 # __Enhanced education access and equity__
 
@@ -25,9 +25,9 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Digital devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1209.md)
-* [Educational programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_571.md)
-* [Internet access](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_837.md)
+* [Digital devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_837.md)
+* [Educational programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1209.md)
+* [Internet access](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_571.md)
 
 ## Property: has_MitigationPrinciple
 

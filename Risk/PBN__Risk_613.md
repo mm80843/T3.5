@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_613 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_613 
 
 # __Waste management__
 
@@ -30,17 +30,17 @@ Increased waste generation, including potentially infected waste
 
 ## Is the risk affecting GBN scales
 
-* [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_0.md)
 
 ## Mitigations of this risk
 
-* [Develop waste management strategies, including proper waste segregation and disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5055.md)
-* [Develop waste separation and disinfection strategies, proper disposal and recycling](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_236.md)
-* [Disinfection of household waste](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_237.md)
-* [Improved waste management strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2895.md)
-* [Management of an increased amount of waste](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2937.md)
-* [Proper segregation of medical waste](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4964.md)
+* [Develop waste management strategies, including proper waste segregation and disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_236.md)
+* [Develop waste separation and disinfection strategies, proper disposal and recycling](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_237.md)
+* [Disinfection of household waste](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2895.md)
+* [Improved waste management strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2937.md)
+* [Management of an increased amount of waste](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4964.md)
+* [Proper segregation of medical waste](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5055.md)
 * [Segregation of medical waste](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5045.md)
 
 ## Name of the risk
@@ -49,8 +49,8 @@ Improper waste management and potential virus spread
 
 ## People affected by this risk
 
-* [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_59.md)
-* [Occupants of residential buildings](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
+* [Occupants of residential buildings](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_59.md)
 * [Residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1485.md)
 * [Waste management agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1487.md)
 
@@ -58,8 +58,8 @@ Improper waste management and potential virus spread
 
 * [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
 * [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
-* [Waste management agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1487.md)
-* [Waste management authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_590.md)
+* [Waste management agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_590.md)
+* [Waste management authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1487.md)
 
 ## Technologies linked to the risk
 
@@ -70,11 +70,11 @@ Improper waste management and potential virus spread
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_4.md)
+* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_4.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_6.md)
+* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_6.md)
 
 ## Type of the risk
 

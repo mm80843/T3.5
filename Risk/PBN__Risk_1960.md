@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1960 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1960 
 
 # __Limited access to healthcare services__
 
@@ -30,12 +30,12 @@ Restriction of access to healthcare services and limited in-person consultations
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Mitigations of this risk
 
-* [Implement telehealth and telemedicine systems; increase healthcare infrastructure capacity; ensure access to essential healthcare services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2694.md)
-* [Implementation of telemedicine consultation approaches, remote consultation solutions.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3247.md)
+* [Implement telehealth and telemedicine systems; increase healthcare infrastructure capacity; ensure access to essential healthcare services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3247.md)
+* [Implementation of telemedicine consultation approaches, remote consultation solutions.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2694.md)
 * [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2595.md)
 
 ## Name of the risk
@@ -56,18 +56,18 @@ Delayed diagnosis and treatment, increased burden on healthcare system, reduced 
 
 ## Technologies linked to the risk
 
-* [Remote consultation tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_73.md)
-* [Telehealth platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_219.md)
-* [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_404.md)
+* [Remote consultation tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_404.md)
+* [Telehealth platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_73.md)
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_219.md)
 * [Video conferencing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1422.md)
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Community infrastructures](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_9.md)
+* [Community infrastructures](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_9.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_1.md)
+* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_1.md)
 
 ## Type of the risk
 

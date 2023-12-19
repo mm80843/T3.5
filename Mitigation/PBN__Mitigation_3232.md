@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3232 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3232 
 
 # __Adoption of remote working__
 
@@ -25,8 +25,8 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Collaboration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_404.md)
-* [Video conferencing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_151.md)
+* [Collaboration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_151.md)
+* [Video conferencing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_404.md)
 
 ## Property: has_MitigationPrinciple
 

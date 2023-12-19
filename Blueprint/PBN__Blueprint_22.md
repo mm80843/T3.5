@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_22 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/pages/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_22 
 
 # __Drinking water safety - restoring water quality in buildings after forced closure__
 
@@ -31,25 +31,25 @@ https://www.epa.gov/sites/default/files/2020-05/documents/final_checklist_for_ma
 
 ## Enablers of the blueprint
 
-* [Data Analytics](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_5.md)
-* [IoT](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_7.md)
-* [Water sensors](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_2.md)
+* [Data Analytics](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_5.md)
+* [IoT](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_7.md)
+* [Water sensors](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_2.md)
 
 ## GBN Phase of the blueprint
 
-* [Operational](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Phase_0.md)
+* [Operational](https://github.com/mm80843/T3.5/blob/pages/BP_Phase/PBN__BP_Phase_0.md)
 
 ## Interventions of the blueprint
 
-* [Maintenance / decontamination of building water sytems](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_9.md)
-* [Managing drinking water safety measures](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_8.md)
+* [Maintenance / decontamination of building water sytems](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_9.md)
+* [Managing drinking water safety measures](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_8.md)
 
 ## Mode of transmission covered by the blueprint
 
-* [Fountains...](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_8.md)
-* [Showers](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_9.md)
-* [Toilets](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_10.md)
-* [Water outlets taps](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_11.md)
+* [Fountains...](https://github.com/mm80843/T3.5/blob/pages/BP_Transmission/PBN__BP_Transmission_8.md)
+* [Showers](https://github.com/mm80843/T3.5/blob/pages/BP_Transmission/PBN__BP_Transmission_9.md)
+* [Toilets](https://github.com/mm80843/T3.5/blob/pages/BP_Transmission/PBN__BP_Transmission_10.md)
+* [Water outlets taps](https://github.com/mm80843/T3.5/blob/pages/BP_Transmission/PBN__BP_Transmission_11.md)
 
 ## Possible mitigations of the BP
 
@@ -93,7 +93,7 @@ If thorough quality control and disinfection of the drinking water network is re
 
 ## Scale of the of the blueprint
 
-* [Both](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Scale_1.md)
+* [Both](https://github.com/mm80843/T3.5/blob/pages/BP_Scale/PBN__BP_Scale_1.md)
 
 ## Title of the blueprint
 
@@ -101,11 +101,11 @@ PBN:BP_23
 
 ## Type of deployment of the blueprint
 
-* [Temporary](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Permanent_0.md)
+* [Temporary](https://github.com/mm80843/T3.5/blob/pages/BP_Permanent/PBN__BP_Permanent_0.md)
 
 ## Type of the blueprint
 
-* [Technical](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Type_1.md)
+* [Technical](https://github.com/mm80843/T3.5/blob/pages/BP_Type/PBN__BP_Type_1.md)
 
 ## Value proposition of the blueprint
 

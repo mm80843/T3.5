@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4890 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4890 
 
 # __Monitoring and compliance__
 
@@ -29,8 +29,8 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_201.md)
-* [Protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_154.md)
+* [Monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_154.md)
+* [Protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_201.md)
 
 ## Property: has_MitigationPrinciple
 

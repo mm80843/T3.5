@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2161 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_2161 
 
 # __Communication and connectivity__
 
@@ -21,11 +21,11 @@
 
 ## This Technology belongs to this TechnologySubgroup
 
-* [Communication platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_638.md)
-* [Communication software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1569.md)
-* [Digital devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_279.md)
-* [Digital platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1384.md)
-* [Geographic information systems gis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_539.md)
+* [Communication platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_539.md)
+* [Communication software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_638.md)
+* [Digital devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1569.md)
+* [Digital platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_279.md)
+* [Geographic information systems gis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1384.md)
 * [Improved connectivity](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_571.md)
 * [Improved wireless communication nan technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_135.md)
 * [Internet connectivity](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_570.md)

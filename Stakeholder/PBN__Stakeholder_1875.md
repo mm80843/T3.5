@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1875 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1875 
 
 # __Manufacturing and industry__
 
@@ -21,14 +21,14 @@
 
 ## Stakeholders in this stakeholder subgroup
 
-* [Industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_629.md)
-* [Industry association](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1433.md)
-* [Industry associations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1877.md)
-* [Industry organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2032.md)
-* [Industry organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_764.md)
-* [Manufacturer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1148.md)
-* [Manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2005.md)
-* [Manufacturing companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_34.md)
+* [Industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_34.md)
+* [Industry association](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_629.md)
+* [Industry associations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1433.md)
+* [Industry organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1877.md)
+* [Industry organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2032.md)
+* [Manufacturer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_764.md)
+* [Manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1148.md)
+* [Manufacturing companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2005.md)
 * [Manufacturing company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1953.md)
 * [Manufacturing industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1211.md)
 

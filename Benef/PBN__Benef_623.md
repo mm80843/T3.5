@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_623 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/pages/docs/Benef/index.md) >> Individual ID:PBN__Benef_623 
 
 # __Accelerated sustainability transitions__
 
@@ -24,6 +24,6 @@ Research on sustainable solutions during and after the pandemic can accelerate t
 
 ## Stakeholders benefitting from this Benefit
 
-* [Energy and climate researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_255.md)
-* [Society](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_53.md)
+* [Energy and climate researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_53.md)
+* [Society](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_255.md)
 

@@ -1,18 +1,18 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_267 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/pages/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_267 
 
 # __Individuals and communities experiencing financial hardship, including renters, workers, and residents of low-income neighborhoods, particularly in urban areas and developing countries.__
 
 ## Items covered in this category
 
-* [Especially in low-income countries](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_27.md)
-* [Especially in low-income country](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_586.md)
-* [Especially low-income and minority communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2147.md)
-* [Especially low-income and minority community](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_585.md)
-* [Especially those in low-income communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2185.md)
-* [Especially those in low-income community](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1062.md)
-* [Individual with low well-being](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2186.md)
-* [Individuals in low-income areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1230.md)
-* [Individuals with low well-being](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_21.md)
+* [Especially in low-income countries](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_21.md)
+* [Especially in low-income country](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_27.md)
+* [Especially low-income and minority communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_586.md)
+* [Especially low-income and minority community](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2147.md)
+* [Especially those in low-income communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_585.md)
+* [Especially those in low-income community](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2185.md)
+* [Individual with low well-being](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1062.md)
+* [Individuals in low-income areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2186.md)
+* [Individuals with low well-being](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1230.md)
 * [Low-income citizen](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1511.md)
 * [Low-income citizens](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2178.md)
 * [Low-income communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1561.md)

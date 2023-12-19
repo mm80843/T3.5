@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_184 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/pages/docs/Benef/index.md) >> Individual ID:PBN__Benef_184 
 
 # __Reduction in infection risk__
 
@@ -24,18 +24,18 @@ Hygiene protocols reduce the risk of transmission, ensuring a safer environment 
 
 ## Risks which can benefit from this action
 
-* [Air filtration with hepa filters](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_520.md)
-* [Implementation of hygiene protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_164.md)
-* [Implementation of stricter infection control measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_165.md)
-* [Increased outdoor air ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_845.md)
-* [Upper-room uvgi system](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_846.md)
+* [Air filtration with hepa filters](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_846.md)
+* [Implementation of hygiene protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_520.md)
+* [Implementation of stricter infection control measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_164.md)
+* [Increased outdoor air ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_165.md)
+* [Upper-room uvgi system](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_845.md)
 
 ## Stakeholders benefitting from this Benefit
 
-* [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_59.md)
-* [Parents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
-* [Residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_101.md)
-* [Staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_103.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
+* [Parents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_59.md)
+* [Residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_103.md)
+* [Staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_101.md)
 * [Students](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_102.md)
 * [Teachers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_104.md)
 

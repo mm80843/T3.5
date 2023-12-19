@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1778 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1778 
 
 # __Cost__
 
@@ -29,7 +29,7 @@ High cost of installing, operating, and maintaining UV systems
 
 ## Is the risk affecting GBN scales
 
-* [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_0.md)
 
 ## Mitigations of this risk
 
@@ -42,8 +42,8 @@ Limitations in the affordability and accessibility of UV technology
 
 ## People affected by this risk
 
-* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_186.md)
-* [Organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
+* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
+* [Organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_186.md)
 
 ## Stakeholders who can mitigate this risk
 
@@ -57,11 +57,11 @@ Limitations in the affordability and accessibility of UV technology
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Impact](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_11.md)
+* [Impact](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_11.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Topic](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_12.md)
+* [Topic](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_12.md)
 
 ## Type of the risk
 

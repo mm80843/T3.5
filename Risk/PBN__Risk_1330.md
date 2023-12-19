@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1330 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1330 
 
 # __Limited data sharing__
 
@@ -29,7 +29,7 @@ Challenges in data sharing, including lack of awareness, concerns over transpare
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Mitigations of this risk
 
@@ -47,8 +47,8 @@ Limited accessibility to research data, hindered collaboration and reproducibili
 
 ## Stakeholders who can mitigate this risk
 
-* [Funding bodies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_849.md)
-* [Regulatory bodies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_706.md)
+* [Funding bodies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_706.md)
+* [Regulatory bodies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_849.md)
 * [Research organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_848.md)
 
 ## Technologies linked to the risk
@@ -59,11 +59,11 @@ Limited accessibility to research data, hindered collaboration and reproducibili
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Innovation, creativity and research](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_2.md)
+* [Innovation, creativity and research](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_2.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
+* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_2.md)
 
 ## Type of the risk
 

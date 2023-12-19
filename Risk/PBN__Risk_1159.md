@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1159 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1159 
 
 # __Insufficient healthcare infrastructure and resources__
 
@@ -29,7 +29,7 @@ Inadequate healthcare infrastructure and insufficient resources can hinder the m
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Mitigations of this risk
 
@@ -52,17 +52,17 @@ Overwhelmed healthcare systems, inability to provide proper care and treatment, 
 
 ## Technologies linked to the risk
 
-* [Improved healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_0.md)
-* [Medical equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_108.md)
+* [Improved healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_108.md)
+* [Medical equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_0.md)
 * [Surveillance systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_254.md)
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_0.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_3.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_3.md)
 
 ## Type of the risk
 

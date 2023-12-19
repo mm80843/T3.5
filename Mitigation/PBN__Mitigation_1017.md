@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1017 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1017 
 
 # __Biophilic design__
 
@@ -32,12 +32,12 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Green walls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1610.md)
-* [Indoor plants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2431.md)
-* [Indoor vegetation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2430.md)
-* [Natural elements plants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2442.md)
-* [Natural materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2443.md)
-* [Natural views](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1008.md)
+* [Green walls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2431.md)
+* [Indoor plants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1008.md)
+* [Indoor vegetation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1610.md)
+* [Natural elements plants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2430.md)
+* [Natural materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2442.md)
+* [Natural views](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2443.md)
 * [Water features](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3390.md)
 
 ## Property: has_MitigationPrinciple

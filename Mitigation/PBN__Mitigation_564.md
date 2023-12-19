@@ -1,12 +1,12 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_564 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_564 
 
 # __Travel restrictions__
 
 ## Benefits linked to a risk
 
-* [Reduced disease spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_549.md)
-* [Reduced importation of cases](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_958.md)
-* [Reduced spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1194.md)
+* [Reduced disease spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_958.md)
+* [Reduced importation of cases](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1194.md)
+* [Reduced spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_549.md)
 
 ## Category to which it belongs
 
@@ -48,14 +48,14 @@
 ## This Mitigation is enabled by the following technologies
 
 * [Border control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
-* [Border control measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3488.md)
-* [Border controls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2297.md)
-* [Travel bans](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2485.md)
-* [Travel management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2969.md)
+* [Border control measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2969.md)
+* [Border controls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3415.md)
+* [Travel bans](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3413.md)
+* [Travel management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3414.md)
 * [Travel monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3024.md)
-* [Travel policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3413.md)
-* [Travel regulations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3414.md)
-* [Travel tracking and monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3415.md)
+* [Travel policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3488.md)
+* [Travel regulations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2297.md)
+* [Travel tracking and monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_700.md)
 
 ## This mitigation is used in the following general blueprint(s)
 

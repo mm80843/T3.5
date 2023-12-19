@@ -1,11 +1,11 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_44 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_44 
 
 # __Nurture to nature via COVID-19, a self-regenerating environmental strategy of environment in global context__
 
 ## Benefits listed in this article
 
-* [Climate recovery](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_192.md)
-* [Improved air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_153.md)
+* [Climate recovery](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_153.md)
+* [Improved air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_192.md)
 * [Improved well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_199.md)
 * [Preventing healthcare overload](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_200.md)
 * [Protection of wildlife](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_201.md)
@@ -32,9 +32,9 @@ During the COVID-19 pandemic, people have been staying at home to prevent the sp
 
 ## This article mentions these technologies
 
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_402.md)
-* [Noise reduction measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_904.md)
-* [Reduction of carbon emissions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_864.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_864.md)
+* [Noise reduction measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_402.md)
+* [Reduction of carbon emissions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_904.md)
 * [Renewable energy sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1236.md)
 * [Research and development of vaccines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1235.md)
 * [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1237.md)

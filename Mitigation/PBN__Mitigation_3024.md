@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3024 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3024 
 
 # __Encourage a balanced approach to non-contact interaction activities, promoting a mix of virtual and physical interactions.__
 
@@ -21,7 +21,7 @@
 
 ## Link between Blueprint and General ontology
 
-* [Social activities / facilitatie social interactions](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_26.md)
+* [Social activities / facilitatie social interactions](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_26.md)
 
 ## Risks possibly mitigated by this Mitigation
 

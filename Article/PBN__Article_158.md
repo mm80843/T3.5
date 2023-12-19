@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_158 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_158 
 
 # __Startups in times of crisis – A rapid response to the COVID-19 pandemic__
 
@@ -49,10 +49,10 @@ In late 2019, a new virus called SARS-CoV-2 was discovered, which caused a pande
 
 ## This article points to following mitigation
 
-* [Access to financial capital](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_940.md)
-* [Access to social capital](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4005.md)
-* [Adaptability and flexibility](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4001.md)
-* [Availability of resources](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Access to financial capital](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Access to social capital](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_940.md)
+* [Adaptability and flexibility](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4005.md)
+* [Availability of resources](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4001.md)
 * [Bricolage approach](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4011.md)
 * [Change and opportunities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4013.md)
 * [Crisis management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_780.md)

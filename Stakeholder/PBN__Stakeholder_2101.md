@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2101 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2101 
 
 # __General individuals__
 
@@ -22,20 +22,20 @@
 ## Stakeholders in this stakeholder subgroup
 
 * [All individual](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_20.md)
-* [All individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2132.md)
-* [Everyone who spend time indoor](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1451.md)
-* [Everyone who spends time indoors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2167.md)
-* [Future generation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_796.md)
-* [Future generations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_17.md)
-* [Human](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2477.md)
-* [Humans](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1315.md)
-* [Individual](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2482.md)
-* [Individual at risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2500.md)
-* [Individual in contact with surface](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2136.md)
-* [Individual in the vicinity of infected individual](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2115.md)
-* [Individual seeking health information](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1419.md)
-* [Individual who come into contact with infected individual or contaminated surface](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1036.md)
-* [Individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1529.md)
+* [All individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1529.md)
+* [Everyone who spend time indoor](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2132.md)
+* [Everyone who spends time indoors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1451.md)
+* [Future generation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2167.md)
+* [Future generations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_796.md)
+* [Human](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_17.md)
+* [Humans](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2477.md)
+* [Individual](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1315.md)
+* [Individual at risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2482.md)
+* [Individual in contact with surface](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2500.md)
+* [Individual in the vicinity of infected individual](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2136.md)
+* [Individual seeking health information](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2115.md)
+* [Individual who come into contact with infected individual or contaminated surface](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1419.md)
+* [Individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1036.md)
 * [Individuals at risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2120.md)
 * [Individuals in contact with surfaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2459.md)
 * [Individuals in the vicinity of infected individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2197.md)

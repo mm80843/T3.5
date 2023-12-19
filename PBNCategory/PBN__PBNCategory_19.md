@@ -1,13 +1,13 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_19 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/pages/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_19 
 
 # __Mitigation of spread and risk, lower emissions, and enhanced safety through transmission reduction efforts in various settings.__
 
 ## Items covered in this category
 
-* [Decreased transmission risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_33.md)
-* [Improved transport optimization](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_521.md)
-* [Increased safety and confidence in using public transit](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_847.md)
-* [Increased safety and reduced transmission risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_748.md)
+* [Decreased transmission risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_748.md)
+* [Improved transport optimization](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_33.md)
+* [Increased safety and confidence in using public transit](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_521.md)
+* [Increased safety and reduced transmission risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_847.md)
 * [Minimized transmission risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_419.md)
 * [Prevention of transmission through sewage](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_43.md)
 * [Reduced transmission indoors](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1099.md)

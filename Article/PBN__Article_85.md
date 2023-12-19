@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_85 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_85 
 
 # __COVID-19: Lessons for an Urban(izing) World__
 
@@ -46,10 +46,10 @@ The COVID-19 crisis is changing the way we think about cities and how we live in
 
 ## This article points to following mitigation
 
-* [Access to adequate sanitation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3139.md)
-* [App-based trackers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3142.md)
-* [Crisis-information repositories](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3136.md)
-* [Digital change](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_564.md)
+* [Access to adequate sanitation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_564.md)
+* [App-based trackers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3139.md)
+* [Crisis-information repositories](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3142.md)
+* [Digital change](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3136.md)
 * [Edge expansion](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3148.md)
 * [Health and prevention measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3145.md)
 * [High-rise density](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3134.md)

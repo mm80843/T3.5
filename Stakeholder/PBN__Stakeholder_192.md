@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_192 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_192 
 
 # __Healthcare__
 
@@ -26,19 +26,19 @@
 
 ## Stakeholders in this stakeholder subgroup
 
-* [Healthcare](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_541.md)
-* [Healthcare agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1855.md)
-* [Healthcare agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_121.md)
-* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_269.md)
-* [Healthcare facility](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1469.md)
-* [Healthcare industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_216.md)
-* [Healthcare institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1984.md)
-* [Healthcare organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_192.md)
-* [Healthcare provider](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_193.md)
-* [Healthcare providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_423.md)
-* [Healthcare systems](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2015.md)
-* [Hospital](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_64.md)
-* [Hospitals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_33.md)
+* [Healthcare](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_269.md)
+* [Healthcare agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_121.md)
+* [Healthcare agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_216.md)
+* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_33.md)
+* [Healthcare facility](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_541.md)
+* [Healthcare industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1855.md)
+* [Healthcare institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1469.md)
+* [Healthcare organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1984.md)
+* [Healthcare provider](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_192.md)
+* [Healthcare providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_193.md)
+* [Healthcare systems](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_423.md)
+* [Hospital](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2015.md)
+* [Hospitals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_64.md)
 * [Medical professional](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1250.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
@@ -55,6 +55,6 @@
 
 ## Type of the stakeholder
 
-* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_0.md)
-* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_0.md)
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_2.md)
 

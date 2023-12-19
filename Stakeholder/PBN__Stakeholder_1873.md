@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1873 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1873 
 
 # __Technology and innovation__
 
@@ -21,9 +21,9 @@
 
 ## Stakeholders in this stakeholder subgroup
 
-* [Innovators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1872.md)
-* [Iot technology provider](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_911.md)
-* [Iot technology providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_717.md)
+* [Innovators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_717.md)
+* [Iot technology provider](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1872.md)
+* [Iot technology providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_911.md)
 * [Smart city professional](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_964.md)
 * [Smart city professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2040.md)
 * [Tech companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2538.md)

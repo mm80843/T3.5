@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_63 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_63 
 
 # __10 Adaptive Measures for Public Places to face the COVID 19 Pandemic Outbreak__
 
@@ -42,16 +42,16 @@ During the pandemic, there are some things we can do to make public places safer
 
 ## This article mentions these technologies
 
-* [Access control systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_341.md)
-* [Adaptation of existing infrastructure for new uses](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_370.md)
-* [Barricades](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_165.md)
-* [Cleaning equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_363.md)
-* [Closure signs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_364.md)
-* [Data recording systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_230.md)
-* [Designated zones](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_358.md)
-* [Digital signage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_164.md)
-* [Disinfection supplies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_366.md)
-* [Enforcement personnel](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_361.md)
+* [Access control systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_358.md)
+* [Adaptation of existing infrastructure for new uses](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_230.md)
+* [Barricades](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_341.md)
+* [Cleaning equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_361.md)
+* [Closure signs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_370.md)
+* [Data recording systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_165.md)
+* [Designated zones](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_363.md)
+* [Digital signage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_364.md)
+* [Disinfection supplies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_164.md)
+* [Enforcement personnel](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_366.md)
 * [Floor markings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_362.md)
 * [Large screens](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_359.md)
 * [Physical barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_369.md)

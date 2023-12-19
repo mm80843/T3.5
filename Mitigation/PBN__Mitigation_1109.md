@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1109 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1109 
 
 # __Accelerating transition towards digitalization__
 
@@ -29,8 +29,8 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [5g](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_278.md)
-* [Ai](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_277.md)
+* [5g](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_277.md)
+* [Ai](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_278.md)
 * [Iot](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_73.md)
 * [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3493.md)
 * [Teleworking](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3494.md)

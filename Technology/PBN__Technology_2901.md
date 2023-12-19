@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2901 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_2901 
 
 # __Data collection__
 
@@ -21,12 +21,12 @@
 
 ## Link between Blueprint and General ontology
 
-* [BigData](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_9.md)
+* [BigData](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_9.md)
 
 ## This Technology enables the following mitigations
 
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4097.md)
-* [Data activism](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3332.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3332.md)
+* [Data activism](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4097.md)
 * [Environmental surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1198.md)
 * [Research](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_318.md)
 

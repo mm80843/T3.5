@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_177 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_177 
 
 # __Learning from the COVID-19 pandemic in governing smart cities__
 
@@ -38,9 +38,9 @@ The COVID-19 pandemic has caused a lot of problems for society, like economic is
 
 ## This article mentions these technologies
 
-* [Ai](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_278.md)
-* [Big data](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
-* [Blockchain](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_277.md)
+* [Ai](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
+* [Big data](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_277.md)
+* [Blockchain](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_278.md)
 * [E-participation tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_94.md)
 * [Emerging technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_276.md)
 * [Iot](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_279.md)

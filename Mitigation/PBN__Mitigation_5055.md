@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_5055 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_5055 
 
 # __Improved waste management strategies__
 
@@ -25,8 +25,8 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_154.md)
-* [Waste management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2222.md)
+* [Protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2222.md)
+* [Waste management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_154.md)
 
 ## Property: has_MitigationPrinciple
 

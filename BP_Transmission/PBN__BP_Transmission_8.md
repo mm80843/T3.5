@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [BP_Transmission](https://github.com/mm80843/T3.5/tree/main/docs/BP_Transmission/index.md) >> Individual ID:PBN__BP_Transmission_8 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [BP_Transmission](https://github.com/mm80843/T3.5/tree/pages/docs/BP_Transmission/index.md) >> Individual ID:PBN__BP_Transmission_8 
 
 # __Water outlets taps__
 

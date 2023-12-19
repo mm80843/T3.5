@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_2490 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_2490 
 
 # __Virus transmission__
 
@@ -21,20 +21,20 @@
 
 ## Mitigations of this risk
 
-* [Adjustability of indoor temperature/humidity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4970.md)
-* [Antimicrobial materials](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4971.md)
-* [Automotive systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4732.md)
-* [Hygienic building materials](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
-* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3374.md)
-* [Management of deliveries](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3414.md)
-* [Natural ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4981.md)
-* [Plsmax technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1028.md)
-* [Proper plumbing work](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_216.md)
-* [Proper selection of indoor materials](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1437.md)
-* [Proper waste management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_217.md)
-* [Sanitation facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4961.md)
-* [Self-cleaning spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_345.md)
-* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3237.md)
+* [Adjustability of indoor temperature/humidity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Antimicrobial materials](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3237.md)
+* [Automotive systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_345.md)
+* [Hygienic building materials](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4970.md)
+* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4971.md)
+* [Management of deliveries](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4732.md)
+* [Natural ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3374.md)
+* [Plsmax technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3414.md)
+* [Proper plumbing work](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4981.md)
+* [Proper selection of indoor materials](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1028.md)
+* [Proper waste management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_216.md)
+* [Sanitation facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1437.md)
+* [Self-cleaning spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_217.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4961.md)
 * [Solid waste management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4980.md)
 * [Touchless technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4986.md)
 * [Wastewater management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4990.md)

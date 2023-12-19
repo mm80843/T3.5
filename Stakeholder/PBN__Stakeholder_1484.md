@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1484 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1484 
 
 # __Waste management__
 
@@ -25,13 +25,13 @@
 
 ## Stakeholders in this stakeholder subgroup
 
-* [Waste management agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1487.md)
-* [Waste management agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_590.md)
+* [Waste management agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_590.md)
+* [Waste management agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1487.md)
 * [Waste management authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1044.md)
 * [Waste management authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2390.md)
 * [Waste management organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2388.md)
 
 ## Type of the stakeholder
 
-* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_1.md)
 

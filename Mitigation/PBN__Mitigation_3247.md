@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3247 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3247 
 
 # __Telemedicine__
 
@@ -28,16 +28,16 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Ai](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_278.md)
-* [Cloud computing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_277.md)
+* [Ai](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_277.md)
+* [Cloud computing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_278.md)
 * [Iot](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_426.md)
-* [Mobile computing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_404.md)
-* [Telecommunication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1230.md)
-* [Telecommunication technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2456.md)
-* [Telecommunication technology internet](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2323.md)
-* [Video conferencing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3178.md)
-* [Video conferencing tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2396.md)
-* [Wearable technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1233.md)
+* [Mobile computing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2456.md)
+* [Telecommunication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2323.md)
+* [Telecommunication technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_404.md)
+* [Telecommunication technology internet](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1233.md)
+* [Video conferencing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1230.md)
+* [Video conferencing tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3178.md)
+* [Wearable technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2396.md)
 
 ## This mitigation is used in the following general blueprint(s)
 

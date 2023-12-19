@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_2645 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_2645 
 
 # __Contagion__
 
@@ -21,18 +21,18 @@
 
 ## Mitigations of this risk
 
-* [Air filtration and ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5039.md)
-* [Contact tracing and testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_432.md)
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
-* [Isolation and quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3519.md)
+* [Air filtration and ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Contact tracing and testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_415.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3575.md)
+* [Isolation and quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3329.md)
 * [Isolation rooms](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_564.md)
-* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3329.md)
-* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
-* [Public health education](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5038.md)
-* [Sanitization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4935.md)
-* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1130.md)
-* [Surface disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3699.md)
-* [Testing and tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3575.md)
-* [Travel restrictions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_415.md)
+* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1130.md)
+* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5039.md)
+* [Public health education](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_432.md)
+* [Sanitization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3519.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
+* [Surface disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5038.md)
+* [Testing and tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4935.md)
+* [Travel restrictions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3699.md)
 * [Vaccination](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3517.md)
 

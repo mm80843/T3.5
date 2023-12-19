@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_185 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_185 
 
 # __Hvac systems__
 
@@ -21,7 +21,7 @@
 
 ## Link between Blueprint and General ontology
 
-* [Smart HVAC](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_24.md)
+* [Smart HVAC](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_24.md)
 
 ## Risks linked to this technology
 
@@ -51,29 +51,29 @@
 
 ## This Technology enables the following mitigations
 
-* [Advanced ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_84.md)
-* [Air filtration and ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4886.md)
-* [Avoidance of air recirculation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_607.md)
-* [Climate control in indoor environments](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_476.md)
-* [Dilution and dispersion](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4786.md)
-* [Enhanced air filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4655.md)
-* [Enhanced ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3578.md)
-* [Filtered ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_627.md)
-* [Filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1028.md)
-* [Filtration and ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3532.md)
-* [Good ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4356.md)
-* [Humidity control](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4352.md)
-* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_520.md)
-* [Improved ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3267.md)
-* [Improved ventilation in buildings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4427.md)
-* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1381.md)
-* [Improving indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3439.md)
-* [Increased outdoor air supply](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3268.md)
-* [Increased outdoor air ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4722.md)
-* [Increased ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4222.md)
-* [Increased ventilation rates](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4351.md)
-* [Indoor air quality control](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4179.md)
-* [Maintaining optimum temperatures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_312.md)
+* [Advanced ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_312.md)
+* [Air filtration and ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_84.md)
+* [Avoidance of air recirculation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4886.md)
+* [Climate control in indoor environments](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_607.md)
+* [Dilution and dispersion](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_476.md)
+* [Enhanced air filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4786.md)
+* [Enhanced ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4655.md)
+* [Filtered ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3578.md)
+* [Filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_627.md)
+* [Filtration and ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1028.md)
+* [Good ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3532.md)
+* [Humidity control](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4356.md)
+* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4352.md)
+* [Improved ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_520.md)
+* [Improved ventilation in buildings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3267.md)
+* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4427.md)
+* [Improving indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1381.md)
+* [Increased outdoor air supply](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3439.md)
+* [Increased outdoor air ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3268.md)
+* [Increased ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4722.md)
+* [Increased ventilation rates](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4222.md)
+* [Indoor air quality control](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4351.md)
+* [Maintaining optimum temperatures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4179.md)
 * [Proper system configuration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4178.md)
 * [Regular air changes](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3440.md)
 * [Temperature control](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3517.md)

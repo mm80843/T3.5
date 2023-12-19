@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2136 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_2136 
 
 # __Hvac and air quality systems__
 
@@ -21,8 +21,8 @@
 
 ## This Technology belongs to this TechnologySubgroup
 
-* [Air circulation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
-* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+* [Air circulation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
 * [Automated cleaning systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_205.md)
 * [Automated windows](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1979.md)
 * [Continuous operation of hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_660.md)

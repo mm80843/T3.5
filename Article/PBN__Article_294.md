@@ -1,13 +1,13 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_294 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_294 
 
 # __The Smart City and Covid‐19__
 
 ## Benefits listed in this article
 
-* [Availability of essential goods and services](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1372.md)
-* [Decrease in virus transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1378.md)
-* [Deterrence of anti-social behavior](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1377.md)
-* [Early detection of potential outbreaks](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1366.md)
+* [Availability of essential goods and services](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1366.md)
+* [Decrease in virus transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1372.md)
+* [Deterrence of anti-social behavior](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1378.md)
+* [Early detection of potential outbreaks](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1377.md)
 * [Efficient crisis response](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1365.md)
 * [Efficient hospital resource allocation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1380.md)
 * [Efficient maintenance and prioritization](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1379.md)
@@ -55,21 +55,21 @@ The Covid-19 virus is affecting cities all over the world. Many cities are in lo
 
 ## This article points to following mitigation
 
-* [Adaptation to remote work technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5167.md)
-* [Correlating health issues with movement patterns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
-* [Crime reduction through mobile phone identification](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5162.md)
-* [Crowd control on public transport](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5169.md)
-* [Ensuring basic supplies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5157.md)
-* [Increased sanitation monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5166.md)
-* [Lockdown enforcement](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5151.md)
-* [Mobile phone tracking for contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5149.md)
-* [Monitoring and prioritizing essential services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5158.md)
-* [Monitoring buying behavior and limiting purchases](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5155.md)
-* [Monitoring for health indicators](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5150.md)
-* [Monitoring people movement during events](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5152.md)
-* [Name-and-shame or prosecute anti-social activities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5153.md)
-* [Optimizing supply chains](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5154.md)
-* [Optimizing transport based on demand](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5163.md)
+* [Adaptation to remote work technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Correlating health issues with movement patterns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5163.md)
+* [Crime reduction through mobile phone identification](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5167.md)
+* [Crowd control on public transport](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5162.md)
+* [Ensuring basic supplies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5169.md)
+* [Increased sanitation monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5157.md)
+* [Lockdown enforcement](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5166.md)
+* [Mobile phone tracking for contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5151.md)
+* [Monitoring and prioritizing essential services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5149.md)
+* [Monitoring buying behavior and limiting purchases](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5158.md)
+* [Monitoring for health indicators](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5155.md)
+* [Monitoring people movement during events](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5150.md)
+* [Name-and-shame or prosecute anti-social activities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5152.md)
+* [Optimizing supply chains](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5153.md)
+* [Optimizing transport based on demand](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5154.md)
 * [Pandemic preparedness planning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5168.md)
 * [Predicting hospital capacity and balancing loads](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5165.md)
 * [Restricting city entry and exit](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1404.md)

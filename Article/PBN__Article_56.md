@@ -1,13 +1,13 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_56 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_56 
 
 # __RESIDENTIAL ARCHITECTURE IN A POST-PANDEMIC WORLD: IMPLICATIONS OF COVID-19 FOR NEW CONSTRUCTION AND FOR ADAPTING HERITAGE BUILDINGS__
 
 ## Benefits listed in this article
 
-* [Enhanced cleanliness and reduced risk of transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_279.md)
-* [Improved hand hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_284.md)
-* [Improved ventilation and reduced transmission risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_280.md)
-* [Increased safety and reduced transmission risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_281.md)
+* [Enhanced cleanliness and reduced risk of transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_281.md)
+* [Improved hand hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_279.md)
+* [Improved ventilation and reduced transmission risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_284.md)
+* [Increased safety and reduced transmission risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_280.md)
 * [Minimized transmission risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_282.md)
 * [Social distancing and reduced transmission risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_283.md)
 
@@ -42,16 +42,16 @@ COVID-19, a disease caused by a virus called SARS-CoV-2, has spread all over the
 
 ## This article mentions these technologies
 
-* [Air filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1240.md)
-* [Automation in production and distribution](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1632.md)
-* [Blockchain technology for supply chain transparency](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_607.md)
-* [Developing new ppe technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1627.md)
-* [Digital mental health platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1630.md)
-* [Fact-checking tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1625.md)
-* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_249.md)
-* [Improvements in logistics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1629.md)
-* [Improving supply chain management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1631.md)
-* [Online mental health services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1109.md)
+* [Air filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1109.md)
+* [Automation in production and distribution](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1240.md)
+* [Blockchain technology for supply chain transparency](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1632.md)
+* [Developing new ppe technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_607.md)
+* [Digital mental health platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1627.md)
+* [Fact-checking tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1630.md)
+* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1625.md)
+* [Improvements in logistics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_249.md)
+* [Improving supply chain management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1629.md)
+* [Online mental health services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1631.md)
 * [Public health communication strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_31.md)
 * [Scaling up production capacity](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_7.md)
 * [Social media monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1626.md)

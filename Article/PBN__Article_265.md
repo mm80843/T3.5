@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_265 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_265 
 
 # __An Automated System to Limit COVID-19 Using Facial Mask Detection in Smart City Network__
 
@@ -45,8 +45,8 @@ There is a new virus called coronavirus that has spread all over the world. It c
 ## This article points to following mitigation
 
 * [Alarm signals and led screens](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
-* [Automated sms alerts](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
-* [Avoid touching face](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3332.md)
+* [Automated sms alerts](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3332.md)
+* [Avoid touching face](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
 * [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4575.md)
 * [Continuous data collection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4580.md)
 * [Continuous supply of essential materials](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4579.md)

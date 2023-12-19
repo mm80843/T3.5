@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_20 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_20 
 
 # __Spread of contagious diseases__
 
@@ -31,23 +31,23 @@ The risk of contagious diseases spreading within the built environment, particul
 
 ## Is the risk affecting GBN scales
 
-* [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_0.md)
 
 ## Mitigations of this risk
 
-* [Border shutdowns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_416.md)
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_84.md)
-* [Contact tracing and monitoring technology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_202.md)
-* [Control and stop virus outbreak](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_757.md)
-* [Development of medical infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3969.md)
-* [Enhanced cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
-* [Ieq monitoring system](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3123.md)
-* [Implement effective infection control measures, such as regular cleaning and disinfection, ventilation systems, and promoting personal hygiene practices.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3329.md)
-* [Implementation of containment strategies quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3332.md)
-* [Implementing proper hygiene measures, encouraging social distancing, and promoting remote work options](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1992.md)
-* [Implementing strict hygiene protocols, social distancing measures, and vaccination programs.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_427.md)
-* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4486.md)
+* [Border shutdowns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_202.md)
+* [Contact tracing and monitoring technology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3329.md)
+* [Control and stop virus outbreak](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3123.md)
+* [Development of medical infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4486.md)
+* [Enhanced cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3332.md)
+* [Ieq monitoring system](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_416.md)
+* [Implement effective infection control measures, such as regular cleaning and disinfection, ventilation systems, and promoting personal hygiene practices.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_427.md)
+* [Implementation of containment strategies quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_84.md)
+* [Implementing proper hygiene measures, encouraging social distancing, and promoting remote work options](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_757.md)
+* [Implementing strict hygiene protocols, social distancing measures, and vaccination programs.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3969.md)
+* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1992.md)
 * [Improvement of sanitation infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_25.md)
 * [Internal travel constraints](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_534.md)
 * [Lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_535.md)
@@ -71,15 +71,15 @@ Increased infection rates and potential outbreaks, leading to health and safety 
 * [Employees](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_68.md)
 * [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
 * [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_29.md)
-* [Healthcare workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_748.md)
-* [The general public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_952.md)
+* [Healthcare workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_118.md)
+* [The general public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_748.md)
 * [Visitors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_220.md)
-* [Vulnerable individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_118.md)
+* [Vulnerable individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_952.md)
 
 ## Stakeholders who can mitigate this risk
 
-* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
-* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_269.md)
+* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_269.md)
+* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
 * [Healthcare institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_216.md)
 * [Healthcare organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
 * [Organizations and building managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_953.md)
@@ -96,11 +96,11 @@ Increased infection rates and potential outbreaks, leading to health and safety 
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_0.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_3.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_3.md)
 
 ## Type of the risk
 

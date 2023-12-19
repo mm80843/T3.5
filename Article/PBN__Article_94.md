@@ -1,11 +1,11 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_94 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_94 
 
 # __The Impact of the COVID-19 Pandemic on the Space Pattern Changes in Buildings__
 
 ## Benefits listed in this article
 
-* [Adaptability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_192.md)
-* [Enhanced airflow](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_232.md)
+* [Adaptability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_232.md)
+* [Enhanced airflow](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_192.md)
 * [Enhanced privacy](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_463.md)
 * [Improved air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_464.md)
 * [Improved hygiene](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_468.md)
@@ -44,10 +44,10 @@ The COVID-19 pandemic has caused a lot of changes in our lives. It's a new virus
 
 ## This article mentions these technologies
 
-* [Acoustic treatments](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1351.md)
-* [Air circulation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_431.md)
-* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_29.md)
-* [Air quality sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+* [Acoustic treatments](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+* [Air circulation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1351.md)
+* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_431.md)
+* [Air quality sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_29.md)
 * [Automated windows](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1348.md)
 * [Contact tracing technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_623.md)
 * [High-efficiency air filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_430.md)

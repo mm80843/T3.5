@@ -1,11 +1,11 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_168 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_168 
 
 # __The Impact of Pandemic Crisis on the Survival of Construction Industry: A Case of COVID-19__
 
 ## Benefits listed in this article
 
-* [Cost savings](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_834.md)
-* [Faster project completion](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_368.md)
+* [Cost savings](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_368.md)
+* [Faster project completion](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_834.md)
 * [Improved financial performance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_833.md)
 * [Increased productivity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_836.md)
 * [Mitigating financial risks](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_835.md)
@@ -50,11 +50,11 @@ The coronavirus disease, also known as COVID-19, started in Wuhan, China and has
 ## This article points to following mitigation
 
 * [Enhanced communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
-* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_832.md)
-* [Remote work](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3697.md)
-* [Restricted gatherings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3699.md)
-* [Sanitization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3698.md)
-* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3575.md)
+* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3575.md)
+* [Remote work](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_832.md)
+* [Restricted gatherings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3697.md)
+* [Sanitization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3699.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3698.md)
 
 ## Title of the article
 

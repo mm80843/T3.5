@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__aBlueprint_12 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/pages/docs/Blueprint/index.md) >> Individual ID:PBN__aBlueprint_12 
 
 # __Implementing Contagion Prevention Practices and Infrastructure__
 
@@ -30,25 +30,25 @@
 
 * [Citizens](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
 * [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_29.md)
-* [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1190.md)
-* [Professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_59.md)
-* [Residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_54.md)
+* [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_59.md)
+* [Professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_54.md)
+* [Residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1190.md)
 
 ## 4. Blueprint links to these mitigations
 
-* [Education and training](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3272.md)
-* [Knowledge sharing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4291.md)
-* [Promote and enforce proper hand hygiene practices, provide hand sanitizing stations throughout the building.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2180.md)
-* [Promote proper hand hygiene practices through education and awareness campaigns, provide hand sanitization stations, and enforce hand hygiene protocols.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2553.md)
-* [Public awareness campaigns, availability of hand sanitizer and handwashing facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3107.md)
+* [Education and training](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2553.md)
+* [Knowledge sharing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2180.md)
+* [Promote and enforce proper hand hygiene practices, provide hand sanitizing stations throughout the building.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3107.md)
+* [Promote proper hand hygiene practices through education and awareness campaigns, provide hand sanitization stations, and enforce hand hygiene protocols.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3272.md)
+* [Public awareness campaigns, availability of hand sanitizer and handwashing facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4291.md)
 
 ## 5. Blueprint mitigation can be owned by these stakeholders
 
-* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_0.md)
-* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
+* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
+* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_0.md)
 * [Media organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
-* [Private entities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_56.md)
-* [Public health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_545.md)
+* [Private entities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_545.md)
+* [Public health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_56.md)
 
 ## 6. Blueprint links to these benefits
 
@@ -59,12 +59,12 @@
 ## 7. Blueprint links to these technology
 
 * [75% 2-propanol](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
-* [Alcohol-based hand rubs 80% ethanol](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2437.md)
-* [Hand sanitizer](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2459.md)
-* [Hand sanitizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_410.md)
-* [Hand washing stations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2479.md)
-* [Soap](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2648.md)
-* [Soap and water](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2940.md)
-* [Water](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2941.md)
-* [Webinars](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3120.md)
+* [Alcohol-based hand rubs 80% ethanol](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_410.md)
+* [Hand sanitizer](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2648.md)
+* [Hand sanitizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2479.md)
+* [Hand washing stations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2940.md)
+* [Soap](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2480.md)
+* [Soap and water](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2459.md)
+* [Water](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2437.md)
+* [Webinars](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2941.md)
 

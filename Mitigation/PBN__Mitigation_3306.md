@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3306 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3306 
 
 # __Wearing masks__
 
@@ -29,8 +29,8 @@
 ## This Mitigation is enabled by the following technologies
 
 * [Cloth masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
-* [Masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2460.md)
-* [Masks or face coverings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1051.md)
+* [Masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1051.md)
+* [Masks or face coverings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2460.md)
 * [Surgical masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2889.md)
 
 ## Property: has_MitigationPrinciple

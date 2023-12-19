@@ -1,23 +1,23 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_198 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/pages/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_198 
 
 # __Enhancing education through digital platforms and online resources, promoting virtual classes and workshops, and improving digital literacy.__
 
 ## Items covered in this category
 
-* [Digital learning platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_68.md)
-* [Digital learning platforms and tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1420.md)
-* [Digital literacy programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_697.md)
-* [Education and communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_74.md)
-* [Education on media literacy](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_572.md)
-* [Educational outreach through digital platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1073.md)
-* [Educational platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1143.md)
-* [Educational resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1876.md)
-* [Educational websites](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_581.md)
-* [Flipped classroom](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_627.md)
-* [Improve broadband availability and invest in digital literacy programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_416.md)
-* [Media literacy programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_417.md)
-* [Online dance classes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1208.md)
-* [Online educational materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2867.md)
+* [Digital learning platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2867.md)
+* [Digital learning platforms and tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_68.md)
+* [Digital literacy programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1420.md)
+* [Education and communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_697.md)
+* [Education on media literacy](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_74.md)
+* [Educational outreach through digital platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_572.md)
+* [Educational platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1073.md)
+* [Educational resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1143.md)
+* [Educational websites](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1876.md)
+* [Flipped classroom](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_581.md)
+* [Improve broadband availability and invest in digital literacy programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_627.md)
+* [Media literacy programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_416.md)
+* [Online dance classes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_417.md)
+* [Online educational materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1208.md)
 * [Online educational resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1693.md)
 * [Online exercise classes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1228.md)
 * [Online financial education resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2630.md)

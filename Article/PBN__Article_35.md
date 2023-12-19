@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_35 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_35 
 
 # __A Comprehensive Review of Applications of Internet of Things for Covid-19 Pandemic__
 
@@ -36,15 +36,15 @@ The Internet of Things (IoT) is a network of smart devices that can talk to each
 
 ## This article mentions these technologies
 
-* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
-* [Ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
+* [Ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
 
 ## This article points to following mitigation
 
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4135.md)
-* [Forecasting of virus spread](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4134.md)
-* [Iot buttons for alerts and monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4131.md)
-* [Iot-based solutions for after recovery](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3332.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3332.md)
+* [Forecasting of virus spread](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4135.md)
+* [Iot buttons for alerts and monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4134.md)
+* [Iot-based solutions for after recovery](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4131.md)
 * [Iot-based solutions for early diagnosis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4132.md)
 * [Iot-based solutions for quarantine time](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4129.md)
 * [Iot-enabled hospital](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4140.md)

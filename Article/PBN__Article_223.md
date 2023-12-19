@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_223 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_223 
 
 # __The effect of a redesigned floor plan, occupant density and the quality of indoor climate on the cost of space, productivity and sick leave in an office building–A case study__
 
@@ -30,16 +30,16 @@ This study looked at how office spaces can be used more efficiently. They found 
 
 ## This article mentions these technologies
 
-* [Automatic hand sanitizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_370.md)
-* [Crowd management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
+* [Automatic hand sanitizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_647.md)
+* [Crowd management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_493.md)
 * [Digital communication platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_895.md)
-* [Digital signage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_493.md)
-* [Educational materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_364.md)
-* [Hands-free fixtures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1478.md)
-* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1259.md)
-* [Occupancy sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1477.md)
-* [Public announcements](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1479.md)
-* [Touchless faucets](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_647.md)
+* [Digital signage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_370.md)
+* [Educational materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
+* [Hands-free fixtures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_364.md)
+* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1478.md)
+* [Occupancy sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1259.md)
+* [Public announcements](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1477.md)
+* [Touchless faucets](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1479.md)
 
 ## This article points to following mitigation
 

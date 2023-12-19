@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_312 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_312 
 
 # __Filtration__
 
@@ -36,12 +36,12 @@
 ## This Mitigation is enabled by the following technologies
 
 * [Air filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_185.md)
-* [Antimicrobial filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_192.md)
-* [Filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_672.md)
-* [Filters merv 7 and merv 14](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1109.md)
-* [Hepa filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3150.md)
-* [Hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3151.md)
-* [Nanoparticle filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3173.md)
+* [Antimicrobial filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_672.md)
+* [Filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1109.md)
+* [Filters merv 7 and merv 14](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3173.md)
+* [Hepa filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_192.md)
+* [Hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3150.md)
+* [Nanoparticle filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3151.md)
 
 ## This mitigation is used in the following general blueprint(s)
 

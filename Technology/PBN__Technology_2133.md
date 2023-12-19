@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2133 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_2133 
 
 # __Disinfection equipment and supplies__
 
@@ -21,17 +21,17 @@
 
 ## This Technology belongs to this TechnologySubgroup
 
-* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1648.md)
-* [Biocidal products](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1288.md)
-* [Cleaning and disinfection products](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_204.md)
-* [Disinfectant sprays](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_348.md)
-* [Disinfectant wipes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_227.md)
-* [Disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_411.md)
-* [Disinfection equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_671.md)
-* [Disinfection methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_505.md)
-* [Disinfection technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_506.md)
-* [Eco-friendly disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_670.md)
-* [Epa-approved disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_410.md)
+* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_410.md)
+* [Biocidal products](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_411.md)
+* [Cleaning and disinfection products](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_671.md)
+* [Disinfectant sprays](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1648.md)
+* [Disinfectant wipes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1288.md)
+* [Disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_204.md)
+* [Disinfection equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_348.md)
+* [Disinfection methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_227.md)
+* [Disinfection technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_505.md)
+* [Eco-friendly disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_506.md)
+* [Epa-approved disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_670.md)
 * [Hand sanitizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_228.md)
 * [Infectivity tests](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_342.md)
 * [Membrane filtration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1354.md)

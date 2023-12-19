@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [aBlueprint](https://github.com/mm80843/T3.5/tree/main/docs/aBlueprint/index.md) >> Individual ID:PBN__aBlueprint_0 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [aBlueprint](https://github.com/mm80843/T3.5/tree/pages/docs/aBlueprint/index.md) >> Individual ID:PBN__aBlueprint_0 
 
 # __Implementing Regular Cleaning, WBE and Quarantine Measures for Infectious Diseases Mitigation__
 
@@ -30,41 +30,41 @@
 
 * [Close contacts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_68.md)
 * [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
-* [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_971.md)
-* [Healthcare workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_31.md)
+* [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_31.md)
+* [Healthcare workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_971.md)
 * [Patients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_29.md)
 
 ## 4. Blueprint links to these mitigations
 
-* [Implement regular cleaning and disinfection protocols, promote good hand hygiene, and encourage the use of protective barriers and personal protective equipment.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_988.md)
-* [Implementation of quarantine measures, social distancing, and isolation of confirmed cases](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1206.md)
-* [Integration of latrine sampling in wbe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1207.md)
-* [Use of wbe for tracking covid-19 prevalence](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1753.md)
-* [Wastewater-based epidemiology wbe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1587.md)
+* [Implement regular cleaning and disinfection protocols, promote good hand hygiene, and encourage the use of protective barriers and personal protective equipment.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1587.md)
+* [Implementation of quarantine measures, social distancing, and isolation of confirmed cases](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_988.md)
+* [Integration of latrine sampling in wbe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1753.md)
+* [Use of wbe for tracking covid-19 prevalence](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1207.md)
+* [Wastewater-based epidemiology wbe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1206.md)
 
 ## 5. Blueprint mitigation can be owned by these stakeholders
 
-* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_394.md)
+* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_269.md)
 * [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_46.md)
 * [Health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
 * [Healthcare institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
-* [Scientists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_269.md)
+* [Scientists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_394.md)
 
 ## 6. Blueprint links to these benefits
 
-* [Early detection of covid-19](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_988.md)
-* [Early warning of disease outbreaks](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_5.md)
-* [Population-wide surveillance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1206.md)
+* [Early detection of covid-19](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_5.md)
+* [Early warning of disease outbreaks](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1206.md)
+* [Population-wide surveillance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_988.md)
 
 ## 7. Blueprint links to these technology
 
-* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_341.md)
-* [Crowd control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2468.md)
-* [Floor markings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2822.md)
-* [Hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
-* [Hvac technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1829.md)
+* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
+* [Crowd control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_358.md)
+* [Floor markings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_185.md)
+* [Hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_230.md)
+* [Hvac technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_341.md)
 * [Pcr assay](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
-* [Physical barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_230.md)
-* [Qrt pcr testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2818.md)
-* [Signage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_358.md)
+* [Physical barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1829.md)
+* [Qrt pcr testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2468.md)
+* [Signage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2822.md)
 

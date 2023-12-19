@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3310 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3310 
 
 # __Improved ventilation rates__
 
@@ -25,8 +25,8 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Hvac system modification](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2463.md)
-* [Natural ventilation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_270.md)
+* [Hvac system modification](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_270.md)
+* [Natural ventilation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2463.md)
 
 ## This mitigation is used in the following general blueprint(s)
 

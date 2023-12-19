@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_57 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_57 
 
 # __Study of COVID-19 pandemic in London (UK) from urban context__
 
@@ -34,15 +34,15 @@ The text is about the transmission of the COVID-19 virus, specifically in London
 
 ## This article mentions these technologies
 
-* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
-* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_657.md)
-* [Disinfection technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_658.md)
-* [Handwashing stations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_659.md)
-* [Improved hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
-* [Natural ventilation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_348.md)
-* [Parks and recreation planning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_661.md)
-* [Sanitation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_660.md)
-* [Temperature screening](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_270.md)
+* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_270.md)
+* [Disinfection technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
+* [Handwashing stations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_657.md)
+* [Improved hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_658.md)
+* [Natural ventilation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_659.md)
+* [Parks and recreation planning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_348.md)
+* [Sanitation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_661.md)
+* [Temperature screening](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_660.md)
 * [Transportation planning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_246.md)
 * [Urban forestry](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_25.md)
 * [Urban greening initiatives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_665.md)
@@ -53,14 +53,14 @@ The text is about the transmission of the COVID-19 virus, specifically in London
 ## This article points to following mitigation
 
 * [Enhanced cleaning and disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3123.md)
-* [Increased testing and contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_564.md)
-* [Increased ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_415.md)
+* [Increased testing and contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3123.md)
+* [Increased ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_564.md)
 * [Lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_427.md)
-* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3722.md)
-* [Quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_864.md)
-* [Self-isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1381.md)
-* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_415.md)
+* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
+* [Quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3722.md)
+* [Self-isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_864.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1381.md)
 * [Travel restrictions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3494.md)
 
 ## Title of the article

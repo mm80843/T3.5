@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_100 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_100 
 
 # __COVID-19: Risk assessment and mitigation measures in healthcare and non-healthcare workplaces__
 
@@ -55,10 +55,10 @@ The COVID-19 is a disease caused by a virus called SARS-CoV-2. It spreads from p
 
 ## This article points to following mitigation
 
-* [Enhanced ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3648.md)
-* [Negative pressure aiirs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3651.md)
-* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3647.md)
-* [Safe work practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3575.md)
+* [Enhanced ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3575.md)
+* [Negative pressure aiirs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3648.md)
+* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3651.md)
+* [Safe work practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3647.md)
 * [Surge capacity planning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3650.md)
 * [Transmission chain disruption](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3649.md)
 

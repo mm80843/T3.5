@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3764 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3764 
 
 # __Combined use of wbe and clinical testing__
 
@@ -25,8 +25,8 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Clinical testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2821.md)
-* [Qrt pcr testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2822.md)
+* [Clinical testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2822.md)
+* [Qrt pcr testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2821.md)
 * [Wastewater sampling](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2823.md)
 
 ## Property: has_MitigationPrinciple

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_32 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_32 
 
 # __Association of built environment attributes with the spread of COVID-19 at its initial stage in China__
 
@@ -34,8 +34,8 @@ This study looked at how different attributes of the built environment (BE) in C
 
 ## This article mentions these technologies
 
-* [Communication technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_0.md)
-* [Crowd management technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_544.md)
+* [Communication technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_544.md)
+* [Crowd management technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_0.md)
 * [Health education programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_76.md)
 * [Health screening technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_36.md)
 * [Infrastructure development](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_983.md)

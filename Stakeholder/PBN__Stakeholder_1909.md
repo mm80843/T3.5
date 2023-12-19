@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1909 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1909 
 
 # __Specific building occupants__
 
@@ -21,11 +21,11 @@
 
 ## Stakeholders in this stakeholder subgroup
 
-* [Occupant of commercial and healthcare facility](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1485.md)
-* [Occupant of residential building](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2510.md)
-* [Occupant of residential building in kuwait](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_969.md)
-* [Occupants of commercial and healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_281.md)
-* [Occupants of residential buildings](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_581.md)
+* [Occupant of commercial and healthcare facility](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_581.md)
+* [Occupant of residential building](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1485.md)
+* [Occupant of residential building in kuwait](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2510.md)
+* [Occupants of commercial and healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_969.md)
+* [Occupants of residential buildings](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_281.md)
 * [Occupants of residential buildings in kuwait](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_655.md)
 * [Tenant](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1908.md)
 * [Tenants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2511.md)

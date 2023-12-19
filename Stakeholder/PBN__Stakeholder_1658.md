@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1658 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1658 
 
 # __Companies and institutions__
 
@@ -21,20 +21,20 @@
 
 ## Stakeholders in this stakeholder subgroup
 
-* [Domestic abuse charity](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_931.md)
-* [Domestic violence organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1657.md)
-* [Essential service providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1332.md)
-* [Human resource department](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_673.md)
-* [Human resources](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1379.md)
-* [Human resources departments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1696.md)
-* [Labor organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_617.md)
-* [Labor unions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_839.md)
-* [Pest control companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1770.md)
-* [Professional organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1365.md)
-* [Public hospital](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1123.md)
-* [Public hospitals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_156.md)
-* [Such a employee](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1096.md)
-* [Such a hospital](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_904.md)
+* [Domestic abuse charity](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_904.md)
+* [Domestic violence organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_931.md)
+* [Essential service providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1657.md)
+* [Human resource department](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1332.md)
+* [Human resources](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_673.md)
+* [Human resources departments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1379.md)
+* [Labor organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1696.md)
+* [Labor unions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_617.md)
+* [Pest control companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_839.md)
+* [Professional organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1770.md)
+* [Public hospital](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1365.md)
+* [Public hospitals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1123.md)
+* [Such a employee](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_156.md)
+* [Such a hospital](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1096.md)
 * [Such as homes](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1772.md)
 * [Such as hospitals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1662.md)
 

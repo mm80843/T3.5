@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_222 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_222 
 
 # __Public health agencies__
 
@@ -103,16 +103,16 @@
 ## Stakeholders in this stakeholder subgroup
 
 * [Health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_394.md)
-* [Health authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_222.md)
-* [Health departments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_513.md)
-* [Local health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1842.md)
-* [Local health authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1843.md)
-* [National public health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1372.md)
-* [National public health agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1823.md)
-* [Public health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1828.md)
-* [Public health agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1837.md)
-* [Public-health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1841.md)
-* [Public-health agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_572.md)
+* [Health authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_572.md)
+* [Health departments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_222.md)
+* [Local health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_513.md)
+* [Local health authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1842.md)
+* [National public health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1843.md)
+* [National public health agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1372.md)
+* [Public health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1823.md)
+* [Public health agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1828.md)
+* [Public-health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1837.md)
+* [Public-health agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1841.md)
 
 ## These stakeholders can be supported by the following general blueprint(s)
 
@@ -146,7 +146,7 @@
 
 ## Type of the stakeholder
 
-* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_0.md)
-* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
-* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_0.md)
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_2.md)
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_1.md)
 

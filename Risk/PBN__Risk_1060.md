@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1060 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1060 
 
 # __Poor construction techniques and low-quality building materials__
 
@@ -29,7 +29,7 @@ The use of poor construction techniques and low-quality building materials in re
 
 ## Is the risk affecting GBN scales
 
-* [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_0.md)
 
 ## Mitigations of this risk
 
@@ -41,28 +41,28 @@ Higher energy consumption, increased maintenance costs, and potential discomfort
 
 ## People affected by this risk
 
-* [Builders](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_583.md)
-* [Contractors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_179.md)
+* [Builders](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_179.md)
+* [Contractors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_583.md)
 
 ## Stakeholders who can mitigate this risk
 
-* [Builders](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_583.md)
-* [Contractors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_179.md)
+* [Builders](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_179.md)
+* [Contractors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_583.md)
 * [Ministry of electricity and water mew](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_582.md)
 
 ## Technologies linked to the risk
 
-* [Inspections](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_82.md)
-* [Quality control measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_83.md)
-* [Training programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_84.md)
+* [Inspections](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_84.md)
+* [Quality control measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_82.md)
+* [Training programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_83.md)
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_8.md)
+* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_8.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Attractiveness](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_9.md)
+* [Attractiveness](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_9.md)
 
 ## Type of the risk
 

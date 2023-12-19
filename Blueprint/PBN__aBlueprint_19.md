@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__aBlueprint_19 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/pages/docs/Blueprint/index.md) >> Individual ID:PBN__aBlueprint_19 
 
 # __Implementing Disease Mitigation Strategies__
 
@@ -29,42 +29,42 @@
 ## 3. Blueprint impacts these stakeholders
 
 * [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_29.md)
-* [Developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_209.md)
-* [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
-* [Urban residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_635.md)
+* [Developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
+* [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_635.md)
+* [Urban residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_209.md)
 * [Urban wildlife](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_887.md)
 
 ## 4. Blueprint links to these mitigations
 
-* [Conduct gender-specific research on green space benefits, develop targeted interventions based on gender.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2242.md)
-* [Encourage indoor gardening, provide access to natural light, create green views in indoor spaces.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2762.md)
-* [Incorporate green spaces in healthcare facility design and planning, create healing gardens and outdoor areas for patients and staff](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2765.md)
-* [Increase public awareness and knowledge about the benefits and implementation of green roofs through education and outreach programs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2073.md)
-* [Provide incentives and subsidies to promote the installation of green roofs, and develop cost-effective maintenance strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2243.md)
+* [Conduct gender-specific research on green space benefits, develop targeted interventions based on gender.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2762.md)
+* [Encourage indoor gardening, provide access to natural light, create green views in indoor spaces.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2073.md)
+* [Incorporate green spaces in healthcare facility design and planning, create healing gardens and outdoor areas for patients and staff](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2243.md)
+* [Increase public awareness and knowledge about the benefits and implementation of green roofs through education and outreach programs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2242.md)
+* [Provide incentives and subsidies to promote the installation of green roofs, and develop cost-effective maintenance strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2765.md)
 
 ## 5. Blueprint mitigation can be owned by these stakeholders
 
-* [City governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_125.md)
-* [Community organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_354.md)
-* [Developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_150.md)
-* [Local governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_566.md)
-* [Urban planners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_635.md)
+* [City governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_150.md)
+* [Community organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_125.md)
+* [Developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_635.md)
+* [Local governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_354.md)
+* [Urban planners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_566.md)
 
 ## 6. Blueprint links to these benefits
 
 * [Health benefits](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_441.md)
-* [Improved mental health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_755.md)
-* [Wildlife support](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_802.md)
+* [Improved mental health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_802.md)
+* [Wildlife support](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_755.md)
 
 ## 7. Blueprint links to these technology
 
 * [Balconies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
 * [Green infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_146.md)
-* [Green roofs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
-* [Green spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1390.md)
-* [Green walls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_48.md)
-* [Investment in park infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3102.md)
-* [Nature-based solutions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1008.md)
-* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2995.md)
-* [Urban microclimatic control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2651.md)
+* [Green roofs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3102.md)
+* [Green spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_48.md)
+* [Green walls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1007.md)
+* [Investment in park infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1008.md)
+* [Nature-based solutions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1390.md)
+* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2651.md)
+* [Urban microclimatic control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2995.md)
 

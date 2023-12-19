@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2663 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2663 
 
 # __Improve access to safe drinking water and sanitation infrastructure.__
 
@@ -21,7 +21,7 @@
 
 ## Link between Blueprint and General ontology
 
-* [Managing drinking water safety measures](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_8.md)
+* [Managing drinking water safety measures](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_8.md)
 
 ## Risks possibly mitigated by this Mitigation
 

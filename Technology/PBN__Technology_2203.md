@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2203 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_2203 
 
 # __Surveillance and occupancy tracking__
 
@@ -21,14 +21,14 @@
 
 ## This Technology belongs to this TechnologySubgroup
 
-* [Advanced monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2215.md)
-* [Cctv](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_165.md)
-* [Contact tracing technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_488.md)
-* [Crowd monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_201.md)
-* [Monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1460.md)
-* [Monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1928.md)
-* [Monitoring techniques for rna degradation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1261.md)
-* [Occupancy tracking sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_200.md)
+* [Advanced monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_200.md)
+* [Cctv](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2215.md)
+* [Contact tracing technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_165.md)
+* [Crowd monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_488.md)
+* [Monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_201.md)
+* [Monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1460.md)
+* [Monitoring techniques for rna degradation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1928.md)
+* [Occupancy tracking sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1261.md)
 * [Occupancy tracking systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_773.md)
 * [Sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_25.md)
 * [Surveillance cameras](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1459.md)

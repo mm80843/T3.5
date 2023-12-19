@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1277 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1277 
 
 # __Lack of knowledge and awareness__
 
@@ -29,12 +29,12 @@ Insufficient understanding of COVID-19 transmission, prevention, and control mea
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Mitigations of this risk
 
-* [Disseminating accurate and up-to-date information, providing education and awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3630.md)
-* [Education and training](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3272.md)
+* [Disseminating accurate and up-to-date information, providing education and awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3272.md)
+* [Education and training](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3630.md)
 * [Proper training and education](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4580.md)
 * [Public health education and awareness](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1762.md)
 
@@ -57,11 +57,11 @@ Failure to implement effective preventive measures and control strategies
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_0.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_1.md)
+* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_1.md)
 
 ## Type of the risk
 

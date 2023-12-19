@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_139 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_139 
 
 # __Healthcare staff__
 
@@ -33,8 +33,8 @@
 
 ## This Stakeholder can get these Benefits from mitigation measures
 
-* [Early detection of infection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_177.md)
-* [Improved communication](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_454.md)
+* [Early detection of infection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_454.md)
+* [Improved communication](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_177.md)
 * [Prevention of transmission through sewage](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_276.md)
 * [Prevention of vertical transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_455.md)
 * [Professional networking](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_275.md)
@@ -44,6 +44,6 @@
 
 ## Type of the stakeholder
 
-* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_0.md)
-* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_0.md)
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_1.md)
 

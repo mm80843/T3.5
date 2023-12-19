@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_232 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/pages/docs/Benef/index.md) >> Individual ID:PBN__Benef_232 
 
 # __Reduced transmission__
 
@@ -38,8 +38,8 @@ Effective control of temperature and humidity can limit the airborne transmissio
 
 ## Risks which can benefit from this action
 
-* [Adjustability of indoor temperature](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_416.md)
-* [Enhanced hvac filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Adjustability of indoor temperature](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Enhanced hvac filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_416.md)
 * [Improved access to preventive measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_685.md)
 * [Incorporating vaccination uptake](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_563.md)
 * [Increased testing in densely pop.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_483.md)
@@ -58,9 +58,9 @@ Effective control of temperature and humidity can limit the airborne transmissio
 
 * [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
 * [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_29.md)
-* [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_20.md)
+* [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_59.md)
 * [Individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
-* [Occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_59.md)
+* [Occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_20.md)
 * [Residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_92.md)
 
 ## This benefit is realized in the following general blueprint(s)

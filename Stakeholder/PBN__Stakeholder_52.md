@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_52 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_52 
 
 # __Public__
 
@@ -43,11 +43,11 @@
 
 * [Citizens](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
 * [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_29.md)
-* [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2489.md)
-* [Global population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_278.md)
-* [The general population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2485.md)
-* [The general public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_952.md)
-* [The global population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_54.md)
+* [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_54.md)
+* [Global population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2489.md)
+* [The general population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_278.md)
+* [The general public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2485.md)
+* [The global population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_952.md)
 
 ## These stakeholders can be supported by the following general blueprint(s)
 
@@ -55,26 +55,26 @@
 
 ## This Stakeholder can get these Benefits from mitigation measures
 
-* [Access to real-time data](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_192.md)
+* [Access to real-time data](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_547.md)
 * [Accurate and reliable information dissemination](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_47.md)
-* [Disease transmission prevention](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_763.md)
-* [Disseminating evidence through various mediums](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_69.md)
-* [Enhanced antibacterial and antiviral properties](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_75.md)
-* [Enhanced coordination and cooperation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_76.md)
-* [Enhanced public perception](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_77.md)
-* [Fecal coliform and pathogen destruction in wastewater](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_375.md)
-* [Greater compliance with protective behaviors](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1011.md)
-* [Higher levels of protective behaviors](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_548.md)
-* [Identification of non-medical impacts](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1270.md)
-* [Improved accuracy](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_376.md)
-* [Improved adoption of protective behaviors](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_268.md)
-* [Improved air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_936.md)
-* [Improved communication and dissemination of accurate information](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_933.md)
-* [Improved information transparency](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_934.md)
-* [Improved public health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1092.md)
-* [Improved public trust](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_918.md)
-* [Improved risk perception](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_764.md)
-* [Improved virus survival](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_547.md)
+* [Disease transmission prevention](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_192.md)
+* [Disseminating evidence through various mediums](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_763.md)
+* [Enhanced antibacterial and antiviral properties](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_69.md)
+* [Enhanced coordination and cooperation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_75.md)
+* [Enhanced public perception](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_76.md)
+* [Fecal coliform and pathogen destruction in wastewater](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_77.md)
+* [Greater compliance with protective behaviors](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_375.md)
+* [Higher levels of protective behaviors](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1011.md)
+* [Identification of non-medical impacts](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_548.md)
+* [Improved accuracy](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1270.md)
+* [Improved adoption of protective behaviors](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_376.md)
+* [Improved air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_268.md)
+* [Improved communication and dissemination of accurate information](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_936.md)
+* [Improved information transparency](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_933.md)
+* [Improved public health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_934.md)
+* [Improved public trust](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1092.md)
+* [Improved risk perception](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_918.md)
+* [Improved virus survival](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_764.md)
 * [Improvement in mental well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_922.md)
 * [Inactivation of human coronaviruses](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_377.md)
 * [Increased awareness of severity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_378.md)
@@ -98,6 +98,6 @@
 
 ## Type of the stakeholder
 
-* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_0.md)
-* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_0.md)
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_1.md)
 

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3699 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3699 
 
 # __Sanitization__
 
@@ -27,11 +27,11 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Cleaning supplies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2769.md)
-* [Disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_148.md)
-* [Hand sanitizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_411.md)
-* [Sanitization tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_410.md)
-* [Sanitizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_768.md)
+* [Cleaning supplies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_410.md)
+* [Disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_411.md)
+* [Hand sanitizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_768.md)
+* [Sanitization tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2769.md)
+* [Sanitizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_148.md)
 * [Sanitizing products](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3597.md)
 
 ## Property: has_MitigationPrinciple

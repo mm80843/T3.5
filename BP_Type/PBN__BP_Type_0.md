@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [BP_Type](https://github.com/mm80843/T3.5/tree/main/docs/BP_Type/index.md) >> Individual ID:PBN__BP_Type_0 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [BP_Type](https://github.com/mm80843/T3.5/tree/pages/docs/BP_Type/index.md) >> Individual ID:PBN__BP_Type_0 
 
 # __Behavioural__
 

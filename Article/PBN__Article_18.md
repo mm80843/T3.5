@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_18 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_18 
 
 # __The impact of physical activity on psychological health during Covid-19 pandemic in Italy__
 
@@ -45,9 +45,9 @@ During the COVID-19 pandemic, people in Italy had to stay at home to stay safe. 
 
 ## This article points to following mitigation
 
-* [Home isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_73.md)
-* [Lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
-* [Regular exercise](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_427.md)
+* [Home isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_427.md)
+* [Regular exercise](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_73.md)
 * [Regular physical activity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4189.md)
 * [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4190.md)
 

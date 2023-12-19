@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3972 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3972 
 
 # __Central control of medical countermeasures__
 
@@ -25,8 +25,8 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Allocation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2960.md)
-* [Procurement](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2958.md)
+* [Allocation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2958.md)
+* [Procurement](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2960.md)
 * [Stockpiling](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2959.md)
 
 ## Property: has_MitigationPrinciple

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [aBlueprint](https://github.com/mm80843/T3.5/tree/main/docs/aBlueprint/index.md) >> Individual ID:PBN__aBlueprint_31 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [aBlueprint](https://github.com/mm80843/T3.5/tree/pages/docs/aBlueprint/index.md) >> Individual ID:PBN__aBlueprint_31 
 
 # __Implementing Data-Driven Measures to Control Contagious Diseases__
 
@@ -36,35 +36,35 @@
 
 ## 4. Blueprint links to these mitigations
 
-* [Data mining for insights](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1666.md)
-* [Develop tools and platforms for easy access to data from multiple sources](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2772.md)
+* [Data mining for insights](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1006.md)
+* [Develop tools and platforms for easy access to data from multiple sources](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3069.md)
 * [Increase production and distribution of ppe, stockpiling for emergencies, and implementing reuse and decontamination strategies.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1507.md)
-* [Invest in infrastructure for walking and cycling, create safe routes, implement traffic calming measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3069.md)
-* [Promote transparency, standardization, and collaboration for data sharing across geographies.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1006.md)
+* [Invest in infrastructure for walking and cycling, create safe routes, implement traffic calming measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1666.md)
+* [Promote transparency, standardization, and collaboration for data sharing across geographies.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2772.md)
 
 ## 5. Blueprint mitigation can be owned by these stakeholders
 
 * [Data analysts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
 * [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_55.md)
-* [Government agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_422.md)
-* [Health organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1569.md)
-* [Software developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_477.md)
+* [Government agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_477.md)
+* [Health organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_422.md)
+* [Software developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1569.md)
 
 ## 6. Blueprint links to these benefits
 
-* [Expanded 5g coverage and connectivity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_41.md)
-* [Improved access to patients](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_42.md)
+* [Expanded 5g coverage and connectivity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_42.md)
+* [Improved access to patients](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_41.md)
 * [Improved network scalability and quality of service](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_391.md)
 
 ## 7. Blueprint links to these technology
 
-* [Educational programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3846.md)
-* [Gps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3847.md)
-* [Mobile app](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
+* [Educational programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
+* [Gps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2398.md)
+* [Mobile app](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2323.md)
 * [Nucleic acid extraction](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_404.md)
-* [Rt-qpcr](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2398.md)
-* [Smartphones](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2399.md)
-* [Telecommunication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2323.md)
+* [Rt-qpcr](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2399.md)
+* [Smartphones](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3127.md)
+* [Telecommunication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3847.md)
 * [Video conferencing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1233.md)
 * [Wearable technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_837.md)
 

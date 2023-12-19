@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_184 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_184 
 
 # __Coronavirus questions that will not go away: interrogating urban and socio-spatial implications of COVID-19 measures__
 
@@ -28,15 +28,15 @@ The COVID-19 pandemic has caused a lot of sickness and death around the world. T
 
 ## This article mentions these technologies
 
-* [Air filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1097.md)
-* [Building codes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_49.md)
-* [Emergency response planning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_404.md)
-* [Investment in healthcare infrastructure and resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_658.md)
-* [Mixed-use development](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1493.md)
-* [Public space design with social distancing in mind](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1494.md)
-* [Remote healthcare technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_203.md)
-* [Remote work options](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1258.md)
-* [Sanitation protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_47.md)
+* [Air filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_47.md)
+* [Building codes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_404.md)
+* [Emergency response planning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1097.md)
+* [Investment in healthcare infrastructure and resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_49.md)
+* [Mixed-use development](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_658.md)
+* [Public space design with social distancing in mind](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1493.md)
+* [Remote healthcare technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1494.md)
+* [Remote work options](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_203.md)
+* [Sanitation protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1258.md)
 * [Social media platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1495.md)
 * [Testing and contact tracing technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_36.md)
 * [Travel restrictions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1496.md)

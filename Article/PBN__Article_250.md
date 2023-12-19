@@ -1,11 +1,11 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_250 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_250 
 
 # __The three modes of existence of the pandemic smart city__
 
 ## Benefits listed in this article
 
-* [Better crisis management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1198.md)
-* [Efficient resource utilization](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1196.md)
+* [Better crisis management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1196.md)
+* [Efficient resource utilization](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1198.md)
 * [Protection of civil rights](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1197.md)
 * [Streamlined crisis management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1200.md)
 * [Support for vulnerable populations](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1199.md)

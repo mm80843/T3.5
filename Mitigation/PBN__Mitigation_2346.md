@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2346 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2346 
 
 # __Increase ventilation rates, modify ventilation systems, avoid air recirculation__
 
@@ -21,7 +21,7 @@
 
 ## Link between Blueprint and General ontology
 
-* [Control airflows in spaces & Avoid air recirculation](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_4.md)
+* [Control airflows in spaces & Avoid air recirculation](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_4.md)
 
 ## Risks possibly mitigated by this Mitigation
 

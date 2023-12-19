@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1123 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1123 
 
 # __Disruption of supply chains__
 
@@ -32,8 +32,8 @@ Breakdown of global and local supply chains during outbreaks
 
 ## Is the risk affecting GBN scales
 
-* [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_0.md)
 
 ## Mitigations of this risk
 
@@ -49,38 +49,38 @@ Limited access to essential goods and services
 ## People affected by this risk
 
 * [Businesses](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
-* [Consumers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_283.md)
-* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_389.md)
+* [Consumers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_34.md)
+* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_283.md)
 * [Industries](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_147.md)
-* [Manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_34.md)
+* [Manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_389.md)
 * [Retailers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_146.md)
 * [Suppliers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_323.md)
 
 ## Stakeholders who can mitigate this risk
 
 * [Businesses](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
-* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_629.md)
-* [Industry associations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_983.md)
+* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_983.md)
+* [Industry associations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_34.md)
 * [Manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_147.md)
-* [Supply chain managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_34.md)
+* [Supply chain managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_629.md)
 
 ## Technologies linked to the risk
 
 * [Advanced logistics systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_211.md)
-* [Artificial intelligence](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_637.md)
-* [Blockchain technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_210.md)
-* [Digital supply chain management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1229.md)
-* [Local sourcing networks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_356.md)
+* [Artificial intelligence](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_356.md)
+* [Blockchain technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_637.md)
+* [Digital supply chain management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_210.md)
+* [Local sourcing networks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1229.md)
 * [Localization of production](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1691.md)
 * [Supply chain management software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1796.md)
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Community infrastructures](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_9.md)
+* [Community infrastructures](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_9.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Mobility](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_14.md)
+* [Mobility](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_14.md)
 
 ## Type of the risk
 

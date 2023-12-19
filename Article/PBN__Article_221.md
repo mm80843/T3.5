@@ -1,14 +1,14 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_221 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_221 
 
 # __Envisioning a resilient future for biodiversity conservation in the wake of the COVID‐19 pandemic__
 
 ## Benefits listed in this article
 
-* [Enhanced financial resilience](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1058.md)
-* [Enhanced local engagement and ownership](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1059.md)
-* [Enhanced understanding of risks and impacts](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1056.md)
-* [Improved collaboration and cooperation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_145.md)
-* [Rethinking social and economic models](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1060.md)
+* [Enhanced financial resilience](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1060.md)
+* [Enhanced local engagement and ownership](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1058.md)
+* [Enhanced understanding of risks and impacts](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1059.md)
+* [Improved collaboration and cooperation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1056.md)
+* [Rethinking social and economic models](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1057.md)
 
 ## DOI of the article
 

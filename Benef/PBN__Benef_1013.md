@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1013 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/pages/docs/Benef/index.md) >> Individual ID:PBN__Benef_1013 
 
 # __Early warning system for emerging risks__
 
@@ -24,6 +24,6 @@ Early detection and rapid response to disease outbreaks can help contain their s
 
 ## Stakeholders benefitting from this Benefit
 
-* [Policymakers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_404.md)
-* [Public health practitioners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_126.md)
+* [Policymakers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_126.md)
+* [Public health practitioners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_404.md)
 

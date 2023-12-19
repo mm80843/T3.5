@@ -1,12 +1,12 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1132 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1132 
 
 # __Ieq monitoring system__
 
 ## Benefits linked to a risk
 
 * [Disease prevention and control](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_169.md)
-* [Energy efficiency improvement](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1122.md)
-* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1020.md)
+* [Energy efficiency improvement](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1020.md)
+* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1122.md)
 * [Improved occupant comfort](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1123.md)
 
 ## Category to which it belongs

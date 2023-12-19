@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_209 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_209 
 
 # __Urban residents__
 
@@ -71,14 +71,14 @@
 
 ## This Stakeholder can get these Benefits from mitigation measures
 
-* [Cooling effect](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_441.md)
-* [Heat reduction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_192.md)
-* [Heat stress reduction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_471.md)
-* [Improved air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_174.md)
-* [Improved community resilience](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1294.md)
-* [Improved mental and physical health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1295.md)
-* [Improved mental health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1296.md)
-* [Improved physical health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_416.md)
+* [Cooling effect](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_192.md)
+* [Heat reduction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_441.md)
+* [Heat stress reduction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_416.md)
+* [Improved air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_471.md)
+* [Improved community resilience](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_174.md)
+* [Improved mental and physical health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1294.md)
+* [Improved mental health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1295.md)
+* [Improved physical health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1296.md)
 * [Increased social cohesion](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1252.md)
 * [Mitigation of urban heat island effect](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1253.md)
 * [Positive environmental externalities](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_886.md)
@@ -87,6 +87,6 @@
 
 ## Type of the stakeholder
 
-* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_0.md)
-* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_0.md)
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_1.md)
 

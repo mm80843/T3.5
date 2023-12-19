@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_8 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_8 
 
 # __COVID-19 and the rise of intimate partner violence__
 
@@ -28,15 +28,15 @@ During the COVID-19 pandemic, many countries implemented stay-at-home policies t
 
 ## This article mentions these technologies
 
-* [Centralized reporting platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_43.md)
-* [Digital data collection systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_39.md)
-* [Digital platforms and online resources for reporting and seeking help](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_42.md)
-* [Digital platforms for counseling](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_44.md)
-* [Financial support programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_45.md)
-* [Helpline services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_40.md)
-* [Job creation initiatives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_41.md)
-* [Online campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_46.md)
-* [Social media platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_47.md)
+* [Centralized reporting platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_47.md)
+* [Digital data collection systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_43.md)
+* [Digital platforms and online resources for reporting and seeking help](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_39.md)
+* [Digital platforms for counseling](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_42.md)
+* [Financial support programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_44.md)
+* [Helpline services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_45.md)
+* [Job creation initiatives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_40.md)
+* [Online campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_41.md)
+* [Social media platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_46.md)
 
 ## This article points to following mitigation
 

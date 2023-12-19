@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4340 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4340 
 
 # __Mechanical filtration__
 
@@ -24,8 +24,8 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Epm1 95% filter](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1882.md)
-* [Filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_672.md)
+* [Epm1 95% filter](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_672.md)
+* [Filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1882.md)
 * [Hepa filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3236.md)
 * [Photocatalytic oxidation filter](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3235.md)
 * [Pm2.5 filter](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3234.md)

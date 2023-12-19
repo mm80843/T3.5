@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_63 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_63 
 
 # __Covid-19 spread__
 
@@ -21,9 +21,9 @@
 
 ## Mitigations of this risk
 
-* [Ban on public gatherings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_74.md)
-* [Closure of entertainment venues](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
-* [Early enforcement of lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_564.md)
+* [Ban on public gatherings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Closure of entertainment venues](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_564.md)
+* [Early enforcement of lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_74.md)
 * [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
 * [Mask-wearing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_956.md)
 * [Non-pharmaceutical public health interventions nphis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_75.md)

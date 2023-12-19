@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_164 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_164 
 
 # __Smart cities and a data-driven response to COVID-19__
 
@@ -32,9 +32,9 @@ A city called Newcastle in England has a program called the Newcastle Urban Obse
 
 ## This article mentions these technologies
 
-* [Access control protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_94.md)
-* [Benchmarking](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_82.md)
-* [Blockchain](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_152.md)
+* [Access control protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_152.md)
+* [Benchmarking](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_94.md)
+* [Blockchain](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_82.md)
 * [Data analysis tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_820.md)
 * [Data anonymization](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_819.md)
 * [Data encryption techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_824.md)

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_142 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_142 
 
 # __Sustainability of Coronavirus on Different Surfaces__
 
@@ -36,23 +36,23 @@ A virus called COVID-19 has been spreading all over the world. It started from b
 
 ## This article mentions these technologies
 
-* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
-* [Biodegradable materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1650.md)
-* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1651.md)
-* [Disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1648.md)
-* [Eco-friendly disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1649.md)
-* [Mobile medical units](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
-* [Telehealth technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_608.md)
-* [Testing kits](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_411.md)
+* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+* [Biodegradable materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_411.md)
+* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
+* [Disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1650.md)
+* [Eco-friendly disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1651.md)
+* [Mobile medical units](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1648.md)
+* [Telehealth technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1649.md)
+* [Testing kits](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_608.md)
 * [Uv-c light technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1647.md)
 
 ## This article points to following mitigation
 
 * [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
 * [Quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3123.md)
-* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
-* [Surface disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_627.md)
-* [Ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1130.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1130.md)
+* [Surface disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
+* [Ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_627.md)
 
 ## Title of the article
 

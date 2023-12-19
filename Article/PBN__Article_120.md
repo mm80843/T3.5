@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_120 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_120 
 
 # __COVID-19 Experience Transforming the Protective Environment of Office Buildings and Spaces__
 
@@ -42,16 +42,16 @@ During the COVID-19 pandemic, many people got sick and many people died. It was 
 
 ## This article mentions these technologies
 
-* [Air filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_134.md)
-* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_82.md)
-* [Air quality monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
-* [Communication platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1288.md)
-* [Enforcement mechanisms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1289.md)
-* [Hand sanitizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_135.md)
-* [Improved hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1150.md)
-* [Occupancy tracking systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_410.md)
-* [Regular cleaning and disinfection technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_660.md)
-* [Remote work technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1109.md)
+* [Air filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_410.md)
+* [Air quality monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1109.md)
+* [Communication platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_134.md)
+* [Enforcement mechanisms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_82.md)
+* [Hand sanitizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1288.md)
+* [Improved hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1289.md)
+* [Occupancy tracking systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_135.md)
+* [Regular cleaning and disinfection technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1150.md)
+* [Remote work technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_660.md)
 * [Touch-free technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_773.md)
 * [Training programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1290.md)
 

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [aBlueprint](https://github.com/mm80843/T3.5/tree/main/docs/aBlueprint/index.md) >> Individual ID:PBN__aBlueprint_28 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [aBlueprint](https://github.com/mm80843/T3.5/tree/pages/docs/aBlueprint/index.md) >> Individual ID:PBN__aBlueprint_28 
 
 # __Implementing Real-time Epidemiological Data Collection and Analysis to Mitigate Virus Spread__
 
@@ -28,24 +28,24 @@
 
 ## 3. Blueprint impacts these stakeholders
 
-* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
-* [Healthcare professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_46.md)
-* [Policymakers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
-* [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_32.md)
-* [Scientists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_126.md)
+* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_46.md)
+* [Healthcare professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
+* [Policymakers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
+* [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_126.md)
+* [Scientists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_32.md)
 
 ## 4. Blueprint links to these mitigations
 
-* [Conduct research to gather data on virus behavior and characteristics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2316.md)
-* [Develop platforms for real-time data collection and analysis.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2850.md)
-* [Develop tools and platforms to provide direct access to real-time epidemiological data](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3065.md)
-* [Ncov2019 package](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4323.md)
-* [Real-time data sharing through dashboards](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1051.md)
+* [Conduct research to gather data on virus behavior and characteristics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3065.md)
+* [Develop platforms for real-time data collection and analysis.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1051.md)
+* [Develop tools and platforms to provide direct access to real-time epidemiological data](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4323.md)
+* [Ncov2019 package](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2850.md)
+* [Real-time data sharing through dashboards](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2316.md)
 
 ## 5. Blueprint mitigation can be owned by these stakeholders
 
-* [Data analysts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
-* [Data scientists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
+* [Data analysts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
+* [Data scientists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
 * [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_216.md)
 * [Healthcare organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_625.md)
 * [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_477.md)
@@ -53,18 +53,18 @@
 ## 6. Blueprint links to these benefits
 
 * [Better crisis management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_995.md)
-* [Inactivation of respiratory animal viral aerosols](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1196.md)
-* [Pathogen inactivation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_432.md)
+* [Inactivation of respiratory animal viral aerosols](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_432.md)
+* [Pathogen inactivation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1196.md)
 
 ## 7. Blueprint links to these technology
 
-* [254 nm uv lamps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_278.md)
-* [Ai](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
-* [Big data analytics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_277.md)
-* [Data analytics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2041.md)
-* [Ehrs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2336.md)
-* [Iot](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1067.md)
-* [Machine learning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_200.md)
-* [Sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3759.md)
-* [Uv lamps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2694.md)
+* [254 nm uv lamps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
+* [Ai](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_277.md)
+* [Big data analytics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2583.md)
+* [Data analytics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_278.md)
+* [Ehrs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1067.md)
+* [Iot](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3759.md)
+* [Machine learning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2336.md)
+* [Sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2041.md)
+* [Uv lamps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_200.md)
 

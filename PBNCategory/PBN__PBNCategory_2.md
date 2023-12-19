@@ -1,14 +1,14 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_2 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/pages/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_2 
 
 # __Synonym: proactive surveillance and response to disease transmission, prevention, and control.__
 
 ## Items covered in this category
 
-* [Accurate pandemic forecasting](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_3.md)
-* [Better handling of pandemic impact](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1201.md)
-* [Better interpretation of epidemiological studies](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_878.md)
-* [Bolstering european early warning for disease events](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_988.md)
-* [Control and prevention of future outbreaks](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_166.md)
+* [Accurate pandemic forecasting](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_988.md)
+* [Better handling of pandemic impact](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_166.md)
+* [Better interpretation of epidemiological studies](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_3.md)
+* [Bolstering european early warning for disease events](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1201.md)
+* [Control and prevention of future outbreaks](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_878.md)
 * [Correlating trends with infected individuals](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_358.md)
 * [Delayed outbreaks](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_8.md)
 * [Early detection and monitoring of pathogens](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1272.md)

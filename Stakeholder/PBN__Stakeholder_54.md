@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_54 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_54 
 
 # __Citizens__
 
@@ -45,15 +45,15 @@
 
 ## This Stakeholder can get these Benefits from mitigation measures
 
-* [Awareness and understanding](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_71.md)
-* [Balancing privacy with value of data analytics](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_872.md)
-* [Better crisis management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_70.md)
-* [Collaborative governance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_72.md)
-* [Data protection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_73.md)
-* [Efficient resource utilization](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_539.md)
-* [Enhanced coordination](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_874.md)
-* [Establishing trust as a reference center](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_871.md)
-* [Improved accessibility to ugs](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1196.md)
+* [Awareness and understanding](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1196.md)
+* [Balancing privacy with value of data analytics](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_71.md)
+* [Better crisis management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_872.md)
+* [Collaborative governance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_70.md)
+* [Data protection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_72.md)
+* [Efficient resource utilization](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_73.md)
+* [Enhanced coordination](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_539.md)
+* [Establishing trust as a reference center](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_874.md)
+* [Improved accessibility to ugs](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_871.md)
 * [Improved transparency](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_543.md)
 * [Increased recognition of ugs importance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_779.md)
 * [Proper data management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_817.md)
@@ -66,6 +66,6 @@
 
 ## Type of the stakeholder
 
-* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_0.md)
-* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_0.md)
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_1.md)
 

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_21 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/pages/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_21 
 
 # __Drinking water safety - biofilm formation__
 
@@ -21,29 +21,29 @@ https://pubmed.ncbi.nlm.nih.gov/12701901/
 
 ## Enablers of the blueprint
 
-* [Data Analytics](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_5.md)
-* [IoT](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_7.md)
-* [Water sensors](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_2.md)
+* [Data Analytics](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_5.md)
+* [IoT](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_7.md)
+* [Water sensors](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_2.md)
 
 ## GBN Phase of the blueprint
 
-* [Operational](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Phase_0.md)
+* [Operational](https://github.com/mm80843/T3.5/blob/pages/BP_Phase/PBN__BP_Phase_0.md)
 
 ## Interventions of the blueprint
 
-* [Maintenance / decontamination of building water sytems](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_9.md)
-* [Managing drinking water safety measures](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_8.md)
+* [Maintenance / decontamination of building water sytems](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_9.md)
+* [Managing drinking water safety measures](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_8.md)
 
 ## Mode of transmission covered by the blueprint
 
-* [Direct contact](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_2.md)
-* [Fomite](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_3.md)
+* [Direct contact](https://github.com/mm80843/T3.5/blob/pages/BP_Transmission/PBN__BP_Transmission_2.md)
+* [Fomite](https://github.com/mm80843/T3.5/blob/pages/BP_Transmission/PBN__BP_Transmission_3.md)
 
 ## Possible mitigations of the BP
 
-* [Environmental cleaning and disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4362.md)
-* [Environmental sanitation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_492.md)
-* [Increased sanitation monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_149.md)
+* [Environmental cleaning and disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_149.md)
+* [Environmental sanitation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4362.md)
+* [Increased sanitation monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_492.md)
 * [Monitoring wastewater](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5211.md)
 * [Proper treatment and disinfection of water and wastewater systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5167.md)
 * [Regular monitoring and maintenance of filters, prevention of microbial growth.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1364.md)
@@ -81,7 +81,7 @@ Monitoring biofilm growth in water distribution systems is not a simple, time-co
 
 ## Scale of the of the blueprint
 
-* [Both](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Scale_1.md)
+* [Both](https://github.com/mm80843/T3.5/blob/pages/BP_Scale/PBN__BP_Scale_1.md)
 
 ## Title of the blueprint
 
@@ -89,11 +89,11 @@ PBN:BP_22
 
 ## Type of deployment of the blueprint
 
-* [Permanent](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Permanent_1.md)
+* [Permanent](https://github.com/mm80843/T3.5/blob/pages/BP_Permanent/PBN__BP_Permanent_1.md)
 
 ## Type of the blueprint
 
-* [Technical](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Type_1.md)
+* [Technical](https://github.com/mm80843/T3.5/blob/pages/BP_Type/PBN__BP_Type_1.md)
 
 ## Value proposition of the blueprint
 

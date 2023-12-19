@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2126 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_2126 
 
 # __Green and outdoor spaces__
 
@@ -22,8 +22,8 @@
 ## This Technology belongs to this TechnologySubgroup
 
 * [Closed streets](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_146.md)
-* [Green infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1618.md)
-* [Green infrastructure design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_48.md)
+* [Green infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_48.md)
+* [Green infrastructure design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1618.md)
 * [Green roof and wall technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_661.md)
 * [Green roof installations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_844.md)
 * [Green spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_841.md)

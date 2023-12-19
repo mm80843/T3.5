@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_487 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_487 
 
 # __Immigrants__
 
@@ -37,15 +37,15 @@
 
 ## This Stakeholder can get these Benefits from mitigation measures
 
-* [Early detection and treatment](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_898.md)
-* [Improved health literacy](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_181.md)
-* [Increased inclusivity and accessibility](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1343.md)
-* [Increased skill levels](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1344.md)
+* [Early detection and treatment](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1344.md)
+* [Improved health literacy](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_898.md)
+* [Increased inclusivity and accessibility](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_181.md)
+* [Increased skill levels](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1343.md)
 * [Increased vaccination coverage](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1246.md)
 * [Minimized job losses](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1345.md)
 
 ## Type of the stakeholder
 
-* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_0.md)
-* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_0.md)
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_1.md)
 

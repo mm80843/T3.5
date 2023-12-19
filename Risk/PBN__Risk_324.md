@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_324 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_324 
 
 # __Covid-19 pandemic__
 
@@ -21,9 +21,9 @@
 
 ## Mitigations of this risk
 
-* [Adaptation of tourism offerings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_672.md)
-* [Baseline scenario](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1231.md)
-* [Communication strategy](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_427.md)
+* [Adaptation of tourism offerings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_427.md)
+* [Baseline scenario](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_672.md)
+* [Communication strategy](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1231.md)
 * [Conditional lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_695.md)
 * [Development of travel anxiety reduction strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_697.md)
 * [Effective supply chain management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_410.md)

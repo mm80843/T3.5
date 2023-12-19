@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_238 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_238 
 
 # __Indirect effects of COVID-19 on the environment__
 
@@ -33,8 +33,8 @@ The new coronavirus, called SARS-CoV2, has had both positive and negative effect
 ## This article mentions these technologies
 
 * [Air pollution monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
-* [Beach monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_49.md)
-* [Education and awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_864.md)
+* [Beach monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_864.md)
+* [Education and awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_49.md)
 * [Noise reduction technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_746.md)
 * [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_233.md)
 * [Recycling infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2000.md)

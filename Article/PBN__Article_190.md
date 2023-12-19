@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_190 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_190 
 
 # __How loneliness is talked about in social media during COVID-19 pandemic: Text mining of 4,492 Twitter feeds__
 
@@ -33,10 +33,10 @@ This study looked at how people on Twitter talked about loneliness during the CO
 
 ## This article mentions these technologies
 
-* [Comparative data analysis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_895.md)
-* [Data analysis tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_426.md)
-* [Digital communication platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_896.md)
-* [Interviews](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_47.md)
+* [Comparative data analysis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_426.md)
+* [Data analysis tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_47.md)
+* [Digital communication platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_895.md)
+* [Interviews](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_896.md)
 * [Multilingual social media platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_897.md)
 * [Research methodologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_564.md)
 * [Social media](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_552.md)

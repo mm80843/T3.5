@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1887 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1887 
 
 # __Building conditions__
 
@@ -21,11 +21,11 @@
 
 ## Stakeholders in this stakeholder subgroup
 
-* [Building occupant in building without iaq monitoring system](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1183.md)
-* [Building occupant in facility with faulty drainage system](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2517.md)
-* [Building occupant in indoor space sharing the same hvac system](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1197.md)
-* [Building occupants in facilities with faulty drainage systems](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_922.md)
-* [Building occupants in indoor spaces sharing the same hvac system](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1199.md)
+* [Building occupant in building without iaq monitoring system](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1199.md)
+* [Building occupant in facility with faulty drainage system](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1183.md)
+* [Building occupant in indoor space sharing the same hvac system](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2517.md)
+* [Building occupants in facilities with faulty drainage systems](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1197.md)
+* [Building occupants in indoor spaces sharing the same hvac system](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_922.md)
 * [Occupant in crowded](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1201.md)
 * [Occupant of building with contaminated surface](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1198.md)
 * [Occupant of building with inefficient thermal comfort](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1200.md)

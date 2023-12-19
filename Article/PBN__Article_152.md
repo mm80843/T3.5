@@ -1,11 +1,11 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_152 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_152 
 
 # __Epidemics, Planning and the City: A Special Issue of Planning Perspectives__
 
 ## Benefits listed in this article
 
-* [Enhanced quality of life](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_79.md)
-* [Improved public health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_47.md)
+* [Enhanced quality of life](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_47.md)
+* [Improved public health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_79.md)
 * [Increased healthcare access](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_761.md)
 * [Prevention of disease spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_762.md)
 * [Reduced disease transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_763.md)
@@ -32,11 +32,11 @@ The coronavirus pandemic has made people think about how cities can be designed 
 
 ## This article mentions these technologies
 
-* [Community health workers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_19.md)
-* [Contact tracing technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_73.md)
-* [Data analytics for public health monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_469.md)
-* [Digital health solutions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_29.md)
-* [Green infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_48.md)
+* [Community health workers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_48.md)
+* [Contact tracing technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_19.md)
+* [Data analytics for public health monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_73.md)
+* [Digital health solutions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_469.md)
+* [Green infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_29.md)
 * [Health education platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_470.md)
 * [Mobile health clinics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_468.md)
 * [Modular healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_472.md)
@@ -48,10 +48,10 @@ The coronavirus pandemic has made people think about how cities can be designed 
 
 ## This article points to following mitigation
 
-* [Access to fresh air](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_416.md)
-* [Adaptability of urban fabrics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3571.md)
-* [Behavioral interventions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3567.md)
-* [Climate-sensitive design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3123.md)
+* [Access to fresh air](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3123.md)
+* [Adaptability of urban fabrics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_416.md)
+* [Behavioral interventions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3571.md)
+* [Climate-sensitive design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3567.md)
 * [Development of public health infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3570.md)
 * [Improvement of sanitary infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3565.md)
 * [Quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3564.md)

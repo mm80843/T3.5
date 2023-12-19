@@ -1,19 +1,19 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_281 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/pages/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_281 
 
 # __Participants in the iot ecosystem, including users, data collectors, technology providers, essential service providers, and information providers.__
 
 ## Items covered in this category
 
-* [Access control](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1146.md)
-* [And service providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_911.md)
-* [Blockchain networks](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_474.md)
-* [Contact tracing entities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1704.md)
-* [Data collectors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_325.md)
-* [Data management and security](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1398.md)
-* [Data protection officers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1432.md)
-* [Data providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2579.md)
-* [Data sharing partners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_628.md)
-* [Digital and information access](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1426.md)
+* [Access control](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1426.md)
+* [And service providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1146.md)
+* [Blockchain networks](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_911.md)
+* [Contact tracing entities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_474.md)
+* [Data collectors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1704.md)
+* [Data management and security](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_325.md)
+* [Data protection officers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1398.md)
+* [Data providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1432.md)
+* [Data sharing partners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2579.md)
+* [Digital and information access](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_628.md)
 * [Electricity providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1401.md)
 * [Energy provider](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1392.md)
 * [Energy providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1393.md)

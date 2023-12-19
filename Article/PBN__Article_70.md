@@ -1,11 +1,11 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_70 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_70 
 
 # __SARS-CoV-2 in wastewater: potential health risk, but also data source__
 
 ## Benefits listed in this article
 
-* [Early detection of virus circulation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_358.md)
-* [Improved management of liver transplant recipients](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_360.md)
+* [Early detection of virus circulation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_360.md)
+* [Improved management of liver transplant recipients](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_358.md)
 * [Indication of virus circulation in the human population](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_362.md)
 * [Informative data in areas with scarce data](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_359.md)
 * [Protection from infectious diseases](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_361.md)

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_159 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_159 
 
 # __Retail Signage During the COVID-19 Pandemic__
 
@@ -32,10 +32,10 @@ During the COVID-19 pandemic, social distancing became very important to stop th
 
 ## This article mentions these technologies
 
-* [Apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1088.md)
-* [Clear guidelines and communication protocols can be established to ensure consistent messaging across all retail locations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_165.md)
-* [Digital signage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_364.md)
-* [Email](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_47.md)
+* [Apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_47.md)
+* [Clear guidelines and communication protocols can be established to ensure consistent messaging across all retail locations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1088.md)
+* [Digital signage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_165.md)
+* [Email](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_364.md)
 * [Occupancy tracking systems can be used to monitor and enforce compliance with social distancing measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1092.md)
 * [Phone](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1087.md)
 * [Printing and lamination technologies can be used to create professional signs that are durable and visually appealing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1089.md)

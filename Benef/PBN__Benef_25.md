@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_25 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/pages/docs/Benef/index.md) >> Individual ID:PBN__Benef_25 
 
 # __Reduced inequalities in remote work and education opportunities__
 
@@ -24,7 +24,7 @@ Ensuring equitable access to remote work and education reduces inequalities in e
 
 ## Stakeholders benefitting from this Benefit
 
-* [Low-income individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_22.md)
-* [Marginalized communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_23.md)
-* [Women](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_21.md)
+* [Low-income individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_23.md)
+* [Marginalized communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_21.md)
+* [Women](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_22.md)
 

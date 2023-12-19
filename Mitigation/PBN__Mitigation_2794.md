@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2794 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2794 
 
 # __Use individual or limited capacity transportation with partitions/barriers, enforce mask-wearing and no talking, disinfect vehicles after each use__
 
@@ -25,7 +25,7 @@
 
 ## Link between Blueprint and General ontology
 
-* [Optimize users flows to prevent contamination](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_17.md)
+* [Optimize users flows to prevent contamination](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_17.md)
 
 ## Risks possibly mitigated by this Mitigation
 

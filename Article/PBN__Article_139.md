@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_139 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_139 
 
 # __COVID-ABS: An agent-based model of COVID-19 epidemic to simulate health and economic effects of social distancing interventions__
 
@@ -37,10 +37,10 @@ The Coronavirus disease 2019 (COVID-19) pandemic is a sickness caused by a virus
 
 ## This article mentions these technologies
 
-* [Advanced manufacturing techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
+* [Advanced manufacturing techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_493.md)
 * [Air filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_895.md)
-* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_110.md)
-* [Contactless technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_493.md)
+* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
+* [Contactless technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_110.md)
 * [Diagnostic testing systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_203.md)
 * [Digital communication platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1553.md)
 * [Digital surveillance systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_896.md)

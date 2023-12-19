@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_73 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/pages/docs/Benef/index.md) >> Individual ID:PBN__Benef_73 
 
 # __Proper data management__
 
@@ -24,7 +24,7 @@ Establishes guidelines for the ethical and responsible use of data, ensuring dat
 
 ## Stakeholders benefitting from this Benefit
 
-* [Citizens](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_55.md)
+* [Citizens](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_56.md)
 * [Government agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_54.md)
-* [Private entities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_56.md)
+* [Private entities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_55.md)
 

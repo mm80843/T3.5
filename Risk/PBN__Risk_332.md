@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_332 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_332 
 
 # __Social distancing__
 
@@ -30,16 +30,16 @@ Measures of social distancing reduce face-to-face physical activity and group ph
 
 ## Is the risk affecting GBN scales
 
-* [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_0.md)
 
 ## Mitigations of this risk
 
-* [Cancellation of mass gatherings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_435.md)
-* [Closure of educational institutions and workplaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_432.md)
-* [Continuity of essential services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_433.md)
-* [Flexible work schedules](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_434.md)
-* [Implement measures to enforce physical distancing.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_436.md)
-* [Internet-based communication and mental well-being support](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Cancellation of mass gatherings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Closure of educational institutions and workplaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_435.md)
+* [Continuity of essential services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_432.md)
+* [Flexible work schedules](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_433.md)
+* [Implement measures to enforce physical distancing.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_434.md)
+* [Internet-based communication and mental well-being support](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_436.md)
 * [Isolation and quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1489.md)
 * [Monitoring of agglomerations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2459.md)
 * [Promote alternative forms of exercise, encourage online supervised exercise and remote social interaction.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3643.md)
@@ -68,11 +68,11 @@ Reduced social interaction and exacerbation of psychological distress.
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_0.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_1.md)
+* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_1.md)
 
 ## Type of the risk
 

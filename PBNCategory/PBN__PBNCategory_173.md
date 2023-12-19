@@ -1,17 +1,17 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_173 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/pages/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_173 
 
 # __Promoting sustainability through clean energy infrastructure, smart technologies, and efficient energy management.__
 
 ## Items covered in this category
 
-* [Access to modern energy sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_872.md)
-* [Advanced energy modeling software and data analytics tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_532.md)
-* [Backup energy source](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2168.md)
-* [Battery optimization techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2262.md)
-* [Carbon accounting systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2979.md)
-* [Carbon reduction technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_353.md)
-* [Clean energy infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1606.md)
-* [Demand response technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_864.md)
+* [Access to modern energy sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_864.md)
+* [Advanced energy modeling software and data analytics tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_872.md)
+* [Backup energy source](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_532.md)
+* [Battery optimization techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2168.md)
+* [Carbon accounting systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2262.md)
+* [Carbon reduction technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2979.md)
+* [Clean energy infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_353.md)
+* [Demand response technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1606.md)
 * [Develop electric vehicle charging infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2188.md)
 * [Efficient gas distribution](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3907.md)
 * [Electric vehicles](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2166.md)

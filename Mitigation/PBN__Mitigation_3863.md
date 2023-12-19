@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3863 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3863 
 
 # __Worker education__
 
@@ -24,9 +24,9 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Communication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2850.md)
-* [Signage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_82.md)
-* [Training programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_230.md)
+* [Communication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_230.md)
+* [Signage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2850.md)
+* [Training programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_82.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_835 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_835 
 
 # __Lack of public understanding of covid-19 mitigation and early detection__
 
@@ -29,7 +29,7 @@ Public lacks knowledge of how to prevent and detect COVID-19, leading to increas
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Mitigations of this risk
 
@@ -52,17 +52,17 @@ Increased cases and potential overwhelmed healthcare system
 
 ## Technologies linked to the risk
 
-* [Educational websites](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1144.md)
-* [Mobile applications](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_47.md)
+* [Educational websites](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_47.md)
+* [Mobile applications](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1144.md)
 * [Social media platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1143.md)
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Culture and collective identity](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_13.md)
+* [Culture and collective identity](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_13.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
+* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_2.md)
 
 ## Type of the risk
 

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_246 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_246 
 
 # __A Continuously Active Antimicrobial Coating effective against Human Coronavirus 229E__
 
@@ -41,15 +41,15 @@ There is a coating called SurfaceWise2 that can be put on surfaces to kill virus
 
 ## This article points to following mitigation
 
-* [Acetone cleaning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3848.md)
-* [Astm e1052 standard test method](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3855.md)
-* [Astm e1153 method](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3856.md)
-* [Autoclaving](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3857.md)
-* [Commercial and healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1189.md)
-* [Continuously active antimicrobial coating](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3853.md)
-* [Coronavirus 229e](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3838.md)
-* [Eagle minimal essential media mem](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3840.md)
-* [Electrostatic sprayer](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1130.md)
+* [Acetone cleaning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1130.md)
+* [Astm e1052 standard test method](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3848.md)
+* [Astm e1153 method](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3855.md)
+* [Autoclaving](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3856.md)
+* [Commercial and healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3857.md)
+* [Continuously active antimicrobial coating](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1189.md)
+* [Coronavirus 229e](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3853.md)
+* [Eagle minimal essential media mem](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3838.md)
+* [Electrostatic sprayer](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3840.md)
 * [Human lung fibroblast mrc-5 cell line](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1188.md)
 * [Letheen broth base lbb](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3844.md)
 * [Phosphate buffered saline pbs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3842.md)

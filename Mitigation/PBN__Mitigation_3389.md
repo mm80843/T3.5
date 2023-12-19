@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3389 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3389 
 
 # __Effective communication__
 
@@ -29,11 +29,11 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Communication platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1188.md)
-* [Communication technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_5.md)
+* [Communication platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2454.md)
+* [Communication technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_47.md)
 * [Digital communication platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_895.md)
-* [Helplines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2454.md)
-* [Internet](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_47.md)
+* [Helplines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1188.md)
+* [Internet](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_5.md)
 * [Social media platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3492.md)
 * [Telephones](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_135.md)
 

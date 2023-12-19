@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_209 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_209 
 
 # __An e-mental health intervention to support burdened people in times of the COVID-19 pandemic: CoPE It__
 
@@ -35,10 +35,10 @@ The COVID-19 pandemic is a global health crisis that has affected almost all cou
 
 ## This article points to following mitigation
 
-* [Augmented surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3326.md)
-* [Home quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3324.md)
-* [Mental health support](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
-* [Non-pharmaceutical interventions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_564.md)
+* [Augmented surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Home quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_564.md)
+* [Mental health support](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3326.md)
+* [Non-pharmaceutical interventions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3324.md)
 * [Public engagement](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3325.md)
 * [Risk communication strategy](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_337.md)
 * [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3323.md)

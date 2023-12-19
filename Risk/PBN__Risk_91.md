@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_91 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_91 
 
 # __Spread of covid-19__
 
@@ -35,26 +35,26 @@ The transmission of COVID-19 virus between humans primarily occurs through respi
 
 ## Is the risk affecting GBN scales
 
-* [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_0.md)
 
 ## Mitigations of this risk
 
-* [5g technology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1203.md)
-* [Adoption of digital technology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_149.md)
-* [Artificial intelligence/machine learning ai/ml](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_416.md)
-* [Autonomous vehicles](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_84.md)
-* [Big data and facial recognition](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1110.md)
-* [Blockchain technology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1112.md)
-* [Border closures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
-* [Building transport networks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3123.md)
-* [Cloud computing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_564.md)
-* [Compartmentalization of private and communal spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_443.md)
-* [Construction of openkg-covid19](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1103.md)
-* [Containment spaces in hospitals and healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4085.md)
-* [Controlled visitor access](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1099.md)
-* [Digital communication strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4086.md)
-* [Drones](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_427.md)
+* [5g technology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Adoption of digital technology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3123.md)
+* [Artificial intelligence/machine learning ai/ml](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_149.md)
+* [Autonomous vehicles](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_564.md)
+* [Big data and facial recognition](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_416.md)
+* [Blockchain technology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_427.md)
+* [Border closures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1203.md)
+* [Building transport networks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_84.md)
+* [Cloud computing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1110.md)
+* [Compartmentalization of private and communal spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1112.md)
+* [Construction of openkg-covid19](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_443.md)
+* [Containment spaces in hospitals and healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1103.md)
+* [Controlled visitor access](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4085.md)
+* [Digital communication strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1099.md)
+* [Drones](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4086.md)
 * [Enhancing healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4083.md)
 * [Entity alignment and interlinking](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_127.md)
 * [Flexible and adaptable room design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4084.md)
@@ -121,20 +121,20 @@ Rapid spread of contagious disease, overwhelming healthcare systems, high mortal
 
 ## Stakeholders who can mitigate this risk
 
-* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_880.md)
-* [Government health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_121.md)
-* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
-* [Healthcare institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
-* [Healthcare organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_269.md)
+* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_269.md)
+* [Government health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
+* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
+* [Healthcare institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_121.md)
+* [Healthcare organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_216.md)
 * [Healthcare providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_20.md)
-* [Individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_216.md)
+* [Individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_880.md)
 
 ## Technologies linked to the risk
 
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_401.md)
-* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_402.md)
-* [Contact-tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
-* [Diagnostic testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
+* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_401.md)
+* [Contact-tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_402.md)
+* [Diagnostic testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
 * [Disinfection technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_136.md)
 * [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_951.md)
 * [Remote healthcare services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_348.md)
@@ -145,11 +145,11 @@ Rapid spread of contagious disease, overwhelming healthcare systems, high mortal
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_0.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
+* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_2.md)
 
 ## Type of the risk
 

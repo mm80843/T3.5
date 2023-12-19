@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_248 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_248 
 
 # __The effect of human mobility and control measures on the COVID-19 epidemic in China__
 
@@ -33,18 +33,18 @@ The coronavirus disease 2019 (COVID-19) outbreak started in China and spread qui
 
 ## This article mentions these technologies
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
-* [Testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_904.md)
-* [Testing capacity](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_700.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_700.md)
+* [Testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_401.md)
+* [Testing capacity](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_904.md)
 * [Travel bans](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_905.md)
 
 ## This article points to following mitigation
 
 * [Cordon sanitaire](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_564.md)
-* [Improved testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3995.md)
-* [Local mitigation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3992.md)
-* [Rapid isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3993.md)
-* [Travel restrictions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3994.md)
+* [Improved testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3992.md)
+* [Local mitigation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3994.md)
+* [Rapid isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3995.md)
+* [Travel restrictions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3993.md)
 
 ## Title of the article
 

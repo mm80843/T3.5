@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_239 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_239 
 
 # __Mobile Technology Solution for COVID-19: Surveillance and Prevention__
 
@@ -50,8 +50,8 @@ During the COVID-19 pandemic, mobile technology has been used to develop apps th
 
 ## This article mentions these technologies
 
-* [Anonymization techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1387.md)
-* [App store policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
+* [Anonymization techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
+* [App store policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1387.md)
 * [Bluetooth technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1382.md)
 * [Education and training programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1069.md)
 * [Encryption](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_97.md)

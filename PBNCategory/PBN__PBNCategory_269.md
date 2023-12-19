@@ -1,24 +1,24 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_269 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/pages/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_269 
 
 # __The populace of cities, including residents, professionals, officials, and decision-makers involved in urban planning and design.__
 
 ## Items covered in this category
 
-* [Cities and urban areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_943.md)
-* [City council](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_125.md)
-* [City councils](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1522.md)
-* [City dweller](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1615.md)
-* [City dwellers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_750.md)
-* [City official](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_470.md)
-* [City officials](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1608.md)
-* [City planner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_724.md)
-* [City planners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_591.md)
-* [Commercial areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_380.md)
-* [Especially urban dweller](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1225.md)
-* [Especially urban dwellers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_622.md)
-* [High-density urban area](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1068.md)
-* [High-density urban areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_308.md)
-* [Local and national](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_887.md)
+* [Cities and urban areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_125.md)
+* [City council](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_887.md)
+* [City councils](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_943.md)
+* [City dweller](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1522.md)
+* [City dwellers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1615.md)
+* [City official](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_750.md)
+* [City officials](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_470.md)
+* [City planner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1608.md)
+* [City planners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_724.md)
+* [Commercial areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_591.md)
+* [Especially urban dweller](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_380.md)
+* [Especially urban dwellers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1225.md)
+* [High-density urban area](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_622.md)
+* [High-density urban areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1068.md)
+* [Local and national](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_308.md)
 * [Local decision-makers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_26.md)
 * [Newcastle urban observatory](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_770.md)
 * [Planners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1034.md)

@@ -1,14 +1,14 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_61 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_61 
 
 # __Applications of ultraviolet germicidal irradiation disinfection in health care facilities: Effective adjunct, but not stand-alone technology__
 
 ## Benefits listed in this article
 
-* [Destruction of pathogens](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_318.md)
-* [Efficacy of uv light](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_317.md)
-* [Improved systems design](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_319.md)
-* [Inactivation of pathogens](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_313.md)
-* [Reduction of infection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_314.md)
+* [Destruction of pathogens](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_314.md)
+* [Efficacy of uv light](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_318.md)
+* [Improved systems design](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_317.md)
+* [Inactivation of pathogens](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_319.md)
+* [Reduction of infection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_313.md)
 * [Reduction of infections](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_316.md)
 * [Removal of particles](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_315.md)
 
@@ -45,11 +45,11 @@ UVGI, or ultraviolet germicidal irradiation, is a method that uses UV light to k
 
 ## This article points to following mitigation
 
-* [Differential pressurization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_315.md)
-* [Filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_314.md)
-* [High ventilation rates](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_312.md)
-* [Purification](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4262.md)
-* [Uvgi](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4263.md)
+* [Differential pressurization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_312.md)
+* [Filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4263.md)
+* [High ventilation rates](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_315.md)
+* [Purification](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_314.md)
+* [Uvgi](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4262.md)
 
 ## Title of the article
 

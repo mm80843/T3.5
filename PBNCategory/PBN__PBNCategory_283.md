@@ -1,13 +1,13 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_283 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/pages/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_283 
 
 # __Those on the move, whether for work or leisure, including those affected by travel restrictions and transportation workers.__
 
 ## Items covered in this category
 
-* [City transport authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2093.md)
-* [Commuter](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1076.md)
-* [Commuters](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2114.md)
-* [Commuters/cyclists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_558.md)
+* [City transport authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_558.md)
+* [Commuter](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2093.md)
+* [Commuters](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1076.md)
+* [Commuters/cyclists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2114.md)
 * [Cyclist](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1579.md)
 * [Cyclists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_530.md)
 * [Individual traveling during a pandemic](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_944.md)

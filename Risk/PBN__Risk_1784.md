@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1784 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1784 
 
 # __Contaminated surfaces__
 
@@ -30,20 +30,20 @@ COVID-19 can survive on surfaces, leading to indirect transmission
 
 ## Is the risk affecting GBN scales
 
-* [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_0.md)
 
 ## Mitigations of this risk
 
-* [Antiviral coatings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2633.md)
-* [Disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3283.md)
-* [Disinfection and sanitization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3285.md)
-* [Disinfection of fomites](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1130.md)
-* [Establish cleaning protocols, use effective disinfectants, and promote proper hygiene practices.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2379.md)
-* [Regular and thorough cleaning and disinfection of surfaces, promote hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3287.md)
-* [Self-sanitizing surfaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3305.md)
-* [Surface disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4622.md)
-* [Uv-c light](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4785.md)
+* [Antiviral coatings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1130.md)
+* [Disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4785.md)
+* [Disinfection and sanitization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2633.md)
+* [Disinfection of fomites](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3283.md)
+* [Establish cleaning protocols, use effective disinfectants, and promote proper hygiene practices.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3285.md)
+* [Regular and thorough cleaning and disinfection of surfaces, promote hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2379.md)
+* [Self-sanitizing surfaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3287.md)
+* [Surface disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3305.md)
+* [Uv-c light](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4622.md)
 
 ## Name of the risk
 
@@ -52,8 +52,8 @@ Increased spread of the virus
 ## People affected by this risk
 
 * [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
-* [Employees](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_220.md)
-* [Occupants of buildings with contaminated surfaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_118.md)
+* [Employees](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_118.md)
+* [Occupants of buildings with contaminated surfaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_220.md)
 * [Visitors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1199.md)
 
 ## Stakeholders who can mitigate this risk
@@ -70,11 +70,11 @@ Increased spread of the virus
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_0.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_4.md)
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_4.md)
 
 ## Type of the risk
 

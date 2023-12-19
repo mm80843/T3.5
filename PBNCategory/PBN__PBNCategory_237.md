@@ -1,10 +1,10 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_237 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/pages/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_237 
 
 # __Spreading information to increase knowledge or understanding.__
 
 ## Items covered in this category
 
-* [Raising awareness](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_38.md)
+* [Raising awareness](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_38.md)
 
 ## Title of the category
 

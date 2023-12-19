@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_180 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_180 
 
 # __Employers__
 
@@ -92,22 +92,22 @@
 
 ## This Stakeholder can get these Benefits from mitigation measures
 
-* [Decreased droplet transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1213.md)
-* [Enhanced protection against transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1214.md)
-* [Ensure the sustainability of workplaces during the pandemic](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_169.md)
-* [Identification of coronavirus-positive environmental surfaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_606.md)
-* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1217.md)
-* [Increased flexibility in office space provision](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_374.md)
-* [Increased skill levels](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_604.md)
-* [Increased workplace efficiency](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1216.md)
-* [Low employee positivity rates](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_372.md)
-* [Lower positivity rates following combined measures](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_603.md)
-* [Minimize airborne transmission of covid-19 in workplaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_371.md)
-* [Minimize infection spreading propensity and create a safe working environment](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1066.md)
-* [Minimized exposure through changes in work procedures](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_373.md)
-* [Minimized job losses](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_602.md)
-* [Prevent community transmission and protect national economies by maintaining open and safe workplaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_676.md)
-* [Reduce the risk of infection and transmission in office spaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1344.md)
+* [Decreased droplet transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_169.md)
+* [Enhanced protection against transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1344.md)
+* [Ensure the sustainability of workplaces during the pandemic](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1213.md)
+* [Identification of coronavirus-positive environmental surfaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1214.md)
+* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_606.md)
+* [Increased flexibility in office space provision](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1217.md)
+* [Increased skill levels](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_374.md)
+* [Increased workplace efficiency](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_604.md)
+* [Low employee positivity rates](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1216.md)
+* [Lower positivity rates following combined measures](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_372.md)
+* [Minimize airborne transmission of covid-19 in workplaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_603.md)
+* [Minimize infection spreading propensity and create a safe working environment](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_371.md)
+* [Minimized exposure through changes in work procedures](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1066.md)
+* [Minimized job losses](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_373.md)
+* [Prevent community transmission and protect national economies by maintaining open and safe workplaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_602.md)
+* [Reduce the risk of infection and transmission in office spaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_676.md)
 * [Reduced sick leave](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_605.md)
 * [Reduction in covid-19 infections](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1215.md)
 * [Reduction of airborne virus transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_943.md)
@@ -123,7 +123,7 @@
 
 ## Type of the stakeholder
 
-* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_0.md)
-* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
-* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_0.md)
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_2.md)
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_1.md)
 

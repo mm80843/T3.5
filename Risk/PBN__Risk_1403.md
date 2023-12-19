@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1403 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1403 
 
 # __Vital loads and lighting for safety__
 
@@ -29,7 +29,7 @@ Vital loads and lighting for safety purposes continue to consume energy during u
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Mitigations of this risk
 
@@ -53,17 +53,17 @@ Increased energy consumption, higher costs, and negative environmental impact.
 
 ## Technologies linked to the risk
 
-* [Efficient lighting fixtures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_652.md)
-* [Lighting control systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_647.md)
+* [Efficient lighting fixtures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_647.md)
+* [Lighting control systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_652.md)
 * [Occupancy sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_653.md)
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_0.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_4.md)
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_4.md)
 
 ## Type of the risk
 

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3722 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3722 
 
 # __Enhanced cleaning and disinfection__
 
@@ -26,9 +26,9 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Cleaning agents](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_227.md)
-* [Cleaning and disinfection products](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_411.md)
-* [Cleaning products](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2682.md)
+* [Cleaning agents](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_411.md)
+* [Cleaning and disinfection products](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2682.md)
+* [Cleaning products](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_227.md)
 * [Disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_881.md)
 
 ## Property: has_MitigationPrinciple

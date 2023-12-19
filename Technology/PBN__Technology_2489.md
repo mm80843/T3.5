@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2489 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_2489 
 
 # __Motion sensor__
 
@@ -21,8 +21,8 @@
 
 ## This Technology enables the following mitigations
 
-* [Surfacide uv-c disinfection system](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3334.md)
-* [Use of touchless technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_215.md)
+* [Surfacide uv-c disinfection system](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_215.md)
+* [Use of touchless technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3334.md)
 
 ## This technology is used in the following general blueprint(s)
 

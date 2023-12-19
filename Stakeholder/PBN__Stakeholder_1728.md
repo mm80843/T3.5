@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1728 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1728 
 
 # __Hospitality and tourism__
 
@@ -21,8 +21,8 @@
 
 ## Stakeholders in this stakeholder subgroup
 
-* [Hospitality industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_244.md)
-* [Hospitality worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_196.md)
+* [Hospitality industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_196.md)
+* [Hospitality worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_244.md)
 * [Hospitality workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1988.md)
 * [Hotel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2023.md)
 * [Hotel owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2035.md)

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_911 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_911 
 
 # __New designs, uses, and practices for green spaces__
 
@@ -25,7 +25,7 @@
 
 ## Link between Blueprint and General ontology
 
-* [Space design](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Theme_6.md)
+* [Space design](https://github.com/mm80843/T3.5/blob/pages/BP_Theme/PBN__BP_Theme_6.md)
 
 ## Mitigations of this risk
 

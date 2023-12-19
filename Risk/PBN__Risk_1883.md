@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1883 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1883 
 
 # __Lack of awareness and compliance__
 
@@ -29,7 +29,7 @@ Lack of awareness about COVID-19 risks and non-compliance with preventive measur
 
 ## Is the risk affecting GBN scales
 
-* [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_0.md)
 
 ## Mitigations of this risk
 
@@ -47,8 +47,8 @@ Higher risk of infection transmission and outbreaks due to lack of adherence to 
 
 ## Stakeholders who can mitigate this risk
 
-* [Health and safety officers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1287.md)
-* [Human resources departments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1285.md)
+* [Health and safety officers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1285.md)
+* [Human resources departments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1287.md)
 * [Office managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_617.md)
 
 ## Technologies linked to the risk
@@ -59,11 +59,11 @@ Higher risk of infection transmission and outbreaks due to lack of adherence to 
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_0.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_1.md)
+* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_1.md)
 
 ## Type of the risk
 

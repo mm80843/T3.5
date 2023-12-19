@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_53 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_53 
 
 # __Reframe how to serve your community in the midst of a pandemic__
 
@@ -50,12 +50,12 @@ The campus police at FMU have been taking extra precautions to keep everyone saf
 
 ## This article points to following mitigation
 
-* [Community engagement](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4902.md)
-* [Decontamination](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
-* [Hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4628.md)
-* [Patience and compassion](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_985.md)
-* [Patrol separately](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4900.md)
-* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4901.md)
+* [Community engagement](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Decontamination](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4902.md)
+* [Hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4901.md)
+* [Patience and compassion](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4628.md)
+* [Patrol separately](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_985.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4900.md)
 * [Universal precautions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4903.md)
 
 ## Title of the article

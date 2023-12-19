@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4128 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4128 
 
 # __Remote monitoring of patients__
 
@@ -24,9 +24,9 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Iot devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2800.md)
-* [Sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_96.md)
-* [Wearables](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_200.md)
+* [Iot devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_200.md)
+* [Sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2800.md)
+* [Wearables](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_96.md)
 
 ## Property: has_MitigationPrinciple
 

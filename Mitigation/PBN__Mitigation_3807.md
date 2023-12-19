@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3807 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3807 
 
 # __Regular hand hygiene__
 
@@ -24,8 +24,8 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Hand sanitizer](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2459.md)
-* [Soap and water](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2648.md)
+* [Hand sanitizer](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2648.md)
+* [Soap and water](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2459.md)
 
 ## Property: has_MitigationPrinciple
 

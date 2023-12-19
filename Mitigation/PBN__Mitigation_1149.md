@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1149 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1149 
 
 # __Internet-based applications__
 
@@ -29,8 +29,8 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Internet](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2856.md)
-* [Mobile apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2454.md)
+* [Internet](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2454.md)
+* [Mobile apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2856.md)
 
 ## Property: has_MitigationPrinciple
 

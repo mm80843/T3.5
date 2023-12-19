@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1168 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1168 
 
 # __Decoupling of larger aerosol particles from air stream in upper-room uvgi system__
 
@@ -29,7 +29,7 @@ Larger aerosol particles may decouple from the air stream due to gravitational d
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Mitigations of this risk
 
@@ -41,8 +41,8 @@ The decoupling of larger aerosol particles undermines the effectiveness of the u
 
 ## People affected by this risk
 
-* [Maintenance staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_701.md)
-* [Room occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_702.md)
+* [Maintenance staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_702.md)
+* [Room occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_701.md)
 
 ## Stakeholders who can mitigate this risk
 
@@ -55,11 +55,11 @@ The decoupling of larger aerosol particles undermines the effectiveness of the u
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_4.md)
+* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_4.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_6.md)
+* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_6.md)
 
 ## Type of the risk
 

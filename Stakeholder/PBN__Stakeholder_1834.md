@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1834 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1834 
 
 # __Healthcare administration__
 
@@ -22,6 +22,6 @@
 ## Stakeholders in this stakeholder subgroup
 
 * [Hospital administration](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_797.md)
-* [Hospital administrators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_252.md)
-* [Hospital management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_239.md)
+* [Hospital administrators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_239.md)
+* [Hospital management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_252.md)
 

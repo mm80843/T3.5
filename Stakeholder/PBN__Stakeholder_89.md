@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_89 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_89 
 
 # __Private investors__
 
@@ -21,10 +21,10 @@
 
 ## This Stakeholder can get these Benefits from mitigation measures
 
-* [Altered behaviors and improved mobility control](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1204.md)
-* [Asset value improvement](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_735.md)
-* [Economic stability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_733.md)
-* [Empowered communities and improved support systems](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_368.md)
+* [Altered behaviors and improved mobility control](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_368.md)
+* [Asset value improvement](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1204.md)
+* [Economic stability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_735.md)
+* [Empowered communities and improved support systems](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_733.md)
 * [Energy efficiency](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_732.md)
 * [Energy-saving conscious attitude](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_328.md)
 * [Enhanced collaboration](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_151.md)
@@ -50,5 +50,5 @@
 
 ## Type of the stakeholder
 
-* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_0.md)
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_0.md)
 

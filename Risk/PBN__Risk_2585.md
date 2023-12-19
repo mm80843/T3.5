@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_2585 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_2585 
 
 # __Infection__
 
@@ -21,15 +21,15 @@
 
 ## Mitigations of this risk
 
-* [Adaptation of healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4255.md)
-* [Adaptation of schools](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
-* [Adaptation of supermarkets](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4862.md)
-* [Autonomous vehicles](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1285.md)
-* [Big data](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_404.md)
-* [Compartmentalization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1282.md)
-* [Drones](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1284.md)
-* [Droplet precautions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4860.md)
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3575.md)
+* [Adaptation of healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3575.md)
+* [Adaptation of schools](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4255.md)
+* [Adaptation of supermarkets](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
+* [Autonomous vehicles](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4862.md)
+* [Big data](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1285.md)
+* [Compartmentalization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_404.md)
+* [Drones](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1282.md)
+* [Droplet precautions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1284.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4860.md)
 * [Iot and ai](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3494.md)
 * [Isolation of patients](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4256.md)
 * [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4254.md)

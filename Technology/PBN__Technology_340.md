@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_340 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_340 
 
 # __Face masks__
 
@@ -40,14 +40,14 @@
 
 ## This Technology enables the following mitigations
 
-* [Emerging low-cost wearable sensors](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4051.md)
-* [Face masks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4212.md)
-* [Face masks with integrated sensors](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_985.md)
-* [Hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3330.md)
-* [Mask prevention](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_698.md)
-* [Mask-wearing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4395.md)
-* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3933.md)
-* [Personal protective equipment ppe use](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_415.md)
+* [Emerging low-cost wearable sensors](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_415.md)
+* [Face masks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4051.md)
+* [Face masks with integrated sensors](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4212.md)
+* [Hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_985.md)
+* [Mask prevention](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3330.md)
+* [Mask-wearing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_698.md)
+* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4395.md)
+* [Personal protective equipment ppe use](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3933.md)
 * [Use of face masks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3261.md)
 * [Use of face masks and 50% social isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3836.md)
 * [Wearing face masks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3264.md)

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_224 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_224 
 
 # __Building Transformation for Precautionary Measures against COVID-19 Pandemic: Case of Off-Street Car Parking of Campuses__
 
@@ -47,26 +47,26 @@ During the COVID-19 pandemic, many buildings were not being used because people 
 
 ## This article mentions these technologies
 
-* [Design guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_261.md)
-* [Economic support programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_532.md)
-* [Energy-efficient systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1028.md)
-* [Expert guidance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_323.md)
-* [Occupancy sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1599.md)
-* [Public health measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_166.md)
-* [Renewable energy](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_647.md)
+* [Design guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_647.md)
+* [Economic support programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_261.md)
+* [Energy-efficient systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_532.md)
+* [Expert guidance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1028.md)
+* [Occupancy sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_323.md)
+* [Public health measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1599.md)
+* [Renewable energy](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_166.md)
 * [Research](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1598.md)
 * [Smart building technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1600.md)
 
 ## This article points to following mitigation
 
 * [Additional lighting](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
-* [Cough and sneeze etiquette](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3329.md)
-* [Face mask](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
-* [Flexible design solutions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4828.md)
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4820.md)
-* [Natural ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4829.md)
-* [Portable acoustic partitions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4830.md)
-* [Portable air conditioners](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3237.md)
+* [Cough and sneeze etiquette](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3237.md)
+* [Face mask](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3329.md)
+* [Flexible design solutions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4828.md)
+* [Natural ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4820.md)
+* [Portable acoustic partitions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4829.md)
+* [Portable air conditioners](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4830.md)
 * [Portable awnings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4826.md)
 * [Rescheduling space planning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4824.md)
 * [Revision of building codes](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4821.md)

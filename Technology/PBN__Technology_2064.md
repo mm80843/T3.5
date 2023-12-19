@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2064 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_2064 
 
 # __Preventive measures and public health initiatives__
 
@@ -21,8 +21,8 @@
 
 ## This Technology belongs to this TechnologySubgroup
 
-* [Antiviral drug research](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
-* [Antivirals](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_826.md)
+* [Antiviral drug research](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_826.md)
+* [Antivirals](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
 * [Capacity building](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_835.md)
 * [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_343.md)
 * [Diagnostic testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_827.md)

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_267 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_267 
 
 # __Role of Information Technology in Covid-19 Prevention__
 
@@ -34,9 +34,9 @@ COVID-19 is a virus that spreads from person to person and can make people sick.
 ## This article mentions these technologies
 
 * [Cleaning and disinfection products](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_340.md)
-* [Education](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1119.md)
-* [Face masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1120.md)
-* [Healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3.md)
+* [Education](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3.md)
+* [Face masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1119.md)
+* [Healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1120.md)
 * [Mental health support services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1117.md)
 * [Public health campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1118.md)
 * [Public health measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_227.md)
@@ -47,13 +47,13 @@ COVID-19 is a virus that spreads from person to person and can make people sick.
 
 ## This article points to following mitigation
 
-* [Autonomous vehicles](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4255.md)
-* [Big data](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
-* [Drones](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1285.md)
-* [Droplet precautions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_404.md)
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1282.md)
-* [Iot and ai](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1284.md)
-* [Isolation of patients](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3575.md)
+* [Autonomous vehicles](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3575.md)
+* [Big data](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4255.md)
+* [Drones](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
+* [Droplet precautions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1285.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_404.md)
+* [Iot and ai](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1282.md)
+* [Isolation of patients](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1284.md)
 * [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3494.md)
 * [Robotics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4256.md)
 * [Self-isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4254.md)

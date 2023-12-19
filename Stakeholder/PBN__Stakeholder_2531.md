@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2531 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2531 
 
 # __Data management and security__
 
@@ -22,9 +22,9 @@
 ## Stakeholders in this stakeholder subgroup
 
 * [Data analysts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_625.md)
-* [Data collectors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1427.md)
-* [Data curators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2530.md)
-* [Data handlers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_477.md)
+* [Data collectors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_477.md)
+* [Data curators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1427.md)
+* [Data handlers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2530.md)
 * [Data owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1302.md)
 * [Data protection officers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1465.md)
 * [Data providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1536.md)

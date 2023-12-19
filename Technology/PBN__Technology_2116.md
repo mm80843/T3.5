@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2116 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_2116 
 
 # __Technology and materials for protection__
 
@@ -21,9 +21,9 @@
 
 ## This Technology belongs to this TechnologySubgroup
 
-* [Air filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
-* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_203.md)
-* [Anti-sars-cov-2 coatings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+* [Air filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
+* [Anti-sars-cov-2 coatings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_203.md)
 * [Negative air machines with hepa filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_968.md)
 * [Pathogen reduction technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1508.md)
 * [Sterile glass coverslips](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1533.md)

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [aBlueprint](https://github.com/mm80843/T3.5/tree/main/docs/aBlueprint/index.md) >> Individual ID:PBN__aBlueprint_14 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [aBlueprint](https://github.com/mm80843/T3.5/tree/pages/docs/aBlueprint/index.md) >> Individual ID:PBN__aBlueprint_14 
 
 # __Implementing Disease Containment Strategies__
 
@@ -31,40 +31,40 @@
 * [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
 * [Construction companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_181.md)
 * [Contractors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_903.md)
-* [Occupants of residential buildings in kuwait](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_179.md)
-* [Project managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_581.md)
+* [Occupants of residential buildings in kuwait](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_581.md)
+* [Project managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_179.md)
 
 ## 4. Blueprint links to these mitigations
 
-* [Design buildings with optimized size, location, and orientation of openings to minimize mosquito access.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2086.md)
+* [Design buildings with optimized size, location, and orientation of openings to minimize mosquito access.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1898.md)
 * [Developing robust contingency plans and alternative timelines.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_832.md)
-* [Implement measures to decrease occupant density and increase social distancing.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1818.md)
-* [Implementing remote work arrangements, implementing safety protocols, ensuring proper communication and coordination](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1898.md)
+* [Implement measures to decrease occupant density and increase social distancing.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2086.md)
+* [Implementing remote work arrangements, implementing safety protocols, ensuring proper communication and coordination](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1818.md)
 * [Remote work](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2416.md)
 
 ## 5. Blueprint mitigation can be owned by these stakeholders
 
-* [Architects](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_973.md)
-* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
-* [Construction companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_431.md)
-* [Government bodies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_181.md)
-* [Project managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_903.md)
+* [Architects](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
+* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_181.md)
+* [Construction companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_903.md)
+* [Government bodies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_973.md)
+* [Project managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_431.md)
 
 ## 6. Blueprint links to these benefits
 
 * [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_368.md)
-* [Increased productivity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_169.md)
-* [Minimize damage from crises](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_379.md)
+* [Increased productivity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_379.md)
+* [Minimize damage from crises](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_169.md)
 
 ## 7. Blueprint links to these technology
 
 * [Collaboration tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
-* [Communication systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_544.md)
+* [Communication systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_168.md)
 * [Communication technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1055.md)
-* [Communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_565.md)
-* [Layers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_168.md)
-* [Lightweight materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3254.md)
+* [Communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3096.md)
+* [Layers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_647.md)
+* [Lightweight materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_565.md)
 * [Occupancy sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3671.md)
-* [Remote communication technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3096.md)
-* [Technology for telecommuting](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_647.md)
+* [Remote communication technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3408.md)
+* [Technology for telecommuting](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3254.md)
 

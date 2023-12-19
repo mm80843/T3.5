@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_49 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_49 
 
 # __Lack of awareness__
 
@@ -31,14 +31,14 @@ Citizens are unaware of how their personal data is collected and used for urban 
 
 ## Is the risk affecting GBN scales
 
-* [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_0.md)
 
 ## Mitigations of this risk
 
-* [Community awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4230.md)
-* [Converged command centres](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3272.md)
-* [Education and training](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4291.md)
+* [Community awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3272.md)
+* [Converged command centres](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4291.md)
+* [Education and training](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4230.md)
 * [Education programs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3158.md)
 * [Increase public and professional awareness through education and training programs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2367.md)
 * [Increase public awareness, transparency in data usage, obtain informed consent for data collection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1692.md)
@@ -54,16 +54,16 @@ Lack of informed consent, potential infringement on privacy rights
 
 * [Citizens](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
 * [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_29.md)
-* [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1190.md)
-* [Professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_59.md)
-* [Residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_54.md)
+* [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_59.md)
+* [Professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_54.md)
+* [Residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1190.md)
 
 ## Stakeholders who can mitigate this risk
 
-* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_0.md)
-* [Media organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
-* [Private entities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_56.md)
-* [Public health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_545.md)
+* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
+* [Media organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_0.md)
+* [Private entities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_545.md)
+* [Public health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_56.md)
 
 ## Technologies linked to the risk
 
@@ -75,11 +75,11 @@ Lack of informed consent, potential infringement on privacy rights
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_4.md)
+* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_4.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Preserv. and improve. of the environment](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_7.md)
+* [Preserv. and improve. of the environment](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_7.md)
 
 ## Type of the risk
 

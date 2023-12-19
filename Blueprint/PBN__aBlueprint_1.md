@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__aBlueprint_1 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/pages/docs/Blueprint/index.md) >> Individual ID:PBN__aBlueprint_1 
 
 # __Implementing Wastewater Monitoring and Enhanced Sanitation Measures to Mitigate SARS-CoV-2 Spread__
 
@@ -28,44 +28,44 @@ Implementing the mitigation measures laid out in this blueprint offers key benef
 
 ## 3. Blueprint impacts these stakeholders
 
-* [Environmental microbiologists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
-* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
+* [Environmental microbiologists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
+* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
 * [Laboratories performing wastewater testing](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1045.md)
-* [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1049.md)
-* [Wastewater treatment plant workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1048.md)
+* [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1048.md)
+* [Wastewater treatment plant workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1049.md)
 
 ## 4. Blueprint links to these mitigations
 
 * [Cross-validate the performance of different rt-qpcr assays on wastewater samples and ensure sequencing of positive samples for confirmation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2162.md)
-* [Development and implementation of standardized protocols and assays for sars-cov-2 detection in environmental samples can ensure consistency and comparability of data.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2210.md)
-* [Enhance water treatment processes, implement effective sanitation measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1480.md)
-* [Improvement of assay sensitivity through the development and implementation of more sensitive and specific assays for sars-cov-2 detection in sewage samples.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2165.md)
-* [Regular monitoring and testing of wastewater samples for sars-cov-2 can provide early detection and enable prompt control measures to prevent further spread.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2164.md)
+* [Development and implementation of standardized protocols and assays for sars-cov-2 detection in environmental samples can ensure consistency and comparability of data.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2164.md)
+* [Enhance water treatment processes, implement effective sanitation measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2165.md)
+* [Improvement of assay sensitivity through the development and implementation of more sensitive and specific assays for sars-cov-2 detection in sewage samples.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2210.md)
+* [Regular monitoring and testing of wastewater samples for sars-cov-2 can provide early detection and enable prompt control measures to prevent further spread.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1480.md)
 
 ## 5. Blueprint mitigation can be owned by these stakeholders
 
-* [Health departments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_0.md)
+* [Health departments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1046.md)
 * [Public health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_413.md)
-* [Regulatory agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_401.md)
-* [Research institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_572.md)
-* [Wastewater treatment plant operators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1046.md)
+* [Regulatory agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_572.md)
+* [Research institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_0.md)
+* [Wastewater treatment plant operators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_401.md)
 
 ## 6. Blueprint links to these benefits
 
-* [Early detection of covid-19](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_988.md)
-* [Early warning of disease outbreaks](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_5.md)
-* [Population-wide surveillance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1206.md)
+* [Early detection of covid-19](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_5.md)
+* [Early warning of disease outbreaks](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1206.md)
+* [Population-wide surveillance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_988.md)
 
 ## 7. Blueprint links to these technology
 
-* [Dna/rna extraction methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1351.md)
-* [Pcr assay](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3374.md)
-* [Quantitative rt-pcr methodology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3375.md)
-* [Real-time rt-pcr](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2342.md)
-* [Rt-qpcr assay](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2468.md)
-* [Sequencing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2669.md)
-* [Sewage monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3066.md)
-* [Wastewater analysis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3067.md)
-* [Wastewater testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3129.md)
-* [Wastewater treatment plants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3130.md)
+* [Dna/rna extraction methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2468.md)
+* [Pcr assay](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3066.md)
+* [Quantitative rt-pcr methodology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3067.md)
+* [Real-time rt-pcr](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3129.md)
+* [Rt-qpcr assay](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3130.md)
+* [Sequencing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1351.md)
+* [Sewage monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3374.md)
+* [Wastewater analysis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3375.md)
+* [Wastewater testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2342.md)
+* [Wastewater treatment plants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2669.md)
 

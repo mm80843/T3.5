@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_277 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/pages/docs/Benef/index.md) >> Individual ID:PBN__Benef_277 
 
 # __Prevention of transmission through sewage__
 
@@ -24,6 +24,6 @@ Preprocessing disinfection of sewage prevents the transmission of SARS-CoV-2 thr
 
 ## Stakeholders benefitting from this Benefit
 
-* [Healthcare staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_139.md)
-* [Patients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_31.md)
+* [Healthcare staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_31.md)
+* [Patients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_139.md)
 

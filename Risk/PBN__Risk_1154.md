@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1154 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1154 
 
 # __Mental health impact__
 
@@ -31,18 +31,18 @@ Extended lockdowns and fear can have detrimental effects on mental health
 
 ## Is the risk affecting GBN scales
 
-* [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_0.md)
 
 ## Link between Blueprint and General ontology
 
-* [Mental health](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Theme_5.md)
+* [Mental health](https://github.com/mm80843/T3.5/blob/pages/BP_Theme/PBN__BP_Theme_5.md)
 
 ## Mitigations of this risk
 
-* [Access to mental health resources and support, counseling services, psychological well-being programs.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2610.md)
-* [Address mental health concerns, provide support through social and mental health experts](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2598.md)
-* [Providing mental health support services and resources](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1610.md)
+* [Access to mental health resources and support, counseling services, psychological well-being programs.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1610.md)
+* [Address mental health concerns, provide support through social and mental health experts](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2610.md)
+* [Providing mental health support services and resources](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2598.md)
 
 ## Name of the risk
 
@@ -57,9 +57,9 @@ Increased prevalence of mental health issues, potential social chaos
 ## Stakeholders who can mitigate this risk
 
 * [Healthcare institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_269.md)
-* [Mental health experts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_789.md)
-* [Mental health organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_368.md)
-* [Mental health professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_603.md)
+* [Mental health experts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_368.md)
+* [Mental health organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_603.md)
+* [Mental health professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_789.md)
 * [Social workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_692.md)
 * [Support organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_693.md)
 
@@ -75,11 +75,11 @@ Increased prevalence of mental health issues, potential social chaos
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_0.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_1.md)
+* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_1.md)
 
 ## Type of the risk
 

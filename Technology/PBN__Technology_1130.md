@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_1130 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_1130 
 
 # __Collaborative platforms__
 
@@ -27,8 +27,8 @@
 
 ## This Technology enables the following mitigations
 
-* [Knowledge sharing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4939.md)
-* [Multisectoral action to reduce inequalities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4291.md)
+* [Knowledge sharing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4291.md)
+* [Multisectoral action to reduce inequalities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4939.md)
 * [Strengthen local partnerships](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4456.md)
 
 ## This technology is mentioned by

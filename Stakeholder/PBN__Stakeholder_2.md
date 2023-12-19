@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2 
 
 # __Researchers__
 
@@ -227,8 +227,8 @@
 * [Uncertainty in estimating reproduction number](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1128.md)
 * [Under-ascertainment of infections](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1165.md)
 * [Underreporting of infections](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1249.md)
-* [Variability in virus rna recovery](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1980.md)
-* [Variation in protection against re-infections](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1918.md)
+* [Variability in virus rna recovery](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1918.md)
+* [Variation in protection against re-infections](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1980.md)
 
 ## These stakeholders can be supported by the following general blueprint(s)
 
@@ -240,11 +240,11 @@
 
 ## This Stakeholder can get these Benefits from mitigation measures
 
-* [Accelerated drug testing](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_0.md)
-* [Access to up-to-date information](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_2.md)
-* [Accurate and reliable information dissemination](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_3.md)
-* [Adequate statistical power](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_4.md)
-* [Antiviral targets](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_360.md)
+* [Accelerated drug testing](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_360.md)
+* [Access to up-to-date information](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_0.md)
+* [Accurate and reliable information dissemination](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_2.md)
+* [Adequate statistical power](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_3.md)
+* [Antiviral targets](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_4.md)
 * [Assessing non-detected cases](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_362.md)
 * [Better interpretation of epidemiological studies](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_6.md)
 * [Confirming presence and identity of sars-cov-2 in wastewater](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_7.md)
@@ -353,7 +353,7 @@
 
 ## Type of the stakeholder
 
-* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_0.md)
-* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
-* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_0.md)
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_2.md)
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_1.md)
 

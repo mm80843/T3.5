@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2162 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_2162 
 
 # __Robotic and drone technologies__
 
@@ -21,13 +21,13 @@
 
 ## Link between Blueprint and General ontology
 
-* [Robots, Drones & Automated Vehicules](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_13.md)
+* [Robots, Drones & Automated Vehicules](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_13.md)
 
 ## This Technology belongs to this TechnologySubgroup
 
-* [Drones](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1983.md)
-* [Drones and robots](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2290.md)
-* [Drones for medical supply delivery](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1171.md)
+* [Drones](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1171.md)
+* [Drones and robots](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1983.md)
+* [Drones for medical supply delivery](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2290.md)
 * [Drones for monitoring overcrowding](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1984.md)
 * [Drones with thermal cameras](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1986.md)
 * [Robot-assisted swabbing and blood testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_862.md)

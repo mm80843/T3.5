@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_18 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/pages/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_18 
 
 # __Animal vectors control measures__
 
@@ -37,37 +37,37 @@ https://www.epa.gov/sites/default/files/2015-11/documents/ipm_in_buildings.pdf
 
 ## Enablers of the blueprint
 
-* [Data Analytics](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_12.md)
-* [Image acquisition & CCTV](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_13.md)
-* [Robots, Drones & Automated Vehicules](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_19.md)
-* [SmartPhones](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_2.md)
+* [Data Analytics](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_12.md)
+* [Image acquisition & CCTV](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_13.md)
+* [Robots, Drones & Automated Vehicules](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_19.md)
+* [SmartPhones](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_2.md)
 
 ## GBN Phase of the blueprint
 
-* [Design](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Phase_0.md)
-* [Operational](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Phase_1.md)
+* [Design](https://github.com/mm80843/T3.5/blob/pages/BP_Phase/PBN__BP_Phase_0.md)
+* [Operational](https://github.com/mm80843/T3.5/blob/pages/BP_Phase/PBN__BP_Phase_1.md)
 
 ## Interventions of the blueprint
 
-* [Animal vectors control](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_38.md)
-* [Raising awareness](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_16.md)
-* [Wall and floors treatment](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_14.md)
+* [Animal vectors control](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_38.md)
+* [Raising awareness](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_16.md)
+* [Wall and floors treatment](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_14.md)
 
 ## Mode of transmission covered by the blueprint
 
-* [Direct contact](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_2.md)
-* [Fomite](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_3.md)
+* [Direct contact](https://github.com/mm80843/T3.5/blob/pages/BP_Transmission/PBN__BP_Transmission_2.md)
+* [Fomite](https://github.com/mm80843/T3.5/blob/pages/BP_Transmission/PBN__BP_Transmission_3.md)
 
 ## Possible mitigations of the BP
 
-* [Design buildings with optimized size, location, and orientation of openings to minimize mosquito access.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2430.md)
-* [Enhance vector control measures, develop targeted interventions, monitor and prevent mosquito breeding.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2191.md)
-* [Implement ecosystem-based approaches to control vectors, such as maintaining natural habitats and reducing breeding sites.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4105.md)
-* [Implement mosquito and tick control measures in urban greening initiatives and ensure proper maintenance of green spaces.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2417.md)
-* [Material selection to minimize mosquito attraction](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1299.md)
-* [Modification of building envelopes to reduce mosquito accessibility](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1301.md)
-* [Mosquito control](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2419.md)
-* [Promote recycling and upcycling of construction and demolition waste to prevent the creation of mosquito breeding sites.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2416.md)
+* [Design buildings with optimized size, location, and orientation of openings to minimize mosquito access.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2416.md)
+* [Enhance vector control measures, develop targeted interventions, monitor and prevent mosquito breeding.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2430.md)
+* [Implement ecosystem-based approaches to control vectors, such as maintaining natural habitats and reducing breeding sites.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2191.md)
+* [Implement mosquito and tick control measures in urban greening initiatives and ensure proper maintenance of green spaces.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4105.md)
+* [Material selection to minimize mosquito attraction](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2417.md)
+* [Modification of building envelopes to reduce mosquito accessibility](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1299.md)
+* [Mosquito control](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1301.md)
+* [Promote recycling and upcycling of construction and demolition waste to prevent the creation of mosquito breeding sites.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2419.md)
 * [Research and develop alternative materials that prevent mosquito attraction while remaining environmentally sustainable.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5197.md)
 * [Spatial repellents](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2433.md)
 
@@ -98,7 +98,7 @@ The main obstacle to effective prevention and control of animal vectors is the i
 
 ## Scale of the of the blueprint
 
-* [Both](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Scale_1.md)
+* [Both](https://github.com/mm80843/T3.5/blob/pages/BP_Scale/PBN__BP_Scale_1.md)
 
 ## Title of the blueprint
 
@@ -106,12 +106,12 @@ PBN:BP_19
 
 ## Type of deployment of the blueprint
 
-* [Permanent & temporary](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Permanent_2.md)
+* [Permanent & temporary](https://github.com/mm80843/T3.5/blob/pages/BP_Permanent/PBN__BP_Permanent_2.md)
 
 ## Type of the blueprint
 
-* [Behavioural](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Type_0.md)
-* [Technical](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Type_1.md)
+* [Behavioural](https://github.com/mm80843/T3.5/blob/pages/BP_Type/PBN__BP_Type_0.md)
+* [Technical](https://github.com/mm80843/T3.5/blob/pages/BP_Type/PBN__BP_Type_1.md)
 
 ## Value proposition of the blueprint
 

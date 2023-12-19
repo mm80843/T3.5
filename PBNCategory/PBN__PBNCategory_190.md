@@ -1,25 +1,25 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_190 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/pages/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_190 
 
 # __Various methods for analyzing and detecting biomarkers and nucleic acids, including quantitative pcr and real-time pcr techniques, as well as dna/rna extraction methods and sequencing techniques, with the aid of monitoring and scanning technologies.__
 
 ## Items covered in this category
 
-* [Backup generators](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3795.md)
-* [Biomarker extraction techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3374.md)
-* [Digital pcr](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3375.md)
-* [Digital rt-pcr](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2341.md)
-* [Digital rt-qpcr assay](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2468.md)
-* [Dna/rna extraction methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2822.md)
-* [Dpcr](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3067.md)
-* [Improved rt-qpcr assays and sequencing techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3130.md)
-* [Monitoring techniques for rna degradation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3846.md)
-* [Nucleic acid-based polymerase chain reaction](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_58.md)
-* [Nucleic acid-based polymerase chain reaction pcr](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2464.md)
-* [Pcr](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2466.md)
-* [Pcr assay](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3250.md)
-* [Pcr techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3511.md)
-* [Qpcr techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3508.md)
-* [Qr code scanner](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3510.md)
+* [Backup generators](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2468.md)
+* [Biomarker extraction techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2822.md)
+* [Digital pcr](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3067.md)
+* [Digital rt-pcr](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3130.md)
+* [Digital rt-qpcr assay](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3374.md)
+* [Dna/rna extraction methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3375.md)
+* [Dpcr](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2341.md)
+* [Improved rt-qpcr assays and sequencing techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3846.md)
+* [Monitoring techniques for rna degradation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3510.md)
+* [Nucleic acid-based polymerase chain reaction](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3508.md)
+* [Nucleic acid-based polymerase chain reaction pcr](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3795.md)
+* [Pcr](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_58.md)
+* [Pcr assay](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2464.md)
+* [Pcr techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2466.md)
+* [Qpcr techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3250.md)
+* [Qr code scanner](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3511.md)
 * [Qrt pcr testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3512.md)
 * [Qrt-pcr](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2790.md)
 * [Quantitative rt-pcr methodology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2888.md)

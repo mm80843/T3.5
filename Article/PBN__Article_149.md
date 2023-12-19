@@ -1,13 +1,13 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_149 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_149 
 
 # __Designing for COVID-2x: Reflecting on Future-Proofing Human Habitation for the Inevitable Next Pandemic__
 
 ## Benefits listed in this article
 
-* [Adjustment for social distancing](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_358.md)
+* [Adjustment for social distancing](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_748.md)
 * [Conversion to infection and isolation wards](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_441.md)
-* [Early detection of virus circulation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_750.md)
-* [Improved mental health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_748.md)
+* [Early detection of virus circulation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_358.md)
+* [Improved mental health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_750.md)
 * [Insulation of private sphere from communal sphere](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_753.md)
 * [Reduction in aerosol transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_747.md)
 * [Reduction in community transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_749.md)

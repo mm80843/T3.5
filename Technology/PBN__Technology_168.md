@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_168 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_168 
 
 # __Communication tools__
 
@@ -48,10 +48,10 @@
 
 ## This Technology enables the following mitigations
 
-* [Clear communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4939.md)
-* [Crisis management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4407.md)
-* [Cross-disciplinary collaboration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3234.md)
-* [Enhanced communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_832.md)
+* [Clear communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_832.md)
+* [Crisis management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4939.md)
+* [Cross-disciplinary collaboration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4407.md)
+* [Enhanced communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3234.md)
 * [Enhanced communication and coordination](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3810.md)
 * [Increased communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3697.md)
 * [Remote work](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3888.md)

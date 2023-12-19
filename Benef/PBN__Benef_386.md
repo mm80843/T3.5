@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_386 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/pages/docs/Benef/index.md) >> Individual ID:PBN__Benef_386 
 
 # __Identification of source and sink areas__
 
@@ -25,6 +25,6 @@ Target interventions and prevent transmission spread
 ## Stakeholders benefitting from this Benefit
 
 * [Affected communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_121.md)
-* [Healthcare providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_183.md)
-* [Malaria elimination programs](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_182.md)
+* [Healthcare providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_182.md)
+* [Malaria elimination programs](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_183.md)
 

@@ -1,11 +1,11 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_135 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_135 
 
 # __The socio-economic implications of the coronavirus pandemic (COVID-19): A review__
 
 ## Benefits listed in this article
 
-* [Improved access to food](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_680.md)
-* [Improved healthcare delivery](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_679.md)
+* [Improved access to food](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_679.md)
+* [Improved healthcare delivery](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_680.md)
 * [Increased revenue for video-gaming companies](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_686.md)
 * [Increased supply of ventilators](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_684.md)
 * [Minimized risk of infection spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_681.md)
@@ -59,23 +59,23 @@ Overall, the COVID-19 outbreak has had a big impact on many different parts of t
 
 ## This article mentions these technologies
 
-* [Ai](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_278.md)
-* [Drones for medical supply delivery](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
-* [Financial aid programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1170.md)
-* [Robotics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1171.md)
+* [Ai](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
+* [Drones for medical supply delivery](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_278.md)
+* [Financial aid programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1171.md)
+* [Robotics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_634.md)
 * [Technology for remote learning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1167.md)
 * [Tele-response bots](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1168.md)
 * [Telehealth solutions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1169.md)
 
 ## This article points to following mitigation
 
-* [Delivery drones](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4367.md)
-* [Deployment of viral testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4381.md)
-* [Emergency loan guarantees](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
-* [Flexible delivery hours](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3123.md)
-* [Food parcels and free meals](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_564.md)
-* [Government bailout](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4370.md)
-* [Increased funding for vaccine research](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_832.md)
+* [Delivery drones](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Deployment of viral testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3123.md)
+* [Emergency loan guarantees](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_832.md)
+* [Flexible delivery hours](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_564.md)
+* [Food parcels and free meals](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4367.md)
+* [Government bailout](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4381.md)
+* [Increased funding for vaccine research](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4370.md)
 * [Increased production of ventilators](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4378.md)
 * [Increased support for domestic violence services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4382.md)
 * [Limiting product range](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4376.md)

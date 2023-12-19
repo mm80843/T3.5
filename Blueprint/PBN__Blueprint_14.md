@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_14 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/pages/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_14 
 
 # __Good hand hygiene practice__
 
@@ -21,39 +21,39 @@ The practice was were widely demonstrated through the COVID-19 pandemic.
 
 ## Enablers of the blueprint
 
-* [Digital signage](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_17.md)
-* [SmartPhones](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_20.md)
-* [Social Networks](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_7.md)
-* [Telemedecine](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_31.md)
-* [Water sensors](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_19.md)
+* [Digital signage](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_17.md)
+* [SmartPhones](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_20.md)
+* [Social Networks](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_7.md)
+* [Telemedecine](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_31.md)
+* [Water sensors](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_19.md)
 
 ## GBN Phase of the blueprint
 
-* [Operational](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Phase_0.md)
+* [Operational](https://github.com/mm80843/T3.5/blob/pages/BP_Phase/PBN__BP_Phase_0.md)
 
 ## Interventions of the blueprint
 
-* [Personal hygiene (eg handwashing)](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_38.md)
-* [Raising awareness](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_21.md)
-* [Staff training / upskilling](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_22.md)
+* [Personal hygiene (eg handwashing)](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_38.md)
+* [Raising awareness](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_21.md)
+* [Staff training / upskilling](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_22.md)
 
 ## Mode of transmission covered by the blueprint
 
-* [Direct contact](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_2.md)
-* [Fomite](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_3.md)
+* [Direct contact](https://github.com/mm80843/T3.5/blob/pages/BP_Transmission/PBN__BP_Transmission_2.md)
+* [Fomite](https://github.com/mm80843/T3.5/blob/pages/BP_Transmission/PBN__BP_Transmission_3.md)
 
 ## Possible mitigations of the BP
 
-* [Ensuring the availability of hand hygiene facilities handwashing stations or sanitizer dispensers , regular cleaning and disinfection of surfaces, and proper waste management.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3959.md)
-* [Implement hand hygiene protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1611.md)
-* [Implement regular cleaning and disinfection protocols, promote good hand hygiene, and encourage the use of protective barriers and personal protective equipment.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1587.md)
-* [Implementing measures such as social distancing, increased ventilation, regular disinfection, and promoting hand hygiene.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2232.md)
-* [Increase frequency of cleaning, provide hand sanitizers, promote personal hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1653.md)
-* [Promote and enforce proper hand hygiene practices, provide hand sanitizing stations throughout the building.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2254.md)
-* [Promote proper hand hygiene practices through education and awareness campaigns, provide hand sanitization stations, and enforce hand hygiene protocols.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2235.md)
-* [Promote regular hand hygiene, use of hand sanitizers, and disinfection of commonly touched surfaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1572.md)
-* [Provide an adequate number of hand washing stations and sanitizers at multiple locations on construction sites, and require regular hand hygiene practices.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2180.md)
-* [Regular cleaning, hand hygiene, disinfection protocols.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3107.md)
+* [Ensuring the availability of hand hygiene facilities handwashing stations or sanitizer dispensers , regular cleaning and disinfection of surfaces, and proper waste management.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1587.md)
+* [Implement hand hygiene protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2180.md)
+* [Implement regular cleaning and disinfection protocols, promote good hand hygiene, and encourage the use of protective barriers and personal protective equipment.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3107.md)
+* [Implementing measures such as social distancing, increased ventilation, regular disinfection, and promoting hand hygiene.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2235.md)
+* [Increase frequency of cleaning, provide hand sanitizers, promote personal hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3959.md)
+* [Promote and enforce proper hand hygiene practices, provide hand sanitizing stations throughout the building.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1611.md)
+* [Promote proper hand hygiene practices through education and awareness campaigns, provide hand sanitization stations, and enforce hand hygiene protocols.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2232.md)
+* [Promote regular hand hygiene, use of hand sanitizers, and disinfection of commonly touched surfaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1653.md)
+* [Provide an adequate number of hand washing stations and sanitizers at multiple locations on construction sites, and require regular hand hygiene practices.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2254.md)
+* [Regular cleaning, hand hygiene, disinfection protocols.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1572.md)
 
 ## Possible risks of the BP
 
@@ -82,7 +82,7 @@ Changing user behaviour can be challenging, but once a positive behaviour is est
 
 ## Scale of the of the blueprint
 
-* [Building](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Scale_0.md)
+* [Building](https://github.com/mm80843/T3.5/blob/pages/BP_Scale/PBN__BP_Scale_0.md)
 
 ## Title of the blueprint
 
@@ -90,11 +90,11 @@ PBN:BP_15
 
 ## Type of deployment of the blueprint
 
-* [Permanent & temporary](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Permanent_2.md)
+* [Permanent & temporary](https://github.com/mm80843/T3.5/blob/pages/BP_Permanent/PBN__BP_Permanent_2.md)
 
 ## Type of the blueprint
 
-* [Behavioural](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Type_0.md)
+* [Behavioural](https://github.com/mm80843/T3.5/blob/pages/BP_Type/PBN__BP_Type_0.md)
 
 ## Value proposition of the blueprint
 

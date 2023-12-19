@@ -1,12 +1,12 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_82 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_82 
 
 # __Analysis of COVID-19 Concerns Raised by the Construction Workforce and Development of Mitigation Practices__
 
 ## Benefits listed in this article
 
-* [Early detection and prevention](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_413.md)
-* [Enhanced hygiene](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_248.md)
-* [Improved knowledge and compliance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_411.md)
+* [Early detection and prevention](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_411.md)
+* [Enhanced hygiene](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_413.md)
+* [Improved knowledge and compliance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_248.md)
 * [Improved worker safety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_412.md)
 * [Reduced virus spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_414.md)
 

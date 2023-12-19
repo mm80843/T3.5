@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2229 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_2229 
 
 # __Cleaning and disinfection__
 
@@ -21,11 +21,11 @@
 
 ## This Technology belongs to this TechnologySubgroup
 
-* [Automated cleaning systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_205.md)
-* [Automated cleaning technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_833.md)
-* [Automated cleaning tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1908.md)
-* [Cleaning equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1319.md)
-* [Disinfection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_361.md)
+* [Automated cleaning systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_833.md)
+* [Automated cleaning technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_361.md)
+* [Automated cleaning tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_205.md)
+* [Cleaning equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1908.md)
+* [Disinfection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1319.md)
 * [Disinfection methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_362.md)
 * [Disinfection supplies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_751.md)
 * [Robotic disinfection systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2291.md)

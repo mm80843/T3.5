@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_848 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_848 
 
 # __Spread of false information__
 
@@ -29,7 +29,7 @@ False information regarding infectious diseases can cause confusion, anxiety, an
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Mitigations of this risk
 
@@ -51,8 +51,8 @@ Confusion, psychological anxiety, economic loss
 
 ## Stakeholders who can mitigate this risk
 
-* [Authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_277.md)
-* [Media](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_554.md)
+* [Authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_554.md)
+* [Media](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_277.md)
 * [Social media platforms](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_231.md)
 
 ## Technologies linked to the risk
@@ -61,11 +61,11 @@ Confusion, psychological anxiety, economic loss
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Innovation, creativity and research](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_2.md)
+* [Innovation, creativity and research](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_2.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
+* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_2.md)
 
 ## Type of the risk
 

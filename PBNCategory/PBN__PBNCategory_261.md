@@ -1,14 +1,14 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_261 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/pages/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_261 
 
 # __Various individuals and entities involved in the supply chain, from suppliers to consumers and everyone in between.__
 
 ## Items covered in this category
 
-* [Businesses and consumers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_296.md)
-* [Buyer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_16.md)
-* [Buyers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_15.md)
-* [Consumer of wildlife product](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_535.md)
-* [Consumers of wildlife products](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_283.md)
+* [Businesses and consumers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_283.md)
+* [Buyer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_296.md)
+* [Buyers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_16.md)
+* [Consumer of wildlife product](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_15.md)
+* [Consumers of wildlife products](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_535.md)
 * [Farmers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1876.md)
 * [Food establishment](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_320.md)
 * [Food establishments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1175.md)

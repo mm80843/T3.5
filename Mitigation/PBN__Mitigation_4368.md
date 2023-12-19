@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4368 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4368 
 
 # __Tele-response bots__
 
@@ -25,8 +25,8 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Ai technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2042.md)
-* [Fifth-generation wireless networks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3253.md)
+* [Ai technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3253.md)
+* [Fifth-generation wireless networks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2042.md)
 
 ## Property: has_MitigationPrinciple
 

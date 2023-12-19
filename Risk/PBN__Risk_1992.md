@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1992 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1992 
 
 # __Lack of communication and education__
 
@@ -29,7 +29,7 @@ Inadequate dissemination of information and education regarding infectious disea
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Mitigations of this risk
 
@@ -42,8 +42,8 @@ Lack of awareness and knowledge about disease transmission and prevention.
 ## People affected by this risk
 
 * [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
-* [Employees](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_220.md)
-* [Visitors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_118.md)
+* [Employees](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_118.md)
+* [Visitors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_220.md)
 
 ## Stakeholders who can mitigate this risk
 
@@ -53,17 +53,17 @@ Lack of awareness and knowledge about disease transmission and prevention.
 
 ## Technologies linked to the risk
 
-* [Digital communication platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_370.md)
+* [Digital communication platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_493.md)
 * [Educational materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_895.md)
-* [Public announcements](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_493.md)
+* [Public announcements](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_370.md)
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Innovation, creativity and research](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_2.md)
+* [Innovation, creativity and research](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_2.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
+* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_2.md)
 
 ## Type of the risk
 

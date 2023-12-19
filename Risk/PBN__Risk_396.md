@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_396 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_396 
 
 # __Spread of misinformation__
 
@@ -29,13 +29,13 @@ Lack of verified information leads to panic and non-compliance with mitigation a
 
 ## Is the risk affecting GBN scales
 
-* [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_0.md)
 
 ## Mitigations of this risk
 
-* [Effective communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5088.md)
-* [Ensure clear communication from health authorities, combat fake news and rumors](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3389.md)
-* [Monitoring social media content](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_553.md)
+* [Effective communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3389.md)
+* [Ensure clear communication from health authorities, combat fake news and rumors](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_553.md)
+* [Monitoring social media content](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5088.md)
 * [Promote reliable information sources](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1134.md)
 * [Promoting trust and countering misinformation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1841.md)
 
@@ -59,11 +59,11 @@ Increased fear and confusion, hindered disease control efforts
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Innovation, creativity and research](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_2.md)
+* [Innovation, creativity and research](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_2.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
+* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_2.md)
 
 ## Type of the risk
 

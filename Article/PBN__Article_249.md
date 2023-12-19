@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_249 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_249 
 
 # __Environmental factors involved in SARS-CoV-2 transmission: effect and role of indoor environmental quality in the strategy for COVID-19 infection control__
 
@@ -37,11 +37,11 @@ In this article, the authors discuss the factors that contribute to the transmis
 
 ## This article mentions these technologies
 
-* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
-* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
-* [Cleaning and disinfection products](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_82.md)
-* [Enforcement measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
-* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_230.md)
+* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_230.md)
+* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+* [Cleaning and disinfection products](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
+* [Enforcement measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
+* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_82.md)
 * [Proper cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_231.md)
 * [Protective barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_227.md)
 * [Public health campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_228.md)
@@ -52,17 +52,17 @@ In this article, the authors discuss the factors that contribute to the transmis
 
 ## This article points to following mitigation
 
-* [Adequate control of air conditioning and ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
-* [Adequate ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3306.md)
-* [Disinfection of fomites](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1193.md)
-* [Filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3305.md)
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3309.md)
-* [Improved ventilation rates](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_312.md)
-* [Mechanical ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1133.md)
-* [Opening windows](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3308.md)
-* [Ultraviolet germicidal irradiation uvgi](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3304.md)
-* [Uncrowded spacing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3307.md)
-* [Wearing masks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3310.md)
+* [Adequate control of air conditioning and ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_312.md)
+* [Adequate ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3310.md)
+* [Disinfection of fomites](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
+* [Filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3306.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1193.md)
+* [Improved ventilation rates](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3305.md)
+* [Mechanical ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3309.md)
+* [Opening windows](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1133.md)
+* [Ultraviolet germicidal irradiation uvgi](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3308.md)
+* [Uncrowded spacing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3304.md)
+* [Wearing masks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3307.md)
 
 ## Title of the article
 

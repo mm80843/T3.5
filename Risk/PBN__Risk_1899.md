@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1899 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1899 
 
 # __Value-based decision-making and policy support__
 
@@ -29,7 +29,7 @@ Digital tools can support decision-making in a complex socio-technical system, b
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Mitigations of this risk
 
@@ -41,8 +41,8 @@ Ethical dilemmas and potential bias in decision-making.
 
 ## People affected by this risk
 
-* [Policy makers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_3.md)
-* [Water utilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_329.md)
+* [Policy makers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_329.md)
+* [Water utilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_3.md)
 
 ## Stakeholders who can mitigate this risk
 
@@ -56,11 +56,11 @@ Ethical dilemmas and potential bias in decision-making.
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Innovation, creativity and research](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_2.md)
+* [Innovation, creativity and research](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_2.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Research](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_11.md)
+* [Research](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_11.md)
 
 ## Type of the risk
 

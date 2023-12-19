@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_641 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/pages/docs/Benef/index.md) >> Individual ID:PBN__Benef_641 
 
 # __Compliance with regulations__
 
@@ -24,7 +24,7 @@ Compliance with regulations ensures a safe and healthy environment, reducing the
 
 ## Stakeholders benefitting from this Benefit
 
-* [Health club organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_270.md)
-* [Members](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_103.md)
+* [Health club organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_103.md)
+* [Members](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_270.md)
 * [Staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_271.md)
 

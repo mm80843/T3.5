@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2602 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2602 
 
 # __Promote reliable and verifiable sources of information; educate the public on how to critically evaluate information; combat misinformation through fact-checking and debunking.__
 
@@ -21,7 +21,7 @@
 
 ## Link between Blueprint and General ontology
 
-* [Promote verified information](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_39.md)
+* [Promote verified information](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_39.md)
 
 ## Risks possibly mitigated by this Mitigation
 

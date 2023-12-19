@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_0 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_0 
 
 # __Public health authorities__
 
@@ -107,19 +107,19 @@
 
 ## This Stakeholder can get these Benefits from mitigation measures
 
-* [Accurate assessment of situation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_0.md)
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_472.md)
-* [Contact tracing and remote monitoring](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_474.md)
-* [Early detection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_475.md)
-* [Early detection and monitoring of pathogens](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_476.md)
-* [Early detection and response](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_878.md)
-* [Early detection of covid-19](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_5.md)
-* [Early detection of virus circulation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_358.md)
-* [Early detection of virus spreading in communities](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_360.md)
-* [Early warning for increasing virus circulation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_362.md)
-* [Early warning system](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_806.md)
-* [Early warning tool](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_8.md)
-* [Efficient contact tracing](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_216.md)
+* [Accurate assessment of situation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_5.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_360.md)
+* [Contact tracing and remote monitoring](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_216.md)
+* [Early detection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_0.md)
+* [Early detection and monitoring of pathogens](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_472.md)
+* [Early detection and response](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_474.md)
+* [Early detection of covid-19](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_475.md)
+* [Early detection of virus circulation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_476.md)
+* [Early detection of virus spreading in communities](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_878.md)
+* [Early warning for increasing virus circulation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_358.md)
+* [Early warning system](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_362.md)
+* [Early warning tool](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_806.md)
+* [Efficient contact tracing](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_8.md)
 * [Enhanced ability to enact coordinated community-level vector control efforts](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_218.md)
 * [Enhanced surveillance and control of covid-19](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_444.md)
 * [Enhanced tracking and prediction of covid-19 cases](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_112.md)
@@ -156,7 +156,7 @@
 
 ## Type of the stakeholder
 
-* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_0.md)
-* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
-* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_0.md)
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_2.md)
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_1.md)
 

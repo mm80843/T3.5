@@ -1,14 +1,14 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_169 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_169 
 
 # __The effect of occupant distribution on energy consumption and COVID-19 infection in buildings: A case study of university building__
 
 ## Benefits listed in this article
 
-* [Enhanced thermal comfort](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_838.md)
-* [Improved accuracy of energy consumption simulation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_839.md)
-* [Improved accuracy of infection risk estimation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_840.md)
-* [Reduced energy consumption](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_841.md)
-* [Reduced infection risk, fewer infected people](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_246.md)
+* [Enhanced thermal comfort](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_246.md)
+* [Improved accuracy of energy consumption simulation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_838.md)
+* [Improved accuracy of infection risk estimation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_839.md)
+* [Reduced energy consumption](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_840.md)
+* [Reduced infection risk, fewer infected people](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_841.md)
 * [Reduced number of infected people](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_837.md)
 
 ## DOI of the article

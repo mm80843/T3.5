@@ -1,14 +1,14 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_149 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_149 
 
 # __Wastewater surveillance__
 
 ## Benefits linked to a risk
 
 * [Early detection of outbreaks](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_166.md)
-* [Early detection of virus circulation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_167.md)
-* [Early warning system](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_168.md)
-* [Estimation of virus spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_358.md)
-* [Indication of virus circulation in the human population](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_360.md)
+* [Early detection of virus circulation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_360.md)
+* [Early warning system](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_167.md)
+* [Estimation of virus spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_168.md)
+* [Indication of virus circulation in the human population](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_358.md)
 * [Informative data in areas with scarce data](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_362.md)
 * [Public health monitoring](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_806.md)
 

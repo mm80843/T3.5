@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_104 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_104 
 
 # __Ventilation use in nonmedical settings during COVID-19: Cleaning protocol, maintenance, and recommendations__
 
@@ -36,24 +36,24 @@ Ventilation is important for reducing the risk of spreading the virus that cause
 
 ## This article mentions these technologies
 
-* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_340.md)
-* [Face masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_341.md)
-* [Mechanical ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
-* [Natural ventilation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
-* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1011.md)
-* [Physical barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_270.md)
+* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_341.md)
+* [Face masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+* [Mechanical ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_340.md)
+* [Natural ventilation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_270.md)
+* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
+* [Physical barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1011.md)
 
 ## This article points to following mitigation
 
-* [Avoidance of air recirculation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4344.md)
-* [Dilution and dispersion](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4356.md)
-* [Filtered ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4352.md)
-* [Good housekeeping practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_520.md)
-* [Humidity control](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4353.md)
-* [Increased outdoor air supply](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4346.md)
-* [Increased outdoor air ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4354.md)
-* [Indoor air quality monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4351.md)
-* [Negative pressure during cleaning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4357.md)
+* [Avoidance of air recirculation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4357.md)
+* [Dilution and dispersion](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4344.md)
+* [Filtered ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4356.md)
+* [Good housekeeping practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4352.md)
+* [Humidity control](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_520.md)
+* [Increased outdoor air supply](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4353.md)
+* [Increased outdoor air ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4346.md)
+* [Indoor air quality monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4354.md)
+* [Negative pressure during cleaning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4351.md)
 * [Portable room air purifiers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3440.md)
 * [Proper cleaning protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4347.md)
 * [Proper insulation maintenance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4345.md)

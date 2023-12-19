@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4796 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4796 
 
 # __Quarantine monitoring system__
 
@@ -21,7 +21,7 @@
 
 ## Link between Blueprint and General ontology
 
-* [Quarantine support](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_30.md)
+* [Quarantine support](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_30.md)
 
 ## Risks possibly mitigated by this Mitigation
 
@@ -30,8 +30,8 @@
 ## This Mitigation is enabled by the following technologies
 
 * [Connectivity](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_277.md)
-* [Iot](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3517.md)
-* [Sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_200.md)
+* [Iot](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_200.md)
+* [Sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3517.md)
 
 ## Property: has_MitigationPrinciple
 

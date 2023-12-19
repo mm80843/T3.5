@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3364 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3364 
 
 # __Collaborative networks and partnerships__
 
@@ -25,8 +25,8 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Chat rooms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2435.md)
-* [Collaboration tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_565.md)
+* [Chat rooms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_565.md)
+* [Collaboration tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2435.md)
 * [Workshops](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2512.md)
 
 ## Property: has_MitigationPrinciple

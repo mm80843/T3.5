@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_67 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_67 
 
 # __Companies__
 
@@ -35,12 +35,12 @@
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Fever detection and screening](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_368.md)
-* [Increased productivity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_105.md)
-* [Remote healthcare and work](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_678.md)
+* [Increased productivity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_678.md)
+* [Remote healthcare and work](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_105.md)
 * [Risk mitigation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_399.md)
 
 ## Type of the stakeholder
 
-* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_0.md)
-* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_0.md)
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_2.md)
 

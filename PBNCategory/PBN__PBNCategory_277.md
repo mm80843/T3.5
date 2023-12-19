@@ -1,14 +1,14 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_277 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/pages/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_277 
 
 # __People who lack access to private outdoor spaces and have limited access to green spaces, including rural women with ovarian cancer, frequents public places.__
 
 ## Items covered in this category
 
-* [Especially those without acce to private outdoor space](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_367.md)
-* [Especially those without acces to private outdoor space](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_680.md)
-* [Especially those without access to private outdoor spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1618.md)
-* [General population in areas with underfunded green space](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_37.md)
-* [Individual in public space](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_765.md)
+* [Especially those without acce to private outdoor space](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_765.md)
+* [Especially those without acces to private outdoor space](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_367.md)
+* [Especially those without access to private outdoor spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_680.md)
+* [General population in areas with underfunded green space](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1618.md)
+* [Individual in public space](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_37.md)
 * [Individual who frequent public space](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_485.md)
 * [Individual with limited acce to green space](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_881.md)
 * [Individual with limited acces to green space](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_767.md)

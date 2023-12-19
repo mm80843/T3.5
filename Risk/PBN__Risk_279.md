@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_279 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_279 
 
 # __Virus propagation risks__
 
@@ -29,14 +29,14 @@ Existing residential buildings have many surfaces of contact, which leads to lim
 
 ## Is the risk affecting GBN scales
 
-* [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_0.md)
 
 ## Mitigations of this risk
 
-* [Antimicrobial indoor finishing materials](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_347.md)
-* [Green and natural environment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_216.md)
-* [Implement touchless technologies, promote regular sanitization and hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_346.md)
-* [Proper ventilation and air quality](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_345.md)
+* [Antimicrobial indoor finishing materials](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_345.md)
+* [Green and natural environment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_347.md)
+* [Implement touchless technologies, promote regular sanitization and hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_216.md)
+* [Proper ventilation and air quality](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_346.md)
 * [Self-cleaning spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_348.md)
 * [Touchless technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2891.md)
 
@@ -60,11 +60,11 @@ Increased risk of virus transmission and potential outbreaks
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_0.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_6.md)
+* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_6.md)
 
 ## Type of the risk
 

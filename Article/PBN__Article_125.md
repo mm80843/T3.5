@@ -1,12 +1,12 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_125 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_125 
 
 # __The efficacy of social distance and ventilation effectiveness in preventing COVID-19 transmission__
 
 ## Benefits listed in this article
 
-* [Improved asset value](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_29.md)
+* [Improved asset value](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_632.md)
 * [Reduced financial losses](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_631.md)
-* [Reduced infection risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_632.md)
+* [Reduced infection risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_29.md)
 
 ## DOI of the article
 
@@ -32,13 +32,13 @@ This study looked at how the coronavirus spreads through respiratory droplets wh
 
 * [Air circulation devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_341.md)
 * [Air filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
-* [Governments](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_613.md)
-* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_612.md)
-* [Information campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_249.md)
-* [Masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_47.md)
-* [Physical barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1051.md)
-* [Public health agencies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_435.md)
-* [Social media platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1109.md)
+* [Governments](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1109.md)
+* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_47.md)
+* [Information campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1051.md)
+* [Masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_613.md)
+* [Physical barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_612.md)
+* [Public health agencies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_249.md)
+* [Social media platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_435.md)
 * [Ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1660.md)
 
 ## This article points to following mitigation

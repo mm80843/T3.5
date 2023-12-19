@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_60 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_60 
 
 # __Global value chains: Efficiency and risks in the context of COVID-19__
 
@@ -37,9 +37,9 @@ The COVID-19 pandemic showed how interconnected countries are through global val
 
 ## This article mentions these technologies
 
-* [Advanced modeling techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1199.md)
+* [Advanced modeling techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1067.md)
 * [Artificial intelligence](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_356.md)
-* [Data analytics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1067.md)
+* [Data analytics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1199.md)
 * [Forecasting tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1198.md)
 * [Policy analysis and decision-making tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_818.md)
 * [Risk assessment and management technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1197.md)

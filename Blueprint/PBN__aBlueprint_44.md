@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__aBlueprint_44 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/pages/docs/Blueprint/index.md) >> Individual ID:PBN__aBlueprint_44 
 
 # __Implementing Enhanced Sanitation and Hygiene Practices__
 
@@ -31,40 +31,40 @@
 * [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_68.md)
 * [Employees](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
 * [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
-* [Healthcare workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_220.md)
-* [Visitors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_118.md)
+* [Healthcare workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_118.md)
+* [Visitors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_220.md)
 
 ## 4. Blueprint links to these mitigations
 
-* [Ensure access to clean drinking water, improve wastewater treatment and management systems.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2549.md)
+* [Ensure access to clean drinking water, improve wastewater treatment and management systems.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2525.md)
 * [Improve sanitation infrastructure, promote hygiene education and practices, increase access to clean water sources.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1896.md)
-* [Increase cleaning frequency, provide adequate supplies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2525.md)
-* [Regular cleaning, hand hygiene, disinfection protocols.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2235.md)
-* [Regularly educate and remind individuals about proper hygiene practices, provide access to hand sanitizers and cleaning supplies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2257.md)
+* [Increase cleaning frequency, provide adequate supplies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2549.md)
+* [Regular cleaning, hand hygiene, disinfection protocols.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2257.md)
+* [Regularly educate and remind individuals about proper hygiene practices, provide access to hand sanitizers and cleaning supplies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2235.md)
 
 ## 5. Blueprint mitigation can be owned by these stakeholders
 
-* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_222.md)
-* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
+* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
+* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_222.md)
 * [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
 * [Local governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
 * [Public health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_566.md)
 
 ## 6. Blueprint links to these benefits
 
-* [Access to cleaner and more efficient fuel](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_161.md)
-* [Improved access to water and sanitation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_281.md)
-* [Improved hand hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1320.md)
+* [Access to cleaner and more efficient fuel](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1320.md)
+* [Improved access to water and sanitation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_161.md)
+* [Improved hand hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_281.md)
 
 ## 7. Blueprint links to these technology
 
 * [](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
-* [Clean drinking water](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3548.md)
-* [Cleaning detergent](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3880.md)
-* [Cleaning disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3360.md)
-* [Data tracking and analysis technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_411.md)
+* [Clean drinking water](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_411.md)
+* [Cleaning detergent](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1400.md)
+* [Cleaning disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3322.md)
+* [Data tracking and analysis technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_850.md)
 * [Disinfectant wipes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_671.md)
-* [Disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_850.md)
-* [Etc](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1400.md)
+* [Disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3880.md)
+* [Etc](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3548.md)
 * [Sodium hypochlorite](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3359.md)
 

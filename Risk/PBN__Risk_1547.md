@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1547 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1547 
 
 # __Disruption of construction projects__
 
@@ -29,7 +29,7 @@ Construction projects have been delayed or temporarily stopped due to workforce 
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Mitigations of this risk
 
@@ -42,15 +42,15 @@ Delays in project completion, increased costs, and potential financial loss for 
 
 ## People affected by this risk
 
-* [Construction companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_973.md)
-* [Government bodies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_181.md)
-* [Project managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_903.md)
+* [Construction companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_181.md)
+* [Government bodies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_903.md)
+* [Project managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_973.md)
 
 ## Stakeholders who can mitigate this risk
 
-* [Construction companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_973.md)
-* [Government bodies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_181.md)
-* [Project managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_903.md)
+* [Construction companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_181.md)
+* [Government bodies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_903.md)
+* [Project managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_973.md)
 
 ## Technologies linked to the risk
 
@@ -59,11 +59,11 @@ Delays in project completion, increased costs, and potential financial loss for 
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_8.md)
+* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_8.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Attractiveness](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_9.md)
+* [Attractiveness](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_9.md)
 
 ## Type of the risk
 

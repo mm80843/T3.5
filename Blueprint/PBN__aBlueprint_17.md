@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__aBlueprint_17 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/pages/docs/Blueprint/index.md) >> Individual ID:PBN__aBlueprint_17 
 
 # __Implementing Disease Containment Scenarios and Supply Chain Adaptations__
 
@@ -31,41 +31,41 @@
 
 * [Contractors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_179.md)
 * [Manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_983.md)
-* [Project teams](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_283.md)
-* [Suppliers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_976.md)
-* [Supply chain managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_34.md)
+* [Project teams](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_34.md)
+* [Suppliers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_283.md)
+* [Supply chain managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_976.md)
 
 ## 4. Blueprint links to these mitigations
 
 * [Implement alternative delivery methods, adapt supply chains](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_12.md)
-* [Implementing scenario planning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_622.md)
-* [Localised manufacturing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1108.md)
-* [Providing alternative means to ensure continuity of basic functions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2054.md)
-* [Rethinking global trade and supply chains](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5070.md)
+* [Implementing scenario planning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2054.md)
+* [Localised manufacturing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_622.md)
+* [Providing alternative means to ensure continuity of basic functions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5070.md)
+* [Rethinking global trade and supply chains](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1108.md)
 
 ## 5. Blueprint mitigation can be owned by these stakeholders
 
 * [Customers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
 * [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_983.md)
-* [Manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_283.md)
-* [Suppliers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_221.md)
-* [Supply chain managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_34.md)
+* [Manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_34.md)
+* [Suppliers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_283.md)
+* [Supply chain managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_221.md)
 
 ## 6. Blueprint links to these benefits
 
-* [Improved supply chain efficiency](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_711.md)
-* [Redundancy in supply chains](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_37.md)
+* [Improved supply chain efficiency](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_37.md)
+* [Redundancy in supply chains](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_711.md)
 * [Supply chain resilience](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_698.md)
 
 ## 7. Blueprint links to these technology
 
 * [Backup systems and capabilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
 * [Collaboration tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_277.md)
-* [Community-level farming](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3742.md)
-* [Data analytics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3743.md)
-* [Diversification](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_565.md)
-* [Diversification of suppliers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1067.md)
-* [Iot](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3674.md)
-* [Localization](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3637.md)
-* [Redundant infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3679.md)
+* [Community-level farming](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_565.md)
+* [Data analytics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1067.md)
+* [Diversification](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3583.md)
+* [Diversification of suppliers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3743.md)
+* [Iot](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3742.md)
+* [Localization](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3679.md)
+* [Redundant infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3637.md)
 

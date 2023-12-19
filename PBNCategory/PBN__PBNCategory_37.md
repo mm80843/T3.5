@@ -1,25 +1,25 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_37 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/pages/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_37 
 
 # __Enhanced air cleanliness and reduced pollutants for healthier and more comfortable indoor environments.__
 
 ## Items covered in this category
 
-* [Air purification](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_192.md)
-* [Better air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_169.md)
-* [Clean indoor air and prevention of virus spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_524.md)
-* [Enhanced air cleaning in specific areas](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1338.md)
-* [Enhanced air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_671.md)
-* [Enhanced indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_321.md)
-* [Enhanced indoor environment](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_125.md)
-* [Enhanced indoor environmental quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_756.md)
-* [Equitable indoor environments](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1324.md)
-* [Fresh air supply](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_302.md)
-* [Improved air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1328.md)
-* [Improved air quality in buildings and public spaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_236.md)
-* [Improved iaq and air filtration](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_205.md)
-* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1065.md)
-* [Improved indoor air quality and comfort](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1321.md)
-* [Improved indoor air quality and health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_238.md)
+* [Air purification](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_169.md)
+* [Better air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_192.md)
+* [Clean indoor air and prevention of virus spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1065.md)
+* [Enhanced air cleaning in specific areas](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_238.md)
+* [Enhanced air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_524.md)
+* [Enhanced indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1338.md)
+* [Enhanced indoor environment](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_671.md)
+* [Enhanced indoor environmental quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_321.md)
+* [Equitable indoor environments](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_125.md)
+* [Fresh air supply](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_756.md)
+* [Improved air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1324.md)
+* [Improved air quality in buildings and public spaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_302.md)
+* [Improved iaq and air filtration](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1328.md)
+* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_236.md)
+* [Improved indoor air quality and comfort](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_205.md)
+* [Improved indoor air quality and health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1321.md)
 * [Improved indoor air quality and natural lighting](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_346.md)
 * [Improved indoor climate](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_257.md)
 * [Improved indoor environment quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_273.md)

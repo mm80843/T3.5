@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_212 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_212 
 
 # __Prototype Early Warning Systems for Vector-Borne Diseases in Europe__
 
@@ -39,8 +39,8 @@ Vector-borne diseases are diseases that are spread by living organisms, like mos
 
 ## This article points to following mitigation
 
-* [Early warning systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4740.md)
-* [Enhanced surveillance and reporting](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_564.md)
+* [Early warning systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_564.md)
+* [Enhanced surveillance and reporting](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4740.md)
 * [Healthcare access and early treatment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3761.md)
 * [Improved blood safety practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4736.md)
 * [Land-use planning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4737.md)

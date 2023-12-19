@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_136 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_136 
 
 # __COVID-19 and social inequalities: a complex and dynamic interaction__
 
@@ -48,8 +48,8 @@ The COVID-19 virus affects people differently based on their social status. This
 
 ## This article points to following mitigation
 
-* [Equitable healthcare access](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4553.md)
-* [Lockdown and social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3329.md)
+* [Equitable healthcare access](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3329.md)
+* [Lockdown and social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4553.md)
 * [Socioeconomic support](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4555.md)
 * [Testing and diagnosis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4554.md)
 * [Vaccination](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4556.md)

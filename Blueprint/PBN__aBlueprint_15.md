@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__aBlueprint_15 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/pages/docs/Blueprint/index.md) >> Individual ID:PBN__aBlueprint_15 
 
 # __Implementing Ventilation and Filtration Strategies to Mitigate Disease Spread__
 
@@ -29,42 +29,42 @@
 ## 3. Blueprint impacts these stakeholders
 
 * [Apartment residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
-* [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_220.md)
-* [Employees](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_92.md)
-* [Occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_118.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_118.md)
+* [Employees](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_220.md)
+* [Occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_92.md)
 * [Visitors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_356.md)
 
 ## 4. Blueprint links to these mitigations
 
-* [Comprehensive building design and maintenance strategies to ensure optimal indoor environmental quality.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1570.md)
-* [Improve indoor air quality, ensure proper humidity levels, address issues of poor lighting and acoustics.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3077.md)
+* [Comprehensive building design and maintenance strategies to ensure optimal indoor environmental quality.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3077.md)
+* [Improve indoor air quality, ensure proper humidity levels, address issues of poor lighting and acoustics.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2548.md)
 * [Improvement of indoor heating and cooling systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1346.md)
-* [Maintain appropriate temperature and humidity levels, improve ventilation and filtration systems, and ensure proper cleaning and disinfection protocols.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1589.md)
-* [Proper ventilation, air filtration, natural daylighting, indoor plantings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2548.md)
+* [Maintain appropriate temperature and humidity levels, improve ventilation and filtration systems, and ensure proper cleaning and disinfection protocols.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1570.md)
+* [Proper ventilation, air filtration, natural daylighting, indoor plantings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1589.md)
 
 ## 5. Blueprint mitigation can be owned by these stakeholders
 
 * [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
-* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
+* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
 * [Employers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_180.md)
-* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
+* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
 * [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
 
 ## 6. Blueprint links to these benefits
 
-* [Improved public health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_748.md)
-* [Reduced transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_47.md)
-* [Reduction in transmission among co-workers](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_232.md)
+* [Improved public health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_232.md)
+* [Reduced transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_748.md)
+* [Reduction in transmission among co-workers](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_47.md)
 
 ## 7. Blueprint links to these technology
 
-* [Balcony](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_341.md)
-* [Crowd control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
-* [Floor markings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
+* [Balcony](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
+* [Crowd control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_358.md)
+* [Floor markings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_230.md)
 * [Physical barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2818.md)
-* [Presence of forest and trees](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_358.md)
-* [Signage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3084.md)
+* [Presence of forest and trees](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
+* [Signage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3436.md)
 * [Source control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2938.md)
-* [Ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3436.md)
-* [Vertical gardens](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3083.md)
+* [Ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3083.md)
+* [Vertical gardens](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3084.md)
 

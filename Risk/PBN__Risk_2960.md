@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_2960 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_2960 
 
 # __Increased travel__
 
@@ -21,7 +21,7 @@
 
 ## Link between Blueprint and General ontology
 
-* [User journey](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Theme_3.md)
+* [User journey](https://github.com/mm80843/T3.5/blob/pages/BP_Theme/PBN__BP_Theme_3.md)
 
 ## Mitigations of this risk
 

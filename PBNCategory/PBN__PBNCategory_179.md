@@ -1,18 +1,18 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_179 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/pages/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_179 
 
 # __Improved indoor air quality and temperature control through advanced hvac technologies, air purifiers, and monitoring systems.__
 
 ## Items covered in this category
 
-* [Adaptive hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1829.md)
-* [Adequate airflow](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_185.md)
-* [Advanced air distribution systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
-* [Advanced monitoring and data analysis techniques can be used to study the relationship between indoor and outdoor conditions and influenza seasonality](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2238.md)
-* [Air circulation devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2292.md)
-* [Air circulation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_244.md)
-* [Air cleaning systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3761.md)
-* [Air conditioning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_489.md)
-* [Air distribution evaluation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2580.md)
+* [Adaptive hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_185.md)
+* [Adequate airflow](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+* [Advanced air distribution systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1829.md)
+* [Advanced monitoring and data analysis techniques can be used to study the relationship between indoor and outdoor conditions and influenza seasonality](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2580.md)
+* [Air circulation devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2238.md)
+* [Air circulation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2292.md)
+* [Air cleaning systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_244.md)
+* [Air conditioning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3761.md)
+* [Air distribution evaluation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_489.md)
 * [Air exchanges](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3904.md)
 * [Air exhaustion](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3756.md)
 * [Air extractors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1979.md)

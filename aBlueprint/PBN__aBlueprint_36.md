@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [aBlueprint](https://github.com/mm80843/T3.5/tree/main/docs/aBlueprint/index.md) >> Individual ID:PBN__aBlueprint_36 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [aBlueprint](https://github.com/mm80843/T3.5/tree/pages/docs/aBlueprint/index.md) >> Individual ID:PBN__aBlueprint_36 
 
 # __Implementing Cybersecurity and Transparency Strategies to Mitigate Contagious Disease Spread__
 
@@ -36,19 +36,19 @@
 
 ## 4. Blueprint links to these mitigations
 
-* [Improved peer review process](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1447.md)
+* [Improved peer review process](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2899.md)
 * [Preprint servers can implement additional screening measures, and researchers should critically evaluate the quality of preprints before drawing conclusions.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1696.md)
-* [Regulate media coverage, promote accurate and timely information, increase media literacy](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2899.md)
+* [Regulate media coverage, promote accurate and timely information, increase media literacy](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3027.md)
 * [Store donation process in blockchain for transparency and verification, reducing corruption and improving social trust](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_853.md)
-* [Strengthen cybersecurity measures, establish good communication channels, and combat disinformation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3027.md)
+* [Strengthen cybersecurity measures, establish good communication channels, and combat disinformation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1447.md)
 
 ## 5. Blueprint mitigation can be owned by these stakeholders
 
-* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
-* [Journal editors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
-* [Preprint servers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_717.md)
-* [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1555.md)
-* [Technology companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1554.md)
+* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
+* [Journal editors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
+* [Preprint servers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1555.md)
+* [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1554.md)
+* [Technology companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_717.md)
 
 ## 6. Blueprint links to these benefits
 
@@ -60,12 +60,12 @@
 
 * [Apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_211.md)
 * [Blockchain technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3127.md)
-* [Cell phone data](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3535.md)
-* [Data encryption](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1088.md)
-* [Digital contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3205.md)
-* [Fifth-generation wireless networks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3017.md)
-* [Gps location](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3128.md)
-* [Mobile app](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3372.md)
-* [Smartphone app](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3253.md)
+* [Cell phone data](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1088.md)
+* [Data encryption](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3535.md)
+* [Digital contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3017.md)
+* [Fifth-generation wireless networks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3128.md)
+* [Gps location](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3205.md)
+* [Mobile app](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3253.md)
+* [Smartphone app](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3372.md)
 * [Surveillance technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_344.md)
 

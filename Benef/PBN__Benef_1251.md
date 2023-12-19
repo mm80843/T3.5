@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1251 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/pages/docs/Benef/index.md) >> Individual ID:PBN__Benef_1251 
 
 # __Natural greywater treatment__
 
@@ -23,6 +23,6 @@ Green roofs can act as natural greywater treatment systems, helping to remove wa
 
 ## Stakeholders benefitting from this Benefit
 
-* [Municipalities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_491.md)
-* [Water authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_492.md)
+* [Municipalities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_492.md)
+* [Water authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_491.md)
 

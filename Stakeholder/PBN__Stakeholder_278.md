@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_278 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_278 
 
 # __Global population__
 
@@ -35,13 +35,13 @@
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Control and prevention of future outbreaks](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1206.md)
-* [Increased public awareness and compliance with preventive measures](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_668.md)
-* [Population-wide surveillance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_865.md)
-* [Raised awareness of health gains](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_864.md)
+* [Increased public awareness and compliance with preventive measures](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_864.md)
+* [Population-wide surveillance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_668.md)
+* [Raised awareness of health gains](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_865.md)
 * [Reduction in international spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_861.md)
 
 ## Type of the stakeholder
 
-* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_0.md)
-* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_0.md)
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_1.md)
 

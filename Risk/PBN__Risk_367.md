@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_367 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_367 
 
 # __Urban heat islands uhis__
 
@@ -29,7 +29,7 @@ Metropolitan areas significantly warmer than rural areas due to factors such as 
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Mitigations of this risk
 
@@ -59,19 +59,19 @@ Exacerbates extreme temperatures, air pollution, water quality issues, and disco
 
 ## Technologies linked to the risk
 
-* [Cool roofs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_49.md)
-* [Green corridors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_48.md)
+* [Cool roofs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_48.md)
+* [Green corridors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_49.md)
 * [Green infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_970.md)
 * [Planting trees](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_971.md)
 * [Urban planning strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_972.md)
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_0.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
+* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_2.md)
 
 ## Type of the risk
 

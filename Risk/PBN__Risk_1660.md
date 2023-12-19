@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1660 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1660 
 
 # __Sharing systems in apartments__
 
@@ -33,7 +33,7 @@ Sharing systems such as ducting, shafts, and corridors in apartments have the po
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Mitigations of this risk
 
@@ -45,13 +45,13 @@ Increased risk of disease transmission among residents
 
 ## People affected by this risk
 
-* [Apartment residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1101.md)
-* [Building management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_356.md)
+* [Apartment residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_356.md)
+* [Building management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1101.md)
 
 ## Stakeholders who can mitigate this risk
 
-* [Building management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1101.md)
-* [Maintenance staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_702.md)
+* [Building management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_702.md)
+* [Maintenance staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1101.md)
 
 ## Technologies linked to the risk
 
@@ -61,11 +61,11 @@ Increased risk of disease transmission among residents
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_4.md)
+* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_4.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_6.md)
+* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_6.md)
 
 ## Type of the risk
 

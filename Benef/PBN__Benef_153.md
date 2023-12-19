@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_153 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/pages/docs/Benef/index.md) >> Individual ID:PBN__Benef_153 
 
 # __Improved well-being__
 
@@ -27,17 +27,17 @@ By bringing nature back into living spaces, occupants can experience improved me
 
 ## Risks which can benefit from this action
 
-* [Availability of greenery and gardens](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_220.md)
-* [Household-level activity/sports spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_223.md)
-* [Incorporating nature into living spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_135.md)
-* [Personal space](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_242.md)
-* [Reduced noise levels](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_185.md)
+* [Availability of greenery and gardens](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_185.md)
+* [Household-level activity/sports spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_220.md)
+* [Incorporating nature into living spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_223.md)
+* [Personal space](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_135.md)
+* [Reduced noise levels](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_242.md)
 
 ## Stakeholders benefitting from this Benefit
 
 * [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
-* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_59.md)
-* [Occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
+* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
+* [Occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_59.md)
 * [Residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_92.md)
 * [Wildlife](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_117.md)
 

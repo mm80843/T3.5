@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1520 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1520 
 
 # __Remote collaboration__
 
@@ -29,7 +29,7 @@ Challenges in collaborating and communicating with team members
 
 ## Is the risk affecting GBN scales
 
-* [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_0.md)
 
 ## Mitigations of this risk
 
@@ -42,13 +42,13 @@ Communication breakdown, reduced productivity
 ## People affected by this risk
 
 * [Clients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_179.md)
-* [Contractors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_986.md)
-* [Team members](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_297.md)
+* [Contractors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_297.md)
+* [Team members](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_986.md)
 
 ## Stakeholders who can mitigate this risk
 
-* [Management team](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_292.md)
-* [Project managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_903.md)
+* [Management team](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_903.md)
+* [Project managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_292.md)
 
 ## Technologies linked to the risk
 
@@ -57,11 +57,11 @@ Communication breakdown, reduced productivity
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Innovation, creativity and research](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_2.md)
+* [Innovation, creativity and research](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_2.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Research](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_11.md)
+* [Research](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_11.md)
 
 ## Type of the risk
 

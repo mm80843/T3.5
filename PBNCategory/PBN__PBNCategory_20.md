@@ -1,13 +1,13 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_20 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/pages/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_20 
 
 # __Improved financial outcomes through financial relief, increased funding, sustainable and additional funding, private investment, and reduced financial losses.__
 
 ## Items covered in this category
 
-* [Additional funding](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_569.md)
-* [Business continuity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_783.md)
-* [Business liquidity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1077.md)
-* [Business support](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_632.md)
+* [Additional funding](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_632.md)
+* [Business continuity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_569.md)
+* [Business liquidity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_783.md)
+* [Business support](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1077.md)
 * [Continued production and sales](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_34.md)
 * [Contractual stability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_792.md)
 * [Cost reduction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_565.md)

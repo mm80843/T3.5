@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_293 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_293 
 
 # __Perception of COVID-19 impacts on the construction industry over time__
 
@@ -38,11 +38,11 @@ This text is about a study that was conducted to understand how the COVID-19 pan
 
 ## This article mentions these technologies
 
-* [Cloud-based systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1456.md)
-* [Communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_168.md)
-* [Contact tracing technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1460.md)
-* [Contingency planning frameworks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_130.md)
-* [Hardware resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1461.md)
+* [Cloud-based systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_168.md)
+* [Communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1461.md)
+* [Contact tracing technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1456.md)
+* [Contingency planning frameworks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1460.md)
+* [Hardware resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_130.md)
 * [Ppe](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1455.md)
 * [Project management software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1457.md)
 * [Real-time project tracking systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1459.md)
@@ -55,10 +55,10 @@ This text is about a study that was conducted to understand how the COVID-19 pan
 ## This article points to following mitigation
 
 * [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
-* [Remote work](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_832.md)
-* [Sanitization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_627.md)
-* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3699.md)
-* [Ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_415.md)
+* [Remote work](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_415.md)
+* [Sanitization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_832.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_627.md)
+* [Ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3699.md)
 
 ## Title of the article
 

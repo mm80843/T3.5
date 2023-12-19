@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_231 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_231 
 
 # __Media__
 
@@ -38,27 +38,27 @@
 
 ## Stakeholders in this stakeholder group
 
-* [Communication agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_554.md)
-* [Communication agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_555.md)
-* [Communication expert](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1815.md)
-* [Communication experts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1811.md)
-* [Communication team](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_231.md)
-* [Journal editor](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_544.md)
-* [Journal editors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1805.md)
-* [Journalist](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_967.md)
-* [Journalists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_828.md)
-* [Media](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1816.md)
-* [Media organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_545.md)
-* [Media outlets](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_455.md)
-* [Medium](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1809.md)
-* [Medium organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1806.md)
-* [Medium outlet](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1813.md)
-* [News outlet](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1798.md)
-* [News outlets](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1814.md)
-* [Publisher](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1810.md)
-* [Publishers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1812.md)
-* [Reporter](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1800.md)
-* [Reporters](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1555.md)
+* [Communication agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_545.md)
+* [Communication agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_554.md)
+* [Communication expert](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_455.md)
+* [Communication experts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1555.md)
+* [Communication team](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_555.md)
+* [Journal editor](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1815.md)
+* [Journal editors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1811.md)
+* [Journalist](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_231.md)
+* [Journalists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_544.md)
+* [Media](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1805.md)
+* [Media organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_967.md)
+* [Media outlets](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_828.md)
+* [Medium](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1816.md)
+* [Medium organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1809.md)
+* [Medium outlet](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1806.md)
+* [News outlet](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1813.md)
+* [News outlets](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1798.md)
+* [Publisher](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1814.md)
+* [Publishers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1810.md)
+* [Reporter](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1812.md)
+* [Reporters](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1800.md)
 * [Social media companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1556.md)
 * [Social media platforms](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1808.md)
 * [Social medium company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1804.md)
@@ -80,7 +80,7 @@
 
 ## Type of the stakeholder
 
-* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_0.md)
-* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
-* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_0.md)
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_2.md)
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_1.md)
 

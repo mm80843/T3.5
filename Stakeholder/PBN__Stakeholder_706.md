@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_706 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_706 
 
 # __Regulatory bodies__
 
@@ -41,10 +41,10 @@
 
 ## Stakeholders in this stakeholder subgroup
 
-* [Regulatory agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1293.md)
-* [Regulatory authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_706.md)
-* [Regulatory authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1610.md)
-* [Regulatory bodies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_401.md)
+* [Regulatory agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_401.md)
+* [Regulatory authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1293.md)
+* [Regulatory authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_706.md)
+* [Regulatory bodies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1610.md)
 * [Regulatory body](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1598.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
@@ -61,6 +61,6 @@
 
 ## Type of the stakeholder
 
-* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_2.md)
-* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_2.md)
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_1.md)
 

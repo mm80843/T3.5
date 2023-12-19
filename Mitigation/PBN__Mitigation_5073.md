@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_5073 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_5073 
 
 # __Providing income and support to impacted workers__
 
@@ -25,8 +25,8 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Social security payments](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3747.md)
-* [Wage subsidies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3748.md)
+* [Social security payments](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3748.md)
+* [Wage subsidies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3747.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_297 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_297 
 
 # __Improper implementation__
 
@@ -29,7 +29,7 @@ Incorrect execution of project tasks and activities leading to poor quality and 
 
 ## Is the risk affecting GBN scales
 
-* [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_0.md)
 
 ## Mitigations of this risk
 
@@ -42,14 +42,14 @@ Quality issues, rework, project delays, increased costs.
 
 ## People affected by this risk
 
-* [Project managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_719.md)
-* [Supervisors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_128.md)
-* [Workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_903.md)
+* [Project managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_128.md)
+* [Supervisors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_903.md)
+* [Workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_719.md)
 
 ## Stakeholders who can mitigate this risk
 
-* [Project managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_719.md)
-* [Supervisors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_903.md)
+* [Project managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_903.md)
+* [Supervisors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_719.md)
 
 ## Technologies linked to the risk
 
@@ -61,7 +61,7 @@ Quality issues, rework, project delays, increased costs.
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_4.md)
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_4.md)
 
 ## Type of the risk
 

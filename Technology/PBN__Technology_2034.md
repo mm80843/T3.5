@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2034 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_2034 
 
 # __Artificial intelligence and machine learning__
 
@@ -22,10 +22,10 @@
 ## This Technology belongs to this TechnologySubgroup
 
 * [Advanced data analysis algorithms and machine learning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_278.md)
-* [Ai](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_149.md)
-* [Ai algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_759.md)
-* [Ai algorithms for content analysis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1316.md)
-* [Ai and machine learning for data processing and modeling](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_356.md)
+* [Ai](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_356.md)
+* [Ai algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_149.md)
+* [Ai algorithms for content analysis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_759.md)
+* [Ai and machine learning for data processing and modeling](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1316.md)
 * [Ai and machine learning for gene analysis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1848.md)
 * [Ai and machine learning for modeling and simulations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1712.md)
 * [Ai in healthcare](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1506.md)

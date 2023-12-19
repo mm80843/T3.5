@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_236 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_236 
 
 # __Proper segregation of medical waste__
 
@@ -32,8 +32,8 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Safe management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1764.md)
-* [Separate collection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3624.md)
+* [Safe management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3624.md)
+* [Separate collection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1764.md)
 
 ## This mitigation is used in the following general blueprint(s)
 

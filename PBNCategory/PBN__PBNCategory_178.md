@@ -1,22 +1,22 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_178 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/pages/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_178 
 
 # __Enhancement of knowledge and skills through resources, initiatives, programs, and proper utilization of personnel for various purposes.__
 
 ## Items covered in this category
 
-* [Biology techs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_45.md)
-* [Cultural competence training](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2848.md)
-* [Cultural sensitivity training](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2849.md)
-* [Cybersecurity training programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1439.md)
-* [Education and training](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_82.md)
-* [Education and training programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2274.md)
-* [Education initiatives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2082.md)
-* [Education resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2986.md)
-* [Education teams](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1304.md)
-* [Educational and training resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1154.md)
-* [Educational programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2105.md)
-* [Employee training](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2075.md)
-* [Employers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_837.md)
+* [Biology techs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_837.md)
+* [Cultural competence training](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_45.md)
+* [Cultural sensitivity training](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2848.md)
+* [Cybersecurity training programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2849.md)
+* [Education and training](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1439.md)
+* [Education and training programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_82.md)
+* [Education initiatives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2274.md)
+* [Education resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2082.md)
+* [Education teams](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2986.md)
+* [Educational and training resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1304.md)
+* [Educational programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1154.md)
+* [Employee training](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2105.md)
+* [Employers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2075.md)
 * [Employment opportunities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_630.md)
 * [Exercise programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1157.md)
 * [Industrial practices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_655.md)

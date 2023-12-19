@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__aBlueprint_41 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/pages/docs/Blueprint/index.md) >> Individual ID:PBN__aBlueprint_41 
 
 # __Implementing Disease Control Strategies: Mitigating Contagion Risks through Hygiene Measures and Rapid Isolation__
 
@@ -36,35 +36,35 @@
 
 ## 4. Blueprint links to these mitigations
 
-* [Cordon sanitaire](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1530.md)
-* [Maintain physical distance, wear masks, ensure proper ventilation, and practice good respiratory hygiene.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3992.md)
-* [Maintain social distancing, hygiene practices, and proper ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2382.md)
-* [Rapid isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1866.md)
+* [Cordon sanitaire](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2382.md)
+* [Maintain physical distance, wear masks, ensure proper ventilation, and practice good respiratory hygiene.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1866.md)
+* [Maintain social distancing, hygiene practices, and proper ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1530.md)
+* [Rapid isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3992.md)
 * [Wearing face masks, practicing physical distancing, using respiratory hygiene measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3994.md)
 
 ## 5. Blueprint mitigation can be owned by these stakeholders
 
-* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_0.md)
-* [Employers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
-* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_20.md)
+* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
+* [Employers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_0.md)
+* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_180.md)
 * [Individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
-* [Public health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_180.md)
+* [Public health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_20.md)
 
 ## 6. Blueprint links to these benefits
 
-* [Reduced financial losses](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_29.md)
+* [Reduced financial losses](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_632.md)
 * [Reduced infection risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_232.md)
-* [Reduced transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_632.md)
+* [Reduced transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_29.md)
 
 ## 7. Blueprint links to these technology
 
-* [Floor markings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_341.md)
-* [Internet-based communication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
-* [Iot](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_277.md)
-* [Physical barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_358.md)
-* [Physical distance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2311.md)
-* [Physical space](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2482.md)
-* [Public awareness and education campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2579.md)
-* [Technology-enabled monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2770.md)
-* [Wearable devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3444.md)
+* [Floor markings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
+* [Internet-based communication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_358.md)
+* [Iot](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_341.md)
+* [Physical barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2579.md)
+* [Physical distance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2482.md)
+* [Physical space](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_277.md)
+* [Public awareness and education campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2770.md)
+* [Technology-enabled monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3444.md)
+* [Wearable devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2311.md)
 

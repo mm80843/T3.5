@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_96 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_96 
 
 # __Iot devices__
 
@@ -21,7 +21,7 @@
 
 ## Link between Blueprint and General ontology
 
-* [IoT](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_5.md)
+* [IoT](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_5.md)
 
 ## Risks linked to this technology
 
@@ -39,10 +39,10 @@
 
 ## This Technology enables the following mitigations
 
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4135.md)
-* [Forecasting of virus spread](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4134.md)
-* [Internet of things iot](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4131.md)
-* [Iot-based solutions for after recovery](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3332.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3332.md)
+* [Forecasting of virus spread](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4135.md)
+* [Internet of things iot](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4134.md)
+* [Iot-based solutions for after recovery](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4131.md)
 * [Iot-based solutions for early diagnosis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4132.md)
 * [Iot-based solutions for quarantine time](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4129.md)
 * [Iot-enabled hospital](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1097.md)

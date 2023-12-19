@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2092 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_2092 
 
 # __Public awareness campaigns and communication tools__
 
@@ -21,9 +21,9 @@
 
 ## This Technology belongs to this TechnologySubgroup
 
-* [Digital communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1188.md)
-* [Education and awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_717.md)
-* [Education campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
+* [Digital communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
+* [Education and awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1188.md)
+* [Education campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_717.md)
 * [Government websites](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_746.md)
 * [Helplines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_85.md)
 * [Official websites](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1204.md)

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_23 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/pages/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_23 
 
 # __Enhancing physical activity__
 
@@ -24,23 +24,23 @@ https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01708/full
 
 ## Enablers of the blueprint
 
-* [5G](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_0.md)
-* [Design & Construction software (BIM)](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_27.md)
+* [5G](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_0.md)
+* [Design & Construction software (BIM)](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_27.md)
 
 ## GBN Phase of the blueprint
 
-* [Design](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Phase_0.md)
-* [Operational](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Phase_1.md)
+* [Design](https://github.com/mm80843/T3.5/blob/pages/BP_Phase/PBN__BP_Phase_0.md)
+* [Operational](https://github.com/mm80843/T3.5/blob/pages/BP_Phase/PBN__BP_Phase_1.md)
 
 ## Interventions of the blueprint
 
-* [Improve physical health](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_27.md)
-* [Outdoor spaces](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_26.md)
-* [Social activities / facilitatie social interactions](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_25.md)
+* [Improve physical health](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_27.md)
+* [Outdoor spaces](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_26.md)
+* [Social activities / facilitatie social interactions](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_25.md)
 
 ## Mode of transmission covered by the blueprint
 
-* [Not relevant](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_6.md)
+* [Not relevant](https://github.com/mm80843/T3.5/blob/pages/BP_Transmission/PBN__BP_Transmission_6.md)
 
 ## Possible mitigations of the BP
 
@@ -82,7 +82,7 @@ An official restriction in times of epidemics or pandemics could limit the use o
 
 ## Scale of the of the blueprint
 
-* [Both](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Scale_1.md)
+* [Both](https://github.com/mm80843/T3.5/blob/pages/BP_Scale/PBN__BP_Scale_1.md)
 
 ## Title of the blueprint
 
@@ -90,12 +90,12 @@ PBN:BP_24
 
 ## Type of deployment of the blueprint
 
-* [Permanent](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Permanent_1.md)
+* [Permanent](https://github.com/mm80843/T3.5/blob/pages/BP_Permanent/PBN__BP_Permanent_1.md)
 
 ## Type of the blueprint
 
-* [Behavioural](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Type_0.md)
-* [Technical](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Type_1.md)
+* [Behavioural](https://github.com/mm80843/T3.5/blob/pages/BP_Type/PBN__BP_Type_0.md)
+* [Technical](https://github.com/mm80843/T3.5/blob/pages/BP_Type/PBN__BP_Type_1.md)
 
 ## Value proposition of the blueprint
 

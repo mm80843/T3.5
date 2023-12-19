@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [aBlueprint](https://github.com/mm80843/T3.5/tree/main/docs/aBlueprint/index.md) >> Individual ID:PBN__aBlueprint_47 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [aBlueprint](https://github.com/mm80843/T3.5/tree/pages/docs/aBlueprint/index.md) >> Individual ID:PBN__aBlueprint_47 
 
 # __Implementing Advanced Tech and Anti-Microbial Materials to Mitigate Contagious Disease Spread__
 
@@ -28,38 +28,38 @@
 
 ## 3. Blueprint impacts these stakeholders
 
-* [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_59.md)
-* [Cleaning staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
+* [Cleaning staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_59.md)
 * [Residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_654.md)
 
 ## 4. Blueprint links to these mitigations
 
-* [Implement self-cleaning spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2861.md)
-* [Implement smart/innovative technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2858.md)
-* [Implement touchless technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2869.md)
-* [Monitor air conditions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2859.md)
-* [Select anti-microbial materials](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2860.md)
+* [Implement self-cleaning spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2858.md)
+* [Implement smart/innovative technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2869.md)
+* [Implement touchless technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2859.md)
+* [Monitor air conditions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2860.md)
+* [Select anti-microbial materials](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2861.md)
 
 ## 5. Blueprint mitigation can be owned by these stakeholders
 
-* [Building management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1101.md)
-* [Facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1483.md)
+* [Building management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1483.md)
+* [Facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1101.md)
 
 ## 6. Blueprint links to these benefits
 
 * [Enhanced ventilation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_29.md)
-* [Reduced infection risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_230.md)
-* [Sanitized areas without human contact](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_344.md)
+* [Reduced infection risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_344.md)
+* [Sanitized areas without human contact](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_230.md)
 
 ## 7. Blueprint links to these technology
 
 * [Control systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
-* [Keycard swiping](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2451.md)
-* [Motion sensor](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2489.md)
-* [Pressure sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1723.md)
-* [Room to member ratio](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3604.md)
-* [Spraying-down disinfection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3605.md)
-* [Surface classification](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2360.md)
-* [Uv light](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3640.md)
-* [Waste management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3633.md)
+* [Keycard swiping](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2360.md)
+* [Motion sensor](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2451.md)
+* [Pressure sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3604.md)
+* [Room to member ratio](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1722.md)
+* [Spraying-down disinfection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1723.md)
+* [Surface classification](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2489.md)
+* [Uv light](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3633.md)
+* [Waste management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3605.md)
 

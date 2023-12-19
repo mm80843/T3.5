@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_128 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_128 
 
 # __Assessment of COVID-19 precautionary measures in sports facilities: A case study on a health club in Saudi Arabia__
 
@@ -36,11 +36,11 @@ This research is about health club facilities and how they have had to make chan
 
 ## This article mentions these technologies
 
-* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
-* [Announcements](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_493.md)
-* [Cleaning schedules](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
-* [Crowd control measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_230.md)
-* [Disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_411.md)
+* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_230.md)
+* [Announcements](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+* [Cleaning schedules](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_411.md)
+* [Crowd control measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_493.md)
+* [Disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
 * [Educational materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_776.md)
 * [Hvac systems with hepa filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_773.md)
 * [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_772.md)
@@ -53,9 +53,9 @@ This research is about health club facilities and how they have had to make chan
 
 * [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
 * [Enhanced cleaning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3329.md)
-* [Limited occupancy](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3332.md)
-* [Mask-wearing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3830.md)
-* [Monitoring temperature](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3829.md)
+* [Limited occupancy](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3829.md)
+* [Mask-wearing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3332.md)
+* [Monitoring temperature](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3830.md)
 * [Sanitization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_627.md)
 * [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3330.md)
 * [Training and awareness](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3699.md)

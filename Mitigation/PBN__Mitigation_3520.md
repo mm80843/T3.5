@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3520 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3520 
 
 # __Air filtration and uv sterilisation__
 
@@ -25,8 +25,8 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Portable air filtration devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2639.md)
-* [Uv light](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2451.md)
+* [Portable air filtration devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2451.md)
+* [Uv light](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2639.md)
 
 ## Property: has_MitigationPrinciple
 

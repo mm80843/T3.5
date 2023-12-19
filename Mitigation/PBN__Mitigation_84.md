@@ -1,11 +1,11 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_84 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_84 
 
 # __Improved ventilation systems__
 
 ## Benefits linked to a risk
 
-* [Enhanced air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_95.md)
-* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_169.md)
+* [Enhanced air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_169.md)
+* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_95.md)
 * [Indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_524.md)
 * [Reduction in aerosol transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_750.md)
 * [Reduction in airborne transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_341.md)
@@ -40,9 +40,9 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1829.md)
-* [Hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_185.md)
-* [Hvac technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_185.md)
+* [Hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+* [Hvac technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1829.md)
 
 ## Property: has_MitigationPrinciple
 

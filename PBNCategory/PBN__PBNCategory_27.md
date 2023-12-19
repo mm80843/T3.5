@@ -1,13 +1,13 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_27 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/pages/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_27 
 
 # __Seamless and immediate supervision of various aspects of patient health and public safety.__
 
 ## Items covered in this category
 
-* [Automated generation of non-intrusive alerts](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_472.md)
-* [Automated patient monitoring](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_168.md)
-* [Early detection and monitoring](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_806.md)
-* [Early warning system](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_216.md)
+* [Automated generation of non-intrusive alerts](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_216.md)
+* [Automated patient monitoring](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_472.md)
+* [Early detection and monitoring](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_168.md)
+* [Early warning system](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_806.md)
 * [Early warning tool](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_583.md)
 * [Efficient tracking of high-risk patients](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_584.md)
 * [Efficient transportation and monitoring](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_50.md)

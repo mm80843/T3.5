@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__aBlueprint_37 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/pages/docs/Blueprint/index.md) >> Individual ID:PBN__aBlueprint_37 
 
 # __Implementing Innovative Techniques to Thwart Contagious Disease Spread__
 
@@ -28,26 +28,26 @@
 
 ## 3. Blueprint impacts these stakeholders
 
-* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
-* [Laboratory personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
-* [Policymakers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_688.md)
-* [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_126.md)
+* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
+* [Laboratory personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
+* [Policymakers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_126.md)
+* [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_688.md)
 * [Researchers in wastewater analysis](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_689.md)
 
 ## 4. Blueprint links to these mitigations
 
-* [Alignment and reconciliation of data from different sources, validation of data consistency, consensus-building among experts](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1597.md)
-* [Consider possible impacts of the pandemic on findings, adjust research design and data collection, report extra contextual detail.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1598.md)
+* [Alignment and reconciliation of data from different sources, validation of data consistency, consensus-building among experts](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1877.md)
+* [Consider possible impacts of the pandemic on findings, adjust research design and data collection, report extra contextual detail.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3001.md)
 * [Improvement of pcr methods in terms of sensitivity and comparability, optimization of rna extraction protocol.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1605.md)
-* [Optimization and validation of biomarker measurement methods for wastewater analysis, including elisa and mass spectrometry.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3001.md)
-* [Standardization and verification of pcr methods and protocols used by different laboratories.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1877.md)
+* [Optimization and validation of biomarker measurement methods for wastewater analysis, including elisa and mass spectrometry.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1598.md)
+* [Standardization and verification of pcr methods and protocols used by different laboratories.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1597.md)
 
 ## 5. Blueprint mitigation can be owned by these stakeholders
 
-* [Health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
+* [Health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_46.md)
 * [Laboratory personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_394.md)
-* [Research institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_46.md)
-* [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_413.md)
+* [Research institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_413.md)
+* [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
 * [Scientists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_688.md)
 
 ## 6. Blueprint links to these benefits
@@ -58,13 +58,13 @@
 
 ## 7. Blueprint links to these technology
 
-* [Etc.](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_340.md)
-* [Face masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2341.md)
-* [Face shields](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
-* [Gloves](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2635.md)
-* [Goggles](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1051.md)
-* [Masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1461.md)
-* [Ppe](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_485.md)
-* [Protective clothing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2728.md)
-* [Reverse transcriptase quantitative polymerase chain reaction rt-qpcr](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_484.md)
+* [Etc.](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
+* [Face masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_340.md)
+* [Face shields](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2341.md)
+* [Gloves](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1051.md)
+* [Goggles](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2635.md)
+* [Masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2727.md)
+* [Ppe](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_484.md)
+* [Protective clothing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1461.md)
+* [Reverse transcriptase quantitative polymerase chain reaction rt-qpcr](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_485.md)
 

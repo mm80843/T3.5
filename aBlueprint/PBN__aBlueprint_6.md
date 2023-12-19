@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [aBlueprint](https://github.com/mm80843/T3.5/tree/main/docs/aBlueprint/index.md) >> Individual ID:PBN__aBlueprint_6 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [aBlueprint](https://github.com/mm80843/T3.5/tree/pages/docs/aBlueprint/index.md) >> Individual ID:PBN__aBlueprint_6 
 
 # __Implementing Contagious Disease Control through Social Distancing and Digital Engagement__
 
@@ -30,17 +30,17 @@
 
 * [Construction workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
 * [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_29.md)
-* [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_127.md)
-* [Low-income individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_197.md)
-* [Vulnerable populations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_21.md)
+* [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_197.md)
+* [Low-income individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_21.md)
+* [Vulnerable populations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_127.md)
 
 ## 4. Blueprint links to these mitigations
 
-* [Encourage virtual social interactions, promote community support networks, and provide access to mental health services.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1523.md)
-* [Foster community engagement and social support networks; promote virtual social interactions and activities; provide mental health resources and support for individuals experiencing loneliness.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
-* [Implement strict social distancing protocols, including spacing out workstations, staggering breaks, and limiting the number of workers in confined spaces.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1652.md)
-* [Promotion of virtual communication and digital technologies for social interaction, designated public spaces that allow for safe socializing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2604.md)
-* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2651.md)
+* [Encourage virtual social interactions, promote community support networks, and provide access to mental health services.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1652.md)
+* [Foster community engagement and social support networks; promote virtual social interactions and activities; provide mental health resources and support for individuals experiencing loneliness.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2651.md)
+* [Implement strict social distancing protocols, including spacing out workstations, staggering breaks, and limiting the number of workers in confined spaces.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2604.md)
+* [Promotion of virtual communication and digital technologies for social interaction, designated public spaces that allow for safe socializing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1523.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
 
 ## 5. Blueprint mitigation can be owned by these stakeholders
 
@@ -52,19 +52,19 @@
 
 ## 6. Blueprint links to these benefits
 
-* [Decrease in virus transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_368.md)
+* [Decrease in virus transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1366.md)
 * [Increased productivity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_232.md)
-* [Reduced transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1366.md)
+* [Reduced transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_368.md)
 
 ## 7. Blueprint links to these technology
 
-* [Floor markings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_341.md)
-* [Internet-based communication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
-* [Iot](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_277.md)
-* [Physical barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_358.md)
-* [Physical distance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2311.md)
-* [Physical space](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2482.md)
-* [Public awareness and education campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2579.md)
-* [Technology-enabled monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2770.md)
-* [Wearable devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3444.md)
+* [Floor markings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
+* [Internet-based communication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_358.md)
+* [Iot](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_341.md)
+* [Physical barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2579.md)
+* [Physical distance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2482.md)
+* [Physical space](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_277.md)
+* [Public awareness and education campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2770.md)
+* [Technology-enabled monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3444.md)
+* [Wearable devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2311.md)
 

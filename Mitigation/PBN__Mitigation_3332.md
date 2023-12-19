@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3332 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3332 
 
 # __Contact tracing__
 
@@ -37,28 +37,28 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
-* [Blockchain technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
-* [Bluetooth low energy ble technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_211.md)
-* [Bluetooth technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2856.md)
+* [Apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
+* [Blockchain technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_211.md)
+* [Bluetooth low energy ble technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2398.md)
+* [Bluetooth technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2399.md)
 * [Cell phone data](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3127.md)
-* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3535.md)
-* [Data analysis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1144.md)
-* [Data collection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1088.md)
-* [Data collection and analysis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2223.md)
-* [Data tracking](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2736.md)
-* [Digital contact tracing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3205.md)
-* [Digital contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2484.md)
-* [Digital tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_793.md)
-* [Gps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2865.md)
-* [Gps location](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2398.md)
-* [Iot devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3017.md)
-* [Manual contact tracing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_96.md)
-* [Mobile app](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2399.md)
-* [Mobile applications](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1382.md)
-* [Mobile apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3128.md)
-* [Smartphone app](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2683.md)
-* [Smartphones](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3372.md)
+* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1088.md)
+* [Data analysis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3535.md)
+* [Data collection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3017.md)
+* [Data collection and analysis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3128.md)
+* [Data tracking](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3205.md)
+* [Digital contact tracing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3372.md)
+* [Digital contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
+* [Digital tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2856.md)
+* [Gps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1144.md)
+* [Gps location](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2223.md)
+* [Iot devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2736.md)
+* [Manual contact tracing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2484.md)
+* [Mobile app](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_793.md)
+* [Mobile applications](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2865.md)
+* [Mobile apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_96.md)
+* [Smartphone app](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2901.md)
+* [Smartphones](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2683.md)
 * [Surveillance technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3495.md)
 
 ## This mitigation is used in the following general blueprint(s)

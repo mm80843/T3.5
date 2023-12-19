@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_174 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_174 
 
 # __Treating two pandemics for the price of one: Chronic and infectious disease impacts of the built and natural environment__
 
@@ -34,9 +34,9 @@ This study looked at how the environment we live in, including things like our n
 
 ## This article mentions these technologies
 
-* [Ai-based monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_615.md)
+* [Ai-based monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_621.md)
 * [Crowd management technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_47.md)
-* [Green roof technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_621.md)
+* [Green roof technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_615.md)
 * [Healthcare information systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_626.md)
 * [Hygiene education programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_627.md)
 * [Information and communication technologies icts](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_618.md)

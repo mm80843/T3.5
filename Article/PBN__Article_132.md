@@ -1,12 +1,12 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_132 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_132 
 
 # __Global policy challenges for urban vector-borne disease risks__
 
 ## Benefits listed in this article
 
-* [Improved access to clean water](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_668.md)
-* [Improved living conditions](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_669.md)
-* [Improved sanitation and waste management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_79.md)
+* [Improved access to clean water](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_79.md)
+* [Improved living conditions](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_668.md)
+* [Improved sanitation and waste management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_669.md)
 * [Increased citizen cooperation and trust](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_664.md)
 * [Raised awareness of health gains](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_665.md)
 * [Reduced disease transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_667.md)

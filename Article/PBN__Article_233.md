@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_233 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_233 
 
 # __Persistence of coronaviruses on inanimate surfaces and their inactivation with biocidal agents__
 
@@ -31,8 +31,8 @@ A new virus called coronavirus has come from China. This is the third time in 20
 
 ## This article mentions these technologies
 
-* [Alcohol-based hand rubs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_850.md)
-* [Alcohols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_851.md)
+* [Alcohol-based hand rubs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_851.md)
+* [Alcohols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_850.md)
 * [Biocidal agents such as hydrogen peroxide](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_855.md)
 * [Education and training on hand hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_848.md)
 * [Ethanol](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_849.md)
@@ -44,11 +44,11 @@ A new virus called coronavirus has come from China. This is the third time in 20
 ## This article points to following mitigation
 
 * [Cleaning and disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
-* [Hand washing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3919.md)
-* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3515.md)
-* [Quarantine measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1130.md)
-* [Room ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3575.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3575.md)
+* [Hand washing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1130.md)
+* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
+* [Quarantine measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3919.md)
+* [Room ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3515.md)
 * [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1363.md)
 * [Surface disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3439.md)
 * [Temperature control](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3918.md)

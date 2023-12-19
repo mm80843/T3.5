@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_895 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_895 
 
 # __Digital communication platforms__
 
@@ -27,10 +27,10 @@
 
 ## This Technology enables the following mitigations
 
-* [Digital communication strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5017.md)
-* [Effective communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3390.md)
-* [Enhanced communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_472.md)
-* [Home offices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3389.md)
+* [Digital communication strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3389.md)
+* [Effective communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5017.md)
+* [Enhanced communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3390.md)
+* [Home offices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_472.md)
 * [Optimizing communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3697.md)
 
 ## This technology is mentioned by

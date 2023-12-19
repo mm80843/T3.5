@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4878 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4878 
 
 # __Ai/ml/dl__
 
@@ -24,8 +24,8 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Artificial intelligence](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_356.md)
-* [Deep learning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2041.md)
+* [Artificial intelligence](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2041.md)
+* [Deep learning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_356.md)
 * [Machine learning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1713.md)
 
 ## Property: has_MitigationPrinciple

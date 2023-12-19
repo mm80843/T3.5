@@ -1,13 +1,13 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_102 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_102 
 
 # __Preventing and Controlling COVID-19: A Practical-Based Review in Offshore Workplace__
 
 ## Benefits listed in this article
 
-* [Early detection of covid-19 cases](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_195.md)
-* [Identification and isolation of potential cases](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_497.md)
-* [Isolation of workers from the hazard](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_498.md)
-* [Minimized face-to-face interaction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_502.md)
+* [Early detection of covid-19 cases](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_502.md)
+* [Identification and isolation of potential cases](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_195.md)
+* [Isolation of workers from the hazard](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_497.md)
+* [Minimized face-to-face interaction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_498.md)
 * [Proper handling and isolation of infected workers](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_500.md)
 * [Protection against virus transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_501.md)
 * [Reduced covid-19 transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_499.md)
@@ -40,9 +40,9 @@ COVID-19 is a sickness caused by a virus called SARS-CoV-2. It has spread all ov
 ## This article mentions these technologies
 
 * [Cctv systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_341.md)
-* [Communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
-* [Contact tracing software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
-* [Disinfection equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_168.md)
+* [Communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_168.md)
+* [Contact tracing software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
+* [Disinfection equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
 * [Isolation and quarantine room equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_134.md)
 * [Medical assessment equipment and protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1066.md)
 * [Monitoring software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1656.md)

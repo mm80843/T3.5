@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_40 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_40 
 
 # __The socio-economic determinants of COVID-19: A spatial analysis of German county level data__
 
@@ -41,16 +41,16 @@ This text is about a study that looked at how socio-economic factors, like incom
 
 ## This article points to following mitigation
 
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3630.md)
-* [Lockdown measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3580.md)
-* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_863.md)
-* [Physical distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
-* [Public health education and awareness](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3284.md)
-* [Quarantine and isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3347.md)
-* [Surface disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3629.md)
-* [Testing and contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3578.md)
-* [Vaccination campaigns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1130.md)
-* [Ventilation and air filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_415.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_415.md)
+* [Lockdown measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1130.md)
+* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3630.md)
+* [Physical distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3580.md)
+* [Public health education and awareness](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_863.md)
+* [Quarantine and isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
+* [Surface disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3284.md)
+* [Testing and contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3347.md)
+* [Vaccination campaigns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3629.md)
+* [Ventilation and air filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3578.md)
 
 ## Title of the article
 

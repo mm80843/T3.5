@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_101 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_101 
 
 # __Coronavirus disease 2019: The harms of exaggerated information and non‐evidence‐based measures__
 
@@ -49,10 +49,10 @@ There is a lot of information about the coronavirus disease 2019 (COVID-19) pand
 
 ## This article points to following mitigation
 
-* [Accurate evidence](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3873.md)
-* [Containment measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
-* [Differentiate](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_85.md)
-* [Entry port screening](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3329.md)
+* [Accurate evidence](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Containment measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3329.md)
+* [Differentiate](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3873.md)
+* [Entry port screening](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_85.md)
 * [Evidence-based](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3866.md)
 * [Facemasks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3869.md)
 * [Hand sanitizer](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3876.md)

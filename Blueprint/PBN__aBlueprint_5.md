@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__aBlueprint_5 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/pages/docs/Blueprint/index.md) >> Individual ID:PBN__aBlueprint_5 
 
 # __Implementing Early-Warning Systems and Safety Protocols Against COVID-19 Spread__
 
@@ -28,9 +28,9 @@
 
 ## 3. Blueprint impacts these stakeholders
 
-* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_68.md)
-* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
-* [Healthcare workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
+* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
+* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_68.md)
+* [Healthcare workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
 * [Tourists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_72.md)
 * [Travelers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_558.md)
 
@@ -45,26 +45,26 @@
 ## 5. Blueprint mitigation can be owned by these stakeholders
 
 * [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
-* [Hospitality industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1075.md)
+* [Hospitality industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_196.md)
 * [Malaria elimination programs](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_244.md)
-* [Tourism destinations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_196.md)
+* [Tourism destinations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1075.md)
 * [Tourism industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_182.md)
 
 ## 6. Blueprint links to these benefits
 
-* [Reduced disease spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_549.md)
-* [Reduced importation of cases](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_958.md)
-* [Reduced spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1194.md)
+* [Reduced disease spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_958.md)
+* [Reduced importation of cases](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1194.md)
+* [Reduced spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_549.md)
 
 ## 7. Blueprint links to these technology
 
 * [Border control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
-* [Border control measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3488.md)
-* [Border controls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2297.md)
-* [Travel bans](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2485.md)
-* [Travel management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2969.md)
+* [Border control measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2969.md)
+* [Border controls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3415.md)
+* [Travel bans](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3413.md)
+* [Travel management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3414.md)
 * [Travel monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3024.md)
-* [Travel policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3413.md)
-* [Travel regulations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3414.md)
-* [Travel tracking and monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3415.md)
+* [Travel policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3488.md)
+* [Travel regulations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2297.md)
+* [Travel tracking and monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_700.md)
 

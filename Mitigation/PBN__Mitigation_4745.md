@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4745 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4745 
 
 # __Forecasting and prediction__
 
@@ -24,10 +24,10 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Ai](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_278.md)
-* [Big data analytics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_277.md)
-* [Iot](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2041.md)
-* [Machine learning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2336.md)
+* [Ai](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_277.md)
+* [Big data analytics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_278.md)
+* [Iot](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2336.md)
+* [Machine learning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2041.md)
 
 ## Property: has_MitigationPrinciple
 

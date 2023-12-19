@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_179 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_179 
 
 # __Biophilic Design to Enhance Residence Comfort in Covid Era__
 
@@ -40,12 +40,12 @@ During the COVID-19 pandemic, people have had to stay at home more and be carefu
 ## This article mentions these technologies
 
 * [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
-* [Balconies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1006.md)
-* [Green walls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1011.md)
-* [Mechanical ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1010.md)
-* [Modular furniture](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1012.md)
-* [Natural ventilation strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1007.md)
-* [Natural ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1008.md)
+* [Balconies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1007.md)
+* [Green walls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1008.md)
+* [Mechanical ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1006.md)
+* [Modular furniture](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1011.md)
+* [Natural ventilation strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1010.md)
+* [Natural ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1012.md)
 * [Room dividers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_119.md)
 * [Smart home technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1009.md)
 * [Smart storage solutions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1002.md)

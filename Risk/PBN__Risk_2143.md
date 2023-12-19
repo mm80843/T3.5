@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_2143 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_2143 
 
 # __Insufficient surveillance of asymptomatic and unreported cases__
 
@@ -29,7 +29,7 @@ Lack of surveillance and detection of asymptomatic and unreported cases can lead
 
 ## Is the risk affecting GBN scales
 
-* [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_0.md)
 
 ## Mitigations of this risk
 
@@ -42,13 +42,13 @@ Persistent transmission, increased risk of resurgence, higher number of malaria 
 ## People affected by this risk
 
 * [Healthcare workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_68.md)
-* [Local communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_85.md)
-* [Malaria elimination programs](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_182.md)
+* [Local communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_182.md)
+* [Malaria elimination programs](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_85.md)
 
 ## Stakeholders who can mitigate this risk
 
-* [Government health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_880.md)
-* [Malaria elimination programs](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_182.md)
+* [Government health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_182.md)
+* [Malaria elimination programs](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_880.md)
 
 ## Technologies linked to the risk
 
@@ -58,11 +58,11 @@ Persistent transmission, increased risk of resurgence, higher number of malaria 
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Living and working environment](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_1.md)
+* [Living and working environment](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_1.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
+* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_2.md)
 
 ## Type of the risk
 

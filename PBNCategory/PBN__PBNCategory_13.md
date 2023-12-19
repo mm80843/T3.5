@@ -1,22 +1,22 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_13 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/pages/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_13 
 
 # __The ability to withstand and adapt to disruptions, instability, crises, and shocks is fortified and enhanced.__
 
 ## Items covered in this category
 
-* [Better crisis management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_21.md)
-* [Effective crisis response](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_669.md)
-* [Efficient crisis response](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_971.md)
-* [Enhanced crisis management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_26.md)
-* [Enhanced financial resilience](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1056.md)
-* [Enhanced resilience](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_28.md)
-* [Enhanced resilience and well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_649.md)
-* [Enhanced system resilience](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1295.md)
-* [Financial resilience](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_648.md)
-* [Improved community resilience](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_58.md)
-* [Improved crisis response and coordination](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_67.md)
-* [Improved crisis-information repositories](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_874.md)
-* [Improved disaster response](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1196.md)
+* [Better crisis management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1196.md)
+* [Effective crisis response](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_21.md)
+* [Efficient crisis response](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_669.md)
+* [Enhanced crisis management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_971.md)
+* [Enhanced financial resilience](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_26.md)
+* [Enhanced resilience](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1056.md)
+* [Enhanced resilience and well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_28.md)
+* [Enhanced system resilience](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_649.md)
+* [Financial resilience](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1295.md)
+* [Improved community resilience](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_648.md)
+* [Improved crisis response and coordination](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_58.md)
+* [Improved crisis-information repositories](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_67.md)
+* [Improved disaster response](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_874.md)
 * [Improved pandemic resilience](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_743.md)
 * [Improved resilience to supply shocks](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_307.md)
 * [Increased project resilience](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1382.md)

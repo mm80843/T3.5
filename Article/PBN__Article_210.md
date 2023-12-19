@@ -1,13 +1,13 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_210 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_210 
 
 # __Covid-19 Associated Risks and Mitigation Strategies relevant for the UK Construction Industry__
 
 ## Benefits listed in this article
 
-* [Business support](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_659.md)
-* [Contractual stability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_368.md)
-* [Improved decision-making](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1011.md)
-* [Increased productivity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_678.md)
+* [Business support](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_368.md)
+* [Contractual stability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_678.md)
+* [Improved decision-making](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_659.md)
+* [Increased productivity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1011.md)
 * [Risk mitigation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1009.md)
 * [Worker safety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1010.md)
 

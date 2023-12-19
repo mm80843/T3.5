@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_52 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_52 
 
 # __Architectural Design Drives the Biogeography of Indoor Bacterial Communities__
 
@@ -32,17 +32,17 @@ Designers and biologists are working together to study the bacteria in buildings
 
 ## This article mentions these technologies
 
-* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_493.md)
-* [Cleaning equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_82.md)
-* [Cleaning products](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
-* [Communication channels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_230.md)
-* [Disinfectant sprays](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_566.md)
-* [Disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_411.md)
-* [Educational materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_670.md)
-* [Hand sanitizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_410.md)
-* [Handwashing stations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_881.md)
-* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_665.md)
-* [Signage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_361.md)
+* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+* [Cleaning equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_410.md)
+* [Cleaning products](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_411.md)
+* [Communication channels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_493.md)
+* [Disinfectant sprays](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_361.md)
+* [Disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
+* [Educational materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_82.md)
+* [Hand sanitizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_566.md)
+* [Handwashing stations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_670.md)
+* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_881.md)
+* [Signage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_665.md)
 * [Training programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_880.md)
 * [Uv light systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_882.md)
 

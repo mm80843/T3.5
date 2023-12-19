@@ -1,14 +1,14 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_35 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/pages/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_35 
 
 # __Mitigated transmission of diseases through various means, such as reduced airborne and aerosol transmission, and improved understanding and prevention of transmission.__
 
 ## Items covered in this category
 
-* [Decreased airborne transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_262.md)
-* [Decreased droplet transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_79.md)
-* [Enhanced protection against transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_750.md)
-* [Improved transparency](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_341.md)
-* [Interrupted airborne transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_232.md)
+* [Decreased airborne transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_232.md)
+* [Decreased droplet transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_262.md)
+* [Enhanced protection against transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_79.md)
+* [Improved transparency](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_750.md)
+* [Interrupted airborne transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_341.md)
 * [Prevention of vertical transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_425.md)
 * [Reduced airborne transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_276.md)
 * [Reduced disease transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1336.md)

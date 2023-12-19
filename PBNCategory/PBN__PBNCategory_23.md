@@ -1,12 +1,12 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_23 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/pages/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_23 
 
 # __Enhancing infrastructure, services, and connectivity to optimize efficiency, accessibility, and reliability in urban environments.__
 
 ## Items covered in this category
 
-* [Availability of essential goods and services](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_645.md)
+* [Availability of essential goods and services](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_42.md)
 * [Configurable simulation parameters](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_41.md)
-* [Consistency in parking standards](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_42.md)
+* [Consistency in parking standards](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_645.md)
 * [Context-specific and actionable evidence](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1305.md)
 * [Continuity of clinical care](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_117.md)
 * [Demand response automation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_121.md)

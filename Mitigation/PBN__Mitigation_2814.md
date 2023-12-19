@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2814 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2814 
 
 # __Build redundancies in supply chains and critical infrastructure__
 
@@ -21,7 +21,7 @@
 
 ## Link between Blueprint and General ontology
 
-* [Minimize supply chain disruptions](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_32.md)
+* [Minimize supply chain disruptions](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_32.md)
 
 ## Risks possibly mitigated by this Mitigation
 

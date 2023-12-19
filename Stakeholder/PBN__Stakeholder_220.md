@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_220 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_220 
 
 # __Employees__
 
@@ -87,26 +87,26 @@
 
 ## This Stakeholder can get these Benefits from mitigation measures
 
-* [Enhanced safety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_473.md)
-* [Health and safety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1213.md)
-* [Identification of coronavirus-positive environmental surfaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1214.md)
-* [Improved communication](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_177.md)
-* [Improved employee health and wellness](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_368.md)
-* [Improved work-life balance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_520.md)
-* [Increased productivity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_521.md)
-* [Indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_452.md)
-* [Low employee positivity rates](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_523.md)
-* [Lower positivity rates following combined measures](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_524.md)
-* [Reduced risk of virus transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_454.md)
-* [Reduced transportation costs](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_942.md)
-* [Reduction in covid-19 infections](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1217.md)
-* [Risk mitigation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_678.md)
+* [Enhanced safety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_368.md)
+* [Health and safety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_454.md)
+* [Identification of coronavirus-positive environmental surfaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_678.md)
+* [Improved communication](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_473.md)
+* [Improved employee health and wellness](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1213.md)
+* [Improved work-life balance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1214.md)
+* [Increased productivity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_177.md)
+* [Indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_520.md)
+* [Low employee positivity rates](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_521.md)
+* [Lower positivity rates following combined measures](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_452.md)
+* [Reduced risk of virus transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_523.md)
+* [Reduced transportation costs](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_524.md)
+* [Reduction in covid-19 infections](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_942.md)
+* [Risk mitigation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1217.md)
 * [Risk reduction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_911.md)
 * [Swift contact tracing and case isolation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1216.md)
 * [Work-life balance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1215.md)
 
 ## Type of the stakeholder
 
-* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_0.md)
-* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_Type_1.md)
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_0.md)
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_1.md)
 

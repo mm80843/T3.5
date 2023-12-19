@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1034 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1034 
 
 # __Travel-related transmission__
 
@@ -30,11 +30,11 @@ Movement of infected individuals across regions and countries can contribute to 
 
 ## Is the risk affecting GBN scales
 
-* [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_0.md)
 
 ## Link between Blueprint and General ontology
 
-* [User journey](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Theme_3.md)
+* [User journey](https://github.com/mm80843/T3.5/blob/pages/BP_Theme/PBN__BP_Theme_3.md)
 
 ## Mitigations of this risk
 
@@ -62,19 +62,19 @@ Rapid spread of pathogens, difficulty in containment and control
 
 ## Technologies linked to the risk
 
-* [Remote working technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_547.md)
-* [Testing technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_36.md)
-* [Travel restrictions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_38.md)
-* [Travel surveillance systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_37.md)
-* [Travel tracking systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_548.md)
+* [Remote working technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_548.md)
+* [Testing technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_547.md)
+* [Travel restrictions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_36.md)
+* [Travel surveillance systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_38.md)
+* [Travel tracking systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_37.md)
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_0.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
+* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_2.md)
 
 ## Type of the risk
 

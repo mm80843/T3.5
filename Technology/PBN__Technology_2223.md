@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2223 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_2223 
 
 # __Data collection and analysis__
 
@@ -21,10 +21,10 @@
 
 ## This Technology belongs to this TechnologySubgroup
 
-* [Air quality monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_758.md)
-* [Data collection and analysis technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_756.md)
-* [Data collection and sharing systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_939.md)
-* [Data collection technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_200.md)
+* [Air quality monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_200.md)
+* [Data collection and analysis technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_758.md)
+* [Data collection and sharing systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_756.md)
+* [Data collection technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_939.md)
 * [Epidemiological models](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_753.md)
 * [Historical data analysis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1248.md)
 * [Microscopic crowd models](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_755.md)
@@ -36,6 +36,6 @@
 
 ## This Technology enables the following mitigations
 
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4037.md)
-* [Enhanced surveillance and monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3332.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3332.md)
+* [Enhanced surveillance and monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4037.md)
 

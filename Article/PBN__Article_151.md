@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_151 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_151 
 
 # __Adaptive Design of the Built Environment to Mitigate the Transmission Risk of COVID-19__
 
@@ -37,28 +37,28 @@ The coronavirus disease (COVID-19) has caused a global public health crisis, and
 
 ## This article mentions these technologies
 
-* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
-* [Cleaning supplies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
+* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
+* [Cleaning supplies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
 * [Green spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_146.md)
-* [Light tubes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
-* [Maintenance equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_148.md)
-* [Outdoor furniture](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_140.md)
-* [Sanitization equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_143.md)
-* [Skylights](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_141.md)
+* [Light tubes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
+* [Maintenance equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_141.md)
+* [Outdoor furniture](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_144.md)
+* [Sanitization equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_140.md)
+* [Skylights](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_143.md)
 * [Ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_142.md)
 * [Virtual communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_147.md)
 * [Windows](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_145.md)
 
 ## This article points to following mitigation
 
-* [Daylighting](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3240.md)
-* [Healthy building design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3238.md)
-* [Increased outdoor spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3245.md)
-* [Isolation space design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3242.md)
-* [Natural ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3243.md)
-* [Neighbourhood hygiene measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1378.md)
-* [Proper handwashing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3244.md)
-* [Sensor-based fixtures or devices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3237.md)
+* [Daylighting](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3237.md)
+* [Healthy building design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3240.md)
+* [Increased outdoor spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3238.md)
+* [Isolation space design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3245.md)
+* [Natural ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3242.md)
+* [Neighbourhood hygiene measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3243.md)
+* [Proper handwashing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1378.md)
+* [Sensor-based fixtures or devices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3244.md)
 * [Social distancing guidelines](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3239.md)
 * [Threshold design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3241.md)
 

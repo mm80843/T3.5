@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_411 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_411 
 
 # __Disinfectants__
 
@@ -45,22 +45,22 @@
 
 ## This Technology enables the following mitigations
 
-* [Building sanitization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4052.md)
-* [Cleaning and disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_193.md)
-* [Decontamination](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3722.md)
-* [Disinfecting masks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3919.md)
-* [Disinfecting shoe soles](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3579.md)
-* [Disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3593.md)
-* [Disinfection and sanitization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3985.md)
-* [Disinfection of surfaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3516.md)
-* [Effective disinfection techniques for roundworms](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4900.md)
-* [Enhanced cleaning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4475.md)
-* [Enhanced cleaning and disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3283.md)
-* [Enhanced cleaning and sanitization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1130.md)
-* [Enhanced cleaning protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3819.md)
-* [Environmental cleaning and disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3699.md)
-* [Increased cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3760.md)
-* [Increased cleaning protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4785.md)
+* [Building sanitization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1130.md)
+* [Cleaning and disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4785.md)
+* [Decontamination](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4052.md)
+* [Disinfecting masks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_193.md)
+* [Disinfecting shoe soles](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3722.md)
+* [Disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3919.md)
+* [Disinfection and sanitization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3579.md)
+* [Disinfection of surfaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3593.md)
+* [Effective disinfection techniques for roundworms](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3985.md)
+* [Enhanced cleaning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3516.md)
+* [Enhanced cleaning and disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4900.md)
+* [Enhanced cleaning and sanitization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4475.md)
+* [Enhanced cleaning protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3283.md)
+* [Environmental cleaning and disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3819.md)
+* [Increased cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3699.md)
+* [Increased cleaning protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3760.md)
 * [Increased hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1265.md)
 * [Regular cleaning and disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4224.md)
 * [Regular disinfection of surfaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_264.md)

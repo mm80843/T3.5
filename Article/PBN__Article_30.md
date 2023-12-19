@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_30 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_30 
 
 # __Effects of non-pharmaceutical interventions against COVID-19 on the incidence of other diseases__
 
@@ -47,8 +47,8 @@ During the COVID-19 pandemic, countries like Germany used strategies called nonp
 
 ## This article points to following mitigation
 
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3873.md)
-* [Face masking](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3332.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3332.md)
+* [Face masking](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3873.md)
 * [Improved hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4317.md)
 * [Isolation/quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4314.md)
 * [Lockdowns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3284.md)

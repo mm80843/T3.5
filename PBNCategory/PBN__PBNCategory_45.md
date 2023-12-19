@@ -1,12 +1,12 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_45 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/pages/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_45 
 
 # __Optimized energy usage, cost savings, and better energy infrastructure through increased efficiency and awareness.__
 
 ## Items covered in this category
 
-* [Energy affordability and security](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_838.md)
-* [Energy demand management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1020.md)
-* [Energy demand monitoring and adaptation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_246.md)
+* [Energy affordability and security](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1020.md)
+* [Energy demand management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_246.md)
+* [Energy demand monitoring and adaptation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_838.md)
 * [Energy efficiency](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1339.md)
 * [Energy efficiency improvement](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_363.md)
 * [Energy saving](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_154.md)

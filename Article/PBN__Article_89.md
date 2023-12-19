@@ -1,11 +1,11 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_89 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_89 
 
 # __A Mixed Approach on Resilience of Spanish Dwellings and Households during COVID-19 Lockdown__
 
 ## Benefits listed in this article
 
-* [Enhanced functionality and livability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_438.md)
-* [Improved comfort and energy efficiency](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_436.md)
+* [Enhanced functionality and livability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_436.md)
+* [Improved comfort and energy efficiency](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_438.md)
 * [Improved health and well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_437.md)
 * [Increased access to nature and outdoor activities](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_439.md)
 * [Reduced energy consumption and costs](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_440.md)
@@ -39,15 +39,15 @@ This study looked at how Spanish households experienced the lockdown during the 
 
 ## This article mentions these technologies
 
-* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_432.md)
-* [Air quality sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_431.md)
-* [Cleaning equipment and tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_185.md)
-* [Cleaning solutions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
-* [Cleaning supplies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_135.md)
-* [Communication platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_148.md)
-* [Community engagement strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_411.md)
-* [Crowd management strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_435.md)
-* [Disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_410.md)
+* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_185.md)
+* [Air quality sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+* [Cleaning equipment and tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_410.md)
+* [Cleaning solutions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_411.md)
+* [Cleaning supplies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_432.md)
+* [Communication platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_431.md)
+* [Community engagement strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_135.md)
+* [Crowd management strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_148.md)
+* [Disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_435.md)
 * [Disinfection protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_434.md)
 * [Hand sanitizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_430.md)
 * [Hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_438.md)

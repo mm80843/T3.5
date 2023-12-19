@@ -1,12 +1,12 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_234 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_234 
 
 # __Scalable IoT Architecture for Monitoring IEQ Conditions in Public and Private Buildings__
 
 ## Benefits listed in this article
 
 * [Disease prevention and control](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_169.md)
-* [Energy efficiency improvement](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1122.md)
-* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1020.md)
+* [Energy efficiency improvement](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1020.md)
+* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1122.md)
 * [Improved occupant comfort](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1123.md)
 
 ## DOI of the article
@@ -37,8 +37,8 @@ The authors have created a system called the Indoor Environment Quality (IEQ) mo
 
 ## This article mentions these technologies
 
-* [Access control measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
-* [Air purification systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_185.md)
+* [Access control measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_185.md)
+* [Air purification systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
 * [Encryption](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_244.md)
 * [Energy management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_97.md)
 * [Energy-efficient systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_323.md)

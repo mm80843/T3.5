@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_595 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_595 
 
 # __Suspension of projects__
 
@@ -29,12 +29,12 @@ Projects are halted or postponed due to the pandemic, causing delays in construc
 
 ## Is the risk affecting GBN scales
 
-* [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_0.md)
 
 ## Mitigations of this risk
 
-* [Implementing remote work arrangements, implementing safety protocols, ensuring proper communication and coordination](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_832.md)
-* [Remote work](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1898.md)
+* [Implementing remote work arrangements, implementing safety protocols, ensuring proper communication and coordination](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1898.md)
+* [Remote work](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_832.md)
 
 ## Name of the risk
 
@@ -44,8 +44,8 @@ Delayed completion, financial losses, impact on supply chains and subcontractors
 
 * [Construction workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_197.md)
 * [Contractors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_179.md)
-* [Project developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_902.md)
-* [Subcontractors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_901.md)
+* [Project developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_901.md)
+* [Subcontractors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_902.md)
 
 ## Stakeholders who can mitigate this risk
 
@@ -61,11 +61,11 @@ Delayed completion, financial losses, impact on supply chains and subcontractors
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_8.md)
+* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_8.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
+* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_2.md)
 
 ## Type of the risk
 

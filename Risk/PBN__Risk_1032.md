@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1032 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1032 
 
 # __Virus propagation__
 
@@ -29,19 +29,19 @@ Contagious diseases can spread rapidly in the built environment, leading to wide
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Link between Blueprint and General ontology
 
-* [Propagation monitoring](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Theme_7.md)
+* [Propagation monitoring](https://github.com/mm80843/T3.5/blob/pages/BP_Theme/PBN__BP_Theme_7.md)
 
 ## Mitigations of this risk
 
-* [Greywater separation technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4970.md)
-* [Implementing strict hygiene and sanitation measures, promoting social distancing, and enforcing mask-wearing in public spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_214.md)
-* [Sealing of pipes](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_345.md)
-* [Separate toilets for infected](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1460.md)
-* [Touchless technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_215.md)
+* [Greywater separation technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_215.md)
+* [Implementing strict hygiene and sanitation measures, promoting social distancing, and enforcing mask-wearing in public spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_345.md)
+* [Sealing of pipes](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4970.md)
+* [Separate toilets for infected](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_214.md)
+* [Touchless technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1460.md)
 * [Use of new smart/innovative technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5052.md)
 * [Use of touchless technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5053.md)
 * [Wastewater management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5054.md)
@@ -58,22 +58,22 @@ High rates of infection and potentially overwhelming healthcare systems
 ## Stakeholders who can mitigate this risk
 
 * [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_269.md)
-* [Government authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_302.md)
-* [Healthcare institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
+* [Government authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
+* [Healthcare institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_302.md)
 
 ## Technologies linked to the risk
 
-* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
-* [Sanitation technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_0.md)
+* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_0.md)
+* [Sanitation technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
 * [Surveillance systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_30.md)
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_0.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_6.md)
+* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_6.md)
 
 ## Type of the risk
 

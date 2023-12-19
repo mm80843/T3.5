@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2396 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_2396 
 
 # __Mobile computing__
 
@@ -21,8 +21,8 @@
 
 ## This Technology enables the following mitigations
 
-* [Digital contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3254.md)
-* [Integrated healthcare environment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3247.md)
+* [Digital contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3247.md)
+* [Integrated healthcare environment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3254.md)
 * [Prevention applications](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3248.md)
 * [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3253.md)
 

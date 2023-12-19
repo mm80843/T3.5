@@ -1,11 +1,11 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_140 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_140 
 
 # __The Role of Architecture and Urbanism in Preventing Pandemics__
 
 ## Benefits listed in this article
 
-* [Improved air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_192.md)
-* [Improved health and well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_436.md)
+* [Improved air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_436.md)
+* [Improved health and well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_192.md)
 * [Increased accessibility and reduced transportation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_207.md)
 * [Reduced transmission risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_706.md)
 
@@ -47,14 +47,14 @@ Overall, by incorporating these measures into architecture and urban planning, w
 ## This article mentions these technologies
 
 * [Air filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
-* [Collaboration among experts from various fields](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
-* [Drug resistance surveillance technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_920.md)
-* [Government regulations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_658.md)
-* [Hepa filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_917.md)
-* [Humidifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_203.md)
-* [International coordination](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_353.md)
-* [Landscape architecture](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_918.md)
-* [Landscaping techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_672.md)
+* [Collaboration among experts from various fields](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_672.md)
+* [Drug resistance surveillance technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
+* [Government regulations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_920.md)
+* [Hepa filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_658.md)
+* [Humidifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_917.md)
+* [International coordination](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_203.md)
+* [Landscape architecture](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_353.md)
+* [Landscaping techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_918.md)
 * [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_121.md)
 * [Renewable energy technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_923.md)
 * [Urban design principles](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_921.md)

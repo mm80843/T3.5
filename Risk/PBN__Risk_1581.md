@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1581 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1581 
 
 # __Spread from wuhan__
 
@@ -29,7 +29,7 @@ The spread of COVID-19 from its origin in Wuhan, Hubei Province, China.
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Mitigations of this risk
 
@@ -45,21 +45,21 @@ Rapid increase in cases in other locations
 
 ## Stakeholders who can mitigate this risk
 
-* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_452.md)
-* [Healthcare authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
+* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
+* [Healthcare authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_452.md)
 
 ## Technologies linked to the risk
 
-* [Testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_401.md)
-* [Travel bans](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_700.md)
+* [Testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_700.md)
+* [Travel bans](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_401.md)
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_0.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_3.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_3.md)
 
 ## Type of the risk
 

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_213 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_213 
 
 # __Wastewater surveillance for population-wide Covid-19: The present and future__
 
@@ -53,17 +53,17 @@ Scientists are trying to find ways to track the spread of the coronavirus, and o
 ## This article points to following mitigation
 
 * [Biomarker testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_988.md)
-* [Centralized database](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3556.md)
-* [Clear and transparent communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3559.md)
-* [Fast analytical test methods](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3561.md)
-* [Global coordination and cooperation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3554.md)
-* [National and international funding](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3558.md)
-* [Open-source model](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3555.md)
-* [Pooled-sample analysis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3562.md)
-* [Pre-targeting sub-populations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3557.md)
-* [Signal calibration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3563.md)
-* [Standardized testing protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3560.md)
-* [Wastewater-based epidemiology wbe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1021.md)
+* [Centralized database](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1021.md)
+* [Clear and transparent communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3556.md)
+* [Fast analytical test methods](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3559.md)
+* [Global coordination and cooperation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3561.md)
+* [National and international funding](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3554.md)
+* [Open-source model](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3558.md)
+* [Pooled-sample analysis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3555.md)
+* [Pre-targeting sub-populations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3562.md)
+* [Signal calibration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3557.md)
+* [Standardized testing protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3563.md)
+* [Wastewater-based epidemiology wbe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3560.md)
 
 ## Title of the article
 

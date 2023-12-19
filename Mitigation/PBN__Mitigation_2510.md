@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2510 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2510 
 
 # __Encourage data completion and presentation of overall infection rates.__
 
@@ -21,7 +21,7 @@
 
 ## Link between Blueprint and General ontology
 
-* [Infection tracking / monitoring](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_29.md)
+* [Infection tracking / monitoring](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_29.md)
 
 ## Risks possibly mitigated by this Mitigation
 

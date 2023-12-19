@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [ISO_Purpose](https://github.com/mm80843/T3.5/tree/main/docs/ISO_Purpose/index.md) >> Individual ID:PBN__ISO_Purpose_0 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [ISO_Purpose](https://github.com/mm80843/T3.5/tree/pages/docs/ISO_Purpose/index.md) >> Individual ID:PBN__ISO_Purpose_0 
 
 # __Health and care__
 
@@ -712,9 +712,9 @@
 * [Workforce protection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1797.md)
 * [Workplace safety](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1880.md)
 * [Wq1](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2253.md)
-* [Wwm1](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2370.md)
-* [Wwm2](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2022.md)
-* [Wwm3](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2113.md)
-* [Zoonotic infections](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2126.md)
-* [Zoonotic transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2224.md)
+* [Wwm1](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2022.md)
+* [Wwm2](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2113.md)
+* [Wwm3](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2126.md)
+* [Zoonotic infections](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2224.md)
+* [Zoonotic transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2370.md)
 

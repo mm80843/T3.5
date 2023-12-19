@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_238 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_238 
 
 # __Access to alternative water sources__
 
@@ -31,10 +31,10 @@
 
 ## This Mitigation is enabled by the following technologies
 
-* [Rainwater collection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3627.md)
-* [Rainwater storage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3628.md)
-* [Water filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3735.md)
-* [Water treatment systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3736.md)
+* [Rainwater collection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3736.md)
+* [Rainwater storage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3735.md)
+* [Water filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3628.md)
+* [Water treatment systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3627.md)
 
 ## Property: has_MitigationPrinciple
 

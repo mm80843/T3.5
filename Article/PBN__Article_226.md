@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_226 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_226 
 
 # __The role of contemporary digital tools and technologies in COVID19 crisis: An exploratory analysis__
 
@@ -50,11 +50,11 @@ Emerging technologies like IoT, robots, drones, artificial intelligence (AI), bl
 
 ## This article mentions these technologies
 
-* [Access control systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_94.md)
-* [Ai ethics boards](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_261.md)
-* [Blockchain](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_55.md)
-* [Calibration protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1640.md)
-* [Collaboration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_151.md)
+* [Access control systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_151.md)
+* [Ai ethics boards](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_94.md)
+* [Blockchain](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_261.md)
+* [Calibration protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_55.md)
+* [Collaboration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1640.md)
 * [Compliance measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_97.md)
 * [Continued technological advancements](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_164.md)
 * [Cost optimization strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1637.md)

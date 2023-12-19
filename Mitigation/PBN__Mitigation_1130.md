@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1130 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1130 
 
 # __Surface disinfection__
 
@@ -28,7 +28,7 @@
 
 ## Link between Blueprint and General ontology
 
-* [Disinfection of air](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_6.md)
+* [Disinfection of air](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_6.md)
 
 ## Risks possibly mitigated by this Mitigation
 
@@ -48,15 +48,15 @@
 
 * [Benzalkonium chloride](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
 * [Cleaning agents](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_411.md)
-* [Disinfectant sprays](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_670.md)
-* [Disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2682.md)
-* [Etc](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_850.md)
+* [Disinfectant sprays](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2682.md)
+* [Disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_768.md)
+* [Etc](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3125.md)
 * [Ethanol](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_851.md)
-* [Liquid disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2939.md)
-* [Sanitizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_768.md)
-* [Sodium hypochlorite](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2481.md)
-* [Uv-c devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2868.md)
-* [Uv-c irradiation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3125.md)
+* [Liquid disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2868.md)
+* [Sanitizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_850.md)
+* [Sodium hypochlorite](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_670.md)
+* [Uv-c devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2939.md)
+* [Uv-c irradiation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2481.md)
 * [Wipes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3301.md)
 
 ## This mitigation is used in the following general blueprint(s)

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_1067 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_1067 
 
 # __Data analytics__
 
@@ -21,7 +21,7 @@
 
 ## Link between Blueprint and General ontology
 
-* [Data Analytics](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_2.md)
+* [Data Analytics](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_2.md)
 
 ## Risks linked to this technology
 
@@ -46,14 +46,14 @@
 
 ## This Technology enables the following mitigations
 
-* [Big data](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4806.md)
-* [Crowd control on public transport](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4292.md)
-* [Data-driven decision-making](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3249.md)
-* [Data-driven solutions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5162.md)
-* [Fraud detection in healthcare insurance claims](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4800.md)
-* [Innovative solution identification](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5157.md)
-* [Monitoring buying behavior and limiting purchases](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5151.md)
-* [Name-and-shame or prosecute anti-social activities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5163.md)
+* [Big data](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5163.md)
+* [Crowd control on public transport](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4806.md)
+* [Data-driven decision-making](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4292.md)
+* [Data-driven solutions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3249.md)
+* [Fraud detection in healthcare insurance claims](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5162.md)
+* [Innovative solution identification](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4800.md)
+* [Monitoring buying behavior and limiting purchases](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5157.md)
+* [Name-and-shame or prosecute anti-social activities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5151.md)
 * [Optimizing supply chains](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5165.md)
 * [Optimizing transport based on demand](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4256.md)
 * [Plsmax technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5161.md)
@@ -65,7 +65,7 @@
 
 ## This is also an enabler
 
-* [Data Analytics](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_2.md)
+* [Data Analytics](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_2.md)
 
 ## This technology is mentioned by
 

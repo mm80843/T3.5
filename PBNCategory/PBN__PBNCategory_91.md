@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_91 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/pages/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_91 
 
 # __The impact of various challenges on the workforce, including job insecurity, increased workload, uncertainty, unemployment, and changes in work schedules and productivity.__
 
@@ -62,10 +62,10 @@
 * [Workforce management](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_561.md)
 * [Workforce protection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3415.md)
 * [Workforce reduction](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1588.md)
-* [Workplace closures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3115.md)
-* [Workplace productivity decrease](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2431.md)
-* [Workplace safety](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2112.md)
-* [Workplace transformation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3064.md)
+* [Workplace closures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2431.md)
+* [Workplace productivity decrease](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2112.md)
+* [Workplace safety](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3064.md)
+* [Workplace transformation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3115.md)
 
 ## Title of the category
 

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__aBlueprint_20 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/pages/docs/Blueprint/index.md) >> Individual ID:PBN__aBlueprint_20 
 
 # __Implementing Proactive Measures to Control Disease Spread and Economic Disruptions__
 
@@ -36,35 +36,35 @@
 
 ## 4. Blueprint links to these mitigations
 
-* [Financial interventions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_149.md)
-* [Implement proactive measures to control outbreak spread and minimize economic disruptions.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_564.md)
-* [Improve cashflow management, seek financial assistance and government support, renegotiate contracts.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1013.md)
+* [Financial interventions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1789.md)
+* [Implement proactive measures to control outbreak spread and minimize economic disruptions.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1013.md)
+* [Improve cashflow management, seek financial assistance and government support, renegotiate contracts.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_149.md)
 * [Travel restrictions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1508.md)
-* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1789.md)
+* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_564.md)
 
 ## 5. Blueprint mitigation can be owned by these stakeholders
 
 * [Construction companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
 * [Financial institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
-* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_55.md)
-* [Government agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_181.md)
-* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_405.md)
+* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_181.md)
+* [Government agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_405.md)
+* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_55.md)
 
 ## 6. Blueprint links to these benefits
 
-* [Reduced disease spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_549.md)
-* [Reduced importation of cases](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_958.md)
-* [Reduced spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1194.md)
+* [Reduced disease spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_958.md)
+* [Reduced importation of cases](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1194.md)
+* [Reduced spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_549.md)
 
 ## 7. Blueprint links to these technology
 
-* [Border control measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3066.md)
-* [Border controls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3067.md)
-* [Internet](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3129.md)
-* [Quantitative rt-pcr methodology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
+* [Border control measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
+* [Border controls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3066.md)
+* [Internet](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3067.md)
+* [Quantitative rt-pcr methodology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3130.md)
 * [Rt-qpcr assay](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2454.md)
-* [Travel management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2297.md)
-* [Travel policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2485.md)
+* [Travel management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2485.md)
+* [Travel policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3413.md)
 * [Wastewater analysis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3024.md)
-* [Wastewater testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3413.md)
+* [Wastewater testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2297.md)
 

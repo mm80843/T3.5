@@ -1,13 +1,13 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_66 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_66 
 
 # __Air Disinfection for Airborne Infection Control with a Focus on COVID-19: Why Germicidal UV is Essential†__
 
 ## Benefits listed in this article
 
 * [Dilution and removal of infectious particles in room air](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_169.md)
-* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_341.md)
-* [Increased adoption of germicidal uv](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_342.md)
-* [Reduction in airborne transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_343.md)
+* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_343.md)
+* [Increased adoption of germicidal uv](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_341.md)
+* [Reduction in airborne transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_342.md)
 
 ## DOI of the article
 
@@ -47,10 +47,10 @@ Germicidal ultraviolet (GUV) air disinfection is a very effective way to clean t
 
 ## This article points to following mitigation
 
-* [Dilution and removal of infectious particles in room air through ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4319.md)
-* [Germicidal uv air disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4322.md)
-* [Natural ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4320.md)
-* [Room air cleaners](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3237.md)
+* [Dilution and removal of infectious particles in room air through ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3237.md)
+* [Germicidal uv air disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4319.md)
+* [Natural ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4322.md)
+* [Room air cleaners](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4320.md)
 * [Upper room germicidal uv fixtures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4321.md)
 
 ## Title of the article

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1272 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1272 
 
 # __Lack of physical activity in children and adolescents during quarantine__
 
@@ -33,7 +33,7 @@ Sedentary behavior, decreased physical fitness, and increased screen time
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
 
 ## Mitigations of this risk
 
@@ -45,8 +45,8 @@ Increased risk of childhood obesity, decreased mental well-being
 
 ## People affected by this risk
 
-* [Adolescents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_577.md)
-* [Children](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_62.md)
+* [Adolescents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_62.md)
+* [Children](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_577.md)
 
 ## Stakeholders who can mitigate this risk
 
@@ -60,11 +60,11 @@ Increased risk of childhood obesity, decreased mental well-being
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_12.md)
+* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_12.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_1.md)
+* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_1.md)
 
 ## Type of the risk
 

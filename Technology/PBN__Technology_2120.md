@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2120 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_2120 
 
 # __Air quality and filtration systems__
 
@@ -21,14 +21,14 @@
 
 ## This Technology belongs to this TechnologySubgroup
 
-* [Adaptive hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
-* [Air filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_203.md)
-* [Air filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
-* [Air purification systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2238.md)
-* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_244.md)
-* [Bipolar ionization devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_192.md)
-* [Electrostatic filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_672.md)
-* [Enhanced ventilation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1109.md)
+* [Adaptive hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+* [Air filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
+* [Air filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_672.md)
+* [Air purification systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1109.md)
+* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_203.md)
+* [Bipolar ionization devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2238.md)
+* [Electrostatic filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_244.md)
+* [Enhanced ventilation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_192.md)
 * [Filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_193.md)
 * [Hepa filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1110.md)
 * [High-efficiency air filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_194.md)

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_99 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_99 
 
 # __The Rise of Wearable Devices during the COVID-19 Pandemic: A Systematic Review__
 
@@ -32,11 +32,11 @@ Wearable devices are special gadgets that you can wear, like a watch or a bracel
 
 ## This article mentions these technologies
 
-* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
-* [Battery optimization techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_340.md)
-* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_341.md)
-* [Data encryption](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
-* [Diagnostic testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_344.md)
+* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_341.md)
+* [Battery optimization techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
+* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_340.md)
+* [Data encryption](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_344.md)
+* [Diagnostic testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
 * [Face masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_345.md)
 * [Physical barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_343.md)
 * [Secure server networks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_228.md)

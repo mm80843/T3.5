@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_42 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_42 
 
 # __COVID-19 Higher Mortality in Chinese Regions With Chronic Exposure to Lower Air Quality__
 
@@ -31,8 +31,8 @@ This study looked at the connection between air pollution and the spread of COVI
 
 ## This article mentions these technologies
 
-* [Air quality monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_402.md)
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_0.md)
+* [Air quality monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_0.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_402.md)
 * [Disinfection technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_73.md)
 * [Emission control technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_49.md)
 * [Fact-checking platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_658.md)
@@ -46,12 +46,12 @@ This study looked at the connection between air pollution and the spread of COVI
 
 ## This article points to following mitigation
 
-* [Enhanced cleaning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3580.md)
-* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3284.md)
-* [Physical distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_372.md)
-* [Quarantine and isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1130.md)
-* [Surface disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3760.md)
-* [Ventilation improvement](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3575.md)
+* [Enhanced cleaning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3575.md)
+* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1130.md)
+* [Physical distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3580.md)
+* [Quarantine and isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3284.md)
+* [Surface disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_372.md)
+* [Ventilation improvement](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3760.md)
 
 ## Title of the article
 

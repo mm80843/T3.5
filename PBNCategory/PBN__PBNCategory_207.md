@@ -1,10 +1,10 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/main/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_207 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/pages/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_207 
 
 # __Implementing safeguards for the security and integrity of potable water systems.__
 
 ## Items covered in this category
 
-* [Managing drinking water safety measures](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_8.md)
+* [Managing drinking water safety measures](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_8.md)
 
 ## Title of the category
 

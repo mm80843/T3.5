@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_219 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_219 
 
 # __Blockchain technology and its applications to combat COVID-19 pandemic__
 
@@ -52,8 +52,8 @@ Blockchain technology is a special kind of technology that can help in monitorin
 
 ## This article points to following mitigation
 
-* [Automated surveillance and contactless delivery](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4758.md)
-* [Better healthcare protection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3332.md)
+* [Automated surveillance and contactless delivery](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3332.md)
+* [Better healthcare protection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4758.md)
 * [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4760.md)
 * [Donation tracking](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4762.md)
 * [Effective healthcare management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4752.md)

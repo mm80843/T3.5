@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2108 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2108 
 
 # __Domestic violence victims__
 
@@ -21,7 +21,7 @@
 
 ## Stakeholders in this stakeholder subgroup
 
-* [Victims of domestic violence and intimate partner violence](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_928.md)
-* [Woman experiencing intimate partner violence](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_562.md)
+* [Victims of domestic violence and intimate partner violence](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_562.md)
+* [Woman experiencing intimate partner violence](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_928.md)
 * [Women experiencing intimate partner violence](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2107.md)
 

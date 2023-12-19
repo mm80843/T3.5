@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1631 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1631 
 
 # __Academic roles__
 
@@ -21,8 +21,8 @@
 
 ## Stakeholders in this stakeholder subgroup
 
-* [Academics](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_134.md)
-* [Educator](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_43.md)
+* [Academics](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_43.md)
+* [Educator](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_134.md)
 * [Educators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1638.md)
 * [Faculty](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_102.md)
 * [Teachers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1018.md)

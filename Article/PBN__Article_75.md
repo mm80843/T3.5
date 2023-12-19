@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_75 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_75 
 
 # __The Effects of Pandemic on Construction Industry in the UK__
 
@@ -33,10 +33,10 @@ Construction companies in the UK have been hit hard by both the 2008 recession a
 ## This article mentions these technologies
 
 * [Communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
-* [Crowdfunding platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1542.md)
-* [Financial management software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1543.md)
-* [Iot devices for distance monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_637.md)
-* [Mobile apps for scheduling](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_168.md)
+* [Crowdfunding platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_168.md)
+* [Financial management software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1542.md)
+* [Iot devices for distance monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1543.md)
+* [Mobile apps for scheduling](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_637.md)
 * [Project management software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_128.md)
 * [Supply chain management software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_130.md)
 * [Tracking systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1541.md)

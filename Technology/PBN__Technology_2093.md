@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2093 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_2093 
 
 # __Public awareness and information sharing__
 
@@ -21,8 +21,8 @@
 
 ## This Technology belongs to this TechnologySubgroup
 
-* [Information pamphlets](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
-* [Ppe guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_230.md)
+* [Information pamphlets](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_230.md)
+* [Ppe guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
 * [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_967.md)
 * [Signage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2230.md)
 

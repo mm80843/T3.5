@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3647 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_3647 
 
 # __Remote control__
 
@@ -21,6 +21,6 @@
 
 ## This Technology enables the following mitigations
 
-* [Smart home automation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_351.md)
-* [Smart power strip](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4972.md)
+* [Smart home automation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4972.md)
+* [Smart power strip](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_351.md)
 

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_200 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_200 
 
 # __Mitigation strategies to fight the COVID-19 pandemic—present, future and beyond__
 
@@ -37,8 +37,8 @@ Pandemics, like the current COVID-19 pandemic, can cause a lot of harm to the ec
 
 ## This article mentions these technologies
 
-* [Communication technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_0.md)
-* [Containment protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3.md)
+* [Communication technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3.md)
+* [Containment protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_0.md)
 * [Crisis management protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_5.md)
 * [Fact-checking tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_9.md)
 * [Healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_6.md)
@@ -51,11 +51,11 @@ Pandemics, like the current COVID-19 pandemic, can cause a lot of harm to the ec
 
 ## This article points to following mitigation
 
-* [Cloud-based tracing and tracking](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3119.md)
-* [Crisis management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3121.md)
-* [Dedicated walk-in clinic](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
-* [E-healthcare](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3123.md)
-* [Face recognition and thermal screening](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_564.md)
+* [Cloud-based tracing and tracking](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Crisis management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3123.md)
+* [Dedicated walk-in clinic](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_564.md)
+* [E-healthcare](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3119.md)
+* [Face recognition and thermal screening](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3121.md)
 * [Free testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3126.md)
 * [Infectious disease monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_969.md)
 * [Mass testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3120.md)
