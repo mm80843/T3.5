@@ -1,3 +1,6 @@
 docs/
 outputs/
 versions/
+.env
+__pycache__
+.venv
