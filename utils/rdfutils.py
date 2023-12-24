@@ -112,3 +112,38 @@ def checkComments(onto):
     for k in range(len(onto.metadata.comment)):
         print("ID:",k,"\t",onto.metadata.comment[k])
     return onto.metadata.comment
+
+def createDict(onto):
+    dIDct = {}
+    for C in onto.classes():
+        CLASS = str(C).split(".")[-1]
+        print(CLASS)
+        dIDct[CLASS] = {} 
+        for k in C.instances():
+            dIDct[CLASS][k.label[0]] = int(str(k).split(".")[-1].split("_")[-1])
+    return dIDct
+
+
+def addItem(itemClass, itemDescription, dIDct, onto ):
+    itemDescription = str(itemDescription).replace("e.g."," ").replace("("," ").replace(")"," ")
+    itemDescription = re.sub(' +', ' ',  str(itemDescription)).strip().capitalize()
+    
+    if itemDescription in dIDct[itemClass].keys():
+        ID = dIDct[itemClass][itemDescription]
+        EXP = "onto."+itemClass+'("PBN__'+itemClass+"_"+str(ID)+'")'
+        OBJ = eval(EXP)
+        eval("OBJ.label.append('"+itemDescription.replace("'","’")+"')")
+        OBJ.label = list(set(OBJ.label))
+        return OBJ
+    else:
+        ID = len(dIDct[itemClass])
+        dIDct[itemClass][itemDescription] = ID
+        EXP = "onto."+itemClass+'("PBN__'+itemClass+"_"+str(ID)+'")'
+        OBJ = eval(EXP)
+        eval("OBJ.label.append('"+itemDescription.replace("'","’")+"')")
+        NAM = list(set(OBJ.label))
+        if "Nan" in NAM:
+            NAM.remove("Nan")
+        OBJ.label = NAM
+        
+        return OBJ
