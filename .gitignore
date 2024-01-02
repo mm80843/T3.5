@@ -1,3 +1,7 @@
+.ipynb_checkpoints
+.env
+.venv
+venv
 docs/
 outputs/
 versions/
