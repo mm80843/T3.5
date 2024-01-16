@@ -120,14 +120,18 @@ def createDict(onto):
         print(CLASS)
         dIDct[CLASS] = {} 
         for k in C.instances():
-            dIDct[CLASS][k.label[0]] = int(str(k).split(".")[-1].split("_")[-1])
+            try:
+                dIDct[CLASS][k.label[0]] = int(str(k).split(".")[-1].split("_")[-1])
+            except:
+                dIDct[CLASS][str(k)] = int(str(k).split(".")[-1].split("_")[-1])
     return dIDct
 
 
 def addItem(itemClass, itemDescription, dIDct, onto ):
-    itemDescription = str(itemDescription).replace("e.g."," ").replace("("," ").replace(")"," ")
+    itemDescription = str(itemDescription).replace("\n"," ").replace("\\"," ").replace("e.g."," ").replace("("," ").replace(")"," ")
     itemDescription = re.sub(' +', ' ',  str(itemDescription)).strip().capitalize()
-    
+    if itemClass not in dIDct.keys():
+        dIDct[itemClass] = {}
     if itemDescription in dIDct[itemClass].keys():
         ID = dIDct[itemClass][itemDescription]
         EXP = "onto."+itemClass+'("PBN__'+itemClass+"_"+str(ID)+'")'
