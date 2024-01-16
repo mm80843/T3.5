@@ -129,6 +129,7 @@ def createDict(onto):
 
 def addItem(itemClass, itemDescription, dIDct, onto ):
     itemDescription = str(itemDescription).replace("\n"," ").replace("\\"," ").replace("e.g."," ").replace("("," ").replace(")"," ")
+    itemDescription = itemDescription.replace("\b"," ")
     itemDescription = re.sub(' +', ' ',  str(itemDescription)).strip().capitalize()
     if itemClass not in dIDct.keys():
         dIDct[itemClass] = {}
