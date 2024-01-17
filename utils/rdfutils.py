@@ -141,8 +141,12 @@ def addItem(itemClass, itemDescription, dIDct, onto ):
         OBJ.label = list(set(OBJ.label))
         return OBJ
     else:
-        #ID = len(dIDct[itemClass])
-        ID = max([dIDct[itemClass][x] for x in dIDct[itemClass]]) 
+        ID = len(dIDct[itemClass])
+        if 0:
+            if len(dIDct[itemClass]):
+                ID = max([dIDct[itemClass][x] for x in dIDct[itemClass]]) 
+            else:
+                ID = 0
         dIDct[itemClass][itemDescription] = ID
         EXP = "onto."+itemClass+'("PBN__'+itemClass+"_"+str(ID)+'")'
         OBJ = eval(EXP)
