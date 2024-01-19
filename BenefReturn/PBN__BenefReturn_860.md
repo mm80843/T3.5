@@ -1,8 +1,0 @@
-[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [BenefReturn](https://github.com/mm80843/T3.5/tree/pages/docs/BenefReturn/index.md) >> Individual ID:PBN__BenefReturn_860 
-
-# __Increased customer satisfaction and market share__
-
-## This return can be realized by these benefits
-
-* [Market responsiveness](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_790.md)
-
