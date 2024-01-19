@@ -2,7 +2,6 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/mm80843/T3.5?style=plastic)
 ![GitHub top language](https://img.shields.io/github/languages/top/mm80843/T3.5?style=plastic)
 ![GitHub last commit](https://img.shields.io/github/last-commit/mm80843/T3.5?color=red&style=plastic)
-
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
 
@@ -62,24 +61,25 @@ This repository contains:
 
 ### Next steps
 
-This activity yielded expected outcomes, consisting in mapping out risks,
-technologies and stakeholders, as well as suggesting mitigation measures.
+This activity yielded expected outcomes, consisting in mapping out risks, technologies and stakeholders, as well as suggesting mitigation measures.
 
-This however is an asset that has a highly reusable potential, and this list,
-albeit listing possible actions from a project perspective, could be undertaken by other parties:
-* We plan on integrating more robust graph management solutions,
-possibly Neo4j or similar, to continually review and enrich the knowledge
-graph;
-* We would want to enrich the semantic content of the graph to make it
-more usable and possible an input to KG-backed LLMs;
+This however is an asset that has a highly reusable potential, and this list, albeit listing possible actions from a project perspective, could be undertaken by other parties:
+
+* We plan on integrating more robust graph management solutions, possibly Neo4j or similar, to continually review and enrich the knowledge graph;
+* We would want to enrich the semantic content of the graph to make it more usable and possible an input to KG-backed LLMs;
 * Reusing existing semantic assets (eg Wikidata) might help structure
 * Connect this knowledge graph to other KGs or ontologies.
 
 
 ### Disclaimer
 
-Please note that this document is a research-based exploration compiled by
-knowledge management researchers, not medical professionals. Our findings
-are presented with the intention to inform and contribute to the dialogue
-on public health strategies. They are indicative and should serve as a preliminary guide. We encourage all readers to consult with qualified health
-professionals for expert advice and to confirm and enrich these insights.
+Please note that this document is a research-based exploration compiled by knowledge management researchers, not medical professionals. 
+Our findings are presented with the intention to inform and contribute to the dialogue on public health strategies. 
+They are indicative and should serve as a preliminary guide. 
+We encourage all readers to consult with qualified health professionals for expert advice and to confirm and enrich these insights.
+
+
+## Technicalities
+
+* Environment is defined in the requirements.txt
+* Using python 3.10.2 (TBC)
