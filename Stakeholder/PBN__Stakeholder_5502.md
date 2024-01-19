@@ -1,0 +1,16 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_5502 
+
+# __And policymakers relying on the literature__
+
+## Risk affecting this stakeholder
+
+* [Reviewing a small subset of literature on covid-19 may lead to incomplete understanding of the disease and its characteristics.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_6548.md)
+
+## This Stakeholder belongs to this Stakeholder Group
+
+* [Government institutions](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_1.md)
+
+## This Stakeholder belongs to this Stakeholder Subgroup
+
+* [Policymakers](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_32.md)
+

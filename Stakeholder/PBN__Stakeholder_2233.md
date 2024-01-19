@@ -1,0 +1,30 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2233 
+
+# __Especially in indoor environment__
+
+## Category to which it belongs
+
+* [Particularly vulnerable populations, including low-income individuals, those with low education, and individuals in noisy or crowded environments, especially men, are at increased risk.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_252.md)
+
+## Closest similar item
+
+* [Especially in crowded indoor space](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_961.md)
+* [Especially in crowded indoor spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_920.md)
+* [Especially in indoor environments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2220.md)
+* [Especially in indoor space with poor air circulation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_925.md)
+* [Especially in indoor space with shared hvac system](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2250.md)
+* [Especially in indoor spaces with poor air circulation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_642.md)
+* [Especially those in enclosed spaces with limited air flow](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_643.md)
+* [Especially those in extreme temperature environment](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1166.md)
+* [Especially those in extreme temperature environments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2138.md)
+* [Indoor environments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2191.md)
+
+## This Stakeholder belongs to this Stakeholder Group
+
+* [General public](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_2.md)
+* [Vulnerable population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_547.md)
+
+## This Stakeholder belongs to this Stakeholder Subgroup
+
+* [Visitors in indoor spaces](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_50.md)
+

@@ -1,0 +1,31 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2229 
+
+# __Individual in enclosed space__
+
+## Category to which it belongs
+
+* [Individuals in poorly ventilated and overcrowded indoor spaces, including workers, visitors, and occupants, particularly those in public spaces.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_272.md)
+
+## Closest similar item
+
+* [Individual in close proximity](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1515.md)
+* [Individual in confined space](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2306.md)
+* [Individual in crowded indoor space](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2288.md)
+* [Individual in crowded space](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_261.md)
+* [Individual in public space](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2332.md)
+* [Individual with private green space](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1452.md)
+* [Individuals in confined spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2252.md)
+* [Individuals in enclosed spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_843.md)
+* [Occupants of confined spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2255.md)
+* [Occupants of indoor spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2284.md)
+
+## This Stakeholder belongs to this Stakeholder Group
+
+* [Residents and occupants of spaces](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Vulnerable population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_547.md)
+
+## This Stakeholder belongs to this Stakeholder Subgroup
+
+* [Occupants of shared household spaces](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_33.md)
+* [Work and living environment](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2224.md)
+

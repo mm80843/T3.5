@@ -1,0 +1,35 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2614 
+
+# __Park management authority__
+
+## Category to which it belongs
+
+* [Green space stakeholders and caretakers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_288.md)
+
+## Closest similar item
+
+* [Park and recreation department](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1508.md)
+* [Park and recreation departments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2605.md)
+* [Park authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1115.md)
+* [Park authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2611.md)
+* [Park maintenance organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1042.md)
+* [Park management agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1495.md)
+* [Park management agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1098.md)
+* [Park management authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2615.md)
+* [Park manager](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1737.md)
+* [Park managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_996.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Lack of benefits from poorly maintained large parks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3608.md)
+
+## This Stakeholder belongs to this Stakeholder Group
+
+* [Environmental entities](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_4.md)
+* [Public entities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2582.md)
+
+## This Stakeholder belongs to this Stakeholder Subgroup
+
+* [Park and recreation](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_59.md)
+* [Tourism organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1673.md)
+

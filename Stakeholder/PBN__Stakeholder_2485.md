@@ -1,0 +1,31 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2485 
+
+# __The global population__
+
+## Category to which it belongs
+
+* [Diverse demographics.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_247.md)
+
+## Closest similar item
+
+* [General populace](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_278.md)
+* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2489.md)
+* [Global community](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_81.md)
+* [Global market](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_259.md)
+* [Global migrants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
+* [Global population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_947.md)
+* [People in developing countries](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2049.md)
+* [Population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_289.md)
+* [Societal population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1261.md)
+* [The general population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_515.md)
+
+## This Stakeholder belongs to this Stakeholder Group
+
+* [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_20.md)
+* [Individuals](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_2.md)
+
+## This Stakeholder belongs to this Stakeholder Subgroup
+
+* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_52.md)
+* [Public](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_3.md)
+

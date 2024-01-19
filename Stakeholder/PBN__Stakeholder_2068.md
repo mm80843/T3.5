@@ -1,0 +1,31 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2068 
+
+# __Fund manager__
+
+## Category to which it belongs
+
+* [Managers responsible for overseeing various aspects of facilities and operations, including supply chain, construction projects, healthcare, property, and crisis.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_255.md)
+
+## Closest similar item
+
+* [Financial advisor](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1326.md)
+* [Financial advisors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2031.md)
+* [Financial team](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1328.md)
+* [Fund management companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1951.md)
+* [Fund management company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_827.md)
+* [Fund managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_507.md)
+* [Funding organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1516.md)
+* [Investment professional](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1964.md)
+* [Managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1995.md)
+* [Money market funds](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_929.md)
+
+## This Stakeholder belongs to this Stakeholder Group
+
+* [Financial groups](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_57.md)
+* [Private sector](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_5.md)
+
+## This Stakeholder belongs to this Stakeholder Subgroup
+
+* [Business and financial services](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1865.md)
+* [Social entrepreneurship fund managers](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_116.md)
+

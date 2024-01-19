@@ -1,0 +1,37 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1128 
+
+# __Research institutions and public health authorities are responsible for conducting research and developing guidelines to understand and regulate ah and rh levels__
+
+## Category to which it belongs
+
+* [The various individuals and entities involved in the provision and administration of healthcare services and systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_240.md)
+
+## Closest similar item
+
+* [Government health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1121.md)
+* [National public health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1125.md)
+* [Public health agencies and policymakers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1838.md)
+* [Public health agencies/researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1827.md)
+* [Public health authorities are at risk of misinterpreting the relationship between ah](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_138.md)
+* [Public health authorities are responsible for regulating ah and rh levels](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_136.md)
+* [Public health experts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_880.md)
+* [Research institution and public health authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1837.md)
+* [Research institutions and public health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_77.md)
+* [Researchers/public health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_122.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Relationship between ah, rh, and temperature](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1692.md)
+
+## This Stakeholder belongs to this Stakeholder Group
+
+* [Research organisations](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_0.md)
+
+## This Stakeholder belongs to this Stakeholder Subgroup
+
+* [Research institutions](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_5.md)
+
+## Type of the stakeholder
+
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_2.md)
+

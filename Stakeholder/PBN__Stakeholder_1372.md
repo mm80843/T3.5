@@ -1,0 +1,130 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1372 
+
+# __Local health authorities__
+
+## Category to which it belongs
+
+* [A diverse collection of organizations and individuals with specific areas of expertise and jurisdiction.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_239.md)
+
+## Closest similar item
+
+* [Health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1828.md)
+* [Health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_394.md)
+* [Health authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1.md)
+* [Healthcare authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_0.md)
+* [Local authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_452.md)
+* [Local government authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1823.md)
+* [Local health authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_623.md)
+* [Public health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_222.md)
+* [Public health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1245.md)
+* [Regional health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1572.md)
+
+## Risk affecting this stakeholder
+
+* [Heavy focus on pharmacological interventions and limited attention to environmental management at the community level](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2026.md)
+* [Inadequate communication and coordination between park management and health authorities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2025.md)
+* [Inadequate detection and prediction of disease spread in urban areas](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_293.md)
+* [Introduction of new disease vectors](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_5314.md)
+* [Limited data for the bourgogne-franche-comt u00e9 region on january 27, 2021](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_7307.md)
+* [Limited diagnostic capacity in areas with poor sanitation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_8759.md)
+* [Limited facilities for self-quarantine and self-isolation, leading to challenges in preventing covid-19 transmission among workers](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_13199.md)
+* [Opportunity for onward transmission at destination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_13315.md)
+* [Overcrowding, slums, and informal settlements creating contagion hotspots.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_13729.md)
+* [Regional variations in epidemic trends within countries](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15220.md)
+* [Shift in transmission range of diseases, hosts, and vectors](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_16083.md)
+* [Strong correlation between number of cases and travelers from wuhan](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19645.md)
+* [The pandemic-related ’health and safety’ rating system does not directly address contagious diseases in residential buildings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20099.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Adaptation of servicescapes to accommodate changes during the pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3470.md)
+* [Airing clothes on the balcony without proper sanitization may spread contagious diseases.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_4562.md)
+* [Balconies are commonly used as spaces for food production and processing.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_4885.md)
+* [Balconies are important places for natural processing of food, which can pose health risks if not properly managed.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_4962.md)
+* [Changes in global wind patterns and increased rainfall can propagate the spread of malaria during the construction life cycle.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_4963.md)
+* [Close physical interaction with live plants in home gardening may facilitate the transmission of contagious diseases.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_4965.md)
+* [Collaborating with other businesses may lead to increased exposure to contagious diseases if proper precautions are not taken.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_4970.md)
+* [Collaboration with outsiders may introduce new contagious diseases to the local community or staff members.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_4971.md)
+* [Contagious disease transmission in dense urban areas due to increased customer footfall in pickup locations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_5240.md)
+* [Continued investment in malaria-related intervention programs in ssa](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_5241.md)
+* [Coronavirus can spread through fecal-oral routes, requiring proper management of urban water cycle](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_5312.md)
+* [Detection of sars-cov-2 rna in influent samples from multiple wastewater treatment plants.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_5314.md)
+* [Detrimental impact on well-being and health due to reduced physical activity and social isolation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_5352.md)
+* [Drive around neighborhoods like the ice cream truck](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_5361.md)
+* [Estimation of covid-19 cases based on sewer network connections](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_5525.md)
+* [Eviction leading to lower access to covid-19 testing and medical attention](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_5587.md)
+* [Failure to consider interactions between distinct pathogens in a common host](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_5619.md)
+* [Focusing on faraway lands may result in neglecting local contagious disease propagation issues](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_7123.md)
+* [Frequent references to the visceral experience of being in the city under covid-19.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_7307.md)
+* [Frequent use of balconies for social activities and food storage increases the risk of contagious disease transmission.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_8156.md)
+* [Geographic residence plays a role in malaria transmission, with different anopheles species prevalent in specific regions, creating varying demand for intervention technologies.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_8159.md)
+* [Heavy focus on pharmacological interventions and limited attention to environmental management at the community level](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_8759.md)
+* [Heterogeneity in transmission reduction among regions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_8847.md)
+* [High frequency of use in medical and health facilities can increase the risk of exposure to contagious diseases.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9063.md)
+* [High level of staff and management rotation may increase the risk of spreading contagious diseases among different groups of employees.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9374.md)
+* [High number of confirmed cases and deaths in specific regions.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10424.md)
+* [High population flow from hubei province](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10425.md)
+* [High prevalence of guppies around households](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10899.md)
+* [Impact of population flow on covid-19 spread](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10910.md)
+* [Inability to self-isolate in common areas of the building](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10913.md)
+* [Inadequate communication and coordination between park management and health authorities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10919.md)
+* [Inadequate pandemic prevention and control measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10920.md)
+* [Inadequate screening protocols and guidelines for covid-19 testing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10921.md)
+* [Inconsistent findings on the association of temperature and uv radiation with covid-19 cases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10922.md)
+* [Increased precipitation, relative humidity, and temperature conditions can create a more suitable habitat for the malaria vector.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10945.md)
+* [Increased time spent at home and on balconies during the pandemic may have led to higher exposure to contaminants and air pollutants.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10947.md)
+* [Increased use of electronics and internet services in residential buildings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10955.md)
+* [Increased use of household appliances and indoor cooking](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10985.md)
+* [Interactions between children aged 5 to 18 and the local population can lead to the spread of contagious diseases.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10996.md)
+* [Lack of adaptive implementation of tailored programmes in the health system](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10997.md)
+* [Lack of adequate ventilation in home isolation spaces can lead to increased risk of virus spread within the household.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_11005.md)
+* [Lack of effective pandemic response policies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_11127.md)
+* [Large number of stopover records for trains](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_11354.md)
+* [Limited availability of accurate and timely information about covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_11486.md)
+* [Limited data for the bourgogne-franche-comt u00e9 region on january 27, 2021](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_11743.md)
+* [Long lines of people waiting for food](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_11807.md)
+* [Mentions of serving and interacting with a neighborhood and people, potentially indicating close contact and interaction.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_11931.md)
+* [Miscommunication of disease prevention measures to diverse communities, leading to confusion and non-compliance.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_11940.md)
+* [Negative correlation between compliance and opportunity to violate, impulsivity, and non-normative ool.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_11942.md)
+* [Non-contact interactive activities may contribute to the spread of contagious diseases within the community.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_13440.md)
+* [Operating 24/7 and providing retail services whenever and wherever the consumer demands may increase the risk of transmission of contagious diseases due to higher foot traffic and frequent interactions.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_13472.md)
+* [Over-emphasis on technology and biomedical expertise](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_14559.md)
+* [Over-reliance on mass drug administration mda or mass screen and treat msat approach](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_14607.md)
+* [Pivoting business operations to selling face masks may lead to increased physical interaction and potential spread of contagious diseases.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15219.md)
+* [Pools of stagnant water developing in areas of intense excavation and earth removal work during the construction phase provide breeding grounds for malaria-causing mosquitoes.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15220.md)
+* [Poor ventilation and overcrowding in multi-family housing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15235.md)
+* [Positive correlation between compliance and perceived threat, specific moral alignment, negative emotions, and other factors.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15553.md)
+* [Positive correlation between nonmetropolitan counties and covid-19 mortality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15584.md)
+* [Potential for contagious diseases to spread in service ecosystems and local communities.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_16131.md)
+* [Potential spread of contagious diseases due to close interactions between food truck owners and customers](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_16602.md)
+* [Potential spread of contagious diseases due to increased foot traffic in restaurants and cafes](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17290.md)
+* [Potential spread of contagious diseases within the local communities and project construction site due to increased interaction and proximity.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17291.md)
+* [Potential transmission of contagious diseases through physical contact and airborne particles due to close proximity in densely populated living spaces.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17292.md)
+* [Proliferation of mutual aid groups and initiatives increases the risk of disease transmission within these groups.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17320.md)
+* [Reduced hours and restricted services in the dining industry, including food trucks, may have increased congestion and close interactions among customers during peak hours, increasing the risk of disease transmission.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17347.md)
+* [Regional variations in epidemic trends within countries](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19255.md)
+* [Residents reporting poorer health status during covid-19 lockdown](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19300.md)
+* [Risk of contagious diseases from close physical interaction with live plants](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19301.md)
+* [Sandstorms leading to degraded air quality, respiratory problems, heart stress, and eye infections.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19528.md)
+* [Sharing information about food preparation and the people behind the business may lead to an increased risk of spreading contagious diseases if proper hygiene and safety practices are not followed.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19597.md)
+* [Sharing of communal spaces, such as toilets, in households where individuals are advised to isolate at home can increase the risk of virus transmission among family members.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19617.md)
+* [Social gradient in sars-cov-2 incidence and testing likelihood, more pronounced in densely populated socially deprived areas.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19993.md)
+* [Surging demand through most of 2020 caused by demographic trends and the pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19994.md)
+* [Survey conducted in non-gated communities to compare housing experiences during the pandemic.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20388.md)
+* [Underdeveloped thematic areas for vbds: community participation, citizen engagement, social differentiation, and wider system dynamics](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20389.md)
+* [Use of hashtags to be part of a larger conversation about the community](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20512.md)
+
+## This Stakeholder belongs to this Stakeholder Group
+
+* [Health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_394.md)
+* [Health organisations](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_7.md)
+
+## This Stakeholder belongs to this Stakeholder Subgroup
+
+* [Government health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_222.md)
+* [Public health agencies](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_17.md)
+
+## Type of the stakeholder
+
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_1.md)
+

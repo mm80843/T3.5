@@ -1,0 +1,41 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1443 
+
+# __Offshore facility staff__
+
+## Category to which it belongs
+
+* [Variety of personnel involved in different roles, such as contractors, staff, administrators, technicians, and professionals in specific fields.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_260.md)
+
+## Closest similar item
+
+* [Facilities managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1727.md)
+* [Facility manager](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_844.md)
+* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
+* [Facility owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_103.md)
+* [Facility owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1167.md)
+* [Hotel staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_702.md)
+* [Maintenance staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_703.md)
+* [Service personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2037.md)
+* [Staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1544.md)
+* [Staff of](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2053.md)
+
+## Risk affecting this stakeholder
+
+* [Administrative controls](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2119.md)
+* [Close contact tracing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2116.md)
+* [Engineering controls](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2120.md)
+* [Personal protective equipment ppe usage](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2118.md)
+* [Self-health evaluation before boarding](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2113.md)
+
+## This Stakeholder belongs to this Stakeholder Group
+
+* [Workers](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_8.md)
+
+## This Stakeholder belongs to this Stakeholder Subgroup
+
+* [Physical workers](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_35.md)
+
+## Type of the stakeholder
+
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_1.md)
+

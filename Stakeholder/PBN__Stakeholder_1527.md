@@ -1,0 +1,38 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1527 
+
+# __People in proximity to uv-c radiation sources__
+
+## Category to which it belongs
+
+* [People from diverse backgrounds and circumstances, including marginalized individuals, with different abilities, and in various environments.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_265.md)
+
+## Closest similar item
+
+* [General population and individuals in various indoor settings](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2222.md)
+* [Individual in environment where uv light disinfection is employed](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_740.md)
+* [Individuals exposed to far-uvc light](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_741.md)
+* [Individuals in close proximity](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2301.md)
+* [Individuals in environments where uv light disinfection is employed](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1202.md)
+* [Individuals in public spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1122.md)
+* [Individuals living in areas with natural outdoor environments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_306.md)
+* [People in indoor environments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_922.md)
+* [People in indoor spaces with air-conditioning systems](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_755.md)
+* [Person in proximity to uv-c radiation source](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_678.md)
+
+## Risk affecting this stakeholder
+
+* [Health risks from uv-c radiation exposure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2271.md)
+
+## This Stakeholder belongs to this Stakeholder Group
+
+* [Residents and occupants of spaces](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Vulnerable population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_547.md)
+
+## This Stakeholder belongs to this Stakeholder Subgroup
+
+* [People in high-contamination areas](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_39.md)
+
+## Type of the stakeholder
+
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_1.md)
+

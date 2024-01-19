@@ -1,0 +1,40 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_665 
+
+# __Individuals who come into contact with contaminated surfaces__
+
+## Category to which it belongs
+
+* [People at risk or affected by infectious diseases, including covid-19, and those involved in containment and response measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_245.md)
+
+## Closest similar item
+
+* [Individual coming into contact with contaminated water source](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2258.md)
+* [Individual in contact with surface](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_794.md)
+* [Individual who come into contact with contaminated surface](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2120.md)
+* [Individual who come into contact with infected individual or contaminated surface](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2463.md)
+* [Individuals coming into contact with contaminated water sources](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1537.md)
+* [Individuals in contact with surfaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1199.md)
+* [Individuals who come into contact with infected individuals or contaminated surfaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1517.md)
+* [Occupant of building with contaminated surface](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2518.md)
+* [Occupants of buildings with contaminated surfaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2195.md)
+* [Those who touch shared surfaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1437.md)
+
+## Risk affecting this stakeholder
+
+* [Persistence of sars-cov-2 on surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1134.md)
+* [Soap and water alone may not be effective at deactivating the virus on surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_6113.md)
+
+## This Stakeholder belongs to this Stakeholder Group
+
+* [Residents and occupants of spaces](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Vulnerable population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_547.md)
+
+## This Stakeholder belongs to this Stakeholder Subgroup
+
+* [Occupants of shared household spaces](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_33.md)
+* [Work and living environment](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2224.md)
+
+## Type of the stakeholder
+
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_1.md)
+

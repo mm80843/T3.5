@@ -1,0 +1,31 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2155 
+
+# __Vulnerable individual__
+
+## Category to which it belongs
+
+* [Various categories of people, including individuals of different socioeconomic, gender, age, and health statuses, as well as those affected by specific circumstances or conditions.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_254.md)
+
+## Closest similar item
+
+* [Particularly child and vulnerable individual](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_748.md)
+* [Vulnerable community](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_208.md)
+* [Vulnerable family](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2199.md)
+* [Vulnerable group](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2298.md)
+* [Vulnerable groups](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_547.md)
+* [Vulnerable household](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2130.md)
+* [Vulnerable individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_127.md)
+* [Vulnerable patients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2316.md)
+* [Vulnerable population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2162.md)
+* [Vulnerable populations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_115.md)
+
+## This Stakeholder belongs to this Stakeholder Group
+
+* [Residents and occupants of spaces](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Vulnerable population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_547.md)
+
+## This Stakeholder belongs to this Stakeholder Subgroup
+
+* [People with lower income](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_40.md)
+* [Vulnerable individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_748.md)
+

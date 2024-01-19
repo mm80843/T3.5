@@ -1,0 +1,33 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2336 
+
+# __Personal safety and security__
+
+## Category to which it belongs
+
+* [Ensuring protection and assistance in times of crisis, organizations and individuals safeguard public welfare.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_248.md)
+
+## Closest similar item
+
+* [Health and safety agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2630.md)
+* [Health and safety officers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_832.md)
+* [Health and safety professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1450.md)
+* [Individual at risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_633.md)
+* [Individuals at risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_826.md)
+* [Occupational health and safety agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1287.md)
+* [Safety department](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1528.md)
+* [Security agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1255.md)
+* [Security and law enforcement](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2167.md)
+* [Security personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_796.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [Victims of domestic violence](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_7.md)
+
+## This Stakeholder belongs to this Stakeholder Group
+
+* [Residents and occupants of spaces](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_6.md)
+
+## This Stakeholder belongs to this Stakeholder Subgroup
+
+* [People in high-contamination areas](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_39.md)
+

@@ -1,0 +1,42 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1065 
+
+# __Especially those living in areas with high mosquito populations__
+
+## Category to which it belongs
+
+* [Particularly vulnerable populations, including low-income individuals, those with low education, and individuals in noisy or crowded environments, especially men, are at increased risk.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_252.md)
+
+## Closest similar item
+
+* [Especially those in densely populated area](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2085.md)
+* [Especially those in densely populated areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_894.md)
+* [Especially those living in area with high mosquito population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2244.md)
+* [Especially those living in areas with extreme population densities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2314.md)
+* [Especially those living in densely populated area](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2296.md)
+* [Especially those living in densely populated area with limited acce to natural environment](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_895.md)
+* [Especially those living in densely populated area with limited acces to natural environment](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_376.md)
+* [Especially those living in densely populated areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1063.md)
+* [Especially those living in densely populated areas with limited access to natural environments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_817.md)
+* [Urban populations in areas where invasive mosquito species are spreading](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2235.md)
+
+## Risk affecting this stakeholder
+
+* [Inadequate mosquito control](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1634.md)
+
+## These stakeholders can be supported by the following general blueprint(s)
+
+* [Implementing Disease Mitigation Strategies: Addressing Wildlife Trade, Vector Control, and Environmental Hygiene](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_21.md)
+
+## This Stakeholder belongs to this Stakeholder Group
+
+* [Residents and occupants of spaces](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Vulnerable population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_547.md)
+
+## This Stakeholder belongs to this Stakeholder Subgroup
+
+* [People in high-contamination areas](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_39.md)
+
+## Type of the stakeholder
+
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_1.md)
+

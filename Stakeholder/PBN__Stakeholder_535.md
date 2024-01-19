@@ -1,0 +1,53 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_535 
+
+# __Logistics providers__
+
+## Category to which it belongs
+
+* [Various individuals and entities involved in the supply chain, from suppliers to consumers and everyone in between.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_261.md)
+
+## Closest similar item
+
+* [Equipment suppliers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_424.md)
+* [Logistics companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1081.md)
+* [Providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_474.md)
+* [Service providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_14.md)
+* [Supply chain managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_16.md)
+* [Supply chain organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_983.md)
+* [Supply chain professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1704.md)
+* [Transportation companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_861.md)
+* [Transportation company](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1948.md)
+* [Transportation providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_747.md)
+
+## Risk affecting this stakeholder
+
+* [Internal risks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1757.md)
+* [Lack of supply chain visibility](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1756.md)
+* [Logistic challenges in vaccine distribution](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1755.md)
+* [Supply chain complexity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_16434.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Internal risks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1757.md)
+* [Lack of supply chain visibility](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1756.md)
+* [Shortage of medical resources in severe epidemic areas](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1755.md)
+* [Supply chain complexity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_4117.md)
+
+## This Stakeholder belongs to this Stakeholder Group
+
+* [Transportation and mobility sector](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_14.md)
+
+## This Stakeholder belongs to this Stakeholder Subgroup
+
+* [Logistics professionals](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_49.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Efficient supply chain operations](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1377.md)
+
+## Type of the stakeholder
+
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_0.md)
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_2.md)
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_1.md)
+

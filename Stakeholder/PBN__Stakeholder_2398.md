@@ -1,0 +1,31 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2398 
+
+# __Community stakeholder__
+
+## Category to which it belongs
+
+* [A collective of individuals and groups who contribute to and support the well-being of a community.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_270.md)
+
+## Closest similar item
+
+* [Civil society stakeholders](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2396.md)
+* [Community association](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_230.md)
+* [Community groups/organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_178.md)
+* [Community organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_436.md)
+* [Community organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_15.md)
+* [Community stakeholders](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_150.md)
+* [Construction industry stakeholders](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2438.md)
+* [Project stakeholders](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_345.md)
+* [Stakeholders](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2420.md)
+* [Supply chain stakeholders](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2414.md)
+
+## This Stakeholder belongs to this Stakeholder Group
+
+* [Community stakeholders](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Residents and occupants of spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2396.md)
+
+## This Stakeholder belongs to this Stakeholder Subgroup
+
+* [Community leaders/organizers](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_33.md)
+* [Occupants of shared household spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2397.md)
+

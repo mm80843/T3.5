@@ -1,0 +1,37 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2360 
+
+# __Water management__
+
+## Category to which it belongs
+
+* [Managers responsible for overseeing various aspects of facilities and operations, including supply chain, construction projects, healthcare, property, and crisis.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_255.md)
+
+## Closest similar item
+
+* [Occupants and water management services](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1510.md)
+* [Water and sanitation organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2381.md)
+* [Water authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1069.md)
+* [Water authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2359.md)
+* [Water management agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1083.md)
+* [Water management agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2587.md)
+* [Water management authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2384.md)
+* [Water management authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_492.md)
+* [Water treatment facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_169.md)
+* [Water utility](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1363.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [Water authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2359.md)
+* [Water authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1069.md)
+* [Water management agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2381.md)
+* [Water management agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2384.md)
+* [Water management authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_492.md)
+
+## This Stakeholder belongs to this Stakeholder Group
+
+* [Government institutions](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_1.md)
+
+## This Stakeholder belongs to this Stakeholder Subgroup
+
+* [Administrative authorities](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_7.md)
+

@@ -1,0 +1,30 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2441 
+
+# __Community resident__
+
+## Category to which it belongs
+
+* [The populace that inhabits a specific area, including public housing, gated communities, urban areas, and apartment complexes.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_271.md)
+
+## Closest similar item
+
+* [Community residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_525.md)
+* [Gated community resident](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2402.md)
+* [Gated community residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2421.md)
+* [Local residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2442.md)
+* [Non-gated community resident](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2425.md)
+* [Non-gated community residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_59.md)
+* [Resident](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2423.md)
+* [Resident of neighborhood](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_201.md)
+* [Residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2443.md)
+* [Urban resident](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_481.md)
+
+## This Stakeholder belongs to this Stakeholder Group
+
+* [Community stakeholders](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_2.md)
+* [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2396.md)
+
+## This Stakeholder belongs to this Stakeholder Subgroup
+
+* [Civil society stakeholders](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_83.md)
+

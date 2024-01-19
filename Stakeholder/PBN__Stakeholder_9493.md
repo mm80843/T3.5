@@ -1,0 +1,24 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_9493 
+
+# __Researcher__
+
+## Risk affecting this stakeholder
+
+* [Limited data collection due to covid-19 restrictions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_18403.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Convenience sampling of undergraduate and mba students may not be representative of the general population](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_11558.md)
+* [Coronavirus pandemic context may influence responses and behaviors](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_11559.md)
+* [Influence of political ideology on consumer perceptions and behaviors related to the coronavirus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_11560.md)
+* [Limited data collection due to covid-19 restrictions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_14483.md)
+* [Use of questionnaires and interviews as research tools can increase the risk of disease transmission in the data collection process](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_18403.md)
+
+## This Stakeholder belongs to this Stakeholder Group
+
+* [Research organisations](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_0.md)
+
+## This Stakeholder belongs to this Stakeholder Subgroup
+
+* [Research institutions](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_5.md)
+

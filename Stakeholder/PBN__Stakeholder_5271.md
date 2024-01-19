@@ -1,0 +1,17 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_5271 
+
+# __Occupants of university facilities__
+
+## Risk affecting this stakeholder
+
+* [Inadequate thermal comfort in university facilities leading to discomfort for occupants.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_6225.md)
+* [Waste of energy due to over-heated buildings and the need to open windows.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_6226.md)
+
+## This Stakeholder belongs to this Stakeholder Group
+
+* [Residents and occupants of spaces](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_6.md)
+
+## This Stakeholder belongs to this Stakeholder Subgroup
+
+* [Occupants of shared household spaces](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_33.md)
+

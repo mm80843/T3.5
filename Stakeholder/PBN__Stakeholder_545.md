@@ -1,0 +1,143 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_545 
+
+# __Media organizations__
+
+## Category to which it belongs
+
+* [A collection of diverse entities devoted to various causes, including mental and physical health, business, research, conservation, and social welfare.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_250.md)
+
+## Closest similar item
+
+* [Arts organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_231.md)
+* [Community organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_455.md)
+* [Media](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_186.md)
+* [Media and news entities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1809.md)
+* [Media outlets](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_555.md)
+* [Medium organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1912.md)
+* [Organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_150.md)
+* [Organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1493.md)
+* [Social media companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1489.md)
+* [Social organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1803.md)
+
+## Risk affecting this stakeholder
+
+* [Identification of non-unique policy measures in different media reports](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1019.md)
+* [Influence of fake news on public awareness and decision-making](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3539.md)
+* [Lack of prior research on tendency and awareness towards fake news.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9222.md)
+* [Limited press freedom and threat of jail time for reporting on the virus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17447.md)
+* [Manipulated media coverage](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19074.md)
+* [Media reports can fuel fear related to contagious diseases like covid-19.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19957.md)
+* [Misinformation and truthfulness of information perceived](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20044.md)
+* [Misinformation leading to non-compliance with preventive measures.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20164.md)
+* [Potential spread of contagious diseases through mass media data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20280.md)
+* [Public dissemination of uncritically reported news stories and data on ipv and dv rates.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20323.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Avoidance of news about covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1433.md)
+* [Circulation of fake news related to lockdown measures, healthcare guidelines, and public safety](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2158.md)
+* [Compromised destination image and tourism market due to inappropriate media coverage of the virus’s origins.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3413.md)
+* [Decreasing burden of negative information about covid-19 in media may decrease stress but also public interest in covid-19 news.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_49.md)
+* [Decreasing/diminished interest and avoidance of news about covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1277.md)
+* [Digital divide and information gap](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2102.md)
+* [Disinformation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_396.md)
+* [Exaggerated information about covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2040.md)
+* [Exaggerated scientific claims leading to misinformation and lack of perception of risk.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1351.md)
+* [Excessive reliance on non-affiliated and non-peer reviewed sources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1364.md)
+* [False and misleading information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2354.md)
+* [Fast publishing of unfinished or unobserved research during covid-19 leading to circulation of fake news](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1352.md)
+* [Gender differences in cyberchondria and information sharing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1809.md)
+* [Global misinformation and the ’infodemic’](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_751.md)
+* [Identification of non-unique policy measures in different media reports](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1557.md)
+* [Impact on workers’ health and safety](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1354.md)
+* [Inability to accurately determine the reliability of news sources.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1033.md)
+* [Inaccurate information on social media](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1265.md)
+* [Increased public engagement with emerging research](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1600.md)
+* [Increased use of social media for politics and decision-making](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2305.md)
+* [Inequality and positionality in urban environments](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1019.md)
+* [Influence of political orientation on compliance with covid-19 measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1966.md)
+* [Informal settlements and slums being underrepresented in discussions and media reports could lead to higher infection rates and transmission of diseases.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3539.md)
+* [Information overload and misinformation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_6011.md)
+* [Insufficient information and negative data contribute to high levels of anxiety and stress.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_6013.md)
+* [Intersection of sonic and textual outputs leading to the misinterpretation of research findings or communication of inaccurate information.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_6018.md)
+* [Lack of adequate knowledge and prevention practice related to covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_6019.md)
+* [Lack of awareness](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_6706.md)
+* [Lack of clear understanding of covid-19 knowledge](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_6876.md)
+* [Lack of knowledge and awareness](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_7031.md)
+* [Lack of prior research on tendency and awareness towards fake news.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_7943.md)
+* [Lack of public awareness](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_8900.md)
+* [Lack of public awareness and education](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9721.md)
+* [Lack of public education campaigns leading to the spread of disinformation and misinformation about diseases.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10570.md)
+* [Lack of timely and accurate information leading to misinformation and panic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10574.md)
+* [Lack of traceability and fact-checking in encrypted messaging platforms](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10630.md)
+* [Lack of transparent communication about virus conditions and threats](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10640.md)
+* [Lack of trust in evidence](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10656.md)
+* [Limited access to actionable evidence](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12125.md)
+* [Limited press freedom and threat of jail time for reporting on the virus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12399.md)
+* [Linking public housing to highly publicized covid-19 ’cruise ship’ cases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_13993.md)
+* [Loss of geographical sensibility in spatial storytelling](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_14696.md)
+* [Manipulated media coverage](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_14715.md)
+* [Massive transmission of fake news over social media creating chaos and stress](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15065.md)
+* [Measuring public attention and trust in official media related to covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15558.md)
+* [Misinformation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15574.md)
+* [Misinformation and conspiracy theories about the pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15577.md)
+* [Misinformation and fake news](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15599.md)
+* [Misinformation and truthfulness of information perceived](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15601.md)
+* [Misinformation and ’infodemic’](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15609.md)
+* [Misinformation can lead to uncertainty and fear, which may impair the quality of life and lead to erratic behavior, onset of psychiatric disorders, and increased rates of suicide.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15615.md)
+* [Misinformation driven majorly by social media, lack of trust in leadership, and sensationalization of inaccurate news.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15623.md)
+* [Misinformation from untrusted sources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15628.md)
+* [Misinformation leading to non-compliance with preventive measures.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15679.md)
+* [Misinformation on covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15941.md)
+* [Misleading articles on covid-19 prevention measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_16188.md)
+* [Misleading media coverage of contagious diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_16191.md)
+* [Misuse of official logos in fake news](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_16887.md)
+* [Misuse of preprints by media and bad-faith actors](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_16889.md)
+* [More information about covid-19 can lead to increased anxiety and worry.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17354.md)
+* [Online information trust](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17355.md)
+* [Overwhelming news exposure and reliance on tv and internet for information may impact participants’ understanding of covid-19 and influence their behaviors.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17358.md)
+* [Potential influence of political orientation on compliance with pandemic measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17443.md)
+* [Potential spread of contagious diseases through mass media data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_18048.md)
+* [Prolonged exposure to negative news about covid-19 causing desensitization](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19074.md)
+* [Propagation of misinformation and disinformation about covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19193.md)
+* [Rapid increase in covid-19 related searches and cyberchondria](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19196.md)
+* [Rapid production and dissemination of the podcast project may amplify awareness of the impact of the covid-19 pandemic on cities, but may also spread misinformation or panic.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19674.md)
+* [Reliance on media for information about the pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19675.md)
+* [Reliance on unreliable or overwhelming information sources for pandemic-related information dissemination.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19782.md)
+* [Risk of misinformation and misinterpretation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19785.md)
+* [Sharing fake news, conspiracy theories, and magic cures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19797.md)
+* [Sharing of unverified information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19802.md)
+* [Spontaneous behavioral reactions and rumors](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19819.md)
+* [Spread of fake news](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19957.md)
+* [Spread of fake news and misinformation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20017.md)
+* [Spread of fake news complicating crisis management](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20044.md)
+* [Spread of fake news creating panic and anxiety](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20164.md)
+* [Spread of fake news related to covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20280.md)
+* [Spread of false information about covid-19 prevention measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20298.md)
+* [Spread of misinformation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20309.md)
+* [Spread of misinformation and fake news](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20311.md)
+* [Spread of rumors and conspiracy theories online](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20312.md)
+* [Stereotypical representations of city sounds and environments](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20313.md)
+* [Stigmatization of public and social housing residents](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20321.md)
+* [Trusting online information sources can give birth to unfounded worries about personal health, specifically during the covid-19 pandemic.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20853.md)
+
+## This Stakeholder belongs to this Stakeholder Group
+
+* [Media](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_16.md)
+* [Media organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_231.md)
+
+## This Stakeholder belongs to this Stakeholder Subgroup
+
+* [Media and news entities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1803.md)
+* [Media and news entities](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_64.md)
+
+## This stakeholders can act on the following general blueprint(s)
+
+* [Implementing Contagion Prevention Practices and Infrastructure](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_12.md)
+* [Implementing Contagious Disease Prevention](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_34.md)
+
+## Type of the stakeholder
+
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_2.md)
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_1.md)
+

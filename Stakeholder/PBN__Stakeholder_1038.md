@@ -1,0 +1,38 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1038 
+
+# __Digital literacy organizations__
+
+## Category to which it belongs
+
+* [A collection of diverse entities devoted to various causes, including mental and physical health, business, research, conservation, and social welfare.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_250.md)
+
+## Closest similar item
+
+* [Digital and information access](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2063.md)
+* [Digital health communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1234.md)
+* [Digital literacy organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2315.md)
+* [Education authority](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2300.md)
+* [Educational organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1053.md)
+* [Educational organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1643.md)
+* [Individual without internet acce or limited digital literacy](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2239.md)
+* [Individual without internet acces or limited digital literacy](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_205.md)
+* [Individuals without internet access or limited digital literacy](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1551.md)
+* [Residents with limited knowledge or skills in using digital technology](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1642.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Information overload](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1599.md)
+
+## This Stakeholder belongs to this Stakeholder Group
+
+* [General public](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_2.md)
+* [Private sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_57.md)
+
+## This Stakeholder belongs to this Stakeholder Subgroup
+
+* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_83.md)
+
+## Type of the stakeholder
+
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_2.md)
+

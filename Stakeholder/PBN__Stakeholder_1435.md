@@ -1,0 +1,46 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1435 
+
+# __Compliance officers__
+
+## Category to which it belongs
+
+* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_262.md)
+
+## Closest similar item
+
+* [Biosafety officers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1789.md)
+* [Campus police officers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1287.md)
+* [Compliance officer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2578.md)
+* [Data protection officers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_601.md)
+* [Health and safety officers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_818.md)
+* [Law enforcement](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_532.md)
+* [Law enforcement agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1052.md)
+* [Public health officers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_135.md)
+* [Security personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_633.md)
+* [Supervisors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_719.md)
+
+## Risk affecting this stakeholder
+
+* [Lack of compliance to regulatory and health protection agencies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_11593.md)
+* [Non-compliance with legal and regulatory requirements](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_11662.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Legal and regulatory](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2108.md)
+* [Non-compliance with legal and regulatory requirements](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_11662.md)
+
+## This Stakeholder belongs to this Stakeholder Group
+
+* [Private sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_57.md)
+* [Regulatory bodies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_128.md)
+* [Workers](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_9.md)
+
+## This Stakeholder belongs to this Stakeholder Subgroup
+
+* [Governments and industry regulatory bodies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1654.md)
+* [Specific roles and job titles](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_27.md)
+
+## Type of the stakeholder
+
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_2.md)
+

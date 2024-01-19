@@ -1,0 +1,133 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_481 
+
+# __Local residents__
+
+## Category to which it belongs
+
+* [The populace that inhabits a specific area, including public housing, gated communities, urban areas, and apartment complexes.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_271.md)
+
+## Closest similar item
+
+* [City residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_59.md)
+* [Community residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_467.md)
+* [Nearby residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_209.md)
+* [Other residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_511.md)
+* [Residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1271.md)
+* [Residents of neighborhoods](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_525.md)
+* [Residents of urban areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_332.md)
+* [Residents,](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1223.md)
+* [Urban resident](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_39.md)
+* [Urban residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2423.md)
+
+## Risk affecting this stakeholder
+
+* [A sense of loss evoked when designs change negatively or are demolished](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2330.md)
+* [Activation of inner yards for social activities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_4117.md)
+* [Anxiety as a response to stressful situations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_4293.md)
+* [Bringing activities to open green spaces without proper planning may lead to increased risk of contagious disease spread.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_4978.md)
+* [Challenges of maintaining guppy distribution system](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_5353.md)
+* [Changes in global wind patterns and increased rainfall can propagate the spread of malaria during the construction life cycle.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_5544.md)
+* [Changes in park use during covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_5627.md)
+* [Changing trust in local authorities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_5871.md)
+* [Closure of companies, schools, and shopping centers leading to restricted mobility](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_5872.md)
+* [Community life circle planning model](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_5999.md)
+* [Confirmed cases of coronavirus in singapore](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_6505.md)
+* [Conflict and competition among wild animals in urban areas](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_7570.md)
+* [Conflicts between different groups of visitors](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_8553.md)
+* [Construction projects creating potential infection hotspots](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9036.md)
+* [Controversial nature of street redesigns and political challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9037.md)
+* [Covid-19 transmission through human-to-human interaction](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9499.md)
+* [Crowding in restricted areas and resistance to park closures by some users.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9512.md)
+* [Delay in implementing social distancing measures in some countries](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9959.md)
+* [Dependence on external food supply](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10329.md)
+* [Dependence on ugs for respite and isolation can lead to non-compliance with public health guidelines and riskier behavior in these areas.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_11515.md)
+* [Distribution of public disinfectant containers or washing infrastructures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_11516.md)
+* [Dominance of million-dollar cities in areas with attractive natural surroundings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_11698.md)
+* [Emergence of demand for new services and perspectives on park management](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_11903.md)
+* [Epidemics and pandemics leading to public response and increased stress levels](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_11969.md)
+* [Evasion of restrictions by young people during nights](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12029.md)
+* [Exposure to covid-19 in multiple countries during the mentioned time periods.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12601.md)
+* [Failure of alternative options to mitigate the transmission of the virus.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12679.md)
+* [Familiarity with lockdown measures leading to complacency](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12681.md)
+* [High allergenicity of ornamental plant pollen](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12682.md)
+* [High density of points of interest pois in urban areas](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12712.md)
+* [High levels of tourism and trade connecting countries](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_13116.md)
+* [High population density around railway stations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_13117.md)
+* [High population flow from hubei province](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_13118.md)
+* [Improper disposal of pharmaceutical wastes at sanitary landfills](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_13121.md)
+* [Inadequate community engagement](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_14398.md)
+* [Inadequate consideration of local mobility needs and conditions in transport policy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_14579.md)
+* [Inadequate management of green spaces could lead to increased public health risks and a lack of access to outdoor areas for physical activity and mental well-being.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15122.md)
+* [Inadequate quarantine facilities and procedures during 19th-century ottoman empire](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15130.md)
+* [Inadequate resources for maintaining safe park environments](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15167.md)
+* [Inadequate waste management in urban green spaces leading to disease transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15169.md)
+* [Inconsistent implementation of lockdown directives and measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15178.md)
+* [Increase in human movements out of wuhan before the lunar new year followed by rapid decrease](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15182.md)
+* [Increase in mosquito-borne diseases due to excess vegetation and green zones](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15190.md)
+* [Increase in outdoor noise complaints on social media](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15191.md)
+* [Increased covid-19 transmission due to lifting eviction moratoria](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15192.md)
+* [Increased demand for park access leading to overcrowding](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15201.md)
+* [Increased demand for urban green spaces may lead to overcrowding and insufficient social distancing measures in parks.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15203.md)
+* [Increased importance of green spaces and ugs as places of refuge during the pandemic may lead to overcrowding and congestion in these areas, increasing the risk of disease transmission.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15218.md)
+* [Increased precipitation, relative humidity, and temperature conditions can create a more suitable habitat for the malaria vector.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15219.md)
+* [Increased preference for private transportation over public transportation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15248.md)
+* [Increased visitation to urban green spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15249.md)
+* [Influx of chinese tourists during chinese new year](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15431.md)
+* [Insufficient medical beds and hospital isolation measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15432.md)
+* [Introduction of non-local retail brands and their signage may not align with the neighborhood’s nature, potentially impacting the sense of community and local identity.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15433.md)
+* [Lack of detail-oriented behavior and increased spontaneous trait inferences leading to risk of epidemic spread](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15547.md)
+* [Lack of effective pandemic response policies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_16162.md)
+* [Lack of enforcement of social distancing measures in public spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_16309.md)
+* [Lack of functioning restrooms in parks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17003.md)
+* [Lack of local services and amenities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17004.md)
+* [Large number of urban green spaces managed by municipalities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17290.md)
+* [Lax adherence to safety protocols leading to surge in covid-19 cases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17291.md)
+* [Limited availability of self-dependent services](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17292.md)
+* [Limited carrying capacity for mosquito larvae in each patch](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17402.md)
+* [Limited dispersion of pollen due to road-side tree planting](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17415.md)
+* [Limited financial resources for city-level governance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_18179.md)
+* [Link between national outbreak of covid-19 and air travel in ireland](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_18414.md)
+* [Monitoring the movement of passengers from the worst-hit city of wuhan](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_18952.md)
+* [Mosquito-borne virus transmission through human-mosquito interaction](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19109.md)
+* [Overabundance of specific plant species in urban vegetation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19110.md)
+* [Pools of stagnant water developing in areas of intense excavation and earth removal work during the construction phase provide breeding grounds for malaria-causing mosquitoes.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19111.md)
+* [Potential for crowded or congested tourist attractions leading to increased risk of disease transmission.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19164.md)
+* [Potential for disease spread through community use of the building](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19166.md)
+* [Potential tourists perceiving risks relative to the covid-19 outbreak](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19173.md)
+* [Potential transmission of covid-19 in tourism destinations due to reduced risk perception and information mismanagement](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19176.md)
+* [Presence of a large student population](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19182.md)
+* [Reduction in black carbon and nitrogen dioxide in the atmosphere, increase in ozone concentration](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19188.md)
+* [Residual energy consumption due to community use of the building during the pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19190.md)
+* [Resistance and unrest due to externally imposed restrictions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19225.md)
+* [Restricting inter-city connections via railways may prevent the further spread of covid-19 in most cities of all levels.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19251.md)
+* [Risk of contagious diseases in high-density areas](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19293.md)
+* [Risk of spreading contagious diseases due to mobility patterns and visitation to parks.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19294.md)
+* [Shortage of medical resources in severe epidemic areas](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19301.md)
+* [Shut down of public spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19303.md)
+* [Spread of contagious diseases through human mobility](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19340.md)
+* [The spatial configuration requirements for new facilities in the community life circles may lead to increased construction activity and potential disruption to existing infrastructure.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19341.md)
+* [The study involves examining the impact of covid-19 on park use and demographic attributes, which may reveal potential risks of disease transmission in outdoor spaces.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19511.md)
+* [Thermal discomfort in tropical countries due to excessive vegetal mass](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19744.md)
+* [Tourists avoiding high-risk areas](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19745.md)
+* [Tourists consuming foreign or exotic foods may be blamed for disease transmission, leading to social risk.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20096.md)
+* [Tourists modifying transportation modes to prefer self-driving tours or recreational vehicles, leading to potential increase in road accidents and traffic congestion.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20425.md)
+* [Urban planning that does not prioritize open space, natural ventilation, and sunlight can contribute to the spread of infection.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20514.md)
+* [Visiting urban parks and green spaces may lead to the propagation of contagious diseases.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20563.md)
+* [Wild animals leaving their natural habitat and moving into urban areas in search of food](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20826.md)
+
+## This Stakeholder belongs to this Stakeholder Group
+
+* [Residents and occupants of spaces](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_6.md)
+
+## This Stakeholder belongs to this Stakeholder Subgroup
+
+* [Visitors to green spaces](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_47.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Enhanced access to nature and recreation for residents](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1239.md)
+
+## Type of the stakeholder
+
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_0.md)
+

@@ -1,0 +1,130 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_641 
+
+# __Hvac technicians__
+
+## Category to which it belongs
+
+* [Variety of personnel involved in different roles, such as contractors, staff, administrators, technicians, and professionals in specific fields.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_260.md)
+
+## Closest similar item
+
+* [Hvac engineer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1740.md)
+* [Hvac engineers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1160.md)
+* [Hvac professional](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_921.md)
+* [Hvac professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1753.md)
+* [Hvac specialist](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_621.md)
+* [Hvac specialists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1787.md)
+* [Hvac technician](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1712.md)
+* [Professional in hvac and engineering field](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1191.md)
+* [Professionals in hvac and engineering fields](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1758.md)
+* [Technicians](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_167.md)
+
+## Risk affecting this stakeholder
+
+* [Ahus including in-duct applications.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1472.md)
+* [Conflicting recommendations on temperature and humidity setpoints from different guidelines](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_6197.md)
+* [Controversy over the effectiveness of temperature and humidity changes in inactivating the virus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_7799.md)
+* [Dependence on hvac system for energy efficiency and occupant comfort may lead to a trade-off between energy consumption and ventilation rates, potentially compromising indoor air quality.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_8149.md)
+* [Effect of relative humidity on uv susceptibility of viral aerosols](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_8306.md)
+* [Health risks from direct exposure to uv-c radiation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_8320.md)
+* [Hvac characteristics](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_8321.md)
+* [Impact of relative humidity rh on droplet size may influence the transmission of contagious diseases in the built environment.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_8340.md)
+* [Improper implementation of hvac systems leading to increased risk of viral transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_8381.md)
+* [Improper installation of air filters](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_8384.md)
+* [Inaccurate air change rate measurement due to transient effects](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9156.md)
+* [Inaccurate control of airflow and airspeed can lead to the transport of virus-carrying particles within indoor spaces.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9164.md)
+* [Inaccurate hvac system settings potentially contributing to disease transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9165.md)
+* [Inadequate airflow and ventilation in indoor spaces can lead to poor air quality and increased risk of disease transmission.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9166.md)
+* [Inadequate ventilation and air circulation systems in healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9855.md)
+* [Inadequate ventilation and air exchange in enclosed spaces.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9986.md)
+* [Ineffective maintenance of hvac systems leading to poor air quality and potential transmission of contagious diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10487.md)
+* [Ineffective operation and maintenance of hepa filtration systems leading to reduced efficiency in particle removal and air purification.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10497.md)
+* [Influenza transmission between humans takes place indoors within a narrow range of temperatures, where ah and rh move in tandem](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12134.md)
+* [Integration of botanical air filtration system into the hvac system](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12175.md)
+* [Lack of objective, reproducible evidence of improved energy efficiency of coils and fans with uvgi systems installed in ahus.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12204.md)
+* [Limited effectiveness of air cleaners/filters](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12262.md)
+* [Limited effectiveness of in-duct uvgi systems due to ventilation system efficiency and fan capacity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_16740.md)
+* [Misconceptions about the effectiveness of hepa filters in capturing coronaviruses](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17579.md)
+* [Moisture generation due to the use of dbaf.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17985.md)
+* [Neglecting the impact of low relative humidity on disease transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_18005.md)
+* [Spread of covid-19 through air conditioning systems with centrally distributed air ducts](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_18059.md)
+* [The prolonged exposure to uvgi at dosages ranging from 1000 to 3000 mj/cm 2 may pose health risks to individuals if not used properly.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_18096.md)
+* [Unclean or inadequate maintenance of ventilation systems can lead to reduced system efficiency and accumulation of contaminants, contributing to indoor air pollution.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_18673.md)
+* [Unclear ventilation rate guidelines for minimizing infectious disease risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_18714.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Airborne transmission in the built environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_939.md)
+* [Airborne transmission of sars-cov-2 through hvac systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1288.md)
+* [Dependence on air conditioning systems for thermal comfort](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1322.md)
+* [Dependence on hvac system for energy efficiency and occupant comfort may lead to a trade-off between energy consumption and ventilation rates, potentially compromising indoor air quality.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1563.md)
+* [Effectiveness of filters and air cleaning methods](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_713.md)
+* [Exhaust vents positioned in the lower part of the room may lead to air contamination and increased risk of disease transmission.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1624.md)
+* [Fluorescent lamp efficiency falling below 70% in uv-c range at low temperatures and airflow](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1431.md)
+* [Imbalanced air distribution due to the positioning of fans and air-conditioners leading to stagnant air pockets.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2023.md)
+* [Impact of temperature and humidity on virus survival and transmission.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1115.md)
+* [Improper implementation of hvac systems leading to increased risk of viral transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_5127.md)
+* [Inaccurate control of airflow and airspeed can lead to the transport of virus-carrying particles within indoor spaces.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_5128.md)
+* [Inaccurate hvac system settings potentially contributing to disease transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_5129.md)
+* [Inadequate air filtration in hvac systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_6196.md)
+* [Inadequate air filtration leading to transmission of airborne viruses](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_6197.md)
+* [Inadequate airflow and ventilation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_6198.md)
+* [Inadequate airflow and ventilation in indoor spaces can lead to poor air quality and increased risk of disease transmission.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_8283.md)
+* [Inadequate indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_8319.md)
+* [Inadequate mechanical ventilation systems may fail to regulate good indoor air quality and control infection transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_8320.md)
+* [Inadequate operation of hvac systems leading to poor ventilation and increased risk of disease transmission.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_8321.md)
+* [Inadequate outdoor air supply leading to poor ventilation and increased risk of disease transmission.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_8325.md)
+* [Inadequate pressure differential leading to potential for cross-contamination of air between safe and unsafe areas.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_8326.md)
+* [Inadequate ventilation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_8327.md)
+* [Inadequate ventilation and air flow may result in poor indoor air quality and contribute to the spread of airborne diseases.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_8328.md)
+* [Inadequate ventilation and airflow control leading to increased risk of disease transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_8339.md)
+* [Inadequate ventilation and airflow management](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_8340.md)
+* [Inadequate ventilation and indoor air quality leading to increased risk of disease infection.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_8356.md)
+* [Inadequate ventilation in buildings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_8357.md)
+* [Inadequate ventilation leading to increased risk of infection in confined spaces such as offices, residential areas, and public buildings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_8388.md)
+* [Inadequate ventilation leading to poor indoor air quality and increased risk of airborne disease transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_8404.md)
+* [Inadequate ventilation leading to poor indoor air quality and increased risk of disease transmission.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_8950.md)
+* [Inadequate ventilation leading to poor indoor air quality iaq](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9137.md)
+* [Inappropriate temperature and humidity setpoints leading to discomfort and potential health risks.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9138.md)
+* [Increase in air change rate due to window opening](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9139.md)
+* [Indoor air pollution](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9474.md)
+* [Ineffective air filtration in certain areas of the room due to airflow patterns and room size](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9853.md)
+* [Ineffective cleansing of infectious particles in upper-room uvgi zone](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9854.md)
+* [Ineffective inactivation of airborne bacteria by upper-room uvgi](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10487.md)
+* [Influenza virus stability is compromised at higher temperatures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12136.md)
+* [Insufficient ventilation rates for controlling infection probability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12137.md)
+* [Lack of proper ventilation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12205.md)
+* [Lack of reflection of temperature and rh effects from the botanical filter in the simulation may lead to inaccurate assessment of energy consumption and thermal comfort.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12246.md)
+* [Limited effectiveness of air cleaners/filters](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12583.md)
+* [Limited effectiveness of in-duct uvgi systems due to ventilation system efficiency and fan capacity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12752.md)
+* [Low ventilation rate in office buildings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12776.md)
+* [Poor indoor air quality due to pollutants and contaminants](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12785.md)
+* [Poor thermal conditions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_16723.md)
+* [Potential emission of ozone from bipolar ionization technology](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17577.md)
+* [Presence of turbulent eddies at the window opening](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17589.md)
+* [Recycled air in ventilation and air conditioning systems can contribute to the spread of contagious diseases.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17984.md)
+* [Reduced outdoor air requirement from 560 m3 to 119 m3 per hour may impact indoor air quality and increase risk of indoor air pollution.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17985.md)
+* [Reduction in effectiveness of uvgi with higher ventilation flow rate](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_18005.md)
+* [Risk of high relative humidity and low humidity levels](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_18056.md)
+* [Sars-cov-2 stability at different temperatures and humidity levels](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_18082.md)
+* [Simultaneous heating and cooling limitations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_18083.md)
+* [Transport of exhaled pathogens to other occupants with personalized ventilation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_18084.md)
+* [Use of individual hvac systems with lower ventilation rates](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_18235.md)
+* [Use of uvgi systems as a substitute for hepa filters in isolation rooms](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_18237.md)
+* [Viral aerosols exhibit higher uv susceptibility at higher rh.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_18252.md)
+* [Virus transmission via air circulation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_18701.md)
+
+## This Stakeholder belongs to this Stakeholder Group
+
+* [Workers](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_8.md)
+* [Workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_128.md)
+
+## This Stakeholder belongs to this Stakeholder Subgroup
+
+* [Physical workers](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_35.md)
+
+## Type of the stakeholder
+
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_2.md)
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_1.md)
+

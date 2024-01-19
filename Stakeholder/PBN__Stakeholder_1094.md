@@ -1,0 +1,47 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1094 
+
+# __Outdoor workers__
+
+## Category to which it belongs
+
+* [All individuals engaged in various forms of work, including employees, freelancers, laborers, and professionals.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_244.md)
+
+## Closest similar item
+
+* [Construction workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1733.md)
+* [Environmental workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1720.md)
+* [Field workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1303.md)
+* [Indoor workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_806.md)
+* [Worker in outdoor environment](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_128.md)
+* [Workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1013.md)
+* [Workers in indoor environments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1776.md)
+* [Workers in outdoor environments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1102.md)
+* [Workers in public spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_130.md)
+* [Workers in the built environment](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_197.md)
+
+## Risk affecting this stakeholder
+
+* [Changes in disease distribution](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1830.md)
+* [Increased habitat suitability for vectors](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1656.md)
+* [Increased occurrence of ticks and tick-borne diseases in urban locations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1653.md)
+* [Increased risk of mosquito-borne diseases from bodies of water](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1832.md)
+* [Increased risk of zoonotic tick-borne infections due to climate change-induced increase in tick population and expansion of their habitats.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1829.md)
+* [Mosquito-borne virus transmission through human-mosquito interaction](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15433.md)
+* [Urban heat island effect](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19146.md)
+
+## These stakeholders can be supported by the following general blueprint(s)
+
+* [Implementing Disease Mitigation Strategies: Addressing Wildlife Trade, Vector Control, and Environmental Hygiene](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_21.md)
+
+## This Stakeholder belongs to this Stakeholder Group
+
+* [Workers](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_8.md)
+
+## This Stakeholder belongs to this Stakeholder Subgroup
+
+* [Physical workers](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_35.md)
+
+## Type of the stakeholder
+
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_1.md)
+

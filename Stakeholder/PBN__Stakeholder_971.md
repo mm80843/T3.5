@@ -1,0 +1,51 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_971 
+
+# __Close contacts__
+
+## Category to which it belongs
+
+* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_262.md)
+
+## Closest similar item
+
+* [Close contacts of asymptomatic carriers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_754.md)
+* [Contact person of infected individual](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2124.md)
+* [Contact persons of infected individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1438.md)
+* [Contact tracers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_882.md)
+* [Individual in close contact](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2466.md)
+* [Individual in close proximity](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1047.md)
+* [Individual in close social or work setting](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2305.md)
+* [Individuals in close contact](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1202.md)
+* [Individuals in close proximity](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2255.md)
+* [Individuals in close social or work settings](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_963.md)
+
+## Risk affecting this stakeholder
+
+* [Belief that the threat is highly exaggerated](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_642.md)
+* [Close contact tracing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2115.md)
+* [Handling confirmed covid-19 cases in the workplace](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1502.md)
+* [High concentration of virus-laden aerosols near patients and downstream from patients](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2116.md)
+* [Insufficient outbreak investigation and response](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2117.md)
+* [Isolation and quarantine facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9103.md)
+* [Monitoring of confirmed cases and close contacts](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_11586.md)
+* [Potential spread of contagious diseases due to inadequate monitoring and compliance of self-isolation.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_13737.md)
+* [Spread of sars-cov-2](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_14173.md)
+* [Viral presence in body fluids such as saliva, urine, semen, and tears](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20458.md)
+
+## These stakeholders can be supported by the following general blueprint(s)
+
+* [Implementing Regular Cleaning, WBE and Quarantine Measures for Infectious Diseases Mitigation](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_0.md)
+
+## This Stakeholder belongs to this Stakeholder Group
+
+* [General public](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_2.md)
+* [Residents and occupants of spaces](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_6.md)
+
+## This Stakeholder belongs to this Stakeholder Subgroup
+
+* [General population](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_3.md)
+
+## Type of the stakeholder
+
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_1.md)
+

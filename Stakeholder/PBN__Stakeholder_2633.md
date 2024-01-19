@@ -1,0 +1,35 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2633 
+
+# __Crisis and disaster management__
+
+## Category to which it belongs
+
+* [Ensuring protection and assistance in times of crisis, organizations and individuals safeguard public welfare.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_248.md)
+
+## Closest similar item
+
+* [Crisis management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2625.md)
+* [Crisis management teams](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_245.md)
+* [Disaster management agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_951.md)
+* [Disaster response team](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2628.md)
+* [Disaster response teams](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2634.md)
+* [Emergency management agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2626.md)
+* [Emergency management agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1249.md)
+* [Emergency response agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2635.md)
+* [Emergency response teams](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_469.md)
+* [Emergency services and management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_556.md)
+
+## Stakeholders in this stakeholder subgroup
+
+* [Crisi management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2625.md)
+* [Crisis management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_951.md)
+* [Crisis management teams](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2627.md)
+
+## This Stakeholder belongs to this Stakeholder Group
+
+* [Government institutions](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_1.md)
+
+## This Stakeholder belongs to this Stakeholder Subgroup
+
+* [Emergency services and management](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_9.md)
+

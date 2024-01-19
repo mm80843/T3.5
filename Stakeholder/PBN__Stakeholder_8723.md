@@ -1,0 +1,17 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_8723 
+
+# __Building management and cleaning staff__
+
+## Risks that can be mitigated by this stakeholder
+
+* [Study of bacterial communities in a business complex may reveal potential disease-carrying pathogens.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10731.md)
+* [Surface-to-person transmission via contact with infected surfaces or objects](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20229.md)
+
+## This Stakeholder belongs to this Stakeholder Group
+
+* [Workers](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_8.md)
+
+## This Stakeholder belongs to this Stakeholder Subgroup
+
+* [Facility maintenance team](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_57.md)
+

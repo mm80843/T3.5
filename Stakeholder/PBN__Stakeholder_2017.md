@@ -1,0 +1,31 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2017 
+
+# __Gym__
+
+## Category to which it belongs
+
+* [A diverse range of individuals and groups involved in various fields, research, projects, media, teams, and organizations.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_241.md)
+
+## Closest similar item
+
+* [Activities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_663.md)
+* [Athletes](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1860.md)
+* [Especially individuals who relied on gyms or public spaces for exercise](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_791.md)
+* [Fitne trainer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1141.md)
+* [Fitnes trainer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1644.md)
+* [Fitness and sports](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1217.md)
+* [Fitness industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1892.md)
+* [Fitness trainers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2011.md)
+* [Gyms](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1144.md)
+* [School](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1079.md)
+
+## This Stakeholder belongs to this Stakeholder Group
+
+* [Private sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_57.md)
+* [Retail and service industry](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_13.md)
+
+## This Stakeholder belongs to this Stakeholder Subgroup
+
+* [Fitness and sports](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1860.md)
+* [Local fitness businesses](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_124.md)
+

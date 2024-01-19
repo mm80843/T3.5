@@ -1,0 +1,36 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1394 
+
+# __Government nan agencies__
+
+## Category to which it belongs
+
+* [A diverse collection of organizations responsible for various aspects of governance, health, environment, safety, and communication.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_249.md)
+
+## Closest similar item
+
+* [Agricultural agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1391.md)
+* [Funding agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_55.md)
+* [General nan public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_83.md)
+* [Government agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2372.md)
+* [Government agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1520.md)
+* [Government authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_302.md)
+* [Individuals attending nan events](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1263.md)
+* [Nan iot industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_993.md)
+* [National authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2356.md)
+
+## Risk affecting this stakeholder
+
+* [Data management issues](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2061.md)
+
+## This Stakeholder belongs to this Stakeholder Group
+
+* [Government institutions](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_1.md)
+
+## This Stakeholder belongs to this Stakeholder Subgroup
+
+* [Government departments](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_1.md)
+
+## Type of the stakeholder
+
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_1.md)
+

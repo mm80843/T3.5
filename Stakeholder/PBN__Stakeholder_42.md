@@ -1,0 +1,57 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_42 
+
+# __Surgical trainees__
+
+## Category to which it belongs
+
+* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_262.md)
+
+## Closest similar item
+
+* [Attending surgeons](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_206.md)
+* [Healthcare personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_776.md)
+* [Medical personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1330.md)
+* [Medical staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_777.md)
+* [Surgeons](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1168.md)
+* [Surgical educators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_780.md)
+* [Surgical residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_184.md)
+* [Surgical teams](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_778.md)
+* [Trainees](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_93.md)
+* [Trainees in healthcare](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_185.md)
+
+## Risk affecting this stakeholder
+
+* [Access to videos](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1263.md)
+* [Decreased exposure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1255.md)
+* [Faculty engagement](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1259.md)
+* [Imaging limitation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1264.md)
+* [In-person teaching conferences, morbidity and mortality conferences, and simulation labs are being avoided due to the covid-19 pandemic, leading to a decrease in resident case volume.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1258.md)
+* [Limited operative](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1257.md)
+* [Minimized surgery](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1262.md)
+* [Patient rapport](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1261.md)
+* [Regionalization](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1260.md)
+* [Technology access](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_7008.md)
+* [The american college of surgeons and government institutions recommending against the continuation of elective surgery, with most facilities minimizing participants in any operation to essential personnel only.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_7010.md)
+
+## This Stakeholder belongs to this Stakeholder Group
+
+* [Health organisations](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_7.md)
+
+## This Stakeholder belongs to this Stakeholder Subgroup
+
+* [Medical and healthcare personnel](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_15.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Continued involvement of residents with clinic](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_52.md)
+* [Continuous exposure to practice questions and discussion](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_48.md)
+* [Enhanced learning and discussion opportunities](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_53.md)
+* [Improved knowledge acquisition](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_51.md)
+* [Live video feed and interactive format](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_50.md)
+* [Maintenance of technical skills through deliberate practice](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_49.md)
+
+## Type of the stakeholder
+
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_0.md)
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_1.md)
+

@@ -1,0 +1,155 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_4 
+
+# __Communities__
+
+## Category to which it belongs
+
+* [A collective group, including marginalized and vulnerable, local and global communities, individuals, and communication entities, particularly in underserved areas.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_243.md)
+
+## Closest similar item
+
+* [Community](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_85.md)
+* [Community association](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_313.md)
+* [Community associations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_774.md)
+* [Community groups](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_106.md)
+* [Community groups/organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1312.md)
+* [Community organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2452.md)
+* [Individuals and communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2438.md)
+* [Local communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_637.md)
+* [Local community](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2414.md)
+* [Urban communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2420.md)
+
+## Risk affecting this stakeholder
+
+* [Access to alternative water sources for water consumption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1122.md)
+* [Challenges in creating sustainable and energy-efficient building designs that minimize the negative impact on communities and the environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1873.md)
+* [Challenges in fostering sustainable transformations in the absence of addressing overarching socio-economic structural conditions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1466.md)
+* [Community resistance to vaccination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1336.md)
+* [Complexity in policy-making and implementation at different government levels](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1886.md)
+* [Concerns about psychological and emotional wellbeing of restricted individuals](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2131.md)
+* [Decreased collaboration and social interaction](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_247.md)
+* [Developmental impacts on health, education, gender, economy, politics, and the environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2006.md)
+* [Disruption of health systems and economies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3474.md)
+* [Economic impact of high unemployment and social distancing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3751.md)
+* [Emotional distress and psychiatric illness](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_4193.md)
+* [Environmental impacts from changed behaviors and economic recovery](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_4927.md)
+* [Extensive testing and assessment in indoor and outdoor datasets may overlook specific contagious disease transmission risks in certain environments or communities.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_5291.md)
+* [Failure of top-down approach in achieving desired impact for covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_5312.md)
+* [Failure to address sustainable development goals](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_5314.md)
+* [Failure to consider interactions between distinct pathogens in a common host](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_6127.md)
+* [Failure to detect and mitigate disruptive events](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_6865.md)
+* [Failure to rally support for transformative actions towards addressing threats like climate change](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_7171.md)
+* [Health crisis and covid-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_7172.md)
+* [Heavy focus on pharmacological interventions and limited attention to environmental management at the community level](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_7219.md)
+* [Human behavior and lifestyle affecting the spread of contagious diseases within the built environment.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_7241.md)
+* [Impact of covid-19 crisis](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_7247.md)
+* [Impact of covid-19 pandemic on biodiversity conservation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_7557.md)
+* [Inadequate buffer capacity for change in the system](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_7713.md)
+* [Inadequate governance and leadership](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_7990.md)
+* [Inadequate healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_8073.md)
+* [Inadequate management of health risks, injuries, diseases, disabilities, psychological problems, and deaths in pandemics](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_8093.md)
+* [Inadequate messaging about the impact of covid-19 on conservation efforts](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_8094.md)
+* [Inadequate social adaptive capacity to respond to disturbances](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9196.md)
+* [Increasing disease diffusion at small scales due to reliance on mobility restrictions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9301.md)
+* [Ineffective use of existing pca resources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9565.md)
+* [Information asymmetry in pandemic situations can hinder effective communication and response](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9595.md)
+* [Insufficient adoption of face mask use](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9603.md)
+* [Insufficient consideration of the impact of digital methodologies on public health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9669.md)
+* [Insufficient social adaptive capacity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10055.md)
+* [Lack of adherence to spatial distancing or isolation measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10142.md)
+* [Lack of clarity on roles and responsibilities for pandemic response](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10275.md)
+* [Lack of clear long-term vision affecting the continuity of conservation action and messaging post-pandemic.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10847.md)
+* [Lack of clear regulations for protecting urban green spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_11116.md)
+* [Lack of control of covid-19 in informal settlements](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_11392.md)
+* [Lack of educational programs due to closure of formal education systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_11650.md)
+* [Lack of engagement and interaction between design professionals, communities, and stakeholders in implementing regenerative practices](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_11666.md)
+* [Lack of financial resources for community consolidation and access to information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_11675.md)
+* [Lack of governance leading to severe socio-environmental problems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12879.md)
+* [Lack of quick and early detection of the disease](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_13235.md)
+* [Lack of robust testing for innovative technologies and solutions may lead to deployment of unproven or flawed systems, increasing the risk of technological failures and negative impact on public health and safety.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_13350.md)
+* [Lack of tangible resource allocation models for resilience planning](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_13362.md)
+* [Late adoption of nphis leading to icu saturation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_13367.md)
+* [Limited capability for long-term maintenance of strict hygiene and barrier routines](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_13383.md)
+* [Loss of income from tourism impacting biodiversity and increasing reliance on natural resources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_13623.md)
+* [Low descriptive social norms for compliance with covid-19 measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_13624.md)
+* [Low perception of social support leading to increased likelihood of developing psychological distress and psychiatric conditions.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_13924.md)
+* [Misinformation and discrimination in data activism](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_14023.md)
+* [Misinformation and job precarity leading to challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_14133.md)
+* [Need to re-imagine water systems and infrastructure to address climate change and potential outbreaks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_14197.md)
+* [Negative impact on psychological wellbeing due to reduced social interaction](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_14366.md)
+* [Neglecting the impact of buildings on climate change, resources, and ecosystems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_14532.md)
+* [Rapid transformation of the built environment to support mitigation and adaptation strategies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_14764.md)
+* [Reduced visibility of tobacco and vaping products may increase the likelihood of teenagers seeking out these products through other means, contributing to the spread of addiction and related health issues.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15037.md)
+* [Resemblance of electricity usage curve to that of coronavirus quarantines in u.s. and europe](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15239.md)
+* [Resistance to wearing masks due to misinformation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15240.md)
+* [Risks of inadequate solutions leading to ongoing covid-19 transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15538.md)
+* [Selective approach to vector control](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15793.md)
+* [Significant upheavals in residents’ daily lives and mood due to the covid-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_16197.md)
+* [Social interaction and engagement](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_16331.md)
+* [Socio-cultural considerations and operational challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_16909.md)
+* [Spatial planning considerations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_16910.md)
+* [The reliance on technological advancements may lead to the neglect of basic public health measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17356.md)
+* [Transmission of contagious diseases in an interconnected world.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17369.md)
+* [Transmission of diseases through various sources circulation, respiration/air, human/animal body, water, clothing, surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_18051.md)
+* [Transmission of sars-cov-2 through respiratory droplets and contaminated surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_18052.md)
+* [Uncertainty regarding the lasting impact of the pandemic on social and political practices, including telework, travel, and mobility.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_18458.md)
+* [Undervaluation of greenspace as a resource for health may lead to underinvestment and underutilization of natural environments for promoting public health.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_18587.md)
+* [Unprecedented changes in the ways we inhabit the earth within a decade](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_18656.md)
+* [Unpredictable changes in trajectory due to social trauma of lockdown and behavioral changes](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_18993.md)
+* [Use of pcr to test for covid-19 may overestimate the incidence or intensity of existing infections due to rna fragments from virus remnants](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19999.md)
+* [Use of semi-quantitative indices to assess resilience may lead to oversimplification of complex systems and miss important factors.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20490.md)
+* [Use of the term ’social murder’ and structural ’violence turn’ in housing studies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20519.md)
+* [Vaccine hesitancy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20520.md)
+* [Vulnerability to zoonotic disease emergence](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20734.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Distress, frustration, and loneliness due to confinement and loss of social/physical contact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1873.md)
+* [Emotional distress and psychiatric illness](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1016.md)
+* [Food insecurity and poor-quality diets](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_777.md)
+* [High levels of co2 emissions due to reduced impact of lockdown measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10062.md)
+* [Impact of covid-19 pandemic on biodiversity conservation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10142.md)
+* [Lack of control of covid-19 in informal settlements](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_11675.md)
+* [Mental health problems overlooked due to social isolation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_13350.md)
+* [Socio-cultural considerations and operational challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_14776.md)
+* [Zoonotic infections](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19578.md)
+
+## These stakeholders can be supported by the following general blueprint(s)
+
+* [Implementing Infectious Disease Control Measures within Sustainable Urban Developments](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_22.md)
+
+## This Stakeholder belongs to this Stakeholder Group
+
+* [Residents and occupants of spaces](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_6.md)
+
+## This Stakeholder belongs to this Stakeholder Subgroup
+
+* [Building managers](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_13.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Achieve sustainable development goals sdgs](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_5.md)
+* [Clean water and sanitation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_878.md)
+* [Early detection of covid-19](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_806.md)
+* [Early detection of virus spreading in communities](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_425.md)
+* [Early warning system](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_879.md)
+* [Enhanced access to healthcare for all](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_880.md)
+* [Enhanced resilience](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_145.md)
+* [High-quality green space](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_220.md)
+* [Identification of immunized patients](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1061.md)
+* [Improved access to clean water and sanitation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_699.md)
+* [Improved food availability and quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_58.md)
+* [Improved public health literacy](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_24.md)
+* [More accurate estimation of covid-19 cases](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1026.md)
+* [Protection of privacy and vulnerable groups](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_190.md)
+* [Reduced spread of misinformation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1032.md)
+* [Reduction in disease transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_27.md)
+* [Social and lifestyle benefits](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1064.md)
+* [Social cohesion and network formation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_601.md)
+
+## Type of the stakeholder
+
+* [At risk](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_0.md)
+* [Beneficiary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_2.md)
+* [Risk owner](https://github.com/mm80843/T3.5/blob/pages/Stakeholder_Type/PBN__Stakeholder_Type_1.md)
+

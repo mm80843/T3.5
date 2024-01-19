@@ -1,0 +1,37 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2013 
+
+# __Real estate agencies__
+
+## Category to which it belongs
+
+* [Entities involved in the buying, selling, development, and management of property and housing.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_257.md)
+
+## Closest similar item
+
+* [Government housing agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1934.md)
+* [Housing agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_284.md)
+* [Housing agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_587.md)
+* [Housing authorities/agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_384.md)
+* [Real estate](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1216.md)
+* [Real estate agency](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1950.md)
+* [Real estate agents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_608.md)
+* [Real estate industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1862.md)
+* [Real estate owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1928.md)
+* [Real estate sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2072.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [The real estate industry was severely affected by the covid-19 pandemic in both the residential and commercial sectors.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20592.md)
+
+## This Stakeholder belongs to this Stakeholder Group
+
+* [Financial groups](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_57.md)
+* [Housing and property](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_5.md)
+* [Private sector](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2502.md)
+
+## This Stakeholder belongs to this Stakeholder Subgroup
+
+* [Agencies/providers/associations](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_12.md)
+* [Companies in general](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1684.md)
+* [Real estate and construction](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1885.md)
+

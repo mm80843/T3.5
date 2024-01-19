@@ -1,0 +1,20 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_6613 
+
+# __And environmental stakeholders__
+
+## Risk affecting this stakeholder
+
+* [Climate crises, biodiversity loss, air pollution, and other sustainable challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10385.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Lack of policies addressing the interrelation between biodiversity conservation, food security, and pandemic prevention](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_7972.md)
+
+## This Stakeholder belongs to this Stakeholder Group
+
+* [Environmental and sustainability organizations](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_3.md)
+
+## This Stakeholder belongs to this Stakeholder Subgroup
+
+* [Environmental agencies](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_4.md)
+

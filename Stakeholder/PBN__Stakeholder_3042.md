@@ -1,0 +1,70 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_3042 
+
+# __Occupants of the built environment__
+
+## Risk affecting this stakeholder
+
+* [Accumulation of answers at a single point of space may lead to localized outbreaks of contagious diseases.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_153.md)
+* [Accumulation of pathogenic particles on ioniser and surrounding surfaces due to negative air ionisation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3773.md)
+* [Adverse health effects of uvgi on humans](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3774.md)
+* [Calculation of floating virus particles in the room](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_4438.md)
+* [Cationic polymer coatings did not speed inactivation of sars-cov-2](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_5121.md)
+* [Changes in chamber air temperature](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_5122.md)
+* [Contagious diseases propagation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_5123.md)
+* [Decreasing efficiency of uv-c system due to lamp degradation, air temperature, dust pollution, and reflective surface degradation.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_5509.md)
+* [Dependence of air supply diffuser performance on user position, angle, clothing insulation, and ambient air temperature.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_5706.md)
+* [Draught felt by people at high air flow rates from personalized air supply nozzles.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_5707.md)
+* [Elevated levels of resuspended particles in the room and within the convection flow](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_5708.md)
+* [Evaluation of solutions based on cost functions may not account for contagious disease propagation risk.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_5721.md)
+* [Frequent use of electric appliances leads to increased internal heat gain, potentially contributing to the spread of contagious diseases.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_5722.md)
+* [High room relative humidity above 75%](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_5723.md)
+* [Humidification of air using water vapor may create an environment conducive to the growth and spread of airborne pathogens.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_5733.md)
+* [Inadequate air quality standards and monitoring](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_5734.md)
+* [Inadequate airflow circulation in the closed environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_6877.md)
+* [Inadequate disinfection of the air and surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_7649.md)
+* [Inadequate room air mixing and uneven distribution of uv radiation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_8371.md)
+* [Inadequate ventilation in the toilets may lead to poor indoor air quality and increased risk of disease transmission.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_8372.md)
+* [Inadequate ventilation leading to poor indoor air quality and accumulation of airborne pathogens.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9155.md)
+* [Inadequate ventilation rates may lead to increased prevalence of respiratory diseases.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9848.md)
+* [Increased relative humidity in the chamber air](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9849.md)
+* [Ineffective air disinfection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9850.md)
+* [Ineffectiveness of the wet film in removing formaldehyde from the air due to improper water content](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9977.md)
+* [Inefficient removal of formaldehyde and toluene due to incorrect bed water content levels](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10311.md)
+* [Insufficient air filtration technology contributing to indoor air pollution.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10489.md)
+* [Insulation harboring microbiological growths due to lack of maintenance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12127.md)
+* [Integration of ’nature’ in architecture may not effectively mitigate contagious disease propagation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12128.md)
+* [Lack of antibacterial and antiviral materials](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12146.md)
+* [Lack of consideration for mental health in the built environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12148.md)
+* [Lack of hygiene maintenance in the built environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12164.md)
+* [Long-term operation of uv-c system without proper maintenance and regulation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12166.md)
+* [Maximum clean air provided by the dbaf](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12229.md)
+* [Mechanical cooling of supply air to lower high temperatures may not effectively control the spread of contagious diseases in the built environment.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12230.md)
+* [Multiple window opening experiments showing increased air change rates](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12249.md)
+* [Occupants habitually leaving lights on in unoccupied rooms may lead to poor ventilation and air quality, increasing the risk of disease transmission.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12252.md)
+* [Optimal arrangement of chairs and tables may not allow for sufficient social distance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12753.md)
+* [Potential for contagion in close spatial arrangements](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12754.md)
+* [Potential spread of contagious diseases in the built environment due to inadequate space utilization strategies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12792.md)
+* [Potential spread of contagious diseases in the built environment due to lack of analysis of the impact of external micro-and macro environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_13193.md)
+* [Pressure differentials between zones not maintained as per guidelines, leading to potential cross-contamination of air](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_13194.md)
+* [Propagation of sars-cov-2 aerosols in the built environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15334.md)
+* [Psychological impact of risk perception](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15336.md)
+* [Rapid clearing out ’whoosh’ effect of tracer gas after window opening](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15338.md)
+* [Resuspended particles brought into the breathing zone of the occupants](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15792.md)
+* [Resuspended particles of respiratory origin calculated for specific settling velocities and dry density of nonvolatile species in saliva](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17566.md)
+* [Risk of recapture, drafts, and noise](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17720.md)
+* [Risk of short-range transmission of small droplets](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17722.md)
+* [Slow decay of emission rate of formaldehyde and toluene](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17999.md)
+* [Statistical analysis of spatio-temporal data from people movements can reveal high-risk zones for contagious disease spread.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_18010.md)
+* [Suspension of aerosols up to 10 μm in diameter indoors](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_18011.md)
+* [Tracer gas concentrations decayed to below detection limits within a short time after window opening](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_18088.md)
+* [Use of copper-coated surfaces for mitigating sars-cov-2 propagation.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19412.md)
+* [Use of various sources for heat and cold production may increase the risk of cross-contamination and the spread of contagious diseases.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20649.md)
+
+## This Stakeholder belongs to this Stakeholder Group
+
+* [Residents and occupants of spaces](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_6.md)
+
+## This Stakeholder belongs to this Stakeholder Subgroup
+
+* [Occupants of shared household spaces](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_33.md)
+
