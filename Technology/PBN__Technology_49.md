@@ -1,0 +1,70 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_49 
+
+# __Urban planning strategies__
+
+## Category to which it belongs
+
+* [Strategies and techniques for organizing and developing cities, including infrastructure, green spaces, and equitable policies.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_160.md)
+
+## Closest similar item
+
+* [Improved urban planning strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_920.md)
+* [Urban planners](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2271.md)
+* [Urban planning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_657.md)
+* [Urban planning and architectural strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2373.md)
+* [Urban planning and city management technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1176.md)
+* [Urban planning and design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_294.md)
+* [Urban planning and design strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1104.md)
+* [Urban planning and design techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1839.md)
+* [Urban planning guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_377.md)
+* [Urban planning tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_595.md)
+
+## Risks linked to this technology
+
+* [Health inequalities resulting from urban design](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1208.md)
+* [Increase in outdoor noise complaints on social media](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2360.md)
+* [Increased urban densification and obstructed views](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1670.md)
+* [Inequitable distribution of green space](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1078.md)
+* [Lack of access to green space](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2004.md)
+* [Lack of access to outdoor space](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1040.md)
+* [Lack of multi-sectoral collaboration in designing healthier cities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_495.md)
+* [Lack of outdoor spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1041.md)
+* [Loss of urban biodiversity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1373.md)
+* [Population density](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_367.md)
+* [Potential increase in health inequalities due to severe restrictions to mobility and park use during the covid-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12493.md)
+* [Reduction of environmental noise level](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15233.md)
+* [Urban density](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_16568.md)
+* [Urban heat islands uhis](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19328.md)
+* [Wildlife ’reclaiming’ urban space, potentially bringing human and animal interaction that increases the risk of zoonotic diseases spreading to urban populations.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19511.md)
+
+## This Technology belongs to this TechGroup
+
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_1.md)
+* [Urban planning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2100.md)
+* [Urban technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2164.md)
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2270.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Green spaces and urban design](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_17.md)
+* [Infrastructure and urban planning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2131.md)
+* [Urban planning and green spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2128.md)
+* [Urban planning solutions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2127.md)
+
+## This technology is mentioned by
+
+* [COVID-19 Higher Mortality in Chinese Regions With Chronic Exposure to Lower Air Quality](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_612.md)
+* [COVID-19 Lockdown: Housing Built Environment’s Effects on Mental Health](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_673.md)
+* [Challenges to Mitigating the Urban Health Burden of Mosquito-Borne Diseases in the Face of Climate Change](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_582.md)
+* [Coronavirus questions that will not go away: interrogating urban and socio-spatial implications of COVID-19 measures](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_42.md)
+* [Green infrastructure through the lens of “One Health”: A systematic review and integrative framework uncovering synergies and trade-offs between mental health and wildlife support in cities](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_238.md)
+* [Indirect effects of COVID-19 on the environment](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_254.md)
+* [Lee_attitudes_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_670.md)
+* [Ligsay_challenges_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_95.md)
+* [Peters_how_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_262.md)
+* [Sainz-santamaria_governance_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_184.md)
+* [The role of green roofs in post COVID-19 confinement: An analysis of willingness to pay](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_529.md)
+* [Understanding the role of urban design in disease spreading](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_150.md)
+* [Urban form: Realising the value of green space: a planners’ perspective on the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_41.md)
+* [Van_barneveld_covid-19_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_69.md)
+

@@ -1,0 +1,42 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_701 
+
+# __Natural ventilation design__
+
+## Category to which it belongs
+
+* [Improving air circulation through a variety of methods, including advanced systems, regular maintenance, and natural strategies.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_165.md)
+
+## Closest similar item
+
+* [Building design and ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_270.md)
+* [Building design strategies focused on ventilation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1012.md)
+* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1010.md)
+* [Improved ventilation technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2263.md)
+* [Mechanical and natural ventilation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3208.md)
+* [Natural or mechanical ventilation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3442.md)
+* [Natural ventilation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3757.md)
+* [Natural ventilation strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_249.md)
+* [Natural ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1115.md)
+* [Natural/forced ventilation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_797.md)
+
+## Risks linked to this technology
+
+* [Inadequate ventilation in buildings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1431.md)
+* [Lack of emphasis on natural ventilation for residents’ health and safety](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_8264.md)
+* [Lack of ventilation and airflow in residential spaces leading to increased risk of disease transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_13223.md)
+
+## This Technology belongs to this TechGroup
+
+* [Air control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2164.md)
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_12.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Ventilation](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_20.md)
+
+## This technology is mentioned by
+
+* [Elrayies_prophylactic_2022](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_462.md)
+* [Respiratory pandemics, urban planning and design: A multidisciplinary rapid review of the literature](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_542.md)
+* [Tleuken_readiness_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_133.md)
+

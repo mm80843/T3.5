@@ -1,0 +1,41 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_360 
+
+# __Data recording systems__
+
+## Category to which it belongs
+
+* [Efficiently collect, analyze, and share anonymized data using a variety of tools, platforms, and systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_176.md)
+
+## Closest similar item
+
+* [Data capture infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2205.md)
+* [Data collection technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_518.md)
+* [Data management and recording systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2925.md)
+* [Data management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_40.md)
+* [Data storage and backup systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_512.md)
+* [Data transmission systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_513.md)
+* [Digital data collection systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_758.md)
+* [Digital reporting systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1247.md)
+* [Electronic health record systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2195.md)
+* [Standardized data recording structures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2559.md)
+
+## Risks linked to this technology
+
+* [Checkpoint allocation for monitory and recording opportunities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_265.md)
+* [Lack of standardised measurement protocols for ieq](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_16804.md)
+
+## This Technology belongs to this TechGroup
+
+* [Data analytics](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_6.md)
+* [Surveillance systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_0.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Data management and recording systems](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_57.md)
+* [Real-time data tracking and monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2205.md)
+
+## This technology is mentioned by
+
+* [10 Adaptive Measures for Public Places to face the COVID 19 Pandemic Outbreak](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_63.md)
+* [Parkinson_continuous_2019](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_615.md)
+

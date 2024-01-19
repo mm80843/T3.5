@@ -1,0 +1,44 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_1959 
+
+# __Clinical trials__
+
+## Category to which it belongs
+
+* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_169.md)
+
+## Closest similar item
+
+* [Clinical assessment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2697.md)
+* [Clinical testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2823.md)
+* [Clinical trial data](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2709.md)
+* [Drug development and testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1863.md)
+* [Improved evaluation and selection criteria for meta-analyses](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1927.md)
+* [Including confirmation with clinical testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3331.md)
+* [Pragmatic trial design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1960.md)
+* [Research on potential therapeutic options](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1814.md)
+* [Research studies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1358.md)
+* [Suitable treatment and](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2826.md)
+
+## Risks linked to this technology
+
+* [Development of drugs](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_430.md)
+* [Expectations for vaccine](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_431.md)
+* [Limited research on drug efficacy, safety, and antibody response](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3435.md)
+* [Prediction of risk of infection, severe symptoms, and treatment outcomes using ai](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_6672.md)
+* [Wearable devices and unobtrusive sensing technologies may not accurately monitor early symptoms of covid-19 or common health conditions, leading to misdiagnosis or delayed treatment.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_6758.md)
+
+## This Technology belongs to this TechGroup
+
+* [Healthcare](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_2.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Remote healthcare and telemedicine](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_42.md)
+
+## This technology is mentioned by
+
+* [Abideen_mitigation_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_430.md)
+* [Chamola_comprehensive_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_376.md)
+* [Channa_rise_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_118.md)
+* [Current knowledge of COVID-19: Advances, challenges and future perspectives](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_432.md)
+

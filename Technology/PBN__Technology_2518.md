@@ -1,0 +1,33 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_2518 
+
+# __Procedures__
+
+## Category to which it belongs
+
+* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_169.md)
+
+## Closest similar item
+
+* [Changes in work procedures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2737.md)
+* [Inspections](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2679.md)
+* [Rapid testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3480.md)
+* [Sanitization procedures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2726.md)
+* [Standard operating procedures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1416.md)
+* [Standardized approaches](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1385.md)
+* [Sterilization procedures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2256.md)
+* [Surgical techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_84.md)
+* [Technologies and techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2764.md)
+* [Verification processes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2315.md)
+
+## This Technology belongs to this TechGroup
+
+* [Healthcare](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_2.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Remote healthcare and telemedicine](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_42.md)
+
+## This Technology enables the following mitigations
+
+* [Compliance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3368.md)
+

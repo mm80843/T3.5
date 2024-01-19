@@ -1,0 +1,16 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_5603 
+
+# __And crowd analytics for public transportation__
+
+## Risks linked to this technology
+
+* [Sharp decrease in transportation revenues and decline in gas tax receipts.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_4610.md)
+
+## This Technology belongs to this TechGroup
+
+* [Sensors and monitoring](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_8.md)
+
+## This technology is mentioned by
+
+* [Assaad_guidelines_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_399.md)
+

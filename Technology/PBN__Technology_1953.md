@@ -1,0 +1,39 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_1953 
+
+# __Research on tissue tropism and pathogenesis__
+
+## Category to which it belongs
+
+* [Cutting-edge techniques, strategies, and technologies for pathogen detection, vaccine development, and global disease surveillance.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_195.md)
+
+## Closest similar item
+
+* [Biological methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2964.md)
+* [Biomedical literature](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2545.md)
+* [Corticosteroids](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3295.md)
+* [Human host cells](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2331.md)
+* [Immunoassays](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2672.md)
+* [Microorganisms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3764.md)
+* [Plant roots](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1888.md)
+* [Rodenticides](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3762.md)
+* [Tissues](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3071.md)
+* [Vaccines and therapies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2148.md)
+
+## Risks linked to this technology
+
+* [Tissue tropism and pathogenesis of sars-cov-2](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2334.md)
+
+## This Technology belongs to this TechGroup
+
+* [Biology techs](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_2.md)
+* [Healthcare](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2274.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Research and data analysis](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_66.md)
+* [Vaccination development and distribution](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2275.md)
+
+## This technology is mentioned by
+
+* [Current knowledge of COVID-19: Advances, challenges and future perspectives](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_118.md)
+

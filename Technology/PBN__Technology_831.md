@@ -1,0 +1,54 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_831 
+
+# __Barriers__
+
+## Category to which it belongs
+
+* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_166.md)
+
+## Closest similar item
+
+* [Barriers such as plexiglass](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_341.md)
+* [Noise barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_229.md)
+* [Partition barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1878.md)
+* [Physical barrier installations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1654.md)
+* [Physical barrier materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2678.md)
+* [Physical barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3572.md)
+* [Physical barriers and signage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_960.md)
+* [Plastic barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2189.md)
+* [Protective barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_798.md)
+* [Safety barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3472.md)
+
+## Risks linked to this technology
+
+* [Close contact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1526.md)
+* [Close contact settings increase the risk of covid-19 transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2473.md)
+* [Lack of physical separation in workspace](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_4442.md)
+* [Respiratory viruses strain health services](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_8350.md)
+
+## This Technology belongs to this TechGroup
+
+* [Building design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_231.md)
+* [Enforcement measures](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_4.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Building design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2189.md)
+* [Physical barriers and signage](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_3.md)
+
+## This Technology enables the following mitigations
+
+* [Implementing physical distancing procedures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1062.md)
+* [Restricting access to public parks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5018.md)
+
+## This technology is mentioned by
+
+* [Ara_dilshad_shangi_adaptive_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_396.md)
+* [Azuma_environmental_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_406.md)
+* [Elsaid_critical_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_463.md)
+* [Physical interventions to interrupt or reduce the spread of respiratory viruses: systematic review](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_22.md)
+
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Disease Containment Approaches](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_27.md)
+

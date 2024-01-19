@@ -1,0 +1,41 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_3664 
+
+# __Furniture__
+
+## Category to which it belongs
+
+* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_169.md)
+
+## Closest similar item
+
+* [Adjustable furniture](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_145.md)
+* [Ergonomic chairs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1003.md)
+* [Ergonomic furniture](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1395.md)
+* [Ergonomic office furniture](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2428.md)
+* [Flexible furniture](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2644.md)
+* [Modular furniture](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_127.md)
+* [Outdoor furniture](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_496.md)
+* [Rearrangement of furniture](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3574.md)
+* [Rooms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3391.md)
+* [Standing desks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1397.md)
+
+## Risks linked to this technology
+
+* [Lack of flexibility in residential space design](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_5660.md)
+
+## This Technology belongs to this TechGroup
+
+* [Building design](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_4.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Home design and architecture](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_15.md)
+
+## This Technology enables the following mitigations
+
+* [Comfortable and isolated workplaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4988.md)
+
+## This technology is mentioned by
+
+* [Bojovic_towards_2022](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_416.md)
+

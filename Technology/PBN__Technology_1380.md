@@ -1,0 +1,116 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_1380 
+
+# __Anonymization techniques__
+
+## Category to which it belongs
+
+* [Data protection measures, privacy regulations, encryption and authentication techniques, and standardized protocols ensure secure and anonymous communication.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_168.md)
+
+## Closest similar item
+
+* [Anonymity](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_820.md)
+* [Anonymous data collection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2196.md)
+* [Data anonymization](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2194.md)
+* [Data anonymization and protection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_98.md)
+* [Data privacy](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2191.md)
+* [Privacy and anonymity techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1577.md)
+* [Privacy policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1933.md)
+* [Privacy regulations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1934.md)
+* [Privacy-by-design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1587.md)
+* [Privacy-enhancing technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1592.md)
+
+## Risks linked to this technology
+
+* [Anonymized records of call and text message data were provided, but still contain potential identifying information.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1362.md)
+* [Automated contact tracing applications aggregating sensitive location data without user consent](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2048.md)
+* [Collection of personal data through face scanners and iot devices raises privacy concerns and potential misuse of data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3627.md)
+* [Comparison of routes with dangerous points](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_6343.md)
+* [Confinement measures and tracking of covid-19 patients using gps and other tools](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_6396.md)
+* [Dependence on mass video surveillance for monitoring social distancing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_6611.md)
+* [Deployment of mobile applications for covid-19 risk detection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_6760.md)
+* [Detailed personal location data could be misused for tracking individuals without their consent, leading to privacy violations.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_8491.md)
+* [Exposure to endogenous biomarkers may reveal information about community health status and disease prevalence](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_8661.md)
+* [Facial recognition technology used to track individuals infected with covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9541.md)
+* [Insufficient consideration of data privacy and confidentiality in new data collection methods](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_11767.md)
+* [Interactive maps showing infected people’s locations may lead to stigmatization and discrimination.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_11835.md)
+* [Lack of privacy in data tracking and monitoring](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12598.md)
+* [Lack of privacy protection for individuals’ purchasing and movement data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12609.md)
+* [Large-scale population surveillance may lead to privacy concerns and data misuse.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12952.md)
+* [Mass surveillance from covid-19 apps](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_13497.md)
+* [Monitoring devices that track contact with infected people may raise privacy concerns and result in user resistance.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_13606.md)
+* [Monitoring of covid-19 patients using gps and bluetooth technology in smartphones](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_13977.md)
+* [Non-compliance with data protection laws and ethical standards](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_14131.md)
+* [Potential for digitalisation to compromise personal data privacy in water utilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_14171.md)
+* [Potential misuse of ai-based social distancing monitoring for privacy invasion](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_14281.md)
+* [Privacy and data security](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_14415.md)
+* [Privacy and surveillance concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_14723.md)
+* [Privacy concerns and ethical implications of using big data and location tracking](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_14989.md)
+* [Privacy concerns related to contact tracing applications and data exchange](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15216.md)
+* [Reliance on big data analytics for real-time contact tracing can result in privacy breaches and data security risks.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15783.md)
+* [Remote collection of covid-19 pandemic data using blockchain records could pose privacy risks.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15795.md)
+* [Sharing data from public transport and shopping malls may increase the risk of spreading contagious diseases if the data is not managed properly.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15908.md)
+* [Sharing of highly sensitive health data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15922.md)
+* [The system relies on facial image data, potentially raising privacy concerns for individuals whose images are used for training and detection.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15981.md)
+* [Tracking of home-quarantined individuals using gps and mobile phones](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_16067.md)
+* [Use of ai tools for monitoring social distancing compliance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_16196.md)
+* [Use of autonomous robots in the interconnected iomt infrastructure may lead to bias and breach of privacy in collecting samples from infected patients.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17530.md)
+* [Use of big data and ai for tracking people and infection spread](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17825.md)
+* [Use of drones for surveillance and crowd monitoring](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_18136.md)
+* [Use of facial recognition and big data for monitoring citizens raises privacy and surveillance concerns.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_18144.md)
+* [Use of gps data for monitoring infected individuals may raise privacy concerns and potential misuse of personal data.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_18157.md)
+* [Use of gps technology to monitor and record interaction frequency between infected and non-infected persons.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_18177.md)
+* [Use of location and proximity data for contact tracing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_18195.md)
+* [Use of mobile device location data for data collection may raise privacy concerns.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_18476.md)
+* [Use of mobile phone data for disease propagation estimation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_18486.md)
+* [Use of smartphones for monitoring urban agglomerations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_18489.md)
+* [Use of wastewater ’analysis’ for monitoring covid-19 incidence](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_18590.md)
+* [Wearable devices used for maintaining social distancing and contact tracing may raise concerns about data privacy and surveillance.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_18636.md)
+
+## This Technology belongs to this TechGroup
+
+* [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_0.md)
+* [Data privacy](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2241.md)
+* [Privacy enhancing technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2191.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Data anonymization and protection](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_52.md)
+* [Data encryption and security](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2196.md)
+* [Privacy and anonymity techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2194.md)
+
+## This technology is mentioned by
+
+* [Ahmad_overview_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_428.md)
+* [Cantarero_covid19-routes_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_593.md)
+* [Chamola_comprehensive_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_582.md)
+* [Channa_rise_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_486.md)
+* [Fariniuk_smart_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_430.md)
+* [Fell_validity_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_538.md)
+* [Honey-roses_impact_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_559.md)
+* [Matheri_water_2023](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_579.md)
+* [Mbunge_critical_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_633.md)
+* [Mehta_pandemic_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_647.md)
+* [Mehtab_alam_role_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_531.md)
+* [Mobile Technology Solution for COVID-19: Surveillance and Prevention](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_515.md)
+* [Mufid_risk_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_562.md)
+* [Nghiem_covid-19_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_563.md)
+* [Poch_when_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_569.md)
+* [Rahman_automated_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_573.md)
+* [Raza_mobile_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_655.md)
+* [Rezaei_deepsocial_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_117.md)
+* [Sainz-santamaria_governance_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_566.md)
+* [Saman_recently_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_606.md)
+* [Sharifi_contributions_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_432.md)
+* [Shorfuzzaman_towards_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_513.md)
+* [Sims_future_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_596.md)
+* [Siriwardhana_role_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_653.md)
+* [Soderstrom_three_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_382.md)
+* [Spano_association_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_548.md)
+* [Tacconelli_challenges_2022](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_550.md)
+* [Tatem_integrating_2014](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_640.md)
+* [Towards the sustainable development of smart cities through mass video surveillance: A response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_600.md)
+* [Tricarico_proximity_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_646.md)
+* [Umair_impact_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_239.md)
+* [Webb_smart_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_468.md)
+* [Whitelaw_applications_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_465.md)
+

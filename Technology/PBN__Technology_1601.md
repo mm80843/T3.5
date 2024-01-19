@@ -1,0 +1,53 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_1601 
+
+# __Thermal scanners__
+
+## Category to which it belongs
+
+* [Detection and regulation of heat, from thermal cameras and sensors to smart thermostats and temperature control devices.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_194.md)
+
+## Closest similar item
+
+* [Body temperature scanners](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2208.md)
+* [Infrared thermal imaging cameras](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_359.md)
+* [Temperature scanners](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_137.md)
+* [Temperature screening devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3602.md)
+* [Thermal and temperature scanners](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3381.md)
+* [Thermal camera](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2362.md)
+* [Thermal cameras](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2859.md)
+* [Thermal imaging technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3854.md)
+* [Thermal screening systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1459.md)
+* [Thermal sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1500.md)
+
+## Risks linked to this technology
+
+* [Circulation of contagious diseases due to large public events](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2084.md)
+* [Delayed arrival of covid-19 in other cities due to travel ban](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3476.md)
+* [Frequent movement of people across the globe](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_4674.md)
+* [High population flow from hubei province](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_7780.md)
+* [Movement of individuals between urban and rural areas](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_13316.md)
+* [Potential exposure to coronavirus on construction sites due to close proximity of workers](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_13494.md)
+* [Spread of covid-19 in crowded occupational environments](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17473.md)
+* [Transmission through person-to-person contact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19301.md)
+
+## This Technology belongs to this TechGroup
+
+* [Healthcare](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_2.md)
+* [Surveillance systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_0.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Diagnostic testing](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_7.md)
+* [Thermal and temperature scanners](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2208.md)
+
+## This technology is mentioned by
+
+* [Ads_overview_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_399.md)
+* [Assaad_guidelines_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_669.md)
+* [Contextualizing the Covid-19 pandemic for a carbon-constrained world: Insights for sustainability transitions, energy justice, and research methodology](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_452.md)
+* [Dehghani_hierarchy_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_378.md)
+* [Li_association_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_123.md)
+* [Nicola_socio-economic_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_548.md)
+* [Tatem_integrating_2014](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_544.md)
+* [Tian_investigation_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_632.md)
+

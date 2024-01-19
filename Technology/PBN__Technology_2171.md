@@ -1,0 +1,45 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_2171 
+
+# __Sanitation and waste management__
+
+## Category to which it belongs
+
+* [Effective water management encompasses wastewater testing, waste management, rainwater storage, wastewater treatment technology, smart water consumption, and improved infrastructure.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_181.md)
+
+## Closest similar item
+
+* [Proper sanitation practices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2360.md)
+* [Sanitation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1216.md)
+* [Sanitation and hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2222.md)
+* [Sanitation facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_246.md)
+* [Sanitation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3626.md)
+* [Waste management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2190.md)
+* [Waste management measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2186.md)
+* [Waste management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_624.md)
+* [Waste management technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2894.md)
+* [Water and waste management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_865.md)
+
+## This Technology belongs to this TechGroup
+
+* [Waste management](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_13.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Recycling and waste handling technologies](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_67.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [Enhanced cleaning and sanitization technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_702.md)
+* [Improved negative ionizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_246.md)
+* [Improved sanitation infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_567.md)
+* [Mixing fans](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_664.md)
+* [Promotion of recyclable materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1753.md)
+* [Safe management of medical waste](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_998.md)
+* [Sanitation infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1625.md)
+* [Sanitation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1756.md)
+* [Separate pipes for greywater](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1754.md)
+* [Separate toilets in every apartment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_568.md)
+* [Separate wastewater system in infected areas](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_735.md)
+* [Uv-c disinfection technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1767.md)
+* [Water treatment facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1765.md)
+

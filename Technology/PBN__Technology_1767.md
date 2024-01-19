@@ -1,0 +1,39 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_1767 
+
+# __Promotion of recyclable materials__
+
+## Category to which it belongs
+
+* [Innovative, green, and biodegradable materials used in construction, soundproofing, insulation, and education promote sustainability and safety.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_175.md)
+
+## Closest similar item
+
+* [Better materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3883.md)
+* [Eco-friendly materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3663.md)
+* [Green and biodegradable materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2012.md)
+* [Green sustainable materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2001.md)
+* [Natural materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3004.md)
+* [Recycled materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3440.md)
+* [Recycling](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2227.md)
+* [Recycling infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3390.md)
+* [Recycling programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3850.md)
+* [Sustainable materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2014.md)
+
+## Risks linked to this technology
+
+* [Wm3](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2190.md)
+
+## This Technology belongs to this TechGroup
+
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2164.md)
+* [Waste management](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_13.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Recycling and waste handling technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2171.md)
+* [Sanitation and waste management](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_67.md)
+
+## This technology is mentioned by
+
+* [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_51.md)
+

@@ -1,0 +1,37 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_863 
+
+# __Sensors for contactless inspections__
+
+## Category to which it belongs
+
+* [A comprehensive collection of iot devices, sensors, and monitoring systems for remote monitoring, measurement, and environmental control.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_167.md)
+
+## Closest similar item
+
+* [Indoor sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_200.md)
+* [Inspections](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2169.md)
+* [Monitoring equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_861.md)
+* [Monitoring systems and sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_84.md)
+* [Regular inspection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2347.md)
+* [Remote inspections](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_988.md)
+* [Sensor maintenance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3044.md)
+* [Sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3304.md)
+* [Smart sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3144.md)
+* [Wearable sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3878.md)
+
+## Risks linked to this technology
+
+* [Health and safety of construction workers](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1549.md)
+
+## This Technology belongs to this TechGroup
+
+* [Sensors and monitoring](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_8.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Sensor technologies](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_81.md)
+
+## This technology is mentioned by
+
+* [Strategies to Mitigate COVID-19 Pandemic Impacts on Health and Safety of Workers in Construction Projects](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_268.md)
+

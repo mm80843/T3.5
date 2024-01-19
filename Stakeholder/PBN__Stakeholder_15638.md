@@ -1,0 +1,17 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_15638 
+
+# __Social media influencers__
+
+## Risks that can be mitigated by this stakeholder
+
+* [Low environmental and personal hygiene awareness due to social media](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20293.md)
+* [Positive impact on hygiene behavior from social media](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20296.md)
+
+## This Stakeholder belongs to this Stakeholder Group
+
+* [Media organizations](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_16.md)
+
+## This Stakeholder belongs to this Stakeholder Subgroup
+
+* [Individuals consuming digital content](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_106.md)
+

@@ -1,0 +1,41 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_2796 
+
+# __Freezing__
+
+## Category to which it belongs
+
+* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_166.md)
+
+## Closest similar item
+
+* [Cold storage facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1297.md)
+* [Cooling devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1061.md)
+* [Heat](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3327.md)
+* [Insulation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2794.md)
+* [Responsiveness](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2425.md)
+* [Temperature](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2741.md)
+* [Temperature control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3121.md)
+* [Thermostats](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2480.md)
+* [Ultra-cold freezers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3424.md)
+* [Water](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3423.md)
+
+## Risks linked to this technology
+
+* [Human exposure to raccoon feces contaminated with baylisascaris procyonis eggs](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9109.md)
+
+## This Technology belongs to this TechGroup
+
+* [Waste management](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_13.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Advanced waste sorting and processing systems](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_74.md)
+
+## This Technology enables the following mitigations
+
+* [Effective disinfection techniques for roundworms](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3734.md)
+
+## This technology is mentioned by
+
+* [Guo_aerosol_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_477.md)
+

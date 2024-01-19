@@ -1,0 +1,117 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_219 
+
+# __Telehealth platforms__
+
+## Category to which it belongs
+
+* [Virtual healthcare and remote communication technology for medical diagnosis, therapy, and consultation.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_152.md)
+
+## Closest similar item
+
+* [Telehealth](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_621.md)
+* [Telehealth conferencing software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2326.md)
+* [Telehealth services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1170.md)
+* [Telehealth solutions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1650.md)
+* [Telehealth system](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1447.md)
+* [Telehealth technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_19.md)
+* [Telehealth/telepresence](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3462.md)
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_389.md)
+* [Telemedicine platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_73.md)
+* [Telemedicine technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_952.md)
+
+## Risks linked to this technology
+
+* [Challenges with quarantining](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1130.md)
+* [Contagious diseases propagation due to reduced well-being](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1960.md)
+* [Correlation between emotional/mental health and covid-19 anxiety may indicate a higher risk of psychological distress and mental health challenges within the garden community.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_643.md)
+* [Differences in social experience between gated and non-gated community residents during the pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1271.md)
+* [Digital exclusion](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1343.md)
+* [Encouragement of telemedicine service instead of visiting clinics](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2097.md)
+* [Extended periods at home during quarantine](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1361.md)
+* [High prevalence of anxiety, depression, and ptsd in the population.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3586.md)
+* [Impact on mental health and well-being due to reduced access to ugs](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3610.md)
+* [Impact on mental health due to covid-19, including economic instability, domestic violence, and fear among healthcare workers](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3729.md)
+* [Impact on non-communicable diseases ncds due to decreased physical activity during lockdown](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_4161.md)
+* [Inadequate communication and collaboration may lead to confusion and errors in patient care.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_4568.md)
+* [Increase in mental health issues](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_5065.md)
+* [Increase in suicidal thoughts during lockdown](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_5553.md)
+* [Increased prevalence of mental health symptoms during quarantine](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_6805.md)
+* [Lack of community acceptance of self-quarantine measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_7029.md)
+* [Lack of consideration for the impact of remote work and online activities on mental and social wellbeing.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_7076.md)
+* [Lack of health insurance coverage and limited access to healthcare facilities may result in undetected and uncontrolled contagious diseases within the population.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_7404.md)
+* [Limited access to healthcare services](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_7422.md)
+* [Limited containment in isolated regions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_8120.md)
+* [Mental distress and harm from home-based impacts](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_8150.md)
+* [Mental health impacts of lack of access to exercise and physical activity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9010.md)
+* [Negative impact on mental health due to the pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9210.md)
+* [Negative psychological effects of quarantine and social distancing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9233.md)
+* [Negative psychosocial and economic effects of covid-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9309.md)
+* [Nurses experiencing psychological problems during covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9525.md)
+* [Over-reliance on teleworking and telemedicine may lead to social isolation and reduced physical interaction, impacting mental health and well-being of individuals.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9695.md)
+* [Panic shopping and excess hospital admissions leading to strain on health systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9707.md)
+* [Poor health literacy and infodemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_11177.md)
+* [Poor management of key risk factors due to covid-19 response measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_11992.md)
+* [Potential lack of access to mental health resources and support services for individuals affected by quarantine and social distancing measures.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12513.md)
+* [Potential transmission of contagious diseases due to increased use of remote healthcare services telehealth .](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12688.md)
+* [Prevalence of poor mental health due to covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_14195.md)
+* [Psychological burden due to negative experiences during the pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_14411.md)
+* [Reduction of public services and limited opportunities for socializing can lead to an increase in stress, anxiety, and mental health issues.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_14670.md)
+* [Relying on social media for healthcare support and information.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_14938.md)
+* [Restriction of movement for essential medical personnel and supplies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15639.md)
+* [Risk of mental health issues during and after a pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15640.md)
+* [Social and class differences in the use of public space may lead to unequal exposure to contagious diseases.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_18522.md)
+* [Social isolation and mental health impact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19709.md)
+* [Spread of covid-19 due to lack of containment measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19766.md)
+* [Survey participants experiencing negative emotional and psychological health during lockdown, leading to decreased overall well-being.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20307.md)
+* [Unintended adverse effects of covid-19 containment measures on mental and physical health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20836.md)
+
+## This Technology belongs to this TechGroup
+
+* [Healthcare](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_2.md)
+* [Telehealth](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1447.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Remote healthcare and telemedicine](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_42.md)
+* [Telemedicine and telehealth services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2067.md)
+
+## This technology is mentioned by
+
+* [Aguero_covid-19_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_416.md)
+* [Ahmadpoor_urban_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_462.md)
+* [Akseer_covid-19_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_475.md)
+* [Amerio_covid-19_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_533.md)
+* [Asfour_housing_2022](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_677.md)
+* [Azmand_non-medical_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_486.md)
+* [Bojovic_towards_2022](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_393.md)
+* [Channa_rise_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_445.md)
+* [Christodoulou_health_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_479.md)
+* [Chtourou_staying_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_511.md)
+* [Contributions of Smart City Solutions and Technologies to Resilience against the COVID-19 Pandemic: A Literature Review](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_654.md)
+* [Corley_home_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_181.md)
+* [Covid-19 and community mitigation strategies in a pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_398.md)
+* [Designing for COVID-2x: Reflecting on Future-Proofing Human Habitation for the Inevitable Next Pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_568.md)
+* [Elrayies_prophylactic_2022](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_227.md)
+* [Fariniuk_smart_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_439.md)
+* [Geraldi_addressing_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_563.md)
+* [Gurney_dangerous_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_573.md)
+* [Hakovirta_how_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_688.md)
+* [Honey-roses_impact_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_112.md)
+* [Hossny_management_2022](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_590.md)
+* [Ioannidis_coronavirus_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_488.md)
+* [Kaya_changes_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_149.md)
+* [Larson_urban_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_432.md)
+* [Lawal_covid-19_2022](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_519.md)
+* [Maugeri_impact_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_676.md)
+* [Non-medical Interventions to Reduce the Burden of Psychosocial and Economic Impacts of COVID-19 Pandemic: A Scope Review](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_577.md)
+* [Rodriguez-fernandez_psychological_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_529.md)
+* [Santini_mental_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_465.md)
+* [Sharifi_contributions_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_381.md)
+* [Sigler_socio-spatial_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_698.md)
+* [Siriwardhana_role_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_380.md)
+* [Staying Physically Active During the Quarantine and Self-Isolation Period for Controlling and Mitigating the COVID-19 Pandemic: A Systematic Overview of the Literature](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_385.md)
+* [Ugolini_effects_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_440.md)
+* [Van_barneveld_covid-19_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_243.md)
+* [Wang_response_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_405.md)
+* [Willems_how_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_481.md)
+

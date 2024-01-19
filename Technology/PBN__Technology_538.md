@@ -1,0 +1,37 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_538 
+
+# __Responsive leadership__
+
+## Category to which it belongs
+
+* [Implement strategies to optimize costs, manage crises, and develop sustainable practices while ensuring efficient resource allocation and effective communication.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_193.md)
+
+## Closest similar item
+
+* [Adequate funding and staffing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2741.md)
+* [Communication and mediation platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2916.md)
+* [Communication strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_959.md)
+* [Control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3257.md)
+* [Coordination](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1183.md)
+* [Leadership development programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_393.md)
+* [Policy interventions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_321.md)
+* [Rapid response team](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2846.md)
+* [Responsiveness](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2369.md)
+* [Staff oversight](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2813.md)
+
+## Risks linked to this technology
+
+* [Inadequate governance and leadership](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1336.md)
+
+## This Technology belongs to this TechGroup
+
+* [Urban planning](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_1.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Community management technologies](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_79.md)
+
+## This technology is mentioned by
+
+* [Building up an ecologically sustainable and socially desirable post-COVID-19 future](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_5.md)
+

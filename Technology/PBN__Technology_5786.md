@@ -1,0 +1,26 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_5786 
+
+# __Air disinfection systems__
+
+## Risks linked to this technology
+
+* [High agent exposure times](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_4766.md)
+* [Inadequate use of air cleaners and filters leading to ineffective control of virus spread](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9161.md)
+* [Potential spread of viruses due to aerosolization and sampling](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12203.md)
+* [Spread of highly infectious airborne virus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15445.md)
+
+## This Technology belongs to this TechGroup
+
+* [Healthcare](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_2.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Physical health monitoring](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_6.md)
+
+## This technology is mentioned by
+
+* [Awada_occupant_2022](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_401.md)
+* [Guo_review_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_478.md)
+* [Ronchi_exposed_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_587.md)
+* [Walker_effect_2007](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_523.md)
+

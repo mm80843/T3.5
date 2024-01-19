@@ -1,0 +1,45 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_1087 
+
+# __Websites__
+
+## Category to which it belongs
+
+* [Digital platforms facilitate virtual collaboration, communication, information sharing, and online transactions among individuals and communities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_150.md)
+
+## Closest similar item
+
+* [Educational resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1143.md)
+* [Educational websites](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1173.md)
+* [Fact-checking websites](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_224.md)
+* [Government websites](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2454.md)
+* [Internet](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1187.md)
+* [Official websites](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3025.md)
+* [Online resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_896.md)
+* [Resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2337.md)
+* [Social media](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1147.md)
+* [Web portals](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_572.md)
+
+## Risks linked to this technology
+
+* [Confusion and uncertainty](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1709.md)
+* [Informal signs with handwritten and typed messages were used to communicate store closures and operating status.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1766.md)
+* [Lack of public awareness of the term ’social distancing’](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_18442.md)
+* [Limited access to covid-19 mitigation information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_18443.md)
+* [Perception of short-term closure led to lack of alternative methods of contact provided by small businesses.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_18464.md)
+
+## This Technology belongs to this TechGroup
+
+* [Digital and information management](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_10.md)
+* [Social media](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_896.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Collaboration and community engagement tools](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_78.md)
+* [Web development](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2080.md)
+
+## This technology is mentioned by
+
+* [Mcneish_retail_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_652.md)
+* [Retail Signage During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_159.md)
+* [Risk Diagnosis and Mitigation System of COVID-19 Using Expert System and Web Scraping](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_237.md)
+

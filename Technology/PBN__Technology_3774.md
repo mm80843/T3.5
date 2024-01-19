@@ -1,0 +1,43 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_3774 
+
+# __High temperature steam__
+
+## Category to which it belongs
+
+* [Detection and regulation of heat, from thermal cameras and sensors to smart thermostats and temperature control devices.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_194.md)
+
+## Closest similar item
+
+* [Heat](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1049.md)
+* [Heat source](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3114.md)
+* [Heat treatment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1061.md)
+* [Hot water of at least 70°c](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3423.md)
+* [Steam or specialized commercial steam bags](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3113.md)
+* [Steam sterilization](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2582.md)
+* [Temperature](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2440.md)
+* [Temperature control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3296.md)
+* [Temperature sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3015.md)
+* [Thermometers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2794.md)
+
+## Risks linked to this technology
+
+* [High requirement of technical personnel and high costs](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12012.md)
+* [Relative narrow disinfection spectrum and complex impact factors](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12013.md)
+* [Residual disinfectants after disinfection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12014.md)
+
+## This Technology belongs to this TechGroup
+
+* [Infrastructure management](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_7.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Capacity-building and infrastructure development tools](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_22.md)
+
+## This Technology enables the following mitigations
+
+* [Physical disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5126.md)
+
+## This technology is mentioned by
+
+* [Wang_disinfection_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_520.md)
+

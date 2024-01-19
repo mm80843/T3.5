@@ -1,0 +1,16 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_14899 
+
+# __Communities living near pollution sources__
+
+## Risk affecting this stakeholder
+
+* [Psychological closeness to environmental pollution leads to a more concrete threat perception and greater perceived risk.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19209.md)
+
+## This Stakeholder belongs to this Stakeholder Group
+
+* [Residents and occupants of spaces](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_6.md)
+
+## This Stakeholder belongs to this Stakeholder Subgroup
+
+* [People in high-contamination areas](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_39.md)
+

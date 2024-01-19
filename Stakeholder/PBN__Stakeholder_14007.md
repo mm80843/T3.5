@@ -1,0 +1,16 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_14007 
+
+# __Indoor plant experts__
+
+## Risk affecting this stakeholder
+
+* [Need for more research on indoor plant requirements](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17618.md)
+
+## This Stakeholder belongs to this Stakeholder Group
+
+* [Environmental and sustainability organizations](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_3.md)
+
+## This Stakeholder belongs to this Stakeholder Subgroup
+
+* [Green area managers and organizations](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_66.md)
+

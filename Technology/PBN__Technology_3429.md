@@ -1,0 +1,52 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_3429 
+
+# __Building design__
+
+## Category to which it belongs
+
+* [Building design and construction incorporate biophilic principles, modular techniques, and flexible layouts to create sustainable, resilient, and adaptable spaces.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_188.md)
+
+## Closest similar item
+
+* [Architectural design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2257.md)
+* [Architectural design and building technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2135.md)
+* [Building design and construction](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_455.md)
+* [Building design and construction techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2689.md)
+* [Building design and layout modifications](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2837.md)
+* [Building layout and design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1105.md)
+* [Building management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2218.md)
+* [Building materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2950.md)
+* [Building systems and design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2785.md)
+* [Housing and building design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2255.md)
+
+## Link between Blueprint and General ontology
+
+* [Design & Construction software (BIM)](https://github.com/mm80843/T3.5/blob/pages/BP_Enabler/PBN__BP_Enabler_27.md)
+
+## Risks linked to this technology
+
+* [Focus on behavioral controls over structural changes](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_16192.md)
+* [Poorly designed and resourced housing exacerbating the spread of the virus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_16340.md)
+
+## This Technology belongs to this TechGroup
+
+* [Building design](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_4.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Building design](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_3.md)
+
+## This Technology enables the following mitigations
+
+* [Natural ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3237.md)
+* [Proper building ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4659.md)
+
+## This technology is mentioned by
+
+* [Pinheiro_covid-19_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_607.md)
+* [Power_public_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_605.md)
+
+## This technology is used in the following general blueprint(s)
+
+* [Implementing UV Based Technologies and Ventilation Improvements to Control Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_43.md)
+

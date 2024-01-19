@@ -1,0 +1,16 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_14770 
+
+# __And individuals with sensitive health information__
+
+## Risk affecting this stakeholder
+
+* [Inadequate data privacy and security measures in mobile applications may result in unauthorized access to personal health information and potential data breaches.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19006.md)
+
+## This Stakeholder belongs to this Stakeholder Group
+
+* [General public](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_2.md)
+
+## This Stakeholder belongs to this Stakeholder Subgroup
+
+* [Individual with high health risks](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_103.md)
+

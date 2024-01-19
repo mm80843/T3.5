@@ -1,0 +1,45 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_3164 
+
+# __Eye protection gear__
+
+## Category to which it belongs
+
+* [Various measures such as wearable devices, protective clothing, and physical distancing markers promote safety and protection.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_177.md)
+
+## Closest similar item
+
+* [Contact lenses](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2404.md)
+* [Face shields](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_136.md)
+* [Goggles](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2635.md)
+* [Mask-wearing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2727.md)
+* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2415.md)
+* [Personal protective equipment masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_949.md)
+* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_484.md)
+* [Protective clothing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_817.md)
+* [Use of personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_589.md)
+* [Wearables](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2800.md)
+
+## Risks linked to this technology
+
+* [Healthcare workers not using personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_18199.md)
+
+## This Technology belongs to this TechGroup
+
+* [Healthcare](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_2.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_12.md)
+
+## This Technology enables the following mitigations
+
+* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3575.md)
+
+## This technology is mentioned by
+
+* [Mehtab_alam_role_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_647.md)
+
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Contagious Disease Containment Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_42.md)
+

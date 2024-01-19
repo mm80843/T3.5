@@ -1,0 +1,23 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_10005 
+
+# __Uv cleaning equipment__
+
+## Risks linked to this technology
+
+* [Contaminated air from toilet facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_8330.md)
+* [Effectiveness of filters and air cleaning methods](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_8332.md)
+* [Inadequate ventilation leading to poor air quality and increased risk of disease transmission.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9138.md)
+
+## This Technology belongs to this TechGroup
+
+* [Cleaning](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_11.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Automated sanitation equipment](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_116.md)
+
+## This technology is mentioned by
+
+* [Elsaid_critical_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_463.md)
+* [Guo_review_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_478.md)
+

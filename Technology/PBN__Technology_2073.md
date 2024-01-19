@@ -1,0 +1,45 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_2073 
+
+# __Elisa__
+
+## Category to which it belongs
+
+* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_166.md)
+
+## Closest similar item
+
+* [Ai](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2672.md)
+* [Ai/ml](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_278.md)
+* [Antimalarial](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3351.md)
+* [Antiviral](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2312.md)
+* [Immunoassays](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3293.md)
+* [Owl 2](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3896.md)
+* [Quarantine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2313.md)
+* [Vaccination](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2478.md)
+* [Vaccination campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3006.md)
+* [Vaccine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3292.md)
+
+## Risks linked to this technology
+
+* [Ineffective concentration method leading to inaccurate virus detection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_5219.md)
+* [Reliance on pcr for detection of sars-cov-2 in wastewater](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_16054.md)
+
+## This Technology belongs to this TechGroup
+
+* [Ai tools](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_2.md)
+* [Healthcare](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1316.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Diagnostic and testing tools](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_7.md)
+* [Diagnostic testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2052.md)
+
+## This Technology enables the following mitigations
+
+* [Biomarkers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3321.md)
+
+## This technology is mentioned by
+
+* [Barcelo_wastewater-based_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_408.md)
+* [Randazzo_sars-cov-2_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_599.md)
+

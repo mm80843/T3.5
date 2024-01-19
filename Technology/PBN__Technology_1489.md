@@ -1,0 +1,43 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_1489 
+
+# __Workforce management tools__
+
+## Category to which it belongs
+
+* [Innovative technologies and systems that enable efficient and secure control, management, and interaction in various domains.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_159.md)
+
+## Closest similar item
+
+* [Collaboration tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2160.md)
+* [Data management tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3455.md)
+* [Job creation programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2996.md)
+* [Productivity improvement tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_779.md)
+* [Project management tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_631.md)
+* [Resource and project management tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3500.md)
+* [Software tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2328.md)
+* [Workforce and resource management tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_565.md)
+* [Workforce support](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2037.md)
+* [Workforce training](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1473.md)
+
+## Risks linked to this technology
+
+* [Complexity of the supply chain due to globalisation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2001.md)
+* [Inadequate working conditions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9699.md)
+* [Nursing shortage due to the covid-19 pandemic crisis](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17946.md)
+
+## This Technology belongs to this TechGroup
+
+* [Healthcare](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_2.md)
+* [Telehealth](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1447.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Maintenance and landscaping equipment](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_45.md)
+* [Workforce and resource management tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2160.md)
+
+## This technology is mentioned by
+
+* [From Viral City to Smart City: Learning from Pandemic Experiences](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_488.md)
+* [Hossny_management_2022](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_642.md)
+* [Montoya-torres_mapping_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_183.md)
+

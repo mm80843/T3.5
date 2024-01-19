@@ -1,0 +1,115 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_315 
+
+# __Encryption algorithms__
+
+## Category to which it belongs
+
+* [Data protection measures, privacy regulations, encryption and authentication techniques, and standardized protocols ensure secure and anonymous communication.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_168.md)
+
+## Closest similar item
+
+* [Data encryption](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2193.md)
+* [Data encryption techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_819.md)
+* [Data encryption technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_97.md)
+* [Encryption](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_824.md)
+* [Encryption and authentication techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1540.md)
+* [Encryption and security algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_344.md)
+* [Encryption techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1068.md)
+* [Encryption technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_182.md)
+* [Encryption technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2039.md)
+* [Encryption tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2243.md)
+
+## Risks linked to this technology
+
+* [Blockchain data leakage and privacy breaches due to unauthorized access or tampering of health information.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_47.md)
+* [Blockchain system vulnerabilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1767.md)
+* [Challenges related to data security, encryption, ethics, and regulation may arise from the integrated approach of continuous data collection and communication.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1267.md)
+* [Contact tracing and sharing location history and contacts](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1268.md)
+* [Cybersecurity, privacy, and ethics concerns related to digital contact tracing apps for covid-19.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3437.md)
+* [Data privacy and security issues](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3876.md)
+* [Data privacy and security risks associated with the collection and storage of open-ended responses.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3935.md)
+* [Data security risks associated with cloud-based surveillance solutions.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_4475.md)
+* [Dependence on blockchain for data control and access](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_4725.md)
+* [Inadequate data security for the extensive ieq database](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_6059.md)
+* [Inadequate security measures for digital twin data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_6072.md)
+* [Increased reliance on telemedicine and remote healthcare services facilitated by 6g technology could result in potential cybersecurity vulnerabilities and data privacy risks.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_6235.md)
+* [Insecure storage of medical data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_6763.md)
+* [Integration of cloud-based tracing and tracking framework may involve data privacy and security risks.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_7041.md)
+* [Integration of smart mobile standards, wsn, and other sensing technologies may introduce cybersecurity risks if not properly secured.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_7049.md)
+* [Lack of data integration and data security could lead to compromised access control, potentially risking sensitive information.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_7056.md)
+* [Lack of data security in iot devices used for covid-19 management](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_8481.md)
+* [Lack of integration of blockchain technology with ethical data standards may compromise user privacy protection and lead to ethical concerns.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_8980.md)
+* [Large volume of communications data from a significant portion of the adult population of namibia was collected.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_11052.md)
+* [Large-scale real-time data capture infrastructure may pose privacy risks if data is not anonymized effectively.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12532.md)
+* [Live-location tracking of patients](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12572.md)
+* [Millions of data points pouring in from various sources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12631.md)
+* [Number of connected devices to reach over 20 billion ’things’ by 2020](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12723.md)
+* [Potential data breaches due to inadequate encryption and access control systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_13498.md)
+* [Potential risk of unauthorized access to private health records due to the use of digital technologies.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_13778.md)
+* [Potential security risks when scraping data from external websites, including exposure to malicious code or unauthorized access to sensitive data.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_13783.md)
+* [Privacy and data protection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_14174.md)
+* [Privacy and security risks associated with the transmission and storage of sensitive health data from wearables to cloud-based platforms.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_14226.md)
+* [Privacy and security risks with wearable technology data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_14501.md)
+* [Privacy concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15282.md)
+* [Privacy protection issues related to the collection and transfer of sensitive health data via wearable devices and cloud networks.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15289.md)
+* [Proximity tracking and real-time dashboard of covid-19 cases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15960.md)
+* [Real-time communication of disease status may lead to privacy and security risks.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15961.md)
+* [Reliance on digital tooling for data collection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15962.md)
+* [Risk of data privacy and security in mobile applications](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15984.md)
+* [Security and privacy concerns related to the data received from iot devices in healthcare](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15985.md)
+* [Security loopholes and threats posed by smart grid, automated building systems, unmanned aerial vehicles, and iot-enabled sensors.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_16080.md)
+* [Security risk of cloud computing in healthcare data storage](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_16406.md)
+* [Shift in technological context to low-cost hardware and open-source software may introduce cybersecurity vulnerabilities in ieq monitoring systems.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_16412.md)
+* [Transmission of data over radio waves](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_16421.md)
+* [Usage of high integrity serial bus protocol can may lead to potential data breaches or security vulnerabilities.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_16781.md)
+* [Use of digital twin technology for digitalization of vaccination process](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_16827.md)
+* [Use of interconnected devices and iot for tracking patients may lead to data breaches and security vulnerabilities.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_16831.md)
+* [Use of low-cost open-source hardware and wireless communication](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17817.md)
+* [Use of native python environment for processing sensor data and additional computing tasks may pose security vulnerabilities.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_18584.md)
+* [Wi-fi networks can be used for location tracing during the ongoing pandemic.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20771.md)
+
+## This Technology belongs to this TechGroup
+
+* [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_0.md)
+* [Data privacy](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2241.md)
+* [Privacy enhancing technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2191.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Data encryption and security](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_52.md)
+* [Encryption and authentication techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2039.md)
+* [Encryption and security algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2193.md)
+
+## This technology is mentioned by
+
+* [Abideen_mitigation_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_609.md)
+* [Allam_emergence_2019](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_427.md)
+* [Allam_future_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_474.md)
+* [Arpaci_leveraging_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_615.md)
+* [Ates_wearable_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_533.md)
+* [Burki_wearable_2022](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_511.md)
+* [Calvo_scalable_2022](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_583.md)
+* [Channa_rise_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_389.md)
+* [Christodoulou_health_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_531.md)
+* [Fariniuk_smart_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_390.md)
+* [Geng_intelligent_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_397.md)
+* [Health Information Exchange with Blockchain amid Covid-19-like Pandemics](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_439.md)
+* [James_smart_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_556.md)
+* [Matheri_water_2023](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_563.md)
+* [Mufid_risk_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_655.md)
+* [Parkinson_continuous_2019](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_376.md)
+* [Pilati_digital_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_432.md)
+* [Rahman_automated_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_571.md)
+* [Raza_mobile_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_596.md)
+* [Risk Diagnosis and Mitigation System of COVID-19 Using Expert System and Web Scraping](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_195.md)
+* [Saini_comprehensive_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_548.md)
+* [Sharma_blockchain_2022](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_565.md)
+* [Singh_internet_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_640.md)
+* [Siriwardhana_role_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_696.md)
+* [Subramanian_role_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_600.md)
+* [Tatem_integrating_2014](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_237.md)
+* [Ugolini_effects_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_465.md)
+* [Umair_impact_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_425.md)
+* [Wearable technology and COVID-19](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_78.md)
+* [Willems_how_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_400.md)
+

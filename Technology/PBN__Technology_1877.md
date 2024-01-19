@@ -1,0 +1,42 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_1877 
+
+# __Uv germicidal irradiation systems__
+
+## Category to which it belongs
+
+* [Lighting solutions that utilize ultraviolet technology for germicidal purposes, energy efficiency, and control of natural light.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_197.md)
+
+## Closest similar item
+
+* [Germicidal ultraviolet](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_225.md)
+* [Germicidal uv lamps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_232.md)
+* [Ultraviolet germicidal irradiation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2268.md)
+* [Ultraviolet irradiation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1349.md)
+* [Uv germicidal irradiation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_235.md)
+* [Uv germicidal radiation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1902.md)
+* [Uv irradiation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2481.md)
+* [Uv irradiation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1142.md)
+* [Uv radiation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2139.md)
+* [Uv-c irradiation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3207.md)
+
+## Risks linked to this technology
+
+* [Inadequate handling of high-throughput sequencing equipment and reagents can pose a risk of contamination and spread of contagious diseases.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2268.md)
+* [Spread of other airborne pathogens](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2272.md)
+* [Study of air conditioners and their relationship to the global pandemic may uncover risks related to the spread of contagious diseases.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3659.md)
+* [Transmission of sars-cov-2 through indoor air](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_8271.md)
+
+## This Technology belongs to this TechGroup
+
+* [Healthcare](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_2.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Physical health monitoring](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_6.md)
+
+## This technology is mentioned by
+
+* [Adaptation of HVAC Systems to Reduce the Spread of COVID-19 in Buildings](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_463.md)
+* [Ahmed_first_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_383.md)
+* [Elsaid_critical_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_214.md)
+

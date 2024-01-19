@@ -1,0 +1,46 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_3312 
+
+# __Operable windows__
+
+## Category to which it belongs
+
+* [Efficiently manage finances, construction projects, schedules, contracts, communication, and data analysis with advanced software and technology.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_191.md)
+
+## Closest similar item
+
+* [Automated windows](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1746.md)
+* [Drive-through window systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_140.md)
+* [Open windows](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3473.md)
+* [Openable windows](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2643.md)
+* [Opening windows](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3124.md)
+* [Provide large windows](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1262.md)
+* [Smart windows](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2457.md)
+* [Window design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1009.md)
+* [Windows](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3716.md)
+* [Windows with views](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1352.md)
+
+## Risks linked to this technology
+
+* [Increased transmission of covid-19 due to inadequate ventilation and airflow in buildings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_16579.md)
+* [Lack of restorative environmental design in apartment housing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17655.md)
+
+## This Technology belongs to this TechGroup
+
+* [Air control](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_12.md)
+* [Building design](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_4.md)
+* [Building management](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_9.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Ventilation systems](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_21.md)
+
+## This Technology enables the following mitigations
+
+* [Circadian regulation: bedrooms designed for sleep](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4506.md)
+* [Natural ventilation and thermal comfort at home](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4504.md)
+
+## This technology is mentioned by
+
+* [Navaratnam_designing_2022](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_612.md)
+* [Peters_how_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_635.md)
+

@@ -1,0 +1,39 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_1082 
+
+# __Manufacturing companies__
+
+## Category to which it belongs
+
+* [The seamless flow, analysis, and oversight of goods, services, and information across various industries and locations.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_156.md)
+
+## Closest similar item
+
+* [Additive manufacturing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_764.md)
+* [Commercial vendors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1849.md)
+* [Employers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1605.md)
+* [Local manufacturing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_761.md)
+* [Logistics providers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2010.md)
+* [Manufacturing capabilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2983.md)
+* [Manufacturing facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2702.md)
+* [Pharmaceutical companies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1083.md)
+* [Products](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3431.md)
+* [Supply chains](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_796.md)
+
+## Risks linked to this technology
+
+* [Shortage of covid-19 testing kits](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_353.md)
+
+## This Technology belongs to this TechGroup
+
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2164.md)
+* [Supply-chain](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_14.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Manufacturing of ppe](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2140.md)
+* [Public health measures and regulations](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_65.md)
+
+## This technology is mentioned by
+
+* [A critical review of emerging technologies for tackling COVID ‐19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_91.md)
+

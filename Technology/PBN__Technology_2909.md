@@ -1,0 +1,33 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_2909 
+
+# __Research priorities__
+
+## Category to which it belongs
+
+* [Accurate and reliable knowledge dissemination and fact-checking through interdisciplinary collaboration and intelligent information feedback.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_172.md)
+
+## Closest similar item
+
+* [Research](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_256.md)
+* [Research and scientific studies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_762.md)
+* [Research and testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_261.md)
+* [Research funding](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1814.md)
+* [Research institutions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_262.md)
+* [Research methodologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_839.md)
+* [Research methodology improvement](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1159.md)
+* [Research studies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2905.md)
+* [Scientific research](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_312.md)
+* [Scientific studies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_897.md)
+
+## This Technology belongs to this TechGroup
+
+* [Data analytics](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_6.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Information dissemination platforms](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_50.md)
+
+## This Technology enables the following mitigations
+
+* [Preparedness for future pandemics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3880.md)
+

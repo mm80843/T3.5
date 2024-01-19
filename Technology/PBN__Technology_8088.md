@@ -1,0 +1,20 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_8088 
+
+# __Along with enhanced data analytics for exposure notification__
+
+## Risks linked to this technology
+
+* [The app may not accurately determine whether an individual has been exposed to a potential covid-19 patient, leading to false alerts or a lack of necessary alerts](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_6658.md)
+
+## This Technology belongs to this TechGroup
+
+* [Healthcare](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_2.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Remote healthcare and telemedicine](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_42.md)
+
+## This technology is mentioned by
+
+* [Chamola_comprehensive_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_430.md)
+

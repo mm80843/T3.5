@@ -1,0 +1,53 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_851 
+
+# __Ethanol__
+
+## Category to which it belongs
+
+* [Innovations and applications in chemistry, materials, and technology for purification, disinfection, and environmental protection.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_196.md)
+
+## Closest similar item
+
+* [62-71% ethanol solution](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_849.md)
+* [Acetone](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2684.md)
+* [Alcohol-based disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2940.md)
+* [Alcohol-based hand rubs 80% ethanol](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2897.md)
+* [Alcohol-based hand sanitizer](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3097.md)
+* [Alcohols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2874.md)
+* [Improved biomass fuels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2690.md)
+* [Substrate](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2480.md)
+* [Use of alcohol-based hand sanitizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1482.md)
+* [Water](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_503.md)
+
+## Risks linked to this technology
+
+* [Inactivation of coronaviruses by biocidal agents in carrier tests](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1538.md)
+* [Inactivation of coronaviruses by biocidal agents in suspension tests](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1537.md)
+* [Inadequate sanitization procedures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_7136.md)
+* [Uncertain viral load on inanimate surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20469.md)
+
+## This Technology belongs to this TechGroup
+
+* [Biology techs](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_2.md)
+* [Healthcare](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2274.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Analytical chemistry](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_39.md)
+* [Disinfection and cleaning techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2057.md)
+
+## This Technology enables the following mitigations
+
+* [Cleaning and disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3919.md)
+* [Surface disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1130.md)
+
+## This technology is mentioned by
+
+* [Cirrincione_covid-19_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_441.md)
+* [Kampf_persistence_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_692.md)
+* [Persistence of coronaviruses on inanimate surfaces and their inactivation with biocidal agents](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_233.md)
+
+## This technology is used in the following general blueprint(s)
+
+* [Implementing Surface Disinfection Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_39.md)
+

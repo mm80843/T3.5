@@ -1,0 +1,118 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_207 
+
+# __Remote monitoring__
+
+## Category to which it belongs
+
+* [A comprehensive collection of iot devices, sensors, and monitoring systems for remote monitoring, measurement, and environmental control.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_167.md)
+
+## Closest similar item
+
+* [Mobile and remote monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_460.md)
+* [Remote monitoring and diagnosis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_549.md)
+* [Remote monitoring and management of resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_403.md)
+* [Remote monitoring and patient management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_468.md)
+* [Remote monitoring and tracking technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2157.md)
+* [Remote monitoring devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_14.md)
+* [Remote monitoring of patients](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1364.md)
+* [Remote monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1502.md)
+* [Remote monitoring technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2158.md)
+* [Remote patient monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_21.md)
+
+## Risks linked to this technology
+
+* [Complicated maintenance and high maintenance costs](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1664.md)
+* [Covid-19 disproportionately affecting vulnerable populations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1855.md)
+* [Deployment and operation of iot devices for covid-19 management](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1121.md)
+* [Enforcement of strict quarantine measures through tracing and monitoring apps](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2110.md)
+* [Epidemiological vulnerability to covid-19, especially for those over 70 years of age and with underlying health conditions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_4011.md)
+* [Exacerbation of existing health care inequalities among minority groups due to the pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_4090.md)
+* [Exceeding critical care bed capacity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_4091.md)
+* [Healthcare system overload](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_4480.md)
+* [Healthcare system strain](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_4626.md)
+* [Highly infective disease with a range of symptoms, including respiratory failure or death](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_5792.md)
+* [Inability to screen suspected infectors due to large-scale and fast-moving population](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_6489.md)
+* [Inadequate healthcare and sickness benefit transfers for individuals below the threshold level of flourishing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_6528.md)
+* [Inadequate hospital isolation measures leading to increased spread of covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_6747.md)
+* [Increase in daily deaths due to covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_6790.md)
+* [Increase in off-site construction may lead to a higher risk of contagious diseases transmission due to transportation of materials and workers from various locations.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_6986.md)
+* [Increased exposure of contact tracing personnel to covid-19 and potential stigmatization.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_8704.md)
+* [Increasing demand for care of covid-19 patients](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_8730.md)
+* [Infrastructure inequities enhance host susceptibility and can facilitate disease transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_8783.md)
+* [Large epidemics of covid-19 in europe](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10005.md)
+* [Low utilization of non-contact elderly care services](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_11729.md)
+* [Need to protect the healthcare workforce to ensure they are able to treat the sick](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_11910.md)
+* [Overcrowding in living spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12049.md)
+* [Overcrowding of inner-city parks and green spaces during pandemic lockdowns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12521.md)
+* [Overrepresentation of immigrants among inpatients in oecd countries due to covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_13395.md)
+* [Overwhelmed healthcare facilities due to the pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_13662.md)
+* [Participants with underlying health issues at risk for contracting covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_14018.md)
+* [Positive relationship between population density and covid-19 transmission rates in high-density areas](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_14152.md)
+* [Potential for over-reliance on telemedicine and remote monitoring, leading to missed or delayed physical examinations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_14549.md)
+* [Potential inter-species transmission of novel coronavirus in shared landscapes](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_14700.md)
+* [Potential spread of contagious diseases due to proximity of edge and fog computing to iot devices](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_14907.md)
+* [Potential spread of contagious diseases through construction sites due to lack of adherence to guidelines](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15560.md)
+* [Self-protection measures were effective in reducing the number of infected humans and delaying the arrival of the peak number of infected humans, but had little effect under stricter quarantine measures.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15674.md)
+* [Shortage of workers to implement lockdown policy due to home quarantine](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15676.md)
+* [Spread of contagious diseases in public spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15897.md)
+* [Spread of covid-19 disease in healthcare sectors](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_16898.md)
+* [Spread of highly contagious virus with high mortality rates.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17192.md)
+* [Stress on healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_18503.md)
+* [Surge demands for critical care facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_18899.md)
+* [Vulnerability of construction industry to economic downturn caused by the pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20010.md)
+* [Vulnerable groups such as the elderly, women, the poor, and migrants disproportionately affected by pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20561.md)
+* [Widespread contagious disease transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20609.md)
+
+## This Technology belongs to this TechGroup
+
+* [Healthcare](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2215.md)
+* [Monitoring](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_2.md)
+* [Sensors and monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_0.md)
+* [Surveillance systems](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_8.md)
+* [Telehealth](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1447.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Mobile and remote monitoring](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_87.md)
+* [Remote monitoring and patient management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2157.md)
+* [Remote monitoring tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2067.md)
+* [Telemedicine and telehealth services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2158.md)
+
+## This technology is mentioned by
+
+* [Allam_pandemic_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_419.md)
+* [Aloulou_design_2022](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_693.md)
+* [Arpaci_leveraging_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_399.md)
+* [Assaad_guidelines_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_437.md)
+* [Bou_hatoum_analysis_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_494.md)
+* [Cao_analysis_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_512.md)
+* [Channa_rise_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_517.md)
+* [Cheshmehzangi_revisiting_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_589.md)
+* [Emerging Technologies to Combat the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_116.md)
+* [Ferguson_report_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_144.md)
+* [Flaxman_report_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_429.md)
+* [Health, Economic and Social Development Challenges of the COVID-19 Pandemic: Strategies for Multiple and Interconnected Issues](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_572.md)
+* [Ibn-mohammed_critical_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_626.md)
+* [Impact of Covid-19 on the built environment](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_392.md)
+* [Kaklauskas_covid-19_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_397.md)
+* [Kuiper_intelligent_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_563.md)
+* [Malliga_comprehensive_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_573.md)
+* [Mbunge_critical_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_661.md)
+* [Oecd_what_2022](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_545.md)
+* [Panneer_health_2022](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_681.md)
+* [Questioning the use of the balcony in apartments during the COVID-19 pandemic process](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_551.md)
+* [Reinwald_urban_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_560.md)
+* [Robbins_covid-19_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_595.md)
+* [Rogers_city_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_10.md)
+* [Santini_mental_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_165.md)
+* [Sharifi_contributions_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_530.md)
+* [Sharifi_covid-19_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_432.md)
+* [Siriwardhana_role_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_591.md)
+* [Sovacool_contextualizing_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_653.md)
+* [Syal_learning_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_391.md)
+* [Thurstan_envisioning_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_617.md)
+* [Vaishya_emerging_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_469.md)
+* [Wang_disinfection_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_470.md)
+* [Wang_urban_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_577.md)
+* [Wilkinson_local_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_520.md)
+

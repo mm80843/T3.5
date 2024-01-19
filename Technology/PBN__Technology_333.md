@@ -1,0 +1,40 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_333 
+
+# __Crowd density monitoring systems__
+
+## Category to which it belongs
+
+* [Enhanced monitoring and tracking technologies ensure efficient surveillance, tracking, and crowd management without compromising privacy.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_186.md)
+
+## Closest similar item
+
+* [Crowd control measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_488.md)
+* [Crowd management measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_743.md)
+* [Crowd management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1075.md)
+* [Crowd management technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1834.md)
+* [Crowd monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1025.md)
+* [Crowd monitoring technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2319.md)
+* [Crowd monitoring technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1259.md)
+* [Crowd surveillance technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_775.md)
+* [Crowd-monitoring technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_301.md)
+* [Use of digital tools for crowd monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_545.md)
+
+## Risks linked to this technology
+
+* [Conversion of roads to pedestrian areas may lead to increased interaction and close contact among pedestrians.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1230.md)
+* [Occupancy density](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15159.md)
+
+## This Technology belongs to this TechGroup
+
+* [Sensors and monitoring](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_1.md)
+* [Urban planning](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_8.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Crowd monitoring technology](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_33.md)
+
+## This technology is mentioned by
+
+* [COVID19-Routes: A Safe Pedestrian Navigation Service](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_582.md)
+* [Sainz-santamaria_governance_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_201.md)
+

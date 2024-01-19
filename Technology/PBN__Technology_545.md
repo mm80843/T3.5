@@ -1,0 +1,47 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_545 
+
+# __Crowd management technology__
+
+## Category to which it belongs
+
+* [Advancements in various technological domains facilitate touchless, remote, and efficient ways of communication, work, and data management.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_158.md)
+
+## Closest similar item
+
+* [Crowd management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_617.md)
+* [Crowd management measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1866.md)
+* [Crowd management strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1259.md)
+* [Crowd management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2209.md)
+* [Crowd management techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3018.md)
+* [Crowd management technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1014.md)
+* [Crowd monitoring technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_432.md)
+* [Crowd monitoring technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_301.md)
+* [Crowd-management technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_743.md)
+* [Use of digital technologies for crowd management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1075.md)
+
+## Risks linked to this technology
+
+* [Crowded railway stations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1342.md)
+* [Inadequate public transportation infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1639.md)
+* [Insufficient distance between people](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1637.md)
+* [Risk of overcrowding in public transport](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2226.md)
+* [Transmission at mass gatherings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_5994.md)
+
+## This Technology belongs to this TechGroup
+
+* [Drones and robots](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_1.md)
+* [Surveillance systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_0.md)
+* [Urban planning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2289.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Crowd control solutions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2209.md)
+* [Crowd management](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_5.md)
+
+## This technology is mentioned by
+
+* [Association of built environment attributes with the spread of COVID-19 at its initial stage in China](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_186.md)
+* [Budd_responsible_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_422.md)
+* [Covid-19 and community mitigation strategies in a pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_112.md)
+* [Social distancing enhanced automated optimal design of physical spaces in the wake of the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_32.md)
+

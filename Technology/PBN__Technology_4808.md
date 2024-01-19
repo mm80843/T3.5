@@ -1,0 +1,88 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_4808 
+
+# __Public health communication tools__
+
+## Risks linked to this technology
+
+* [Accelerated spread of virus due to population fleeing or traveling under the radar](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_4017.md)
+* [Asymptomatic transmission of covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_4189.md)
+* [Controversy regarding air as a vector for covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_4557.md)
+* [Decrease in visitors to green spaces during the covid-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_4561.md)
+* [Dependence on ugs for respite and isolation can lead to non-compliance with public health guidelines and riskier behavior in these areas.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_4927.md)
+* [Differences in enforcement leading to varying levels of actual mobility](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_5041.md)
+* [Disparity in the effectiveness of containment measures in different states](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_6129.md)
+* [Excretion of fecal-oral viruses at high concentration in sewage](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_6130.md)
+* [Genetic similarity of sars-cov-2 to sars-cov, and potential for faecal-oral transmission.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_6363.md)
+* [Global threat from respiratory viruses such as sars, sars-cov-2, influenza, and tuberculosis tb .](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_6537.md)
+* [High risk values for wnv infection in specific regions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_6539.md)
+* [High susceptibility of population to the virus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_6653.md)
+* [Impact of housing policy on dispersion of covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_6843.md)
+* [Inaccurate labeling and misinformation about contagious diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_7751.md)
+* [Inadequate integration of face masks and coverings with other preventive measures such as social distancing and hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_8289.md)
+* [Inadequate management of individual behaviors to comply with safety requirements](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9883.md)
+* [Inadequate public compliance with policy measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10544.md)
+* [Inconsistent communication and response to pandemic urgency](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10803.md)
+* [Lack of community acceptance of self-quarantine measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_11712.md)
+* [Lack of supported physical distancing interventions leading to high epidemic peaks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_11713.md)
+* [Lack of understanding of the effectiveness of cloth-based face masks in reducing the emission of particles](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_11992.md)
+* [Limited access to food due to movement restrictions and closure of markets and food vendors](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12602.md)
+* [Limited adoption of contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12682.md)
+* [Mutations leading to increased infectivity and immune evasion](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_14796.md)
+* [Non-compliance with social distancing and mask-wearing guidelines accelerating the spread of covid-19.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15187.md)
+* [Over-reliance on nano-coatings for disease prevention](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15188.md)
+* [Persistent belief in miasma theory leading to stigmatization of urban poverty and unsanitary practices, contributing to the spread of contagious diseases.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15558.md)
+* [Potential community spread of sars-cov-2](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_16068.md)
+* [Potential increase in social interactions due to higher temperatures may lead to greater transmission of contagious diseases.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_16088.md)
+* [Preference for living in gated communities due to increased security and safety during pandemics](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_16885.md)
+* [Questioning the assumption that access control effectively prevents the spread of covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17388.md)
+* [Rapid and widespread virus spread despite quarantine and lockdown measures.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17533.md)
+* [Reliance on media for information about the pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17763.md)
+* [Slow vaccine rollout leading to low vaccination rate](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17785.md)
+* [Susceptibility of sars-cov-2 to heat and ultraviolet uv light may affect virus transmission under certain conditions.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_18629.md)
+* [The use of a facial mask detection system may lead to a false sense of security among the public, potentially reducing adherence to other important preventive measures for covid-19.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19163.md)
+* [Transmission of diseases through various sources circulation, respiration/air, human/animal body, water, clothing, surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19198.md)
+* [Transmission risk based on age and health status](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19633.md)
+* [Undetected infected persons contributing to disease spread](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20644.md)
+
+## This Technology belongs to this TechGroup
+
+* [Communication](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_3.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Public awareness campaign tools](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_27.md)
+
+## This technology is mentioned by
+
+* [Allam_pandemic_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_394.md)
+* [Amran_review_2022](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_403.md)
+* [Asfour_housing_2022](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_404.md)
+* [Aydin_questioning_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_426.md)
+* [Ayub_graphene-based_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_428.md)
+* [Burridge_ventilation_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_463.md)
+* [Cantarero_covid19-routes_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_500.md)
+* [Chamola_comprehensive_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_693.md)
+* [Chen_climate_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_533.md)
+* [Davis_epidemics_2022](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_582.md)
+* [Elsaid_critical_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_430.md)
+* [Hsiang_effect_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_451.md)
+* [Kaklauskas_covid-19_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_509.md)
+* [La_rosa_first_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_512.md)
+* [Li_seeing_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_589.md)
+* [Lodder_sars-cov-2_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_633.md)
+* [Matheri_water_2023](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_667.md)
+* [Mukerjee_mitigation_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_398.md)
+* [Nghiem_covid-19_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_491.md)
+* [Noszczyk_impact_2022](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_531.md)
+* [Panneer_health_2022](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_655.md)
+* [Rahman_automated_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_639.md)
+* [Rogers_city_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_675.md)
+* [Sainz-santamaria_governance_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_391.md)
+* [Semenza_prototype_2015](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_519.md)
+* [Ugolini_effects_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_600.md)
+* [Umair_impact_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_630.md)
+* [Wang_response_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_617.md)
+* [Wilkinson_local_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_575.md)
+* [Wu_current_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_433.md)
+* [Zhang_review_2022](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_666.md)
+

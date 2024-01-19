@@ -1,0 +1,85 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_5000 
+
+# __Geospatial analysis tools__
+
+## Risks linked to this technology
+
+* [Abstract definition of danger areas](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_4140.md)
+* [Assumption of spatial homogeneity of built environment attributes may result in overlooking localized factors influencing disease spread, leading to ineffective mitigation strategies.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_4369.md)
+* [Assumption of spatial stationarity in explanatory variables in the mlr model](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_4876.md)
+* [Changes in the type of green space visited during the pandemic containment period](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_6379.md)
+* [Concepts like "death of distance" and "friction of distance" minimizing the impact of geographical distance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_6423.md)
+* [Context-specific impacts of the pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_6427.md)
+* [Cultural and contextual differences in study locations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_6440.md)
+* [Differences in impact and response mechanisms across contexts](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_6448.md)
+* [Differences in the associations of built environment attributes in different geographical locations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_6994.md)
+* [Difficulty in identifying precise community transmission rates for meta-regression](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_7349.md)
+* [Examining the optimal distance from forest for its association with infection rates may neglect the impact of other environmental and social determinants of health in disease transmission.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_8806.md)
+* [Failure to account for environmental and human factors in resilience calculations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9069.md)
+* [High inertia indicating greater distance between profiles, potentially leading to ineffective planning of infrastructures for disease prevention.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9387.md)
+* [Historical and contemporary discussions of urban mobility and spatial structure may overlook the potential impact of contagious diseases on population movement and city networks.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9623.md)
+* [Identifying residents based on urban, suburban, or rural classification may lead to geographic discrimination and stereotyping.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9900.md)
+* [Impact of distance between forest and human settlements on infection rates](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10696.md)
+* [Inadequate understanding of the distribution of infected humans in each grid region may lead to ineffective evaluation of intervention effects.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12697.md)
+* [Infection clusters in less dense areas](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12708.md)
+* [Inference on model parameters for spatial locations based on covid-19 transmission dynamics may lead to biased or oversimplified conclusions about disease transmission in different geographical areas.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12884.md)
+* [Influence of physical environment on behavior and exposures leading to increased risk of disease transmission and chronic conditions.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_13467.md)
+* [Influence of urbanicity levels on forest-infection rate association](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_14409.md)
+* [Inherent geographical processes in the spread of infectious diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_14535.md)
+* [Lack of adaptive measures in spatial planning](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_14541.md)
+* [Lack of conceptualization of built environmental justice and health inequalities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_14553.md)
+* [Lack of consideration for interactions between populations in nearby localities and mobility networks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15064.md)
+* [Lack of studies on china and its built environment attributes may lead to misunderstanding of the local factors influencing disease spread in the region.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15233.md)
+* [Link between park use patterns and park access/proximity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_16575.md)
+* [Misrepresentation of human activity due to the use of simple aggregation measures based on zip code boundaries.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_16611.md)
+* [Neglect of spatial information in modeling epidemic interventions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19249.md)
+* [Overlooked relationship between infrastructure, agglomeration, and pandemics](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19250.md)
+* [Population density as a factor in covid-19 spread](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19282.md)
+* [Potential bias in the classification of urban-rural levels based on outdated scheme](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19305.md)
+* [Potential increase in health inequalities due to severe restrictions to mobility and park use during the covid-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19306.md)
+* [Stationarity assumption in relationships between environmental factors and health outcomes has been criticized, indicating potential variability in the impact of green spaces on infection rates.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19737.md)
+* [Stronger associations between greenspace exposure and health outcomes for low socioeconomic status groups](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19748.md)
+* [Uncertain accuracy of risk mapping approach](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20680.md)
+* [Uncertainty and irregular shape of traditional unit for quarantine measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20705.md)
+* [Utilization of ecological niche model enm for identifying potential risk zones](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20706.md)
+* [Variability in the impact of partial bar closure across regions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20712.md)
+* [Variability in the relationship between population density and covid-19 spread](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20714.md)
+* [Word matrix analysis revealing common terms related to nature and urbanization](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20864.md)
+
+## This Technology belongs to this TechGroup
+
+* [Data analytics](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_6.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Data visualization and modeling](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_10.md)
+
+## This technology is mentioned by
+
+* [Aloulou_design_2022](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_395.md)
+* [Araya_influence_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_402.md)
+* [Awada_ten_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_428.md)
+* [Cantarero_covid19-routes_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_476.md)
+* [Cao_analysis_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_612.md)
+* [Cheshmehzangi_revisiting_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_533.md)
+* [Collin_using_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_582.md)
+* [Frank_treating_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_677.md)
+* [Ghosh_study_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_619.md)
+* [Harris_respiratory_2022](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_437.md)
+* [Hosseini_review_2016](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_443.md)
+* [Hsiang_effect_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_471.md)
+* [Ingram_covid-19_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_504.md)
+* [Jiang_green_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_669.md)
+* [Larson_urban_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_694.md)
+* [Li_association_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_429.md)
+* [Perez-saez_effect_2022](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_491.md)
+* [Peters_how_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_572.md)
+* [Sainz-santamaria_governance_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_568.md)
+* [Salama_coronavirus_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_392.md)
+* [Sharifi_covid-19_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_482.md)
+* [Sigler_socio-spatial_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_537.md)
+* [Tatem_integrating_2014](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_580.md)
+* [Twohig-bennett_health_2018](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_548.md)
+* [Ugolini_effects_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_487.md)
+* [Yang_urban_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_613.md)
+

@@ -1,0 +1,22 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_8008 
+
+# __And public health infrastructure__
+
+## Risks linked to this technology
+
+* [Inadequate implementation of preventive measures recommended by who and cdc](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_6594.md)
+* [Uncontrolled sars-cov-2 transmission with a basic reproductive number close to 2 across regions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_16598.md)
+
+## This Technology belongs to this TechGroup
+
+* [Healthcare](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_2.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Remote healthcare and telemedicine](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_42.md)
+
+## This technology is mentioned by
+
+* [Chamola_comprehensive_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_430.md)
+* [Perez-saez_effect_2022](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_613.md)
+

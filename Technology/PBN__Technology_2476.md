@@ -1,0 +1,33 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_2476 
+
+# __Telecommunication tools and web-based applications__
+
+## Category to which it belongs
+
+* [Digital tools and technologies facilitating various functions and services on mobile devices.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_151.md)
+
+## Closest similar item
+
+* [Digital communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_242.md)
+* [Online communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3457.md)
+* [Telecommunication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3178.md)
+* [Telecommunication infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3298.md)
+* [Telecommunication technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2456.md)
+* [Telecommunication technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_717.md)
+* [Telecommunication technology internet](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2323.md)
+* [Telecommunication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3404.md)
+* [Web-based applications](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_243.md)
+* [Web-based tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3741.md)
+
+## This Technology belongs to this TechGroup
+
+* [Communication](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_3.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Communication and collaboration platforms](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_14.md)
+
+## This Technology enables the following mitigations
+
+* [Telecommunication tools](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3325.md)
+

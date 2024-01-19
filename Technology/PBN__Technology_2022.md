@@ -1,0 +1,37 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_2022 
+
+# __Better sealing mechanisms__
+
+## Category to which it belongs
+
+* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_169.md)
+
+## Closest similar item
+
+* [Enhanced cleaning and disinfecting protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3721.md)
+* [Enhanced cleaning and safety protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1752.md)
+* [Food storage and preservation technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3555.md)
+* [Improved ventilation technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1223.md)
+* [Moisture management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_797.md)
+* [Plastic barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2116.md)
+* [Proper sealing of pipes and sinks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3572.md)
+* [Sealed entrances](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3441.md)
+* [Sealing technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_728.md)
+* [Technology and materials for protection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1662.md)
+
+## Risks linked to this technology
+
+* [Lack of airtightness and safety concerns with reusable face shields](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2373.md)
+
+## This Technology belongs to this TechGroup
+
+* [Building design](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_4.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Building design](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_3.md)
+
+## This technology is mentioned by
+
+* [Supporting Technologies for COVID-19 Prevention: Systemized Review](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_266.md)
+

@@ -1,0 +1,37 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_304 
+
+# __Develop car-sharing platforms__
+
+## Category to which it belongs
+
+* [Digital platforms facilitate virtual collaboration, communication, information sharing, and online transactions among individuals and communities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_150.md)
+
+## Closest similar item
+
+* [Collaboration and communication platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_152.md)
+* [Collaboration platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1130.md)
+* [Collaboration platforms and emerging technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_155.md)
+* [Collaboration platforms for information sharing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1893.md)
+* [Collaborative platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1896.md)
+* [Data sharing platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2758.md)
+* [Improved communication and data sharing platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2038.md)
+* [Information sharing platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_884.md)
+* [Online platforms for sharing information](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1589.md)
+* [Participatory platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_253.md)
+
+## Risks linked to this technology
+
+* [Lack of access to private car](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1212.md)
+
+## This Technology belongs to this TechGroup
+
+* [Urban planning](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_1.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Smart city technologies](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_31.md)
+
+## This technology is mentioned by
+
+* [Responsible Transport: A post-COVID agenda for transport policy and practice](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_148.md)
+

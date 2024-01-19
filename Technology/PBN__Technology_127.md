@@ -1,0 +1,39 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_127 
+
+# __Ergonomic office furniture__
+
+## Category to which it belongs
+
+* [Building design and construction incorporate biophilic principles, modular techniques, and flexible layouts to create sustainable, resilient, and adaptable spaces.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_188.md)
+
+## Closest similar item
+
+* [Adjustable desks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1395.md)
+* [Adjustable furniture](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1397.md)
+* [Ergonomic chairs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3664.md)
+* [Ergonomic furniture](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2644.md)
+* [Flexible furniture](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2428.md)
+* [Furniture](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3391.md)
+* [Modular furniture](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_145.md)
+* [Outdoor furniture](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1396.md)
+* [Rearrangement of furniture](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1003.md)
+* [Standing desks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_496.md)
+
+## Risks linked to this technology
+
+* [Impact on working performance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1080.md)
+* [Inadequate workspace dimensions and ergonomic design can lead to physical discomfort and health issues for remote workers.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_8174.md)
+
+## This Technology belongs to this TechGroup
+
+* [Building design](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_4.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Building design](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_3.md)
+
+## This technology is mentioned by
+
+* [COVID-19 Lockdown: Housing Built Environment’s Effects on Mental Health](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_462.md)
+* [Elrayies_prophylactic_2022](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_254.md)
+

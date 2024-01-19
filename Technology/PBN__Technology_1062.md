@@ -1,0 +1,37 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_1062 
+
+# __Advanced monitoring and data analysis techniques can be used to study the relationship between indoor and outdoor conditions and influenza seasonality__
+
+## Category to which it belongs
+
+* [Improved indoor air quality and temperature control through advanced hvac technologies, air purifiers, and monitoring systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_179.md)
+
+## Closest similar item
+
+* [Air quality monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1747.md)
+* [Air quality monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1248.md)
+* [Air quality monitors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1485.md)
+* [Environmental and outdoor monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2137.md)
+* [Environmental monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_747.md)
+* [Indoor air quality sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1290.md)
+* [Indoor air technlogies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_705.md)
+* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2292.md)
+* [Meteorological monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2238.md)
+* [Outdoor air monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1980.md)
+
+## Risks linked to this technology
+
+* [Impact of indoor and outdoor conditions on influenza seasonality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1694.md)
+
+## This Technology belongs to this TechGroup
+
+* [Data analytics](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_6.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Real-time data tracking and monitoring](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_57.md)
+
+## This technology is mentioned by
+
+* [Mechanistic insights into the effect of humidity on airborne influenza virus survival, transmission and incidence](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_54.md)
+

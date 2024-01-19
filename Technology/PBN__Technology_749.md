@@ -1,0 +1,39 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_749 
+
+# __Sensor-activated faucets and soap dispensers__
+
+## Category to which it belongs
+
+* [Effective water management encompasses wastewater testing, waste management, rainwater storage, wastewater treatment technology, smart water consumption, and improved infrastructure.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_181.md)
+
+## Closest similar item
+
+* [Hand sanitizer dispensers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1021.md)
+* [Hand soap](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3895.md)
+* [Sensor devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1479.md)
+* [Sensor-based systems for monitoring facility usage and cleanliness](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1020.md)
+* [Sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3573.md)
+* [Soap](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2479.md)
+* [Soap dispensers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_200.md)
+* [Touchless faucets](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1367.md)
+* [Use of touchless technologies such as automatic faucets](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3249.md)
+* [Water sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3394.md)
+
+## Risks linked to this technology
+
+* [Lack of hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1473.md)
+
+## This Technology belongs to this TechGroup
+
+* [Healthcare](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_277.md)
+* [Iot](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_2.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Monitoring systems and sensors](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_29.md)
+* [Personal hygiene and sanitation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2169.md)
+
+## This technology is mentioned by
+
+* [Assessing the health and hygiene performance of apartment buildings](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_180.md)
+

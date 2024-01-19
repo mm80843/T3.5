@@ -1,0 +1,41 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_640 
+
+# __Improved ventilation and air filtration systems__
+
+## Category to which it belongs
+
+* [Improving air circulation through a variety of methods, including advanced systems, regular maintenance, and natural strategies.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_165.md)
+
+## Closest similar item
+
+* [Advanced air filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2264.md)
+* [Air filtration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_249.md)
+* [Air filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_646.md)
+* [Air filtration technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_203.md)
+* [Air purifiers and ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_797.md)
+* [Enhanced ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3148.md)
+* [Hvac systems with improved ventilation and air filtration capabilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2113.md)
+* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2506.md)
+* [Improved ventilation technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_308.md)
+* [Upgrading ventilation systems and implementing air purification methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_423.md)
+
+## Risks linked to this technology
+
+* [Indoor air pollutants](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_259.md)
+* [Presence of sars-cov-2 in air and on surfaces in healthcare environments](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_14868.md)
+
+## This Technology belongs to this TechGroup
+
+* [Air control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2215.md)
+* [Monitoring](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_12.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Indoor environment and ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2119.md)
+* [Ventilation](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_20.md)
+
+## This technology is mentioned by
+
+* [An Intelligent IEQ Monitoring and Feedback System: Development and Applications](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_62.md)
+* [Sarvari_global_2022](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_576.md)
+

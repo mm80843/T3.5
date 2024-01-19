@@ -1,0 +1,16 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_4298 
+
+# __And advanced detection and quantification techniques__
+
+## Risks linked to this technology
+
+* [Lack of effective methods for the recovery of sars-cov-2 from wastewater increases the risk of inaccurate data and underestimation of virus presence.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3677.md)
+
+## This Technology belongs to this TechGroup
+
+* [Healthcare](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_2.md)
+
+## This technology is mentioned by
+
+* [Ahmed_first_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_383.md)
+

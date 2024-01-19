@@ -1,0 +1,33 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_2709 
+
+# __Pragmatic trial design__
+
+## Category to which it belongs
+
+* [Building design and construction incorporate biophilic principles, modular techniques, and flexible layouts to create sustainable, resilient, and adaptable spaces.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_188.md)
+
+## Closest similar item
+
+* [Clinical trial data](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1959.md)
+* [Clinical trials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2697.md)
+* [Controlled experiments](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2154.md)
+* [Design strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2332.md)
+* [Health-focused design considerations and standards](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3547.md)
+* [Health-focused design principles and guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1429.md)
+* [Innovative design approaches](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_722.md)
+* [Legal frameworks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3891.md)
+* [Nature-based design strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2839.md)
+* [Tailored interventions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1339.md)
+
+## This Technology belongs to this TechGroup
+
+* [Healthcare](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_2.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Diagnostic testing](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_7.md)
+
+## This Technology enables the following mitigations
+
+* [Pragmatic clinical trials](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3606.md)
+

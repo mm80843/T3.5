@@ -1,0 +1,43 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_2900 
+
+# __Research facilities__
+
+## Category to which it belongs
+
+* [Accurate and reliable knowledge dissemination and fact-checking through interdisciplinary collaboration and intelligent information feedback.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_172.md)
+
+## Closest similar item
+
+* [Access to testing facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3065.md)
+* [Facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2899.md)
+* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_312.md)
+* [Laboratory facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2913.md)
+* [Manufacturing facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2299.md)
+* [Medical facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_764.md)
+* [Research](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1814.md)
+* [Research institutions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_261.md)
+* [Research studies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1086.md)
+* [Testing facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1995.md)
+
+## Risks linked to this technology
+
+* [Debatable antimicrobial mechanism of graphene materials](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_5015.md)
+* [Formation of protein aggregates and spatial gradients in ph in concentrated droplets](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_18667.md)
+
+## This Technology belongs to this TechGroup
+
+* [Healthcare](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_2.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Sequencing and genomic analysis](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_8.md)
+
+## This Technology enables the following mitigations
+
+* [Research](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_318.md)
+
+## This technology is mentioned by
+
+* [Ayub_graphene-based_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_404.md)
+* [Marr_mechanistic_2019](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_656.md)
+

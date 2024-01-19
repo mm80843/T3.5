@@ -1,0 +1,20 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_5510 
+
+# __Survey management systems with reminder features and tracking mechanisms__
+
+## Risks linked to this technology
+
+* [Sending a questionnaire to a large population may result in a low response rate, affecting the representativeness of the sample.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_4533.md)
+
+## This Technology belongs to this TechGroup
+
+* [Data analytics](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_6.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Information dissemination platforms](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_50.md)
+
+## This technology is mentioned by
+
+* [Asfour_housing_2022](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_398.md)
+

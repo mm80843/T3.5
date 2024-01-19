@@ -1,0 +1,17 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_15661 
+
+# __Tx__
+
+## Risk affecting this stakeholder
+
+* [Increased hvac loads for 2020 compared to 2018 under equivalent weather conditions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20340.md)
+* [Variation in hvac use due to differences in setpoints adjusted by homeowners](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20341.md)
+
+## This Stakeholder belongs to this Stakeholder Group
+
+* [General public](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_2.md)
+
+## This Stakeholder belongs to this Stakeholder Subgroup
+
+* [General population](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_3.md)
+

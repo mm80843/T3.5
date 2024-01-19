@@ -1,0 +1,33 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_3790 
+
+# __Health records__
+
+## Category to which it belongs
+
+* [The intersection of public health and technology, including mobile apps, messaging systems, data analytics, and ai, to promote health and educate communities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_154.md)
+
+## Closest similar item
+
+* [Access to healthcare](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1423.md)
+* [Disease registries](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2711.md)
+* [Electronic health record systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_513.md)
+* [Electronic health records](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2040.md)
+* [Electronic health records and data tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2710.md)
+* [Existing health data capture](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1514.md)
+* [Health data collection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_613.md)
+* [Health information systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_334.md)
+* [Public health agencies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3491.md)
+* [Public health authorities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2699.md)
+
+## This Technology belongs to this TechGroup
+
+* [Healthcare](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_2.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Personal hygiene and sanitation](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_29.md)
+
+## This Technology enables the following mitigations
+
+* [Correlating health issues with movement patterns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5153.md)
+

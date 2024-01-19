@@ -1,0 +1,16 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_7988 
+
+# __And automation technology for testing facilities__
+
+## Risks linked to this technology
+
+* [Absence of large scale testing for covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_6575.md)
+
+## This Technology belongs to this TechGroup
+
+* [Infrastructure management](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_7.md)
+
+## This technology is mentioned by
+
+* [Chamola_comprehensive_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_430.md)
+

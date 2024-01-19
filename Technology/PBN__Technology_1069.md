@@ -1,0 +1,45 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_1069 
+
+# __Secure servers__
+
+## Category to which it belongs
+
+* [Data protection measures, privacy regulations, encryption and authentication techniques, and standardized protocols ensure secure and anonymous communication.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_168.md)
+
+## Closest similar item
+
+* [Encryption](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_345.md)
+* [Encryption and security algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3792.md)
+* [Lightweight security algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1879.md)
+* [Network security measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3593.md)
+* [Secure data storage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_574.md)
+* [Secure data storage systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1302.md)
+* [Secure protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_101.md)
+* [Secure server networks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_97.md)
+* [Security systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2193.md)
+* [Server infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3092.md)
+
+## Risks linked to this technology
+
+* [Collection of personal information including age and gender](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1362.md)
+* [Privacy and data security](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1697.md)
+* [Privacy and security concerns in contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_6395.md)
+
+## This Technology belongs to this TechGroup
+
+* [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_7.md)
+* [Data privacy](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2241.md)
+* [Infrastructure management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2191.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Data anonymization and protection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2194.md)
+* [Data storage and backup systems](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_46.md)
+* [Healthcare infrastructure and telecommunication networks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2195.md)
+
+## This technology is mentioned by
+
+* [Cantarero_covid19-routes_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_428.md)
+* [Mobile Technology Solution for COVID-19: Surveillance and Prevention](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_162.md)
+* [Water and wastewater digital surveillance for monitoring and early detection of the COVID-19 hotspot: industry 4.0](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_239.md)
+

@@ -1,0 +1,41 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_3696 
+
+# __International partnerships__
+
+## Category to which it belongs
+
+* [Enforcement, regulation, and policy measures are implemented to ensure compliance, ethical standards, and effective governance.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_187.md)
+
+## Closest similar item
+
+* [Collaboration agreements](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2984.md)
+* [International collaboration platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2771.md)
+* [International cooperation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_918.md)
+* [International cooperation and coordination](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_445.md)
+* [International coordination](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_611.md)
+* [International organizations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3750.md)
+* [International policy framework](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_55.md)
+* [Partnership agreements](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3697.md)
+* [Public-private partnerships](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_734.md)
+* [Transnational governance mechanisms and cooperative agreements](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2719.md)
+
+## Risks linked to this technology
+
+* [Lack of cross-border collaboration leading to uncoordinated efforts in disease control.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10808.md)
+
+## This Technology belongs to this TechGroup
+
+* [Infrastructure management](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_7.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Capacity-building and infrastructure development tools](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_22.md)
+
+## This Technology enables the following mitigations
+
+* [Collaboration with national and international partners](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5027.md)
+
+## This technology is mentioned by
+
+* [Wilson_importance_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_510.md)
+

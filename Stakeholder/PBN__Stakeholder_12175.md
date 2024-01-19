@@ -1,0 +1,17 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_12175 
+
+# __City managers__
+
+## Risk affecting this stakeholder
+
+* [Managers not networking and sharing information about adaptive responses to covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15124.md)
+* [Underutilization of smart city resources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15136.md)
+
+## This Stakeholder belongs to this Stakeholder Group
+
+* [Cities officials](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_11.md)
+
+## This Stakeholder belongs to this Stakeholder Subgroup
+
+* [Municipality officials](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_8.md)
+

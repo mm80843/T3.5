@@ -1,0 +1,17 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_13208 
+
+# __Office administration__
+
+## Risks that can be mitigated by this stakeholder
+
+* [Ineffective administrative follow-up in covid-19 control](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_16442.md)
+* [Lack of employee motivation to cooperate with covid-19 guidelines](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_16443.md)
+
+## This Stakeholder belongs to this Stakeholder Group
+
+* [Workers](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_8.md)
+
+## This Stakeholder belongs to this Stakeholder Subgroup
+
+* [Office workers](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_45.md)
+

@@ -1,0 +1,16 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_10727 
+
+# __Local governments and urban development authorities__
+
+## Risks that can be mitigated by this stakeholder
+
+* [Lack of emphasis on walkable and cyclable urban environments may lead to continued reliance on cars, increasing pollution and health risks.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_13102.md)
+
+## This Stakeholder belongs to this Stakeholder Group
+
+* [Government institutions](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_1.md)
+
+## This Stakeholder belongs to this Stakeholder Subgroup
+
+* [Local government](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_37.md)
+

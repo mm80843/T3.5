@@ -1,0 +1,17 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_10420 
+
+# __Individuals using public spaces__
+
+## Risk affecting this stakeholder
+
+* [Collection of personal data through face scanners and iot devices raises privacy concerns and potential misuse of data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12732.md)
+* [Dramatic increase in positive cases leading to strict limitations on outdoor activities and public spaces.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_14723.md)
+
+## This Stakeholder belongs to this Stakeholder Group
+
+* [General public](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_2.md)
+
+## This Stakeholder belongs to this Stakeholder Subgroup
+
+* [Visitors in indoor spaces](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_50.md)
+

@@ -1,0 +1,33 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_2129 
+
+# __Promotion of outdoor activities during lockdown__
+
+## Category to which it belongs
+
+* [Promoting sustainable and inclusive outdoor environments through land use regulation, environmental surveillance, and community gardening.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_161.md)
+
+## Closest similar item
+
+* [Access to outdoor spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1872.md)
+* [Locks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1846.md)
+* [Nan promotion of outdoor nan nan activities during lockdown](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_250.md)
+* [Outdoor gathering spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2809.md)
+* [Outdoor seating areas](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3686.md)
+* [Outdoor spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_662.md)
+* [Park/garden maintenance equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1740.md)
+* [Parks and recreation planning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3695.md)
+* [Safety awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1667.md)
+* [Sport and recreation spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2389.md)
+
+## This Technology belongs to this TechGroup
+
+* [Urban planning](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_1.md)
+* [Urban technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2100.md)
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2270.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Community management technologies](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_79.md)
+* [Green spaces and urban design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2128.md)
+* [Urban planning and green spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2127.md)
+

@@ -1,0 +1,41 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_3706 
+
+# __Object detection algorithms__
+
+## Category to which it belongs
+
+* [Enhanced monitoring and tracking technologies ensure efficient surveillance, tracking, and crowd management without compromising privacy.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_186.md)
+
+## Closest similar item
+
+* [Computer vision](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3855.md)
+* [Detectors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3140.md)
+* [Face recognition](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_707.md)
+* [Facial recognition](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2402.md)
+* [Facial recognition systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3238.md)
+* [Image processing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3705.md)
+* [Improved detection methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3654.md)
+* [Video surveillance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3043.md)
+* [Video surveillance systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3638.md)
+* [Vision algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1355.md)
+
+## Risks linked to this technology
+
+* [Inaccurate object detection leading to incorrect measurements](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_14428.md)
+
+## This Technology belongs to this TechGroup
+
+* [Sensors and monitoring](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_8.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Sensor technologies](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_81.md)
+
+## This Technology enables the following mitigations
+
+* [Deep learning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5032.md)
+
+## This technology is mentioned by
+
+* [Shorfuzzaman_towards_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_569.md)
+

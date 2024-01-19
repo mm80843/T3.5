@@ -1,0 +1,33 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_3590 
+
+# __Snomed__
+
+## Category to which it belongs
+
+* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_166.md)
+
+## Closest similar item
+
+* [Anterooms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3392.md)
+* [Anylogic](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3260.md)
+* [Emergency psychiatric services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2610.md)
+* [Gotomeeting](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3278.md)
+* [Medications](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3183.md)
+* [Mhealth](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2497.md)
+* [Mopso](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3062.md)
+* [Natural](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1287.md)
+* [Pharmaceutical companies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3565.md)
+* [Social pods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_761.md)
+
+## This Technology belongs to this TechGroup
+
+* [Healthcare](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_2.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Diagnostic testing](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_7.md)
+
+## This Technology enables the following mitigations
+
+* [Common standards](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4905.md)
+

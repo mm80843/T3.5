@@ -1,0 +1,43 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_459 
+
+# __Workplace safety technology__
+
+## Category to which it belongs
+
+* [Implementing measures and protocols to ensure the protection and well-being of individuals in various emergency situations.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_184.md)
+
+## Closest similar item
+
+* [Easily accessible safety resources and contacts](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1234.md)
+* [Health and safety protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2449.md)
+* [Rigorous safety testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_810.md)
+* [Safety awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1878.md)
+* [Safety barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1158.md)
+* [Safety measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_693.md)
+* [Safety monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1667.md)
+* [Safety protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1669.md)
+* [Safety regulations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_527.md)
+* [Social safety nets](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2023.md)
+
+## Risks linked to this technology
+
+* [Slowdown in digitization due to covid-19 outbreak](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1298.md)
+* [Social distancing impact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_7205.md)
+* [Urban inequities leading to differential exposure to unhealthy conditions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12587.md)
+
+## This Technology belongs to this TechGroup
+
+* [Educational resources](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_2.md)
+* [Healthcare](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_572.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Educational and training resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2082.md)
+* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_12.md)
+
+## This technology is mentioned by
+
+* [Cole_navigating_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_442.md)
+* [Covid-19 Associated Risks and Mitigation Strategies relevant for the UK Construction Industry](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_531.md)
+* [Umair_impact_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_210.md)
+

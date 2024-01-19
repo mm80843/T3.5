@@ -1,0 +1,20 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_10138 
+
+# __And public health educators__
+
+## Risk affecting this stakeholder
+
+* [Public misunderstanding of epidemic complexity and risk analysis](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19066.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Perceived clarity of covid-19 measures may be low, leading to confusion and potential non-adherence to the guidelines.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12391.md)
+
+## This Stakeholder belongs to this Stakeholder Group
+
+* [Health organisations](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_7.md)
+
+## This Stakeholder belongs to this Stakeholder Subgroup
+
+* [Public health authorities](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_14.md)
+

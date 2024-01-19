@@ -1,0 +1,15 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_10816 
+
+# __Building management and developers__
+
+## Risks that can be mitigated by this stakeholder
+
+* [Inadequate air filtration systems against pathogen propagation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_13246.md)
+* [Limited or zero access to common areas and non-essential amenities in residential buildings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_13247.md)
+* [Risk of covid-19 propagation in common building spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20547.md)
+* [Shared areas in condo buildings seen as risky inconvenience due to covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20548.md)
+
+## This Stakeholder belongs to this Stakeholder Group
+
+* [Construction and infrastructure industry](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_10.md)
+

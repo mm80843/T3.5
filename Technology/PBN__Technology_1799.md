@@ -1,0 +1,41 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_1799 
+
+# __Online marketing__
+
+## Category to which it belongs
+
+* [Digital platforms facilitate virtual collaboration, communication, information sharing, and online transactions among individuals and communities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_150.md)
+
+## Closest similar item
+
+* [Communication and marketing strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2087.md)
+* [Digital and online marketing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_906.md)
+* [Digital marketing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_441.md)
+* [Digital marketing techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_439.md)
+* [Marketing campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_732.md)
+* [Marketing research](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3100.md)
+* [Marketing strategy](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1696.md)
+* [Online campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3099.md)
+* [Online marketplaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1702.md)
+* [Online promotion](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_46.md)
+
+## Risks linked to this technology
+
+* [Decline in retail sales](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2207.md)
+
+## This Technology belongs to this TechGroup
+
+* [Communication](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_3.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Communication and collaboration platforms](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_14.md)
+
+## This Technology enables the following mitigations
+
+* [Incentives to the local economy](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3642.md)
+
+## This technology is mentioned by
+
+* [Proximity and post-COVID-19 urban development: Reflections from Milan, Italy](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_216.md)
+

@@ -1,0 +1,51 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_1930 
+
+# __Ozonation__
+
+## Category to which it belongs
+
+* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_166.md)
+
+## Closest similar item
+
+* [Acetone](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3800.md)
+* [Advanced wastewater treatment technologies such as uv disinfection or ozonation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1907.md)
+* [Aerators](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1356.md)
+* [Airflow](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2874.md)
+* [Anterooms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2480.md)
+* [Fountains](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1901.md)
+* [Ozonation technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3075.md)
+* [Ozone](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3278.md)
+* [Various disinfection technologies including ozone](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3074.md)
+* [Water](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1116.md)
+
+## Risks linked to this technology
+
+* [Exposure to contaminated wastewater with pathogens](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2315.md)
+* [Inadequate ventilation and air filtration in buildings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_5173.md)
+* [Ineffectiveness of conventional wastewater treatment processes in removing sars-cov-2](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9399.md)
+* [Possible transmission of contagious diseases through untreated wastewater](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_14282.md)
+* [Potential contamination of wastewater and effluent water with pedv and mgv viruses](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_16053.md)
+* [Survival of viruses in water and sewage](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17622.md)
+* [Transmission of contagious diseases through wastewater collection system](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_18572.md)
+
+## This Technology belongs to this TechGroup
+
+* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2226.md)
+* [Water control](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_5.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Disinfection equipment and supplies](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_62.md)
+* [Water disinfection solutions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2133.md)
+
+## This technology is mentioned by
+
+* [Barcelo_environmental_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_635.md)
+* [Detection of SARS-CoV-2 in raw and treated wastewater in Germany – Suitability for COVID-19 surveillance and potential transmission risks](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_407.md)
+* [Hart_computational_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_483.md)
+* [Matheri_water_2023](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_655.md)
+* [Navaratnam_designing_2022](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_566.md)
+* [Randazzo_sars-cov-2_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_0.md)
+* [Sims_future_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_599.md)
+

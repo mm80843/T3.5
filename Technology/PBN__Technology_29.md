@@ -1,0 +1,132 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_29 
+
+# __Contact tracing technology__
+
+## Category to which it belongs
+
+* [Advancements in various technological domains facilitate touchless, remote, and efficient ways of communication, work, and data management.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_158.md)
+
+## Closest similar item
+
+* [Advanced contact tracing and monitoring technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1460.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_289.md)
+* [Contact tracing and control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_402.md)
+* [Contact tracing software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1621.md)
+* [Contact tracing technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_793.md)
+* [Digital contact tracing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1258.md)
+* [Digital contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2484.md)
+* [Manual contact tracing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1066.md)
+* [Testing and contact tracing technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2112.md)
+* [Use of technology for contact tracing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3205.md)
+
+## Risks linked to this technology
+
+* [60% reduction in transmission if not quarantined within 1 day from symptom onset, social distancing based on degree of pragmatism](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_153.md)
+* [Assessment of workplace measures for preventing and controlling sars-cov-2 transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1487.md)
+* [Asymptomatic transmission of covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1305.md)
+* [Challenges in determining the distribution and magnitude of infected populations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1030.md)
+* [Challenges in workplace management during and after the covid-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3427.md)
+* [Close collaboration with local authorities and citizen partners may increase the risk of disease transmission if proper health and safety measures are not followed.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_4017.md)
+* [Contagious diseases propagation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_4372.md)
+* [Crowded spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_4566.md)
+* [Decreased noise levels during lockdown may lead to an increase in human interaction and activity, contributing to the potential spread of contagious diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_4585.md)
+* [Easing of restrictions leading to increased social gatherings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_4597.md)
+* [Exposure to contagious diseases through global interlinkages and interdependencies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_5112.md)
+* [Facile transmission of sars-cov-2 via the air](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_6373.md)
+* [Global spread of covid-19 pandemic with over 107 million infections and 2.4 million deaths worldwide.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_6539.md)
+* [High employee engagement and satisfaction levels may lead to complacency and reduced vigilance in maintaining health and safety protocols, increasing the risk of contagious disease transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_7555.md)
+* [High infection rates in adult populations with acute respiratory illness](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_7589.md)
+* [Historical evidence of urban strategies of containment and spatial distancing to combat disease since ancient times, prefiguring modern social distancing strategies.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_7676.md)
+* [Human-to-human transmission and infectious incubation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_7677.md)
+* [Human-to-human transmission of the sars-cov-2 virus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_7708.md)
+* [Hypothesized social distance may not reflect practical conditions, especially in spaces with strong population mobility or irregular shapes.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_7755.md)
+* [Inconsistent compliance with ppe recommendations for covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_8007.md)
+* [Inconsistent implementation of surveillance measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_8034.md)
+* [Increase in population leading to higher human-human contact and human-environment contact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_8894.md)
+* [Increased employment rates for immigrants in certain countries](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9320.md)
+* [Ineffective contact tracing and isolation leading to uncontrolled spread](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9739.md)
+* [Infectious disease outbreaks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10059.md)
+* [Insufficient mass testing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10266.md)
+* [Insufficient monitoring data for contagious diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10586.md)
+* [Insufficient social distancing measures leading to increased disease transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_11652.md)
+* [Lack of enforcement of policies mandating employees to refrain from work when symptomatic or exposed to covid-19 can result in workplace transmission of the virus.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12356.md)
+* [Lack of social distancing at construction sites](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12357.md)
+* [Lack of sustained compliance with public health measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_13320.md)
+* [Modeling association between people and transmission risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_13681.md)
+* [Opportunity for onward transmission at destination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_13713.md)
+* [Outbreaks of covid-19 linked to common indoor environmental factors](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15726.md)
+* [Positive influence of employees in nursing professions on infection numbers](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_16017.md)
+* [Potential spread of contagious diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_16940.md)
+* [Prevalence of covid-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_16963.md)
+* [Rapid and widespread virus spread despite quarantine and lockdown measures.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17174.md)
+* [Reduction in covid-19 indicators during and after lockdown](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17302.md)
+* [Risk of social distancing violations leading to high-risk categories of individuals](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17799.md)
+* [Risk of widespread transmission in public settings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_18257.md)
+* [Spread of respiratory pandemics like covid-19 in urban settings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19536.md)
+* [Suspension of projects due to contagious virus](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19588.md)
+* [The spread of contagious diseases such as covid-19 in vulnerable communities within protected and conserved areas](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19589.md)
+* [Transmission of contagious diseases in the construction industry](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19912.md)
+* [Transmission of covid-19 among construction workers due to lack of effective protocols](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20093.md)
+* [Transmission of covid-19 within supply chains](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20099.md)
+* [Transmission risks in close-distance social interactions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20772.md)
+* [Variability in daily case counts better explained by factors unrelated to human mobility from wuhan](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20837.md)
+
+## This Technology belongs to this TechGroup
+
+* [Data analytics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_277.md)
+* [Healthcare](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_2.md)
+* [Iot](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_6.md)
+* [Surveillance systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_0.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Contact tracing technologies](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_13.md)
+* [Monitoring systems and sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2169.md)
+* [Social distancing technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1460.md)
+
+## This Technology enables the following mitigations
+
+* [Testing and contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3347.md)
+
+## This technology is mentioned by
+
+* [Abideen_mitigation_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_86.md)
+* [Allam_pandemic_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_395.md)
+* [Araya_influence_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_406.md)
+* [Asfour_housing_2022](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_428.md)
+* [Assaad_guidelines_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_553.md)
+* [Azuma_environmental_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_593.md)
+* [Cantarero_covid19-routes_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_673.md)
+* [Chamola_comprehensive_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_680.md)
+* [Cumming_building_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_489.md)
+* [Daughton_wastewater_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_619.md)
+* [Davis_epidemics_2022](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_285.md)
+* [Design and Implementation of Entry-level COVID-19 Digital Signage Player supporting Fever Detection, Face Mask Wearing Detection and KI-pass QR Code Checking](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_94.md)
+* [Ehlert_socio-economic_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_399.md)
+* [Epidemics, Planning and the City: A Special Issue of Planning Perspectives](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_430.md)
+* [Gamil_impact_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_447.md)
+* [Harris_respiratory_2022](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_451.md)
+* [Hou_study_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_494.md)
+* [Ibn-mohammed_critical_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_511.md)
+* [Iezadi_effectiveness_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_628.md)
+* [Ingram_covid-19_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_648.md)
+* [Ioannidis_coronavirus_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_450.md)
+* [James_smart_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_398.md)
+* [Kraemer_effect_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_472.md)
+* [Kumar_role_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_626.md)
+* [Leal_filho_covid-19_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_639.md)
+* [Lee_attitudes_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_482.md)
+* [Megahed_indoor_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_460.md)
+* [Mukerjee_mitigation_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_376.md)
+* [Obonyo_decision_2018](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_674.md)
+* [Oecd_what_2022](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_152.md)
+* [Overview of the mitigation strategies for COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_696.md)
+* [Raoufi_identifying_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_527.md)
+* [Rezaei_deepsocial_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_391.md)
+* [Sun_efficacy_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_544.md)
+* [The Impact of the COVID-19 Pandemic on the Space Pattern Changes in Buildings](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_683.md)
+* [Tian_investigation_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_598.md)
+* [Van_rooij_compliance_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_501.md)
+* [Willems_how_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_698.md)
+* [Zhang_effective_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_496.md)
+

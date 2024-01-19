@@ -1,0 +1,18 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/pages/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_15999 
+
+# __Individuals who require contact tracing__
+
+## Risk affecting this stakeholder
+
+* [The effectiveness of test and trace depends strongly on coverage and the timeliness of contact tracing.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20895.md)
+
+## This Stakeholder belongs to this Stakeholder Group
+
+* [General public](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_7.md)
+* [Health organisations](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_2.md)
+
+## This Stakeholder belongs to this Stakeholder Subgroup
+
+* [Patients](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_14.md)
+* [Public health authorities](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_10.md)
+

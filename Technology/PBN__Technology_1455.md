@@ -1,0 +1,116 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_1455 
+
+# __Risk assessment tools__
+
+## Category to which it belongs
+
+* [Implementing measures and protocols to ensure the protection and well-being of individuals in various emergency situations.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_184.md)
+
+## Closest similar item
+
+* [Credit risk assessment technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1138.md)
+* [Data analytics for identifying high-risk areas](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1198.md)
+* [Hazard mapping tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3013.md)
+* [Risk assessment and credit scoring technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1677.md)
+* [Risk assessment and management technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1793.md)
+* [Risk assessment and management tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1410.md)
+* [Risk management strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_530.md)
+* [Risk reduction measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1523.md)
+* [Supply chain risk analytics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1139.md)
+* [Vulnerability assessment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3677.md)
+
+## Risks linked to this technology
+
+* [Concentration of suppliers or clients making some firms and supply chains vulnerable to shocks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2205.md)
+* [Covid-19 beliefs influence vacation plans.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1974.md)
+* [Covid-19-related impacts on pca finance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2051.md)
+* [Credit constraints affecting smes’ employment and operations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_4035.md)
+* [Cumulative investment decline in germany and france due to coronavirus spread](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_4345.md)
+* [Dependence on localized production for security of supply](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_4654.md)
+* [Dependence on single suppliers](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_5003.md)
+* [Economic impact on labor costs, project costs, and recovery of damages](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_5765.md)
+* [Evaluation of solutions based on cost functions may not account for contagious disease propagation risk.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_5814.md)
+* [Failure to provide adequate site-specific safety plans](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_5865.md)
+* [Financial impacts on construction companies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_5873.md)
+* [Globalization](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_7539.md)
+* [Graphene derivatives with larger lateral size have stronger adsorption ability, which affects the physicochemical interaction with microorganisms.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_8543.md)
+* [High cost of borrowing for smes in developing nations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9263.md)
+* [High impact of covid-19 on construction industry](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9277.md)
+* [Historical price crashes and demand shocks leaving marks on global energy system](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9294.md)
+* [Inadequate consideration of the impact of employee initiatives and strategic plans on disease transmission risk within the built environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9299.md)
+* [Inadequate disaster management policy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9606.md)
+* [Inadequate ppe for workers based on their specific risks, leading to insufficient protection from covid-19 exposure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9793.md)
+* [Inadequate understanding of health club facility risks in relation to pandemic propagation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10237.md)
+* [Increase in uncertainties and disruptions in mega projects](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10549.md)
+* [Influences of risk perception on consumer behavior in tourism](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_11164.md)
+* [Insufficient consideration of building type in the effectiveness of prevention methods](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_11367.md)
+* [Lack of appropriate lending technology for credit-rationed smes](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_11483.md)
+* [Lack of consideration for the link between value and risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_11653.md)
+* [Lack of preparedness for future events](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_13006.md)
+* [Lack of regular covid-19 infection risk assessment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_13025.md)
+* [Lack of risk identification and assessment for covid-19 in the workplace](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_13526.md)
+* [Legal costs and unexpected additional costs due to sop compliance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_13562.md)
+* [Limited protection to facilities or objects without considering dependencies or interdependencies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_13563.md)
+* [Localised supply chains are found to be more vulnerable to shocks for most countries.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_13564.md)
+* [Low client satisfaction and service quality in the indian construction and real estate sector](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_13728.md)
+* [Magnitude of bank responses in the ’exit stage’](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_14836.md)
+* [Overestimation of contingency planning](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15540.md)
+* [Propagation of economic shocks across different industries and geographical locations through gvcs](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15687.md)
+* [Rapid increase in loan stock may indicate excessive risk-taking by banks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15691.md)
+* [Reliance on adult female mosquitoes to disseminate insecticide-auto-dissemination for targeting ae. aegypti.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17202.md)
+* [Relocation decisions based on anticipated access requirements of customers may increase the risk of disease spread.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17215.md)
+* [Risk of project overrun and delay](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17246.md)
+* [Risk tolerance and management not critically performed](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17247.md)
+* [Risks and instability associated with international fragmentation of production](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17249.md)
+* [Tightly controlled production environment may lead to a false sense of security and neglect of potential risks.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17254.md)
+* [Uncertain and unexpected outcomes](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_18010.md)
+* [Uncertainty of stability of recent urban governance innovations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19336.md)
+* [Unrealistic assumption of 100% quality of community infrastructure before earthquake](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19700.md)
+* [Vulnerability of industries to disruptions in global supply chains](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19879.md)
+* [Vulnerability to natural hazards](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20219.md)
+* [Worsening market conditions impacting fund performance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20403.md)
+
+## This Technology belongs to this TechGroup
+
+* [Ai tools](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_2.md)
+* [Healthcare](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1316.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Environment and healthcare management tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
+* [Vaccination development and distribution](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2056.md)
+
+## This technology is mentioned by
+
+* [Allam_pandemic_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_395.md)
+* [Araya_influence_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_404.md)
+* [Assaad_guidelines_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_419.md)
+* [Ayub_graphene-based_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_495.md)
+* [Bolivar_learning_2022](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_554.md)
+* [Bou_hatoum_analysis_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_643.md)
+* [Bratic_should_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_489.md)
+* [Cumming_building_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_399.md)
+* [Fawzy_covid-19_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_447.md)
+* [G_overcoming_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_466.md)
+* [Hosseini_review_2016](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_511.md)
+* [Hou_study_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_589.md)
+* [Ibrahim_assessment_2022](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_175.md)
+* [Kaushal_strategies_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_592.md)
+* [King_mechanisms_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_418.md)
+* [Kuzemko_covid-19_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_480.md)
+* [Lawal_covid-19_2022](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_690.md)
+* [Ligsay_challenges_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_549.md)
+* [Mokhtari_effect_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_576.md)
+* [Oecd_global_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_420.md)
+* [Perception of COVID-19 impacts on the construction industry over time](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_487.md)
+* [Preparing critical infrastructure for the future: Lessons learnt from the Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_391.md)
+* [Rizvi_covid-19_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_676.md)
+* [Rogers_city_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_627.md)
+* [Sarvari_global_2022](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_670.md)
+* [Sunandar_preventing_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_539.md)
+* [Taghizadeh-hesary_covid-19_2022](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_501.md)
+* [The Socio-Spatial Determinants of COVID-19 Diffusion: The Impact of Globalisation, Settlement Characteristics and Population](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_293.md)
+* [Tomalska_preparing_2022](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_686.md)
+* [Willems_how_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_679.md)
+* [Zhang_effective_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_129.md)
+
