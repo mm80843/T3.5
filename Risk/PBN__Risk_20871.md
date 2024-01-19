@@ -1,0 +1,40 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_20871 
+
+# __Lack of research on the influence of cultural factors on workplace viral transmission and interaction with covid-19 ipc measures__
+
+## Articles mentionning the risk
+
+* [Ingram_covid-19_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_619.md)
+
+## Mitigations of this risk
+
+* [Conduct tailored education initiatives to address cultural factors and their influence on workplace viral transmission](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_22857.md)
+
+## Name of the risk
+
+Increased risk of workplace viral transmission and ineffective COVID-19 IPC measures
+
+## People affected by this risk
+
+* [Public health officials](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
+* [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_310.md)
+* [Workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_128.md)
+
+## Stakeholders who can mitigate this risk
+
+* [Public health organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_173.md)
+* [Research institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_413.md)
+
+## Technologies linked to the risk
+
+* [Cultural sensitivity training](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_550.md)
+* [Tailored educational programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_23071.md)
+
+## This Risk belongs to this RiskGroup
+
+* [Public health risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_3.md)
+
+## This Risk belongs to this RiskSubgroup
+
+* [Public health messaging and education](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_28.md)
+

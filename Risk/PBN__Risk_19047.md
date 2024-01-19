@@ -1,0 +1,41 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_19047 
+
+# __Potential spread of antibiotic-resistant bacteria due to misclassification of bacterial protective antigens bpas by ai in reverse vaccinology.__
+
+## Articles mentionning the risk
+
+* [Madurai_elavarasan_restructured_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_664.md)
+
+## Mitigations of this risk
+
+* [Regular screening for antibiotic-resistant strains, validation and verification of ai predictions.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_21018.md)
+
+## Name of the risk
+
+Increased resistance to existing antibiotics and difficulty in treating bacterial infections.
+
+## People affected by this risk
+
+* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
+* [Healthcare providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_121.md)
+* [Patients with bacterial infections](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_14793.md)
+
+## Stakeholders who can mitigate this risk
+
+* [Healthcare organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_216.md)
+* [Pharmaceutical companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_413.md)
+* [Research institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_124.md)
+
+## Technologies linked to the risk
+
+* [Genetic sequencing tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2555.md)
+* [Machine learning algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_21352.md)
+
+## This Risk belongs to this RiskGroup
+
+* [Public health risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_3.md)
+
+## This Risk belongs to this RiskSubgroup
+
+* [Misinterpretation of data and results](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_3.md)
+

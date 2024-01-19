@@ -1,0 +1,40 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_18850 
+
+# __High cost and maintenance needs discourage green roof installation.__
+
+## Articles mentionning the risk
+
+* [Manso_role_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_660.md)
+
+## Mitigations of this risk
+
+* [Reduce the cost and maintenance requirements of green roof systems.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_20821.md)
+
+## Name of the risk
+
+Reduced adoption of green roof systems, leading to limited access to vegetation in homes.
+
+## People affected by this risk
+
+* [Homeowners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_59.md)
+* [Residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_478.md)
+
+## Stakeholders who can mitigate this risk
+
+* [Construction companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_566.md)
+* [Local governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_125.md)
+* [Urban planners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_181.md)
+
+## Technologies linked to the risk
+
+* [Cost-effective construction techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_21154.md)
+* [Low-maintenance green roof materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_21155.md)
+
+## This Risk belongs to this RiskGroup
+
+* [Economic risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_5.md)
+
+## This Risk belongs to this RiskSubgroup
+
+* [Financial strains and liquidity crises](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_31.md)
+

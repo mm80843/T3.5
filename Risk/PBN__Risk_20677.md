@@ -1,0 +1,38 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_20677 
+
+# __Failure to consider other significant factors associated with infection rates__
+
+## Articles mentionning the risk
+
+* [Jiang_green_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_694.md)
+
+## Mitigations of this risk
+
+* [Conduct comprehensive studies to include other significant factors](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_22659.md)
+
+## Name of the risk
+
+Overlooking important contributors to infection rates and ineffective mitigation strategies
+
+## People affected by this risk
+
+* [Public health officials](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
+* [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_310.md)
+
+## Stakeholders who can mitigate this risk
+
+* [Public health officials](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
+* [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_310.md)
+
+## Technologies linked to the risk
+
+* [N/a](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_4132.md)
+
+## This Risk belongs to this RiskGroup
+
+* [Technological risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_8.md)
+
+## This Risk belongs to this RiskSubgroup
+
+* [Healthcare and medical risks](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_15.md)
+

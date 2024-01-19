@@ -1,0 +1,37 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_20784 
+
+# __Limited generalizability of research results__
+
+## Articles mentionning the risk
+
+* [Jallow_impact_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_697.md)
+
+## Mitigations of this risk
+
+* [Conduct further research, consider similar developed countries](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_22768.md)
+
+## Name of the risk
+
+Limited value for decision-making, lack of applicability to other contexts
+
+## People affected by this risk
+
+* [Decision-makers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
+* [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_227.md)
+
+## Stakeholders who can mitigate this risk
+
+* [Research organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_849.md)
+
+## Technologies linked to the risk
+
+* [Research and data analysis tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_19842.md)
+
+## This Risk belongs to this RiskGroup
+
+* [Political risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_0.md)
+
+## This Risk belongs to this RiskSubgroup
+
+* [Lack of global governance and coordination](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_9.md)
+

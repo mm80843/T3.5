@@ -1,0 +1,40 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_18127 
+
+# __Insufficient evidence on the actual performance of uvgi systems in hospital rooms__
+
+## Articles mentionning the risk
+
+* [Memarzadeh_applications_2010](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_645.md)
+
+## Mitigations of this risk
+
+* [Conducting more studies and experiments in realistic hospital room settings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_20091.md)
+
+## Name of the risk
+
+Increased risk of airborne infectious particle circulation
+
+## People affected by this risk
+
+* [Healthcare providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_31.md)
+* [Hospital staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_121.md)
+* [Patients](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_369.md)
+
+## Stakeholders who can mitigate this risk
+
+* [Government health departments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_33.md)
+* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_413.md)
+* [Research institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2808.md)
+
+## Technologies linked to the risk
+
+* [Advanced uvgi systems with improved performance monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_20449.md)
+
+## This Risk belongs to this RiskGroup
+
+* [Infrastructure risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_2.md)
+
+## This Risk belongs to this RiskSubgroup
+
+* [Insufficient adoption of health-focused building standards](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_56.md)
+

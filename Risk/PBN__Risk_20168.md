@@ -1,0 +1,34 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_20168 
+
+# __Consolidation of authoritarian powers under president viktor orb u00e1n and the ruling fidesz party in hungary due to the covid-19 pandemic.__
+
+## Articles mentionning the risk
+
+* [Klein_borders_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_685.md)
+
+## Mitigations of this risk
+
+* [International diplomatic efforts, independent monitoring of government actions, and support for civil society and human rights organizations.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_22147.md)
+
+## Name of the risk
+
+Erosion of democratic values, human rights abuses, and political oppression, leading to social and political instability.
+
+## People affected by this risk
+
+* [Citizens of hungary](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_232.md)
+* [Civil society organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_6044.md)
+* [International community](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_15565.md)
+
+## Stakeholders who can mitigate this risk
+
+* [Civil society organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_242.md)
+* [Diplomatic missions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_232.md)
+* [International organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_15566.md)
+
+## Technologies linked to the risk
+
+* [Digital surveillance monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_16743.md)
+* [Human rights reporting systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22440.md)
+* [International communication platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22441.md)
+

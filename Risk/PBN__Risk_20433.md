@@ -1,0 +1,40 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_20433 
+
+# __30% decline in cp revenue projected nationwide__
+
+## Articles mentionning the risk
+
+* [Kaushal_strategies_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_690.md)
+
+## Mitigations of this risk
+
+* [Financial planning, budget reallocation, and seeking alternative revenue streams](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_22413.md)
+
+## Name of the risk
+
+Financial strain on transportation agencies and limited resources for operations and maintenance
+
+## People affected by this risk
+
+* [State governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1186.md)
+* [Transportation agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_732.md)
+
+## Stakeholders who can mitigate this risk
+
+* [Financial departments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_732.md)
+* [Transportation agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_15703.md)
+
+## Technologies linked to the risk
+
+* [And revenue tracking systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_128.md)
+* [Budgeting tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_689.md)
+* [Financial management software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22686.md)
+
+## This Risk belongs to this RiskGroup
+
+* [Economic risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_5.md)
+
+## This Risk belongs to this RiskSubgroup
+
+* [Financial strains and liquidity crises](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_31.md)
+

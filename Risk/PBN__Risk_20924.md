@@ -1,0 +1,12 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_20924 
+
+# __Transmisi u00f3n de persona a persona del virus sars-cov-2 a trav u00e9s del contacto directo.__
+
+## This Risk belongs to this RiskGroup
+
+* [Social risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_1.md)
+
+## This Risk belongs to this RiskSubgroup
+
+* [Health behaviors and compliance](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_5.md)
+
