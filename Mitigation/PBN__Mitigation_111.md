@@ -1,0 +1,33 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_111 
+
+# __Schema design and knowledge extraction__
+
+## Benefits linked to a risk
+
+* [Integration and sharing of knowledge](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_130.md)
+
+## Category to which it belongs
+
+* [Optimizing public health response through the integration of artificial intelligence, machine learning, bioinformatics tools, and knowledge sharing.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_137.md)
+
+## Closest similar item
+
+* [Build an obo ontology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5116.md)
+* [Develop and enhance tools to automate ontology models and applications](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5117.md)
+* [Development of cido ontology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_378.md)
+* [Knowledge acquisition](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_844.md)
+* [Knowledge extraction](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_53.md)
+* [Knowledge graphs and linked data](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4558.md)
+* [Knowledge-engineering best practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_840.md)
+* [Ontologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_56.md)
+* [Ontology-based systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1477.md)
+* [Schema matching](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1240.md)
+
+## Main intervention linked to the Mitigation
+
+* [Staff training / upskilling](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_22.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_91.md)
+

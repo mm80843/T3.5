@@ -1,0 +1,39 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4282 
+
+# __Extending working hours of the building__
+
+## Category to which it belongs
+
+* [Enhancing learning methods, implementing flexible work arrangements, improving planning mechanisms, and promoting workforce education and training.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_135.md)
+
+## Closest similar item
+
+* [Extension of time eot](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4378.md)
+* [Flexible building](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_189.md)
+* [Flexible delivery hours](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3737.md)
+* [Flexible work schedules](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3961.md)
+* [Implementing flexible work schedules](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4624.md)
+* [Operate hvac systems for longer hours or 24/7](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4483.md)
+* [Real-time building occupancy](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_206.md)
+* [Revised work schedules](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_470.md)
+* [Run hvac system longer hours](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4567.md)
+* [Zoning and staggered work schedules](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4088.md)
+
+## Main intervention linked to the Mitigation
+
+* [Shift controls occupancy control of total users](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_41.md)
+
+## Risks possibly mitigated by this Mitigation
+
+
+## This Mitigation is enabled by the following technologies
+
+
+## Property: has_MitigationPrinciple
+
+Reduce population density in the building by extending working hours, minimizing the risk of virus transmission
+
+## Property: has_MitigationSource
+
+* [The effect of occupant distribution on energy consumption and COVID-19 infection in buildings: A case study of university building](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_169.md)
+

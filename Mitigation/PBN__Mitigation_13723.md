@@ -1,0 +1,12 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_13723 
+
+# __Enhanced monitoring and testing for viral particles in the water supply, implementation of disinfection processes, and public health advisories.__
+
+## Main intervention linked to the Mitigation
+
+* [Maintenance / decontamination of building water sytems](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_9.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [The prevalence of reported covid-19 cases in the wwtp catchment area may indicate a higher risk of potential contamination in the water supply.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_11810.md)
+

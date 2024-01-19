@@ -1,0 +1,116 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [StakeholderSubgroup](https://github.com/mm80843/T3.5/tree/pages/docs/StakeholderSubgroup/index.md) >> Individual ID:PBN__StakeholderSubgroup_78 
+
+# __International development agencies__
+
+## Stakeholders in this stakeholder subgroup
+
+* [All countries committed to the sdgs](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_86.md)
+* [And economic development agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_242.md)
+* [And intergovernmental organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_88.md)
+* [Asean authorities and regional financial institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1239.md)
+* [Asean member states](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1240.md)
+* [Countries and industries reliant on gvcs for foreign inputs and exports](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_10185.md)
+* [Countries dependent on food imports and populations with limited access to fresh foods](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2391.md)
+* [Countries heavily reliant on specific suppliers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2646.md)
+* [Countries receiving foreign aid and outside experts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2701.md)
+* [Countries reliant on tourism](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2848.md)
+* [Countries with deficits](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_3018.md)
+* [Countries with deindustrialization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_3067.md)
+* [Countries with strong external surpluses](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_3109.md)
+* [Country facing food insecurity](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_3321.md)
+* [Dependent countries](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_5732.md)
+* [Development agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_4413.md)
+* [Development partners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_4449.md)
+* [Economic development agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_5093.md)
+* [Eu funding bodies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_5105.md)
+* [Eu health authorities and governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_5655.md)
+* [Global governance bodies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_6054.md)
+* [Global health organizations and government authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_6413.md)
+* [Government and humanitarian agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_6615.md)
+* [Government and industry development agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_6708.md)
+* [Government and international aid organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_7204.md)
+* [Government and international trade organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_7207.md)
+* [Government health agencies and international organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_7310.md)
+* [Governments and industry stakeholders can implement targeted support and retraining programs](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_7685.md)
+* [Humanitarian actors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_8142.md)
+* [Humanitarian agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_8163.md)
+* [Import-dependent economies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_8167.md)
+* [Intergovernmental agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_8205.md)
+* [Intergovernmental organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_8207.md)
+* [International agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_8231.md)
+* [International aid agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_8796.md)
+* [International aid and development organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_8815.md)
+* [International bodies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9607.md)
+* [International cooperation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9613.md)
+* [International development agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9614.md)
+* [International economic organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9616.md)
+* [International governing bodies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_10197.md)
+* [International health organizations and global governance bodies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_10198.md)
+* [International health organizations and governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_10199.md)
+* [International labor organization](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_10621.md)
+* [International organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_10857.md)
+* [International organizations and advocacy groups](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_11029.md)
+* [International organizations and government agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_11030.md)
+* [International organizations and governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_11031.md)
+* [International organizations focused on conflict resolution and peace-building](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_11084.md)
+* [International public health organizations and government representatives](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_11377.md)
+* [International trade organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_11399.md)
+* [National and international public health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_11630.md)
+* [National economies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_12063.md)
+* [Oil-producing countries](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_12069.md)
+* [Partner countries dealing with the pandemic](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_12417.md)
+* [Partnerships and coordination entities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_12685.md)
+* [Rockefeller foundation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_12876.md)
+* [Tourism authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_12887.md)
+* [Uk government and public health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_13670.md)
+* [Un agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_13776.md)
+* [Underdeveloped economies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_13850.md)
+* [Underdeveloped nations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_15331.md)
+* [Usaid](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_15552.md)
+
+## Property: has_StakeholderSubgroup_BPIntervention
+
+* [Absorb surge in service demande](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_38.md)
+* [Environmental parameters control](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_30.md)
+* [Minimize supply chain disruptions](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_35.md)
+* [Quarantine support](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_32.md)
+* [Raising awareness](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_1.md)
+
+## Property: has_StakeholderSubgroup_RiskGroup_Owner
+
+* [Economic risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_5.md)
+* [Political risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_0.md)
+* [Public health risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_3.md)
+
+## Property: has_StakeholderSubgroup_RiskSubgroup_Owner
+
+* [Climate change effects](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_24.md)
+* [Global recession and economic instability](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_53.md)
+* [Globalization challenges](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_28.md)
+* [Lack of access to health services](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_8.md)
+* [Lack of global governance and coordination](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_30.md)
+* [Pandemic impact on markets](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_36.md)
+* [Public health messaging and education](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_34.md)
+* [Resource and capability risks](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_0.md)
+* [Supply chain disruptions](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_49.md)
+* [Weak local decision-making mechanisms](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_9.md)
+
+## Property: has_StakeholderSubgroup_TechGroup
+
+* [Data analytics](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_2.md)
+* [Healthcare](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_7.md)
+* [Infrastructure management](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_6.md)
+
+## Property: has_StakeholderSubgroup_TechSubgroup
+
+* [Capacity-building and infrastructure development tools](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_14.md)
+* [Communication and collaboration platforms](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_7.md)
+* [Community management technologies](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_42.md)
+* [Data visualization and modeling](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_51.md)
+* [Diagnostic testing](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_22.md)
+* [Energy-efficient technologies and smart grid systems](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_10.md)
+* [Predictive analytics and modeling tools](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_48.md)
+* [Remote healthcare and telemedicine](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_24.md)
+* [Supply chain and risk management](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_66.md)
+* [Vaccination development and distribution](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_79.md)
+

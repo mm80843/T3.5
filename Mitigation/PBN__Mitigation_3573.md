@@ -1,0 +1,41 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3573 
+
+# __Portable air cleaner__
+
+## Category to which it belongs
+
+* [Enhance air quality through the implementation of filtration systems, reduction of pollution levels, and increased outdoor air circulation.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_139.md)
+
+## Closest similar item
+
+* [Air cleaning devices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_608.md)
+* [Clean air](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_343.md)
+* [Cleaning air](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3738.md)
+* [Portable air cleaners](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4296.md)
+* [Portable air filters](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4322.md)
+* [Portable room air cleaners](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5113.md)
+* [Portable room air purifiers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_190.md)
+* [Room air cleaners](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4933.md)
+* [Use portable room air cleaners](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4344.md)
+* [Use portable room air cleaners with hepa filters](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_63.md)
+
+## Main intervention linked to the Mitigation
+
+* [Cleaning technologies robots](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_45.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Airborne transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_252.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Air purifier with hepa filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2677.md)
+
+## Property: has_MitigationPrinciple
+
+Supplement the ventilation systems to remove particles from the air and provide additional protection against SARS-CoV-2 in situations where improving ventilation is not possible.
+
+## Property: has_MitigationSource
+
+* [The hierarchy of preventive measures to protect workers against the COVID-19 pandemic: A review](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_73.md)
+

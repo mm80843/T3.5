@@ -1,0 +1,117 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [TechSubgroup](https://github.com/mm80843/T3.5/tree/pages/docs/TechSubgroup/index.md) >> Individual ID:PBN__TechSubgroup_9 
+
+# __Water quality monitoring__
+
+## This Technology belongs to this TechnologySubgroup
+
+* [Advanced analytical methods for detecting antibiotic metabolites in sewage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2669.md)
+* [Advanced sequencing and analysis techniques for accurate identification of pathogens in wastewater](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2821.md)
+* [Advanced wastewater analysis techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_997.md)
+* [Advanced wastewater testing equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3129.md)
+* [Advanced water content monitoring and control systems for the wet film](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3066.md)
+* [And advanced chemical analysis for water quality assessment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_4247.md)
+* [And deploy sensor-based monitoring systems for water quality](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_4271.md)
+* [And environmental monitoring technologies can contribute to maintaining clean beaches](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_4281.md)
+* [And nh4+](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_4285.md)
+* [And real-time pcr testing for viral genetic material in water samples](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_6265.md)
+* [And water quality monitoring devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_6282.md)
+* [And water quality testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_6405.md)
+* [Development of sampling and analysis techniques for decentralized wastewater sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_6411.md)
+* [Flow measurement devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_9060.md)
+* [Groundwater monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_9215.md)
+* [Hydrochemical analysis methods for parameters like cod](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_9303.md)
+* [Integration of urinary biomarker analysis with existing wbe technologies and data collection methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_9332.md)
+* [Iot-based water monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_10850.md)
+* [Microbial source tracking technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11149.md)
+* [Molecular testing technologies for the detection and quantification of sars-cov-2 rna in wastewater](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11164.md)
+* [Regular water quality testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_12008.md)
+* [Remote water quality monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_12138.md)
+* [Sewage monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_12498.md)
+* [Sewage testing kits](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_12658.md)
+* [Smart sensors for water quality monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_12665.md)
+* [Smart water meters for monitoring usage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_12968.md)
+* [Smart water monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_13865.md)
+* [Standardized wastewater sampling and measurement equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_13918.md)
+* [Validation kits for wastewater sample testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_14288.md)
+* [Waste water sampling and testing technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_14674.md)
+* [Wastewater analysis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_15430.md)
+* [Wastewater monitoring and treatment technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_15454.md)
+* [Wastewater monitoring technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_15492.md)
+* [Wastewater monitoring technology and individual testing kits](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_15493.md)
+* [Wastewater sampling](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_16213.md)
+* [Wastewater sampling tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_16615.md)
+* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_16619.md)
+* [Wastewater surveillance methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_16623.md)
+* [Wastewater surveillance technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_16626.md)
+* [Wastewater surveillance technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_16635.md)
+* [Wastewater surveillance technology for early detection of viral rna](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_16637.md)
+* [Wastewater surveillance tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_16648.md)
+* [Wastewater testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_16958.md)
+* [Wastewater testing and analysis technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_18441.md)
+* [Wastewater testing technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_18447.md)
+* [Wastewater testing technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_18606.md)
+* [Wastewater treatment and monitoring technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_18609.md)
+* [Wastewater treatment technologies and water quality monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_18611.md)
+* [Wastewater-based drug monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_18997.md)
+* [Wastewater-based epidemiology wbe technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_18999.md)
+* [Water and wastewater testing technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_19023.md)
+* [Water fingerprinting](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_19112.md)
+* [Water pollution prevention technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_19911.md)
+* [Water quality monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_20673.md)
+* [Water quality monitoring and management technologies for urban wetlands](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_20675.md)
+* [Water quality monitoring devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_20905.md)
+* [Water quality monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_20906.md)
+* [Water quality monitoring technologies and renewable water supply systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_20914.md)
+* [Water quality testing equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_20936.md)
+* [Water quality testing kits](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_20974.md)
+* [Water safety monitoring technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_21001.md)
+* [Water system monitoring sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_21436.md)
+* [Water testing kits](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_21482.md)
+* [Water usage monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22505.md)
+
+## Property: has_TechSubgroup_BPIntervention
+
+* [Environmental parameters control](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_9.md)
+* [Greywater management](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_29.md)
+* [Infection tracking / monitoring](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_8.md)
+* [Maintenance / decontamination of building water sytems](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_1.md)
+* [Managing drinking water safety measures](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_11.md)
+
+## Property: has_TechSubgroup_RiskGroup
+
+* [Environmental risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_3.md)
+* [Infrastructure risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_7.md)
+* [Public health risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_2.md)
+
+## Property: has_TechSubgroup_RiskSubgroup
+
+* [Failure to implement preventive measures](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_41.md)
+* [Healthcare and medical risks](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_61.md)
+* [Infrastructure maintenance risk](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_48.md)
+* [Lack of access to health services](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_12.md)
+* [Lack of effective medical solutions](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_3.md)
+* [Lack of emphasis on water quality](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_25.md)
+* [Misinterpretation of data and results](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_37.md)
+* [Pollution increase](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_63.md)
+* [Poor access to diagnostics and treatment](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_49.md)
+* [Wastewater and sanitation risks](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_15.md)
+
+## Property: has_TechSubgroup_StakeholderGroup
+
+* [Government institutions](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_7.md)
+* [Health organisations](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Residents and occupants of spaces](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_1.md)
+
+## Property: has_TechSubgroup_StakeholderSubgroup
+
+* [Building managers](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_14.md)
+* [Environmental agencies](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_5.md)
+* [Facility maintenance team](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_139.md)
+* [General population](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_4.md)
+* [Local government](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_57.md)
+* [Medical and healthcare personnel](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_19.md)
+* [Public health authorities](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_3.md)
+* [Public health authorities and data management organizations](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_15.md)
+* [Research institutions](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_13.md)
+* [Waste management organizations](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_37.md)
+

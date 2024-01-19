@@ -1,0 +1,33 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_465 
+
+# __Integration of gis and gps applications__
+
+## Benefits linked to a risk
+
+* [Enhanced surveillance and control of covid-19](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_447.md)
+
+## Category to which it belongs
+
+* [The utilization of mobile apps, iot, wearable devices, and advanced technologies for contact tracing, monitoring, and tracking in healthcare and smart city solutions.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_133.md)
+
+## Closest similar item
+
+* [Geographic information system gis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4307.md)
+* [Gis tools for mapping and tracking](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4196.md)
+* [Global positioning system gps](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1151.md)
+* [Gps tracking and prediction](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3400.md)
+* [Gps-based apps](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4594.md)
+* [Gps-based tracking](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1153.md)
+* [Integration of information and technology solutions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_585.md)
+* [Sensor integration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4676.md)
+* [Tracking applications](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3715.md)
+* [Use of positioning technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_615.md)
+
+## Main intervention linked to the Mitigation
+
+* [Infection tracking / monitoring](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_29.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Weak health-care systems and limited resources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_354.md)
+

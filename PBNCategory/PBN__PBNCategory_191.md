@@ -1,0 +1,61 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/pages/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_191 
+
+# __Efficiently manage finances, construction projects, schedules, contracts, communication, and data analysis with advanced software and technology.__
+
+## Items covered in this category
+
+* [Access to windows](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2644.md)
+* [Advancements in translation software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1657.md)
+* [Antivirus software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3106.md)
+* [Anylogic simulation software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1833.md)
+* [Automated windows](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3165.md)
+* [Bim software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_372.md)
+* [Bioaider software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_737.md)
+* [Communication software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3305.md)
+* [Construction technology and software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1532.md)
+* [Contact tracing software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3690.md)
+* [Contract management software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2723.md)
+* [Cost management software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1320.md)
+* [Covered spaces with soft walls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2016.md)
+* [Data analysis software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3124.md)
+* [Demand forecasting and planning software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3566.md)
+* [Double-glazed windows](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1452.md)
+* [Drive-through window systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2457.md)
+* [Energy analysis software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1746.md)
+* [Facial recognition software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2462.md)
+* [Financial management software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3312.md)
+* [Flexible furniture](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1009.md)
+* [Flexible mechanical](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1262.md)
+* [Full beamforming](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3716.md)
+* [Fund management software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2009.md)
+* [Geographic information systems gis software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3202.md)
+* [Gis software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3688.md)
+* [Hardware](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3537.md)
+* [Increase window size](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3473.md)
+* [Low-flow fixtures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1352.md)
+* [Monitoring software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1729.md)
+* [Open windows](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2647.md)
+* [Openable windows](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2550.md)
+* [Opening windows](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3298.md)
+* [Operable windows](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1131.md)
+* [Project management software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1066.md)
+* [Provide large windows](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1918.md)
+* [R software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_985.md)
+* [Remote access software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_128.md)
+* [Scheduling software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1414.md)
+* [Smart windows](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_458.md)
+* [Software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_688.md)
+* [Space management software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1771.md)
+* [Space planning software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2815.md)
+* [Statistical analysis software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_130.md)
+* [Statistical software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1406.md)
+* [Tempered glass](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_479.md)
+* [Time tracking software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2787.md)
+* [Translation software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_632.md)
+* [Web-based tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3707.md)
+* [Windows with views](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1583.md)
+
+## Title of the category
+
+This category of Technologies describes various software, tools, and hardware that can be found in green buildings neighborhoods. It includes financial management software, cost management software, project management software, contract management software, communication software, contact tracing software, antivirus software, web-based tools, Anylogic simulation software, energy analysis software, GIS software, demand forecasting and planning software, statistical software, data analysis software, translation software, time tracking software, monitoring software, BIM software, space planning software, space management software, R software, remote access software, facial recognition software, and bioaider software. It also encompasses smart windows, openable windows, automated windows, windows with views, low-flow fixtures, tempered glass, double-glazed windows, drive-through window systems, and covered spaces with soft walls. Additionally, this category includes advancements in translation software, full beamforming technology, and flexible mechanical hardware.
+

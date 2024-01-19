@@ -1,0 +1,115 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [TechSubgroup](https://github.com/mm80843/T3.5/tree/pages/docs/TechSubgroup/index.md) >> Individual ID:PBN__TechSubgroup_63 
+
+# __Multilingual communication and outreach tools__
+
+## This Technology belongs to this TechnologySubgroup
+
+* [Accurate and accessible information dissemination](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3518.md)
+* [Accurate and calm communication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2867.md)
+* [Advanced translation software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1203.md)
+* [Advancements in translation software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_901.md)
+* [And communication apps for immigrant community engagement](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1320.md)
+* [And culturally tailored communication materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2016.md)
+* [Audio editing tools for clear and precise editing. data visualization tools for presenting textual information](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1257.md)
+* [Bilingual experts](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1256.md)
+* [Clear guidelines and communication protocols can be established to ensure consistent messaging across all retail locations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2902.md)
+* [Communication and cultural competency skills](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1993.md)
+* [Cross-cultural research methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2712.md)
+* [Culturally sensitive communication strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3775.md)
+* [Culturally sensitive communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2452.md)
+* [Difusión de contenido educativo](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1094.md)
+* [Digital communication tools for connecting seniors with others](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1321.md)
+* [Diplomatic initiatives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1206.md)
+* [Dissemination of accurate information through various channels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1210.md)
+* [Diverse communication and outreach methods to engage underrepresented communities in research participation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2734.md)
+* [Education and communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_5533.md)
+* [Educational materials and workshops](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_6163.md)
+* [Engagement with diverse groups](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_6519.md)
+* [Global communication and data-sharing technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_7358.md)
+* [International communication networks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_7815.md)
+* [Internet gratuita](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_9655.md)
+* [Language and academic support programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_10166.md)
+* [Language interpretation apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_10170.md)
+* [Language interpretation services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_10317.md)
+* [Language learning apps and translation tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_10597.md)
+* [Language support tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11070.md)
+* [Language translation services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11100.md)
+* [Language translation tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11101.md)
+* [Language-specific materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11102.md)
+* [Localization of communication strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11112.md)
+* [Multilingual communication apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11390.md)
+* [Multilingual communication platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11484.md)
+* [Multilingual communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_12287.md)
+* [Multilingual health communication technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_12467.md)
+* [Multilingual information channels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_12478.md)
+* [Multilingual information resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_13662.md)
+* [Multilingual informational materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_13681.md)
+* [Multilingual materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_13767.md)
+* [Multilingual resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_14684.md)
+* [Multilingual reviewers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_14978.md)
+* [Multilingual signage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_17608.md)
+* [Multilingual website support](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_17908.md)
+* [Plain language](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_17923.md)
+* [Plataformas de comunicaci u00f3n y redes sociales para mantener el contacto social](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_18380.md)
+* [Podcasting tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_19523.md)
+* [Smartphone](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_19532.md)
+* [Sms messaging](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_19548.md)
+* [Targeted advertising and communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_19562.md)
+* [Targeted information dissemination platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_19564.md)
+* [Targeted messaging and educational materials for specific demographics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_19647.md)
+* [Targeted messaging and outreach strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_19805.md)
+* [Text and video messaging](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_20096.md)
+* [Translation and interpretation tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_20370.md)
+* [Translation and localization tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_20739.md)
+* [Translation services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22043.md)
+* [Translation software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22393.md)
+* [Translation tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_23076.md)
+* [Use of community liaisons](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_23125.md)
+* [Xbee modules](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_23137.md)
+
+## Property: has_TechSubgroup_BPIntervention
+
+* [Environmental parameters control](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_38.md)
+* [Facilitate transparent communication](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_37.md)
+* [Quarantine support](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_33.md)
+* [Raising awareness](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_30.md)
+* [Support recovery of sectors via remote work](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_1.md)
+
+## Property: has_TechSubgroup_RiskGroup
+
+* [Political risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_1.md)
+* [Public health risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_0.md)
+* [Social risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_3.md)
+
+## Property: has_TechSubgroup_RiskSubgroup
+
+* [Communication and messaging](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_22.md)
+* [Cultural and lifestyle risks](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_35.md)
+* [Global coordination challenges](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_10.md)
+* [Health behaviors and compliance](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_58.md)
+* [Lack of coordination and consistency in mitigation measures](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_1.md)
+* [Lack of transparency and clarity](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_62.md)
+* [Operational and implementation risks](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_5.md)
+* [Social and psychological effects](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_64.md)
+* [Social justice concerns](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_68.md)
+* [Vulnerability risks](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_52.md)
+
+## Property: has_TechSubgroup_StakeholderGroup
+
+* [General public](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_7.md)
+* [Health organisations](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_0.md)
+* [Research organisations](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_2.md)
+
+## Property: has_TechSubgroup_StakeholderSubgroup
+
+* [Civil society stakeholders](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_5.md)
+* [Fragile and/or isolated population](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_40.md)
+* [General population](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_3.md)
+* [Government departments](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_15.md)
+* [Medical and healthcare personnel](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_31.md)
+* [Occupants of shared household spaces](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_14.md)
+* [Office workers](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_1.md)
+* [People with lower income](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_45.md)
+* [Public health authorities](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_104.md)
+* [Research institutions](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_33.md)
+

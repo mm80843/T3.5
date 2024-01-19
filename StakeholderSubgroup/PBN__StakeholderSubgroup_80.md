@@ -1,0 +1,115 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [StakeholderSubgroup](https://github.com/mm80843/T3.5/tree/pages/docs/StakeholderSubgroup/index.md) >> Individual ID:PBN__StakeholderSubgroup_80 
+
+# __Retail staff__
+
+## Stakeholders in this stakeholder subgroup
+
+* [And business owners in the retail and hospitality sectors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_418.md)
+* [And consumers of shoex](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2180.md)
+* [And end consumers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2761.md)
+* [And mall staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_4321.md)
+* [And other visitors to the store](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_5215.md)
+* [And retail businesses](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_5219.md)
+* [And retail industry associations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_5261.md)
+* [And retailers of essential products](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_5530.md)
+* [And service industry employees](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_6131.md)
+* [And shop staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_6877.md)
+* [And staff members in commercial office buildings](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_7742.md)
+* [Brick-and-mortar retailers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_7778.md)
+* [Call center management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_8118.md)
+* [Customers and store staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_8689.md)
+* [Customers in public areas](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9123.md)
+* [Employees in retail sectors with direct customer exposure](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9241.md)
+* [Essential retail](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9245.md)
+* [Essential workers in retail](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9246.md)
+* [In-store sales associates](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9247.md)
+* [Local store owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9250.md)
+* [Multi-location retailers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9251.md)
+* [Offline retail workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9252.md)
+* [Person in shop](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9253.md)
+* [Physical retailers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9280.md)
+* [Retail](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9293.md)
+* [Retail and neighborhood service staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9296.md)
+* [Retail associations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9298.md)
+* [Retail business owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9300.md)
+* [Retail businesses](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9303.md)
+* [Retail customers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9304.md)
+* [Retail employees](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9306.md)
+* [Retail industry associations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9310.md)
+* [Retail industry stakeholders](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9314.md)
+* [Retail leadership](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9315.md)
+* [Retail management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9317.md)
+* [Retail management and human resources team](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9393.md)
+* [Retail management and industry organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9430.md)
+* [Retail owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9431.md)
+* [Retail staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9433.md)
+* [Retail store employees](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9436.md)
+* [Retail store management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9444.md)
+* [Retail store management and operations teams](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_10215.md)
+* [Retail store management and owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_10319.md)
+* [Retail stores](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_10475.md)
+* [Retailers and hr departments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_10616.md)
+* [Retailers and store management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_10631.md)
+* [Retailers and store managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_11130.md)
+* [Retailers and store owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_11290.md)
+* [Salespeople](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_11312.md)
+* [Salespersons](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_12711.md)
+* [Shop assistants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_13417.md)
+* [Shop owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_14164.md)
+* [Shop staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_14190.md)
+* [Shoppers and store staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_14422.md)
+* [Shopping malls](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_14427.md)
+* [Store employees](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_14430.md)
+* [Store management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_14433.md)
+* [Store managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_14436.md)
+* [Store managers and technology providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_14437.md)
+* [Store staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_14448.md)
+* [Supermarket aisles](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_15975.md)
+* [Users of the digital signage system](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_15983.md)
+
+## Property: has_StakeholderSubgroup_BPIntervention
+
+* [Occupancy control eg separating at/risk contaminated population](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_38.md)
+* [Quarantine support](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_40.md)
+* [Raising awareness](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_13.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_20.md)
+* [Touchless technologies](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_30.md)
+
+## Property: has_StakeholderSubgroup_RiskGroup_Owner
+
+* [Economic risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_1.md)
+* [Public health risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_3.md)
+* [Social risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_5.md)
+
+## Property: has_StakeholderSubgroup_RiskSubgroup_Owner
+
+* [Communication and messaging](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_22.md)
+* [Discontinuity of services](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_1.md)
+* [Failure to implement preventive measures](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_28.md)
+* [Inadequate adaptability to emerging problems](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_40.md)
+* [Lack of access to health services](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_8.md)
+* [Public health messaging and education](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_75.md)
+* [Social and psychological effects](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_12.md)
+* [Supply chain disruptions](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_26.md)
+* [Workforce and labor shortages](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_20.md)
+* [Workplace safety and occupational exposure](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_49.md)
+
+## Property: has_StakeholderSubgroup_TechGroup
+
+* [Communication](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_3.md)
+* [Healthcare](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_2.md)
+* [Infrastructure management](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_7.md)
+
+## Property: has_StakeholderSubgroup_TechSubgroup
+
+* [Communication and collaboration platforms](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_79.md)
+* [Community management technologies](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_80.md)
+* [Digital infrastructure](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_14.md)
+* [Digital signage and messaging systems](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_42.md)
+* [Diversification and suppliers](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_19.md)
+* [Logistics and inventory management systems](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_59.md)
+* [Personal hygiene and sanitation](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_48.md)
+* [Remote healthcare and telemedicine](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_29.md)
+* [Supply chain and risk management](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_93.md)
+* [Wellbeing and mental health](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_16.md)
+

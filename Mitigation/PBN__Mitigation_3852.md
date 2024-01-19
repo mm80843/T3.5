@@ -1,0 +1,40 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3852 
+
+# __Spearman-karber method__
+
+## Category to which it belongs
+
+* [Optimizing public health response through the integration of artificial intelligence, machine learning, bioinformatics tools, and knowledge sharing.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_137.md)
+
+## Closest similar item
+
+* [Collaborative approach](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2053.md)
+* [Implement remote induction process](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3322.md)
+* [Implementing personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3758.md)
+* [Induction process online](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1751.md)
+* [Integration of multiple measurement methods](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4160.md)
+* [Participative design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4675.md)
+* [Regular security audits and updates, strong encryption and authentication measures, multi-factor authentication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_524.md)
+* [Targeted operations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4928.md)
+* [Value integrated bidding process](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_938.md)
+* [Willing co-operation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3886.md)
+
+## Main intervention linked to the Mitigation
+
+* [Infection tracking / monitoring](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_29.md)
+
+## Risks possibly mitigated by this Mitigation
+
+
+## This Mitigation is enabled by the following technologies
+
+* [Spearman-karber method](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2885.md)
+
+## Property: has_MitigationPrinciple
+
+Calculates viral titers and efficacy of the test substance
+
+## Property: has_MitigationSource
+
+* [A Continuously Active Antimicrobial Coating effective against Human Coronavirus 229E](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_246.md)
+

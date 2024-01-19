@@ -1,0 +1,45 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4656 
+
+# __Energy-efficient heating/cooling__
+
+## Category to which it belongs
+
+* [Promote sustainable and efficient energy practices, utilize renewable sources, efficient appliances, and implement energy management systems.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_149.md)
+
+## Closest similar item
+
+* [Cooling systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1346.md)
+* [Energy efficiency](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1078.md)
+* [Energy-efficient appliances](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1075.md)
+* [Implement cooling systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3453.md)
+* [Improve insulation and heating systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3195.md)
+* [Improvement of indoor heating and cooling systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4650.md)
+* [Increase cooling systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_453.md)
+* [Installation of efficient hvac systems, proper insulation, and controls for temperature regulation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_235.md)
+* [Optimize hvac system operations, implement energy-efficient measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2981.md)
+* [Use of energy-efficient appliances](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1563.md)
+
+## Main intervention linked to the Mitigation
+
+* [Environmental parameters control](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_1.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Poor indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_294.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Energy-efficient hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_748.md)
+
+## This mitigation is used in the following general blueprint(s)
+
+* [Implementing Indoor Air Quality Monitoring and Maintenance Protocols for Contagion Control](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_40.md)
+
+## Property: has_MitigationPrinciple
+
+Use energy-efficient heating and cooling systems in buildings to maintain a comfortable indoor environment while minimizing the impact on indoor air quality.
+
+## Property: has_MitigationSource
+
+* [A comprehensive review on indoor air quality monitoring systems for enhanced public health](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_281.md)
+

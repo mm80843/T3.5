@@ -1,0 +1,38 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3401 
+
+# __Machine learning__
+
+## Category to which it belongs
+
+* [Optimizing public health response through the integration of artificial intelligence, machine learning, bioinformatics tools, and knowledge sharing.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_137.md)
+
+## Closest similar item
+
+* [Artificial intelligence](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5176.md)
+* [Artificial intelligence and machine learning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3359.md)
+* [Artificial intelligence/machine learning ai/ml](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3266.md)
+* [Data intelligence](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_808.md)
+* [Data mining and machine learning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_500.md)
+* [Deep learning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5032.md)
+* [Expert system](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3437.md)
+* [Machine learning and artificial intelligence](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1099.md)
+* [Machine learning models](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3169.md)
+* [Smart learning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4301.md)
+
+## Risks possibly mitigated by this Mitigation
+
+
+## This Mitigation is enabled by the following technologies
+
+* [Artificial intelligence](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2555.md)
+* [Machine learning algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_356.md)
+
+## Property: has_MitigationPrinciple
+
+Analyzes large quantities of data from wearables to identify physiological signals and predict infections or diseases. Can be combined with self-reported symptoms for more accurate predictions.
+
+## Property: has_MitigationSource
+
+* [The Rise of Wearable Devices during the COVID-19 Pandemic: A Systematic Review](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_99.md)
+* [Wearable technology and COVID-19](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_195.md)
+

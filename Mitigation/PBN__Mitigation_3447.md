@@ -1,0 +1,40 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3447 
+
+# __Visualization and monitoring__
+
+## Category to which it belongs
+
+* [Enhanced monitoring and control measures in various sectors, including vector control, infrastructure management, and behavior change interventions, with the use of advanced technology and continuous evaluation.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_125.md)
+
+## Closest similar item
+
+* [Analysis visualization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3903.md)
+* [Continuous monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4069.md)
+* [Data visualization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5037.md)
+* [Enhanced monitoring and control efforts](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4576.md)
+* [Intelligent monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3443.md)
+* [Maintenance and monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3712.md)
+* [Monitoring data sources](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1000.md)
+* [Real-time monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4253.md)
+* [Visualization tool](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5209.md)
+* [Web platform for data visualization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_664.md)
+
+## Main intervention linked to the Mitigation
+
+* [Infection tracking / monitoring](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_29.md)
+
+## Risks possibly mitigated by this Mitigation
+
+
+## This Mitigation is enabled by the following technologies
+
+* [Smart home energy management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2585.md)
+
+## Property: has_MitigationPrinciple
+
+Provide feedback to consumers to promote energy-conscious behavior
+
+## Property: has_MitigationSource
+
+* [Coronavirus comes home? Energy use, home energy management, and the social-psychological factors of COVID-19](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_119.md)
+

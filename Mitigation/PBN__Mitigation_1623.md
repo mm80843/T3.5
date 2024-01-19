@@ -1,0 +1,29 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1623 
+
+# __Implement strategies to promote good room air mixing, such as ceiling mounted fans, to ensure even distribution of aerosol particles in the uv field__
+
+## Category to which it belongs
+
+* [Enhance air quality through the implementation of filtration systems, reduction of pollution levels, and increased outdoor air circulation.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_139.md)
+
+## Closest similar item
+
+* [Aerosol irradiation chamber](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1858.md)
+* [Good room air mixing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2955.md)
+* [Implement proper ventilation systems to reduce aerosol concentration in enclosed spaces.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3343.md)
+* [Improve indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4365.md)
+* [Improve room ventilation and air mixing systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1624.md)
+* [Improve ventilation systems, increase fresh air supply, and use air filters to reduce the spread of airborne particles.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3395.md)
+* [Improving indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3532.md)
+* [Research on aerosol transmission](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2081.md)
+* [Use computational fluid dynamics cfd to assess the limitations of the upper-room uvgi system in disinfecting larger aerosol particles](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_452.md)
+* [Use of appropriate protective equipment, proper ventilation, and limiting aerosol-generating procedures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2499.md)
+
+## Main intervention linked to the Mitigation
+
+* [Control airflows in spaces & avoid air recirculation](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_42.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited effectiveness of upper-room uvgi if room air is not well mixed](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1167.md)
+

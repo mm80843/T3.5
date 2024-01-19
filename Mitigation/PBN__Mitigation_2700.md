@@ -1,0 +1,29 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2700 
+
+# __Promote accurate information dissemination, fact-checking, and verification through blockchain-based platforms__
+
+## Category to which it belongs
+
+* [Promote trustworthy information, combat misinformation, ensure transparency, and engage in evidence-based decision-making.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_138.md)
+
+## Closest similar item
+
+* [Blockchain technology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1697.md)
+* [Dissemination of accurate information through reliable sources, fact-checking of information](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2697.md)
+* [Implement blockchain technology to ensure accurate and secure data collection and storage](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3089.md)
+* [Promote accurate information and fact-checking](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2968.md)
+* [Promote fact-checking and accuracy in sharing information, educate the public on reliable sources](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2410.md)
+* [Promote fact-checking and reliable sources](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2695.md)
+* [Promote transparent communication and accurate reporting; combat misinformation through fact-checking and verification systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2965.md)
+* [Store donation process in blockchain for transparency and verification, reducing corruption and improving social trust](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1698.md)
+* [Store news and information on blockchain to prevent alteration, traceability, and prevention of false information spread](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1696.md)
+* [Use blockchain for verifying insurance claims and payments, reducing the need for physical documentation and face-to-face contact](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1103.md)
+
+## Main intervention linked to the Mitigation
+
+* [Facilitate transparent communication](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_37.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Misinformation and fake news](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1364.md)
+

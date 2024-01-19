@@ -1,0 +1,42 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3392 
+
+# __Information source selection__
+
+## Category to which it belongs
+
+* [Promote trustworthy information, combat misinformation, ensure transparency, and engage in evidence-based decision-making.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_138.md)
+
+## Closest similar item
+
+* [Ensuring critical evaluation of information, considering multiple sources, promoting evidence-based decision making](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4616.md)
+* [Information dissemination](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1134.md)
+* [Information repositories](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3171.md)
+* [Monitor data sources to ensure they provide consistent and accurate information](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2098.md)
+* [Monitoring data sources](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4948.md)
+* [Promote reliable information sources](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1362.md)
+* [Quick and accurate information dissemination](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3066.md)
+* [Reliable information sources](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4398.md)
+* [Site selection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5209.md)
+* [Validation of news sources](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3940.md)
+
+## Main intervention linked to the Mitigation
+
+* [Promote verified information](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_39.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Decreased interest, avoidance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2495.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Healthcare professionals](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2543.md)
+* [Internet](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2454.md)
+
+## Property: has_MitigationPrinciple
+
+Utilizing trustworthy sources such as healthcare professionals and avoiding excessive use of interpersonal sources of information
+
+## Property: has_MitigationSource
+
+* [COVID-19 media fatigue: predictors of decreasing interest and avoidance of COVID-19–related news](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_153.md)
+

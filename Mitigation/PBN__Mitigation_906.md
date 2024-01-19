@@ -1,0 +1,29 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_906 
+
+# __Adoption of telemedicine__
+
+## Benefits linked to a risk
+
+* [Improved access to care](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_905.md)
+
+## Category to which it belongs
+
+* [Enabling remote connectivity and digital solutions for work, education, healthcare, and communication.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_116.md)
+
+## Closest similar item
+
+* [Implement telemedicine services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3247.md)
+* [Increased use of telehealth clinics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3303.md)
+* [Telemedical services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4129.md)
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_49.md)
+* [Telemedicine and remote healthcare](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3448.md)
+* [Telemedicine and telepsychology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4610.md)
+* [Telemedicine apps](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4952.md)
+* [Telemedicine consultation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3360.md)
+* [Telemedicine consultations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1156.md)
+* [Telemedicine services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_43.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited learning from public health crises](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_647.md)
+

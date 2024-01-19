@@ -1,0 +1,40 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4894 
+
+# __Increasing social distance__
+
+## Category to which it belongs
+
+* [Promotion of safe social interactions, behavioral change, and equitable access to information and support through social media platforms.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_126.md)
+
+## Closest similar item
+
+* [Accessible open green space and adherence to social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4632.md)
+* [Encourage virtual communication, maintain social distancing guidelines](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4633.md)
+* [Face-to-face contact within social distance radius](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_251.md)
+* [Maintaining social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1537.md)
+* [Population-wide social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Provide social support and promote social connections through technology.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3590.md)
+* [Redesigning and reorganizing interior spaces to accommodate for social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1225.md)
+* [Social distance radius](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3686.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2686.md)
+* [Spatial configuration promoting social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1261.md)
+
+## Main intervention linked to the Mitigation
+
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_20.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Risk of infection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2441.md)
+
+## This Mitigation is enabled by the following technologies
+
+
+## Property: has_MitigationPrinciple
+
+Create more space between individuals to reduce the chances of transmission through direct contact or respiratory droplets.
+
+## Property: has_MitigationSource
+
+* [The efficacy of social distance and ventilation effectiveness in preventing COVID-19 transmission](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_125.md)
+

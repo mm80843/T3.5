@@ -1,0 +1,33 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_338 
+
+# __Social distancing of at-risk groups__
+
+## Benefits linked to a risk
+
+* [Reduction in severe outcomes](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_340.md)
+
+## Category to which it belongs
+
+* [Promotion of safe social interactions, behavioral change, and equitable access to information and support through social media platforms.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_126.md)
+
+## Closest similar item
+
+* [Acknowledge diverse levels of risk tolerance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_408.md)
+* [Enhance core capacities, improve risk communication, engage communities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_629.md)
+* [Increase social support for vulnerable groups](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1181.md)
+* [Risk perception](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_926.md)
+* [Social distancing measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_379.md)
+* [Social distancing of the elderly and at-risk individuals](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1606.md)
+* [Strict social distancing measures, widespread testing and contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_416.md)
+* [Support for vulnerable groups](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3302.md)
+* [Temporary social-distancing measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2167.md)
+* [Virtual ways of educating the general population and high-risk groups](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3134.md)
+
+## Main intervention linked to the Mitigation
+
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_20.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Covid-19 transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_133.md)
+

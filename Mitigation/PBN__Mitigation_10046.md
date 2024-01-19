@@ -1,0 +1,12 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_10046 
+
+# __Implement sound-proofing measures and green barriers to reduce noise pollution__
+
+## Main intervention linked to the Mitigation
+
+* [Wall and floors treatment](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_14.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Risk of exposure to noise pollution impacting mental health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_8160.md)
+

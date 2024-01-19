@@ -1,0 +1,42 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4044 
+
+# __Enhanced coordination and cooperation among institutions__
+
+## Category to which it belongs
+
+* [Promote collaboration, coordination, and standardized guidelines to foster partnerships, implement policies, and achieve global cooperation.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_107.md)
+
+## Closest similar item
+
+* [Coordinated response and global cooperation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3559.md)
+* [Enhanced communication and coordination](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1033.md)
+* [Global coordination and cooperation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1024.md)
+* [Government coordination](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4999.md)
+* [Improved coordination at federal level](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3234.md)
+* [International cooperation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5189.md)
+* [International coordination and collaboration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3971.md)
+* [Partnerships and coordination](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3704.md)
+* [Strengthen coordination and collaboration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5075.md)
+* [Strong institutions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4708.md)
+
+## Main intervention linked to the Mitigation
+
+* [Facilitate transparent communication](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_37.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of coordination and communication](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2868.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Cross-sector collaboration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3007.md)
+* [Data sharing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2915.md)
+
+## Property: has_MitigationPrinciple
+
+Improve preparedness and response to emergencies
+
+## Property: has_MitigationSource
+
+* [COVID-19 risks and systemic gaps in Nigeria: resilience building lessons for pandemic and climate change management](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_215.md)
+

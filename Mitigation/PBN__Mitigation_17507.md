@@ -1,0 +1,12 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_17507 
+
+# __Promote policies for affordable housing and urban planning that address overcrowding and provide adequate living space.__
+
+## Main intervention linked to the Mitigation
+
+* [Staff training / upskilling](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_22.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Anti-density discourse may reinforce overcrowding in homes due to insane rents.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15568.md)
+

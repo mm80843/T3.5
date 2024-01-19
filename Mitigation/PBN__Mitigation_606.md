@@ -1,0 +1,45 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_606 
+
+# __Improve ventilation systems__
+
+## Benefits linked to a risk
+
+* [Minimize airborne transmission of covid-19 in workplaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_606.md)
+
+## Category to which it belongs
+
+* [Optimize airflow and air quality through improved ventilation systems and natural lighting, increased outdoor air intake, and proper maintenance.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_121.md)
+
+## Closest similar item
+
+* [Adequate ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1318.md)
+* [Improved ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_84.md)
+* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_517.md)
+* [Improvement of ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3572.md)
+* [Improving ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_372.md)
+* [Improving ventilation system](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_476.md)
+* [Increase ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1074.md)
+* [Optimizing ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4786.md)
+* [Ventilation improvement](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_247.md)
+* [Ventilation improvements](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_613.md)
+
+## Main intervention linked to the Mitigation
+
+* [Air filtration](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_2.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inadequate ventilation systems in workplaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_438.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
+
+## Property: has_MitigationPrinciple
+
+Improving ventilation systems to reduce the dispersal of microbes and control the indoor air quality
+
+## Property: has_MitigationSource
+
+* [Architectural Design Drives the Biogeography of Indoor Bacterial Communities](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_52.md)
+

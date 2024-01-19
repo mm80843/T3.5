@@ -1,0 +1,21 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_12891 
+
+# __Delivery robots__
+
+## Risks linked to this technology
+
+* [Collaboration among businesses may lead to increased physical interaction and potential spread of contagious diseases.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10923.md)
+* [Potential for human-to-human contact during in-store shopping or pick-up](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_11315.md)
+
+## This Technology belongs to this TechGroup
+
+* [Supply-chain](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_14.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Contactless delivery](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_113.md)
+
+## This technology is mentioned by
+
+* [Willems_how_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_511.md)
+

@@ -1,0 +1,12 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_22545 
+
+# __Collect and analyze local data, engage with community stakeholders, and tailor policy responses to specific local conditions.__
+
+## Main intervention linked to the Mitigation
+
+* [Infection tracking / monitoring](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_29.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Customized policy responses to covid-19 are important based on the local situation and the needs of local people.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20565.md)
+

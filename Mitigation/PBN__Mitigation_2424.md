@@ -1,0 +1,29 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2424 
+
+# __Promote policies that strike a balance between efficiency gains and resilience to shocks in gvcs.__
+
+## Category to which it belongs
+
+* [Promote sustainable economic growth through infrastructure investment, revenue diversification, financial interventions, and decentralized activities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_112.md)
+
+## Closest similar item
+
+* [Building resilience measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4418.md)
+* [Enhance system resilience, diversify dependencies, and establish backup systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_308.md)
+* [Foster competition and diversification in gvcs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2116.md)
+* [Foster economic resilience through improved risk management and diversification strategies.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3970.md)
+* [Fostering competition and diversification in gvcs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2421.md)
+* [Implement policies and measures to support the most affected regions and sectors, ensure fair distribution of recovery funds, and promote economic resilience and diversification](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1040.md)
+* [Promote economic stability](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_644.md)
+* [Promote energy-saving practices, provide energy efficiency advice and incentives](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1709.md)
+* [Resilient approach](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_156.md)
+* [Strengthen supply chain resilience](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2898.md)
+
+## Main intervention linked to the Mitigation
+
+* [Minimize supply chain disruptions](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_32.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Trade-offs between efficiency and stability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1823.md)
+

@@ -1,0 +1,33 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_543 
+
+# __Investment in clean energy__
+
+## Benefits linked to a risk
+
+* [Reduced environmental impact](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_531.md)
+
+## Category to which it belongs
+
+* [Promote sustainable economic growth through infrastructure investment, revenue diversification, financial interventions, and decentralized activities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_112.md)
+
+## Closest similar item
+
+* [Adoption of cleaner and renewable energy sources](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_620.md)
+* [Implement sustainable strategies for economic recovery, promote clean and renewable energy sources](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4847.md)
+* [Incentives for clean energy manufacturing and deployment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_175.md)
+* [Increased funding for clean energy](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4024.md)
+* [Prioritize investments in clean water, appropriate sanitation, and hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2457.md)
+* [Promote energy efficiency measures and renewable energy production](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1494.md)
+* [Promote inclusive policies for clean energy access, subsidize clean energy solutions for low-income households](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2146.md)
+* [Renewable energy](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4704.md)
+* [Support and invest in low-carbon sources of electricity and transportation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2142.md)
+* [Sustainable energy policy](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1711.md)
+
+## Main intervention linked to the Mitigation
+
+* [Environmental parameters control](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_1.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Economic impact of covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_386.md)
+

@@ -1,0 +1,76 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/pages/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_98 
+
+# __Insufficient safety measures, inadequate protective equipment, and lack of adherence to prevention guidelines pose significant risks.__
+
+## Category links to the following 'general blueprint(s)'
+
+* [Implementing Contagious Disease Containment Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_42.md)
+
+## Items covered in this category
+
+* [Building resilience capabilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2729.md)
+* [Community participation in control policies and preventative measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2356.md)
+* [Compliance with hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_557.md)
+* [Compliance, accuracy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3209.md)
+* [Failure to implement preventive measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2424.md)
+* [Failure to prioritize team safety](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1777.md)
+* [False sense of security from preventive measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2521.md)
+* [Hazardous tasks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2631.md)
+* [Health and safety concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1202.md)
+* [Inadequate personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2054.md)
+* [Inadequate protection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3348.md)
+* [Inadequate protective measures in icu](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1106.md)
+* [Inadequate safety](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1803.md)
+* [Inadequate use of personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2236.md)
+* [Ineffective containment measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1810.md)
+* [Ineffective mitigation policies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_975.md)
+* [Ineffective use of isolation facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2632.md)
+* [Ineffective use of personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1957.md)
+* [Ineffectiveness of mitigation measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2952.md)
+* [Inefficient emergency response](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1812.md)
+* [Insufficient protection for vulnerable groups](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1770.md)
+* [Lack of adherence to prevention measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_472.md)
+* [Lack of adherence to preventive measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2325.md)
+* [Lack of airtightness and safety concerns with reusable face shields](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2460.md)
+* [Lack of awareness about campus safety](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2492.md)
+* [Lack of biosecurity measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3380.md)
+* [Lack of compliance with preventive measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1316.md)
+* [Lack of knowledge on prevention](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1164.md)
+* [Lack of long-term protection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_420.md)
+* [Lack of personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1490.md)
+* [Lack of personal protective equipment and professional training in family members](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_478.md)
+* [Lack of personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2665.md)
+* [Lack of protection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2146.md)
+* [Lack of protection for staff](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1276.md)
+* [Lack of protective equipment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1540.md)
+* [Lack of protective suits and resources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_547.md)
+* [Limited functionality and reliability of wearable devices](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2120.md)
+* [Low adoption of preventive measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1485.md)
+* [Maintaining safety](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2368.md)
+* [Manual enforcement difficulties](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2923.md)
+* [Misinterpretation of preventive measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_542.md)
+* [Personal protection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2654.md)
+* [Personal protective equipment ppe usage](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3315.md)
+* [Prevention and protection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_565.md)
+* [Protection of innovative startups](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2742.md)
+* [Reliability and robustness of wearable devices](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3113.md)
+* [Safeguard equipment and aid communication](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1615.md)
+* [Safety and health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1113.md)
+* [Safety as an important factor](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2127.md)
+* [Safety concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1239.md)
+* [Safety concerns with 3d-printed ppe](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1004.md)
+* [Safety during sample manipulation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1684.md)
+* [Safety of laboratory personnel and environment during sample handling and analysis](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2373.md)
+* [Shortage of personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2369.md)
+* [Shortages of personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2873.md)
+* [Shortages of protective equipment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1415.md)
+* [Support life-saving equipment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1403.md)
+* [Technical limitations of wearables](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2126.md)
+* [Unsustainable and unsafe cities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2925.md)
+* [Vital loads and lighting for safety](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3154.md)
+* [Vulnerability to control measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3396.md)
+
+## Title of the category
+
+This category of Risks represents a wide range of challenges related to the safety and protection of individuals in green building neighborhoods. It includes factors such as lack of adequate protection for staff, ineffective mitigation policies, unreliable wearable devices, and a lack of awareness about campus safety. It also encompasses issues such as compliance with hand hygiene, ineffective use of isolation facilities, and inefficient emergency response. Other risks in this category involve the low adoption and misinterpretation of preventive measures, failure to implement and comply with such measures, and inadequate safety measures in general. Furthermore, this category includes concerns about the availability and proper use of personal protective equipment (PPE), as well as the insufficient protection for vulnerable groups. It also addresses the challenges of maintaining safety, building resilience capabilities, and ensuring the safety of laboratory personnel and environment during sample handling and analysis. Overall, these risks highlight the need for effective safety measures, proper training, compliance with preventive measures, and adequate resources to safeguard the well-being of individuals in green building neighborhoods.
+

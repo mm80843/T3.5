@@ -1,0 +1,201 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [BP_Intervention](https://github.com/mm80843/T3.5/tree/pages/docs/BP_Intervention/index.md) >> Individual ID:PBN__BP_Intervention_14 
+
+# __Wall and floors treatment__
+
+## Category to which it belongs
+
+* [Interior surface finishes and coverings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_213.md)
+
+## Mitigations linked to this intervention
+
+* [Adherence to ansi/ashrae standard 180-2018 and nadca acr 2013 standards, use of certified cleaning firms](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3285.md)
+* [Adherence to epa and nadca guidelines for the use of sealants, application only on clean and dry duct surfaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_917.md)
+* [Aesthetic management practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_920.md)
+* [Antiviral coatings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3287.md)
+* [Antiviral surface coatings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1784.md)
+* [Apply antimicrobial coatings to high-touch surfaces and implement strict disinfection protocols.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2032.md)
+* [Bim building information modelling](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5172.md)
+* [Building envelope modifications](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3756.md)
+* [Building information model bim](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4185.md)
+* [Building information modelling bim](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1551.md)
+* [Clear labeling and communication of coating ingredients to ensure proper understanding of antiviral effectiveness.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4105.md)
+* [Coating with cationic polymer films polyallylamine or poly diallyldimethylammonium chloride](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_918.md)
+* [Coating with cuprous oxide cu2o /polyurethane pu film](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1189.md)
+* [Comprehensive testing and standardization of gbns’ physicochemical properties](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4177.md)
+* [Conduct comprehensive research to understand the specific mechanisms and potential side effects of gbns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_15578.md)
+* [Conduct extensive research and data collection on sars-cov-2 dynamics in the gulf states](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5392.md)
+* [Conduct further research on the systemic effects of copper exposure, public education on potential health risks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_12068.md)
+* [Conduct further research to identify specific noise sources and address them, engage with the community to understand their concerns, and develop noise reduction strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_19529.md)
+* [Conduct further studies and testing of copper surfaces under real-world conditions to verify its efficacy in mitigating the spread of the virus.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_12200.md)
+* [Conduct in-depth research to understand the mechanisms of covid-19 virus inactivation on 3d-printed copper coatings.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1063.md)
+* [Conduct thorough investigations into the virucidal activity of cu 2 o/pu film against specific viruses, including sars-cov-2, and publish findings for public health guidance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2176.md)
+* [Continuous education and communication about the importance of noise control and prevention, even during lockdowns.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1654.md)
+* [Continuously active antimicrobial coating](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3671.md)
+* [Development of anti-sars-cov-2 coating to reduce viability of the virus on solids](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4399.md)
+* [Development of continuously active antimicrobial coatings and self-disinfecting surfaces.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4822.md)
+* [Development of graphene-based antiviral coatings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_6145.md)
+* [Development of robust antiviral coatings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_6186.md)
+* [Development of soundscaping design approaches and reliable sound maskers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_6719.md)
+* [Educate residents on coping strategies, establish noise management policies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_964.md)
+* [Educate users on hygiene best practices for iot devices, and implement self-cleaning or antimicrobial surfaces in iot devices.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_965.md)
+* [Encourage public awareness campaigns on transport noise pollution and its health effects, advocate for sustainable transport solutions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4405.md)
+* [Enforcing building codes and regulations, promoting affordable and safe housing options](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_6895.md)
+* [Enforcing hygiene protocols, maintaining cleanliness, and promoting responsible passenger behavior.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_6901.md)
+* [Ensure consistent wettability of the cu 2 o/pu film to guarantee effective viral inactivation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_6904.md)
+* [Equalize noise mitigation efforts across all dwelling types, conduct noise impact assessments for different dwelling types](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_6981.md)
+* [Establish and adhere to a strict schedule for the regular cleaning and maintenance of hvac systems, including filter changes and thorough cleaning of components.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_7354.md)
+* [Exploring and addressing the impact of other outdoor noise sources on annoyance levels, even during lockdown periods.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_7355.md)
+* [Frequent disinfection of surfaces, use of protective barriers, and promotion of hand hygiene.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_7356.md)
+* [Further research and validation of the biocidal mechanisms of cu 2 o compounds to ensure consistent and reliable virucidal activity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_7357.md)
+* [Further research on the effectiveness and safety of cu 2 o particle coatings, regulatory scrutiny of the application of cu 2 o in public spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_7358.md)
+* [Implement a regular cleaning and disinfection schedule for commonly touched surfaces, tools, and equipment on construction sites.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_7359.md)
+* [Implement alternative noise monitoring strategies and awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_7372.md)
+* [Implement low-cost and portable measurement systems using smartphones and raspberry pi for indoor noise measurements. collect additional building data such as year of construction and window type for improved assessment.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_7373.md)
+* [Implement measures to address specific outdoor noise sources](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_7374.md)
+* [Implement noise control measures, provide community awareness, and enforce noise regulations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_7375.md)
+* [Implement noise insulation and soundproofing measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_7376.md)
+* [Implement noise reduction measures and communication strategies with neighbours](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_7377.md)
+* [Implement noise reduction measures, enforce noise regulations, and promote education on noise control](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_7379.md)
+* [Implement noise reduction measures, promote respectful noise behavior, and cultivate a culture of noise awareness and consideration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_7382.md)
+* [Implement sound-proofing measures and green barriers to reduce noise pollution](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_7383.md)
+* [Implement soundproofing measures and urban planning guidelines to reduce noise pollution](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_7384.md)
+* [Implement soundproofing measures, establish community noise guidelines, and facilitate communication to address noise concerns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_9684.md)
+* [Implement soundproofing measures, establish noise reduction guidelines](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_10015.md)
+* [Implement specialized entrance floor systems and antimicrobial surface coatings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_10046.md)
+* [Implement stricter noise regulations for construction sites, promote use of quieter construction equipment, and provide support for soundproofing of homes](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_10047.md)
+* [Implement surface treatment to reduce adsorption effect, use standardized test protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_10048.md)
+* [Implementing remote working](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_10049.md)
+* [Implementing targeted public health measures, improving testing and contact tracing capabilities, and promoting vaccination.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_10820.md)
+* [Improve sound insulation in flats and promote respectful neighbor behavior through community engagement during lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_12113.md)
+* [Improved building insulation, noise control measures, sound-absorbing materials](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_12345.md)
+* [Improved sound insulation and noise reduction measures in flats](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_13927.md)
+* [Improved soundproofing, communication with neighbors, and noise regulations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3838.md)
+* [Improving sound insulation, creating physical barriers, and implementing noise-reducing technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_8926.md)
+* [Increase access to affordable housing and reduce overcrowding through urban planning and development](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_14093.md)
+* [Integration of antimicrobial materials, easy-to-clean surfaces, and regular disinfection protocols in designs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_14133.md)
+* [Integration of waste management solutions with lower resource consumption and improved recyclability](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_14518.md)
+* [Invest in building design and materials that prioritize acoustic performance, implement sound-absorbing structures and materials.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_15672.md)
+* [Investment in color printing technology to increase options](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_15676.md)
+* [Mosquito control](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_15678.md)
+* [Noise reduction measures, community policies, and awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_15681.md)
+* [Not using amine and ammonium-based polymers for virus inactivation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_15682.md)
+* [Optimize courtyard design for a shielding effect, use of solid walls and fences](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_15684.md)
+* [Physical removal of solid residues](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_15686.md)
+* [Prompt investigation and remediation of odor sources, regular cleaning and inspection of building interiors, and proper management of waste and moisture.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_15754.md)
+* [Proper disposal of internal filters as medical waste and use of alternative biofiltration technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_18086.md)
+* [Provide adequate housing with sufficient space](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_18240.md)
+* [Provide clear guidelines for surface disinfection based on virus behavior](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_18568.md)
+* [Provide guidance on noise reduction in diy projects, promote consideration for neighbours when conducting home repairs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_19014.md)
+* [Provide information on coping strategies for increased noise sensitivity and promote community engagement in noise reduction efforts](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_19502.md)
+* [Provide proper training and equipment for safe filter replacement, including gloves, respirators, masks, and disposal procedures for dirty filters.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_19526.md)
+* [Quaternary ammonium polymer coating surfacewise2™](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_19527.md)
+* [Reassess housing unit size to avoid overcrowding and facilitate social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_19528.md)
+* [Redesigning layout for better ergonomics, providing ergonomic furniture and equipment, promoting proper posture and movement](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_19531.md)
+* [Redesigning widths and positioning of corridors and doors to minimize close contact](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_19532.md)
+* [Regular cleaning and disinfection of surfaces, minimizing surface contact](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_19533.md)
+* [Regular cleaning and maintenance of antimicrobial surfaces, monitoring for effectiveness.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_19534.md)
+* [Regular disinfection of metal surfaces and maintenance of social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_19537.md)
+* [Regular disinfection of metal surfaces and proper ventilation to reduce aerosol transmission](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_19539.md)
+* [Regular disinfection of surfaces, especially those with high contact](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_11885.md)
+* [Regular inspection and maintenance of barriers, proper installation based on ventilation requirements, and appropriate material selection.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_11886.md)
+* [Regular inspection and maintenance of insulation, use of appropriate insulation materials](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_18920.md)
+* [Regular maintenance and cleaning of hvac system, proper operation checks, and filter replacement](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_19941.md)
+* [Regular maintenance and inspection of insulation, including removal of wet or contaminated insulation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_20386.md)
+* [Regular noise monitoring, flexible noise ordinances, and public awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_20390.md)
+* [Regular sanitization of frequently touched surfaces and objects](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_21465.md)
+* [Regular verification of inactivation efficacy through control experiments](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_21467.md)
+* [Reinforcement of sound insulation guidelines for building elements such as walls, floors, and ceilings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_21470.md)
+* [Research and development of improved solubility and processing methods for go.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_21471.md)
+* [Research and development of more effective antiviral coatings, implementation of additional protective measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_21472.md)
+* [Research and testing to identify chemical groups that effectively inactivate sars-cov-2](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_21473.md)
+* [Self-sanitizing surfaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_21474.md)
+* [Smooth out the walls and fill the varying voids to create a safer running environment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_21476.md)
+* [Standardization of coating application and testing procedures to minimize variations in effectiveness.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_21478.md)
+* [Strategic placement of balconies in protected areas, use of fences and solid walls to deflect noise](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_21480.md)
+* [Strategic placement of noise-reducing measures in living spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_21481.md)
+* [Tempfloor panels](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_21483.md)
+* [Thorough testing and validation of coatings for long-term virucidal potency](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_21485.md)
+* [Use alternative eco-friendly pesticides and antifoulants, study the long-term effects of exposure to cuprous oxide](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_21486.md)
+* [Use alternative manufacturing technologies, improve design to address fitting and weight problems, and develop secondary disinfection measures for safety goggles.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_21487.md)
+* [Use appropriate concentrations, follow safety guidelines for handling](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_21489.md)
+* [Use digital signatures for data integrity verification](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_21490.md)
+* [Use of antimicrobial materials and surfaces to limit virus survival.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_21491.md)
+* [Use of appropriate biomedical waste disposal methods, decontamination of laboratory materials, and strict adherence to waste management protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_21492.md)
+* [Use of appropriate cleaning protocols, protective barriers, and equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_21493.md)
+* [Use of coatings with similar or higher efficacy than cu 2 o/pu coating to ensure rapid inactivation of viruses.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_21494.md)
+* [Use of multiple disinfectants with different mechanisms of action, regular assessment of disinfection practices, and implementation of enhanced cleaning protocols.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_21495.md)
+* [Use of porous coating of cu 2 o/pu to reduce infective titer of sars-cov-2](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_21496.md)
+* [Use of self-disinfecting surfaces that can continuously inactivate deposited pathogens](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_21500.md)
+* [Use of walk-off mats, regular cleaning of carpets, and implementation of dust control measures.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_21501.md)
+* [Use technologies with low residual disinfectants, implement thorough cleaning processes after disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_21502.md)
+* [Utilize weather-resistant materials for signage, such as laminated paper or plastic sleeves, and regularly inspect and replace damaged signage.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_22526.md)
+* [Verification of required licenses for air duct cleaners, compliance with state regulations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_19596.md)
+* [Waste management in demolition](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_19598.md)
+
+## This intervention is used in the following blueprints
+
+* [Animal vectors control measures](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_5.md)
+* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_18.md)
+
+## Property: has_BPIntervention_RiskGroup
+
+* [Infrastructure risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_3.md)
+* [Public health risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_1.md)
+* [Social risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_2.md)
+
+## Property: has_BPIntervention_RiskSubgroup
+
+* [Air quality and pollution effects](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_37.md)
+* [Communication and messaging](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_12.md)
+* [Failure to implement preventive measures](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_1.md)
+* [Inadequate mobility schemes](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_3.md)
+* [Infrastructure maintenance risk](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_63.md)
+* [Lack of effective medical solutions](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_32.md)
+* [Misinterpretation of data and results](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_25.md)
+* [Pollution increase](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_20.md)
+* [Social and psychological effects](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_67.md)
+* [Workplace safety and occupational exposure](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_22.md)
+
+## Property: has_BPIntervention_StakeholderGroup
+
+* [Construction and infrastructure industry](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_4.md)
+* [Government institutions](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_10.md)
+* [Health organisations](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_7.md)
+* [Public entities](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Residents and occupants of spaces](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_1.md)
+
+## Property: has_BPIntervention_StakeholderSubgroup
+
+* [Building managers](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_5.md)
+* [Facility maintenance team](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_13.md)
+* [Local government](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_57.md)
+* [Project managers](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_37.md)
+* [Research institutions](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_34.md)
+
+## Property: has_BPIntervention_TechGroup
+
+* [Building design](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_2.md)
+* [Healthcare](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_4.md)
+* [Urban planning](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_1.md)
+
+## Property: has_BPIntervention_TechSubgroup
+
+* [Analytical chemistry](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_32.md)
+* [Building design](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_29.md)
+* [Community management technologies](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_19.md)
+* [Crowd control solutions](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_3.md)
+* [Diagnostic testing](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_41.md)
+* [Environmental sensors](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_39.md)
+* [Personal hygiene and sanitation](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_7.md)
+* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_79.md)
+* [Soundproofing technology](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_12.md)
+* [Wellbeing and mental health](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_5.md)
+
+## Property: has_BP_InterventionKey
+
+PS3
+
+## Property: has_BP_InterventionTitle
+
+Wall and floors treatment
+

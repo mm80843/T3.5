@@ -1,0 +1,16 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1145 
+
+# __Testing and validation of the expert system’s performance and accuracy__
+
+## Benefits linked to a risk
+
+* [Reliable and accurate early detection of covid-19 risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1139.md)
+
+## Main intervention linked to the Mitigation
+
+* [Infection tracking / monitoring](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_29.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Risk of misdiagnosis or false results](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_839.md)
+

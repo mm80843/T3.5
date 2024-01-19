@@ -1,0 +1,76 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/pages/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_66 
+
+# __The challenges include inadequate monitoring and contact tracing, limited sensor diversity, and temporary regulations to restrict activities in public places.__
+
+## Category links to the following 'general blueprint(s)'
+
+* [Implementing Pooled-Sample Analysis and Contact Tracing Systems](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_29.md)
+
+## Items covered in this category
+
+* [Automation disruption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1713.md)
+* [Checkpoint allocation for monitory and recording opportunities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_749.md)
+* [Close contact tracing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1608.md)
+* [Diagnostic accuracy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_990.md)
+* [Difficulty in contact tracing and cluster identification](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1501.md)
+* [Early detection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2329.md)
+* [Failure to detect non-compliance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2028.md)
+* [Health care, surveillance and monitoring gaps](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1696.md)
+* [Health care, surveillance, and monitoring gaps](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1924.md)
+* [Ict service disruption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_465.md)
+* [Imaging limitation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2520.md)
+* [Inadequate compliance monitoring](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_999.md)
+* [Inadequate monitoring and evaluation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_905.md)
+* [Inadequate patient monitoring](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2455.md)
+* [Inadequate surveillance and monitoring](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3161.md)
+* [Inadequate surveillance measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_398.md)
+* [Inadequate surveillance systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_24.md)
+* [Incomplete detection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_739.md)
+* [Ineffective contact tracing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3386.md)
+* [Insufficient monitoring data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2151.md)
+* [Insufficient testing capacity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3269.md)
+* [Invasive individual testing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2055.md)
+* [Lack of effective surveillance and tracking](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1708.md)
+* [Lack of iaq monitoring](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_293.md)
+* [Lack of monitoring and contact tracing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2527.md)
+* [Lack of monitoring capabilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2573.md)
+* [Lack of monitoring system for high-risk patients](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2116.md)
+* [Limited awareness, interoperability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1000.md)
+* [Limited diagnostic and screening tests](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3363.md)
+* [Limited diagnostic capacity in areas with poor sanitation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2117.md)
+* [Limited diagnostic tests](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_272.md)
+* [Limited diversity of sensors](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1396.md)
+* [Limited evidence available](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2627.md)
+* [Limited monitoring](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3294.md)
+* [Limited sensor capability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_370.md)
+* [Limited testing and treatment capabilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_637.md)
+* [Limited testing capacity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1145.md)
+* [Long turnaround time for rt-pcr testing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2442.md)
+* [Loss of monitoring and research activities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_740.md)
+* [Low testing capacity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2681.md)
+* [Misdiagnosis and equipment malfunction](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3116.md)
+* [Monitoring and restriction](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_402.md)
+* [Monitoring mobility](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2947.md)
+* [Monitoring of confirmed cases and close contacts](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2567.md)
+* [Need for alternative detection methods](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3233.md)
+* [Need for improved detection methods](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2161.md)
+* [Overfitting of anomaly detection models](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2319.md)
+* [Patients with limited internet access and technologic capabilities, lack of physical exam, ambiguity about information security](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_262.md)
+* [Peer-review failures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1229.md)
+* [Poor contact tracing process](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2786.md)
+* [Proprietary monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2341.md)
+* [Requires continuous monitoring](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1495.md)
+* [Sensor failure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_925.md)
+* [Service disruption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2306.md)
+* [Service interruption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_673.md)
+* [Slow testing process](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1996.md)
+* [Surveillance and monitoring](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2537.md)
+* [Surveillance terms](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1251.md)
+* [Swabbing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_265.md)
+* [Temporary regulations to monitor and restrict certain activities in public places](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1260.md)
+* [Testing strategy limitations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3392.md)
+
+## Title of the category
+
+This category of Risks describes various issues related to monitoring, contact tracing, and testing in the context of contagious diseases in green building neighborhoods. These Risks include difficulties in monitoring mobility and contact tracing, such as a lack of monitoring and contact tracing capabilities, ineffective contact tracing processes, and limited awareness and interoperability. Additionally, there are concerns about the limited capacity for diagnostic testing, including low testing capacity, limited diagnostic tests, and slow testing processes. Other Risks involve disruptions to monitoring and surveillance systems, such as ICT service disruptions and automation disruptions, as well as limitations in surveillance measures and peer-review failures. Furthermore, there are challenges in detecting and diagnosing cases, with issues like incomplete detection, misdiagnosis, and equipment malfunctions. Overall, these Risks highlight the potential problems and limitations in monitoring, tracing, and testing in green building neighborhoods, which may affect the ability to effectively control and manage the spread of contagious diseases.
+

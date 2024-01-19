@@ -1,0 +1,41 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3124 
+
+# __Dedicated walk-in clinic__
+
+## Category to which it belongs
+
+* [Implementing a wide range of measures and strategies to combat the challenges of the pandemic.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_127.md)
+
+## Closest similar item
+
+* [Creating new space for walking and cycling](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3250.md)
+* [Creation of space for walking and cycling](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4118.md)
+* [Increased use of telehealth clinics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3486.md)
+* [Pedestrian and cycling facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2761.md)
+* [Promote alternative indoor activities, provide mental health support, offer virtual tours or nature-based activities.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1327.md)
+* [Remote therapy services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_43.md)
+* [Select patient rooms that are large enough and equipped with necessary medical devices and utilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4983.md)
+* [Telehealth clinics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4454.md)
+* [Virtual clinics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2183.md)
+* [Virtual clinics and tele-medicine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_357.md)
+
+## Main intervention linked to the Mitigation
+
+* [Quarantine support](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_30.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Outbreak](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2378.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Medical infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2295.md)
+
+## Property: has_MitigationPrinciple
+
+Establish dedicated clinics for the diagnosis and treatment of infectious diseases
+
+## Property: has_MitigationSource
+
+* [Mitigation strategies to fight the COVID-19 pandemic—present, future and beyond](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_200.md)
+

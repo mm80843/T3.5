@@ -1,0 +1,118 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [StakeholderSubgroup](https://github.com/mm80843/T3.5/tree/pages/docs/StakeholderSubgroup/index.md) >> Individual ID:PBN__StakeholderSubgroup_71 
+
+# __Design and construction professionals__
+
+## Stakeholders in this stakeholder subgroup
+
+* [Acoustic engineers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_202.md)
+* [And building industry professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1888.md)
+* [And practitioners in architecture](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1463.md)
+* [Architect](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2526.md)
+* [Architects](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_11.md)
+* [Architects and building managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_308.md)
+* [Architects and designers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1898.md)
+* [Architects and developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_645.md)
+* [Architects and planners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_365.md)
+* [Architects and urban planners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_431.md)
+* [Architectural and engineering associations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_364.md)
+* [Architectural and engineering firms](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1682.md)
+* [Architectural and engineering professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1747.md)
+* [Architectural engineers and urban designers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1748.md)
+* [Architecture and engineering professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1400.md)
+* [Bim specialists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1506.md)
+* [Building and environmental engineers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_3367.md)
+* [Building consultants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_3555.md)
+* [Building designer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_3590.md)
+* [Building designers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_3620.md)
+* [Building industry professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_3630.md)
+* [Building professionals and technology developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_3944.md)
+* [Civil engineers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_3968.md)
+* [Construction and design professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_4024.md)
+* [Construction and design teams](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_4066.md)
+* [Construction designers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_4067.md)
+* [Construction engineers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_4068.md)
+* [Design and construction professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_4149.md)
+* [Design and construction team](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_4297.md)
+* [Design and construction teams](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_4828.md)
+* [Design and development teams](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_4829.md)
+* [Design and facility management companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_4830.md)
+* [Design and planning professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_4880.md)
+* [Design companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_5250.md)
+* [Design professional associations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_5855.md)
+* [Design professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_6073.md)
+* [Developers and architects](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_6075.md)
+* [Engineer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_6116.md)
+* [Engineering and design teams](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_7449.md)
+* [Engineering companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_7583.md)
+* [Engineers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_7585.md)
+* [Facility management and construction companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_7586.md)
+* [Including designers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_7848.md)
+* [It engineer](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_8426.md)
+* [It engineers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_8464.md)
+* [Landscape architect](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_8931.md)
+* [Lighting designers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_10383.md)
+* [Mechanical engineers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_10735.md)
+* [Network administrator](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_10794.md)
+* [Network and system administrator](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_11996.md)
+* [Network and system administrators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_11997.md)
+* [Nomad lodges project team](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_12123.md)
+* [Organizations involved in building design and construction](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_13125.md)
+* [Park designers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_13270.md)
+* [Professional engineering and design associations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_13271.md)
+* [Professionals in architecture](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_13272.md)
+* [Project managers and design coordinators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_13633.md)
+* [Project participants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_14023.md)
+* [Project participants responsible for procurement](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_14332.md)
+* [Signage companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_14339.md)
+* [Specialists in building flow dynamics](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_14354.md)
+* [Such as architects](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_14381.md)
+* [Urban planning and architectural institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_14446.md)
+* [Value engineering team](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_14826.md)
+* [Value engineers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_15837.md)
+
+## Property: has_StakeholderSubgroup_BPIntervention
+
+* [Air filtration](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_1.md)
+* [Control airflows in spaces & avoid air recirculation](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_5.md)
+* [Environmental parameters control](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_42.md)
+* [Natural ventilation increase](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_2.md)
+* [Optimize users flows to prevent contamination](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_17.md)
+
+## Property: has_StakeholderSubgroup_RiskGroup_Owner
+
+* [Infrastructure risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_2.md)
+* [Public health risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_3.md)
+* [Social risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_1.md)
+
+## Property: has_StakeholderSubgroup_RiskSubgroup_Owner
+
+* [Climate change effects](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_46.md)
+* [Failure to implement preventive measures](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_27.md)
+* [Improper architectural designs](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_12.md)
+* [Inadequate adaptability to emerging problems](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_16.md)
+* [Inadequate hospital design](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_20.md)
+* [Insufficient adoption of health-focused building standards](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_74.md)
+* [Lack of emphasis on air quality](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_28.md)
+* [Poor urban planning](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_56.md)
+* [Public health messaging and education](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_30.md)
+* [Workplace safety and occupational exposure](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_75.md)
+
+## Property: has_StakeholderSubgroup_TechGroup
+
+* [Air control](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_4.md)
+* [Building design](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_2.md)
+* [Healthcare](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_12.md)
+
+## Property: has_StakeholderSubgroup_TechSubgroup
+
+* [Architectural design software](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_3.md)
+* [Building design](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_20.md)
+* [Green infrastructure management](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_30.md)
+* [Personal hygiene and sanitation](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_29.md)
+* [Physical health monitoring](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_6.md)
+* [Spatial planning and layout tools](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_75.md)
+* [Sustainable design](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_44.md)
+* [Ventilation](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_2.md)
+* [Ventilation and air quality systems](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_1.md)
+* [Ventilation systems](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_21.md)
+

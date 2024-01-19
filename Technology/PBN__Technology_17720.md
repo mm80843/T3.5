@@ -1,0 +1,20 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_17720 
+
+# __Vocational training simulators__
+
+## Risks linked to this technology
+
+* [Technological advancements in robotics and automation may lead to increased human-job displacement, affecting the economic and social well-being of workers.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_15397.md)
+
+## This Technology belongs to this TechGroup
+
+* [Healthcare](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_2.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Social distancing technologies](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_13.md)
+
+## This technology is mentioned by
+
+* [Saadi-sedik_pandemics_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_585.md)
+

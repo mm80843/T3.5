@@ -1,0 +1,40 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_5234 
+
+# __Social gathering restrictions__
+
+## Category to which it belongs
+
+* [Promotion of safe social interactions, behavioral change, and equitable access to information and support through social media platforms.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_126.md)
+
+## Closest similar item
+
+* [Avoidance of large gatherings, and gatherings in smaller public spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4309.md)
+* [Ban on public gatherings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3698.md)
+* [Banning of large gatherings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3416.md)
+* [Implementing temporary regulations to restrict group gatherings, overcrowding, and high-level interactions.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_563.md)
+* [Public and private gatherings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4315.md)
+* [Restrict mass gatherings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1728.md)
+* [Restricted gatherings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4496.md)
+* [Restrictions on gatherings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_958.md)
+* [Restrictions on private gatherings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4449.md)
+* [Social gatherings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4690.md)
+
+## Main intervention linked to the Mitigation
+
+* [Shift controls occupancy control of total users](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_41.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Poor infection control practices](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3397.md)
+
+## This Mitigation is enabled by the following technologies
+
+
+## Property: has_MitigationPrinciple
+
+Regulations prohibiting large-scale social gatherings to reduce the spread of COVID-19
+
+## Property: has_MitigationSource
+
+* [Knowledge, attitudes, and practices of Indonesian residents regarding COVID-19: A national cross-sectional survey](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_176.md)
+

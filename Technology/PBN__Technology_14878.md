@@ -1,0 +1,22 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_14878 
+
+# __Uv-c light sanitization__
+
+## Risks linked to this technology
+
+* [Gaps in casbee’s response to prevention of virus propagation indicators pvp1, pvp2, and pvp3](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_12650.md)
+* [Potential spread of contagious diseases through shared virtual reality equipment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_14212.md)
+
+## This Technology belongs to this TechGroup
+
+* [Air control](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_12.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Uv-c disinfection](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_90.md)
+
+## This technology is mentioned by
+
+* [Singh_significant_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_532.md)
+* [Ujikawa_how_2022](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_564.md)
+

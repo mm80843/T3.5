@@ -1,0 +1,41 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3875 
+
+# __Prevention of panic__
+
+## Category to which it belongs
+
+* [Ensure safety and protection through the implementation of protocols, equipment distribution, and preventive measures in various settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_148.md)
+
+## Closest similar item
+
+* [Development of travel anxiety reduction strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3740.md)
+* [Emphasize the importance of multiple preventive measures and the need for continued vigilance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_632.md)
+* [Isolation prevention](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2413.md)
+* [Medication prevention](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4998.md)
+* [Panic button protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_413.md)
+* [Prevention of disruptions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1656.md)
+* [Promote strategies for managing anxiety, stress, and depression](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4393.md)
+* [Provide strategies to alleviate travel anxiety](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3436.md)
+* [Stress management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_829.md)
+* [Stress management and coping](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4396.md)
+
+## Main intervention linked to the Mitigation
+
+* [Raising awareness](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_38.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Panic buying and hoarding](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2752.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Accurate and calm communication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2902.md)
+
+## Property: has_MitigationPrinciple
+
+Providing accurate and calm communication to prevent panic buying and hoarding of essential supplies, such as face masks and protective gear, which can lead to shortages and deprive healthcare professionals of necessary resources.
+
+## Property: has_MitigationSource
+
+* [Coronavirus disease 2019: The harms of exaggerated information and non‐evidence‐based measures](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_101.md)
+

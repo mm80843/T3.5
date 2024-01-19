@@ -1,0 +1,47 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_441 
+
+# __Widespread testing__
+
+## Benefits linked to a risk
+
+* [Control over spread of infection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_429.md)
+
+## Category to which it belongs
+
+* [Promote comprehensive and widespread testing, contact tracing, and the development of standardized protocols to accurately detect and track the virus.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_146.md)
+
+## Closest similar item
+
+* [Extensive testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4673.md)
+* [Improved testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3873.md)
+* [Increase testing capacity, develop rapid and accurate test kits, promote widespread testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3993.md)
+* [Increase testing capacity; develop and deploy widespread testing strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2720.md)
+* [Mass testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3119.md)
+* [Rapid testing methods](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_161.md)
+* [Routine testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1887.md)
+* [Testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5272.md)
+* [Testing facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3135.md)
+* [Voluntary testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3466.md)
+
+## Main intervention linked to the Mitigation
+
+* [Infection tracking / monitoring](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_29.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Mass testing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2961.md)
+* [Unknown infection status](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_295.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Mobile technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Conducting widespread testing to identify potential COVID-19 positive individuals, including asymptomatic cases, to reduce transmission
+
+## Property: has_MitigationSource
+
+* [Applications of digital technology in COVID-19 pandemic planning and response](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_228.md)
+* [Effects of temperature and humidity on the spread of COVID-19: A systematic review](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_127.md)
+

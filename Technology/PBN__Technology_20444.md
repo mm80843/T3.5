@@ -1,0 +1,16 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_20444 
+
+# __And air disinfection systems__
+
+## Risks linked to this technology
+
+* [Effect of environmental factors on the movement and suspension of infectious droplets](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_18119.md)
+
+## This Technology belongs to this TechGroup
+
+* [Healthcare](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_2.md)
+
+## This technology is mentioned by
+
+* [Memarzadeh_applications_2010](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_645.md)
+

@@ -1,0 +1,29 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2471 
+
+# __Improve healthcare facilities, increase capacity and resources__
+
+## Category to which it belongs
+
+* [Enhancing healthcare infrastructure and capacity, promoting equitable access to healthcare services and resources.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_145.md)
+
+## Closest similar item
+
+* [Enhancing healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2005.md)
+* [Increase healthcare capacity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2283.md)
+* [Increase healthcare capacity, allocate resources effectively](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2941.md)
+* [Increase healthcare capacity, ensure availability of medical supplies and equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1515.md)
+* [Increase healthcare capacity, establish additional temporary facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1111.md)
+* [Increase healthcare capacity, provide additional resources and support to healthcare workers.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2660.md)
+* [Increase healthcare resources and facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2717.md)
+* [Increase the capacity of medical facilities, allocate resources efficiently.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1453.md)
+* [Strengthen healthcare infrastructure, increase resources and capacity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2990.md)
+* [Strengthening healthcare infrastructure, increasing hospital capacity, and ensuring adequate medical supplies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4085.md)
+
+## Main intervention linked to the Mitigation
+
+* [Raising awareness](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_38.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1859.md)
+

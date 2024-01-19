@@ -1,0 +1,21 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_20656 
+
+# __Sewage monitoring systems__
+
+## Risks linked to this technology
+
+* [Increas in virus load in sewer systems due to circulation of the virus in the population](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_18329.md)
+* [Sewage data serving as a sensitive tool for early warning of increasing virus circulation in the population.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_18348.md)
+
+## This Technology belongs to this TechGroup
+
+* [Sensors and monitoring](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_8.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Environmental sensors](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_41.md)
+
+## This technology is mentioned by
+
+* [Medema_presence_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_650.md)
+

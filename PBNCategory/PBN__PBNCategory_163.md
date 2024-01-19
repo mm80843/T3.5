@@ -1,0 +1,63 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [PBNCategory](https://github.com/mm80843/T3.5/tree/pages/docs/PBNCategory/index.md) >> Individual ID:PBN__PBNCategory_163 
+
+# __Advanced filtration systems that clean and purify air, water, and remove particles and pathogens efficiently.__
+
+## Items covered in this category
+
+* [Activated carbon filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2120.md)
+* [Advanced air filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1109.md)
+* [Affordable filter materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3240.md)
+* [Air filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_588.md)
+* [Air filtration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2677.md)
+* [Air filtration and purification systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2469.md)
+* [Air filtration and uv light sterilisation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_192.md)
+* [Air filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1524.md)
+* [Air filtration technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_767.md)
+* [Air purifier with hepa filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2153.md)
+* [Air purifiers with hepa filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_203.md)
+* [Air quality and filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2113.md)
+* [Airborne virus filtration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_308.md)
+* [Antimicrobial filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1348.md)
+* [Centrifugal filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3148.md)
+* [Efficient filter replacement mechanisms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1882.md)
+* [Electrostatic filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1843.md)
+* [Epm1 95% filter](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2642.md)
+* [Extended kalman filter](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3123.md)
+* [Filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_499.md)
+* [Filters merv 7 and merv 14](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1113.md)
+* [Filtration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3628.md)
+* [Filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_770.md)
+* [Hepa filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1690.md)
+* [High-efficiency air filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_968.md)
+* [High-efficiency air filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_672.md)
+* [High-efficiency filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_678.md)
+* [High-efficiency particulate air filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2639.md)
+* [High-efficiency particulate air hepa filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1114.md)
+* [High-efficiency particulate filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2601.md)
+* [Hvac filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1748.md)
+* [Hvac systems with hepa filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1931.md)
+* [Implementation of hepa filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1750.md)
+* [Improved hvac systems with high-efficiency filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2344.md)
+* [Installation and maintenance of high-efficiency filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_272.md)
+* [Kalman filter](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2021.md)
+* [Mechanical filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1018.md)
+* [Membrane filtration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1741.md)
+* [Nanoparticle filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_412.md)
+* [Negative air machines with hepa filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3195.md)
+* [Pm2.5 filter](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2640.md)
+* [Portable air filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_679.md)
+* [Portable air filtration devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2020.md)
+* [Portable air purifiers with hepa filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3150.md)
+* [Sephadex g-10 gel filtration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3151.md)
+* [Ultrafiltration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3173.md)
+* [Ultrafiltration or nanomembrane filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3235.md)
+* [Use of advanced hvac systems with high-efficiency filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2855.md)
+* [Use of high-efficiency air filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3234.md)
+* [Uv air purification systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3059.md)
+* [Water filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2881.md)
+* [Water filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3060.md)
+
+## Title of the category
+
+This category of Technologys describes various filtration systems and devices used for air and water purification. It includes air filtration systems, such as HEPA filters, antimicrobial filters, nanoparticle filters, and high-efficiency filters. Water filtration systems, such as ultrafiltration and membrane filtration, are also part of this category. Additionally, it encompasses technologies related to the use and implementation of these filters, such as HVAC systems with HEPA filters, advanced air filtration systems, and efficient filter replacement mechanisms. This category also includes portable air purifiers, electrostatic filters, activated carbon filters, and affordable filter materials.
+

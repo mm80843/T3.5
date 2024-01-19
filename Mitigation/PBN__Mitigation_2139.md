@@ -1,0 +1,29 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2139 
+
+# __Promote medium density housing, create mixed-use neighborhoods__
+
+## Category to which it belongs
+
+* [Promote equitable and sustainable urban development with adequate housing, improved infrastructure, and increased access to essential services.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_117.md)
+
+## Closest similar item
+
+* [Housing design strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4022.md)
+* [Improve housing conditions, invest in the development of affordable and high-quality housing.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2003.md)
+* [Improved housing conditions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4017.md)
+* [Medium density housing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_703.md)
+* [Middle density housing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4419.md)
+* [Mixed-use neighborhoods](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1215.md)
+* [Provide adequate housing with sufficient space](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_295.md)
+* [Reduce population density and improve housing conditions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3855.md)
+* [Residential environments](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1784.md)
+* [Rethinking of density in cities and urban layouts](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1521.md)
+
+## Main intervention linked to the Mitigation
+
+* [Natural ventilation increase](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_5.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [High population density](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_620.md)
+

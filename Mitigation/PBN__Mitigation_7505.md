@@ -1,0 +1,12 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_7505 
+
+# __Exploring innovative design solutions for small apartment units.__
+
+## Main intervention linked to the Mitigation
+
+* [Introduce "multi-use" / modular designs](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_28.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited options for reorganizing living space in small apartments.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_5632.md)
+

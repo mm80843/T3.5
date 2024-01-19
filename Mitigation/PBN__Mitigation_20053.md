@@ -1,0 +1,12 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_20053 
+
+# __Use uvgi as a complement to physical cleaning methods, especially for surfaces where conventional methods are not feasible__
+
+## Main intervention linked to the Mitigation
+
+* [Maintenance / decontamination of building water sytems](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_9.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited effectiveness of uvgi surface disinfection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_18089.md)
+

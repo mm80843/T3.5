@@ -1,0 +1,22 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/pages/docs/Technology/index.md) >> Individual ID:PBN__Technology_13193 
+
+# __Remote communication and collaboration tools__
+
+## Risks linked to this technology
+
+* [Direct interactions with employees and customers can facilitate the spread of contagious diseases.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_11201.md)
+* [Startups relying heavily on relational capabilities may lead to increased risk of disease propagation through close contact and interaction with partners and the startup community.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20071.md)
+
+## This Technology belongs to this TechGroup
+
+* [Communication](https://github.com/mm80843/T3.5/blob/pages/TechGroup/PBN__TechGroup_3.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Remote work and telecommuting technologies](https://github.com/mm80843/T3.5/blob/pages/TechSubgroup/PBN__TechSubgroup_53.md)
+
+## This technology is mentioned by
+
+* [Kuckertz_startups_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_511.md)
+* [Willems_how_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_682.md)
+

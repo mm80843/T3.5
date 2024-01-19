@@ -1,0 +1,117 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [TechSubgroup](https://github.com/mm80843/T3.5/tree/pages/docs/TechSubgroup/index.md) >> Individual ID:PBN__TechSubgroup_105 
+
+# __Hygiene maintenance tools__
+
+## This Technology belongs to this TechnologySubgroup
+
+* [Advanced cleaning equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_226.md)
+* [Advanced cleaning technologies and monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_264.md)
+* [And appropriate cleaning products](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2954.md)
+* [And bio-chemical sterilization](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2459.md)
+* [And cleaning equipment. digital education materials for disease prevention](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2894.md)
+* [And scheduling regular cleaning protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1553.md)
+* [Cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_727.md)
+* [Cleaning and disinfection technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2104.md)
+* [Cleaning and sanitation technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3437.md)
+* [Cleaning practices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3348.md)
+* [Cleaning products and equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_728.md)
+* [Cleaning protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_740.md)
+* [Cleaning schedules](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_557.md)
+* [Cleaning supplies and hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_998.md)
+* [Cleaning supplies and protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3672.md)
+* [Cleaning/disinfection methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2007.md)
+* [Cleanliness](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1725.md)
+* [Clear cleaning protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3438.md)
+* [Colored tape](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3244.md)
+* [Digital checklists for cleanliness standards](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2817.md)
+* [Disinfection and cleaning technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3443.md)
+* [Disposable towels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3247.md)
+* [Easy-to-sanitize materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3248.md)
+* [Easy-to-sanitize surfaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_293.md)
+* [Enhanced cleaning and hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2479.md)
+* [Enhanced cleaning and safety protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1100.md)
+* [Enhanced cleaning and sanitization protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1803.md)
+* [Enhanced cleaning and sanitization technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_735.md)
+* [Enhanced cleaning technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3276.md)
+* [Food safety management software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3243.md)
+* [Hygiene monitoring and cleaning technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1716.md)
+* [Implementation of enhanced cleaning protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_772.md)
+* [Improved sanitation infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_291.md)
+* [Insect repellents](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_5163.md)
+* [Non-toxic cleaning products](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_5659.md)
+* [Online tutorials for home maintenance and cleaning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_5877.md)
+* [Pest control measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_6135.md)
+* [Pest control methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_6746.md)
+* [Pest management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_9242.md)
+* [Proper cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_10065.md)
+* [Proper cleaning procedures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_10261.md)
+* [Proper cleaning procedures and equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11265.md)
+* [Proper sanitation practices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11267.md)
+* [Protocolos de limpieza y desinfección](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11907.md)
+* [Recognized cleaning practices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11936.md)
+* [Regular cleaning and maintenance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_12054.md)
+* [Regular cleaning and maintenance of hvac system components](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_12322.md)
+* [Regular cleaning and maintenance of ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_12327.md)
+* [Regular restocking of sanitizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_12369.md)
+* [Regular sanitation procedures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_12380.md)
+* [Sanitization protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_12815.md)
+* [Self-disinfecting fabric technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_12948.md)
+* [Self-sanitizing packaging](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_12995.md)
+* [Self-sanitizing surfaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_13269.md)
+* [Shoe cleaning systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_13468.md)
+* [Smart pest control systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_15400.md)
+* [Soap](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_15515.md)
+* [Soap and water](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_18141.md)
+* [Such as hepa filters and antimicrobial coatings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_19064.md)
+* [Targeted surface coating technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_20741.md)
+* [Touchless or voice-activated systems for cleanliness and hygiene](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_20870.md)
+* [Trained cleaning personnel](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_21480.md)
+* [Use of disinfectants and cleaning technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_21770.md)
+* [User-friendly cleaning technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22905.md)
+
+## Property: has_TechSubgroup_BPIntervention
+
+* [Disinfection of air](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_9.md)
+* [Maintenance / decontamination of building water sytems](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_43.md)
+* [Personal hygiene eg handwashing](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_6.md)
+* [Quarantine support](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_30.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_20.md)
+
+## Property: has_TechSubgroup_RiskGroup
+
+* [Infrastructure risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_3.md)
+* [Public health risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_2.md)
+* [Social risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_1.md)
+
+## Property: has_TechSubgroup_RiskSubgroup
+
+* [Failure to implement preventive measures](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_12.md)
+* [Infrastructure maintenance risk](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_20.md)
+* [Insufficient adoption of health-focused building standards](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_41.md)
+* [Lack of access to health services](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_6.md)
+* [Physical activity and mobility](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_54.md)
+* [Poor access to diagnostics and treatment](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_16.md)
+* [Poor urban planning](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_25.md)
+* [Poor vector-borne diseases control](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_56.md)
+* [Public health messaging and education](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_28.md)
+* [Workplace safety and occupational exposure](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_49.md)
+
+## Property: has_TechSubgroup_StakeholderGroup
+
+* [General public](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Residents and occupants of spaces](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_8.md)
+* [Workers](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_2.md)
+
+## Property: has_TechSubgroup_StakeholderSubgroup
+
+* [Building managers](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_57.md)
+* [Facility maintenance team](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_3.md)
+* [General population](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_13.md)
+* [Medical and healthcare personnel](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_15.md)
+* [Occupants of shared household spaces](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_34.md)
+* [Office workers](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_40.md)
+* [People with lower income](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_33.md)
+* [Project managers](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_50.md)
+* [Public health authorities](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_14.md)
+* [Visitors in indoor spaces](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_45.md)
+

@@ -1,0 +1,115 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [TechSubgroup](https://github.com/mm80843/T3.5/tree/pages/docs/TechSubgroup/index.md) >> Individual ID:PBN__TechSubgroup_60 
+
+# __Industry standard compliance tools__
+
+## This Technology belongs to this TechnologySubgroup
+
+* [Access to capital](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2155.md)
+* [Acr 2013 standards](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_372.md)
+* [Ai-powered recruitment tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3047.md)
+* [And entrepreneurial support programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_655.md)
+* [And financial support systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_536.md)
+* [And remote training resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_738.md)
+* [Automated coating application systems and standardized testing methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2803.md)
+* [Automation and robotics for local manufacturing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3471.md)
+* [Automation technologies for mass production](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_216.md)
+* [Bim tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2973.md)
+* [Budget management and advocacy tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3334.md)
+* [Building certification programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2527.md)
+* [Building inspection technologies and construction quality management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_8498.md)
+* [Building performance simulation software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_5337.md)
+* [Business incubation programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_5450.md)
+* [Capacity building and support programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_5611.md)
+* [Certification standards](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_5660.md)
+* [Cfd simulations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_5750.md)
+* [Collaborative project management tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_5919.md)
+* [Construction technology and software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_6713.md)
+* [Contract management software for efficient review and revision of contract terms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_7552.md)
+* [Contract management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_7683.md)
+* [Digital twins](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_8770.md)
+* [Domestic production technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_8777.md)
+* [Ecological impact assessment tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_9127.md)
+* [Effective decision-making processes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_9128.md)
+* [Employee rotation scheduling systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_9245.md)
+* [Energy auditing technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_10702.md)
+* [Energy-efficient building technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_10996.md)
+* [Energy-saving performance validation procedures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11007.md)
+* [Fundraising technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11175.md)
+* [Green building certification systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11284.md)
+* [Housing quality](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11787.md)
+* [Implementation of building codes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_12160.md)
+* [Improved cooking systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_12252.md)
+* [Incorporation of pandemic-specific design and infrastructure in building codes and certifications](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_12307.md)
+* [Life cycle cost analysis tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_12353.md)
+* [Local business support programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_12384.md)
+* [Obo foundry principles](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_12956.md)
+* [Occupancy simulation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_13256.md)
+* [Occupant education and training](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_13381.md)
+* [Offsite construction technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_13483.md)
+* [Power management techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_13592.md)
+* [Print and design services for producing standardized](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_14857.md)
+* [Production planning software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_15224.md)
+* [Project management platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_15228.md)
+* [Provision of computers and tablets](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_15284.md)
+* [Quality control sensors and testing equipment for 3d printing processes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_15477.md)
+* [Regulatory systems for rental market oversight](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_15739.md)
+* [Robot operation protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_16099.md)
+* [Scalable production techniques for graphene coatings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_17629.md)
+* [Self-checkout kiosks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_17648.md)
+* [Shift alteration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_18566.md)
+* [Smart retail technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_19524.md)
+* [Sophisticated building parameter analysis tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_19623.md)
+* [Stakeholder management software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_19642.md)
+* [Strong building codes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_19953.md)
+* [Sustainability certification platforms and eco-labels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_20724.md)
+* [Sustainable business management tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_21233.md)
+* [Value engineering](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_21751.md)
+* [Value-driven facility management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_21902.md)
+* [Workplace policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_21922.md)
+
+## Property: has_TechSubgroup_BPIntervention
+
+* [Environmental parameters control](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_38.md)
+* [Maintenance / decontamination of building water sytems](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_1.md)
+* [Raising awareness](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_9.md)
+* [Shift controls occupancy control of total users](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_22.md)
+* [Staff training / upskilling](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_41.md)
+
+## Property: has_TechSubgroup_RiskGroup
+
+* [Economic risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_5.md)
+* [Public health risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_8.md)
+* [Technological risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_3.md)
+
+## Property: has_TechSubgroup_RiskSubgroup
+
+* [Communication and messaging](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_8.md)
+* [Data privacy and security risks](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_17.md)
+* [Energy consumption and sustainability issues](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_36.md)
+* [Failure to implement preventive measures](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_25.md)
+* [Infrastructure maintenance risk](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_19.md)
+* [Innovation and adoption risks](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_44.md)
+* [Lower investment](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_23.md)
+* [Occupational and employment risks](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_22.md)
+* [Resource and capability risks](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_12.md)
+* [Supply chain disruptions](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_80.md)
+
+## Property: has_TechSubgroup_StakeholderGroup
+
+* [Government institutions](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Residents and occupants of spaces](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_8.md)
+* [Workers](https://github.com/mm80843/T3.5/blob/pages/StakeholderGroup/PBN__StakeholderGroup_1.md)
+
+## Property: has_TechSubgroup_StakeholderSubgroup
+
+* [Building managers](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_3.md)
+* [City authorities](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_2.md)
+* [Civil society stakeholders](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_13.md)
+* [Design and construction professionals](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_57.md)
+* [Facility maintenance team](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_40.md)
+* [General population](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_34.md)
+* [Government departments](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_31.md)
+* [People with lower income](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_5.md)
+* [Project managers](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_1.md)
+* [Research institutions](https://github.com/mm80843/T3.5/blob/pages/StakeholderSubgroup/PBN__StakeholderSubgroup_71.md)
+

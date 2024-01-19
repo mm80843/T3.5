@@ -1,0 +1,39 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4438 
+
+# __Personal protective equipment ppe samples__
+
+## Category to which it belongs
+
+* [Ensure safety and protection through the implementation of protocols, equipment distribution, and preventive measures in various settings.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_148.md)
+
+## Closest similar item
+
+* [Distribution of personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_415.md)
+* [Implementing personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_376.md)
+* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3933.md)
+* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4584.md)
+* [Personal protective equipment ppe use](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1060.md)
+* [Providing additional personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3575.md)
+* [Providing additional personal protective equipment ppe to workers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4836.md)
+* [Providing personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1095.md)
+* [Use of personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4728.md)
+* [Use of personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_938.md)
+
+## Main intervention linked to the Mitigation
+
+* [Ensure use of personal protection equipment](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_23.md)
+
+## Risks possibly mitigated by this Mitigation
+
+
+## This Mitigation is enabled by the following technologies
+
+
+## Property: has_MitigationPrinciple
+
+Sampling of the PPE used by healthcare workers to determine if they have been exposed to the pathogen
+
+## Property: has_MitigationSource
+
+* [Air, Surface Environmental, and Personal Protective Equipment Contamination by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) From a Symptomatic Patient](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_264.md)
+

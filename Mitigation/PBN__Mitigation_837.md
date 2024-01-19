@@ -1,0 +1,49 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_837 
+
+# __Optimum occupant presence schedule__
+
+## Benefits linked to a risk
+
+* [Reduced energy consumption](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_246.md)
+* [Reduced number of infected people](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_837.md)
+
+## Category to which it belongs
+
+* [Enhancing learning methods, implementing flexible work arrangements, improving planning mechanisms, and promoting workforce education and training.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_135.md)
+
+## Closest similar item
+
+* [Implement flexible scheduling and occupancy measures, redistribute resources as needed.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2336.md)
+* [Implement measures to control occupancy and enforce physical distancing rules in the facility](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_838.md)
+* [Implement occupancy limits, encourage social distancing, provide adequate facilities and services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_610.md)
+* [Limited occupancy](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2750.md)
+* [Limiting occupancy levels, implementing crowd control measures, staggering schedules](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2023.md)
+* [Modeling occupant presence](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3829.md)
+* [Occupancy density and social distancing management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2019.md)
+* [Occupancy limitations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_847.md)
+* [Optimize occupant presence schedules, improve energy efficiency of hvac systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3809.md)
+* [Reduced occupancy](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1573.md)
+
+## Main intervention linked to the Mitigation
+
+* [Occupancy control eg separating at/risk contaminated population](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_40.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [High energy consumption of hvac systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_601.md)
+* [Infection risk of covid-19 transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_600.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Mopso](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3182.md)
+* [Optimization algorithms nsga-ii](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3184.md)
+* [Spea2](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3183.md)
+
+## Property: has_MitigationPrinciple
+
+Adjust the attendance of occupants effectively based on climatic conditions to minimize energy consumption of HVAC systems
+
+## Property: has_MitigationSource
+
+* [The effect of occupant distribution on energy consumption and COVID-19 infection in buildings: A case study of university building](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_169.md)
+

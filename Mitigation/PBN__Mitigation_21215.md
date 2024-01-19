@@ -1,0 +1,12 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_21215 
+
+# __Use alternative methods for occupancy estimation that do not rely on unknown parameters__
+
+## Main intervention linked to the Mitigation
+
+* [Shift controls occupancy control of total users](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_41.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Reliance on unknown parameters in people movement models for building occupancy estimation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_19239.md)
+

@@ -1,0 +1,41 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4030 
+
+# __Outdoor recreation__
+
+## Category to which it belongs
+
+* [Promote equitable access to and utilization of urban green spaces, prioritize biodiversity conservation, and implement sustainable land use practices.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_106.md)
+
+## Closest similar item
+
+* [Develop and promote alternative outdoor recreation opportunities.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3914.md)
+* [Natural outdoor environment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2152.md)
+* [Outdoor access](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3178.md)
+* [Outdoor activities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3988.md)
+* [Outdoor activities/usage of open spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_733.md)
+* [Outdoor activity spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5041.md)
+* [Outdoor design and spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3780.md)
+* [Outdoor spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4626.md)
+* [Provide access to outdoor spaces, create opportunities for physical activity and social interaction](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2938.md)
+* [Provide outdoor spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2865.md)
+
+## Main intervention linked to the Mitigation
+
+* [Outdoor spaces](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_25.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Decreased physical and mental health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2854.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Access to outdoor spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2809.md)
+
+## Property: has_MitigationPrinciple
+
+Encouraging outdoor recreation activities in public parks and greenspaces to promote physical activity, cognitive functioning, stress reduction, and social relationships
+
+## Property: has_MitigationSource
+
+* [Urban Park Use During the COVID-19 Pandemic: Are Socially Vulnerable Communities Disproportionately Impacted?](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_276.md)
+

@@ -1,0 +1,42 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3823 
+
+# __Copper coating__
+
+## Category to which it belongs
+
+* [Implementing a wide range of measures and strategies to combat the challenges of the pandemic.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_127.md)
+
+## Closest similar item
+
+* [Antiviral coatings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_69.md)
+* [Coating with cuprous oxide cu2o /polyurethane pu film](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1194.md)
+* [Copper coating via cold-spray technique](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_82.md)
+* [Increased use of copper and stainless steel surfaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2014.md)
+* [Investigate and research the inactivation mechanisms of covid-19 on copper coatings.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3824.md)
+* [Replace stainless steel surfaces with copper coatings, which have antimicrobial properties.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2012.md)
+* [Rigorous testing and evaluation of different coating materials and formulations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1629.md)
+* [Stainless steel replacement with copper](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_964.md)
+* [Use of coatings that have been proven safe for human health and the environment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3285.md)
+* [Use of copper or copper alloys](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1628.md)
+
+## Main intervention linked to the Mitigation
+
+* [Selection of materials](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_15.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Transmission, cost](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2720.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Cold-spray technique](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2858.md)
+* [Copper particles](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2857.md)
+
+## Property: has_MitigationPrinciple
+
+Deposit copper coatings on surfaces to create an antimicrobial and antiviral barrier that inactivates the virus and reduces transmission risk
+
+## Property: has_MitigationSource
+
+* [Sars-CoV-2 (COVID-19) inactivation capability of copper-coated touch surface fabricated by cold-spray technology](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_16.md)
+

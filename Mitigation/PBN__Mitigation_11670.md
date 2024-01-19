@@ -1,0 +1,12 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_11670 
+
+# __Diversify project types, establish remote project management capabilities__
+
+## Main intervention linked to the Mitigation
+
+* [Support recovery of sectors via remote work](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_33.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Interruption of business projects and decrease in revenue](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_9764.md)
+

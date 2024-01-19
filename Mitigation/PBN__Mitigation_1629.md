@@ -1,0 +1,29 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/pages/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1629 
+
+# __Use of coatings that have been proven safe for human health and the environment__
+
+## Category to which it belongs
+
+* [Implementation of comprehensive and rigorous cleaning, disinfection, and sanitation practices to ensure effective and efficient pathogen eradication.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_120.md)
+
+## Closest similar item
+
+* [Antiviral coatings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_574.md)
+* [Antiviral surface coatings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3285.md)
+* [Application of antimicrobial coatings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3152.md)
+* [Application of antiviral surface coatings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1628.md)
+* [Applying antimicrobial coatings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_917.md)
+* [Development of continuously active antimicrobial coatings and self-disinfecting surfaces.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_921.md)
+* [Development of robust antiviral coatings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1630.md)
+* [Disinfection of surfaces and development of antiviral coatings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1576.md)
+* [Regular monitoring of coated surfaces for changes in viral viability and development of alternative coatings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2032.md)
+* [Rigorous testing and evaluation of different coating materials and formulations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_920.md)
+
+## Main intervention linked to the Mitigation
+
+* [Selection of materials](https://github.com/mm80843/T3.5/blob/pages/BP_Intervention/PBN__BP_Intervention_15.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Risk of adverse effects from anti-sars-cov-2 coatings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1173.md)
+
