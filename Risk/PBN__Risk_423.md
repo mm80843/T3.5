@@ -1,0 +1,33 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_423 
+
+# __Demand for vaccine development__
+
+## Category to which it belongs
+
+* [Limited capacity, high demand, waning effectiveness, distribution difficulties, and access disparities hinder efficient vaccination efforts.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_75.md)
+
+## Closest similar item
+
+* [Difficulty in vaccine distribution](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_155.md)
+* [Expectations for vaccine](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_430.md)
+* [High patient demand for vaccinations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3118.md)
+* [Inadequate vaccine efficacy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1916.md)
+* [Lack of covid-19 vaccine](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_519.md)
+* [Lack of drugs and vaccines](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1341.md)
+* [Lack of vaccine or cure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1733.md)
+* [Unequal vaccine access](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1888.md)
+* [Vaccine access disparities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2277.md)
+* [Vaccine availability, vaccine hesitancy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2867.md)
+
+## Mitigations of this risk
+
+* [Utilization of molecular technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_586.md)
+
+## This Risk belongs to this RiskGroup
+
+* [Public health risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_3.md)
+
+## This Risk belongs to this RiskSubgroup
+
+* [Lack of effective medical solutions](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_37.md)
+

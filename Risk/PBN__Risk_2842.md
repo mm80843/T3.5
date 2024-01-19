@@ -1,0 +1,33 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_2842 
+
+# __Health inequity, heat islands__
+
+## Category to which it belongs
+
+* [The intersection of urbanization, inefficient energy usage, and climate change poses significant challenges to thermal comfort, energy consumption, and environmental sustainability.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_88.md)
+
+## Closest similar item
+
+* [Climate-associated diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_367.md)
+* [Existing poor health conditions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1832.md)
+* [Inadequate health-oriented features](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1944.md)
+* [Inadequate thermal environment control](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_329.md)
+* [Increased urban densification and urban heat island effect](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2699.md)
+* [Poor thermal comfort, inadequate indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_854.md)
+* [Unhealthy outdoor conditions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_390.md)
+* [Urban heat island effect](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2557.md)
+* [Urban heat island effect and heat waves](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1632.md)
+* [Urban heat islands uhis](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1399.md)
+
+## Mitigations of this risk
+
+* [Green space design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4019.md)
+
+## This Risk belongs to this RiskGroup
+
+* [Social risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_1.md)
+
+## This Risk belongs to this RiskSubgroup
+
+* [Health behaviors and compliance](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_5.md)
+

@@ -1,0 +1,37 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_3361 
+
+# __Personnel management__
+
+## Category to which it belongs
+
+* [The challenges of urban inequality, parameter identification, noise pollution, waste, and delayed decision making have resulted in increased inequalities and exclusion, posing numerous issues for governance and scalability.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_64.md)
+
+## Closest similar item
+
+* [Administrative controls](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_720.md)
+* [Data management](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1569.md)
+* [Difficulties in management](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_416.md)
+* [Management](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1514.md)
+* [Management problems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1519.md)
+* [Recruitment challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_721.md)
+* [Workforce management](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1084.md)
+* [Workforce protection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2119.md)
+* [Workforce reduction](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1516.md)
+* [Workplace safety](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1897.md)
+
+## Link between Blueprint and General ontology
+
+* [Information management](https://github.com/mm80843/T3.5/blob/pages/BP_Theme/PBN__BP_Theme_9.md)
+
+## Mitigations of this risk
+
+* [Tracking medical personnel](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5159.md)
+
+## This Risk belongs to this RiskGroup
+
+* [Social risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_1.md)
+
+## This Risk belongs to this RiskSubgroup
+
+* [Occupational and employment risks](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_23.md)
+

@@ -1,0 +1,16 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_314 
+
+# __Design COVID-19 Ontology: A Healthcare and Safety Perspective__
+
+## DOI of the article
+
+10.1007/978-3-031-09593-1_11
+
+## Title of the article
+
+Design COVID-19 Ontology: A Healthcare and Safety Perspective
+
+## Year of publication
+
+2022
+

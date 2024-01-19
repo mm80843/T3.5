@@ -1,0 +1,38 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_11332 
+
+# __Unregulated use of cash payments__
+
+## Articles mentionning the risk
+
+* [Willems_how_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_511.md)
+
+## Mitigations of this risk
+
+* [Encourage contactless payment methods and strict hygiene practices for cash handling](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_13244.md)
+
+## Name of the risk
+
+Potential for disease transmission through the exchange of cash
+
+## People affected by this risk
+
+* [Customers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_220.md)
+* [Employees](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_221.md)
+
+## Stakeholders who can mitigate this risk
+
+* [Store management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_5219.md)
+
+## Technologies linked to the risk
+
+* [Contactless payment systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_744.md)
+* [Uv sterilization for cash handling](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_13374.md)
+
+## This Risk belongs to this RiskGroup
+
+* [Economic risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_5.md)
+
+## This Risk belongs to this RiskSubgroup
+
+* [Financial strains and liquidity crises](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_31.md)
+

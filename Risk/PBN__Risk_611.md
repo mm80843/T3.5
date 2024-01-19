@@ -1,0 +1,98 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_611 
+
+# __Mental health__
+
+## Articles mentionning the risk
+
+* [How to Make Green Building Certification \& Rating Systems More Pandemic-Sustainable?](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_693.md)
+* [Kaklauskas_covid-19_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_172.md)
+
+## Category to which it belongs
+
+* [The toll of the pandemic includes harm to mental health, increased domestic violence, and psychological distress, highlighting the need for support and resources.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_52.md)
+
+## Closest similar item
+
+* [Distress, psychiatric illness](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1382.md)
+* [Emotional distress, psychiatric illness](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2432.md)
+* [Impact on mental health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1852.md)
+* [Increase in mental health issues](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1154.md)
+* [Mental and physical health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3.md)
+* [Mental health concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_941.md)
+* [Mental health harms](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1076.md)
+* [Mental health impact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3104.md)
+* [Mental health issues](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1130.md)
+* [Mental well-being](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3106.md)
+
+## Description of the risk
+
+Insufficient consideration of indicators to promote mental well-being in residential buildings
+
+## Is the risk affecting GBN scales
+
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
+
+## Mitigations of this risk
+
+* [Access to common building spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4962.md)
+* [Access to outdoor spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_222.md)
+* [Availability of greenery and gardens](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4976.md)
+* [Availability of outdoor spaces in the building](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4984.md)
+* [Green rooftops](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_849.md)
+* [Household-level activity/sports spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2938.md)
+* [Incorporating green spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_223.md)
+* [Increased greenery](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5222.md)
+* [Natural light](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_218.md)
+* [Offering mental health support services, promoting mindfulness practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4969.md)
+* [Provide access to outdoor spaces, create opportunities for physical activity and social interaction](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_220.md)
+* [Social robots for continued social interactions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_22579.md)
+
+## Name of the risk
+
+Higher risk of mental health issues and decreased quality of life
+
+## People affected by this risk
+
+* [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
+* [Residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_59.md)
+* [Residents of residential buildings](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_4831.md)
+
+## Stakeholders who can mitigate this risk
+
+* [Architects](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
+* [Building management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_368.md)
+* [Designers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1101.md)
+* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_74.md)
+* [Mental health professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_431.md)
+
+## Technologies linked to the risk
+
+* [Community areas](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1847.md)
+* [Mental health apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1846.md)
+* [Outdoor spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1855.md)
+* [Teletherapy platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_117.md)
+
+## This Risk belongs to this RiskGroup
+
+* [Public health risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_3.md)
+
+## This Risk belongs to this RiskSubgroup
+
+* [Lack of access to health services](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_49.md)
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_0.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_1.md)
+
+## Type of the risk
+
+* [Mental](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_1.md)
+
+## Property: has_RiskType
+
+* [Social](https://github.com/mm80843/T3.5/blob/pages/RiskType/PBN__RiskType_2.md)
+

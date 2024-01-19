@@ -1,0 +1,40 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_5862 
+
+# __Travel anxiety increases with travel-related risks.__
+
+## Articles mentionning the risk
+
+* [Bratic_should_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_420.md)
+
+## Mitigations of this risk
+
+* [Implementing safety measures, providing accurate information about risks.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_7734.md)
+
+## Name of the risk
+
+Unwillingness to travel, decrease in tourism.
+
+## People affected by this risk
+
+* [Tourists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_72.md)
+* [Travelers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_558.md)
+
+## Stakeholders who can mitigate this risk
+
+* [Tourism industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_196.md)
+* [Travel companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_4987.md)
+
+## Technologies linked to the risk
+
+* [Communication platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_135.md)
+* [Health monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_26.md)
+* [Travel advisories](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_4322.md)
+
+## This Risk belongs to this RiskGroup
+
+* [Social risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_1.md)
+
+## This Risk belongs to this RiskSubgroup
+
+* [Mental and emotional wellbeing](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_69.md)
+

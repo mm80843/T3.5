@@ -1,0 +1,33 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_954 
+
+# __Inadequate circadian regulation in bedrooms__
+
+## Category to which it belongs
+
+* [Indoor living challenges include limited self-sufficiency, reliance on artificial elements, poor lighting, and environmental variations.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_85.md)
+
+## Closest similar item
+
+* [Disrupted sleep](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3014.md)
+* [Impact of extended stays in indoor environments on human health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_956.md)
+* [Inadequate sunlight exposure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3190.md)
+* [Inadequate ventilation and lighting](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1870.md)
+* [Inappropriate humidity levels in indoor spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2690.md)
+* [Insufficient bedroom design](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_389.md)
+* [Insufficient lighting and thermal comfort](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_953.md)
+* [Negative consequences on indoor climate](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3101.md)
+* [Poor natural ventilation and thermal comfort at home](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1296.md)
+* [Raised indoor temperature and humidity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_258.md)
+
+## Mitigations of this risk
+
+* [Bedrooms designed for sleep](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1333.md)
+
+## This Risk belongs to this RiskGroup
+
+* [Social risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_1.md)
+
+## This Risk belongs to this RiskSubgroup
+
+* [Health behaviors and compliance](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_5.md)
+

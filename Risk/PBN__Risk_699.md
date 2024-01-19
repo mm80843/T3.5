@@ -1,0 +1,33 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_699 
+
+# __Zoonotic infections from wild animals__
+
+## Category to which it belongs
+
+* [The spread of infectious diseases and lack of understanding of transmission mechanisms contribute to the propagation of contagions, posing a global threat.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_55.md)
+
+## Closest similar item
+
+* [Increased risk of zoonotic diseases from urban rats](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1016.md)
+* [Infection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2603.md)
+* [Infections](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_488.md)
+* [Infections from asymptomatic individuals](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1655.md)
+* [Under-ascertainment of infections](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_982.md)
+* [Undetected infections](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2298.md)
+* [Zoonotic disease emergence](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2748.md)
+* [Zoonotic disease transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2086.md)
+* [Zoonotic infections](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1383.md)
+* [Zoonotic transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2585.md)
+
+## Mitigations of this risk
+
+* [Containment measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_507.md)
+
+## This Risk belongs to this RiskGroup
+
+* [Public health risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_3.md)
+
+## This Risk belongs to this RiskSubgroup
+
+* [Public health messaging and education](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_28.md)
+

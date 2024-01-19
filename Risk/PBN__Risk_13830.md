@@ -1,0 +1,36 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_13830 
+
+# __Lack of ventilation in corridor spaces__
+
+## Articles mentionning the risk
+
+* [Spennemann_residential_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_557.md)
+
+## Mitigations of this risk
+
+* [Reconsidering external communication corridors with improved ventilation solutions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_15755.md)
+
+## Name of the risk
+
+Restriction of airflow contributing to the spread of COVID-like diseases
+
+## People affected by this risk
+
+* [Residents in multi-storey apartment buildings](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_11255.md)
+
+## Stakeholders who can mitigate this risk
+
+* [Building developers and planners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_6791.md)
+
+## Technologies linked to the risk
+
+* [Natural ventilation systems and air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_16121.md)
+
+## This Risk belongs to this RiskGroup
+
+* [Infrastructure risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_2.md)
+
+## This Risk belongs to this RiskSubgroup
+
+* [Inadequate hospital design](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_74.md)
+

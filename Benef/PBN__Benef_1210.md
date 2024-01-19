@@ -1,0 +1,34 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/pages/docs/Benef/index.md) >> Individual ID:PBN__Benef_1210 
+
+# __Increased compliance__
+
+## Articles mentionning this Benefit
+
+* [Compliance with COVID-19 Mitigation Measures in the United States](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_253.md)
+
+## Category to which it belongs
+
+* [Improved outcomes, reduced vulnerability, and enhanced efficiency are achieved through a variety of measures and interventions.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_18.md)
+
+## Description of actual returns pertaining to this benefit
+
+* [Private investors investing in this measure would benefit from reduced transmission of the virus and potential improvements in healthcare capacity, leading to a stabilization of the economy and increased asset values.](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_1358.md)
+
+## Name of the Benefit
+
+People who morally support the measures are more likely to comply with them, leading to increased adherence to the mitigation measures
+
+## Risks which can benefit from this action
+
+* [Enhance perceived clarity of measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1210.md)
+* [Enhance practical capacity to comply](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1208.md)
+* [Increase perceived threat](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1212.md)
+* [Reduce costs of compliance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1209.md)
+* [Reduce negative emotions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1213.md)
+* [Reduce opportunities to violate measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1214.md)
+* [Strengthen moral support for the measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1211.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [Public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_52.md)
+

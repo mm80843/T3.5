@@ -1,0 +1,68 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_53 
+
+# __Reframe how to serve your community in the midst of a pandemic__
+
+## Benefits listed in this article
+
+* [Enhanced sense of safety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_263.md)
+* [Improved hygiene and safety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_262.md)
+* [Minimized contact and exposure](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_265.md)
+* [Reduction in transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_264.md)
+* [Sense of purpose and meaning](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_267.md)
+* [Supportive community environment](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_266.md)
+
+## DOI of the article
+
+10.1002/casr.30670
+
+## List of risks in an article
+
+* [Contamination of shared spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2122.md)
+* [Failure to prioritize team safety](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2124.md)
+* [Inadequate social distancing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2125.md)
+* [Lack of awareness about campus safety](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2123.md)
+* [Lack of community engagement](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2127.md)
+* [Student and faculty stress](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2126.md)
+
+## Short summary of the article
+
+This research abstract summarizes the strategies employed by FMU (a campus) to prioritize team safety during the COVID-19 pandemic. The campus has made adjustments to ensure social distancing in classrooms and has intensified decontamination efforts. The campus police department, consisting of fully certified state police officers, has been trained in universal precautions for hygiene and safety even before the pandemic. Despite these changes, there hasn't been a decrease in morale among the officers, who continue to find meaning in their work. The department emphasizes community policing and provides support and assistance to students and faculty during this stressful time. The campus police officers actively engage with the community, introducing themselves to unfamiliar individuals and functioning as representatives of the university. The role of campus law enforcement extends beyond regular interactions and includes being spokespersons for the university. For further inquiries, contact Donald Tarbell at dtarbell@fmarion.edu.
+
+## Summary of the article
+
+The campus police at FMU have been taking extra precautions to keep everyone safe during the COVID-19 pandemic. They have increased their efforts to clean and disinfect the campus. The police officers now patrol separately instead of sharing a patrol car. Even before the pandemic, the campus police received training on safety and hygiene. Despite the changes, the officers are still focused on keeping the campus safe and are finding meaning in their work. They also try to be helpful and kind to students and faculty who might be stressed during this time. The campus police see themselves as representatives of the university and strive to make a good impression on everyone they meet.
+
+## This article mentions these technologies
+
+* [Community outreach programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1667.md)
+* [Easily accessible safety resources and contacts](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1665.md)
+* [Enhanced cleaning and disinfecting protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1662.md)
+* [Mental health support services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1661.md)
+* [Mindfulness and stress reduction techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_817.md)
+* [Online collaboration tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1668.md)
+* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1666.md)
+* [Regular communication and updates on safety protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1669.md)
+* [Regular interactions with students and faculty](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1080.md)
+* [Safety awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1119.md)
+* [Safety training programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1420.md)
+* [Safety workshops and trainings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1663.md)
+* [Virtual learning platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1664.md)
+
+## This article points to following mitigation
+
+* [Community engagement](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_985.md)
+* [Decontamination](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4902.md)
+* [Hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4900.md)
+* [Patience and compassion](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4901.md)
+* [Patrol separately](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4628.md)
+* [Universal precautions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4903.md)
+
+## Title of the article
+
+Reframe how to serve your community in the midst of a pandemic
+
+## Year of publication
+
+2020
+

@@ -1,0 +1,38 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_11634 
+
+# __Lack of centralized document access and communication may lead to inconsistent understanding of protective measures and infection transmission.__
+
+## Articles mentionning the risk
+
+* [Willems_how_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_511.md)
+
+## Mitigations of this risk
+
+* [Establish a centralized platform for document access and regular communication to ensure consistent understanding and compliance with protective measures.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_13546.md)
+
+## Name of the risk
+
+Increased risk of infection transmission among employees and guests.
+
+## People affected by this risk
+
+* [Employees](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_220.md)
+* [Guests](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1449.md)
+* [Management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_5266.md)
+
+## Stakeholders who can mitigate this risk
+
+* [Resort management and hr team](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9557.md)
+
+## Technologies linked to the risk
+
+* [Internal communication tools and document management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_13689.md)
+
+## This Risk belongs to this RiskGroup
+
+* [Infrastructure risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_2.md)
+
+## This Risk belongs to this RiskSubgroup
+
+* [Lack of emphasis on water quality](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_48.md)
+

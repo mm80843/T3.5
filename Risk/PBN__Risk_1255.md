@@ -1,0 +1,79 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1255 
+
+# __Decreased exposure__
+
+## Articles mentionning the risk
+
+* [Using Technology to Maintain the Education of Residents During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_11.md)
+
+## Category to which it belongs
+
+* [The pandemic has led to a decrease in in-person surgical education, loss of control, temporary panic from cruise ship docking, limited social distancing, and decreased morale.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_70.md)
+
+## Closest similar item
+
+* [Decreased physical and mental health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1981.md)
+* [Decreased susceptibility](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2690.md)
+* [Direct exposure to sunlight](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3217.md)
+* [Inadequate sunlight exposure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2501.md)
+* [Increased exposure to mosquitoes](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2910.md)
+* [Individual exposure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2912.md)
+* [Lack of nature exposure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2893.md)
+* [Lack of occupant exposure model](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2749.md)
+* [Lack of quantitative understanding of the impact of social distancing measures on building occupant exposure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_8.md)
+* [Transmission, exposure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2854.md)
+
+## Description of the risk
+
+Surgical trainees will have a dramatic drop in their in-person exposure to surgical education due to restrictions on gatherings and rotations, resulting in a decrease in case volume and hands-on learning opportunities.
+
+## Is the risk affecting GBN scales
+
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
+
+## Mitigations of this risk
+
+* [Implement novel techniques such as flipped classrooms, video lectures, and teleconferencing.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1738.md)
+
+## Name of the risk
+
+Decreased knowledge acquisition and skill development.
+
+## People affected by this risk
+
+* [Surgical trainees](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_42.md)
+
+## Stakeholders who can mitigate this risk
+
+* [Surgical educators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_776.md)
+
+## Technologies linked to the risk
+
+* [Flipped classroom](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_386.md)
+* [Teleconferencing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_385.md)
+* [Video lectures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_384.md)
+
+## This Risk belongs to this RiskGroup
+
+* [Economic risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_5.md)
+
+## This Risk belongs to this RiskSubgroup
+
+* [Pandemic impact on markets](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_34.md)
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_0.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_1.md)
+
+## Type of the risk
+
+* [Both](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_8.md)
+
+## Property: has_RiskType
+
+* [Economic](https://github.com/mm80843/T3.5/blob/pages/RiskType/PBN__RiskType_3.md)
+

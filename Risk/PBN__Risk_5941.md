@@ -1,0 +1,39 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_5941 
+
+# __Inaccurate prediction of attack rates compared to observed data__
+
+## Articles mentionning the risk
+
+* [Brizuela_understanding_2019](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_421.md)
+
+## Mitigations of this risk
+
+* [Use of more accurate predictive models and data-driven simulations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_7811.md)
+
+## Name of the risk
+
+Misallocation of public health resources and ineffective intervention strategies
+
+## People affected by this risk
+
+* [Government authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_302.md)
+* [Public health officials](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_310.md)
+
+## Stakeholders who can mitigate this risk
+
+* [Public health organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_173.md)
+* [Research institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_413.md)
+
+## Technologies linked to the risk
+
+* [Data analytics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1067.md)
+* [Simulation software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_4846.md)
+
+## This Risk belongs to this RiskGroup
+
+* [Public health risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_3.md)
+
+## This Risk belongs to this RiskSubgroup
+
+* [Misinterpretation of data and results](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_3.md)
+

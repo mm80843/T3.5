@@ -1,0 +1,57 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_691 
+
+# __Karia_covid-19_2020__
+
+## List of risks in an article
+
+* [High infectivity rate of covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20451.md)
+* [Impacted medical practice](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20452.md)
+* [Limitations of included studies from specific geographic areas](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20453.md)
+* [Possibility of vertical transmission of sars-cov-2 from mother to child](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20454.md)
+* [Possible modes of transmission of sars-cov-2 including airborne transmission via aerosols.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20455.md)
+* [Potential transmission of the virus through the gastrointestinal tract.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20456.md)
+* [Risk of transmission through sharing of toilets](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20457.md)
+* [Transmission of covid-19 via fomites or surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20458.md)
+* [Transmission of virus through aerosols and droplets during surgical and dental procedures as well as from infected patients while talking, coughing, and sneezing.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20459.md)
+* [Underestimated modes of transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20460.md)
+* [Underestimation of modes of transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20461.md)
+* [Viral presence in body fluids such as saliva, urine, semen, and tears](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20462.md)
+* [Viral shedding in feces and other body fluids despite resolution of symptoms](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20463.md)
+* [Virus transmission through contaminated surfaces fomites and the viability of the virus in aerosols for up to 3 hours and on different surfaces for 4-72 hours.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20464.md)
+
+## This article mentions these technologies
+
+* [Anal swabs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3361.md)
+* [And advanced ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1495.md)
+* [And air purification systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_136.md)
+* [And face shields](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_411.md)
+* [And other body fluids](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1690.md)
+* [Antimicrobial coatings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_787.md)
+* [Cleaning and disinfection agents](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1141.md)
+* [Data collection and analysis tools for diverse population samples](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1251.md)
+* [Data collection techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1814.md)
+* [Disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_485.md)
+* [Face masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1051.md)
+* [Gloves](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_340.md)
+* [High-efficiency particulate air hepa filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_232.md)
+* [Hygiene promotion](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_5311.md)
+* [Masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_5723.md)
+* [Medical gear](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_5952.md)
+* [Negative pressure isolation rooms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_9468.md)
+* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_19809.md)
+* [Protective equipment like masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22707.md)
+* [Protective suits](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22708.md)
+* [Public health awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22709.md)
+* [Public health education](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22710.md)
+* [Rectal swabs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22711.md)
+* [Research funding for alternative transmission pathways](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22712.md)
+* [Research studies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22713.md)
+* [Sanitation and hygiene products](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22714.md)
+* [Sanitation protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22715.md)
+* [Testing for viral nucleic acid in body fluids](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22716.md)
+* [Testing for viral nucleic acid in feces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22717.md)
+* [Ultraviolet germicidal irradiation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22718.md)
+* [Uv disinfection systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22719.md)
+* [Uv-c light disinfection systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22720.md)
+* [Wastewater treatment systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_22721.md)
+

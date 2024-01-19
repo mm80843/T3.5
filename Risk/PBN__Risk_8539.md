@@ -1,0 +1,39 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_8539 
+
+# __Higher risk of covid-19 transmission in healthcare workplaces__
+
+## Articles mentionning the risk
+
+* [Fawzy_covid-19_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_466.md)
+
+## Mitigations of this risk
+
+* [Implement best sanitary standards, reduce transmission risk conceptually and practically](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_10432.md)
+
+## Name of the risk
+
+Increased risk of infection for healthcare workers and patients
+
+## People affected by this risk
+
+* [Healthcare workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_68.md)
+* [Hospital staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_369.md)
+
+## Stakeholders who can mitigate this risk
+
+* [Hospital administrators](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_252.md)
+* [Infection control specialists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2722.md)
+
+## Technologies linked to the risk
+
+* [Infection control technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_5213.md)
+* [Sanitary equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_10244.md)
+
+## This Risk belongs to this RiskGroup
+
+* [Public health risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_3.md)
+
+## This Risk belongs to this RiskSubgroup
+
+* [Healthcare resource shortage and management](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_21.md)
+

@@ -1,0 +1,40 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_6182 
+
+# __Increased secondary infection numbers during colder winter months__
+
+## Articles mentionning the risk
+
+* [Burridge_ventilation_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_426.md)
+
+## Mitigations of this risk
+
+* [Monitoring and adjustment of ventilation, implementation of additional measures, promotion of mask-wearing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_8054.md)
+
+## Name of the risk
+
+Greater risk of disease transmission
+
+## People affected by this risk
+
+* [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
+* [Public in shared spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_4847.md)
+
+## Stakeholders who can mitigate this risk
+
+* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_0.md)
+* [Public health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
+
+## Technologies linked to the risk
+
+* [Air quality monitors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
+* [Mask-wearing guidance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1980.md)
+* [Ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_7530.md)
+
+## This Risk belongs to this RiskGroup
+
+* [Public health risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_3.md)
+
+## This Risk belongs to this RiskSubgroup
+
+* [Failure to implement preventive measures](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_12.md)
+

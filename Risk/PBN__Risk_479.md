@@ -1,0 +1,33 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_479 
+
+# __Shortages in icu beds and ventilators__
+
+## Category to which it belongs
+
+* [Insufficient air flow and ventilation pose risks to respiratory health in various settings, leading to challenges and concerns.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_93.md)
+
+## Closest similar item
+
+* [Challenges in ventilation and air conditioning](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_926.md)
+* [Challenges in ventilator production](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1726.md)
+* [Inadequate protective measures in icu](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2924.md)
+* [Inadequate ventilation and airflow management](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_792.md)
+* [Inadequate ventilation in hospital settings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1415.md)
+* [Inadequate ventilation in makeshift hospitals](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1681.md)
+* [Inefficient ventilation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2023.md)
+* [Inefficient ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2376.md)
+* [Shortage of ventilators](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1760.md)
+* [Supply medical gases to each bed](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_443.md)
+
+## Mitigations of this risk
+
+* [Increased production of ventilators](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_676.md)
+
+## This Risk belongs to this RiskGroup
+
+* [Infrastructure risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_2.md)
+
+## This Risk belongs to this RiskSubgroup
+
+* [Inadequate hospital design](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_74.md)
+

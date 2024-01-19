@@ -1,0 +1,33 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_241 
+
+# __Impact on peace, justice, and institutions__
+
+## Category to which it belongs
+
+* [Interoperability challenges, high costs, limited communication, and lack of resources impact various sectors globally.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_72.md)
+
+## Closest similar item
+
+* [Economic impact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3212.md)
+* [Economic impacts](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3259.md)
+* [Economic impacts, social impacts](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2852.md)
+* [Impact on developing countries](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2875.md)
+* [Impact on families and domestic violence](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_413.md)
+* [Impact on international relations and trade deals](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_450.md)
+* [Lack of peace and justice](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_124.md)
+* [Resistance to change, inequitable impacts](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_961.md)
+* [Social justice and inequality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_833.md)
+* [Social unrest](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1991.md)
+
+## Mitigations of this risk
+
+* [Strengthening partnerships and collaboration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_290.md)
+
+## This Risk belongs to this RiskGroup
+
+* [Political risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_0.md)
+
+## This Risk belongs to this RiskSubgroup
+
+* [Globalization challenges](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_53.md)
+

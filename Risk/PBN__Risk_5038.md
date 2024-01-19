@@ -1,0 +1,34 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_5038 
+
+# __Agglomeration problems with gbns__
+
+## Articles mentionning the risk
+
+* [Ayub_graphene-based_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_404.md)
+
+## Mitigations of this risk
+
+* [Incorporation of metal ions/oxides in the form of nanoparticles nps to modify surface properties](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_6911.md)
+
+## Name of the risk
+
+Reduced antimicrobial properties of GBNs
+
+## People affected by this risk
+
+* [Manufacturers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_34.md)
+* [Research community](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2893.md)
+
+## Stakeholders who can mitigate this risk
+
+* [Nanotechnology companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_413.md)
+* [Research institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_4245.md)
+
+## Technologies linked to the risk
+
+* [Nanotechnology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_5141.md)
+
+## This Risk belongs to this RiskGroup
+
+* [Technological risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_8.md)
+

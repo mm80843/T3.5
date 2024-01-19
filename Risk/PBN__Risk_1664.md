@@ -1,0 +1,83 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1664 
+
+# __Spread of contagious diseases in public spaces__
+
+## Articles mentionning the risk
+
+* [Impact of Covid-19 on the built environment](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_10.md)
+
+## Blueprints with this risk
+
+* [Managing user flows in building and infrastructure](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_4.md)
+
+## Category to which it belongs
+
+* [Contagious diseases in built environments, limited pandemic preparedness, and unpredictable disease spread contribute to the global outbreak.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_56.md)
+
+## Closest similar item
+
+* [Contagious disease spread](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1671.md)
+* [Contagious transmission of pathogens in public settings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1155.md)
+* [Risk of rapid spread and cross-sectorial impact of contagious diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20.md)
+* [Spread of contagious disease](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1220.md)
+* [Spread of contagious diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3175.md)
+* [Spread of contagious diseases in built environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2003.md)
+* [Spread of contagious diseases in densely populated areas](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_943.md)
+* [Spread of contagious epidemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3350.md)
+* [Spread of infection in crowded spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2094.md)
+* [Transmission of infectious diseases in indoor spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_936.md)
+
+## Description of the risk
+
+Contagious diseases like Covid-19 can spread rapidly in public spaces, leading to increased transmission and potential outbreaks.
+
+## Is the risk affecting GBN scales
+
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
+
+## Mitigations of this risk
+
+* [Implementing physical distancing measures, providing access to hand hygiene facilities, promoting mask-wearing, regular cleaning and disinfection of surfaces, and limiting the capacity of public spaces.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2229.md)
+
+## Name of the risk
+
+Increased transmission and spread of the disease, leading to higher infection rates and potentially overwhelming healthcare systems.
+
+## People affected by this risk
+
+* [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_29.md)
+* [Visitors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1102.md)
+* [Workers in public spaces](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_118.md)
+
+## Stakeholders who can mitigate this risk
+
+* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
+* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_0.md)
+* [Public health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
+
+## Technologies linked to the risk
+
+* [Contactless transactions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_207.md)
+* [Remote monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1014.md)
+* [Use of digital technologies for crowd management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1015.md)
+
+## This Risk belongs to this RiskGroup
+
+* [Infrastructure risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_2.md)
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_0.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_3.md)
+
+## Type of the risk
+
+* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskType
+
+* [Social](https://github.com/mm80843/T3.5/blob/pages/RiskType/PBN__RiskType_2.md)
+

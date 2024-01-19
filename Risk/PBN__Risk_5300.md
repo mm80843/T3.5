@@ -1,0 +1,40 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_5300 
+
+# __Difficulty in long-term planning for climate change impact on health in resource-limited settings__
+
+## Articles mentionning the risk
+
+* [Bardosh_addressing_2017](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_409.md)
+
+## Mitigations of this risk
+
+* [Develop adaptation strategies tailored to local resource-limited settings, provide education on climate change health impacts](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_7173.md)
+
+## Name of the risk
+
+Lack of preparedness for future health threats from climate change
+
+## People affected by this risk
+
+* [Community members in resource-limited settings](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_126.md)
+* [Policymakers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_4480.md)
+
+## Stakeholders who can mitigate this risk
+
+* [Government agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_413.md)
+* [Research institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_55.md)
+
+## Technologies linked to the risk
+
+* [Climate modeling tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_572.md)
+* [Community engagement platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_964.md)
+* [Educational resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_6455.md)
+
+## This Risk belongs to this RiskGroup
+
+* [Environmental risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_7.md)
+
+## This Risk belongs to this RiskSubgroup
+
+* [Climate change effects](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_30.md)
+

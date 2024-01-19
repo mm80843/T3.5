@@ -1,0 +1,33 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_2589 
+
+# __Lack of standardization, concerns over ethics__
+
+## Category to which it belongs
+
+* [Interoperability challenges, high costs, limited communication, and lack of resources impact various sectors globally.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_72.md)
+
+## Closest similar item
+
+* [Changes in social practices](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_163.md)
+* [Ethical concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2106.md)
+* [Ethical considerations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2448.md)
+* [Ethical dilemmas](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1919.md)
+* [Lack of awareness and compliance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3135.md)
+* [Lack of clear guidance and standards](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1332.md)
+* [Lack of data standardization](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1964.md)
+* [Lack of standardisation, data format limitations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1883.md)
+* [Lack of standards for publication](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_45.md)
+* [Legal and ethical considerations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2596.md)
+
+## Mitigations of this risk
+
+* [Data sharing for secondary use](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3598.md)
+
+## This Risk belongs to this RiskGroup
+
+* [Data privacy and security risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_4.md)
+
+## This Risk belongs to this RiskSubgroup
+
+* [Transparency and accountability issues](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_82.md)
+

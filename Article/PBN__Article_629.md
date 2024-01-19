@@ -1,0 +1,56 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_629 
+
+# __Obiala_covid-19_2021__
+
+## List of risks in an article
+
+* [Comparison of accurate and misleading articles using chi-square test](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17348.md)
+* [Disagreements and doubts in the classification process](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17349.md)
+* [Disproportionate sharing of inaccurate information on social media platforms](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17350.md)
+* [Effectiveness of social media platforms’ efforts to remove misinformation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17351.md)
+* [Excessive reliance on non-affiliated and non-peer reviewed sources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17352.md)
+* [Exclusion of relevant prevention information due to keyword selection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17353.md)
+* [Inaccuracy of information on wearing masks in coronavirus prevention articles](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17354.md)
+* [Inaccurate information on masks and virus transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17355.md)
+* [Ineffectiveness of preventive advice in shared articles](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17356.md)
+* [Low presence of accurate information in peer-reviewed journals and official institutions websites](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17357.md)
+* [Misleading articles about coronavirus prevention](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17358.md)
+* [Misleading articles on covid-19 prevention measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17359.md)
+* [Potential bias introduced by the use of buzzsumo in the study](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17360.md)
+* [Reliance on inaccurate information from social media](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17361.md)
+* [Relying on inaccurate or misleading information about contagious diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17362.md)
+* [Resistance to wearing masks due to misinformation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17363.md)
+* [Short lifespan of study in a quickly evolving social media ecosystem](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17364.md)
+* [Spread of false information about covid-19 prevention measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_17365.md)
+
+## This article mentions these technologies
+
+* [Advanced search algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_7.md)
+* [Algorithmic content verification](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1067.md)
+* [Artificial intelligence for content moderation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2723.md)
+* [Automatic misinformation detection algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_564.md)
+* [Biostatistics tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1895.md)
+* [Collaboration platforms for discussion and consultation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3979.md)
+* [Collaboration tools for health organizations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_4013.md)
+* [Collaboration tools for research institutions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_4881.md)
+* [Content validation tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_4979.md)
+* [Data analytics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_6581.md)
+* [Data analytics and monitoring tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_7008.md)
+* [Data mining and automated categorization tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11528.md)
+* [Educational campaigns on reliable sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_17962.md)
+* [Expert review platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_19737.md)
+* [Fact-checking algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_19738.md)
+* [Fact-checking plugins](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_19739.md)
+* [Fact-checking tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_19740.md)
+* [Information verification platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_19741.md)
+* [Natural language processing tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_19742.md)
+* [Open-access publishing platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_19743.md)
+* [Public health communication platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_19744.md)
+* [Public health education campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_19745.md)
+* [Publication of study methodology and findings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_19746.md)
+* [Social media algorithms for fact-checking and flagging misinformation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_19747.md)
+* [Social media fact-checking tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_19748.md)
+* [Social media monitoring tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_19749.md)
+* [Source evaluation tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_19750.md)
+* [Statistical analysis software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_19751.md)
+

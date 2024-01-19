@@ -1,0 +1,38 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_6422 
+
+# __Inadequate explanation of mapping between model parameters and practical significance of interventions__
+
+## Articles mentionning the risk
+
+* [Cao_analysis_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_429.md)
+
+## Mitigations of this risk
+
+* [Provide clear guidelines for converting model parameters to practical intervention measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_8294.md)
+
+## Name of the risk
+
+Ineffective intervention measures and misallocation of resources
+
+## People affected by this risk
+
+* [Policy makers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_310.md)
+* [Public health officials](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_3.md)
+
+## Stakeholders who can mitigate this risk
+
+* [Public health organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_173.md)
+* [Research institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_413.md)
+
+## Technologies linked to the risk
+
+* [Data visualization and modeling software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_7841.md)
+
+## This Risk belongs to this RiskGroup
+
+* [Technological risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_8.md)
+
+## This Risk belongs to this RiskSubgroup
+
+* [Modeling and prediction risks](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_47.md)
+

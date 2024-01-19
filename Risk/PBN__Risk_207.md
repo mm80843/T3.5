@@ -1,0 +1,33 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_207 
+
+# __Variation in built environment microbiome__
+
+## Category to which it belongs
+
+* [Indoor living challenges include limited self-sufficiency, reliance on artificial elements, poor lighting, and environmental variations.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_85.md)
+
+## Closest similar item
+
+* [Airborne transmission of infectious microorganisms indoors](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1562.md)
+* [Contaminated environments](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3110.md)
+* [Contamination and exposure to pathogens](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_210.md)
+* [Contamination and microbial growth in insulation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_211.md)
+* [Contamination from microorganisms in the built environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1010.md)
+* [Exposure to pathogens](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3019.md)
+* [Influence of human activities and uses on microbial community structure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_336.md)
+* [Microbial community variation among offices](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3098.md)
+* [Microbiological contaminants](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2672.md)
+* [Spread of infections and diseases in the built environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2396.md)
+
+## Mitigations of this risk
+
+* [Modifying architectural design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_246.md)
+
+## This Risk belongs to this RiskGroup
+
+* [Environmental risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_7.md)
+
+## This Risk belongs to this RiskSubgroup
+
+* [Environmental health risks](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_29.md)
+

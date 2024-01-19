@@ -1,0 +1,38 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_5385 
+
+# __Mental health issues leading to irrational behavior and social chaos__
+
+## Articles mentionning the risk
+
+* [Bauerle_e-mental_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_410.md)
+
+## Mitigations of this risk
+
+* [Address mental health concerns, reassure the public, promote social communication and stability](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_7258.md)
+
+## Name of the risk
+
+Decreased mental peace, irrational behavior, social chaos, and jeopardized pandemic control efforts
+
+## People affected by this risk
+
+* [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_29.md)
+
+## Stakeholders who can mitigate this risk
+
+* [Social and mental health experts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_4597.md)
+
+## Technologies linked to the risk
+
+* [Social media platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_242.md)
+* [Telecommunication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_47.md)
+* [Web-based applications](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_243.md)
+
+## This Risk belongs to this RiskGroup
+
+* [Social risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_1.md)
+
+## This Risk belongs to this RiskSubgroup
+
+* [Mental and emotional wellbeing](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_69.md)
+

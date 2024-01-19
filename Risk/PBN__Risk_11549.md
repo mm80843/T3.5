@@ -1,0 +1,38 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_11549 
+
+# __Divergent perceptions of coronavirus threat__
+
+## Articles mentionning the risk
+
+* [Willems_how_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_511.md)
+
+## Mitigations of this risk
+
+* [Education and information dissemination to address misconceptions and provide accurate understanding of the threat.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_13461.md)
+
+## Name of the risk
+
+Divergent perceptions of the coronavirus threat can lead to varied responses and behaviors, impacting the spread of the disease.
+
+## People affected by this risk
+
+* [Consumers in cluster 1 survivalists and cluster 3 rejectionists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9485.md)
+
+## Stakeholders who can mitigate this risk
+
+* [And public health organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_394.md)
+* [Educational institutions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_66.md)
+* [Health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2693.md)
+
+## Technologies linked to the risk
+
+* [Information and communication technologies for widespread dissemination of accurate information](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_13602.md)
+
+## This Risk belongs to this RiskGroup
+
+* [Public health risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_3.md)
+
+## This Risk belongs to this RiskSubgroup
+
+* [Public health messaging and education](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_28.md)
+

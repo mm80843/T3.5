@@ -1,0 +1,81 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1819 
+
+# __Concentration of suppliers__
+
+## Articles mentionning the risk
+
+* [Global value chains: Efficiency and risks in the context of COVID-19](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_60.md)
+
+## Category to which it belongs
+
+* [The pandemic has led to a decrease in in-person surgical education, loss of control, temporary panic from cruise ship docking, limited social distancing, and decreased morale.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_70.md)
+
+## Closest similar item
+
+* [Dependence on global suppliers](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2203.md)
+* [Disruption in global supply chains](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3239.md)
+* [Disruption of supply chains](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_491.md)
+* [Disruptions in global supply chains](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3258.md)
+* [Financial viability of suppliers](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1971.md)
+* [Imbalance of supply chains](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1756.md)
+* [Reliance on global supply chains](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1123.md)
+* [Shortages in supply chains](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2869.md)
+* [Supply chain complexity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_767.md)
+* [Supply disruption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2986.md)
+
+## Description of the risk
+
+High concentration of suppliers in GVCs can lead to disruptions in the supply chain and vulnerability to shocks.
+
+## Is the risk affecting GBN scales
+
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_0.md)
+
+## Mitigations of this risk
+
+* [Promote diversification of suppliers and reduce dependence on a few key suppliers.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2420.md)
+
+## Name of the risk
+
+Increased risk of supply chain disruptions and limited flexibility in switching suppliers during shocks.
+
+## People affected by this risk
+
+* [Businesses](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_147.md)
+* [Countries heavily reliant on specific suppliers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_389.md)
+* [Industries](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1239.md)
+
+## Stakeholders who can mitigate this risk
+
+* [Businesses](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
+* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_147.md)
+* [Industries](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_389.md)
+
+## Technologies linked to the risk
+
+* [Supplier diversification technologies and supply chain management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1197.md)
+
+## This Risk belongs to this RiskGroup
+
+* [Economic risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_5.md)
+
+## This Risk belongs to this RiskSubgroup
+
+* [Supply chain disruptions](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_8.md)
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_4.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_2.md)
+
+## Type of the risk
+
+
+## Property: has_RiskType
+
+* [Economic](https://github.com/mm80843/T3.5/blob/pages/RiskType/PBN__RiskType_5.md)
+* [Technological](https://github.com/mm80843/T3.5/blob/pages/RiskType/PBN__RiskType_3.md)
+

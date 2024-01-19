@@ -1,0 +1,37 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_656 
+
+# __Lack of long-lasting antimicrobial coatings__
+
+## Blueprints with this risk
+
+* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_5.md)
+
+## Category to which it belongs
+
+* [Inadequate infection control measures can result in microbial resistance, pathogen contamination, and insufficient disinfection.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_90.md)
+
+## Closest similar item
+
+* [Antimicrobial resistance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1482.md)
+* [Contamination of surfaces with pathogens](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_160.md)
+* [High infection rate via contaminated surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2675.md)
+* [Inadequate antibacterial and antiviral properties of stainless steel surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1174.md)
+* [Insufficient knowledge of covid-19 inactivation mechanisms on copper coatings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1172.md)
+* [Poor air and surface disinfection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1173.md)
+* [Risk of adverse effects from anti-sars-cov-2 coatings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_254.md)
+* [Risk of ineffective anti-sars-cov-2 coatings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2470.md)
+* [Risk of resistance development to anti-sars-cov-2 coatings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1484.md)
+* [Surface disinfection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_657.md)
+
+## Mitigations of this risk
+
+* [Development of robust antiviral coatings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_920.md)
+
+## This Risk belongs to this RiskGroup
+
+* [Public health risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_3.md)
+
+## This Risk belongs to this RiskSubgroup
+
+* [Lack of effective medical solutions](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_37.md)
+

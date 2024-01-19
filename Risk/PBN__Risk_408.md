@@ -1,0 +1,33 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_408 
+
+# __Loss of healthcare workforce__
+
+## Category to which it belongs
+
+* [Healthcare systems overwhelmed, limited access to services, scarcity of resources, and risk to healthcare workers.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_60.md)
+
+## Closest similar item
+
+* [Collapse of health services](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1631.md)
+* [Healthcare system collapse](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_317.md)
+* [Healthcare workers at risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2012.md)
+* [Job loss](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_477.md)
+* [Job losses](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2644.md)
+* [Lack of access to healthcare services](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2149.md)
+* [Lack of healthcare access](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3237.md)
+* [Lack of healthcare resources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3144.md)
+* [Shortage of experienced healthcare personnel](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2957.md)
+* [Shortage of health care personnel](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2469.md)
+
+## Mitigations of this risk
+
+* [Application of antimicrobial coatings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_574.md)
+
+## This Risk belongs to this RiskGroup
+
+* [Public health risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_3.md)
+
+## This Risk belongs to this RiskSubgroup
+
+* [Healthcare resource shortage and management](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_21.md)
+

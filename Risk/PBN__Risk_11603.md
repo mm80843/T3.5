@@ -1,0 +1,42 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_11603 
+
+# __In-person gatherings for learning sessions and webinars can increase the risk of contagious disease transmission among employees.__
+
+## Articles mentionning the risk
+
+* [Willems_how_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_511.md)
+
+## Mitigations of this risk
+
+* [Shift to virtual learning platforms for training and webinars, implement strict hygiene and distancing protocols for in-person sessions.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_13515.md)
+
+## Name of the risk
+
+Potential spread of contagious diseases and increased risk of infection among employees and leaders.
+
+## People affected by this risk
+
+* [And participants in learning sessions](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_220.md)
+* [Employees](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_8952.md)
+* [Leaders](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9527.md)
+
+## Stakeholders who can mitigate this risk
+
+* [And leadership](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9517.md)
+* [Human resources team](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9528.md)
+* [Talent & culture team](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9529.md)
+
+## Technologies linked to the risk
+
+* [Health and safety tracking technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3299.md)
+* [Virtual meeting platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_13650.md)
+* [Webinar software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_13651.md)
+
+## This Risk belongs to this RiskGroup
+
+* [Public health risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_3.md)
+
+## This Risk belongs to this RiskSubgroup
+
+* [Workplace safety and occupational exposure](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_20.md)
+

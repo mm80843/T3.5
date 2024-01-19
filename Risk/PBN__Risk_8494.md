@@ -1,0 +1,40 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_8494 
+
+# __Cities known for adopting technology and innovation__
+
+## Articles mentionning the risk
+
+* [Fariniuk_smart_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_465.md)
+
+## Mitigations of this risk
+
+* [Implement strict health and safety protocols, increase healthcare infrastructure, and promote vaccination campaigns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_10387.md)
+
+## Name of the risk
+
+Potential spread of contagious diseases due to high population density and frequent travel
+
+## People affected by this risk
+
+* [And visitors in the city](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_59.md)
+* [Residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_558.md)
+* [Travelers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_7034.md)
+
+## Stakeholders who can mitigate this risk
+
+* [Local governments and healthcare authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_7035.md)
+
+## Technologies linked to the risk
+
+* [Ai for predictive analysis of disease spread](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_5625.md)
+* [And telemedicine for remote healthcare](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_7947.md)
+* [Iot for contact tracing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_8010.md)
+
+## This Risk belongs to this RiskGroup
+
+* [Technological risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_8.md)
+
+## This Risk belongs to this RiskSubgroup
+
+* [Innovation and adoption risks](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_17.md)
+

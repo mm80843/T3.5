@@ -1,0 +1,33 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_11209 
+
+# __Lack of focus on digitalization-related changes__
+
+## Articles mentionning the risk
+
+* [Willems_how_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_511.md)
+
+## Mitigations of this risk
+
+* [Invest in digitalization training and tools, encourage adoption of digital solutions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_13121.md)
+
+## Name of the risk
+
+Inability to adapt to digitalization trends, leading to loss of competitive advantage and decreased market relevance
+
+## People affected by this risk
+
+* [Managers and employees of service smes](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9180.md)
+
+## Stakeholders who can mitigate this risk
+
+* [Digitalization department](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9182.md)
+
+## Technologies linked to the risk
+
+* [Digital training platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11613.md)
+* [Digitalization tools and software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_13203.md)
+
+## This Risk belongs to this RiskGroup
+
+* [Technological risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_8.md)
+

@@ -1,0 +1,36 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_3724 
+
+# __Limited access to supervised exercise and mentoring may hinder motivation for physical activity, particularly in times of stress.__
+
+## Articles mentionning the risk
+
+* [Ai_mental_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_384.md)
+
+## Mitigations of this risk
+
+* [Studying motivation as a moderating factor for different modes of exercise and evaluating the impact on mental health.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5597.md)
+
+## Name of the risk
+
+Reduced motivation and engagement in physical activity, leading to potential negative effects on mental health.
+
+## People affected by this risk
+
+* [Individuals in need of support for physical activity and mental health](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2986.md)
+
+## Stakeholders who can mitigate this risk
+
+* [Healthcare providers and mental health professionals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2987.md)
+
+## Technologies linked to the risk
+
+* [Innovative exercise monitoring and mentoring technologies to encourage motivation and engagement](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_4366.md)
+
+## This Risk belongs to this RiskGroup
+
+* [Social risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_1.md)
+
+## This Risk belongs to this RiskSubgroup
+
+* [Physical activity and mobility](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_54.md)
+

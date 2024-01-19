@@ -1,0 +1,81 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_2306 
+
+# __Peer-review failures__
+
+## Articles mentionning the risk
+
+* [Rise of the preprint: how rapid data sharing during COVID-19 has changed science forever](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_173.md)
+
+## Category to which it belongs
+
+* [The challenges include inadequate monitoring and contact tracing, limited sensor diversity, and temporary regulations to restrict activities in public places.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_66.md)
+
+## Closest similar item
+
+* [Failure to judge the magnitude of the problem](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_619.md)
+* [Inadequate reporting and method quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1506.md)
+* [Lack of credibility](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1530.md)
+* [Lack of reliable information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2724.md)
+* [Lack of reporting](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2798.md)
+* [Misleading peer-reviewed publications](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_421.md)
+* [Shortcomings in peer review process](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2392.md)
+* [Technical failure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2620.md)
+* [Unreliable information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2515.md)
+* [Unreliable reporting, atypical symptoms](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3084.md)
+
+## Description of the risk
+
+Some peer-reviewed articles have methodological shortcomings or fraudulent data, leading to the dissemination of faulty research.
+
+## Is the risk affecting GBN scales
+
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_0.md)
+
+## Mitigations of this risk
+
+* [Journals should enhance their peer-review processes and address issues of transparency and scientific integrity.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3030.md)
+
+## Name of the risk
+
+Faulty research can lead to misguided treatments, wasted resources, and erosion of trust in scientific journals.
+
+## People affected by this risk
+
+* [Policymakers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
+* [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_126.md)
+
+## Stakeholders who can mitigate this risk
+
+* [Journal editors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1555.md)
+* [Publishers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1556.md)
+
+## Technologies linked to the risk
+
+* [Improved peer-review processes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1924.md)
+* [Scientific integrity](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1925.md)
+* [Transparency](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1926.md)
+
+## This Risk belongs to this RiskGroup
+
+* [Legal risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_6.md)
+
+## This Risk belongs to this RiskSubgroup
+
+* [Data and research integrity](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_72.md)
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_0.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_3.md)
+
+## Type of the risk
+
+* [Other](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_2.md)
+
+## Property: has_RiskType
+
+* [Social](https://github.com/mm80843/T3.5/blob/pages/RiskType/PBN__RiskType_2.md)
+

@@ -1,0 +1,62 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_251 
+
+# __SARS-CoV-2 Titers in Wastewater Are Higher than Expected from Clinically Confirmed Cases__
+
+## Benefits listed in this article
+
+* [Early hotspot detection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1201.md)
+* [Efficacy of interventions](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1202.md)
+* [Improved public health measures](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1203.md)
+* [Improved testing access](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1204.md)
+* [Population prevalence estimation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1205.md)
+
+## DOI of the article
+
+10.1128/mSystems.00614-20
+
+## List of risks in an article
+
+* [Degradation of viral signal in storage](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2340.md)
+* [Emerging local hot spots](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2342.md)
+* [Fluctuations in sewage flow rate](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2344.md)
+* [Invasive individual testing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2341.md)
+* [Limited access to testing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2343.md)
+
+## Short summary of the article
+
+This research focuses on using wastewater-based surveillance (WBS) to detect the presence and prevalence of SARS-CoV-2, the virus that causes COVID-19. The study collected sewage samples from a wastewater treatment facility in Massachusetts and used an analytical technique to detect and quantify genetic material from SARS-CoV-2 in the samples. The results showed that all 10 samples from March 18 to 25 tested positive for SARS-CoV-2. The estimated viral titers in the sewage samples ranged from 57 to 303 copies per ml. The study also used the pepper mild mottle virus (PMMoV) as an internal reference to help control for sample-to-sample variability. The use of PMMoV as a reference reduced the variability of the data. The study concludes that wastewater-based surveillance can provide population-level estimates of SARS-CoV-2 prevalence, which can be used to inform public health measures and assess the effectiveness of interventions.
+
+## Summary of the article
+
+Scientists have found a way to detect and measure the amount of the COVID-19 virus in wastewater. Wastewater is the used water that goes down toilets and drains. By testing wastewater samples, scientists can get an idea of how many people in a certain area have the virus. They can use this information to help make decisions about how to stop the spread of COVID-19. The scientists in this study collected samples from a wastewater treatment facility in Massachusetts and found that all of them had the virus. They also found that the amount of the virus in the wastewater was higher than the number of confirmed cases of COVID-19 in the area. This means that there may be more people with the virus who haven't been tested. The scientists think that testing wastewater can be a helpful way to track the virus and make sure the right actions are taken to keep people safe.
+
+## This article mentions these technologies
+
+* [Data analysis algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1978.md)
+* [Data analysis algorithms for hotspot detection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1972.md)
+* [Development and implementation of wastewater sampling and analysis techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1976.md)
+* [Development of non-invasive testing techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1975.md)
+* [Development of rapid testing methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1970.md)
+* [Development of storage protocols for maintaining sample integrity](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1968.md)
+* [Improvement of testing accuracy and reliability](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1969.md)
+* [Increased production and distribution of testing kits](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1977.md)
+* [Modeling techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1973.md)
+* [Monitoring techniques for rna degradation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1974.md)
+* [Real-time monitoring of sewage flow rate](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1971.md)
+
+## This article points to following mitigation
+
+* [Longitudinal analysis of wastewater samples](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5211.md)
+* [Pasteurization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5213.md)
+* [Pmmov as an internal reference](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5215.md)
+* [Viral enrichment protocol](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5214.md)
+* [Wastewater-based surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5212.md)
+
+## Title of the article
+
+SARS-CoV-2 Titers in Wastewater Are Higher than Expected from Clinically Confirmed Cases
+
+## Year of publication
+
+2020
+

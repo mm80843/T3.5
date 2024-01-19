@@ -1,0 +1,39 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_5126 
+
+# __Uncontrolled quantum generation rate of infectious aerosols__
+
+## Articles mentionning the risk
+
+* [Azuma_environmental_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_406.md)
+
+## Mitigations of this risk
+
+* [Determine quantum generation rates for specific infectious aerosols to improve model accuracy](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_6998.md)
+
+## Name of the risk
+
+Difficulty in accurately estimating the probability of infection using the Wells-Riley model
+
+## People affected by this risk
+
+* [Indoor environmental researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_4330.md)
+* [Ventilation engineers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_4331.md)
+
+## Stakeholders who can mitigate this risk
+
+* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
+* [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)
+
+## Technologies linked to the risk
+
+* [Air quality sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_430.md)
+* [Quantum generation rate measurement tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_6215.md)
+
+## This Risk belongs to this RiskGroup
+
+* [Public health risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_3.md)
+
+## This Risk belongs to this RiskSubgroup
+
+* [Failure to implement preventive measures](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_12.md)
+

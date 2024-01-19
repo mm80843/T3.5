@@ -1,0 +1,33 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_2706 
+
+# __Decreased public gatherings__
+
+## Category to which it belongs
+
+* [The pandemic has led to a decrease in in-person surgical education, loss of control, temporary panic from cruise ship docking, limited social distancing, and decreased morale.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_70.md)
+
+## Closest similar item
+
+* [Crowded public spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3164.md)
+* [Decreased collaboration and social interaction](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1452.md)
+* [Fewer people in public spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1466.md)
+* [Gatherings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1668.md)
+* [Insufficient crowd management measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2534.md)
+* [Lack of community participation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2158.md)
+* [Lack of public awareness](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2554.md)
+* [Lack of public awareness and support](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1317.md)
+* [Lack of public participation and citizen empowerment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2734.md)
+* [Reduced social interaction, economic impact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2078.md)
+
+## Mitigations of this risk
+
+* [Reimagining large public spaces and events in a post-pandemic world](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3797.md)
+
+## This Risk belongs to this RiskGroup
+
+* [Social risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_1.md)
+
+## This Risk belongs to this RiskSubgroup
+
+* [Social and psychological effects](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_1.md)
+

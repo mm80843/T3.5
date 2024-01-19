@@ -1,0 +1,57 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_505 
+
+# __Yang_combating_2020__
+
+## List of risks in an article
+
+* [Dependence on sustained research efforts for robotics in infectious disease management](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10714.md)
+* [Development of robotic systems for remote access may lead to reduced human interaction, impacting mental health.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10715.md)
+* [Exposure of frontline health care practitioners to contagious pathogens through direct patient contact.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10716.md)
+* [Impact of covid-19 on manufacturing and socioeconomic functions, leading to increased need for remote operation and maintenance.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10717.md)
+* [Inability to identify silent infections without symptoms](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10718.md)
+* [Inadequate sample transfer and delivery of medicines](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10719.md)
+* [Incorporating thermal sensors and vision algorithms onto autonomous or remotely operated robots for temperature screening may lead to inaccurate or misleading results.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10720.md)
+* [Increased reliance on teleoperation and telecommuting may lead to decreased in-person social interactions.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10721.md)
+* [Lack of qualified staff for swabbing and processing test samples](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10722.md)
+* [Limited funding for multidisciplinary research in robotics and infectious diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10723.md)
+* [Networking security systems with facial recognition software to trace contacts of infected individuals may pose privacy risks and potential misuse of personal data.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10724.md)
+* [Risk of exposure for medical staff during blood drawing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10725.md)
+* [Shift towards online gatherings and events may impact personal connections and community engagement.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10726.md)
+* [Use of uv light devices for surface disinfection may not reach all surfaces or provide consistent coverage, leading to incomplete disinfection.](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_10727.md)
+
+## This article mentions these technologies
+
+* [Advanced algorithms for accurate temperature measurement](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1449.md)
+* [Ai for infectious disease management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3404.md)
+* [And autonomous disinfection systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1171.md)
+* [And cybersecurity solutions for critical infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_73.md)
+* [Antibody testing technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_621.md)
+* [Automated blood drawing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1985.md)
+* [Automated blood drawing systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_4554.md)
+* [Automated laboratory testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_5475.md)
+* [Automated swabbing systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_7056.md)
+* [Automation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_12611.md)
+* [Autonomous drones](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_12612.md)
+* [Autonomous robots with intelligent navigation and detection capabilities to identify missed areas and provide feedback for manual cleaning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_12613.md)
+* [Decontamination robots](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_12614.md)
+* [Ground vehicles for medical transport](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_12615.md)
+* [Legal frameworks for data protection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_12616.md)
+* [Online communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_12617.md)
+* [Online event platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_12618.md)
+* [Privacy-preserving algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_12619.md)
+* [Regular sensor maintenance and calibration protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_12620.md)
+* [Remote operation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_12621.md)
+* [Robot-assisted swabbing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_12622.md)
+* [Robotic systems for venepuncture](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_12623.md)
+* [Robotics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_12624.md)
+* [Secure encryption](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_12625.md)
+* [Social media engagement tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_12626.md)
+* [Social robots](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_12627.md)
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_12628.md)
+* [Telemedicine platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_12629.md)
+* [Teleoperation platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_12630.md)
+* [Teleoperation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_12631.md)
+* [Telepresence systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_12632.md)
+* [Virtual reality conferencing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_12633.md)
+* [Virtual reality environments for social interaction](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_12634.md)
+

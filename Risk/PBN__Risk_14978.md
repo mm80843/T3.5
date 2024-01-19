@@ -1,0 +1,39 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_14978 
+
+# __Lack of social integration in global terms__
+
+## Articles mentionning the risk
+
+* [Samout_covid-19_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_578.md)
+
+## Mitigations of this risk
+
+* [Integrate social aspects into global projects, prioritize social needs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_16914.md)
+
+## Name of the risk
+
+Social inequality, insufficient access to housing, healthcare, and education
+
+## People affected by this risk
+
+* [Marginalized groups](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_877.md)
+* [Underprivileged communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_4722.md)
+
+## Stakeholders who can mitigate this risk
+
+* [International organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_566.md)
+* [Local governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_242.md)
+
+## Technologies linked to the risk
+
+* [Public health management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_10778.md)
+* [Urban planning technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_14686.md)
+
+## This Risk belongs to this RiskGroup
+
+* [Social risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_1.md)
+
+## This Risk belongs to this RiskSubgroup
+
+* [Social and psychological effects](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_1.md)
+

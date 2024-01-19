@@ -1,0 +1,58 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_283 
+
+# __Impact of control measures on diet and physical activity__
+
+## Articles mentionning the risk
+
+* [Oni_implications_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_623.md)
+
+## Category to which it belongs
+
+* [The impact of various factors on public health, including unhealthy behaviors, limited access to healthcare, and food insecurity.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_53.md)
+
+## Closest similar item
+
+* [And physical health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3075.md)
+* [Decreased physical activity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1056.md)
+* [Exposure to greenspace and physical activity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3287.md)
+* [Health effects](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_46.md)
+* [Increase in chronic diseases from sedentary lifestyles](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_113.md)
+* [Increased risk of obesity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2942.md)
+* [Link between human activity and health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_172.md)
+* [Physical activity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2773.md)
+* [Physical health issues](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2267.md)
+* [Reduced physical activity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2497.md)
+
+## Mitigations of this risk
+
+* [Creating new space for walking and cycling](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_356.md)
+* [Establishing makeshift neighborhood food markets](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_355.md)
+* [Introduction of alternative solutions for access to healthy foods, promotion of physical activity at home, and provision of resources for maintaining a healthy lifestyle](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_354.md)
+* [Mapping access to nutritious food and equitable distribution](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_357.md)
+* [Promotion of television and social media-based exercise programs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_358.md)
+* [Provision of guidelines on safe physical activity outdoors](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_19076.md)
+
+## Name of the risk
+
+Potential negative impact on dietary intake and physical activity due to limited access to healthy foods and environments conducive to physical activity
+
+## People affected by this risk
+
+* [Vulnerable populations with limited access to healthy foods and environments for physical activity](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_13675.md)
+
+## Stakeholders who can mitigate this risk
+
+* [And community leaders](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_55.md)
+* [Government agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1944.md)
+* [Non-governmental organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2813.md)
+
+## Technologies linked to the risk
+
+* [And virtual health consultations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_19494.md)
+* [Fitness apps for home workouts](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_19495.md)
+* [Online platforms for food delivery](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_19496.md)
+
+## This Risk belongs to this RiskGroup
+
+* [Economic risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_5.md)
+

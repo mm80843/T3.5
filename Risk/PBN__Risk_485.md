@@ -1,0 +1,36 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_485 
+
+# __Social inequalities and covid-19 incidence__
+
+## Category to which it belongs
+
+* [The consequences of social distancing include inconsistent recommendations, environmental degradation, prolonged isolation, and social inequalities.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_54.md)
+
+## Closest similar item
+
+* [About covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_486.md)
+* [Economic and social costs of covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_754.md)
+* [Higher covid-19 mortality rate](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_535.md)
+* [Impact of covid-19 on neighborhoods](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2938.md)
+* [Limited understanding of the spread and impact of covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_578.md)
+* [Poor practices for covid-19 prevention](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_29.md)
+* [Risk of spreading covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1956.md)
+* [Social inequalities and covid-19 testing rates](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2941.md)
+* [Social, spatial, and economic inequalities exacerbated by covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2643.md)
+* [Spread of covid-19 in healthcare](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_626.md)
+
+## Mitigations of this risk
+
+* [Differential testing rates](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_685.md)
+* [Incorporating vaccination uptake](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_683.md)
+* [Increased testing in densely pop.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_682.md)
+* [Increased testing in deprived areas](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_684.md)
+
+## This Risk belongs to this RiskGroup
+
+* [Social risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_1.md)
+
+## This Risk belongs to this RiskSubgroup
+
+* [Social justice concerns](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_58.md)
+

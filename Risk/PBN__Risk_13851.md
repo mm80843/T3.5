@@ -1,0 +1,41 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_13851 
+
+# __Flare ups of covid-19 continuing to plague humanity for several years__
+
+## Articles mentionning the risk
+
+* [Spennemann_residential_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_557.md)
+
+## Mitigations of this risk
+
+* [Vaccination, public health measures, and global cooperation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_15776.md)
+
+## Name of the risk
+
+Continued health risks and economic disruptions
+
+## People affected by this risk
+
+* [And vulnerable communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_68.md)
+* [Global population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_278.md)
+* [Healthcare workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_5552.md)
+
+## Stakeholders who can mitigate this risk
+
+* [And public health agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
+* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_242.md)
+* [International organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_3077.md)
+
+## Technologies linked to the risk
+
+* [Testing and distribution technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_835.md)
+* [Vaccine development](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_16146.md)
+
+## This Risk belongs to this RiskGroup
+
+* [Public health risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_3.md)
+
+## This Risk belongs to this RiskSubgroup
+
+* [Public health messaging and education](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_28.md)
+

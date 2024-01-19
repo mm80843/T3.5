@@ -1,0 +1,42 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_12588 
+
+# __Inadequate ventilation, indoor air quality, and lighting impacting transmission of covid-19__
+
+## Articles mentionning the risk
+
+* [Umair_impact_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_531.md)
+
+## Mitigations of this risk
+
+* [Implementation of smart hvac systems, adoption of uv irradiation, increased air change rate, and night ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_14507.md)
+
+## Name of the risk
+
+Increased risk of airborne transmission of viruses within indoor environments
+
+## People affected by this risk
+
+* [And employees](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_118.md)
+* [Visitors](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_3290.md)
+
+## Stakeholders who can mitigate this risk
+
+* [And public health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_653.md)
+* [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
+* [Facility management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2670.md)
+
+## Technologies linked to the risk
+
+* [Smart hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1979.md)
+* [Uv irradiation technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_5172.md)
+* [Ventilation monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_14800.md)
+
+## This Risk belongs to this RiskGroup
+
+* [Environmental risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_7.md)
+
+## This Risk belongs to this RiskSubgroup
+
+* [Air quality and pollution effects](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_32.md)
+

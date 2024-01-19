@@ -1,0 +1,30 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/pages/docs/Benef/index.md) >> Individual ID:PBN__Benef_27 
+
+# __Achieve sustainable development goals sdgs__
+
+## Articles mentionning this Benefit
+
+* [Building up an ecologically sustainable and socially desirable post-COVID-19 future](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_5.md)
+
+## Category to which it belongs
+
+* [The promotion of sustainable development goals and the creation of resilient, accessible, and environmentally-friendly urban environments.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_16.md)
+
+## Description of actual returns pertaining to this benefit
+
+* [Private investors in sustainable technologies, organic farming, low-carbon transportation, and recyclable materials would benefit from increased investment opportunities and market growth.](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_27.md)
+
+## Name of the Benefit
+
+Directing recovery funds towards sustainable development initiatives promotes economic, social, and environmental well-being, and helps achieve the SDGs.
+
+## Risks which can benefit from this action
+
+* [Direct recovery funds towards sustainable development](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_19.md)
+
+## Stakeholders benefitting from this Benefit
+
+* [Communities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_20.md)
+* [Individuals](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_4.md)
+* [The environment](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_25.md)
+

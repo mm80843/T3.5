@@ -1,0 +1,38 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_14590 
+
+# __Need for better self-sufficiency and diverse economic structures__
+
+## Articles mentionning the risk
+
+* [Sharifi_covid-19_2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_572.md)
+
+## Mitigations of this risk
+
+* [Paradigm shift towards diverse economic structures and self-sufficiency](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_16526.md)
+
+## Name of the risk
+
+Dependence on specific economic sectors, lack of resilience
+
+## People affected by this risk
+
+* [Local businesses](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_300.md)
+* [Policymakers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_126.md)
+
+## Stakeholders who can mitigate this risk
+
+* [Economic development organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_566.md)
+* [Local governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_11627.md)
+
+## Technologies linked to the risk
+
+* [Economic diversification strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_894.md)
+
+## This Risk belongs to this RiskGroup
+
+* [Economic risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_5.md)
+
+## This Risk belongs to this RiskSubgroup
+
+* [Resource and capability risks](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_36.md)
+

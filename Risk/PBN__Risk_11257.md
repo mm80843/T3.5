@@ -1,0 +1,41 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_11257 
+
+# __Shift towards more online shopping leading to greater reliance on delivery and logistics networks__
+
+## Articles mentionning the risk
+
+* [Willems_how_2021](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_511.md)
+
+## Mitigations of this risk
+
+* [Implement contactless delivery, regular testing of delivery personnel, and sanitation of delivery vehicles](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_13169.md)
+
+## Name of the risk
+
+Higher risk of virus transmission through delivery personnel and logistics infrastructure
+
+## People affected by this risk
+
+* [Delivery personnel](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_3453.md)
+* [Logistics network workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_7746.md)
+* [Online shoppers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9243.md)
+
+## Stakeholders who can mitigate this risk
+
+* [E-commerce platforms](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_424.md)
+* [Logistics companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9244.md)
+
+## Technologies linked to the risk
+
+* [And gps-enabled contactless delivery systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_13258.md)
+* [Autonomous delivery robots](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_13259.md)
+* [Delivery tracking systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_13260.md)
+
+## This Risk belongs to this RiskGroup
+
+* [Economic risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_5.md)
+
+## This Risk belongs to this RiskSubgroup
+
+* [Supply chain disruptions](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_8.md)
+

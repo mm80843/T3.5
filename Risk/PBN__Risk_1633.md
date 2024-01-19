@@ -1,0 +1,81 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1633 
+
+# __Spread of invasive mosquito spp__
+
+## Articles mentionning the risk
+
+* [Challenges to Mitigating the Urban Health Burden of Mosquito-Borne Diseases in the Face of Climate Change](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_95.md)
+
+## Category to which it belongs
+
+* [The ecological impact of climate change, urbanization, and habitat alteration on the spread of diseases and wildlife conservation.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_80.md)
+
+## Closest similar item
+
+* [Climate change enhancing mosquito populations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3069.md)
+* [Climate change impacts on mosquito-borne diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_58.md)
+* [Emergence of mosquito-borne diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3041.md)
+* [Increased exposure to mosquitoes](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_57.md)
+* [Increased mosquito breeding](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2892.md)
+* [Increased mosquito breeding due to heavy rainfall](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2905.md)
+* [Increased mosquito intrusion](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_758.md)
+* [Mosquito-borne diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1982.md)
+* [Spread and transmission of mosquito and tick-borne diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2893.md)
+* [Spread of mosquito-borne diseases due to variable climate and extreme weather events](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3066.md)
+
+## Description of the risk
+
+Global warming and urbanization enable the spread of invasive mosquito species and their associated diseases to new regions.
+
+## Is the risk affecting GBN scales
+
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
+
+## Mitigations of this risk
+
+* [Enhance vector control measures, develop targeted interventions, monitor and prevent mosquito breeding.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2191.md)
+
+## Name of the risk
+
+Increased spread of vector-borne diseases, higher disease burden.
+
+## People affected by this risk
+
+* [Urban populations in areas where invasive mosquito species are spreading](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1063.md)
+
+## Stakeholders who can mitigate this risk
+
+* [Local government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_310.md)
+* [Public health officials](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_307.md)
+* [Vector control agencies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1064.md)
+
+## Technologies linked to the risk
+
+* [Larvicide treatments](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
+* [Mosquito traps and surveillance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_977.md)
+* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_976.md)
+
+## This Risk belongs to this RiskGroup
+
+* [Public health risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_3.md)
+
+## This Risk belongs to this RiskSubgroup
+
+* [Poor vector-borne diseases control](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_6.md)
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_0.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_3.md)
+
+## Type of the risk
+
+* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskType
+
+* [Environmental](https://github.com/mm80843/T3.5/blob/pages/RiskType/PBN__RiskType_0.md)
+

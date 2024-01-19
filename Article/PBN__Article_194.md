@@ -1,0 +1,67 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/pages/docs/Article/index.md) >> Individual ID:PBN__Article_194 
+
+# __COVID19: Small and medium enterprises challenges and responses with creativity, innovation, and entrepreneurship__
+
+## Benefits listed in this article
+
+* [Business liquidity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_711.md)
+* [Financial relief](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_946.md)
+* [Industry recovery](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_34.md)
+* [New business opportunities](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_945.md)
+* [Supply chain resilience](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_947.md)
+
+## DOI of the article
+
+10.1002/jsc.2399
+
+## List of risks in an article
+
+* [Disruption of supply chains](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2149.md)
+* [Economic instability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_91.md)
+* [Job losses](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2002.md)
+* [Reduced consumer spending](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1123.md)
+* [Spread of covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2148.md)
+
+## Referenced by other articles
+
+* [Startups in times of crisis – A rapid response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_158.md)
+
+## Short summary of the article
+
+This research abstract discusses the impact of the COVID-19 pandemic on businesses, particularly small and medium-sized enterprises (SMEs). The pandemic has led to economic instability and changes in consumer behavior, with value and convenience becoming important factors in purchasing decisions. SMEs in sectors such as retail, hospitality, food services, entertainment, and construction have been hit hardest by the pandemic. Resilience is highlighted as a key concept in entrepreneurial crisis management, involving the ability to adapt and innovate. The resilience of SMEs is influenced by government support and public policy. The abstract also discusses the impact of COVID-19 on specific industries, such as sports, travel, and tourism. The importance of creativity, innovation, and entrepreneurship in responding to the crisis is emphasized, along with the need for a supportive entrepreneurial ecosystem. Recommendations for future research are provided, including the need to study the impact of specific policy responses on SME resilience and entrepreneurial capabilities. The abstract concludes by highlighting the importance of government interventions in revitalizing the entrepreneurial ecosystem.
+
+## Summary of the article
+
+The COVID-19 pandemic has caused a lot of chaos around the world. To stop the spread of the virus, many countries had to close down businesses and people had to stay away from each other. This has had a big impact on the economy and on how people behave. Many small businesses, like restaurants and hotels, have been hit the hardest. To survive this difficult time, entrepreneurs need to be resilient and come up with creative and innovative ideas. The government also plays a role in supporting small businesses. Resilience is important because it helps businesses adapt to changes and find new opportunities. The pandemic has shown that businesses need to be able to change and find new ways of doing things. It's also important for the government to support small businesses and create an environment where they can thrive.
+
+## This article mentions these technologies
+
+* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_343.md)
+* [Diagnostic testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_695.md)
+* [Digital marketing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1693.md)
+* [Digital payment systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_134.md)
+* [E-commerce platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1691.md)
+* [Financial aid programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_906.md)
+* [Job placement platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_637.md)
+* [Local sourcing networks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_694.md)
+* [Online training courses](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
+* [Remote work technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_634.md)
+* [Supply chain management software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1692.md)
+
+## This article points to following mitigation
+
+* [Face masks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_427.md)
+* [Lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4935.md)
+* [Remote work](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3699.md)
+* [Sanitization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4051.md)
+* [Testing and tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_832.md)
+
+## Title of the article
+
+COVID19: Small and medium enterprises challenges and responses with creativity, innovation, and entrepreneurship
+
+## Year of publication
+
+2021
+

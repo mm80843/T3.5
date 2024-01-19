@@ -1,0 +1,83 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_1448 
+
+# __New green space designs__
+
+## Articles mentionning the risk
+
+* [The Impact of COVID-19 on Public Space: A Review of the Emerging Questions](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_261.md)
+
+## Category to which it belongs
+
+* [Urban areas suffer from a scarcity of accessible and diverse green spaces, contributing to disparities, inadequate quality, and decreased visitation, while also exacerbating health issues and environmental concerns.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_81.md)
+
+## Closest similar item
+
+* [Lack of access to green space](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_911.md)
+* [Lack of green space](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_533.md)
+* [Lack of green space diversity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1295.md)
+* [Lack of green spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1042.md)
+* [Lack of green spaces in the built environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_142.md)
+* [Lack of proximity to green space](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2347.md)
+* [Limited access to green space](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1672.md)
+* [Neglected green space quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1040.md)
+* [New designs, uses, and practices for green spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1532.md)
+* [Poor quality of green space](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1282.md)
+
+## Description of the risk
+
+Need for new designs, uses, and practices in green spaces
+
+## Is the risk affecting GBN scales
+
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO_Scale/PBN__ISO_Scale_1.md)
+
+## Link between Blueprint and General ontology
+
+* [Space design](https://github.com/mm80843/T3.5/blob/pages/BP_Theme/PBN__BP_Theme_6.md)
+
+## Mitigations of this risk
+
+* [Design smaller, local green spaces and prioritize accessibility and biodiversity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1972.md)
+
+## Name of the risk
+
+Improved access to and utilization of green spaces
+
+## People affected by this risk
+
+* [General public](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_29.md)
+* [Urban residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_209.md)
+
+## Stakeholders who can mitigate this risk
+
+* [Landscape architects](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_125.md)
+* [Urban planners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_941.md)
+
+## Technologies linked to the risk
+
+* [Green space planning strategies and design guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_723.md)
+
+## This Risk belongs to this RiskGroup
+
+* [Environmental risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_7.md)
+
+## This Risk belongs to this RiskSubgroup
+
+* [Biodiversity and ecological impacts](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_38.md)
+
+## Type of impact of the risk (according to ISO37100)
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO_Purpose/PBN__ISO_Purpose_0.md)
+
+## Type of purpose of the risk (according to ISO37100)
+
+* [Social cohesion](https://github.com/mm80843/T3.5/blob/pages/ISO_Impact/PBN__ISO_Impact_5.md)
+
+## Type of the risk
+
+* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskType
+
+* [Environmental](https://github.com/mm80843/T3.5/blob/pages/RiskType/PBN__RiskType_0.md)
+

@@ -1,0 +1,37 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_4538 
+
+# __Lack of access to recreation facilities__
+
+## Articles mentionning the risk
+
+* [Asfour_housing_2022](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_398.md)
+
+## Mitigations of this risk
+
+* [Provide safe and accessible recreation facilities within the community](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_6412.md)
+
+## Name of the risk
+
+Increased likelihood of residents seeking recreation in crowded public spaces
+
+## People affected by this risk
+
+* [Community residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_525.md)
+* [Especially families and individuals seeking recreation](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_3813.md)
+
+## Stakeholders who can mitigate this risk
+
+* [Community management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_3814.md)
+
+## Technologies linked to the risk
+
+* [Reservation systems and outdoor space management tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_5515.md)
+
+## This Risk belongs to this RiskGroup
+
+* [Economic risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_5.md)
+
+## This Risk belongs to this RiskSubgroup
+
+* [Supply chain disruptions](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_8.md)
+

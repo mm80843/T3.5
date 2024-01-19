@@ -1,0 +1,33 @@
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/pages/docs/Risk/index.md) >> Individual ID:PBN__Risk_619 
+
+# __Shortcomings in peer review process__
+
+## Category to which it belongs
+
+* [Interoperability challenges, high costs, limited communication, and lack of resources impact various sectors globally.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_72.md)
+
+## Closest similar item
+
+* [Failure to judge the magnitude of the problem](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2306.md)
+* [Inadequate reporting and method quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1506.md)
+* [Lack of credibility](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1530.md)
+* [Lack of evidence-informed decision-making](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2392.md)
+* [Lack of information transparency](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2754.md)
+* [Lack of reporting](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2620.md)
+* [Lack of timely information and evidence](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_393.md)
+* [Misinformed decisions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_421.md)
+* [Misleading peer-reviewed publications](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2739.md)
+* [Peer-review failures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_658.md)
+
+## Mitigations of this risk
+
+* [Transparency and accountability in peer review](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_857.md)
+
+## This Risk belongs to this RiskGroup
+
+* [Data privacy and security risks](https://github.com/mm80843/T3.5/blob/pages/RiskGroup/PBN__RiskGroup_4.md)
+
+## This Risk belongs to this RiskSubgroup
+
+* [Transparency and accountability issues](https://github.com/mm80843/T3.5/blob/pages/RiskSubgroup/PBN__RiskSubgroup_82.md)
+
