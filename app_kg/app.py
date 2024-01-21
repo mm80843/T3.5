@@ -3,6 +3,11 @@ import os, json
 from zipfile import ZipFile
 from owlready2 import *
 
+README = """# Required
+* setup.sh helps to load files in the folder
+* onto.zip -- for loading the KG
+* order.json -- for label orders
+"""
 
 st.set_page_config(layout="wide")
 
@@ -24,10 +29,7 @@ def readOnto():
     st.write("Ontology loaded")
     return onto
 
-README = """# Required
-* RDF file (zipped for size) -- for loading the KG
-* order.json -- for label orders
-"""
+
 
 onto = readOnto()
 
