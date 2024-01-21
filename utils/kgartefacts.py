@@ -1,8 +1,8 @@
 import pandas as pd
-import os
+import os, json
+
 from owlready2 import *
 
-import owlready2
 
 
 def getNameLabel(x):
