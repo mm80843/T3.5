@@ -16,20 +16,20 @@ st.write(st.__version__)
 
 @st.cache_resource
 def readOnto():
-    if not os.path.isfile("onto.owl"):
-        if os.path.isfile("onto.zip"):
-            pathZip = "onto.zip"
+    if not os.path.isfile("data/onto.owl"):
+        if os.path.isfile("data/onto.zip"):
+            pathZip = "data/onto.zip"
         else:
             pathZip = "../rdf/work/currentWIP/WIP_w_SPARQL.zip"
         st.write("Creating the ontology")
         with ZipFile(pathZip) as myzip:
             print(myzip.namelist())
-            m = myzip.extract(myzip.namelist()[0], path="./")
-        os.rename(m,"onto.owl")
-    onto = get_ontology("onto.owl").load()
-    st.write("Ontology loaded")
+            m = myzip.extract(myzip.namelist()[0], path="data/")
+        os.rename(m,"data/onto.owl")
+    onto = get_ontology("data/onto.owl").load()
+    st.sidebar.write("Ontology loaded")
 
-    with open("order.json", "r") as f:
+    with open("data/order.json", "r") as f:
         orderedJson = json.loads(f.read())
 
     return onto, orderedJson
@@ -42,9 +42,9 @@ PARAMS = st.query_params.to_dict()
 
 
 if ("category" in PARAMS) and ("id" in PARAMS):
-    st.write("Object detected")
     md = c.createPage(onto,PARAMS["category"],PARAMS["id"],orderedJson)
     st.write(md)
-st.write(PARAMS)
+elif ("category" in PARAMS) and not ("id" in PARAMS):
+    md = c.createIndex(onto,PARAMS["category"])
+    st.write(md)
 
-st.write("[link](?test=TESTVAL)")

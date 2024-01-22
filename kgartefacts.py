@@ -13,12 +13,34 @@ def getNameLabel(x):
     return b
 
 
-def createPage(onto,obj,uid,orderedJson):
+def createIndex(onto,K):
+    HOME = "https://pbn-t3-5.streamlit.app/"
+    k = eval("onto."+K)
+    print(K)
+    IDX = "[Source]("+HOME+")"
+    IDX += "\n\n# "+str(K)+" -- "+str(len(k.instances()))+ " instances.\n\n"
+    BB = list(k.instances())
+    BB = [x for x in BB if x.label]
+    BB.sort(key=lambda x: x.label[0].lower())
+    for i in BB: 
+        I = str(i).split(".")[-1]
 
+        II = "_".join(I.split("PBN__")[1].split("_")[:-1])
+        N = I.split("_")[-1]
+        A = i.label[0]
+        if K == "Article":
+            A = " ".join(list(set(A.split(" ")))).replace("nan","").strip()
+        if "Nan" not in A:
+            if "----" not in A:
+                IDX += "* ["+A+"]("+HOME+"?category="+K+"&id="+str(N)+")\n" 
+    return IDX
+
+def createPage(onto,obj,uid,orderedJson):
+    HOME = "https://pbn-t3-5.streamlit.app/"
     K = obj
     i = eval("onto.PBN__"+obj+"_"+str(uid))
     print("onto.PBN__"+obj+"_"+str(uid),i)
-    MD = "[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: ["+K+"](https://github.com/mm80843/T3.5/tree/pages/docs/"+K+"/index.md)"+" >> Individual ID:"+str(uid)+" \n\n"
+    MD = "[Home]("+HOME+") >> Class: ["+K+"]("+HOME+"?category="+K+")"+" >> Individual ID:"+str(uid)+" \n\n"
 
     if i.label:
         MD += "\n\n# "+i.label[0]+"\n\n"
@@ -57,6 +79,7 @@ def createPage(onto,obj,uid,orderedJson):
                         B = [x.label[0] for x in OB]
                         #B.sort(key=lambda x: getNameLabel(x))
                         C = zip(A, B)
+                        C = sorted(C, key = lambda x: x[0])
                         #print("C",list(C))
                         for c in C:
                             if c[1] not in ["None","Nan"]:
