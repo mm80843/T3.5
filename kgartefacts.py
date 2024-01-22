@@ -85,11 +85,27 @@ def createPage(onto,obj,uid,orderedJson):
                             if c[1] not in ["None","Nan"]:
                                 N = c[0][5:].split("_")[-1]
                                 cat = "_".join(c[0][5:].split("_")[:-1])
-                                linetoadd = "* ["+c[1]+"](?category="+cat+"&id="+str(N)+")\n"
+                                linetoadd = "* ["+c[1]+"]("+HOME+"?category="+cat+"&id="+str(N)+")\n"
                                 MD += linetoadd
                         MD += "\n" 
         elif prop.startswith("# "):
             MD += "\n\n#"+prop+"\n\n"
         else:
-            print("Unseen category")
+            print("Unseen category",prop,"for",obj,"(uid",uid,")")
     return MD
+
+def createMainIndex(onto):
+    IDX = ""
+    IDX += "# Welcome on T3.5 knowledge graph explorer\n\n"
+    IDX += "References to the original work is [there on github](https://github.com/mm80843/T3.5)\n\n"
+
+    HOME = "https://pbn-t3-5.streamlit.app/"
+    BB = list(onto.classes())
+    BB.sort(key=lambda x: str(x).lower())
+    for k in BB:
+        if len(k.instances()):
+            MM = str(k).split(".")[-1]
+            if (not MM == "RiskMitigation") and (not MM == "PBNThing"):
+                IDX += "* _["+MM+"]("+HOME+"?category="+MM+")_ -- "+str(len(k.instances()))+ " instances.\n"
+
+    return IDX

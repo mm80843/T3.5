@@ -12,7 +12,7 @@ README = """# Required
 
 st.set_page_config(layout="wide")
 
-st.write(st.__version__)
+st.sidebar.write("ST version: "+str(st.__version__))
 
 @st.cache_resource
 def readOnto():
@@ -38,6 +38,7 @@ def readOnto():
 
 onto, orderedJson = readOnto()
 
+st.sidebar.write("Onto version:",onto.metadata.comment[13])
 PARAMS = st.query_params.to_dict()
 
 
@@ -47,4 +48,6 @@ if ("category" in PARAMS) and ("id" in PARAMS):
 elif ("category" in PARAMS) and not ("id" in PARAMS):
     md = c.createIndex(onto,PARAMS["category"])
     st.write(md)
-
+else:
+    md = c.createMainIndex(onto)
+    st.write(md)
