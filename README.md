@@ -53,8 +53,8 @@ We hope that releasing the knowledge graph under an open-source license (CC BY-N
 This repository branch contains:
 * A [zipped knowledge graph](rdf/pbn_t3_5.zip)
   * [Support materials](rdf/support/)
-  * [Examples of work](rdf/work/currentWIP/02.Add_RisksAssessments.ipynb) on the knowledge graph
-  * Example of [SPARQL queries](rdf/work/currentWIP/04.Add_Classification_Step2.ipynb)
+  * [Examples of work](rdf/work/work_on_0.3/02.Add_RisksAssessments.ipynb) on the knowledge graph
+  * Example of [SPARQL queries](rdf/work/work_on_0.3/04.Add_Classification_Step2.ipynb)
 * Helper tools to
   * [manage the knowledge graph](utils/rdfutils.py)
   * [work with LLMs](utils/llm.py)
