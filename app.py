@@ -20,7 +20,7 @@ def readOnto():
         if os.path.isfile("data/onto.zip"):
             pathZip = "data/onto.zip"
         else:
-            pathZip = "../rdf/work/currentWIP/WIP_w_SPARQL.zip"
+            pathZip = "../rdf/pbn_t3_5.owl.zip"
         st.write("Creating the ontology")
         with ZipFile(pathZip) as myzip:
             print(myzip.namelist())
