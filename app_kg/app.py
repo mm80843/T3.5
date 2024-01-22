@@ -33,7 +33,7 @@ def readOnto():
         orderedJson = json.loads(f.read())
 
     return onto, orderedJson
-
+ 
 
 
 onto, orderedJson = readOnto()
