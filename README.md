@@ -48,16 +48,27 @@ We hope that releasing the knowledge graph under an open-source license (CC BY-N
 
 #### Materials produced
 
-This repository contains:
+##### This branch
+
+This repository branch contains:
 * A [zipped knowledge graph](rdf/pbn_t3_5.zip)
-  * [Support materials](/rdf/support/)
-  * [Examples of work](/rdf/work/currentWIP/02.Add_RisksAssessments.ipynb) on the knowledge graph
-  * Example of [SPARQL queries](/rdf/work/currentWIP/04.Add_Classification_Step2.ipynb)
+  * [Support materials](rdf/support/)
+  * [Examples of work](rdf/work/currentWIP/02.Add_RisksAssessments.ipynb) on the knowledge graph
+  * Example of [SPARQL queries](rdf/work/currentWIP/04.Add_Classification_Step2.ipynb)
 * Helper tools to
-  * [manage the knowledge graph](/utils/rdfutils.py)
-  * [work with LLMs](/utils/llm.py)
-* Tools to [process data](/bok/data/) from a body of knowledge
-* A [technical note](/documentation/article/T3_5.pdf) describing the work
+  * [manage the knowledge graph](utils/rdfutils.py)
+  * [work with LLMs](utils/llm.py)
+* Tools to [process data](bok/data/) from a body of knowledge
+* A [technical note](documentation/article/T3_5.pdf) describing the work
+
+##### App
+
+Streamlit site [lives here](pbn-t3-5.streamlit.app) online -- source code [there](https://github.com/mm80843/T3.5/tree/app).
+
+##### Static pages
+
+Static pages [live here](https://github.com/mm80843/T3.5/tree/main/docs).
+
 
 ### Next steps
 

@@ -1,10 +1,17 @@
 # TODOs
-.
 
-  
+
+### 20240122
+
+* [ ] City Anatomy Mapping
+* [ ] ISO Mapping for risks
+* [ ] ISO Mapping for blueprints
+* [ ] Synonyms
+* [ ] Solving top-x grouping with synonyms
+
 ### 20231223
 
-* [ ] Add a "to-remove" class
+* [L] Add a "to-remove" class
 * [x] Add risks families
 * [x] Add stakeholders families
 * [x] Add technologies families
@@ -24,7 +31,7 @@
   * [x] KG."Simplify" --> KG -> KG
   * [x] KG."Modularize" --> KG -> (KG,KG)
   * [x] KG."Aggregate"  --> (KG,KG) -> KG
-* [ ] Update the technical note on KG - updated.
+* [x] Update the technical note on KG - updated.
 * [ ] Update graph of the technical note.
 * [ ] Do a new release
 

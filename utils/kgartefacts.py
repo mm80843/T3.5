@@ -13,12 +13,34 @@ def getNameLabel(x):
     return b
 
 
-def createPage(onto,obj,uid,orderedJson):
+def createIndex(onto,K):
+    HOME = "https://pbn-t3-5.streamlit.app/"
+    k = eval("onto."+K)
+    print(K)
+    IDX = "[Source]("+HOME+")"
+    IDX += "\n\n# "+str(K)+" -- "+str(len(k.instances()))+ " instances.\n\n"
+    BB = list(k.instances())
+    BB = [x for x in BB if x.label]
+    BB.sort(key=lambda x: x.label[0].lower())
+    for i in BB: 
+        I = str(i).split(".")[-1]
 
+        II = "_".join(I.split("PBN__")[1].split("_")[:-1])
+        N = I.split("_")[-1]
+        A = i.label[0]
+        if K == "Article":
+            A = " ".join(list(set(A.split(" ")))).replace("nan","").strip()
+        if "Nan" not in A:
+            if "----" not in A:
+                IDX += "* ["+A+"]("+HOME+"?category="+K+"&id="+str(N)+")\n" 
+    return IDX
+
+def createPage(onto,obj,uid,orderedJson):
+    HOME = "https://pbn-t3-5.streamlit.app/"
     K = obj
     i = eval("onto.PBN__"+obj+"_"+str(uid))
     print("onto.PBN__"+obj+"_"+str(uid),i)
-    MD = "[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: ["+K+"](https://github.com/mm80843/T3.5/tree/pages/docs/"+K+"/index.md)"+" >> Individual ID:"+str(uid)+" \n\n"
+    MD = "[Home]("+HOME+") >> Class: ["+K+"]("+HOME+"?category="+K+")"+" >> Individual ID:"+str(uid)+" \n\n"
 
     if i.label:
         MD += "\n\n# "+i.label[0]+"\n\n"
@@ -57,17 +79,33 @@ def createPage(onto,obj,uid,orderedJson):
                         B = [x.label[0] for x in OB]
                         #B.sort(key=lambda x: getNameLabel(x))
                         C = zip(A, B)
-                        C = sorted(C, key = lambda x: x[1])
+                        C = sorted(C, key = lambda x: x[0])
                         #print("C",list(C))
                         for c in C:
                             if c[1] not in ["None","Nan"]:
                                 N = c[0][5:].split("_")[-1]
                                 cat = "_".join(c[0][5:].split("_")[:-1])
-                                linetoadd = "* ["+c[1]+"](?category="+cat+"&id="+str(N)+")\n"
+                                linetoadd = "* ["+c[1]+"]("+HOME+"?category="+cat+"&id="+str(N)+")\n"
                                 MD += linetoadd
                         MD += "\n" 
         elif prop.startswith("# "):
             MD += "\n\n#"+prop+"\n\n"
         else:
-            print("Unseen category")
+            print("Unseen category",prop,"for",obj,"(uid",uid,")")
     return MD
+
+def createMainIndex(onto):
+    IDX = ""
+    IDX += "# Welcome on T3.5 knowledge graph explorer\n\n"
+    IDX += "References to the original work is [there on github](https://github.com/mm80843/T3.5)\n\n"
+
+    HOME = "https://pbn-t3-5.streamlit.app/"
+    BB = list(onto.classes())
+    BB.sort(key=lambda x: str(x).lower())
+    for k in BB:
+        if len(k.instances()):
+            MM = str(k).split(".")[-1]
+            if (not MM == "RiskMitigation") and (not MM == "PBNThing"):
+                IDX += "* _["+MM+"]("+HOME+"?category="+MM+")_ -- "+str(len(k.instances()))+ " instances.\n"
+
+    return IDX
