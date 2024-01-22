@@ -40,6 +40,13 @@ def checkOnto(path,debug = True):
                                 print("* ","pbn_t3_5."+str(I)+"."+str(P),": ",eval(OBJ))
 
 
+def cOnto(onto):
+    print("\n# Overview\n")
+    for k in onto.classes():
+        if len(k.instances()):
+            print("* ","_"+str(k).split(".")[-1]+"_"," -- ",len(k.instances()), "instances.")
+
+
 
 def getNameLabel(x):
     try :
@@ -113,17 +120,18 @@ def checkComments(onto):
         print("ID:",k,"\t",onto.metadata.comment[k])
     return onto.metadata.comment
 
-def createDict(onto):
+def createDict(onto,debug=False):
     dIDct = {}
     for C in onto.classes():
         CLASS = str(C).split(".")[-1]
-        print(CLASS)
+        if debug:
+            print(CLASS)
         dIDct[CLASS] = {} 
         for k in C.instances():
             try:
-                dIDct[CLASS][k.label[0]] = int(str(k).split(".")[-1].split("_")[-1])
+                dIDct[CLASS][k.label[0].strip().capitalize()] = int(str(k).split(".")[-1].split("_")[-1])
             except:
-                dIDct[CLASS][str(k)] = int(str(k).split(".")[-1].split("_")[-1])
+                dIDct[CLASS][str(k).strip().capitalize()] = int(str(k).split(".")[-1].split("_")[-1])
     return dIDct
 
 

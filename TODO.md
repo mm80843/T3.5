@@ -3,6 +3,10 @@
 
 ### 20240122
 
+* [ ] Rerun classification ([Step1](rdf/work/work_on_0.3/04.Add_Classification_Step1.ipynb) & [Step2](rdf/work/work_on_0.3/04.Add_Classification_Step2.ipynb))
+* [ ] Add Articles to groups
+* [ ] Missing orders in [orders.json](rdf/support/order.json)
+* [ ] Missing labels for relations
 * [ ] City Anatomy Mapping
 * [ ] ISO Mapping for risks
 * [ ] ISO Mapping for blueprints
