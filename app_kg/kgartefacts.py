@@ -57,7 +57,6 @@ def createPage(onto,obj,uid,orderedJson):
                         B = [x.label[0] for x in OB]
                         #B.sort(key=lambda x: getNameLabel(x))
                         C = zip(A, B)
-                        C = sorted(C, key = lambda x: x[1])
                         #print("C",list(C))
                         for c in C:
                             if c[1] not in ["None","Nan"]:

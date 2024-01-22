@@ -1,6 +1,7 @@
 import streamlit as st
 import os, json
 from zipfile import ZipFile
+import kgartefacts as c
 from owlready2 import *
 
 README = """# Required
@@ -27,15 +28,23 @@ def readOnto():
         os.rename(m,"onto.owl")
     onto = get_ontology("onto.owl").load()
     st.write("Ontology loaded")
-    return onto
+
+    with open("order.json", "r") as f:
+        orderedJson = json.loads(f.read())
+
+    return onto, orderedJson
 
 
 
-onto = readOnto()
+onto, orderedJson = readOnto()
 
 PARAMS = st.query_params.to_dict()
 
 
+if ("category" in PARAMS) and ("id" in PARAMS):
+    st.write("Object detected")
+    md = c.createPage(onto,PARAMS["category"],PARAMS["id"],orderedJson)
+    st.write(md)
 st.write(PARAMS)
 
 st.write("[link](?test=TESTVAL)")
