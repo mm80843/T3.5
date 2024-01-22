@@ -3,6 +3,8 @@ import os, json
 
 from owlready2 import *
 
+from dotenv import load_dotenv
+
 
 
 def getNameLabel(x):
@@ -14,7 +16,13 @@ def getNameLabel(x):
 
 
 def createIndex(onto,K):
-    HOME = "https://pbn-t3-5.streamlit.app/"
+    load_dotenv()
+    location = os.getenv('WHERE')
+    if location:
+        HOME = ""
+    else:
+        HOME = "https://pbn-t3-5.streamlit.app/"
+
     k = eval("onto."+K)
     print(K)
     IDX = "[Source]("+HOME+")"
@@ -36,7 +44,13 @@ def createIndex(onto,K):
     return IDX
 
 def createPage(onto,obj,uid,orderedJson):
-    HOME = "https://pbn-t3-5.streamlit.app/"
+    load_dotenv()
+    location = os.getenv('WHERE')
+    if location:
+        HOME = ""
+    else:
+        HOME = "https://pbn-t3-5.streamlit.app/"
+
     K = obj
     i = eval("onto.PBN__"+obj+"_"+str(uid))
     print("onto.PBN__"+obj+"_"+str(uid),i)
@@ -70,6 +84,7 @@ def createPage(onto,obj,uid,orderedJson):
                     else:
                         # Named properties
                         MD += "### "+str(p.label[0])+"\n\n"
+                        print("Property without a label:",prop,"for",obj,"(uid",uid,")")
                 
                     if type(E) is str:
                         # Only one thing to print
@@ -91,7 +106,7 @@ def createPage(onto,obj,uid,orderedJson):
         elif prop.startswith("# "):
             MD += "\n\n#"+prop+"\n\n"
         else:
-            print("Unseen category",prop,"for",obj,"(uid",uid,")")
+            print("Property not in order.json:",prop,"for",obj,"(uid",uid,")")
     return MD
 
 def createMainIndex(onto):
@@ -99,7 +114,13 @@ def createMainIndex(onto):
     IDX += "# Welcome on T3.5 knowledge graph explorer\n\n"
     IDX += "References to the original work is [there on github](https://github.com/mm80843/T3.5)\n\n"
 
-    HOME = "https://pbn-t3-5.streamlit.app/"
+    load_dotenv()
+    location = os.getenv('WHERE')
+    if location:
+        HOME = ""
+    else:
+        HOME = "https://pbn-t3-5.streamlit.app/"
+        
     BB = list(onto.classes())
     BB.sort(key=lambda x: str(x).lower())
     for k in BB:
