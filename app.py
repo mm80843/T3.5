@@ -17,10 +17,7 @@ st.sidebar.write("ST version: "+str(st.__version__))
 @st.cache_resource
 def readOnto():
     if not os.path.isfile("data/onto.owl"):
-        if os.path.isfile("data/onto.zip"):
-            pathZip = "data/onto.zip"
-        else:
-            pathZip = "../rdf/pbn_t3_5.owl.zip"
+        pathZip = "data/onto.zip"
         st.write("Creating the ontology")
         with ZipFile(pathZip) as myzip:
             print(myzip.namelist())

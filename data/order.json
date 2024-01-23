@@ -181,39 +181,25 @@
       "has_ArticleLLMSummary"
    ],
    "Risk": [
-
-      "# Description",
-      "has_RiskName",
-      "has_RiskDescription",
       "has_RiskMitigation",
+      "has_Closest",
       "has_BPLink",
-
-      "# People",
-      "has_RiskOwner",
+      "has_RiskISO_Impact",
       "has_RiskSubject",
-
-      "# Technology",
+      "has_RiskName",
       "has_RiskTechnology",
       "label",
       "has_RiskSource",
-
-      "# Classification",
-      "has_RiskGroup",
       "has_RiskSubgroup",
-      "has_Category",
-
-      "# ISO",
-      "has_RiskISOScale",
-      "has_RiskISO_Impact",
-      "has_RiskISO_Purpose",
-
-      "# Other",
+      "has_RiskGroup",
+      "has_RiskOwner",
+      "has_RiskDescription",
       "has_RiskHealth",
+      "has_RiskISOScale",
+      "has_Category",
       "has_RiskType",
-      "has_RiskBP",
-
-      "# Closest",
-      "has_Closest"
+      "has_RiskISO_Purpose",
+      "has_RiskBP"
    ],
    "ISO_Scale": [
       "has_ISOScaleRisk",
@@ -227,24 +213,24 @@
       "label"
    ],
    "Stakeholder": [
-      "# Presentation",
-      "has_OwnerRisk",
-
-      "has_Category",
       "label",
-
-      "has_SubjectRisk",
-      "has_BenefitForPeople",
-      "has_GroupStakeholder",
+      "has_StakeholderGroup",
+      "has_StakeholderSubgroup",
+      "has_Category",
+      "has_StakeholderType",
+      "# Links to blueprints",
       "has_OwnerBlueprint",
       "has_SubjectBlueprint",
-      "has_StakeholderGroup",
-      "has_StakeholderType",
+      "# Links to risks",
+      "has_OwnerRisk",
+      "has_SubjectRisk",
+      "has_BenefitForPeople",
+      "# To check:",
+      "has_GroupStakeholder",
       "has_SubgroupStakeholder",
-      "has_StakeholderSubgroup",
-
-      "# Closest",
       "has_Closest"
+
+
    ],
    "Stakeholder_Type": [
       "label",
@@ -342,43 +328,34 @@
       "label"
    ],
    "Blueprint": [
-      "# Context",
-      "has_BPTitle",
       "has_BPDescription",
-      "has_BlueprintSummary",
       "has_BPValueProposition",
       "has_BPContext",
-      "has_BlueprintDetails",
-      "has_BPReason",
-      "has_BlueprintBenef",
-      "label",
-
-      "# People",
-      "has_BlueprintOwner",
-      "has_BlueprintSubject",
-
-      "# Mitigation",
-      "has_BlueprintTechnology",
-      "has_BPRisk",
-      "has_BlueprintMigitation",
-      "has_BPEnabler",
-      "has_BPIntervention",
-
-      "# Properties",
       "has_BPDemonstrated",
       "has_BPScale",
+      "has_BlueprintOwner",
+      "label",
+      "has_BlueprintSubject",
+      "has_BPRisk",
+      "has_BlueprintDetails",
+      "has_BPEnabler",
+      "has_BlueprintTechnology",
+      "has_BlueprintMigitation",
+      "has_BPPermanent",
+      "has_BPTitle",
+      "has_BPRestriction",
+      "has_BPType",
       "has_BPProblem",
       "has_BPMitig",
       "has_BPCategory",
-      "has_BPPermanent",
-      "has_BPRestriction",
-      "has_BPType",
+      "has_BlueprintSummary",
       "has_BPPhase",
       "has_BPCapabilities",
-      "has_BPTransmission"
-
+      "has_BPIntervention",
+      "has_BlueprintBenef",
+      "has_BPTransmission",
+      "has_BPReason"
    ],
-
    "BP_Scale":        [
       "has_ScaleBP",
       "label"
