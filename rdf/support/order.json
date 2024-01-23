@@ -213,19 +213,24 @@
       "label"
    ],
    "Stakeholder": [
-      "has_OwnerRisk",
-      "has_Closest",
-      "has_Category",
       "label",
+      "has_StakeholderGroup",
       "has_StakeholderSubgroup",
-      "has_SubjectRisk",
-      "has_BenefitForPeople",
-      "has_GroupStakeholder",
-      "has_SubgroupStakeholder",
+      "has_Category",
+      "has_StakeholderType",
+      "# Links to blueprints",
       "has_OwnerBlueprint",
       "has_SubjectBlueprint",
-      "has_StakeholderType",
-      "has_StakeholderGroup"
+      "# Links to risks",
+      "has_OwnerRisk",
+      "has_SubjectRisk",
+      "has_BenefitForPeople",
+      "# To check:",
+      "has_GroupStakeholder",
+      "has_SubgroupStakeholder",
+      "has_Closest"
+
+
    ],
    "Stakeholder_Type": [
       "label",

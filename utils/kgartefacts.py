@@ -68,6 +68,7 @@ def createPage(onto,obj,uid,orderedJson):
     for prop in orderedJson[K]:
 
         if prop in a:
+            a.remove(prop)
             p = eval("onto."+prop)
             P = prop
             #print(prop,P)
@@ -107,6 +108,44 @@ def createPage(onto,obj,uid,orderedJson):
             MD += "\n\n#"+prop+"\n\n"
         else:
             print("Property not in order.json:",prop,"for",obj,"(uid",uid,")")
+    if len(a):
+        MD += "\n\n#Other properties\n\n"
+        for prop in a:
+            p = eval("onto."+prop)
+            P = prop
+            #print(prop,P)
+            OBJ = "onto."+str(i.name)+"."+str(P)
+            OB = eval(OBJ) # OBJ is the way to get the list of label of the object
+            E = eval(OBJ)[0] # Getting first
+            if not (OB == [onto.nan]):
+                if not P == "label":
+                    #print("P",P,p)
+                    # Label of the property
+                    if not p.label:
+                        # Unnamed properties
+                        MD += "### Property: "+P+"\n\n"
+                    else:
+                        # Named properties
+                        MD += "### "+str(p.label[0])+"\n\n"
+                        print("Property without a label:",prop,"for",obj,"(uid",uid,")")
+                
+                    if type(E) is str:
+                        # Only one thing to print
+                        MD += E + "\n\n"
+                    else:
+                        A = [x.get_name() for x in OB]
+                        B = [x.label[0] for x in OB]
+                        #B.sort(key=lambda x: getNameLabel(x))
+                        C = zip(A, B)
+                        C = sorted(C, key = lambda x: x[0])
+                        #print("C",list(C))
+                        for c in C:
+                            if c[1] not in ["None","Nan"]:
+                                N = c[0][5:].split("_")[-1]
+                                cat = "_".join(c[0][5:].split("_")[:-1])
+                                linetoadd = "* ["+c[1]+"]("+HOME+"?category="+cat+"&id="+str(N)+")\n"
+                                MD += linetoadd
+                        MD += "\n" 
     return MD
 
 def createMainIndex(onto):
