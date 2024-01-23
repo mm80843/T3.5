@@ -37,10 +37,7 @@ def createIndex(onto,K):
         N = I.split("_")[-1]
         A = i.label[0]
         if K == "Article":
-            A = " ".join(list(set(A.split(" ")))).replace("nan","").strip()
-        if "Nan" not in A:
-            if "----" not in A:
-                IDX += "* ["+A+"]("+HOME+"?category="+K+"&id="+str(N)+")\n" 
+            IDX += "* ["+A+"]("+HOME+"?category="+K+"&id="+str(N)+")\n" 
     return IDX
 
 def createPage(onto,obj,uid,orderedJson):
@@ -109,7 +106,7 @@ def createPage(onto,obj,uid,orderedJson):
         else:
             print("Property not in order.json:",prop,"for",obj,"(uid",uid,")")
     if len(a):
-        MD += "\n\n#Other properties\n\n"
+        MD += "\n\n# Other properties\n\n"
         for prop in a:
             p = eval("onto."+prop)
             P = prop
