@@ -12,6 +12,7 @@
 * [ ] ISO Mapping for blueprints
 * [ ] Synonyms
 * [ ] Solving top-x grouping with synonyms
+* [ ] Destroy all relationships when starting Step1
 
 ### 20231223
 
