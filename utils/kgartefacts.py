@@ -71,6 +71,7 @@ def createPage(onto,obj,uid,orderedJson):
             OBJ = "onto."+str(i.name)+"."+str(P)
             OB = eval(OBJ) # OBJ is the way to get the list of label of the object
             E = eval(OBJ)[0] # Getting first
+            propType = eval("onto."+str(P))
             if not (OB == [onto.nan]):
                 if not P == "label":
                     #print("P",P,p)
@@ -84,9 +85,14 @@ def createPage(onto,obj,uid,orderedJson):
                         # Named properties
                         MD += "### "+str(p.label[0])+"\n\n"
                         
-                    if type(E) is str:
+                    if propType.get_range() == [str]:
                         # Only one thing to print
-                        MD += E + "\n\n"
+                        # @TODO check if p is data_property : DataProperty
+                        #MD += "\n\n"+str(eval(OBJ))+"\n\n"
+                        MD += "\n"
+                        for strItem in OB:
+                            MD += "* "+strItem+"\n"
+                        MD += "\n"
                     else:
                         A = [x.get_name() for x in OB]
                         B = [x.label[0] for x in OB]
@@ -114,6 +120,7 @@ def createPage(onto,obj,uid,orderedJson):
             OBJ = "onto."+str(i.name)+"."+str(P)
             OB = eval(OBJ) # OBJ is the way to get the list of label of the object
             E = eval(OBJ)[0] # Getting first
+            propType = eval("onto."+str(P))
             if not (OB == [onto.nan]):
                 if not P == "label":
                     #print("P",P,p)
@@ -127,9 +134,14 @@ def createPage(onto,obj,uid,orderedJson):
                         # Named properties
                         MD += "### "+str(p.label[0])+"\n\n"
                         
-                    if type(E) is str:
+                    if propType.get_range() == [str]:
                         # Only one thing to print
-                        MD += E + "\n\n"
+                        # @TODO check if p is data_property : DataProperty
+                        #MD += "\n\n"+str(eval(OBJ))+"\n\n"
+                        MD += "\n"
+                        for strItem in OB:
+                            MD += "* "+strItem+"\n"
+                        MD += "\n"
                     else:
                         A = [x.get_name() for x in OB]
                         B = [x.label[0] for x in OB]
