@@ -7,12 +7,30 @@
 * [ ] Add Articles to groups
 * [ ] Missing orders in [orders.json](rdf/support/order.json)
 * [ ] Missing labels for relations
-* [ ] City Anatomy Mapping
-* [ ] ISO Mapping for risks
-* [ ] ISO Mapping for blueprints
-* [ ] Synonyms
+* [x] City Anatomy Mapping
+* [ ] ISO Mapping (scale impact purpose) for risks groups
+* [ ] ISO Mapping (scale impact purpose) for blueprints
 * [ ] Solving top-x grouping with synonyms
 * [ ] Destroy all relationships when starting Step1
+
+#### To check
+
+- [ ] Property not in order.json: has_StakeholderGroup_RiskGroup_Subject for StakeholderGroup (uid 3 )
+- [ ] Property not in order.json: has_StakeholderGroup_RiskGroup_Owner for StakeholderGroup (uid 3 )
+- [ ] Property not in order.json: has_StakeholderGroup_RiskSubgroup_Subject for StakeholderSubgroup (uid 3 )
+- [ ] Property not in order.json: has_StakeholderGroup_RiskSubgroup_Owner for StakeholderSubgroup (uid 3 )
+
+- [ ] Property without a label: has_TechGroup_StakeholderSubgroup for TechGroup (uid 3 )
+
+- Stuff to categorize
+  - Mitig -->
+  - Risk -->
+  - People -->
+  - Tech --> 
+- String:
+  - List for the groups and subgroups
+
+- Article: missing people at risk and owners
 
 ### 20231223
 
