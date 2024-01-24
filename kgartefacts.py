@@ -36,8 +36,7 @@ def createIndex(onto,K):
         II = "_".join(I.split("PBN__")[1].split("_")[:-1])
         N = I.split("_")[-1]
         A = i.label[0]
-        if K == "Article":
-            IDX += "* ["+A+"]("+HOME+"?category="+K+"&id="+str(N)+")\n" 
+        IDX += "* ["+A+"]("+HOME+"?category="+K+"&id="+str(N)+")\n" 
     return IDX
 
 def createPage(onto,obj,uid,orderedJson):
@@ -79,11 +78,12 @@ def createPage(onto,obj,uid,orderedJson):
                     if not p.label:
                         # Unnamed properties
                         MD += "### Property: "+P+"\n\n"
+                        print("Property without a label:",prop,"for",obj,"(uid",uid,")")
+                
                     else:
                         # Named properties
                         MD += "### "+str(p.label[0])+"\n\n"
-                        print("Property without a label:",prop,"for",obj,"(uid",uid,")")
-                
+                        
                     if type(E) is str:
                         # Only one thing to print
                         MD += E + "\n\n"
@@ -121,11 +121,12 @@ def createPage(onto,obj,uid,orderedJson):
                     if not p.label:
                         # Unnamed properties
                         MD += "### Property: "+P+"\n\n"
+                        print("Property without a label:",prop,"for",obj,"(uid",uid,")")
+                
                     else:
                         # Named properties
                         MD += "### "+str(p.label[0])+"\n\n"
-                        print("Property without a label:",prop,"for",obj,"(uid",uid,")")
-                
+                        
                     if type(E) is str:
                         # Only one thing to print
                         MD += E + "\n\n"

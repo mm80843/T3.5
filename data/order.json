@@ -168,17 +168,20 @@
       "has_BenefReturn"
    ],
    "Article": [
-      "has_ArticleLLMShortSummary",
-      "has_SourceMitigation",
-      "has_ArticleDOI",
-      "label",
-      "has_ArticleRef",
-      "has_RiskInArticle",
+      "# Article overview",
       "has_ArticleTitle",
-      "has_BenefInArticle",
-      "has_SourceTech",
+      "has_ArticleLLMSummary",
+      "has_ArticleLLMShortSummary",
       "has_ArticleYear",
-      "has_ArticleLLMSummary"
+      "has_ArticleDOI",
+      "has_ArticleRef",
+      "label",
+      "# Details",
+      "has_BenefInArticle",
+      "has_RiskInArticle",
+      "has_SourceTech",
+      "has_SourceMitigation"
+
    ],
    "Risk": [
       "has_RiskMitigation",
@@ -260,13 +263,19 @@
       "has_Impact_RiskISO"
    ],
    "StakeholderGroup": [
-      "has_StakeholderGroup_TechGroup",
-      "has_StakeholderGroup_BPIntervention",
-      "label",
-      "has_GroupStakeholder",
+
+      "# Risks",
       "has_StakeholderGroup_RiskGroup_Subject",
       "has_StakeholderGroup_RiskGroup_Owner",
-      "has_StakeholderGroup_TechSubgroup"
+      "# Intervention",
+      "has_StakeholderGroup_BPIntervention",
+      "label",
+      "# Techs",
+      "has_StakeholderGroup_TechGroup",
+      "has_StakeholderGroup_TechSubgroup",
+      "# List of stakeholders",
+      "has_GroupStakeholder"
+
    ],
    "StakeholderSubgroup": [
       "has_StakeholderSubgroup_RiskGroup_Owner",
@@ -298,18 +307,26 @@
       "has_TechSubgroup_StakeholderSubgroup"
    ],
    "Mitigation": [
-      "has_Closest",
-      "has_MitigationSource",
+      "# Mitigation overview",
+      "has_MitigationPrinciple",
+      "has_MitigationRisk",
+      "# Details",
+      "has_MitigationBenefit",
+      "has_MitigationTechnology",
       "has_MitigIntervention",
-      "label",
+      "has_MitigationSource",
+      "has_Category",
+      "# Blueprints",
       "has_MigitationBlueprint",
       "has_MitigBP",
       "has_BPLink",
-      "has_MitigationPrinciple",
-      "has_MitigationBenefit",
-      "has_Category",
-      "has_MitigationRisk",
-      "has_MitigationTechnology"
+
+      "label",
+
+ 
+
+      "# Other",
+      "has_Closest"
    ],
    "BP_Enabler": [
       "# What",
