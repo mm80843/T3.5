@@ -1,4 +1,5 @@
-rm onto*
-cp ../../rdf/work/work_on_0.3/WIP_w_SPARQL.zip ./onto.zip
+cp ../../rdf/prod/pbn_t3_5_simple.owl ./onto.owl
+cp ../../rdf/pbn_t3_5.owl.zip ./full.zip
 cp ../../rdf/support/order.json ./order.json
 cp ../../utils/kgartefacts.py ../kgartefacts.py
+zip onto onto.owl
