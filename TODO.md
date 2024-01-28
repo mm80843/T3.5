@@ -3,16 +3,20 @@
 * [ ] TODO
 * [x] DONE
 * [L] Later
+### 20240128
+
+* [ ] Reroute articles with 'nan' to reroute to good articles like https://pbn-t3-5.streamlit.app/?category=Article&id=304
+* [ ] ISO Mapping (scale impact purpose) for risks groups
+* [ ] ISO Mapping (scale impact purpose) for blueprints
+* [ ] App links in same tab : `st.markdown('<a href="/?key=value" target="_self">View all</a>',unsafe_allow_html=True)`
 
 ### 20240122
 
 * [x] Rerun classification ([Step1](rdf/work/work_on_0.3/04.Add_Classification_Step1.ipynb) & [Step2](rdf/work/work_on_0.3/04.Add_Classification_Step2.ipynb))
 * [x] Add Articles to groups
-* [ ] Missing orders in [orders.json](rdf/support/order.json) (check from logs from streamlit app)
-* [ ] Missing labels for relations (check from logs from streamlit app)
+* [x] Missing orders in [orders.json](rdf/support/order.json) (check from logs from streamlit app)
+* [x] Missing labels for relations (check from logs from streamlit app)
 * [x] City Anatomy Mapping
-* [ ] ISO Mapping (scale impact purpose) for risks groups
-* [ ] ISO Mapping (scale impact purpose) for blueprints
 * [L] Solving top-x grouping with synonyms
 * [L] Destroy all relationships when starting Step2
 * [x] Clean up Stakeholders (appearing in subgroups)
