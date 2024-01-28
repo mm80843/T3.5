@@ -27,17 +27,47 @@ def createIndex(onto,K):
     print(K)
     IDX = "[Source]("+HOME+")"
     IDX += "\n\n# "+str(K)+" -- "+str(len(k.instances()))+ " instances.\n\n"
-    BB = list(k.instances())
-    BB = [x for x in BB if x.label]
-    BB.sort(key=lambda x: x.label[0].lower())
-    for i in BB: 
-        I = str(i).split(".")[-1]
+    if "Subgroup" in K:
+        subindex = dict()
+        for w in list(k.instances()):
+            try:
+                SPACE = K.replace("Subgroup","")
+                GROUP =  "w.has_Subgroup"+SPACE+"[0].has_"+SPACE+"Group[0].name"
+                GROUP = eval(GROUP)
+                SUBGROUP = w.name
+                if GROUP not in subindex.keys():
+                    subindex[GROUP] = []
+                subindex[GROUP].append(SUBGROUP)
+            except:
+                print("Error with",k)
+                pass
+        for GR in subindex.keys():
+            G = str(GR)
+            n = G.split("_")[-1]
+            c = G.replace("_"+str(n),"")[4:]
+            #print(G,"==>",GR)
+            m = eval("onto."+G+".label[0]")
+            #print(m)
+            IDX += ("\n### ["+m+"]("+HOME+"?category="+c+"&id="+n+")")
+            for items in subindex[GR]:
+                s = str(items)
+                n = s.split("_")[-1]
+                c = s.replace("_"+str(n),"")[4:]
+                IDX += ("\n* ["+eval("onto."+items+".label[0]")+"]("+HOME+"?category="+c+"&id="+n+")")
+    else:
 
-        II = "_".join(I.split("PBN__")[1].split("_")[:-1])
-        N = I.split("_")[-1]
-        A = i.label[0]
-        IDX += "* ["+A+"]("+HOME+"?category="+K+"&id="+str(N)+")\n" 
+        BB = list(k.instances())
+        BB = [x for x in BB if x.label]
+        BB.sort(key=lambda x: x.label[0].lower())
+        for i in BB: 
+            I = str(i).split(".")[-1]
+
+            II = "_".join(I.split("PBN__")[1].split("_")[:-1])
+            N = I.split("_")[-1]
+            A = i.label[0]
+            IDX += "* ["+A+"]("+HOME+"?category="+K+"&id="+str(N)+")\n" 
     return IDX
+
 
 def createPage(onto,obj,uid,orderedJson):
     load_dotenv()
@@ -60,7 +90,7 @@ def createPage(onto,obj,uid,orderedJson):
     A = list(i.get_properties())
     a = [str(x).split(".")[-1] for x in A]
 
-
+    
     for prop in orderedJson[K]:
 
         if prop in a:
@@ -110,10 +140,12 @@ def createPage(onto,obj,uid,orderedJson):
         elif prop.startswith("# "):
             MD += "\n\n#"+prop+"\n\n"
         else:
-            print("Property not in order.json:",prop,"for",obj,"(uid",uid,")")
+            print("Property not used:",prop,"for",obj,"(uid",uid,")")
+
     if len(a):
         MD += "\n\n# Other properties\n\n"
         for prop in a:
+            print("Missing in order.json:",a)
             p = eval("onto."+prop)
             P = prop
             #print(prop,P)

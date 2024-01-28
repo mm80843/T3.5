@@ -7,21 +7,21 @@
          xmlns="https://github.com/mm80843/T3.5/raw/main/pbn_t3_5.owl#">
 
 <owl:Ontology rdf:about="https://github.com/mm80843/T3.5/raw/main/pbn_t3_5.owl">
-  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Author: Luc Jonveaux</rdfs:comment>
-  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Creation: 30/10/2023</rdfs:comment>
-  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">License: CC BY-NC-SA</rdfs:comment>
-  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Language: English</rdfs:comment>
-  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Version: 0.2.2</rdfs:comment>
-  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Project: PROBONO</rdfs:comment>
-  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Task: T3.5</rdfs:comment>
-  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Library: owlready2==0.40</rdfs:comment>
   <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Description: Creation of a knowledge graph based on a litterature review, augmented by use of LLMs.</rdfs:comment>
-  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Changes from: 0.0</rdfs:comment>
-  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Changes: Creation of the knowledge graph</rdfs:comment>
-  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Changes from: 0.1</rdfs:comment>
-  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Changes: Adding relations, simplified ontology, closest items, and descriptions</rdfs:comment>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Version: 0.4</rdfs:comment>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Library: owlready2==0.45</rdfs:comment>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Changes from: 0.3</rdfs:comment>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Next: Check formulas for selecting most repeated items in groups</rdfs:comment>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Creation: 22/01/2024</rdfs:comment>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TODOs: Adding synonyms and solving classification with synonyms</rdfs:comment>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VersionComment: Grouping of items added in 0.4</rdfs:comment>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Project: PROBONO</rdfs:comment>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Next: Linking benefits to mitigations groups</rdfs:comment>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">License: CC BY-NC-SA</rdfs:comment>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Task: T3.5</rdfs:comment>
   <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Repository: https://github.com/mm80843/T3.5/</rdfs:comment>
-  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TODOs: Quite a number! Creating metaRisks, making it accessible..</rdfs:comment>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Author: Luc Jonveaux</rdfs:comment>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Language: English</rdfs:comment>
   <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">limited to blueprints</rdfs:comment>
 </owl:Ontology>
 
@@ -29,24 +29,6 @@
   <rdfs:domain rdf:resource="#PBNThing"/>
   <rdfs:range rdf:resource="#PBNThing"/>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Closest similar item</rdfs:label>
-</owl:ObjectProperty>
-
-<owl:ObjectProperty rdf:about="#has_Qid_isInstanceOf">
-  <rdfs:domain rdf:resource="#Qid"/>
-  <rdfs:range rdf:resource="#Qid"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Instance of</rdfs:label>
-</owl:ObjectProperty>
-
-<owl:ObjectProperty rdf:about="#has_Qid_isSubclassOf">
-  <rdfs:domain rdf:resource="#Qid"/>
-  <rdfs:range rdf:resource="#Qid"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">is a subclass of</rdfs:label>
-</owl:ObjectProperty>
-
-<owl:ObjectProperty rdf:about="#has_Qid_isPartOf">
-  <rdfs:domain rdf:resource="#Qid"/>
-  <rdfs:range rdf:resource="#Qid"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Is part of</rdfs:label>
 </owl:ObjectProperty>
 
 <owl:ObjectProperty rdf:about="#has_ReturnBenef">
@@ -79,18 +61,6 @@
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Articles mentionning this Benefit</rdfs:label>
 </owl:ObjectProperty>
 
-<owl:ObjectProperty rdf:about="#has_ImpactRisk">
-  <rdfs:domain rdf:resource="#RiskImpact"/>
-  <owl:inverseOf rdf:resource="#has_RiskImpact"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">This impact is shared by risks</rdfs:label>
-</owl:ObjectProperty>
-
-<owl:ObjectProperty rdf:about="#has_RiskImpact">
-  <rdfs:range rdf:resource="#RiskImpact"/>
-  <owl:inverseOf rdf:resource="#has_ImpactRisk"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">This risk has the following impacts</rdfs:label>
-</owl:ObjectProperty>
-
 <owl:ObjectProperty rdf:about="#has_ISOScaleRisk">
   <owl:inverseOf rdf:resource="#has_RiskISOScale"/>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Risks affecting (or not) GBNs</rdfs:label>
@@ -102,13 +72,11 @@
 </owl:ObjectProperty>
 
 <owl:ObjectProperty rdf:about="#has_MitigationRisk">
-  <rdfs:domain rdf:resource="#RiskMitigation"/>
   <owl:inverseOf rdf:resource="#has_RiskMitigation"/>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Risks possibly mitigated by this Mitigation</rdfs:label>
 </owl:ObjectProperty>
 
 <owl:ObjectProperty rdf:about="#has_RiskMitigation">
-  <rdfs:range rdf:resource="#RiskMitigation"/>
   <owl:inverseOf rdf:resource="#has_MitigationRisk"/>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mitigations of this risk</rdfs:label>
 </owl:ObjectProperty>
@@ -175,18 +143,6 @@
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">People affected by this risk</rdfs:label>
 </owl:ObjectProperty>
 
-<owl:ObjectProperty rdf:about="#has_IDStakeholder">
-  <rdfs:domain rdf:resource="#Qid"/>
-  <owl:inverseOf rdf:resource="#has_StakeholderID"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The ID links to the following Stakeholders</rdfs:label>
-</owl:ObjectProperty>
-
-<owl:ObjectProperty rdf:about="#has_StakeholderID">
-  <rdfs:range rdf:resource="#Qid"/>
-  <owl:inverseOf rdf:resource="#has_IDStakeholder"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">This Stakeholder is identified by the following QID</rdfs:label>
-</owl:ObjectProperty>
-
 <owl:ObjectProperty rdf:about="#has_TechnologyRisk">
   <owl:inverseOf rdf:resource="#has_RiskTechnology"/>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Risks linked to this technology</rdfs:label>
@@ -195,18 +151,6 @@
 <owl:ObjectProperty rdf:about="#has_RiskTechnology">
   <owl:inverseOf rdf:resource="#has_TechnologyRisk"/>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Technologies linked to the risk</rdfs:label>
-</owl:ObjectProperty>
-
-<owl:ObjectProperty rdf:about="#has_IDTechnology">
-  <rdfs:domain rdf:resource="#Qid"/>
-  <owl:inverseOf rdf:resource="#has_TechnologyID"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The ID links to the following Technologies</rdfs:label>
-</owl:ObjectProperty>
-
-<owl:ObjectProperty rdf:about="#has_TechnologyID">
-  <rdfs:range rdf:resource="#Qid"/>
-  <owl:inverseOf rdf:resource="#has_IDTechnology"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">This Technology is identified by the following QID</rdfs:label>
 </owl:ObjectProperty>
 
 <owl:ObjectProperty rdf:about="#has_Impact_RiskISO">
@@ -229,32 +173,6 @@
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Type of purpose of the risk (according to ISO37100)</rdfs:label>
 </owl:ObjectProperty>
 
-<owl:ObjectProperty rdf:about="#has_FamilyMitigation">
-  <rdfs:domain rdf:resource="#MitigationFamily"/>
-  <rdfs:range rdf:resource="#RiskMitigation"/>
-  <owl:inverseOf rdf:resource="#has_MitigationFamily"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The mitigation family contains the following mitigations</rdfs:label>
-</owl:ObjectProperty>
-
-<owl:ObjectProperty rdf:about="#has_MitigationFamily">
-  <rdfs:domain rdf:resource="#RiskMitigation"/>
-  <rdfs:range rdf:resource="#MitigationFamily"/>
-  <owl:inverseOf rdf:resource="#has_FamilyMitigation"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The mitigation belongs to the following family</rdfs:label>
-</owl:ObjectProperty>
-
-<owl:ObjectProperty rdf:about="#has_FamilyImpact">
-  <rdfs:domain rdf:resource="#RiskImpactFamily"/>
-  <rdfs:range rdf:resource="#RiskImpact"/>
-  <owl:inverseOf rdf:resource="#has_ImpactFamily"/>
-</owl:ObjectProperty>
-
-<owl:ObjectProperty rdf:about="#has_ImpactFamily">
-  <rdfs:domain rdf:resource="#RiskImpact"/>
-  <rdfs:range rdf:resource="#RiskImpactFamily"/>
-  <owl:inverseOf rdf:resource="#has_FamilyImpact"/>
-</owl:ObjectProperty>
-
 <owl:ObjectProperty rdf:about="#has_GroupStakeholder">
   <owl:inverseOf rdf:resource="#has_StakeholderGroup"/>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stakeholders in this stakeholder group</rdfs:label>
@@ -262,7 +180,7 @@
 
 <owl:ObjectProperty rdf:about="#has_StakeholderGroup">
   <owl:inverseOf rdf:resource="#has_GroupStakeholder"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">This Stakeholder belongs to this StakeholderGroup</rdfs:label>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">This Stakeholder belongs to this Stakeholder Group</rdfs:label>
 </owl:ObjectProperty>
 
 <owl:ObjectProperty rdf:about="#has_SubgroupStakeholder">
@@ -272,7 +190,7 @@
 
 <owl:ObjectProperty rdf:about="#has_StakeholderSubgroup">
   <owl:inverseOf rdf:resource="#has_SubgroupStakeholder"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">This Stakeholder belongs to this StakeholderSubgroup</rdfs:label>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">This Stakeholder belongs to this Stakeholder Subgroup</rdfs:label>
 </owl:ObjectProperty>
 
 <owl:ObjectProperty rdf:about="#has_GroupTech">
@@ -452,21 +370,6 @@
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Possible mitigations of the BP</rdfs:label>
 </owl:ObjectProperty>
 
-<owl:ObjectProperty rdf:about="#has_BP_Theme">
-  <rdfs:domain rdf:resource="#BP_Category"/>
-  <rdfs:range rdf:resource="#BP_Theme"/>
-</owl:ObjectProperty>
-
-<owl:ObjectProperty rdf:about="#has_BP_Intervention">
-  <rdfs:domain rdf:resource="#BP_Theme"/>
-  <rdfs:range rdf:resource="#BP_Intervention"/>
-</owl:ObjectProperty>
-
-<owl:ObjectProperty rdf:about="#has_BP_Enabler">
-  <rdfs:domain rdf:resource="#BP_Intervention"/>
-  <rdfs:range rdf:resource="#BP_Enabler"/>
-</owl:ObjectProperty>
-
 <owl:ObjectProperty rdf:about="#has_SourceTech">
   <owl:inverseOf rdf:resource="#has_TechSource"/>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">This article mentions these technologies</rdfs:label>
@@ -495,68 +398,352 @@
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Link between Blueprint and General ontology</rdfs:label>
 </owl:ObjectProperty>
 
-<owl:ObjectProperty rdf:about="#has_TechCloseEnabler">
-  <rdfs:range rdf:resource="#BP_Enabler"/>
-  <owl:inverseOf rdf:resource="#has_EnablerCloseTech"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Enablers similar to this technology</rdfs:label>
-</owl:ObjectProperty>
-
-<owl:ObjectProperty rdf:about="#has_EnablerCloseTech">
-  <rdfs:domain rdf:resource="#BP_Enabler"/>
-  <owl:inverseOf rdf:resource="#has_TechCloseEnabler"/>
-  <owl:propertyChainAxiom>
-    <rdf:Description>
-      <rdf:first rdf:resource="#has_TechEquivalent"/>
-      <rdf:rest>
-        <rdf:Description>
-          <rdf:first rdf:resource="#has_Closest"/>
-          <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
-        </rdf:Description>
-      </rdf:rest>
-    </rdf:Description>
-  </owl:propertyChainAxiom>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Enabler's technical equivalent has closest</rdfs:label>
-</owl:ObjectProperty>
-
-<owl:ObjectProperty rdf:about="#has_CategoryBP_PC">
-  <rdfs:range rdf:resource="#Blueprint"/>
-  <owl:inverseOf rdf:resource="#has_BPInterventionPC"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Enablers similar to this technology</rdfs:label>
-</owl:ObjectProperty>
-
-<owl:ObjectProperty rdf:about="#has_BPInterventionPC">
+<owl:ObjectProperty rdf:about="#has_BPCategory">
   <rdfs:domain rdf:resource="#Blueprint"/>
-  <owl:inverseOf rdf:resource="#has_CategoryBP_PC"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mitigation: Blueprint's interventions categories (property chain)</rdfs:label>
+  <owl:inverseOf rdf:resource="#has_CategoryBP"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Blueprints points to this category of risks</rdfs:label>
 </owl:ObjectProperty>
 
-<owl:DatatypeProperty rdf:about="#has_Qid_alias">
-  <rdfs:domain rdf:resource="#Qid"/>
-  <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Description of the QID</rdfs:label>
-</owl:DatatypeProperty>
+<owl:ObjectProperty rdf:about="#has_CategoryBP">
+  <rdfs:range rdf:resource="#Blueprint"/>
+  <owl:inverseOf rdf:resource="#has_BPCategory"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Category links to the following 'general blueprint(s)'</rdfs:label>
+</owl:ObjectProperty>
 
-<owl:DatatypeProperty rdf:about="#has_Qid_Desc">
-  <rdfs:domain rdf:resource="#Qid"/>
-  <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wikidata description</rdfs:label>
-</owl:DatatypeProperty>
+<owl:ObjectProperty rdf:about="#has_BlueprintSubject">
+  <rdfs:domain rdf:resource="#Blueprint"/>
+  <owl:inverseOf rdf:resource="#has_SubjectBlueprint"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Blueprint impacts these stakeholders</rdfs:label>
+</owl:ObjectProperty>
 
-<owl:DatatypeProperty rdf:about="#has_Qid_Aliases">
-  <rdfs:domain rdf:resource="#Qid"/>
-  <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wikidata aliases</rdfs:label>
-</owl:DatatypeProperty>
+<owl:ObjectProperty rdf:about="#has_SubjectBlueprint">
+  <rdfs:range rdf:resource="#Blueprint"/>
+  <owl:inverseOf rdf:resource="#has_BlueprintSubject"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">These stakeholders can be supported by the following general blueprint(s)</rdfs:label>
+</owl:ObjectProperty>
 
-<owl:DatatypeProperty rdf:about="#has_Qid_WikidataURL">
-  <rdfs:domain rdf:resource="#Qid"/>
-  <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">URL to wikidata object</rdfs:label>
-</owl:DatatypeProperty>
+<owl:ObjectProperty rdf:about="#has_BlueprintOwner">
+  <rdfs:domain rdf:resource="#Blueprint"/>
+  <owl:inverseOf rdf:resource="#has_OwnerBlueprint"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Blueprint mitigation can be owned by these stakeholders</rdfs:label>
+</owl:ObjectProperty>
 
-<owl:DatatypeProperty rdf:about="#has_BenefTitle">
-  <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
-</owl:DatatypeProperty>
+<owl:ObjectProperty rdf:about="#has_OwnerBlueprint">
+  <rdfs:range rdf:resource="#Blueprint"/>
+  <owl:inverseOf rdf:resource="#has_BlueprintOwner"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">This stakeholders can act on the following general blueprint(s)</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_BlueprintMigitation">
+  <rdfs:domain rdf:resource="#Blueprint"/>
+  <owl:inverseOf rdf:resource="#has_MigitationBlueprint"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Blueprint links to these mitigations</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_MigitationBlueprint">
+  <rdfs:range rdf:resource="#Blueprint"/>
+  <owl:inverseOf rdf:resource="#has_BlueprintMigitation"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">This mitigation is used in the following general blueprint(s)</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_BlueprintTechnology">
+  <rdfs:domain rdf:resource="#Blueprint"/>
+  <owl:inverseOf rdf:resource="#has_TechnologyBlueprint"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Blueprint links to these technology</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_TechnologyBlueprint">
+  <rdfs:range rdf:resource="#Blueprint"/>
+  <owl:inverseOf rdf:resource="#has_BlueprintTechnology"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">This technology is used in the following general blueprint(s)</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_BlueprintBenef">
+  <rdfs:domain rdf:resource="#Blueprint"/>
+  <owl:inverseOf rdf:resource="#has_BenefBlueprint"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Blueprint links to these benefits</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_BenefBlueprint">
+  <rdfs:range rdf:resource="#Blueprint"/>
+  <owl:inverseOf rdf:resource="#has_BlueprintBenef"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">This benefit is realized in the following general blueprint(s)</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_GroupRisk">
+  <owl:inverseOf rdf:resource="#has_RiskGroup"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Risk in the RiskGroup</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_RiskGroup">
+  <owl:inverseOf rdf:resource="#has_GroupRisk"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">This Risk belongs to this RiskGroup</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_SubgroupRisk">
+  <owl:inverseOf rdf:resource="#has_RiskSubgroup"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Risks in this RiskSubgroup</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_RiskSubgroup">
+  <owl:inverseOf rdf:resource="#has_SubgroupRisk"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">This Risk belongs to this RiskSubgroup</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_MitigIntervention">
+  <rdfs:range rdf:resource="#BP_Intervention"/>
+  <owl:inverseOf rdf:resource="#has_InterventionMitig"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Main intervention linked to the Mitigation</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_InterventionMitig">
+  <rdfs:domain rdf:resource="#BP_Intervention"/>
+  <owl:inverseOf rdf:resource="#has_MitigIntervention"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mitigations linked to this intervention</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_categoryCAORisk">
+  <owl:inverseOf rdf:resource="#has_RiskCAOGroup"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Risks in the this CAO category</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_RiskCAOGroup">
+  <owl:inverseOf rdf:resource="#has_categoryCAORisk"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">This Risk belongs to this CAO group</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_SubcategoryCAORisk">
+  <owl:inverseOf rdf:resource="#has_RiskCAOSubgroup"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Risks in the this CAO subcategory</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_RiskCAOSubgroup">
+  <owl:inverseOf rdf:resource="#has_SubcategoryCAORisk"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">This Risk belongs to this CAO subgroup</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_RiskGroup_TechGroup">
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Technology groups captured in this risk group</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_RiskGroup_TechSubgroup">
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Technology subgroups captured in this risk group</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_RiskSubgroup_TechGroup">
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Technology groups captured in this risk subgroup</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_RiskSubgroup_TechSubgroup">
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Technology subgroups captured in this risk subgroup</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_RiskGroup_BPIntervention">
+  <rdfs:range rdf:resource="#BP_Intervention"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inteventions captured in this risk group</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_RiskSubgroup_BPIntervention">
+  <rdfs:range rdf:resource="#BP_Intervention"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inteventions captured in this risk subgroup</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_RiskGroup_OwnerGroup">
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">People groups who can act on this risk group</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_RiskGroup_OwnerSubgroup">
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">People subgroups who can act on this risk group</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_RiskSubgroup_OwnerGroup">
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">People groups who can act on this risk subgroup</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_RiskSubgroup_OwnerSubgroup">
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">People subgroups who can act on this risk subgroup</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_RiskGroup_SubjectGroup">
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">People groups who are subject to this risk group</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_RiskGroup_SubjectSubgroup">
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">People subgroups who are subject to this risk group</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_RiskSubgroup_SubjectGroup">
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">People groups who are subject to this risk subgroup</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_RiskSubgroup_SubjectSubgroup">
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">People subgroups who are subject to this risk subgroup</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_TechGroup_StakeholderGroup">
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">People groups who can use or are impacted by this technology group</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_TechGroup_StakeholderSubgroup"/>
+
+<owl:ObjectProperty rdf:about="#has_TechSubgroup_StakeholderGroup">
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">People groups who can use or are impacted by this technology subgroup</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_TechSubgroup_StakeholderSubgroup">
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">People subgroups who can use or are impacted by this technology subgroup</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_TechGroup_BPIntervention">
+  <rdfs:range rdf:resource="#BP_Intervention"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Interventions enabled by this technology group</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_TechSubgroup_BPIntervention">
+  <rdfs:range rdf:resource="#BP_Intervention"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Interventions enabled by this technology subgroup</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_TechGroup_RiskGroup">
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Risk groups that can be mitigated with this technology group</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_TechGroup_RiskSubgroup">
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Risk subgroups that can be mitigated with this technology group</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_TechSubgroup_RiskGroup">
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Risk groups that can be mitigated with this technology subgroup</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_TechSubgroup_RiskSubgroup">
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Risk subgroups that can be mitigated with this technology subgroup</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_StakeholderGroup_TechGroup">
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Technology groups that can be used this people group</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_StakeholderGroup_TechSubgroup">
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Technology subgroups that can be used this people group</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_StakeholderSubgroup_TechGroup">
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Technology groups that can be used this people subgroup</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_StakeholderSubgroup_TechSubgroup">
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Technology subgroups that can be used this people subgroup</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_StakeholderGroup_RiskGroup_Owner">
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Risk groups that can be mitigated by this people subgroup</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_StakeholderGroup_RiskSubgroup_Owner">
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Risk subgroups that can be mitigated by this people subgroup</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_StakeholderGroup_RiskGroup_Subject">
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Risk subgroups that can be mitigated by this people subgroup</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_StakeholderGroup_RiskSubgroup_Subject">
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Risk subgroups that can be mitigated by this people subgroup</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_StakeholderSubgroup_RiskGroup_Owner">
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Risk groups that can be mitigated by this people subgroup</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_StakeholderSubgroup_RiskSubgroup_Owner">
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Risk subgroups that can be mitigated by this people subgroup</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_StakeholderSubgroup_RiskGroup_Subject">
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Risk groups that can be impacted by this people subgroup</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_StakeholderSubgroup_RiskSubgroup_Subject">
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Risk subgroups that can be impacted by this people subgroup</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_StakeholderGroup_BPIntervention">
+  <rdfs:range rdf:resource="#BP_Intervention"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Interventions that can be lead by this people group</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_StakeholderSubgroup_BPIntervention">
+  <rdfs:range rdf:resource="#BP_Intervention"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Interventions that can be lead by this people subgroup</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_BPIntervention_RiskGroup">
+  <rdfs:domain rdf:resource="#BP_Intervention"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Risk groups that can be mitigated by this intervention</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_BPIntervention_RiskSubgroup">
+  <rdfs:domain rdf:resource="#BP_Intervention"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Risk subgroups that can be mitigated by this intervention</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_BPIntervention_TechGroup">
+  <rdfs:domain rdf:resource="#BP_Intervention"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Technology groups that can be used by this intervention</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_BPIntervention_TechSubgroup">
+  <rdfs:domain rdf:resource="#BP_Intervention"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Technologysub groups that can be used by this intervention</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_BPIntervention_StakeholderGroup">
+  <rdfs:domain rdf:resource="#BP_Intervention"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">People groups that can be supported by this intervention</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_BPIntervention_StakeholderSubgroup">
+  <rdfs:domain rdf:resource="#BP_Intervention"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">People subgroups that can be supported by this intervention</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_Article_RiskGroup">
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Risk groups covered by this article</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_Article_RiskSubgroup">
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Risks subgroups covered by this article</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_Article_StakeholderGroup">
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">People groups that can be supported by this article</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_Article_StakeholderSubgroup">
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">People subgroups that can be supported by this article</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_Article_CAO_Group">
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">City anatomy layer that can be covered in this article</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_Article_CAO_Subgroup">
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">City anatomy sublayer that can be covered in this article</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_Article_TechGroup">
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tech groups that can be supported by this article</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_Article_TechSubgroup">
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tech subgroups that can be supported by this article</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_Article_BPIntervention">
+  <rdfs:range rdf:resource="#BP_Intervention"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Interventions that can be covered in this article</rdfs:label>
+</owl:ObjectProperty>
 
 <owl:DatatypeProperty rdf:about="#has_BenefDetails">
   <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
@@ -571,10 +758,6 @@
 <owl:DatatypeProperty rdf:about="#has_RiskName">
   <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Name of the risk</rdfs:label>
-</owl:DatatypeProperty>
-
-<owl:DatatypeProperty rdf:about="#has_StakeholderName">
-  <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
 </owl:DatatypeProperty>
 
 <owl:DatatypeProperty rdf:about="#has_ArticleDOI">
@@ -600,10 +783,6 @@
 <owl:DatatypeProperty rdf:about="#has_ArticleLLMShortSummary">
   <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Short summary of the article</rdfs:label>
-</owl:DatatypeProperty>
-
-<owl:DatatypeProperty rdf:about="#has_MitigationScale">
-  <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
 </owl:DatatypeProperty>
 
 <owl:DatatypeProperty rdf:about="#has_MitigationPrinciple">
@@ -664,12 +843,6 @@
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Demonstration of the blueprint</rdfs:label>
 </owl:DatatypeProperty>
 
-<owl:DatatypeProperty rdf:about="#has_BPDT">
-  <rdfs:domain rdf:resource="#Blueprint"/>
-  <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Digital twin aspects of the blueprint</rdfs:label>
-</owl:DatatypeProperty>
-
 <owl:DatatypeProperty rdf:about="#has_BP_EnablerTitle">
   <rdfs:domain rdf:resource="#BP_Enabler"/>
   <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
@@ -695,29 +868,34 @@
   <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
 </owl:DatatypeProperty>
 
+<owl:DatatypeProperty rdf:about="#has_PBNCategoryTitle">
+  <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Title of the category</rdfs:label>
+</owl:DatatypeProperty>
+
+<owl:DatatypeProperty rdf:about="#has_BlueprintSummary">
+  <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Summary of the blueprint</rdfs:label>
+</owl:DatatypeProperty>
+
+<owl:DatatypeProperty rdf:about="#has_BlueprintDetails">
+  <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Details of the blueprint</rdfs:label>
+</owl:DatatypeProperty>
+
+<owl:DatatypeProperty rdf:about="#has_bibRef">
+  <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bibtex reference</rdfs:label>
+</owl:DatatypeProperty>
+
+<owl:DatatypeProperty rdf:about="#has_for_synonym">
+  <rdfs:domain rdf:resource="#PBNThing"/>
+  <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">synonyms for this element</rdfs:label>
+</owl:DatatypeProperty>
+
 <owl:Class rdf:about="#PBNThing">
   <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
-</owl:Class>
-
-<owl:Class rdf:about="#Qid">
-  <rdfs:subClassOf rdf:resource="#PBNThing"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wikidata identifier</rdfs:label>
-</owl:Class>
-
-<owl:Class rdf:about="#RiskImpact">
-  <rdfs:subClassOf rdf:resource="#PBNThing"/>
-</owl:Class>
-
-<owl:Class rdf:about="#RiskMitigation">
-  <rdfs:subClassOf rdf:resource="#PBNThing"/>
-</owl:Class>
-
-<owl:Class rdf:about="#MitigationFamily">
-  <rdfs:subClassOf rdf:resource="#PBNThing"/>
-</owl:Class>
-
-<owl:Class rdf:about="#RiskImpactFamily">
-  <rdfs:subClassOf rdf:resource="#PBNThing"/>
 </owl:Class>
 
 <owl:Class rdf:about="#BP_Enabler">
@@ -752,39 +930,46 @@
   <rdfs:subClassOf rdf:resource="#PBNThing"/>
 </owl:Class>
 
-<owl:Class rdf:about="#BP_Category">
-  <rdfs:subClassOf rdf:resource="#PBNThing"/>
-</owl:Class>
-
 <owl:Class rdf:about="#BP_Theme">
   <rdfs:subClassOf rdf:resource="#PBNThing"/>
 </owl:Class>
 
-<owl:Class rdf:about="#RiskISO">
+<owl:Class rdf:about="#BP_Category">
   <rdfs:subClassOf rdf:resource="#PBNThing"/>
 </owl:Class>
 
-<owl:Class rdf:about="#StakeholderGroup">
-  <rdfs:subClassOf rdf:resource="#PBNThing"/>
-</owl:Class>
-
-<owl:Class rdf:about="#StakeholderSubgroup">
-  <rdfs:subClassOf rdf:resource="#PBNThing"/>
-</owl:Class>
-
-<owl:Class rdf:about="#TechGroup">
-  <rdfs:subClassOf rdf:resource="#PBNThing"/>
-</owl:Class>
-
-<owl:Class rdf:about="#TechSubgroup">
-  <rdfs:subClassOf rdf:resource="#PBNThing"/>
-</owl:Class>
-
-<BP_Theme rdf:about="#PBN__BP_Theme_5">
+<BP_Enabler rdf:about="#PBN__BP_Enabler_24">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mental health</rdfs:label>
-  <has_BP_ThemeTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">theme_Mental_Health</has_BP_ThemeTitle>
-</BP_Theme>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_29"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_6"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_16"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_5"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_25"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_7"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_22"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_8"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_23"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_11"/>
+  <has_BP_EnablerTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enabler_025</has_BP_EnablerTitle>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Smart HVAC</rdfs:label>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Smart hvac</rdfs:label>
+</BP_Enabler>
+
+<BP_Enabler rdf:about="#PBN__BP_Enabler_31">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_1"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_22"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_12"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_20"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_3"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_21"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_19"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_18"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_11"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_23"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Digital signage</rdfs:label>
+  <has_BP_EnablerTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enabler_032</has_BP_EnablerTitle>
+</BP_Enabler>
 
 <BP_Intervention rdf:about="#PBN__BP_Intervention_38">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
@@ -793,42 +978,60 @@
   <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MI3</has_BP_InterventionKey>
 </BP_Intervention>
 
-<BP_Theme rdf:about="#PBN__BP_Theme_3">
+<BP_Intervention rdf:about="#PBN__BP_Intervention_29">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">User journey</rdfs:label>
-  <has_BP_ThemeTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">theme_User_journey</has_BP_ThemeTitle>
-</BP_Theme>
-
-<BP_Theme rdf:about="#PBN__BP_Theme_8">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Activities continuity</rdfs:label>
-  <has_BP_ThemeTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">theme_Activities_continuity</has_BP_ThemeTitle>
-</BP_Theme>
-
-<BP_Theme rdf:about="#PBN__BP_Theme_7">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Propagation monitoring</rdfs:label>
-  <has_BP_ThemeTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">theme_Propagation_monitoring</has_BP_ThemeTitle>
-</BP_Theme>
-
-<BP_Theme rdf:about="#PBN__BP_Theme_4">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">User behavior</rdfs:label>
-  <has_BP_ThemeTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">theme_User_behavior</has_BP_ThemeTitle>
-</BP_Theme>
-
-<BP_Intervention rdf:about="#PBN__BP_Intervention_27">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Improve physical health</rdfs:label>
-  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Improve physical health</has_BP_InterventionTitle>
-  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HM4</has_BP_InterventionKey>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Infection tracking / monitoring</rdfs:label>
+  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Infection tracking / monitoring</has_BP_InterventionTitle>
+  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MP1</has_BP_InterventionKey>
 </BP_Intervention>
 
-<BP_Intervention rdf:about="#PBN__BP_Intervention_14">
+<BP_Intervention rdf:about="#PBN__BP_Intervention_30">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wall and floors treatment</rdfs:label>
-  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wall and floors treatment</has_BP_InterventionTitle>
-  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PS3</has_BP_InterventionKey>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Quarantine support</rdfs:label>
+  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Quarantine support</has_BP_InterventionTitle>
+  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MP2</has_BP_InterventionKey>
+</BP_Intervention>
+
+<BP_Intervention rdf:about="#PBN__BP_Intervention_1">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Environmental parameters control</rdfs:label>
+  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Environmental parameters control</has_BP_InterventionTitle>
+  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PA2</has_BP_InterventionKey>
+</BP_Intervention>
+
+<BP_Intervention rdf:about="#PBN__BP_Intervention_33">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Support recovery of sectors via remote work</rdfs:label>
+  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Support recovery of sectors via remote work</has_BP_InterventionTitle>
+  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MC2</has_BP_InterventionKey>
+</BP_Intervention>
+
+<BP_Intervention rdf:about="#PBN__BP_Intervention_31">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Early detection</rdfs:label>
+  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Early detection</has_BP_InterventionTitle>
+  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MP3</has_BP_InterventionKey>
+</BP_Intervention>
+
+<BP_Intervention rdf:about="#PBN__BP_Intervention_37">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Facilitate transparent communication</rdfs:label>
+  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Facilitate transparent communication</has_BP_InterventionTitle>
+  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MI2</has_BP_InterventionKey>
+</BP_Intervention>
+
+<BP_Intervention rdf:about="#PBN__BP_Intervention_20">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Social distancing</rdfs:label>
+  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Social distancing</has_BP_InterventionTitle>
+  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HU1</has_BP_InterventionKey>
+</BP_Intervention>
+
+<BP_Intervention rdf:about="#PBN__BP_Intervention_9">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Maintenance / decontamination of building water sytems</rdfs:label>
+  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Maintenance / decontamination of building water sytems</has_BP_InterventionTitle>
+  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW2</has_BP_InterventionKey>
 </BP_Intervention>
 
 <BP_Intervention rdf:about="#PBN__BP_Intervention_21">
@@ -839,38 +1042,102 @@
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Personal hygiene eg handwashing</rdfs:label>
 </BP_Intervention>
 
-<BP_Intervention rdf:about="#PBN__BP_Intervention_30">
+<BP_Intervention rdf:about="#PBN__BP_Intervention_23">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Quarantine support</rdfs:label>
-  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Quarantine support</has_BP_InterventionTitle>
-  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MP2</has_BP_InterventionKey>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ensure use of personal protection equipment</rdfs:label>
+  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ensure use of personal protection equipment</has_BP_InterventionTitle>
+  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HU4</has_BP_InterventionKey>
 </BP_Intervention>
 
-<BP_Intervention rdf:about="#PBN__BP_Intervention_37">
+<BP_Intervention rdf:about="#PBN__BP_Intervention_22">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Facilitate transparent communication</rdfs:label>
-  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Facilitate transparent communication</has_BP_InterventionTitle>
-  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MI2</has_BP_InterventionKey>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Staff training / upskilling</rdfs:label>
+  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Staff training / upskilling</has_BP_InterventionTitle>
+  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HU3</has_BP_InterventionKey>
 </BP_Intervention>
 
-<BP_Intervention rdf:about="#PBN__BP_Intervention_36">
+<BP_Intervention rdf:about="#PBN__BP_Intervention_11">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Prevent fake news</rdfs:label>
-  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Prevent fake news</has_BP_InterventionTitle>
-  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MI1</has_BP_InterventionKey>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Greywater management</rdfs:label>
+  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Greywater management</has_BP_InterventionTitle>
+  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW4</has_BP_InterventionKey>
 </BP_Intervention>
 
-<BP_Theme rdf:about="#PBN__BP_Theme_1">
+<BP_Intervention rdf:about="#PBN__BP_Intervention_35">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Water quality</rdfs:label>
-  <has_BP_ThemeTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">theme_Water_Quality</has_BP_ThemeTitle>
-</BP_Theme>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Absorb surge in service demande</rdfs:label>
+  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Absorb surge in service demande</has_BP_InterventionTitle>
+  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MC4</has_BP_InterventionKey>
+</BP_Intervention>
 
-<BP_Intervention rdf:about="#PBN__BP_Intervention_29">
+<BP_Intervention rdf:about="#PBN__BP_Intervention_4">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Infection tracking / monitoring</rdfs:label>
-  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Infection tracking / monitoring</has_BP_InterventionTitle>
-  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MP1</has_BP_InterventionKey>
+  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Control airflows in spaces &amp; Avoid air recirculation</has_BP_InterventionTitle>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Control airflows in spaces &amp; Avoid air recirculation</rdfs:label>
+  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PA5</has_BP_InterventionKey>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Control airflows in spaces &amp; avoid air recirculation</rdfs:label>
+</BP_Intervention>
+
+<BP_Intervention rdf:about="#PBN__BP_Intervention_27">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Improve physical health</rdfs:label>
+  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Improve physical health</has_BP_InterventionTitle>
+  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HM4</has_BP_InterventionKey>
+</BP_Intervention>
+
+<BP_Intervention rdf:about="#PBN__BP_Intervention_26">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Social activities / facilitatie social interactions</rdfs:label>
+  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Social activities / facilitatie social interactions</has_BP_InterventionTitle>
+  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HM3</has_BP_InterventionKey>
+</BP_Intervention>
+
+<BP_Intervention rdf:about="#PBN__BP_Intervention_40">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Shift controls occupancy control of total users</rdfs:label>
+</BP_Intervention>
+
+<BP_Intervention rdf:about="#PBN__BP_Intervention_5">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Natural ventilation increase</rdfs:label>
+  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Natural ventilation increase</has_BP_InterventionTitle>
+  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PA6</has_BP_InterventionKey>
+</BP_Intervention>
+
+<BP_Intervention rdf:about="#PBN__BP_Intervention_43">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Personal hygiene eg handwashing</rdfs:label>
+</BP_Intervention>
+
+<BP_Intervention rdf:about="#PBN__BP_Intervention_42">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Occupancy control eg separating at/risk contaminated population</rdfs:label>
+</BP_Intervention>
+
+<BP_Intervention rdf:about="#PBN__BP_Intervention_39">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Promote verified information</rdfs:label>
+  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Promote verified information</has_BP_InterventionTitle>
+  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MI4</has_BP_InterventionKey>
+</BP_Intervention>
+
+<BP_Intervention rdf:about="#PBN__BP_Intervention_6">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Disinfection of air</rdfs:label>
+  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Disinfection of air</has_BP_InterventionTitle>
+  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PA7</has_BP_InterventionKey>
+</BP_Intervention>
+
+<BP_Intervention rdf:about="#PBN__BP_Intervention_0">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Use of smart/innovative air quality controls technology</rdfs:label>
+  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Use of smart/innovative air quality controls technology</has_BP_InterventionTitle>
+  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PA1</has_BP_InterventionKey>
+</BP_Intervention>
+
+<BP_Intervention rdf:about="#PBN__BP_Intervention_41">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cleaning technologies robots</rdfs:label>
 </BP_Intervention>
 
 <BP_Intervention rdf:about="#PBN__BP_Intervention_2">
@@ -880,32 +1147,37 @@
   <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PA3</has_BP_InterventionKey>
 </BP_Intervention>
 
-<BP_Theme rdf:about="#PBN__BP_Theme_0">
+<BP_Intervention rdf:about="#PBN__BP_Intervention_45">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Air quality</rdfs:label>
-  <has_BP_ThemeTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">theme_Air_Quality</has_BP_ThemeTitle>
-</BP_Theme>
-
-<BP_Intervention rdf:about="#PBN__BP_Intervention_1">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Environmental parameters control</rdfs:label>
-  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Environmental parameters control</has_BP_InterventionTitle>
-  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PA2</has_BP_InterventionKey>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Control of airflows airtight / negative pressure</rdfs:label>
 </BP_Intervention>
 
-<BP_Intervention rdf:about="#PBN__BP_Intervention_13">
+<BP_Intervention rdf:about="#PBN__BP_Intervention_34">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Touchless technologies</rdfs:label>
-  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Touchless technologies</has_BP_InterventionTitle>
-  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PS2</has_BP_InterventionKey>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Absorb resource shortages</rdfs:label>
+  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Absorb resource shortages</has_BP_InterventionTitle>
+  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MC3</has_BP_InterventionKey>
 </BP_Intervention>
 
-<BP_Intervention rdf:about="#PBN__BP_Intervention_12">
+<BP_Intervention rdf:about="#PBN__BP_Intervention_17">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cleaning technologies (robots)</has_BP_InterventionTitle>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cleaning technologies (robots)</rdfs:label>
-  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PS1</has_BP_InterventionKey>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cleaning technologies robots</rdfs:label>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Optimize users flows to prevent contamination</rdfs:label>
+  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Optimize users flows to prevent contamination</has_BP_InterventionTitle>
+  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HJ1</has_BP_InterventionKey>
+</BP_Intervention>
+
+<BP_Intervention rdf:about="#PBN__BP_Intervention_16">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Animal vectors control</rdfs:label>
+  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Animal vectors control</has_BP_InterventionTitle>
+  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PS5</has_BP_InterventionKey>
+</BP_Intervention>
+
+<BP_Intervention rdf:about="#PBN__BP_Intervention_32">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Minimize supply chain disruptions</rdfs:label>
+  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Minimize supply chain disruptions</has_BP_InterventionTitle>
+  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MC1</has_BP_InterventionKey>
 </BP_Intervention>
 
 <BP_Intervention rdf:about="#PBN__BP_Intervention_15">
@@ -922,19 +1194,22 @@
   <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HM1</has_BP_InterventionKey>
 </BP_Intervention>
 
-<BP_Intervention rdf:about="#PBN__BP_Intervention_25">
+<BP_Enabler rdf:about="#PBN__BP_Enabler_9">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Outdoor spaces</rdfs:label>
-  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Outdoor spaces</has_BP_InterventionTitle>
-  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HM2</has_BP_InterventionKey>
-</BP_Intervention>
-
-<BP_Intervention rdf:about="#PBN__BP_Intervention_0">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Use of smart/innovative air quality controls technology</rdfs:label>
-  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Use of smart/innovative air quality controls technology</has_BP_InterventionTitle>
-  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PA1</has_BP_InterventionKey>
-</BP_Intervention>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_2"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_20"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_5"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_1"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_4"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_3"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_0"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_10"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_17"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_23"/>
+  <has_BP_EnablerTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enabler_010</has_BP_EnablerTitle>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BigData</rdfs:label>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bigdata</rdfs:label>
+</BP_Enabler>
 
 <BP_Intervention rdf:about="#PBN__BP_Intervention_3">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
@@ -943,320 +1218,21 @@
   <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PA4</has_BP_InterventionKey>
 </BP_Intervention>
 
-<BP_Intervention rdf:about="#PBN__BP_Intervention_7">
+<BP_Enabler rdf:about="#PBN__BP_Enabler_6">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Control of airflows (airtight / negative pressure)</has_BP_InterventionTitle>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Control of airflows (airtight / negative pressure)</rdfs:label>
-  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PA8</has_BP_InterventionKey>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Control of airflows airtight / negative pressure</rdfs:label>
-</BP_Intervention>
-
-<BP_Intervention rdf:about="#PBN__BP_Intervention_5">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Natural ventilation increase</rdfs:label>
-  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Natural ventilation increase</has_BP_InterventionTitle>
-  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PA6</has_BP_InterventionKey>
-</BP_Intervention>
-
-<BP_Intervention rdf:about="#PBN__BP_Intervention_8">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Managing drinking water safety measures</rdfs:label>
-  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Managing drinking water safety measures</has_BP_InterventionTitle>
-  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW1</has_BP_InterventionKey>
-</BP_Intervention>
-
-<BP_Intervention rdf:about="#PBN__BP_Intervention_9">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Maintenance / decontamination of building water sytems</rdfs:label>
-  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Maintenance / decontamination of building water sytems</has_BP_InterventionTitle>
-  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW2</has_BP_InterventionKey>
-</BP_Intervention>
-
-<BP_Intervention rdf:about="#PBN__BP_Intervention_10">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Separate water facilities (toilets/bathrooms for contaminated)</has_BP_InterventionTitle>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Separate water facilities (toilets/bathrooms for contaminated)</rdfs:label>
-  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW3</has_BP_InterventionKey>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Separate water facilities toilets/bathrooms for contaminated</rdfs:label>
-</BP_Intervention>
-
-<BP_Intervention rdf:about="#PBN__BP_Intervention_34">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Absorb resource shortages</rdfs:label>
-  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Absorb resource shortages</has_BP_InterventionTitle>
-  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MC3</has_BP_InterventionKey>
-</BP_Intervention>
-
-<BP_Intervention rdf:about="#PBN__BP_Intervention_28">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Introduce "multi-use" / modular designs</rdfs:label>
-  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Introduce "multi-use" / modular designs</has_BP_InterventionTitle>
-  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HS1</has_BP_InterventionKey>
-</BP_Intervention>
-
-<BP_Intervention rdf:about="#PBN__BP_Intervention_20">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Social distancing</rdfs:label>
-  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Social distancing</has_BP_InterventionTitle>
-  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HU1</has_BP_InterventionKey>
-</BP_Intervention>
-
-<BP_Intervention rdf:about="#PBN__BP_Intervention_17">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Optimize users flows to prevent contamination</rdfs:label>
-  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Optimize users flows to prevent contamination</has_BP_InterventionTitle>
-  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HJ1</has_BP_InterventionKey>
-</BP_Intervention>
-
-<BP_Theme rdf:about="#PBN__BP_Theme_9">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Information management</rdfs:label>
-  <has_BP_ThemeTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">theme_Information_management</has_BP_ThemeTitle>
-</BP_Theme>
-
-<BP_Theme rdf:about="#PBN__BP_Theme_2">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sanitizing</rdfs:label>
-  <has_BP_ThemeTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">theme_Sanitizing</has_BP_ThemeTitle>
-</BP_Theme>
-
-<BP_Intervention rdf:about="#PBN__BP_Intervention_11">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Greywater management</rdfs:label>
-  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Greywater management</has_BP_InterventionTitle>
-  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW4</has_BP_InterventionKey>
-</BP_Intervention>
-
-<BP_Intervention rdf:about="#PBN__BP_Intervention_16">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Animal vectors control</rdfs:label>
-  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Animal vectors control</has_BP_InterventionTitle>
-  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PS5</has_BP_InterventionKey>
-</BP_Intervention>
-
-<BP_Intervention rdf:about="#PBN__BP_Intervention_6">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Disinfection of air</rdfs:label>
-  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Disinfection of air</has_BP_InterventionTitle>
-  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PA7</has_BP_InterventionKey>
-</BP_Intervention>
-
-<BP_Theme rdf:about="#PBN__BP_Theme_6">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Space design</rdfs:label>
-  <has_BP_ThemeTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">theme_Space_Design</has_BP_ThemeTitle>
-</BP_Theme>
-
-<BP_Intervention rdf:about="#PBN__BP_Intervention_33">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Support recovery of sectors via remote work</rdfs:label>
-  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Support recovery of sectors via remote work</has_BP_InterventionTitle>
-  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MC2</has_BP_InterventionKey>
-</BP_Intervention>
-
-<BP_Intervention rdf:about="#PBN__BP_Intervention_19">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Shift controls (occupancy control of total users)</has_BP_InterventionTitle>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Shift controls (occupancy control of total users)</rdfs:label>
-  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HJ3</has_BP_InterventionKey>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Shift controls occupancy control of total users</rdfs:label>
-</BP_Intervention>
-
-<BP_Intervention rdf:about="#PBN__BP_Intervention_39">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Promote verified information</rdfs:label>
-  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Promote verified information</has_BP_InterventionTitle>
-  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MI4</has_BP_InterventionKey>
-</BP_Intervention>
-
-<BP_Intervention rdf:about="#PBN__BP_Intervention_18">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Occupancy control (eg separating at/risk contaminated population)</has_BP_InterventionTitle>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Occupancy control (eg separating at/risk contaminated population)</rdfs:label>
-  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HJ2</has_BP_InterventionKey>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Occupancy control eg separating at/risk contaminated population</rdfs:label>
-</BP_Intervention>
-
-<BP_Intervention rdf:about="#PBN__BP_Intervention_31">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Early detection</rdfs:label>
-  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Early detection</has_BP_InterventionTitle>
-  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MP3</has_BP_InterventionKey>
-</BP_Intervention>
-
-<BP_Intervention rdf:about="#PBN__BP_Intervention_32">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Minimize supply chain disruptions</rdfs:label>
-  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Minimize supply chain disruptions</has_BP_InterventionTitle>
-  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MC1</has_BP_InterventionKey>
-</BP_Intervention>
-
-<BP_Intervention rdf:about="#PBN__BP_Intervention_4">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Control airflows in spaces &amp; Avoid air recirculation</has_BP_InterventionTitle>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Control airflows in spaces &amp; Avoid air recirculation</rdfs:label>
-  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PA5</has_BP_InterventionKey>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Control airflows in spaces &amp; avoid air recirculation</rdfs:label>
-</BP_Intervention>
-
-<BP_Intervention rdf:about="#PBN__BP_Intervention_23">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ensure use of personal protection equipment</rdfs:label>
-  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ensure use of personal protection equipment</has_BP_InterventionTitle>
-  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HU4</has_BP_InterventionKey>
-</BP_Intervention>
-
-<BP_Intervention rdf:about="#PBN__BP_Intervention_26">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Social activities / facilitatie social interactions</rdfs:label>
-  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Social activities / facilitatie social interactions</has_BP_InterventionTitle>
-  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HM3</has_BP_InterventionKey>
-</BP_Intervention>
-
-<BP_Intervention rdf:about="#PBN__BP_Intervention_35">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Absorb surge in service demande</rdfs:label>
-  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Absorb surge in service demande</has_BP_InterventionTitle>
-  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MC4</has_BP_InterventionKey>
-</BP_Intervention>
-
-<BP_Intervention rdf:about="#PBN__BP_Intervention_22">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Staff training / upskilling</rdfs:label>
-  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Staff training / upskilling</has_BP_InterventionTitle>
-  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HU3</has_BP_InterventionKey>
-</BP_Intervention>
-
-<BP_Enabler rdf:about="#PBN__BP_Enabler_32">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_16"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_12"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_21"/>
   <has_Closest rdf:resource="#PBN__BP_Enabler_7"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_25"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_6"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_11"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_1"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_17"/>
   <has_Closest rdf:resource="#PBN__BP_Enabler_24"/>
-  <has_BP_EnablerTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enabler_033</has_BP_EnablerTitle>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Disease Diagnostic Test Kits</rdfs:label>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Disease diagnostic test kits</rdfs:label>
-</BP_Enabler>
-
-<BP_Enabler rdf:about="#PBN__BP_Enabler_2">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_3"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_20"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_16"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_9"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_8"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_10"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_5"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_14"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_29"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_19"/>
-  <has_BP_EnablerTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enabler_003</has_BP_EnablerTitle>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Data Analytics</rdfs:label>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Data analytics</rdfs:label>
-</BP_Enabler>
-
-<BP_Enabler rdf:about="#PBN__BP_Enabler_3">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_2"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_22"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_20"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_18"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_16"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_31"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_1"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_14"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_10"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_4"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Visualization</rdfs:label>
-  <has_BP_EnablerTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enabler_004</has_BP_EnablerTitle>
-</BP_Enabler>
-
-<BP_Enabler rdf:about="#PBN__BP_Enabler_17">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_23"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_10"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_19"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_5"/>
   <has_Closest rdf:resource="#PBN__BP_Enabler_11"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_16"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_9"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_25"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_5"/>
   <has_Closest rdf:resource="#PBN__BP_Enabler_13"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_14"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_21"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Telemedecine</rdfs:label>
-  <has_BP_EnablerTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enabler_018</has_BP_EnablerTitle>
-</BP_Enabler>
-
-<BP_Enabler rdf:about="#PBN__BP_Enabler_10">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_19"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_0"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_17"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_2"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_11"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_5"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_23"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_20"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_22"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_13"/>
-  <has_BP_EnablerTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enabler_011</has_BP_EnablerTitle>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GPS</rdfs:label>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gps</rdfs:label>
-</BP_Enabler>
-
-<BP_Enabler rdf:about="#PBN__BP_Enabler_19">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_11"/>
   <has_Closest rdf:resource="#PBN__BP_Enabler_10"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_0"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_5"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_23"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_14"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_20"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_17"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_22"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_4"/>
-  <has_BP_EnablerTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enabler_020</has_BP_EnablerTitle>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SmartPhones</rdfs:label>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Smartphones</rdfs:label>
-</BP_Enabler>
-
-<BP_Enabler rdf:about="#PBN__BP_Enabler_23">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_17"/>
   <has_Closest rdf:resource="#PBN__BP_Enabler_19"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_14"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_5"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_10"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_16"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_11"/>
   <has_Closest rdf:resource="#PBN__BP_Enabler_22"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_1"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_0"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Teleworking</rdfs:label>
-  <has_BP_EnablerTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enabler_024</has_BP_EnablerTitle>
-</BP_Enabler>
-
-<BP_Enabler rdf:about="#PBN__BP_Enabler_4">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_20"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_5"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_14"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_19"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_3"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_2"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_9"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_11"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_29"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_16"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Blockchain</rdfs:label>
-  <has_BP_EnablerTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enabler_005</has_BP_EnablerTitle>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_12"/>
+  <has_BP_EnablerTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enabler_007</has_BP_EnablerTitle>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Air Sensors</rdfs:label>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Air sensors</rdfs:label>
 </BP_Enabler>
 
 <BP_Enabler rdf:about="#PBN__BP_Enabler_5">
@@ -1276,57 +1252,6 @@
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iot</rdfs:label>
 </BP_Enabler>
 
-<BP_Enabler rdf:about="#PBN__BP_Enabler_18">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_22"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_3"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_1"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_31"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_14"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_27"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_21"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_16"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_11"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_28"/>
-  <has_BP_EnablerTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enabler_019</has_BP_EnablerTitle>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3D printing</rdfs:label>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3d printing</rdfs:label>
-</BP_Enabler>
-
-<BP_Enabler rdf:about="#PBN__BP_Enabler_8">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_14"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_2"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_16"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_5"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_20"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_13"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_3"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_28"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_24"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_10"/>
-  <has_BP_EnablerTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enabler_009</has_BP_EnablerTitle>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AI/ML</rdfs:label>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ai/ml</rdfs:label>
-</BP_Enabler>
-
-<BP_Enabler rdf:about="#PBN__BP_Enabler_12">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_22"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_31"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_15"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_28"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_1"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_23"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_16"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_13"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_21"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_0"/>
-  <has_BP_EnablerTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enabler_013</has_BP_EnablerTitle>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Image acquisition &amp; CCTV</rdfs:label>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Image acquisition &amp; cctv</rdfs:label>
-</BP_Enabler>
-
 <BP_Enabler rdf:about="#PBN__BP_Enabler_29">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
   <has_Closest rdf:resource="#PBN__BP_Enabler_24"/>
@@ -1344,21 +1269,20 @@
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Energy management</rdfs:label>
 </BP_Enabler>
 
-<BP_Enabler rdf:about="#PBN__BP_Enabler_24">
+<BP_Enabler rdf:about="#PBN__BP_Enabler_16">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_29"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_6"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_16"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_5"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_25"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_7"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_22"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_14"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_13"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_2"/>
   <has_Closest rdf:resource="#PBN__BP_Enabler_8"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_5"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_24"/>
   <has_Closest rdf:resource="#PBN__BP_Enabler_23"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_11"/>
-  <has_BP_EnablerTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enabler_025</has_BP_EnablerTitle>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Smart HVAC</rdfs:label>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Smart hvac</rdfs:label>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_21"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_3"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_22"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Automation</rdfs:label>
+  <has_BP_EnablerTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enabler_017</has_BP_EnablerTitle>
 </BP_Enabler>
 
 <BP_Enabler rdf:about="#PBN__BP_Enabler_25">
@@ -1378,23 +1302,6 @@
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hepa filters</rdfs:label>
 </BP_Enabler>
 
-<BP_Enabler rdf:about="#PBN__BP_Enabler_6">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_7"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_24"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_11"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_25"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_5"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_13"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_10"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_19"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_22"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_12"/>
-  <has_BP_EnablerTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enabler_007</has_BP_EnablerTitle>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Air Sensors</rdfs:label>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Air sensors</rdfs:label>
-</BP_Enabler>
-
 <BP_Enabler rdf:about="#PBN__BP_Enabler_7">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
   <has_Closest rdf:resource="#PBN__BP_Enabler_6"/>
@@ -1411,38 +1318,252 @@
   <has_BP_EnablerTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enabler_008</has_BP_EnablerTitle>
 </BP_Enabler>
 
-<BP_Enabler rdf:about="#PBN__BP_Enabler_16">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_14"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_13"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_2"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_8"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_5"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_24"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_23"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_21"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_3"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_22"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Automation</rdfs:label>
-  <has_BP_EnablerTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enabler_017</has_BP_EnablerTitle>
-</BP_Enabler>
-
-<BP_Enabler rdf:about="#PBN__BP_Enabler_15">
+<BP_Enabler rdf:about="#PBN__BP_Enabler_22">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
   <has_Closest rdf:resource="#PBN__BP_Enabler_12"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_30"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_25"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_3"/>
   <has_Closest rdf:resource="#PBN__BP_Enabler_31"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_7"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_14"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_18"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_10"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_11"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_16"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_23"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_19"/>
+  <has_BP_EnablerTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enabler_023</has_BP_EnablerTitle>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Augmented / Virtual Reality</rdfs:label>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Augmented / virtual reality</rdfs:label>
+</BP_Enabler>
+
+<BP_Enabler rdf:about="#PBN__BP_Enabler_8">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_14"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_2"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_16"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_5"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_20"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_13"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_3"/>
   <has_Closest rdf:resource="#PBN__BP_Enabler_28"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_24"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_10"/>
+  <has_BP_EnablerTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enabler_009</has_BP_EnablerTitle>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AI/ML</rdfs:label>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ai/ml</rdfs:label>
+</BP_Enabler>
+
+<BP_Enabler rdf:about="#PBN__BP_Enabler_23">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_17"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_19"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_14"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_5"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_10"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_16"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_11"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_22"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_1"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_0"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Teleworking</rdfs:label>
+  <has_BP_EnablerTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enabler_024</has_BP_EnablerTitle>
+</BP_Enabler>
+
+<BP_Enabler rdf:about="#PBN__BP_Enabler_11">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_19"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_5"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_14"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_10"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_20"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_6"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_22"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_23"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_17"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_31"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wearables</rdfs:label>
+  <has_BP_EnablerTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enabler_012</has_BP_EnablerTitle>
+</BP_Enabler>
+
+<BP_Intervention rdf:about="#PBN__BP_Intervention_14">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wall and floors treatment</rdfs:label>
+  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wall and floors treatment</has_BP_InterventionTitle>
+  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PS3</has_BP_InterventionKey>
+</BP_Intervention>
+
+<BP_Intervention rdf:about="#PBN__BP_Intervention_25">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Outdoor spaces</rdfs:label>
+  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Outdoor spaces</has_BP_InterventionTitle>
+  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HM2</has_BP_InterventionKey>
+</BP_Intervention>
+
+<BP_Intervention rdf:about="#PBN__BP_Intervention_13">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Touchless technologies</rdfs:label>
+  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Touchless technologies</has_BP_InterventionTitle>
+  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PS2</has_BP_InterventionKey>
+</BP_Intervention>
+
+<BP_Intervention rdf:about="#PBN__BP_Intervention_8">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Managing drinking water safety measures</rdfs:label>
+  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Managing drinking water safety measures</has_BP_InterventionTitle>
+  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW1</has_BP_InterventionKey>
+</BP_Intervention>
+
+<BP_Enabler rdf:about="#PBN__BP_Enabler_1">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_31"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_16"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_23"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_3"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_18"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_12"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_22"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_9"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_28"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_21"/>
+  <has_BP_EnablerTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enabler_002</has_BP_EnablerTitle>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DigitalPlatform</rdfs:label>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Digitalplatform</rdfs:label>
+</BP_Enabler>
+
+<BP_Enabler rdf:about="#PBN__BP_Enabler_12">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_22"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_31"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_15"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_28"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_1"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_23"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_16"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_13"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_21"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_0"/>
+  <has_BP_EnablerTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enabler_013</has_BP_EnablerTitle>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Image acquisition &amp; CCTV</rdfs:label>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Image acquisition &amp; cctv</rdfs:label>
+</BP_Enabler>
+
+<BP_Enabler rdf:about="#PBN__BP_Enabler_20">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_2"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_5"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_4"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_3"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_14"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_19"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_11"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_9"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_10"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_31"/>
+  <has_BP_EnablerTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enabler_021</has_BP_EnablerTitle>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Social Networks</rdfs:label>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Social networks</rdfs:label>
+</BP_Enabler>
+
+<BP_Enabler rdf:about="#PBN__BP_Enabler_3">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
   <has_Closest rdf:resource="#PBN__BP_Enabler_2"/>
   <has_Closest rdf:resource="#PBN__BP_Enabler_22"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_5"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_3"/>
-  <has_BP_EnablerTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enabler_016</has_BP_EnablerTitle>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">UV/UVGI/Irradation</rdfs:label>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Uv/uvgi/irradation</rdfs:label>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_20"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_18"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_16"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_31"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_1"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_14"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_10"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_4"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Visualization</rdfs:label>
+  <has_BP_EnablerTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enabler_004</has_BP_EnablerTitle>
 </BP_Enabler>
+
+<BP_Enabler rdf:about="#PBN__BP_Enabler_21">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_16"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_31"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_18"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_1"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_5"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_19"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_10"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_17"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_27"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_0"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New delivery systems</rdfs:label>
+  <has_BP_EnablerTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enabler_022</has_BP_EnablerTitle>
+</BP_Enabler>
+
+<BP_Enabler rdf:about="#PBN__BP_Enabler_19">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_11"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_10"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_0"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_5"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_23"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_14"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_20"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_17"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_22"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_4"/>
+  <has_BP_EnablerTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enabler_020</has_BP_EnablerTitle>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SmartPhones</rdfs:label>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Smartphones</rdfs:label>
+</BP_Enabler>
+
+<BP_Enabler rdf:about="#PBN__BP_Enabler_18">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_22"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_3"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_1"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_31"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_14"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_27"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_21"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_16"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_11"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_28"/>
+  <has_BP_EnablerTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enabler_019</has_BP_EnablerTitle>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3D printing</rdfs:label>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3d printing</rdfs:label>
+</BP_Enabler>
+
+<BP_Intervention rdf:about="#PBN__BP_Intervention_36">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Prevent fake news</rdfs:label>
+  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Prevent fake news</has_BP_InterventionTitle>
+  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MI1</has_BP_InterventionKey>
+</BP_Intervention>
+
+<BP_Enabler rdf:about="#PBN__BP_Enabler_30">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_26"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_15"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_1"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_14"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_16"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_31"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_8"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_13"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_3"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_18"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biophilic desing</rdfs:label>
+  <has_BP_EnablerTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enabler_031</has_BP_EnablerTitle>
+</BP_Enabler>
+
+<BP_Intervention rdf:about="#PBN__BP_Intervention_7">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Control of airflows (airtight / negative pressure)</has_BP_InterventionTitle>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Control of airflows (airtight / negative pressure)</rdfs:label>
+  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PA8</has_BP_InterventionKey>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Control of airflows airtight / negative pressure</rdfs:label>
+</BP_Intervention>
+
+<BP_Intervention rdf:about="#PBN__BP_Intervention_44">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Separate water facilities toilets/bathrooms for contaminated</rdfs:label>
+</BP_Intervention>
 
 <BP_Enabler rdf:about="#PBN__BP_Enabler_26">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
@@ -1460,53 +1581,110 @@
   <has_BP_EnablerTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enabler_027</has_BP_EnablerTitle>
 </BP_Enabler>
 
-<BP_Enabler rdf:about="#PBN__BP_Enabler_31">
+<BP_Enabler rdf:about="#PBN__BP_Enabler_4">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_20"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_5"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_14"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_19"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_3"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_2"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_9"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_11"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_29"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_16"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Blockchain</rdfs:label>
+  <has_BP_EnablerTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enabler_005</has_BP_EnablerTitle>
+</BP_Enabler>
+
+<BP_Enabler rdf:about="#PBN__BP_Enabler_2">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_3"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_20"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_16"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_9"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_8"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_10"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_5"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_14"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_29"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_19"/>
+  <has_BP_EnablerTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enabler_003</has_BP_EnablerTitle>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Data Analytics</rdfs:label>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Data analytics</rdfs:label>
+</BP_Enabler>
+
+<BP_Enabler rdf:about="#PBN__BP_Enabler_0">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_19"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_5"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_10"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_23"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_9"/>
   <has_Closest rdf:resource="#PBN__BP_Enabler_1"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_22"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_21"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_17"/>
   <has_Closest rdf:resource="#PBN__BP_Enabler_12"/>
   <has_Closest rdf:resource="#PBN__BP_Enabler_20"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_3"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_21"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_19"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_18"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_11"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_23"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Digital signage</rdfs:label>
-  <has_BP_EnablerTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enabler_032</has_BP_EnablerTitle>
+  <has_BP_EnablerTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enabler_001</has_BP_EnablerTitle>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5G</rdfs:label>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5g</rdfs:label>
 </BP_Enabler>
 
-<BP_Enabler rdf:about="#PBN__BP_Enabler_9">
+<BP_Enabler rdf:about="#PBN__BP_Enabler_10">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_2"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_20"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_5"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_1"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_4"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_3"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_19"/>
   <has_Closest rdf:resource="#PBN__BP_Enabler_0"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_10"/>
   <has_Closest rdf:resource="#PBN__BP_Enabler_17"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_2"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_11"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_5"/>
   <has_Closest rdf:resource="#PBN__BP_Enabler_23"/>
-  <has_BP_EnablerTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enabler_010</has_BP_EnablerTitle>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BigData</rdfs:label>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bigdata</rdfs:label>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_20"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_22"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_13"/>
+  <has_BP_EnablerTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enabler_011</has_BP_EnablerTitle>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GPS</rdfs:label>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gps</rdfs:label>
 </BP_Enabler>
 
-<BP_Enabler rdf:about="#PBN__BP_Enabler_14">
+<BP_Enabler rdf:about="#PBN__BP_Enabler_17">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_13"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_16"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_8"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_19"/>
   <has_Closest rdf:resource="#PBN__BP_Enabler_23"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_10"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_19"/>
   <has_Closest rdf:resource="#PBN__BP_Enabler_5"/>
   <has_Closest rdf:resource="#PBN__BP_Enabler_11"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_20"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_4"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_16"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_9"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_13"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_14"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_21"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Telemedecine</rdfs:label>
+  <has_BP_EnablerTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enabler_018</has_BP_EnablerTitle>
+</BP_Enabler>
+
+<BP_Intervention rdf:about="#PBN__BP_Intervention_28">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Introduce "multi-use" / modular designs</rdfs:label>
+  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Introduce "multi-use" / modular designs</has_BP_InterventionTitle>
+  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HS1</has_BP_InterventionKey>
+</BP_Intervention>
+
+<BP_Enabler rdf:about="#PBN__BP_Enabler_28">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_12"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_19"/>
   <has_Closest rdf:resource="#PBN__BP_Enabler_22"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Robots</rdfs:label>
-  <has_BP_EnablerTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enabler_015</has_BP_EnablerTitle>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_1"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_31"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_11"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_18"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_8"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_14"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_3"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Face and voice recognition</rdfs:label>
+  <has_BP_EnablerTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enabler_029</has_BP_EnablerTitle>
 </BP_Enabler>
 
 <BP_Enabler rdf:about="#PBN__BP_Enabler_27">
@@ -1543,137 +1721,147 @@
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Robots, drones &amp; automated vehicules</rdfs:label>
 </BP_Enabler>
 
-<BP_Enabler rdf:about="#PBN__BP_Enabler_20">
+<BP_Enabler rdf:about="#PBN__BP_Enabler_14">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_2"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_5"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_4"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_3"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_14"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_19"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_11"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_9"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_10"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_31"/>
-  <has_BP_EnablerTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enabler_021</has_BP_EnablerTitle>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Social Networks</rdfs:label>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Social networks</rdfs:label>
-</BP_Enabler>
-
-<BP_Enabler rdf:about="#PBN__BP_Enabler_30">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_26"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_15"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_1"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_14"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_16"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_31"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_8"/>
   <has_Closest rdf:resource="#PBN__BP_Enabler_13"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_3"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_18"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biophilic desing</rdfs:label>
-  <has_BP_EnablerTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enabler_031</has_BP_EnablerTitle>
-</BP_Enabler>
-
-<BP_Enabler rdf:about="#PBN__BP_Enabler_1">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_31"/>
   <has_Closest rdf:resource="#PBN__BP_Enabler_16"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_23"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_3"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_18"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_12"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_22"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_9"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_28"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_21"/>
-  <has_BP_EnablerTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enabler_002</has_BP_EnablerTitle>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DigitalPlatform</rdfs:label>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Digitalplatform</rdfs:label>
-</BP_Enabler>
-
-<BP_Enabler rdf:about="#PBN__BP_Enabler_21">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_16"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_31"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_18"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_1"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_5"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_19"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_10"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_17"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_27"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_0"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New delivery systems</rdfs:label>
-  <has_BP_EnablerTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enabler_022</has_BP_EnablerTitle>
-</BP_Enabler>
-
-<BP_Enabler rdf:about="#PBN__BP_Enabler_22">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_12"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_3"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_31"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_14"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_18"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_10"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_11"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_16"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_23"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_19"/>
-  <has_BP_EnablerTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enabler_023</has_BP_EnablerTitle>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Augmented / Virtual Reality</rdfs:label>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Augmented / virtual reality</rdfs:label>
-</BP_Enabler>
-
-<BP_Enabler rdf:about="#PBN__BP_Enabler_11">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_19"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_5"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_14"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_10"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_20"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_6"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_22"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_23"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_17"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_31"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wearables</rdfs:label>
-  <has_BP_EnablerTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enabler_012</has_BP_EnablerTitle>
-</BP_Enabler>
-
-<BP_Enabler rdf:about="#PBN__BP_Enabler_28">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_12"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_19"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_22"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_1"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_31"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_11"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_18"/>
   <has_Closest rdf:resource="#PBN__BP_Enabler_8"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_14"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_3"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Face and voice recognition</rdfs:label>
-  <has_BP_EnablerTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enabler_029</has_BP_EnablerTitle>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_19"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_23"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_5"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_11"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_20"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_4"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_22"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Robots</rdfs:label>
+  <has_BP_EnablerTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enabler_015</has_BP_EnablerTitle>
 </BP_Enabler>
 
-<BP_Enabler rdf:about="#PBN__BP_Enabler_0">
+<BP_Enabler rdf:about="#PBN__BP_Enabler_15">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_19"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_5"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_10"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_23"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_9"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_1"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_21"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_17"/>
   <has_Closest rdf:resource="#PBN__BP_Enabler_12"/>
-  <has_Closest rdf:resource="#PBN__BP_Enabler_20"/>
-  <has_BP_EnablerTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enabler_001</has_BP_EnablerTitle>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5G</rdfs:label>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5g</rdfs:label>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_30"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_25"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_31"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_7"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_28"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_2"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_22"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_5"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_3"/>
+  <has_BP_EnablerTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enabler_016</has_BP_EnablerTitle>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">UV/UVGI/Irradation</rdfs:label>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Uv/uvgi/irradation</rdfs:label>
 </BP_Enabler>
+
+<BP_Enabler rdf:about="#PBN__BP_Enabler_32">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_16"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_12"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_21"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_7"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_25"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_6"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_11"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_1"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_17"/>
+  <has_Closest rdf:resource="#PBN__BP_Enabler_24"/>
+  <has_BP_EnablerTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enabler_033</has_BP_EnablerTitle>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Disease Diagnostic Test Kits</rdfs:label>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Disease diagnostic test kits</rdfs:label>
+</BP_Enabler>
+
+<BP_Intervention rdf:about="#PBN__BP_Intervention_19">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Shift controls (occupancy control of total users)</has_BP_InterventionTitle>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Shift controls (occupancy control of total users)</rdfs:label>
+  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HJ3</has_BP_InterventionKey>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Shift controls occupancy control of total users</rdfs:label>
+</BP_Intervention>
+
+<BP_Intervention rdf:about="#PBN__BP_Intervention_10">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Separate water facilities (toilets/bathrooms for contaminated)</has_BP_InterventionTitle>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Separate water facilities (toilets/bathrooms for contaminated)</rdfs:label>
+  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW3</has_BP_InterventionKey>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Separate water facilities toilets/bathrooms for contaminated</rdfs:label>
+</BP_Intervention>
+
+<BP_Intervention rdf:about="#PBN__BP_Intervention_12">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cleaning technologies (robots)</has_BP_InterventionTitle>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cleaning technologies (robots)</rdfs:label>
+  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PS1</has_BP_InterventionKey>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cleaning technologies robots</rdfs:label>
+</BP_Intervention>
+
+<BP_Intervention rdf:about="#PBN__BP_Intervention_18">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Occupancy control (eg separating at/risk contaminated population)</has_BP_InterventionTitle>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Occupancy control (eg separating at/risk contaminated population)</rdfs:label>
+  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HJ2</has_BP_InterventionKey>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Occupancy control eg separating at/risk contaminated population</rdfs:label>
+</BP_Intervention>
+
+<BP_Theme rdf:about="#PBN__BP_Theme_5">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mental health</rdfs:label>
+  <has_BP_ThemeTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">theme_Mental_Health</has_BP_ThemeTitle>
+</BP_Theme>
+
+<BP_Theme rdf:about="#PBN__BP_Theme_9">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Information management</rdfs:label>
+  <has_BP_ThemeTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">theme_Information_management</has_BP_ThemeTitle>
+</BP_Theme>
+
+<BP_Theme rdf:about="#PBN__BP_Theme_4">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">User behavior</rdfs:label>
+  <has_BP_ThemeTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">theme_User_behavior</has_BP_ThemeTitle>
+</BP_Theme>
+
+<BP_Theme rdf:about="#PBN__BP_Theme_8">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Activities continuity</rdfs:label>
+  <has_BP_ThemeTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">theme_Activities_continuity</has_BP_ThemeTitle>
+</BP_Theme>
+
+<BP_Theme rdf:about="#PBN__BP_Theme_3">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">User journey</rdfs:label>
+  <has_BP_ThemeTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">theme_User_journey</has_BP_ThemeTitle>
+</BP_Theme>
+
+<BP_Theme rdf:about="#PBN__BP_Theme_0">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Air quality</rdfs:label>
+  <has_BP_ThemeTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">theme_Air_Quality</has_BP_ThemeTitle>
+</BP_Theme>
+
+<BP_Theme rdf:about="#PBN__BP_Theme_2">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sanitizing</rdfs:label>
+  <has_BP_ThemeTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">theme_Sanitizing</has_BP_ThemeTitle>
+</BP_Theme>
+
+<BP_Theme rdf:about="#PBN__BP_Theme_1">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Water quality</rdfs:label>
+  <has_BP_ThemeTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">theme_Water_Quality</has_BP_ThemeTitle>
+</BP_Theme>
+
+<BP_Theme rdf:about="#PBN__BP_Theme_6">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Space design</rdfs:label>
+  <has_BP_ThemeTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">theme_Space_Design</has_BP_ThemeTitle>
+</BP_Theme>
+
+<BP_Theme rdf:about="#PBN__BP_Theme_7">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Propagation monitoring</rdfs:label>
+  <has_BP_ThemeTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">theme_Propagation_monitoring</has_BP_ThemeTitle>
+</BP_Theme>
 
 <BP_Category rdf:about="#PBN__BP_Category_0">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
