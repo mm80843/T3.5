@@ -44,16 +44,18 @@ def createIndex(onto,K):
         for GR in subindex.keys():
             G = str(GR)
             n = G.split("_")[-1]
-            c = G.replace("_"+str(n),"")[4:]
+            c = G.replace("_"+str(n),"")[5:]
             #print(G,"==>",GR)
             m = eval("onto."+G+".label[0]")
             #print(m)
-            IDX += ("\n### ["+m+"]("+HOME+"?category="+c+"&id="+n+")")
+            IDX += "\n#### <a href='"+HOME+"?category="+c+"' target='_self'>"+m+"</a>"
+            #IDX += ("\n### ["+m+"]("+HOME+"?category="+c+"&id="+n+")")
             for items in subindex[GR]:
                 s = str(items)
                 n = s.split("_")[-1]
-                c = s.replace("_"+str(n),"")[4:]
-                IDX += ("\n* ["+eval("onto."+items+".label[0]")+"]("+HOME+"?category="+c+"&id="+n+")")
+                c = s.replace("_"+str(n),"")[5:]
+                IDX += "\n* <a href='"+HOME+"?id="+n+"&category="+c+"' target='_self'>"+eval("onto."+items+".label[0]")+"</a>"
+                #IDX += "\n* ["+eval("onto."+items+".label[0]")+"]("+HOME+"?category="+c+"&id="+n+")"
     else:
 
         BB = list(k.instances())
@@ -65,7 +67,8 @@ def createIndex(onto,K):
             II = "_".join(I.split("PBN__")[1].split("_")[:-1])
             N = I.split("_")[-1]
             A = i.label[0]
-            IDX += "* ["+A+"]("+HOME+"?category="+K+"&id="+str(N)+")\n" 
+            IDX += "\n * <a href='"+HOME+"?category="+K+"&id="+str(N)+"' target='_self'>"+A+"</a>"
+            #IDX += "* ["+A+"]("+HOME+"?category="+K+"&id="+str(N)+")\n" 
     return IDX
 
 
@@ -124,17 +127,23 @@ def createPage(onto,obj,uid,orderedJson):
                             MD += "* "+strItem+"\n"
                         MD += "\n"
                     else:
-                        A = [x.get_name() for x in OB]
-                        B = [x.label[0] for x in OB]
+                        print("->",OB)
+                        A = [x.get_name() if (type(x) != str) else str(x) for x in OB ]
+                        B = [x.label[0] if (type(x) != str) else str(x) for x in OB ]
+                        #B = [x.label[0] for x in OB]
                         #B.sort(key=lambda x: getNameLabel(x))
                         C = zip(A, B)
                         C = sorted(C, key = lambda x: x[0])
                         #print("C",list(C))
-                        for c in C:
+                        for c in list(set(C)):
                             if c[1] not in ["None","Nan"]:
                                 N = c[0][5:].split("_")[-1]
                                 cat = "_".join(c[0][5:].split("_")[:-1])
-                                linetoadd = "* ["+c[1]+"]("+HOME+"?category="+cat+"&id="+str(N)+")\n"
+                                if cat and N:
+                                    linetoadd = "\n * <a href='"+HOME+"?category="+cat+"&id="+str(N)+"' target='_self'>"+c[1]+"</a>"
+                                else:
+                                    linetoadd = "\n * "+c[1]+""
+                                #linetoadd = "* ["+c[1]+"]("+HOME+"?category="+cat+"&id="+str(N)+")\n"
                                 MD += linetoadd
                         MD += "\n" 
         elif prop.startswith("# "):
@@ -185,7 +194,8 @@ def createPage(onto,obj,uid,orderedJson):
                             if c[1] not in ["None","Nan"]:
                                 N = c[0][5:].split("_")[-1]
                                 cat = "_".join(c[0][5:].split("_")[:-1])
-                                linetoadd = "* ["+c[1]+"]("+HOME+"?category="+cat+"&id="+str(N)+")\n"
+                                linetoadd = "\n * <a href='"+HOME+"?category="+cat+"&id="+str(N)+"' target='_self'>"+c[1]+"</a>"
+                                #linetoadd = "* ["+c[1]+"]("+HOME+"?category="+cat+"&id="+str(N)+")\n"
                                 MD += linetoadd
                         MD += "\n" 
     return MD
@@ -208,6 +218,8 @@ def createMainIndex(onto):
         if len(k.instances()):
             MM = str(k).split(".")[-1]
             if (not MM == "RiskMitigation") and (not MM == "PBNThing"):
-                IDX += "* _["+MM+"]("+HOME+"?category="+MM+")_ -- "+str(len(k.instances()))+ " instances.\n"
+                #IDX += "* _["+MM+"]("+HOME+"?category="+MM+")_ "
+                IDX += "* <a href='"+HOME+"?category="+MM+"' target='_self'>"+MM+"</a>"
+                IDX += "-- "+str(len(k.instances()))+ " instances.\n"
 
     return IDX

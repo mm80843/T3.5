@@ -46,9 +46,22 @@ def readOnto(bigone):
     return onto, orderedJson
  
 st.sidebar.write("#### Select knowledge graph")
-bigone = st.sidebar.selectbox(
-    'Full one ?',
-    (False,True))
+
+if 'sizeKG' not in st.session_state:
+    bigone = False
+    st.session_state['sizeKG'] = bigone
+    bigone = st.sidebar.selectbox(
+        'Full one ?',
+        (False,True))
+    st.session_state['sizeKG'] = bigone
+else:
+    bigone = st.sidebar.selectbox(
+        'Full one ?',
+        (False,True))
+    st.session_state['sizeKG'] = bigone
+
+st.sidebar.write("BIG: "+str(st.session_state['sizeKG']))
+
 
 onto, orderedJson = readOnto(bigone)
 st.sidebar.write("#### Details")
@@ -59,10 +72,10 @@ PARAMS = st.query_params.to_dict()
 
 if ("category" in PARAMS) and ("id" in PARAMS):
     md = c.createPage(onto,PARAMS["category"],PARAMS["id"],orderedJson)
-    st.write(md)
+    st.markdown(md,unsafe_allow_html=True)
 elif ("category" in PARAMS) and not ("id" in PARAMS):
     md = c.createIndex(onto,PARAMS["category"])
-    st.write(md)
+    st.markdown(md,unsafe_allow_html=True)
 else:
     md = c.createMainIndex(onto)
-    st.write(md)
+    st.markdown(md,unsafe_allow_html=True)
