@@ -1,17 +1,21 @@
 # TODOs
 
+* [ ] TODO
+* [x] DONE
+* [L] Later
 
 ### 20240122
 
-* [ ] Rerun classification ([Step1](rdf/work/work_on_0.3/04.Add_Classification_Step1.ipynb) & [Step2](rdf/work/work_on_0.3/04.Add_Classification_Step2.ipynb))
-* [ ] Add Articles to groups
-* [ ] Missing orders in [orders.json](rdf/support/order.json)
-* [ ] Missing labels for relations
+* [x] Rerun classification ([Step1](rdf/work/work_on_0.3/04.Add_Classification_Step1.ipynb) & [Step2](rdf/work/work_on_0.3/04.Add_Classification_Step2.ipynb))
+* [x] Add Articles to groups
+* [ ] Missing orders in [orders.json](rdf/support/order.json) (check from logs from streamlit app)
+* [ ] Missing labels for relations (check from logs from streamlit app)
 * [x] City Anatomy Mapping
 * [ ] ISO Mapping (scale impact purpose) for risks groups
 * [ ] ISO Mapping (scale impact purpose) for blueprints
-* [ ] Solving top-x grouping with synonyms
-* [ ] Destroy all relationships when starting Step1
+* [L] Solving top-x grouping with synonyms
+* [L] Destroy all relationships when starting Step2
+* [x] Clean up Stakeholders (appearing in subgroups)
 
 #### To check
 
