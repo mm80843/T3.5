@@ -5,10 +5,10 @@
 * [L] Later
 ### 20240128
 
-* [ ] Reroute articles with 'nan' to reroute to good articles like https://pbn-t3-5.streamlit.app/?category=Article&id=304
+* [ ] Reroute in KG articles with 'nan' to reroute to good articles like https://pbn-t3-5.streamlit.app/?category=Article&id=304
 * [ ] ISO Mapping (scale impact purpose) for risks groups
 * [ ] ISO Mapping (scale impact purpose) for blueprints
-* [ ] App links in same tab : `st.markdown('<a href="/?key=value" target="_self">View all</a>',unsafe_allow_html=True)`
+* [x] App links in same tab : `st.markdown('<a href="/?key=value" target="_self">View all</a>',unsafe_allow_html=True)`
 
 ### 20240122
 

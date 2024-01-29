@@ -57,7 +57,7 @@
 %  Uncomment to apply colors you want to use.
 %-----------------------------------------------
 \colorlet{themecolor}{greenMUW}
-\usebackgroundtemplate{\includegraphics{MUW_green.pdf}}
+\usebackgroundtemplate{}
 
 %\colorlet{themecolor}{skinMUW}
 %\colorlet{themecolor}{blueMUW}
@@ -140,7 +140,7 @@
           %\begin{multicols}{2}
 The Horizon 2020 \href{https://doi.org/10.3030/101037075}{PROBONO project} (Grant agreement  101037075) aims at demonstrating "\textit{strong examples of how Green Building Neighbourhoods (GBNs) technological and social innovations can be applied, with a vision focused on building infrastructure and a renewed focus on people and sustainability, taking full advantage of digitization and smart technologies for the benefit of society}". The Task 3.5 of this projects  aims at reviewing "Interventions to mitigate diseases outbreaks".
 
-In this document, we summarize how we used new technologies, including Large Language Models (LLMs), to consolidate a knowledge graph of (KG) this topic, based on the literature, to demonstrate the feasibility of building a body of knowledge pertaining to a certain domain, with a specific angle. This opens the door to more opportunities the growing space existing between LLMs and KGs.
+In this document, we summarize how we used new technologies, including Large Language Models (LLMs), to consolidate a Knowledge Graph (KG) of this topic, based on the literature, to demonstrate the feasibility of building a body of knowledge pertaining to a certain domain, with a specific angle. This opens the door to more opportunities the growing space existing between LLMs and KGs.
 \end{block}
 
 \begin{block}{Disclaimer}
@@ -148,11 +148,7 @@ Please note that this document is a research-based exploration compiled by knowl
 
           %\end{multicols}
           \end{block}
-          
-          \begin{block}{Objective}
-The main objective of the task is to review the scientific literature to identify key risks, stakeholders, technologies and mitigations measures both at building and neighbourhood scales.
 
-          \end{block}
           
           
           \begin{block}{Results}
@@ -160,7 +156,7 @@ The main objective of the task is to review the scientific literature to identif
 
 We started with defining a basic ontology based on classes of interest for mitigation measures, namely 'Risks', 'Mitigations', 'People', and 'Technologies'. These constitute an initial body of knowledge, which is then used to build 'Blueprints', possible interventions to mitigate diseases outbreaks. 
 
-To date, the Knowledge Graph (v0.3) contains information on 376 articles, from which were programmaticaly derived 3418 risks, 5295 mitigation measures, 2640 stakeholders and 3915 technologies. The team used these to build 24 blueprints manually, and automated the production of 50 others.
+To date, the Knowledge Graph (v0.4) contains information on 377 articles, from which were programmaticaly derived 21145  risks, 22950  mitigation measures, 16125  stakeholders and 23140  technologies. The team used these to build 24 blueprints manually, and automated the production of 50 others.
 
 We hope that releasing the knowledge graph under an open-source license  (\href{https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en}{CC BY-NC-SA}) will drive use of this knowledge graph and that health professionals can use this to derive useful, professionally-approved mitigation measures.
 
@@ -177,21 +173,25 @@ We hope that releasing the knowledge graph under an open-source license  (\href{
          
          
          \begin{column}{\onecolwid} %The second column
-         
+                   
+          \begin{block}{Objective}
+The main objective of the task is to review the scientific literature to identify key risks, stakeholders, technologies and mitigations measures both at building and neighbourhood scales.
+
+          \end{block}
          \begin{block}{Technical details}
           %\begin{multicols}{2}
           The present knowledge graph has been created using new tools, helping to streamline, faster and more consistently, information from the literature:
            \begin{itemize}
-\item Parsing of the literature was done with GROBID. This provided structured text (XML) from the article PDFs;
-\item The data was processed and structured in an RDF that was produced with the Owlready2 python library;
-\item Vector embedding based on Pinecone because of the early possibility to integrate with Langchain, and because of its ease of use.
-
+            \item Parsing of the literature was done with \textit{GROBID}. This provided structured text (XML) from the article PDFs;
+            \item The data was processed and structured in an RDF that was produced with the \textit{Owlready2} python library;
+            \item Vector embedding based on \textit{ChromaDB} because of the early possibility to integrate with \textit{LangChain}, and because of its ease of use.
+            
  \end{itemize}
-Once the data was prepared, information structuring was done using different solutions:
+Once the data was prepared, we explored structuring the information using different solutions:
            \begin{itemize}
-\item NLTK was used to extract topics and themes of the articles;
-\item Spacy was used for entity recognition, and CoreferenceResolver to tackle disambiguation ;
-\item Text was processed using a combination of OpenAI API (both using GPT3.5 and GPT4 endpoints) as well as running local models (NOUS/LLaMa), using the python requests or langchain libraries.
+\item \textit{NLTK} was used to extract topics and themes of the articles and \textit{Spacy} with and \textit{CoreferenceResolver} to tackle disambiguation ;
+\item Text was processed using a combination of OpenAI API (both using GPT3.5 and GPT4 endpoints) as well as running local models (NOUS/LLaMa), using the python requests or \textit{LangChain} libraries.
+\item We used the content from the articles, stored in \textit{ChromaDB}, used through \textit{LangChain} and deployed through a \textit{FastAPI API}.
           %\end{multicols}
                      \end{itemize}
 
@@ -202,7 +202,7 @@ Once the data was prepared, information structuring was done using different sol
           
                      This activity yielded expected outcomes, consisting in mapping out risks, technologies and stakeholders, as well as suggesting mitigation measures. This however is an asset that has a highly reusable potential, and this list, albeit listing possible actions from a project perspective, could be undertaken by other parties:
                                 \begin{itemize}
-\item We plan on integrating more robust graph management solutions, possibly Neo4j or similar, to continually review and enrich the knowledge graph;
+\item We plan on integrating more robust graph management solutions, possibly Neo4j or similar, to continually review and enrich the KG;
 \item We would want to enrich the semantic content of the graph to make it more usable and possible an input to KG-backed LLMs;
 \item Reusing existing semantic assets (eg Wikidata) might help structure
 \item Connect this knowledge graph to other KGs or ontologies.
@@ -242,12 +242,12 @@ Once the data was prepared, information structuring was done using different sol
 		    \end{column} % End of the first column
 			\begin{column}{\sepwid}\end{column} % Empty spacer column
 			\begin{column}{\onecolwid} % Begin a column 
-              \begin{block}{\large References}
+              \begin{block}{\large Solution repository}
 			  %\vspace*{-0.5cm}
               	\nocite{*} % Insert publications even if they are not cited in the poster
 					
                     	%\bibliographystyle{plainurl}
-						n/a
+						\href{https://github.com/mm80843/T3.5}{GitHub repository}
       
 				\end{block} 
     \begin{block}{\large Note(s)}
@@ -255,7 +255,7 @@ Once the data was prepared, information structuring was done using different sol
               	\nocite{*} % Insert publications even if they are not cited in the poster
 					%{\footnotesize
                     	%\bibliographystyle{plainurl}
-						This PDF can be renamed as a ZIP file to extract source code for this document and for the app [\textit{not implemented yet but on when agreement on content of the file}]
+						This PDF can be renamed as a ZIP file to extract source code for this document and for the solution.
       % @LJ: For this, see https://github.com/ansemjo/truepolyglot
       %}
 				\end{block} 
@@ -263,9 +263,10 @@ Once the data was prepared, information structuring was done using different sol
             
 			\begin{column}{\sepmargin}\end{column} % Empty spacer column
             
+            
 \end{columns} % End of all the columns in the poster
 
-\begin{picture} (-5cm,-5cm) (-3.5cm, 7cm)
+\begin{picture} (-5cm,-5cm) (-3.5cm, 14.5cm)
 \put(0.5cm, 0.5cm) {\includegraphics [width=5cm]{eu.png}} 
 \end{picture}
 \begin{textblock}{12}(1.8,15.24)
@@ -273,3 +274,4 @@ Once the data was prepared, information structuring was done using different sol
 \end{textblock}
 
 \end{document}
+
