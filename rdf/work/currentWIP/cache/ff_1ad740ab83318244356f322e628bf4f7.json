@@ -1,0 +1,1 @@
+{"role": "assistant", "content": null, "function_call": {"name": "classify_risks", "arguments": "{\"sorted_stakeholder\":[{\"name\":\"Local and state governments\",\"category\":\"Governance and policy entities\",\"confidence\":\"High\"},{\"name\":\"Urbanists\",\"category\":\"Urban planning authorities\",\"confidence\":\"High\"}]}"}}

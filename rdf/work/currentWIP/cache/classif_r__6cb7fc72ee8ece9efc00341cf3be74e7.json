@@ -1,0 +1,1 @@
+{"role": "assistant", "content": null, "function_call": {"name": "get_current_weather", "arguments": "{\"location\":\"San Francisco, CA\",\"format\":\"celsius\"}"}}

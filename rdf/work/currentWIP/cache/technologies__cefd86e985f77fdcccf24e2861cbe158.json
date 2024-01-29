@@ -1,0 +1,1 @@
+{"role": "assistant", "content": null, "function_call": {"name": "classify_technology", "arguments": "{\"sorted_technology\":[{\"name\":\"education and awareness campaigns\",\"category\":\"Public Awareness Campaign Tools\",\"confidence\":\"Medium\"}]}"}}
