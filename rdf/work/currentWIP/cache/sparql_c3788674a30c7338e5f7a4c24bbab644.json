@@ -1,1 +1,0 @@
-"```sparql\nPREFIX pbn: <https://github.com/mm80843/T3.5/raw/main/pbn_t3_5.owl#>\n\nSELECT ?techGroup (COUNT(?technology) AS ?techCount)\nWHERE {\n  ?risk a pbn:Risk ;\n        pbn:has_RiskTechnology ?technology .\n  ?technology pbn:has_TechGroup ?techGroup .\n}\nGROUP BY ?techGroup\nORDER BY DESC(?techCount)\nLIMIT 1\n```"
