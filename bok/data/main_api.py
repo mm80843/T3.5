@@ -21,7 +21,7 @@ class RequestAsk(BaseModel):
 
 @app.post("/ask/")
 async def ask(itemR: RequestAsk):
-    a, d = get_llm_response("What is UV-C ?",vectordb,temperature=itemR.temp,k=itemR.k)
+    a, d = get_llm_response(itemR.question,vectordb,temperature=itemR.temp,k=itemR.k,seed=itemR.seed)
     return {"answer":a, "refs":d}
 
 @app.get("/")

@@ -19,7 +19,7 @@ print(openai.__version__)
 embeddings = OpenAIEmbeddings()
 base_path = "./vectorDB/"
 vectordb = Chroma(persist_directory=base_path,embedding_function=embeddings)
-
+print()
 print("CHECK:",len(vectordb.get()["ids"]),"elements already stored.")
 
 
@@ -27,9 +27,9 @@ def create_agent_chain(llm):
     chain = load_qa_chain(llm, chain_type="stuff")
     return chain
 
-def get_llm_response(query,vectordb,temperature=0.1,k=10):
+def get_llm_response(query,vectordb,temperature=0.1,k=10,seed=""):
     F = datetime.datetime.now().strftime("%Y%m%d-%H%M%S")
-    Q = query+","+str(temperature)+","+str(k)
+    Q = query+","+str(temperature)+","+str(k)+str(seed)
     Q = hashlib.md5(Q.encode()).hexdigest()
     print(Q)
     FILE = "cache/"+Q+".md"
@@ -39,11 +39,10 @@ def get_llm_response(query,vectordb,temperature=0.1,k=10):
             answer = A.split("\n\n---\n\n>A:\n")[-1].strip()
             docs = A.split("\n\n---\n\n>A:\n")[-2].split("\n\n---\n\nD:\n")[-1].strip()
             docs = re.findall("\'article\': \'(.*?)\'}", docs, re.DOTALL)
-    else:
+    else:   
         llm = ChatOpenAI(
-            # models : https://platform.openai.com/docs/models
+            model="gpt-3.5-turbo-1106",
             temperature=temperature,
-            model="gpt-3.5-turbo-1106"
         )
         chain = create_agent_chain(llm)
         matching_docs = vectordb.similarity_search(query,k)

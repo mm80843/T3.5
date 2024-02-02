@@ -3,9 +3,17 @@
 * [ ] TODO
 * [x] DONE
 * [L] Later
+
+### 20240201
+
+* [x] Risk, Tech, Stakeholder (sub) groups descriptions based on BOK -- use property has_desc
+* [ ] Labels for classes (in the indexes)
+* [ ] Cleanup: if item starts with '*', remove the star
+* [x] Add note : property has_note
+
 ### 20240128
 
-* [ ] Reroute in KG articles with 'nan' to reroute to good articles like https://pbn-t3-5.streamlit.app/?category=Article&id=304
+* [x] Reroute in KG articles with 'nan' to reroute to good articles like https://pbn-t3-5.streamlit.app/?category=Article&id=304
 * [ ] ISO Mapping (scale impact purpose) for risks groups
 * [ ] ISO Mapping (scale impact purpose) for blueprints
 * [x] App links in same tab : `st.markdown('<a href="/?key=value" target="_self">View all</a>',unsafe_allow_html=True)`
