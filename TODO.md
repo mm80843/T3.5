@@ -10,6 +10,7 @@
 * [ ] Labels for classes (in the indexes)
 * [ ] Cleanup: if item starts with '*', remove the star
 * [x] Add note : property has_note
+* [ ] Export to TTL
 
 ### 20240128
 
