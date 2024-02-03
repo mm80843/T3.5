@@ -196,24 +196,42 @@
 
    ],
    "Risk": [
-      "has_RiskMitigation",
-      "has_Closest",
-      "has_BPLink",
-      "has_RiskISO_Impact",
-      "has_RiskSubject",
+      "# Overview",
       "has_RiskName",
+      "has_RiskDescription",
+      "has_RiskMitigation",
+      "## Risk details",
+      "has_RiskGroup",
+      "has_RiskSubgroup",
+
+      "### People",
+      "has_RiskSubject",
+      "has_RiskOwner",
+
+
+      "### ISO Mapping",
+      "has_RiskISOScale",
+      "has_RiskISO_Purpose",
+      "has_RiskISO_Impact",
+      "has_RiskCAOGroup",
+      "has_RiskCAOSubgroup",
+
+      "### Tech",
       "has_RiskTechnology",
       "label",
+      "### Sourced from",
       "has_RiskSource",
-      "has_RiskSubgroup",
-      "has_RiskGroup",
-      "has_RiskOwner",
-      "has_RiskDescription",
+
+
+      
       "has_RiskHealth",
-      "has_RiskISOScale",
+
       "has_Category",
+
+      "### Details",
       "has_RiskType",
-      "has_RiskISO_Purpose",
+      "has_Closest",
+      "has_BPLink",
       "has_RiskBP"
    ],
    "ISO_Scale": [
@@ -275,7 +293,7 @@
       "has_Impact_RiskISO"
    ],
    "StakeholderGroup": [
-
+      "has_Description",
       "# Risks",
       "has_StakeholderGroup_RiskGroup_Subject",
       "has_StakeholderGroup_RiskGroup_Owner",
@@ -290,17 +308,24 @@
 
    ],
    "StakeholderSubgroup": [
+      "has_Description",
+      "### Details",
       "has_StakeholderSubgroup_RiskGroup_Owner",
-      "has_StakeholderGroup_RiskSubgroup_Subject",
-      "has_StakeholderSubgroup_TechSubgroup",
-      "label",
       "has_StakeholderSubgroup_RiskSubgroup_Owner",
-      "has_StakeholderGroup_RiskSubgroup_Owner",
+      "### Tech",
       "has_StakeholderSubgroup_TechGroup",
-      "has_SubgroupStakeholder",
-      "has_StakeholderSubgroup_BPIntervention"
+      "has_StakeholderSubgroup_TechSubgroup",
+      "has_StakeholderSubgroup_BPIntervention",
+      "label",
+      "### People",
+      "has_StakeholderGroup_RiskSubgroup_Owner",
+      "has_StakeholderGroup_RiskSubgroup_Subject",
+      "### Detailed stakeholders",
+      "has_SubgroupStakeholder"
+      
    ],
    "TechGroup": [
+      "has_Description",
       "has_TechGroup_RiskSubgroup",
       "label",
       "has_TechGroup_StakeholderSubgroup",
@@ -310,6 +335,7 @@
       "has_TechGroup_RiskGroup"
    ],
    "TechSubgroup": [
+      "has_Description",
       "has_TechSubgroup_RiskSubgroup",
       "has_TechSubgroup_BPIntervention",
       "has_TechSubgroup_StakeholderGroup",
@@ -428,6 +454,7 @@
       "label"
    ],
    "RiskGroup":         [
+      "has_Description",
       "has_RiskGroup_BPIntervention",
       "label",
       "# Technology",
@@ -442,6 +469,7 @@
    ],
    "RiskSubgroup":      [ 
       "label",
+      "has_Description",
       "# People",
       "has_RiskSubgroup_SubjectGroup",
       "has_RiskSubgroup_SubjectSubgroup",
@@ -469,6 +497,7 @@
       "label"
    ],
    "aBlueprint":        [
+      "has_Description",
       "# Overview",
       "has_BlueprintSummary",
       "has_BlueprintDetails",
