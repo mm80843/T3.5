@@ -59,6 +59,9 @@ def createIndex(onto,K):
     else:
 
         BB = list(k.instances())
+        if len(BB) > 500:
+            BB = BB[:500]
+            print(str(k)+" : list too long for visualisation")
         BB = [x for x in BB if x.label]
         BB.sort(key=lambda x: x.label[0].lower())
         for i in BB: 
@@ -181,6 +184,7 @@ def createPage(onto,obj,uid,orderedJson):
                         #MD += "\n\n"+str(eval(OBJ))+"\n\n"
                         MD += "\n"
                         for strItem in OB:
+                            strItem = strItem.strip("* ").strip()
                             MD += "* "+strItem+"\n"
                         MD += "\n"
                     else:
@@ -219,7 +223,7 @@ def createMainIndex(onto):
             MM = str(k).split(".")[-1]
             if (not MM == "RiskMitigation") and (not MM == "PBNThing"):
                 #IDX += "* _["+MM+"]("+HOME+"?category="+MM+")_ "
-                IDX += "* <a href='"+HOME+"?category="+MM+"' target='_self'>"+MM+"</a>"
-                IDX += "-- "+str(len(k.instances()))+ " instances.\n"
+                IDX += "* <a href='"+HOME+"?category="+MM+"' target='_self'>"+getNameLabel(k)+"</a>"
+                IDX += " with "+str(len(k.instances()))+ " individuals.\n"
 
     return IDX
