@@ -12,21 +12,21 @@ README = """# Required
 
 st.set_page_config(layout="wide")
 
-st.sidebar.write("ST version: "+str(st.__version__))
-
+#st.sidebar.write("ST version: "+str(st.__version__))
+st.sidebar.write("### T3.5 Knowledge graph explorer")
 @st.cache_resource
 def readOnto():
 
     if not os.path.isfile("data/full.owl"):
         pathZip = "data/full.zip"
-        st.write("Creating the ontology")
+        #st.write("Creating the ontology")
         with ZipFile(pathZip) as myzip:
             print(myzip.namelist())
             m = myzip.extract(myzip.namelist()[0], path="data/")
         os.rename(m,"data/full.owl")
     onto = get_ontology("data/full.owl").load()
     
-    st.sidebar.write("Big Onto .. OK")
+    st.sidebar.write("Loading KG .. OK")
 
     with open("data/order.json", "r") as f:
         orderedJson = json.loads(f.read())
