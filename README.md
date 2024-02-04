@@ -58,7 +58,11 @@ This repository branch contains:
 * Helper tools to
   * [manage the knowledge graph](utils/rdfutils.py)
   * [work with LLMs](utils/llm.py)
+  * [simplified kgs](rdf/prod/pbn_t3_5_simple.owl) and focusing on [blueprints](rdf/prod/pbn_t3_5_BP.owl)
+  * [Ordering properties](rdf/support/order.json) when displaying
+  * [export of KGs in different formats](rdf/prod/_exports.ipynb), including rdf, ttl, nt.
 * Tools to [process data](bok/data/) from a body of knowledge
+  * ... and serve this body of knowledge to a [fastapi app](bok/data/main_api.py) used for [further work on the KG](rdf/work/work_on_0.4/0.AddDescriptions.ipynb).
 * A [technical note](documentation/article/T3_5.pdf) describing the work
 
 ##### App

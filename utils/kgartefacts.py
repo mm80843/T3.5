@@ -26,7 +26,12 @@ def createIndex(onto,K):
     k = eval("onto."+K)
     print(K)
     IDX = "[Source]("+HOME+")"
-    IDX += "\n\n# "+str(K)+" -- "+str(len(k.instances()))+ " instances.\n\n"
+    IDX += "\n\n# "+getNameLabel(k)+" -- with "+str(len(k.instances()))+ " individuals.\n\n"
+
+    if k.has_Note:
+        IDX += "\n\n__Note: "+k.has_Note[0]+"__\n\n"
+    if k.has_Description:
+        IDX += "\n\n__Description: "+k.has_Description[0]+"__\n\n"
     if "Subgroup" in K:
         subindex = dict()
         for w in list(k.instances()):

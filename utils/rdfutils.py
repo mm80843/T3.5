@@ -132,6 +132,9 @@ def createDict(onto,debug=False):
                 dIDct[CLASS][k.label[0].strip().capitalize()] = int(str(k).split(".")[-1].split("_")[-1])
             except:
                 dIDct[CLASS][str(k).strip().capitalize()] = int(str(k).split(".")[-1].split("_")[-1])
+        #Maxes
+        dIDct["maxes"] = {}
+        dIDct["maxes"][CLASS] = max([dIDct[CLASS][x] for x in dIDct[CLASS]])
     return dIDct
 
 
@@ -149,12 +152,12 @@ def addItem(itemClass, itemDescription, dIDct, onto ):
         OBJ.label = list(set(OBJ.label))
         return OBJ
     else:
+        # Option 1
         ID = len(dIDct[itemClass])
-        if 0:
-            if len(dIDct[itemClass]):
-                ID = max([dIDct[itemClass][x] for x in dIDct[itemClass]]) 
-            else:
-                ID = 0
+        # Option 2
+        dIDct["maxes"][itemClass] = dIDct["maxes"][itemClass]  + 1
+        ID = dIDct["maxes"][itemClass]  
+
         dIDct[itemClass][itemDescription] = ID
         EXP = "onto."+itemClass+'("PBN__'+itemClass+"_"+str(ID)+'")'
         OBJ = eval(EXP)

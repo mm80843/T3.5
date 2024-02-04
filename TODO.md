@@ -4,13 +4,24 @@
 * [x] DONE
 * [L] Later
 
+### 20240204
+
+* [ ] Add license
+* [x] Add descriptions to Interventions 
+* [x] New method to calculate IDs of objects
+* [ ] Add CAO items to subgroups (people, techs, risks, internvetions)
+* [ ] Use BOK for extracting more benefits from articles
+* [ ] Search app: 
+  * [ ] (Stakeholder, technology) -> Top 3 risks, interventions, benefits
+
 ### 20240201
 
 * [x] Risk, Tech, Stakeholder (sub) groups descriptions based on BOK -- use property has_desc
-* [ ] Labels for classes (in the indexes)
-* [ ] Cleanup: if item starts with '*', remove the star
+* [x] Labels for classes (in the indexes)
+* [x] Removing Nans or strings with only '------'
+* [x] Cleanup: if item starts with '*', remove the star
 * [x] Add note : property has_note
-* [ ] Export to TTL
+* [x] Export to TTL
 
 ### 20240128
 
@@ -32,12 +43,12 @@
 
 #### To check
 
-- [ ] Property not in order.json: has_StakeholderGroup_RiskGroup_Subject for StakeholderGroup (uid 3 )
-- [ ] Property not in order.json: has_StakeholderGroup_RiskGroup_Owner for StakeholderGroup (uid 3 )
-- [ ] Property not in order.json: has_StakeholderGroup_RiskSubgroup_Subject for StakeholderSubgroup (uid 3 )
-- [ ] Property not in order.json: has_StakeholderGroup_RiskSubgroup_Owner for StakeholderSubgroup (uid 3 )
+- [x] Property not in order.json: has_StakeholderGroup_RiskGroup_Subject for StakeholderGroup (uid 3 )
+- [x] Property not in order.json: has_StakeholderGroup_RiskGroup_Owner for StakeholderGroup (uid 3 )
+- [x] Property not in order.json: has_StakeholderGroup_RiskSubgroup_Subject for StakeholderSubgroup (uid 3 )
+- [x] Property not in order.json: has_StakeholderGroup_RiskSubgroup_Owner for StakeholderSubgroup (uid 3 )
 
-- [ ] Property without a label: has_TechGroup_StakeholderSubgroup for TechGroup (uid 3 )
+- [x] Property without a label: has_TechGroup_StakeholderSubgroup for TechGroup (uid 3 )
 
 - Stuff to categorize
   - Mitig -->
@@ -66,14 +77,14 @@
   * [x] Add mechanisms to parse papers (post grobid) - Risks
   * [x] Add papers to the KG based on DOIs obtained
   * [x] Add risks to the KG
-* [ ] Add simplification mechanisms (centrality of items?)
+* [x] Add simplification mechanisms (centrality of items?)
 * [x] Tools in a library
   * [x] KG."Simplify" --> KG -> KG
   * [x] KG."Modularize" --> KG -> (KG,KG)
   * [x] KG."Aggregate"  --> (KG,KG) -> KG
 * [x] Update the technical note on KG - updated.
-* [ ] Update graph of the technical note.
-* [ ] Do a new release
+* [x] Update graph of the technical note.
+* [x] Do a new release
 
 ### 20231217
 
