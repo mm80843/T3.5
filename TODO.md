@@ -1,4 +1,4 @@
-# TODOs
+# T3.5 Knwoledge Graph -- TODOs
 
 * [ ] TODO
 * [x] DONE
@@ -6,10 +6,11 @@
 
 ### 20240204
 
-* [ ] Add license
+* [x] Add license
 * [x] Add descriptions to Interventions 
 * [x] New method to calculate IDs of objects
-* [ ] Add CAO items to subgroups (people, techs, risks, internvetions)
+* [ ] Add CAO items to subgroups (people, techs, risks, internvetions) - see 20240128
+* [ ] Create Mitigation subgroups (Intervention -> _Subgroup_ -> Mitig)
 * [ ] Use BOK for extracting more benefits from articles
 * [ ] Search app: 
   * [ ] (Stakeholder, technology) -> Top 3 risks, interventions, benefits
