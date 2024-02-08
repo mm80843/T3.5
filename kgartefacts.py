@@ -44,8 +44,16 @@ def createIndex(onto,K):
                     subindex[GROUP] = []
                 subindex[GROUP].append(SUBGROUP)
             except:
-                print("Error with",k)
-                pass
+                if "CAO" in K:
+                    GROUP =  "w.has_SubcategoryCAORisk[0].has_RiskCAOGroup[0].name"
+                    GROUP = eval(GROUP)
+                    SUBGROUP = w.name
+                    if GROUP not in subindex.keys():
+                        subindex[GROUP] = []
+                    subindex[GROUP].append(SUBGROUP)         
+                else:          
+                    print("Error with",k)
+                    pass
         for GR in subindex.keys():
             G = str(GR)
             n = G.split("_")[-1]
@@ -136,8 +144,8 @@ def createPage(onto,obj,uid,orderedJson):
                         MD += "\n"
                     else:
                         print("->",OB)
-                        A = [x.get_name() if (type(x) != str) else str(x) for x in OB ]
-                        B = [x.label[0] if (type(x) != str) else str(x) for x in OB ]
+                        A = [x.get_name() if (type(x) != str) else str(x) for x in OB ][:500]
+                        B = [x.label[0] if (type(x) != str) else str(x) for x in OB ][:500]
                         #B = [x.label[0] for x in OB]
                         #B.sort(key=lambda x: getNameLabel(x))
                         C = zip(A, B)
