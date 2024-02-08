@@ -6,12 +6,15 @@
 
 ### 20240204
 
+* [ ] Manual: link BP to KG through groups
+* [x] Intervention et parentheses to remove / update old ones
+* [x] Update ISO for Risks and Mitigations
 * [x] Add license
 * [x] Add descriptions to Interventions 
 * [x] New method to calculate IDs of objects
-* [ ] Add CAO items to subgroups (people, techs, risks, internvetions) - see 20240128
-* [ ] Create Mitigation subgroups (Intervention -> _Subgroup_ -> Mitig)
-* [ ] Use BOK for extracting more benefits from articles
+* [x] Add CAO items to subgroups (people, techs, risks, internvetions) - see 20240128
+* [L] Create Mitigation subgroups (Intervention -> _Subgroup_ -> Mitig)
+* [L] Use BOK for extracting more benefits from articles
 * [ ] Search app: 
   * [ ] (Stakeholder, technology) -> Top 3 risks, interventions, benefits
 

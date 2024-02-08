@@ -122,6 +122,7 @@ def checkComments(onto):
 
 def createDict(onto,debug=False):
     dIDct = {}
+    dIDct["maxes"] = {}
     for C in onto.classes():
         CLASS = str(C).split(".")[-1]
         if debug:
@@ -133,8 +134,11 @@ def createDict(onto,debug=False):
             except:
                 dIDct[CLASS][str(k).strip().capitalize()] = int(str(k).split(".")[-1].split("_")[-1])
         #Maxes
-        dIDct["maxes"] = {}
-        dIDct["maxes"][CLASS] = max([dIDct[CLASS][x] for x in dIDct[CLASS]])
+        try:
+            dIDct["maxes"][CLASS] = max([dIDct[CLASS][x] for x in dIDct[CLASS]])
+        except:
+            print("error with the maxes")
+            dIDct["maxes"][CLASS] = 0
     return dIDct
 
 
@@ -160,6 +164,7 @@ def addItem(itemClass, itemDescription, dIDct, onto ):
 
         dIDct[itemClass][itemDescription] = ID
         EXP = "onto."+itemClass+'("PBN__'+itemClass+"_"+str(ID)+'")'
+        print(EXP)
         OBJ = eval(EXP)
         eval("OBJ.label.append('"+itemDescription.replace("'","’")+"')")
         NAM = list(set(OBJ.label))
