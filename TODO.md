@@ -30,8 +30,8 @@
 ### 20240128
 
 * [x] Reroute in KG articles with 'nan' to reroute to good articles like https://pbn-t3-5.streamlit.app/?category=Article&id=304
-* [ ] ISO Mapping (scale impact purpose) for risks groups
-* [ ] ISO Mapping (scale impact purpose) for blueprints
+* [L] ISO Mapping (scale impact purpose) for risks groups
+* [L] ISO Mapping (scale impact purpose) for blueprints
 * [x] App links in same tab : `st.markdown('<a href="/?key=value" target="_self">View all</a>',unsafe_allow_html=True)`
 
 ### 20240122

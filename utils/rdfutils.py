@@ -137,7 +137,7 @@ def createDict(onto,debug=False):
         try:
             dIDct["maxes"][CLASS] = max([dIDct[CLASS][x] for x in dIDct[CLASS]])
         except:
-            print("error with the maxes")
+            print("error with the maxes",CLASS)
             dIDct["maxes"][CLASS] = 0
     return dIDct
 

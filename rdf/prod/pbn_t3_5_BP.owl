@@ -8,20 +8,15 @@
 
 <owl:Ontology rdf:about="https://github.com/mm80843/T3.5/raw/main/pbn_t3_5.owl">
   <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Description: Creation of a knowledge graph based on a litterature review, augmented by use of LLMs.</rdfs:comment>
-  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Version: 0.4</rdfs:comment>
-  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Library: owlready2==0.45</rdfs:comment>
-  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Changes from: 0.3</rdfs:comment>
-  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Next: Check formulas for selecting most repeated items in groups</rdfs:comment>
-  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Creation: 22/01/2024</rdfs:comment>
   <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TODOs: Adding synonyms and solving classification with synonyms</rdfs:comment>
-  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VersionComment: Grouping of items added in 0.4</rdfs:comment>
-  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Project: PROBONO</rdfs:comment>
-  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Next: Linking benefits to mitigations groups</rdfs:comment>
-  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">License: CC BY-NC-SA</rdfs:comment>
   <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Task: T3.5</rdfs:comment>
-  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Repository: https://github.com/mm80843/T3.5/</rdfs:comment>
   <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Author: Luc Jonveaux</rdfs:comment>
   <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Language: English</rdfs:comment>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Version: 0.5</rdfs:comment>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Changes from: 0.4</rdfs:comment>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Update blueprints and connect to groups</rdfs:comment>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VersionComment: Major cleanup and classification</rdfs:comment>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Creation: 15/02/2024</rdfs:comment>
   <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">limited to blueprints</rdfs:comment>
 </owl:Ontology>
 
@@ -154,11 +149,13 @@
 </owl:ObjectProperty>
 
 <owl:ObjectProperty rdf:about="#has_Impact_RiskISO">
+  <rdfs:domain rdf:resource="#ISO_Impact"/>
   <owl:inverseOf rdf:resource="#has_RiskISO_Impact"/>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Risks with this impact</rdfs:label>
 </owl:ObjectProperty>
 
 <owl:ObjectProperty rdf:about="#has_RiskISO_Impact">
+  <rdfs:range rdf:resource="#ISO_Impact"/>
   <owl:inverseOf rdf:resource="#has_Impact_RiskISO"/>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Type of impact of the risk (according to ISO37100)</rdfs:label>
 </owl:ObjectProperty>
@@ -745,6 +742,31 @@
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Interventions that can be covered in this article</rdfs:label>
 </owl:ObjectProperty>
 
+<owl:ObjectProperty rdf:about="#has_ISOIssue">
+  <rdfs:domain rdf:resource="#PBNThing"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ISO 37100 classification of issues</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_ISOPurpose">
+  <rdfs:domain rdf:resource="#PBNThing"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ISO 37100 classification of purpose</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_ISOScale">
+  <rdfs:domain rdf:resource="#PBNThing"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ISO 37100 classification of scale</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_CAOGroup">
+  <rdfs:domain rdf:resource="#PBNThing"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">City anatomy layer that can be covered</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#has_CAOSubgroup">
+  <rdfs:domain rdf:resource="#PBNThing"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">City anatomy sublayer that can be covered</rdfs:label>
+</owl:ObjectProperty>
+
 <owl:DatatypeProperty rdf:about="#has_BenefDetails">
   <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Name of the Benefit</rdfs:label>
@@ -851,6 +873,7 @@
 <owl:DatatypeProperty rdf:about="#has_BP_InterventionTitle">
   <rdfs:domain rdf:resource="#BP_Intervention"/>
   <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Intervention title</rdfs:label>
 </owl:DatatypeProperty>
 
 <owl:DatatypeProperty rdf:about="#has_BP_InterventionKey">
@@ -906,48 +929,69 @@
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Author note</rdfs:label>
 </owl:DatatypeProperty>
 
+<owl:DatatypeProperty rdf:about="#has_ISOJustif">
+  <rdfs:domain rdf:resource="#PBNThing"/>
+  <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ISO 37100 justification of category</rdfs:label>
+</owl:DatatypeProperty>
+
 <owl:Class rdf:about="#PBNThing">
   <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
 </owl:Class>
 
+<owl:Class rdf:about="#ISO_Impact">
+  <rdfs:subClassOf rdf:resource="#PBNThing"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Impact in the ISO37100 (GBN) reference system</rdfs:label>
+</owl:Class>
+
 <owl:Class rdf:about="#BP_Enabler">
   <rdfs:subClassOf rdf:resource="#PBNThing"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Blueprint: enabler</rdfs:label>
 </owl:Class>
 
 <owl:Class rdf:about="#BP_Transmission">
   <rdfs:subClassOf rdf:resource="#PBNThing"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Blueprint: transmission mode</rdfs:label>
 </owl:Class>
 
 <owl:Class rdf:about="#Blueprint">
   <rdfs:subClassOf rdf:resource="#PBNThing"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Blueprint</rdfs:label>
 </owl:Class>
 
 <owl:Class rdf:about="#BP_Scale">
   <rdfs:subClassOf rdf:resource="#PBNThing"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Blueprint: scale</rdfs:label>
 </owl:Class>
 
 <owl:Class rdf:about="#BP_Phase">
   <rdfs:subClassOf rdf:resource="#PBNThing"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Blueprint: phase</rdfs:label>
 </owl:Class>
 
 <owl:Class rdf:about="#BP_Permanent">
   <rdfs:subClassOf rdf:resource="#PBNThing"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Blueprint: is it permanent?</rdfs:label>
 </owl:Class>
 
 <owl:Class rdf:about="#BP_Type">
   <rdfs:subClassOf rdf:resource="#PBNThing"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Blueprint: Type</rdfs:label>
 </owl:Class>
 
 <owl:Class rdf:about="#BP_Intervention">
   <rdfs:subClassOf rdf:resource="#PBNThing"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Blueprint: intervention family</rdfs:label>
 </owl:Class>
 
 <owl:Class rdf:about="#BP_Theme">
   <rdfs:subClassOf rdf:resource="#PBNThing"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Blueprint: Theme</rdfs:label>
 </owl:Class>
 
 <owl:Class rdf:about="#BP_Category">
   <rdfs:subClassOf rdf:resource="#PBNThing"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Blueprint: Category</rdfs:label>
 </owl:Class>
 
 <BP_Enabler rdf:about="#PBN__BP_Enabler_24">
@@ -1046,14 +1090,6 @@
   <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW2</has_BP_InterventionKey>
 </BP_Intervention>
 
-<BP_Intervention rdf:about="#PBN__BP_Intervention_21">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Personal hygiene (eg handwashing)</has_BP_InterventionTitle>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Personal hygiene (eg handwashing)</rdfs:label>
-  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HU2</has_BP_InterventionKey>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Personal hygiene eg handwashing</rdfs:label>
-</BP_Intervention>
-
 <BP_Intervention rdf:about="#PBN__BP_Intervention_23">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ensure use of personal protection equipment</rdfs:label>
@@ -1106,7 +1142,10 @@
 
 <BP_Intervention rdf:about="#PBN__BP_Intervention_40">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <has_InterventionBP rdf:resource="#PBN__Blueprint_0"/>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Shift controls occupancy control of total users</rdfs:label>
+  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HJ3</has_BP_InterventionKey>
+  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Shift controls (occupancy control of total users)</has_BP_InterventionTitle>
 </BP_Intervention>
 
 <BP_Intervention rdf:about="#PBN__BP_Intervention_5">
@@ -1118,12 +1157,21 @@
 
 <BP_Intervention rdf:about="#PBN__BP_Intervention_43">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <has_InterventionBP rdf:resource="#PBN__Blueprint_14"/>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Personal hygiene eg handwashing</rdfs:label>
+  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HU2</has_BP_InterventionKey>
+  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Personal hygiene (eg handwashing)</has_BP_InterventionTitle>
 </BP_Intervention>
 
 <BP_Intervention rdf:about="#PBN__BP_Intervention_42">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <has_InterventionBP rdf:resource="#PBN__Blueprint_0"/>
+  <has_InterventionBP rdf:resource="#PBN__Blueprint_4"/>
+  <has_InterventionBP rdf:resource="#PBN__Blueprint_6"/>
+  <has_InterventionBP rdf:resource="#PBN__Blueprint_7"/>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Occupancy control eg separating at/risk contaminated population</rdfs:label>
+  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HJ2</has_BP_InterventionKey>
+  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Occupancy control (eg separating at/risk contaminated population)</has_BP_InterventionTitle>
 </BP_Intervention>
 
 <BP_Intervention rdf:about="#PBN__BP_Intervention_39">
@@ -1150,6 +1198,8 @@
 <BP_Intervention rdf:about="#PBN__BP_Intervention_41">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cleaning technologies robots</rdfs:label>
+  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PS1</has_BP_InterventionKey>
+  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cleaning technologies (robots)</has_BP_InterventionTitle>
 </BP_Intervention>
 
 <BP_Intervention rdf:about="#PBN__BP_Intervention_2">
@@ -1162,6 +1212,8 @@
 <BP_Intervention rdf:about="#PBN__BP_Intervention_45">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Control of airflows airtight / negative pressure</rdfs:label>
+  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PA8</has_BP_InterventionKey>
+  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Control of airflows (airtight / negative pressure)</has_BP_InterventionTitle>
 </BP_Intervention>
 
 <BP_Intervention rdf:about="#PBN__BP_Intervention_34">
@@ -1564,17 +1616,201 @@
   <has_BP_EnablerTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">enabler_031</has_BP_EnablerTitle>
 </BP_Enabler>
 
-<BP_Intervention rdf:about="#PBN__BP_Intervention_7">
+<Blueprint rdf:about="#PBN__Blueprint_0">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Control of airflows (airtight / negative pressure)</has_BP_InterventionTitle>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Control of airflows (airtight / negative pressure)</rdfs:label>
-  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PA8</has_BP_InterventionKey>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Control of airflows airtight / negative pressure</rdfs:label>
-</BP_Intervention>
+  <has_BPTransmission rdf:resource="#PBN__BP_Transmission_0"/>
+  <has_BPTransmission rdf:resource="#PBN__BP_Transmission_1"/>
+  <has_BPTransmission rdf:resource="#PBN__BP_Transmission_2"/>
+  <has_BPScale rdf:resource="#PBN__BP_Scale_0"/>
+  <has_BPPhase rdf:resource="#PBN__BP_Phase_0"/>
+  <has_BPPermanent rdf:resource="#PBN__BP_Permanent_0"/>
+  <has_BPType rdf:resource="#PBN__BP_Type_0"/>
+  <has_BPIntervention rdf:resource="#PBN__BP_Intervention_34"/>
+  <has_BPIntervention rdf:resource="#PBN__BP_Intervention_31"/>
+  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_23"/>
+  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_2"/>
+  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_16"/>
+  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_19"/>
+  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_5"/>
+  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_4"/>
+  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_32"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rotating shift schedule</rdfs:label>
+  <has_BPTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PBN:BP_1</has_BPTitle>
+  <has_BPDescription rdf:datatype="http://www.w3.org/2001/XMLSchema#string">During the COVID-19 pandemic, large organisations, as well as many educational public institutions, explored the potential to reduce disease transmission by dividing their staff (and students)and users into smaller groups that take turns using and servicing physical space in enclosed and high-traffic areas. The main idea is to introduce a rotating shift schedule in high occupancy areas, focusing on managing staff presence through shifts rather than the potential users of the services provided. Workers Staff should remain with the same shift group to reduce social mixing between groups of staff.</has_BPDescription>
+  <has_BPReason rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Limiting the occupancy of enclosed spaces allows for better social distancing. In addition, rotating the workforcerotation of staff prevents the transmission of diseases between the majority of staff, thus maintaining the final quality of service and bringing providing more flexibility to clients.  </has_BPReason>
+  <has_BPContext rdf:datatype="http://www.w3.org/2001/XMLSchema#string">This measure should be used applied in enclosed and busy areas such as offices (during working hours) or large retail outlets during morning and evening rush hours and at weekends. For this measure to work, greater flexibility is envisaged on the part of the main actors - the workers - who should be willing to accept the restriction of their access.</has_BPContext>
+  <has_BPProblem rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Reduced possibility of disease transmission due to less crowded areas, less social mixing between staff groups, and reduced disruption of services due to unavailable labour.</has_BPProblem>
+  <has_BPValueProposition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IThe implementation of this measure will allow control over occupancy, while maintaining the quality of services and productivity at the usual level and providing flexibility to the end users of these services.</has_BPValueProposition>
+  <has_BPCapabilities rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The good functioning of the rotational shift system is based on three main pillars:
+• a shift booking system that assigns workers to specific groups depending onaccording to  the specific epidemiological situation
+• education of users through information campaigns about the logic of this measure 
+• a robust testing and shift coverage plan for a quick response time in case of infection in one of the groups</has_BPCapabilities>
+  <has_BPRestriction rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A number of limitations and constraints were identified for this specific measure:
+•	 non-acceptance by users 
+•	 change of behavioural patterns
+•	 risk of duplication of resources - inefficiencies in the organisation could result in higher costs to end users to mitigate financial impact
+•	 better planning needed, including testing for users
+•	 misinformation
+•	 slow response time
+•	 number of users</has_BPRestriction>
+  <has_BPDemonstrated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://doi.org/10.1371/journal.pcbi.1009264</has_BPDemonstrated>
+</Blueprint>
+
+<Blueprint rdf:about="#PBN__Blueprint_14">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <has_BPTransmission rdf:resource="#PBN__BP_Transmission_2"/>
+  <has_BPTransmission rdf:resource="#PBN__BP_Transmission_3"/>
+  <has_BPScale rdf:resource="#PBN__BP_Scale_0"/>
+  <has_BPPhase rdf:resource="#PBN__BP_Phase_0"/>
+  <has_BPPermanent rdf:resource="#PBN__BP_Permanent_2"/>
+  <has_BPType rdf:resource="#PBN__BP_Type_0"/>
+  <has_BPIntervention rdf:resource="#PBN__BP_Intervention_22"/>
+  <has_BPIntervention rdf:resource="#PBN__BP_Intervention_38"/>
+  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_17"/>
+  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_7"/>
+  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_19"/>
+  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_20"/>
+  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_31"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Good hand hygiene practice</rdfs:label>
+  <has_BPTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PBN:BP_15</has_BPTitle>
+  <has_BPDescription rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A high level of hand hygiene is a well-known and proven measure to prevent the transmission of diseases. It was and is a widely used strategy to reduce the spread of COVID-19. This blueprint serves as a reminder of this measure to ensure that all building occupants adhere to the basic requirement of good hand hygiene to reduce the transmission of disease between building occupants. Discipline in hand hygiene can be increased or maintained through a variety of measures, focusing either on practical measures that provide access to hand washing or disinfecting products, or on information that reminds or guides occupants to use the measures. This measure includes development of specific hand hygiene policies and active training of the users of the buildings on the good hand hygiene practice. </has_BPDescription>
+  <has_BPReason rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Good hand hygiene has long been fundamental to patient safety in hospitals and in healthcare in general. By consistently washing and disinfecting our hands, we prevent the spread of infections through hand contact.</has_BPReason>
+  <has_BPContext rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hand sanitizers should be available at all key points in the building. This could be at the entrances to the building/premises/populated space, at the entrances and exits of stairwells, in canteen areas, at high use areas such as coffee and vending machines, etc Information and instructions for users, e.g. signs at toilets indicating good hand hygiene, reminders to use hand sanitizers at strategic locations, etc.</has_BPContext>
+  <has_BPProblem rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The aim of this design is to reduce the transmission of diseases through direct hand-to-hand contact between users or the transmission of diseases through surfaces (fomites).</has_BPProblem>
+  <has_BPValueProposition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Implementing measures to ensure high hand hygiene is a low-tech measure to reduce infection risks. These measures are easy to implement and easy to withdraw, which gives them a short response time and high flexibility, also with regard to later relocation in the building.
+Implementation and operating costs are relatively low compared to more technically complex and comprehensive measures.</has_BPValueProposition>
+  <has_BPCapabilities rdf:datatype="http://www.w3.org/2001/XMLSchema#string">For effective implementation of this measure, it is important to assess the primary user group(s) of the building and the impact of their characteristics on the measures to be implemented.  For example, the measures in a kindergarten would be very different from those on a university campus.  Therefore, it is important to assess this so that the information and active measures are targeted to the current user group to achieve the greatest impact 
+Hand hygiene can be monitored directly through user observation or self-reporting, or indirectly by monitoring the consumption of disinfectants (soap and hand sanitizer).</has_BPCapabilities>
+  <has_BPRestriction rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Changing user behaviour can be challenging, but once a positive behaviour is established, it is easier to maintain. During the COVID-19 pandemic, shortages of hand sanitizers occurred regularly due to rapidly increasing demand. In addition, frequent use of soap or hand sanitizers may cause dry and irritated skin.</has_BPRestriction>
+  <has_BPDemonstrated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The practice was were widely demonstrated through the COVID-19 pandemic.</has_BPDemonstrated>
+</Blueprint>
+
+<Blueprint rdf:about="#PBN__Blueprint_4">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <has_BPTransmission rdf:resource="#PBN__BP_Transmission_0"/>
+  <has_BPTransmission rdf:resource="#PBN__BP_Transmission_1"/>
+  <has_BPTransmission rdf:resource="#PBN__BP_Transmission_2"/>
+  <has_BPScale rdf:resource="#PBN__BP_Scale_1"/>
+  <has_BPPhase rdf:resource="#PBN__BP_Phase_0"/>
+  <has_BPPermanent rdf:resource="#PBN__BP_Permanent_0"/>
+  <has_BPType rdf:resource="#PBN__BP_Type_0"/>
+  <has_BPIntervention rdf:resource="#PBN__BP_Intervention_17"/>
+  <has_BPIntervention rdf:resource="#PBN__BP_Intervention_20"/>
+  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_16"/>
+  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_2"/>
+  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_0"/>
+  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_19"/>
+  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_5"/>
+  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_8"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Managing user flows in building and infrastructure</rdfs:label>
+  <has_BPTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PBN:BP_5</has_BPTitle>
+  <has_BPDescription rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The transmission of most contagious diseases involves a variety of aspects, the number of people encountered and how it happens while walking or running being one of them. In this sense, it is well known that appropriate user traffic control measures can drastically reduce the number of encounters and thus the contribution of person-to-person contagion to the spread of disease in a pandemic scenario. One-way pedestrian control is a straightforward and effective measure that can be applied both indoors and outdoors and is suitable for the planning phase of public spaces as well as for daily operations. It essentially consists of assigning fixed entry and exit nodes in public places, and predefined routes between them as a means of regulating how people circulate.</has_BPDescription>
+  <has_BPReason rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Person-to-person transmission is one of the main ways diseases spread. Therefore, in a pandemic scenario, better management of highly populated public places is needed to control propagation factors: ensuring minimum indoor air quality, ensuring safe and comfortable occupancy, and minimising the possibility of person-to-person contact.</has_BPReason>
+  <has_BPContext rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Measures to encourage one-way user flows should be considered at the design stage where possible, although they are also appropriate for existing places. The main points where this measure should be applied are entrances and exits from public places and corridors. One-way mobility should be implemented taking into account the design of strategic routes so that people's (customers') freedom of movement is ensured, at least to some extent, and the provision of public services is not affected.</has_BPContext>
+  <has_BPProblem rdf:datatype="http://www.w3.org/2001/XMLSchema#string">This blueprint offers an easy-to-implement measure to organise the flow of people in public places (indoors and outdoors), reduce social mixing and avoid overcrowding. Staff can be trained to ensure the success of this measure.</has_BPProblem>
+  <has_BPValueProposition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">One-way pedestrian regulation is a measure that allows you to better control how people move around, thus controlling congestion and minimising unexpected encounters. It can also be applied in the planning phase as well as in operation and is cost-effective. This measure is particularly suitable for pandemic outbreaks where immediate and effective action needs to be taken. </has_BPValueProposition>
+  <has_BPCapabilities rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DESIGN PHASE: Mobility models for operators and customers can be a useful tool for predicting people flows. If possible, larger corridors that allow traffic in both directions are preferred. 
+OPERATION PHASE: Information on one-way paths implemented (large informative screens, markings on the ground, maps with zoning criteria) is crucial. Intelligent entrances and exits (e.g. doors that only open when people are moving in the right direction) or badge controls are efficient measures to avoid unwanted flows of people in closed areas such as buildings;</has_BPCapabilities>
+  <has_BPRestriction rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A number of limitations and constraints were identified for this specific measure:
+•	 there is still a considerable risk of transmission as concentration of people might still occur
+•	 it might be difficult to implement in small area
+•	 non-acceptance by users 
+•	 problematic during forced evacuations, e.g., in the event of a fire or power outage
+•	 customers lose time due to non-optimal routes
+•	 increases travel distance
+•	 generates confusion among users
+•	 increases difficulty in evacuating the building in an emergency situation</has_BPRestriction>
+  <has_BPDemonstrated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sonae’s Campus (Porto)</has_BPDemonstrated>
+</Blueprint>
+
+<Blueprint rdf:about="#PBN__Blueprint_6">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <has_BPTransmission rdf:resource="#PBN__BP_Transmission_0"/>
+  <has_BPTransmission rdf:resource="#PBN__BP_Transmission_1"/>
+  <has_BPScale rdf:resource="#PBN__BP_Scale_1"/>
+  <has_BPPhase rdf:resource="#PBN__BP_Phase_1"/>
+  <has_BPPermanent rdf:resource="#PBN__BP_Permanent_2"/>
+  <has_BPType rdf:resource="#PBN__BP_Type_1"/>
+  <has_BPType rdf:resource="#PBN__BP_Type_0"/>
+  <has_BPIntervention rdf:resource="#PBN__BP_Intervention_17"/>
+  <has_BPIntervention rdf:resource="#PBN__BP_Intervention_20"/>
+  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_16"/>
+  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_2"/>
+  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_0"/>
+  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_19"/>
+  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_5"/>
+  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_8"/>
+  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_10"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Controls at key checkpoints</rdfs:label>
+  <has_BPTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PBN:BP_7</has_BPTitle>
+  <has_BPDescription rdf:datatype="http://www.w3.org/2001/XMLSchema#string">This aims at establishing checkpoints at high-traffic locations or key nodes in either buildings or GBNs to restrict further access. Checkpoints aim to monitor relevant parameters related either to the space, such as indoor air quality or occupancy rates, or to the personal health of users (body temperature, display of test results, registration of personal presence, etc.). Based on the results, user access can be restricted or prohibited to ensure either satisfactory occupancy levels, or user compliance with health protection measures, and users can be notified of new developments when in the building.</has_BPDescription>
+  <has_BPReason rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The blueprints aims at facilitating the management of inhabited places, both in terms of occupancy and maintaining a high level of health among users. The measure reduces the risk of contagion among workers and possibly lead to greater client confidence.</has_BPReason>
+  <has_BPContext rdf:datatype="http://www.w3.org/2001/XMLSchema#string">This measure can be integrated into the early design phase of a new building, as well as applied in an existing building or area, if conditions permit, when there is a potential risk of epidemics. The measure should be applied in high traffic areas where key nodes lead to access to further areas, so that checkpoints can be established to potentially restrict access by users.</has_BPContext>
+  <has_BPProblem rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Restricting access based on occupancy rates and personal health measures would allow for better social distance and possibly reduce the density of infection in the building to prevent different types of virus transmission. User registration and notification in the event of a local outbreak could help prevent the spread of the virus.</has_BPProblem>
+  <has_BPValueProposition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The people who are in the building are healthy and comply with the health protection measures taken. Indoor air quality is always adequate to prevent the transmission of viruses. Occupancy can be limited to satisfactory levels, if necessary, to allow social distances and reduce the risk of transmission.</has_BPValueProposition>
+  <has_BPCapabilities rdf:datatype="http://www.w3.org/2001/XMLSchema#string">It would be important to analyse and identify the main points of interest for the establishment of one or more control points. In addition, the parameters to be monitored would need to be carefully selected to ensure that monitoring and subsequent measures such as access restrictions are relevant to the situation and adapted to the current nature of the transmission hazard:
+•	 sensors at entry and exit points
+•	 personnel at entry and exit points.
+•	 temperature sensing of the user</has_BPCapabilities>
+  <has_BPRestriction rdf:datatype="http://www.w3.org/2001/XMLSchema#string">There are various limitations to this measure:
+•	  implementing and operating one or more control points would be expensive 
+•	 user-related checks (such as body temperature, registration, etc.) could be time-consuming and potentially cause bottlenecks. This could also lead to fewer users or customers, lower user satisfaction or hinder the desired social distancing.
+•	 tests false positives 
+•	 non-acceptance of increased personal monitoring by the user, for example for privacy considerations reasons
+• high operation costs</has_BPRestriction>
+  <has_BPDemonstrated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Checkpoint at the entrance of common buildings</has_BPDemonstrated>
+</Blueprint>
+
+<Blueprint rdf:about="#PBN__Blueprint_7">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <has_BPTransmission rdf:resource="#PBN__BP_Transmission_0"/>
+  <has_BPTransmission rdf:resource="#PBN__BP_Transmission_1"/>
+  <has_BPTransmission rdf:resource="#PBN__BP_Transmission_2"/>
+  <has_BPScale rdf:resource="#PBN__BP_Scale_0"/>
+  <has_BPPhase rdf:resource="#PBN__BP_Phase_1"/>
+  <has_BPPhase rdf:resource="#PBN__BP_Phase_0"/>
+  <has_BPPermanent rdf:resource="#PBN__BP_Permanent_0"/>
+  <has_BPType rdf:resource="#PBN__BP_Type_1"/>
+  <has_BPType rdf:resource="#PBN__BP_Type_0"/>
+  <has_BPIntervention rdf:resource="#PBN__BP_Intervention_17"/>
+  <has_BPIntervention rdf:resource="#PBN__BP_Intervention_20"/>
+  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_16"/>
+  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_2"/>
+  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_0"/>
+  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_19"/>
+  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_5"/>
+  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_8"/>
+  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_13"/>
+  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_12"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Access control, limitation, or lockdown</rdfs:label>
+  <has_BPTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PBN:BP_8</has_BPTitle>
+  <has_BPDescription rdf:datatype="http://www.w3.org/2001/XMLSchema#string">One of the most drastic measures to prevent the spread of COVID -19 during the spike periods was to restrict access to certain buildings or prevent it altogether. During the peak of the lockdowns, many employers closed their buildings and asked their employees to work from home if possible. With the partial normalisation of the situation (decline in case numbers, vaccination coverage and milder variants), these restrictions became less severe and targeted specific groups (vulnerable or symptomatic individuals), types of buildings (hospitals and prisons) or specific spaces within buildings (non-essential, high-visibility areas). These restrictions have been imposed at national, regional and organisational levels. In addition, this measure also provides for restrictions based on occupancy density.</has_BPDescription>
+  <has_BPReason rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Controlling access is one of the most important points in limiting the spread of a virus limiting the number of human interactions.</has_BPReason>
+  <has_BPContext rdf:datatype="http://www.w3.org/2001/XMLSchema#string">As mentioned above, the context varies depending on the severity of the actual pandemic situation, as different interpretations and levels of action may be applied. It has been shown that during the largest outbreaks, most non-essential activities were carried out from home, resulting in lower transmission rates.</has_BPContext>
+  <has_BPProblem rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The measure limits the contact between individuals and avoids overcrowding if limitations are localised. </has_BPProblem>
+  <has_BPValueProposition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">By imposing stricter social-distancing rules, individuals are less likely to be infected, and even more so those who are particularly vulnerable. The ability to send employees home will also ensure business continuity.</has_BPValueProposition>
+  <has_BPCapabilities rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thanks to technology and the DT, the possibilities for controlling access and the flow of people can be greatly improved. Various solutions are conceivable 
+•	 checkpoints for access limitation
+•	 sensors to monitor occupancy
+•	 teleworking 
+•	 appointment scheduling system</has_BPCapabilities>
+  <has_BPRestriction rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Various adverse cost are linked to this measure: 
+•	 restricting access is above all depriving individuals of freedom of movement. 
+•	 legislative issues due to the restriction of free movement  
+•	 essential services cannot be limited and therefore those employed within those sectors face much bigger danger
+•	 emergencies can be complicated to manage: unforeseen situations that require immediate attention
+•	 alternative solutions need to be found in order to keep business-as-usual
+•	 potentially high cost of operating infrastructure to restrict access
+•	 lower levels of work morale due to the introduction of remote working
+•	 increased surveillance could lead to social consequences</has_BPRestriction>
+  <has_BPDemonstrated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Access limitation was experienced during the COVID-19 pandemic</has_BPDemonstrated>
+</Blueprint>
 
 <BP_Intervention rdf:about="#PBN__BP_Intervention_44">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Separate water facilities toilets/bathrooms for contaminated</rdfs:label>
+  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW3</has_BP_InterventionKey>
+  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Separate water facilities (toilets/bathrooms for contaminated)</has_BP_InterventionTitle>
 </BP_Intervention>
 
 <BP_Enabler rdf:about="#PBN__BP_Enabler_26">
@@ -1783,37 +2019,65 @@
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Disease diagnostic test kits</rdfs:label>
 </BP_Enabler>
 
-<BP_Intervention rdf:about="#PBN__BP_Intervention_19">
+<BP_Transmission rdf:about="#PBN__BP_Transmission_0">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Shift controls (occupancy control of total users)</has_BP_InterventionTitle>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Shift controls (occupancy control of total users)</rdfs:label>
-  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HJ3</has_BP_InterventionKey>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Shift controls occupancy control of total users</rdfs:label>
-</BP_Intervention>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Airborne</rdfs:label>
+</BP_Transmission>
 
-<BP_Intervention rdf:about="#PBN__BP_Intervention_10">
+<BP_Transmission rdf:about="#PBN__BP_Transmission_1">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Separate water facilities (toilets/bathrooms for contaminated)</has_BP_InterventionTitle>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Separate water facilities (toilets/bathrooms for contaminated)</rdfs:label>
-  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW3</has_BP_InterventionKey>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Separate water facilities toilets/bathrooms for contaminated</rdfs:label>
-</BP_Intervention>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Respiratory</rdfs:label>
+</BP_Transmission>
 
-<BP_Intervention rdf:about="#PBN__BP_Intervention_12">
+<BP_Transmission rdf:about="#PBN__BP_Transmission_2">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cleaning technologies (robots)</has_BP_InterventionTitle>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cleaning technologies (robots)</rdfs:label>
-  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PS1</has_BP_InterventionKey>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cleaning technologies robots</rdfs:label>
-</BP_Intervention>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Direct contact</rdfs:label>
+</BP_Transmission>
 
-<BP_Intervention rdf:about="#PBN__BP_Intervention_18">
+<BP_Scale rdf:about="#PBN__BP_Scale_0">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <has_BP_InterventionTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Occupancy control (eg separating at/risk contaminated population)</has_BP_InterventionTitle>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Occupancy control (eg separating at/risk contaminated population)</rdfs:label>
-  <has_BP_InterventionKey rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HJ2</has_BP_InterventionKey>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Occupancy control eg separating at/risk contaminated population</rdfs:label>
-</BP_Intervention>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Building</rdfs:label>
+</BP_Scale>
+
+<BP_Phase rdf:about="#PBN__BP_Phase_0">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Operational</rdfs:label>
+</BP_Phase>
+
+<BP_Permanent rdf:about="#PBN__BP_Permanent_0">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Temporary</rdfs:label>
+</BP_Permanent>
+
+<BP_Type rdf:about="#PBN__BP_Type_0">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Behavioural</rdfs:label>
+</BP_Type>
+
+<BP_Transmission rdf:about="#PBN__BP_Transmission_3">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fomite</rdfs:label>
+</BP_Transmission>
+
+<BP_Permanent rdf:about="#PBN__BP_Permanent_2">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Permanent &amp; temporary</rdfs:label>
+</BP_Permanent>
+
+<BP_Scale rdf:about="#PBN__BP_Scale_1">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Both</rdfs:label>
+</BP_Scale>
+
+<BP_Phase rdf:about="#PBN__BP_Phase_1">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Design</rdfs:label>
+</BP_Phase>
+
+<BP_Type rdf:about="#PBN__BP_Type_1">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Technical</rdfs:label>
+</BP_Type>
 
 <BP_Theme rdf:about="#PBN__BP_Theme_5">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
@@ -1851,10 +2115,10 @@
   <has_BP_ThemeTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">theme_User_journey</has_BP_ThemeTitle>
 </BP_Theme>
 
-<BP_Theme rdf:about="#PBN__BP_Theme_0">
+<BP_Theme rdf:about="#PBN__BP_Theme_7">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Air quality</rdfs:label>
-  <has_BP_ThemeTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">theme_Air_Quality</has_BP_ThemeTitle>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Propagation monitoring</rdfs:label>
+  <has_BP_ThemeTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">theme_Propagation_monitoring</has_BP_ThemeTitle>
 </BP_Theme>
 
 <BP_Theme rdf:about="#PBN__BP_Theme_2">
@@ -1869,10 +2133,10 @@
   <has_BP_ThemeTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">theme_Water_Quality</has_BP_ThemeTitle>
 </BP_Theme>
 
-<BP_Theme rdf:about="#PBN__BP_Theme_7">
+<BP_Theme rdf:about="#PBN__BP_Theme_0">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Propagation monitoring</rdfs:label>
-  <has_BP_ThemeTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">theme_Propagation_monitoring</has_BP_ThemeTitle>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Air quality</rdfs:label>
+  <has_BP_ThemeTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">theme_Air_Quality</has_BP_ThemeTitle>
 </BP_Theme>
 
 <BP_Category rdf:about="#PBN__BP_Category_0">
@@ -1892,83 +2156,6 @@
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Manage</rdfs:label>
   <has_BP_CategoryTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Manage</has_BP_CategoryTitle>
 </BP_Category>
-
-<Blueprint rdf:about="#PBN__Blueprint_0">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <has_BPTransmission rdf:resource="#PBN__BP_Transmission_0"/>
-  <has_BPTransmission rdf:resource="#PBN__BP_Transmission_1"/>
-  <has_BPTransmission rdf:resource="#PBN__BP_Transmission_2"/>
-  <has_BPScale rdf:resource="#PBN__BP_Scale_0"/>
-  <has_BPPhase rdf:resource="#PBN__BP_Phase_0"/>
-  <has_BPPermanent rdf:resource="#PBN__BP_Permanent_0"/>
-  <has_BPType rdf:resource="#PBN__BP_Type_0"/>
-  <has_BPIntervention rdf:resource="#PBN__BP_Intervention_19"/>
-  <has_BPIntervention rdf:resource="#PBN__BP_Intervention_18"/>
-  <has_BPIntervention rdf:resource="#PBN__BP_Intervention_34"/>
-  <has_BPIntervention rdf:resource="#PBN__BP_Intervention_31"/>
-  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_23"/>
-  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_2"/>
-  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_16"/>
-  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_19"/>
-  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_5"/>
-  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_4"/>
-  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_32"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rotating shift schedule</rdfs:label>
-  <has_BPTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PBN:BP_1</has_BPTitle>
-  <has_BPDescription rdf:datatype="http://www.w3.org/2001/XMLSchema#string">During the COVID-19 pandemic, large organisations, as well as many educational public institutions, explored the potential to reduce disease transmission by dividing their staff (and students)and users into smaller groups that take turns using and servicing physical space in enclosed and high-traffic areas. The main idea is to introduce a rotating shift schedule in high occupancy areas, focusing on managing staff presence through shifts rather than the potential users of the services provided. Workers Staff should remain with the same shift group to reduce social mixing between groups of staff.</has_BPDescription>
-  <has_BPReason rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Limiting the occupancy of enclosed spaces allows for better social distancing. In addition, rotating the workforcerotation of staff prevents the transmission of diseases between the majority of staff, thus maintaining the final quality of service and bringing providing more flexibility to clients.  </has_BPReason>
-  <has_BPContext rdf:datatype="http://www.w3.org/2001/XMLSchema#string">This measure should be used applied in enclosed and busy areas such as offices (during working hours) or large retail outlets during morning and evening rush hours and at weekends. For this measure to work, greater flexibility is envisaged on the part of the main actors - the workers - who should be willing to accept the restriction of their access.</has_BPContext>
-  <has_BPProblem rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Reduced possibility of disease transmission due to less crowded areas, less social mixing between staff groups, and reduced disruption of services due to unavailable labour.</has_BPProblem>
-  <has_BPValueProposition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IThe implementation of this measure will allow control over occupancy, while maintaining the quality of services and productivity at the usual level and providing flexibility to the end users of these services.</has_BPValueProposition>
-  <has_BPCapabilities rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The good functioning of the rotational shift system is based on three main pillars:
-• a shift booking system that assigns workers to specific groups depending onaccording to  the specific epidemiological situation
-• education of users through information campaigns about the logic of this measure 
-• a robust testing and shift coverage plan for a quick response time in case of infection in one of the groups</has_BPCapabilities>
-  <has_BPRestriction rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A number of limitations and constraints were identified for this specific measure:
-•	 non-acceptance by users 
-•	 change of behavioural patterns
-•	 risk of duplication of resources - inefficiencies in the organisation could result in higher costs to end users to mitigate financial impact
-•	 better planning needed, including testing for users
-•	 misinformation
-•	 slow response time
-•	 number of users</has_BPRestriction>
-  <has_BPDemonstrated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://doi.org/10.1371/journal.pcbi.1009264</has_BPDemonstrated>
-</Blueprint>
-
-<BP_Transmission rdf:about="#PBN__BP_Transmission_0">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Airborne</rdfs:label>
-</BP_Transmission>
-
-<BP_Transmission rdf:about="#PBN__BP_Transmission_1">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Respiratory</rdfs:label>
-</BP_Transmission>
-
-<BP_Transmission rdf:about="#PBN__BP_Transmission_2">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Direct contact</rdfs:label>
-</BP_Transmission>
-
-<BP_Scale rdf:about="#PBN__BP_Scale_0">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Building</rdfs:label>
-</BP_Scale>
-
-<BP_Phase rdf:about="#PBN__BP_Phase_0">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Operational</rdfs:label>
-</BP_Phase>
-
-<BP_Permanent rdf:about="#PBN__BP_Permanent_0">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Temporary</rdfs:label>
-</BP_Permanent>
-
-<BP_Type rdf:about="#PBN__BP_Type_0">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Behavioural</rdfs:label>
-</BP_Type>
 
 <Blueprint rdf:about="#PBN__Blueprint_1">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
@@ -2011,20 +2198,10 @@
   <has_BPDemonstrated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://smiota.com/resources/the-impact-of-smart-parcel-lockers-on-campus-pre-and-post-covid-19/</has_BPDemonstrated>
 </Blueprint>
 
-<BP_Transmission rdf:about="#PBN__BP_Transmission_3">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fomite</rdfs:label>
-</BP_Transmission>
-
 <BP_Permanent rdf:about="#PBN__BP_Permanent_1">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Permanent</rdfs:label>
 </BP_Permanent>
-
-<BP_Type rdf:about="#PBN__BP_Type_1">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Technical</rdfs:label>
-</BP_Type>
 
 <Blueprint rdf:about="#PBN__Blueprint_2">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
@@ -2059,11 +2236,6 @@
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">All</rdfs:label>
 </BP_Transmission>
-
-<BP_Phase rdf:about="#PBN__BP_Phase_1">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Design</rdfs:label>
-</BP_Phase>
 
 <Blueprint rdf:about="#PBN__Blueprint_3">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
@@ -2107,50 +2279,6 @@ In this scenario, the application of IoT in this type of system enables the coll
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Construction</rdfs:label>
 </BP_Phase>
 
-<Blueprint rdf:about="#PBN__Blueprint_4">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <has_BPTransmission rdf:resource="#PBN__BP_Transmission_0"/>
-  <has_BPTransmission rdf:resource="#PBN__BP_Transmission_1"/>
-  <has_BPTransmission rdf:resource="#PBN__BP_Transmission_2"/>
-  <has_BPScale rdf:resource="#PBN__BP_Scale_1"/>
-  <has_BPPhase rdf:resource="#PBN__BP_Phase_0"/>
-  <has_BPPermanent rdf:resource="#PBN__BP_Permanent_0"/>
-  <has_BPType rdf:resource="#PBN__BP_Type_0"/>
-  <has_BPIntervention rdf:resource="#PBN__BP_Intervention_17"/>
-  <has_BPIntervention rdf:resource="#PBN__BP_Intervention_18"/>
-  <has_BPIntervention rdf:resource="#PBN__BP_Intervention_20"/>
-  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_16"/>
-  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_2"/>
-  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_0"/>
-  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_19"/>
-  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_5"/>
-  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_8"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Managing user flows in building and infrastructure</rdfs:label>
-  <has_BPTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PBN:BP_5</has_BPTitle>
-  <has_BPDescription rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The transmission of most contagious diseases involves a variety of aspects, the number of people encountered and how it happens while walking or running being one of them. In this sense, it is well known that appropriate user traffic control measures can drastically reduce the number of encounters and thus the contribution of person-to-person contagion to the spread of disease in a pandemic scenario. One-way pedestrian control is a straightforward and effective measure that can be applied both indoors and outdoors and is suitable for the planning phase of public spaces as well as for daily operations. It essentially consists of assigning fixed entry and exit nodes in public places, and predefined routes between them as a means of regulating how people circulate.</has_BPDescription>
-  <has_BPReason rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Person-to-person transmission is one of the main ways diseases spread. Therefore, in a pandemic scenario, better management of highly populated public places is needed to control propagation factors: ensuring minimum indoor air quality, ensuring safe and comfortable occupancy, and minimising the possibility of person-to-person contact.</has_BPReason>
-  <has_BPContext rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Measures to encourage one-way user flows should be considered at the design stage where possible, although they are also appropriate for existing places. The main points where this measure should be applied are entrances and exits from public places and corridors. One-way mobility should be implemented taking into account the design of strategic routes so that people's (customers') freedom of movement is ensured, at least to some extent, and the provision of public services is not affected.</has_BPContext>
-  <has_BPProblem rdf:datatype="http://www.w3.org/2001/XMLSchema#string">This blueprint offers an easy-to-implement measure to organise the flow of people in public places (indoors and outdoors), reduce social mixing and avoid overcrowding. Staff can be trained to ensure the success of this measure.</has_BPProblem>
-  <has_BPValueProposition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">One-way pedestrian regulation is a measure that allows you to better control how people move around, thus controlling congestion and minimising unexpected encounters. It can also be applied in the planning phase as well as in operation and is cost-effective. This measure is particularly suitable for pandemic outbreaks where immediate and effective action needs to be taken. </has_BPValueProposition>
-  <has_BPCapabilities rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DESIGN PHASE: Mobility models for operators and customers can be a useful tool for predicting people flows. If possible, larger corridors that allow traffic in both directions are preferred. 
-OPERATION PHASE: Information on one-way paths implemented (large informative screens, markings on the ground, maps with zoning criteria) is crucial. Intelligent entrances and exits (e.g. doors that only open when people are moving in the right direction) or badge controls are efficient measures to avoid unwanted flows of people in closed areas such as buildings;</has_BPCapabilities>
-  <has_BPRestriction rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A number of limitations and constraints were identified for this specific measure:
-•	 there is still a considerable risk of transmission as concentration of people might still occur
-•	 it might be difficult to implement in small area
-•	 non-acceptance by users 
-•	 problematic during forced evacuations, e.g., in the event of a fire or power outage
-•	 customers lose time due to non-optimal routes
-•	 increases travel distance
-•	 generates confusion among users
-•	 increases difficulty in evacuating the building in an emergency situation</has_BPRestriction>
-  <has_BPDemonstrated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sonae’s Campus (Porto)</has_BPDemonstrated>
-</Blueprint>
-
-<BP_Scale rdf:about="#PBN__BP_Scale_1">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Both</rdfs:label>
-</BP_Scale>
-
 <Blueprint rdf:about="#PBN__Blueprint_5">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
   <has_BPTransmission rdf:resource="#PBN__BP_Transmission_3"/>
@@ -2177,96 +2305,6 @@ The effectiveness of these coatings is still questioned by both scientist and us
   <has_BPDemonstrated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kansai airport (Japan)
 
 (Airport 2021)</has_BPDemonstrated>
-</Blueprint>
-
-<Blueprint rdf:about="#PBN__Blueprint_6">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <has_BPTransmission rdf:resource="#PBN__BP_Transmission_0"/>
-  <has_BPTransmission rdf:resource="#PBN__BP_Transmission_1"/>
-  <has_BPScale rdf:resource="#PBN__BP_Scale_1"/>
-  <has_BPPhase rdf:resource="#PBN__BP_Phase_1"/>
-  <has_BPPermanent rdf:resource="#PBN__BP_Permanent_2"/>
-  <has_BPType rdf:resource="#PBN__BP_Type_1"/>
-  <has_BPType rdf:resource="#PBN__BP_Type_0"/>
-  <has_BPIntervention rdf:resource="#PBN__BP_Intervention_17"/>
-  <has_BPIntervention rdf:resource="#PBN__BP_Intervention_18"/>
-  <has_BPIntervention rdf:resource="#PBN__BP_Intervention_20"/>
-  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_16"/>
-  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_2"/>
-  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_0"/>
-  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_19"/>
-  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_5"/>
-  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_8"/>
-  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_10"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Controls at key checkpoints</rdfs:label>
-  <has_BPTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PBN:BP_7</has_BPTitle>
-  <has_BPDescription rdf:datatype="http://www.w3.org/2001/XMLSchema#string">This aims at establishing checkpoints at high-traffic locations or key nodes in either buildings or GBNs to restrict further access. Checkpoints aim to monitor relevant parameters related either to the space, such as indoor air quality or occupancy rates, or to the personal health of users (body temperature, display of test results, registration of personal presence, etc.). Based on the results, user access can be restricted or prohibited to ensure either satisfactory occupancy levels, or user compliance with health protection measures, and users can be notified of new developments when in the building.</has_BPDescription>
-  <has_BPReason rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The blueprints aims at facilitating the management of inhabited places, both in terms of occupancy and maintaining a high level of health among users. The measure reduces the risk of contagion among workers and possibly lead to greater client confidence.</has_BPReason>
-  <has_BPContext rdf:datatype="http://www.w3.org/2001/XMLSchema#string">This measure can be integrated into the early design phase of a new building, as well as applied in an existing building or area, if conditions permit, when there is a potential risk of epidemics. The measure should be applied in high traffic areas where key nodes lead to access to further areas, so that checkpoints can be established to potentially restrict access by users.</has_BPContext>
-  <has_BPProblem rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Restricting access based on occupancy rates and personal health measures would allow for better social distance and possibly reduce the density of infection in the building to prevent different types of virus transmission. User registration and notification in the event of a local outbreak could help prevent the spread of the virus.</has_BPProblem>
-  <has_BPValueProposition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The people who are in the building are healthy and comply with the health protection measures taken. Indoor air quality is always adequate to prevent the transmission of viruses. Occupancy can be limited to satisfactory levels, if necessary, to allow social distances and reduce the risk of transmission.</has_BPValueProposition>
-  <has_BPCapabilities rdf:datatype="http://www.w3.org/2001/XMLSchema#string">It would be important to analyse and identify the main points of interest for the establishment of one or more control points. In addition, the parameters to be monitored would need to be carefully selected to ensure that monitoring and subsequent measures such as access restrictions are relevant to the situation and adapted to the current nature of the transmission hazard:
-•	 sensors at entry and exit points
-•	 personnel at entry and exit points.
-•	 temperature sensing of the user</has_BPCapabilities>
-  <has_BPRestriction rdf:datatype="http://www.w3.org/2001/XMLSchema#string">There are various limitations to this measure:
-•	  implementing and operating one or more control points would be expensive 
-•	 user-related checks (such as body temperature, registration, etc.) could be time-consuming and potentially cause bottlenecks. This could also lead to fewer users or customers, lower user satisfaction or hinder the desired social distancing.
-•	 tests false positives 
-•	 non-acceptance of increased personal monitoring by the user, for example for privacy considerations reasons
-• high operation costs</has_BPRestriction>
-  <has_BPDemonstrated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Checkpoint at the entrance of common buildings</has_BPDemonstrated>
-</Blueprint>
-
-<BP_Permanent rdf:about="#PBN__BP_Permanent_2">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Permanent &amp; temporary</rdfs:label>
-</BP_Permanent>
-
-<Blueprint rdf:about="#PBN__Blueprint_7">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <has_BPTransmission rdf:resource="#PBN__BP_Transmission_0"/>
-  <has_BPTransmission rdf:resource="#PBN__BP_Transmission_1"/>
-  <has_BPTransmission rdf:resource="#PBN__BP_Transmission_2"/>
-  <has_BPScale rdf:resource="#PBN__BP_Scale_0"/>
-  <has_BPPhase rdf:resource="#PBN__BP_Phase_1"/>
-  <has_BPPhase rdf:resource="#PBN__BP_Phase_0"/>
-  <has_BPPermanent rdf:resource="#PBN__BP_Permanent_0"/>
-  <has_BPType rdf:resource="#PBN__BP_Type_1"/>
-  <has_BPType rdf:resource="#PBN__BP_Type_0"/>
-  <has_BPIntervention rdf:resource="#PBN__BP_Intervention_18"/>
-  <has_BPIntervention rdf:resource="#PBN__BP_Intervention_17"/>
-  <has_BPIntervention rdf:resource="#PBN__BP_Intervention_20"/>
-  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_16"/>
-  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_2"/>
-  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_0"/>
-  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_19"/>
-  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_5"/>
-  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_8"/>
-  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_13"/>
-  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_12"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Access control, limitation, or lockdown</rdfs:label>
-  <has_BPTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PBN:BP_8</has_BPTitle>
-  <has_BPDescription rdf:datatype="http://www.w3.org/2001/XMLSchema#string">One of the most drastic measures to prevent the spread of COVID -19 during the spike periods was to restrict access to certain buildings or prevent it altogether. During the peak of the lockdowns, many employers closed their buildings and asked their employees to work from home if possible. With the partial normalisation of the situation (decline in case numbers, vaccination coverage and milder variants), these restrictions became less severe and targeted specific groups (vulnerable or symptomatic individuals), types of buildings (hospitals and prisons) or specific spaces within buildings (non-essential, high-visibility areas). These restrictions have been imposed at national, regional and organisational levels. In addition, this measure also provides for restrictions based on occupancy density.</has_BPDescription>
-  <has_BPReason rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Controlling access is one of the most important points in limiting the spread of a virus limiting the number of human interactions.</has_BPReason>
-  <has_BPContext rdf:datatype="http://www.w3.org/2001/XMLSchema#string">As mentioned above, the context varies depending on the severity of the actual pandemic situation, as different interpretations and levels of action may be applied. It has been shown that during the largest outbreaks, most non-essential activities were carried out from home, resulting in lower transmission rates.</has_BPContext>
-  <has_BPProblem rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The measure limits the contact between individuals and avoids overcrowding if limitations are localised. </has_BPProblem>
-  <has_BPValueProposition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">By imposing stricter social-distancing rules, individuals are less likely to be infected, and even more so those who are particularly vulnerable. The ability to send employees home will also ensure business continuity.</has_BPValueProposition>
-  <has_BPCapabilities rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thanks to technology and the DT, the possibilities for controlling access and the flow of people can be greatly improved. Various solutions are conceivable 
-•	 checkpoints for access limitation
-•	 sensors to monitor occupancy
-•	 teleworking 
-•	 appointment scheduling system</has_BPCapabilities>
-  <has_BPRestriction rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Various adverse cost are linked to this measure: 
-•	 restricting access is above all depriving individuals of freedom of movement. 
-•	 legislative issues due to the restriction of free movement  
-•	 essential services cannot be limited and therefore those employed within those sectors face much bigger danger
-•	 emergencies can be complicated to manage: unforeseen situations that require immediate attention
-•	 alternative solutions need to be found in order to keep business-as-usual
-•	 potentially high cost of operating infrastructure to restrict access
-•	 lower levels of work morale due to the introduction of remote working
-•	 increased surveillance could lead to social consequences</has_BPRestriction>
-  <has_BPDemonstrated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Access limitation was experienced during the COVID-19 pandemic</has_BPDemonstrated>
 </Blueprint>
 
 <Blueprint rdf:about="#PBN__Blueprint_8">
@@ -2484,36 +2522,6 @@ UV-C irradiation is very flexible and depends on the strategy for controlling mi
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
   <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Only to used when needed</rdfs:label>
 </BP_Permanent>
-
-<Blueprint rdf:about="#PBN__Blueprint_14">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <has_BPTransmission rdf:resource="#PBN__BP_Transmission_2"/>
-  <has_BPTransmission rdf:resource="#PBN__BP_Transmission_3"/>
-  <has_BPScale rdf:resource="#PBN__BP_Scale_0"/>
-  <has_BPPhase rdf:resource="#PBN__BP_Phase_0"/>
-  <has_BPPermanent rdf:resource="#PBN__BP_Permanent_2"/>
-  <has_BPType rdf:resource="#PBN__BP_Type_0"/>
-  <has_BPIntervention rdf:resource="#PBN__BP_Intervention_21"/>
-  <has_BPIntervention rdf:resource="#PBN__BP_Intervention_22"/>
-  <has_BPIntervention rdf:resource="#PBN__BP_Intervention_38"/>
-  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_17"/>
-  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_7"/>
-  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_19"/>
-  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_20"/>
-  <has_BPEnabler rdf:resource="#PBN__BP_Enabler_31"/>
-  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Good hand hygiene practice</rdfs:label>
-  <has_BPTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PBN:BP_15</has_BPTitle>
-  <has_BPDescription rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A high level of hand hygiene is a well-known and proven measure to prevent the transmission of diseases. It was and is a widely used strategy to reduce the spread of COVID-19. This blueprint serves as a reminder of this measure to ensure that all building occupants adhere to the basic requirement of good hand hygiene to reduce the transmission of disease between building occupants. Discipline in hand hygiene can be increased or maintained through a variety of measures, focusing either on practical measures that provide access to hand washing or disinfecting products, or on information that reminds or guides occupants to use the measures. This measure includes development of specific hand hygiene policies and active training of the users of the buildings on the good hand hygiene practice. </has_BPDescription>
-  <has_BPReason rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Good hand hygiene has long been fundamental to patient safety in hospitals and in healthcare in general. By consistently washing and disinfecting our hands, we prevent the spread of infections through hand contact.</has_BPReason>
-  <has_BPContext rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hand sanitizers should be available at all key points in the building. This could be at the entrances to the building/premises/populated space, at the entrances and exits of stairwells, in canteen areas, at high use areas such as coffee and vending machines, etc Information and instructions for users, e.g. signs at toilets indicating good hand hygiene, reminders to use hand sanitizers at strategic locations, etc.</has_BPContext>
-  <has_BPProblem rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The aim of this design is to reduce the transmission of diseases through direct hand-to-hand contact between users or the transmission of diseases through surfaces (fomites).</has_BPProblem>
-  <has_BPValueProposition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Implementing measures to ensure high hand hygiene is a low-tech measure to reduce infection risks. These measures are easy to implement and easy to withdraw, which gives them a short response time and high flexibility, also with regard to later relocation in the building.
-Implementation and operating costs are relatively low compared to more technically complex and comprehensive measures.</has_BPValueProposition>
-  <has_BPCapabilities rdf:datatype="http://www.w3.org/2001/XMLSchema#string">For effective implementation of this measure, it is important to assess the primary user group(s) of the building and the impact of their characteristics on the measures to be implemented.  For example, the measures in a kindergarten would be very different from those on a university campus.  Therefore, it is important to assess this so that the information and active measures are targeted to the current user group to achieve the greatest impact 
-Hand hygiene can be monitored directly through user observation or self-reporting, or indirectly by monitoring the consumption of disinfectants (soap and hand sanitizer).</has_BPCapabilities>
-  <has_BPRestriction rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Changing user behaviour can be challenging, but once a positive behaviour is established, it is easier to maintain. During the COVID-19 pandemic, shortages of hand sanitizers occurred regularly due to rapidly increasing demand. In addition, frequent use of soap or hand sanitizers may cause dry and irritated skin.</has_BPRestriction>
-  <has_BPDemonstrated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The practice was were widely demonstrated through the COVID-19 pandemic.</has_BPDemonstrated>
-</Blueprint>
 
 <Blueprint rdf:about="#PBN__Blueprint_15">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
