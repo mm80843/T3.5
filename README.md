@@ -98,3 +98,5 @@ We encourage all readers to consult with qualified health professionals for expe
 
 * Environment is defined in the requirements.txt
 * Using python 3.10.2 (TBC)
+
+Copyright 2022-2024 LJ
