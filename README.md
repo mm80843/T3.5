@@ -62,7 +62,7 @@ This repository branch contains:
   * [Ordering properties](rdf/support/order.json) when displaying
   * [export of KGs in different formats](rdf/prod/_exports.ipynb), including rdf, ttl, nt.
 * Tools to [process data](bok/data/) from a body of knowledge
-  * ... and serve this body of knowledge to a [fastapi app](bok/data/main_api.py) used for [further work on the KG](rdf/work/work_on_0.4/0.AddDescriptions.ipynb).
+  * ... and serve this body of knowledge to a [fastapi app](bok/data/main_api.py) used for [further work on the KG](rdf/work/work_on_0.4/00.AddDescriptions.ipynb).
 * A [technical note](documentation/article/T3_5.pdf) describing the work
 
 ##### App
