@@ -1,12 +1,11 @@
 from fastapi import FastAPI
 import os
 from pydantic import BaseModel
-from chat import *
+from chat import get_llm_response, vectordb
 
 
 app = FastAPI()
-is_prod = os.environ.get('IS_HEROKU', None) 
-
+is_prod = os.environ.get("IS_HEROKU", None)
 
 
 class RequestAsk(BaseModel):
@@ -21,10 +20,17 @@ class RequestAsk(BaseModel):
 
 @app.post("/ask/")
 async def ask(itemR: RequestAsk):
-    a, d = get_llm_response(itemR.question,vectordb,temperature=itemR.temp,k=itemR.k,seed=itemR.seed)
-    return {"answer":a, "refs":d}
+    a, d = get_llm_response(
+        itemR.question, vectordb, temperature=itemR.temp,
+        k=itemR.k, seed=itemR.seed
+    )
+    return {"answer": a, "refs": d}
+
 
 @app.get("/")
 async def root():
-    return {"message": "Hello World","is_prod":is_prod,"TestSecret":os.environ.get('CACHE')}
-
+    return {
+        "message": "Hello World",
+        "is_prod": is_prod,
+        "TestSecret": os.environ.get("CACHE"),
+    }

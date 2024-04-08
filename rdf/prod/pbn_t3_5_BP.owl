@@ -9,19 +9,19 @@
 <owl:Ontology rdf:about="https://github.com/mm80843/T3.5/raw/main/pbn_t3_5.owl">
   <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Description: Creation of a knowledge graph based on a litterature review, augmented by use of LLMs.</rdfs:comment>
   <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Library: owlready2==0.45</rdfs:comment>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Next: Check formulas for selecting most repeated items in groups</rdfs:comment>
   <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TODOs: Adding synonyms and solving classification with synonyms</rdfs:comment>
   <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Project: PROBONO</rdfs:comment>
-  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Next: Linking benefits to mitigations groups</rdfs:comment>
   <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Task: T3.5</rdfs:comment>
   <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Repository: https://github.com/mm80843/T3.5/</rdfs:comment>
   <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Author: Luc Jonveaux</rdfs:comment>
   <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Language: English</rdfs:comment>
-  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Adding CAO, ISO maps, cleanups, new labels for classes, descriptions for interventions, ...</rdfs:comment>
   <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Version: 0.5</rdfs:comment>
   <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Changes from: 0.4</rdfs:comment>
-  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Update blueprints and connect to groups</rdfs:comment>
-  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Creation: 15/02/2024</rdfs:comment>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Changes: Update/add of blueprints, adding main groups</rdfs:comment>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Creation: 08/04/2024</rdfs:comment>
   <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VersionComment: Major cleanup and classification</rdfs:comment>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Next: To be determine</rdfs:comment>
   <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">limited to blueprints</rdfs:comment>
 </owl:Ontology>
 

@@ -1,16 +1,20 @@
-import os, openai, re
-import datetime, hashlib
-
+import os
+import openai
+import re
+import datetime
+import hashlib
+import warnings
 from langchain.embeddings import OpenAIEmbeddings
 from langchain.chains.question_answering import load_qa_chain
 from langchain.chat_models import ChatOpenAI
 from langchain.vectorstores import Chroma
-
 from dotenv import load_dotenv
+
+warnings.filterwarnings('ignore')
+
 load_dotenv()
 
-import warnings
-warnings.filterwarnings('ignore')
+
 
 print(openai.__version__)
 
