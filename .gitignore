@@ -2,6 +2,7 @@ __pycache__
 app/
 .ipynb_checkpoints
 .env
+.cache/
 .venv
 venv
 docs/
