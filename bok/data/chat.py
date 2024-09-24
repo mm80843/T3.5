@@ -31,13 +31,13 @@ def create_agent_chain(llm):
     chain = load_qa_chain(llm, chain_type="stuff")
     return chain
 
-def get_llm_response(query,vectordb,temperature=0.1,k=10,seed=""):
+def get_llm_response(query,vectordb,temperature=0.1,k=10,seed="", ow=False):
     F = datetime.datetime.now().strftime("%Y%m%d-%H%M%S")
     Q = query+","+str(temperature)+","+str(k)+str(seed)
     Q = hashlib.md5(Q.encode()).hexdigest()
     print(Q)
     FILE = "cache/"+Q+".md"
-    if os.path.isfile(FILE):
+    if os.path.isfile(FILE) and not ow:
         with open(FILE,"r") as f:
             A =f.read()
             answer = A.split("\n\n---\n\n>A:\n")[-1].strip()

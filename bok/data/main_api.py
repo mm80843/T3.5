@@ -10,7 +10,7 @@ is_prod = os.environ.get("IS_HEROKU", None)
 
 class RequestAsk(BaseModel):
     question: str = "What is UV-C ?"
-    model: str = "gpt-3.5-turbo-1106"
+    model: str = "gpt-4o-mini"
     temp: float = 0.1
     k: int = 10
     overwrite: bool = False
@@ -22,7 +22,7 @@ class RequestAsk(BaseModel):
 async def ask(itemR: RequestAsk):
     a, d = get_llm_response(
         itemR.question, vectordb, temperature=itemR.temp,
-        k=itemR.k, seed=itemR.seed
+        k=itemR.k, seed=itemR.seed, ow = itemR.overwrite
     )
     return {"answer": a, "refs": d}
 
